@@ -1,0 +1,10 @@
+#action {%0 tells your group %1} {#leader #showme <149>GROUP MESSAGE FROM %0: %1}
+#action {%0 tells you %1} {#leader #showme <149>PRIVATE MESSAGE FROM %0: %1}
+#action {%0 tells your clan %1} {#leader #showme <149>CLAN MESSAGE FROM %0: %1}
+#action {%0 shouts %1} {#leader #showme <149>SHOUT FROM %0: %1}
+#action {%0 yells %1} {#leader #showme <149>YELL FROM %0: %1}
+#action {%0 says %1} {#leader #showme <149>SAY FROM %0: %1}
+
+#action {You receive %0 experience} {#leader #showme <149>FOLLOWER GAINED XP: %0}
+#action {You gain a level} {#leader #showme <149>FOLLOWER GAINED A LEVEL}
+#action {You gain a rank} {#leader #showme <149>FOLLOWER GAINED A RANK}

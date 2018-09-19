@@ -1,0 +1,13 @@
+#alias poi {env $main;env $offhand}
+
+#variable main javelin
+#variable offhand inky
+
+#alias uu {fade up}
+#alias dd {fade down}
+#alias nn {fade north}
+#alias ee {fade east}
+#alias ww {fade west}
+#alias ss {fade south}
+
+#alias ff {fade;hide}
