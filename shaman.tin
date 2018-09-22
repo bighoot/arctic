@@ -1,0 +1,13 @@
+#highlight {A spirit rises from the body %0} {magenta}
+#highlight {%0 briefly reveals a red aura!} {cyan}
+
+#alias {sg} {cast 'spir guid'}
+#alias {glow} {cast 'spec glow'}
+
+#alias {ab} {cast 'an bl' %0}
+#alias {as} {cast 'an sh' %0}
+
+#alias {cl} {cast 'cure light' %0}
+#alias {cs} {cast 'cure ser' %0}
+
+#alias {bli} {cast 'blind' %0}
