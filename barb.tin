@@ -1,9 +1,7 @@
-#alias {loot} {get all %0.corpse; carve %0.corpse} 
-
 #highlight {Gore! GOre! GORE!} {cyan}
 #highlight {You settle down.} {cyan}
-
 #highlight {You are ready to sharpen once again.} {cyan}
 
-#alias {recover} {rest;bandage me;sharpen dagger;mend dagger;recuperate;lore dagger;get bowl chest;eat bowl;put all.bowl chest;drink all.water}
-#alias {fight} {get all.bottle chest;sip all.bottle;put all.bottle chest;kill %0;healdance;gore;charge}
+#alias {loot} {get all %0.corpse; carve %0.corpse} 
+#alias {recover} {rest;recuperate;bandage me;sharpen dagger;mend dagger;lore dagger;eat meat;drink all.water}
+#alias {fight} {get all.bottle chest;sip all.bottle;put all.bottle chest;kill %0;healdance;battle;charge;gore}

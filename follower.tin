@@ -8,3 +8,7 @@
 #action {You receive %0 experience} {#leader #showme <149>FOLLOWER GAINED XP: %0}
 #action {You raise a level} {#leader #showme <149>FOLLOWER GAINED A LEVEL}
 #action {You gain a rank} {#leader #showme <149>FOLLOWER GAINED A RANK}
+
+#action {You should probably stand up} {#leader #showme <119>-->TANK IS SITTING<--}
+#action {You settle down} {#leader #showme <119>-->DANCE IS OVER<--}
+#action {builds but quickly subsides} {#leader #showme <119>-->DANCE FAILED<--}
