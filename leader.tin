@@ -1,2 +1,4 @@
 #alias b {#follower %0}
 
+#macro {`} {b cancel;b stand;b rescue maui}
+

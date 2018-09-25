@@ -12,3 +12,7 @@
 #alias {cc} {cast 'cure crit' %0}
 
 #alias {bli} {cast 'blind' %0}
+
+#alias {sl} {cast 'soul leech' %0}
+
+#alias {oas} {order all.spirit %0}

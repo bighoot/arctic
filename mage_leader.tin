@@ -1,4 +1,4 @@
 #read ./arctic/leader.tin
 #read ./arctic/basics.tin
-#read ./arctic/shaman.tin
+#read ./arctic/mage.tin
 
