@@ -1,0 +1,16 @@
+#highlight {You feel up to using headbutt again.} {cyan}
+#highlight {You feel up to using scrape again.} {cyan}
+#highlight {You are ready to sharpen once again.} {cyan}
+
+#alias {loot} {get all %0.corpse;} 
+#alias {recover} {camp;forage;rest;bandage me;hide;}
+
+#action {You are sent sprawling} {cancel;stand;}
+#action {You should probably stand up!} {cancel;stand;}
+
+#alias uu {fade up}
+#alias dd {fade down}
+#alias nn {fade north}
+#alias ee {fade east}
+#alias ww {fade west}
+#alias ss {fade south}
