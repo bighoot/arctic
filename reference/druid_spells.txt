@@ -1,0 +1,54 @@
+a translucent jade tablet	Earthquake	Gnoll's	Gnoll druid
+		Druids Nook	Cabinet
+	Earthquake	Kerns	Drawer
+		Jungle	Serpentman high priest
+	Cone of Cold	Vry Kith 	Master Druid
+	Cone of Cold	Brightfield	Mearia
+	Prevailing Winds	Brightfield	Mearia
+	Tornado	Windfall	Rainsong
+	Earthquake	Slade	
+	cone of Cold	Xak	Onyx
+	cone of Cold	kerns	lotana
+		lemish	tolkunka
+	Earthquake		
+					
+a ruby studded block of limestone	Paralysis	Gnoll	Gnoll Druid
+	Paralysis	Slade	Slade
+	ice stormm 		
+	Paralysis	Druids Nook	Cabinet
+	Icestorm	Kerns	Lotana
+	Icestorm	Lemish	Tolkunka
+	Paralysis	Branchala zone	Elven High Druid
+	Icestorm	Brightfield	Mearia
+	Summon 	windfall	Rainsong
+	Summon 	Drac Tower	Tanin
+	Primal fury	Shayds	
+	Primal Fury	Tarsis Wastelands	Hermit
+	Paralysis	Kerns	Drawer
+	veil of ice	sanction	cervos
+					
+ivy covered slab of rock	Enlarge	Windfall	Rainsong
+	Mass refresh	Kerns	Lotana
+	Word of recall	Tarsis Wasteland	hermit
+	enlarge	Flying Citadel	drake
+	word of recall	Lunitari - bmobs	druid
+					
+an iridescent hematite tablet	feast		apprentice
+	feast	Kerns	rot drawer
+			gnoll druid
+		south of pala	Slade, the druid
+	Cloud Kill	Observer	Stalker in the Mists
+	Cloud Kill	Windfall	Rainsong
+	Cure Crit	Tarsis Wasteland	Hermit
+	Iceshield	Glacier	Frostbyte
+	Feast	Hylo	Kender Druid
+
+stunning pearl-inlaid tablet	firestorm	Shayds	Leaf
+	Tornado	Windfall	Rainsong
+	Call Lightning	Windfall	Rainsong
+	Call Lightning	Dragon Isle Chains	In some chest or something
+	Prevailing Winds	Brightfield	Mearia
+		Bandit Swamp	hawke
+		Kerns	Lotana
+	Prevailing Winds	Lemish	tolkunka
+	Prevailing Winds	Pirate Isle	Strongbox

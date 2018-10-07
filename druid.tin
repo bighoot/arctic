@@ -1,0 +1,17 @@
+#alias {sg} {cast 'spir guid'}
+#alias {bark} {cast 'barkskin' %0}
+#alias {fly} {cast 'fly' %0}
+#alias {cone} {cast 'conjure elemental'}
+
+#alias {ts} {cast 'thorn spray' %0}
+#alias {bh} {cast 'burning hands' %0}
+#alias {ef} {cast 'elemental fist' %0}
+#alias {fs} {cast 'flame shroud' %0}
+#alias {stink} {cast 'stinking cloud'}
+
+#alias {ref} {cast 'refresh' %0}
+#alias {sil} {cast 'silence' %0}
+
+#alias {wind} {cast 'constant winds'}
+
+#alias {oae} {order all.elemental %0}

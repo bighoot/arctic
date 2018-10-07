@@ -1,6 +1,5 @@
 #highlight {You feel up to using headbutt again.} {cyan}
 #highlight {You feel up to using scrape again.} {cyan}
-#highlight {You are ready to sharpen once again.} {cyan}
 
 #alias {loot} {get all %0.corpse;} 
 #alias {recover} {camp;forage;rest;bandage me;hide;}

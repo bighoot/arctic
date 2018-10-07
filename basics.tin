@@ -2,6 +2,8 @@
 
 #action {A large fountain sits in the middle of the road, taking up space.} {fill all fountain}
 #action {A white marble fountain spring is in the middle of the clearing.} {fill all fountain}
+#action {An old drinking well stands in the middle of the well house.} {fill all well}
+#action {A mountain spring bubbles out of the rocks into a small pool.} {fill all pool}
 
 #highlight {[Pos:standing]} {green}
 #highlight {[Pos:sitting]} {red}
@@ -12,3 +14,5 @@
 #highlight {You feel especially skillful today.} {magenta}
 
 #action {There were %0 coins} {split %0}
+
+

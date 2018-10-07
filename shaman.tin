@@ -10,6 +10,7 @@
 #alias {cl} {cast 'cure light' %0}
 #alias {cs} {cast 'cure ser' %0}
 #alias {cc} {cast 'cure crit' %0}
+#alias {regen} {cast 'regen' %0}
 
 #alias {bli} {cast 'blind' %0}
 
