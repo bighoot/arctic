@@ -1,0 +1,15 @@
+From Haven []
+
+w;w;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;n;n;w;w;w;w;w;w;n;d;d;w;w;w;w;n;n;n;
+
+w;n;n;n;n;w;w;w;w;w;w;w;s;w;s;s;s;e;e;e;e;e;e;n;n;e;e;e;e;n;n;n;w;w;n;
+
+n;n;n;n;n;e;e;e;e;s;e;s;s;s;w;s;s;
+
+Now w, then crawl w, crawl s, 
+
+S,s,w,s, walk bush, n,e,n,e,n,e into hidden entrance
+
+For the scouts you run into btw, you can have them track you to the ‘walk bush’ room, then type walk bush and they can’t follow. Then they will rest, and you can north, back them, then walk bush out of battle to rinse/repeat to beat them.
+
+In the village you need to use the paste to be camouflaged. 

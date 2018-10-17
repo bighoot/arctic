@@ -1,0 +1,17 @@
+#action {You receive %0 experience} {#leader #showme <149>FOLLOWER GAINED XP: %0}
+#action {You raise a level} {#leader #showme <149>FOLLOWER GAINED A LEVEL}
+#action {You gain a rank} {#leader #showme <149>FOLLOWER GAINED A RANK}
+#action {You should probably stand up} {#leader #showme <119>-->TANK IS SITTING<--}
+
+#action {You try to bash} {stand}
+#highlight {You try to bash %*} {red}
+#action {You are sent sprawling} {stand}
+#highlight {You are sent sprawling %*} {red}
+
+#read ./arctic/basics.tin
+
+#alias {fight} {kick %0; punch; kick; punch; kick; punch; #leader aim %0; #leader shoot auto;}
+
+#alias b {#leader %0}
+
+#highlight {Your punch hand is ready to lay into someone again.} {cyan}
