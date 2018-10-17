@@ -1,0 +1,18 @@
+#alias b {#b %0}
+
+#read ./arctic/basics.tin
+#read ./arctic/scout.tin
+
+#alias fight {fence disengage;b envenom 1.dagger;b envenom 2.dagger;b hide;b back %0}
+#alias rrr {rescue kaulu;}
+#alias aaa {b assist lanai;b unbalance; b throat;}
+
+#alias stealth {sneak; b sneak;}
+
+#highlight {%* looks really sick, and shivers uncomfortably.} {cyan}
+#highlight {Your feeble rescue efforts end in failure.} {cyan}
+#highlight {What a self-sacrificing act! You're such a hero!} {cyan}
+
+#alias loot {get all %0.corpse}
+
+#action {What a self-sacrificing act! You're such a hero!} {fence engage;}

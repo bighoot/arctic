@@ -2,7 +2,7 @@
 #highlight {You feel up to using scrape again.} {cyan}
 
 #alias {loot} {get all %0.corpse;} 
-#alias {recover} {camp;forage;rest;bandage me;hide;}
+#alias {recover} {camp;forage;rest;b rest; b bandage me;bandage me;hide;b hide}
 
 #action {You are sent sprawling} {cancel;stand;}
 #action {You should probably stand up!} {cancel;stand;}

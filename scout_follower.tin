@@ -1,0 +1,3 @@
+#read ./arctic/follower.tin
+#read ./arctic/basics.tin
+#read ./arctic/scout.tin

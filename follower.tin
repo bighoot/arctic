@@ -1,14 +1,19 @@
-#action {%0 tells your group %1} {#leader #showme <149>GROUP MESSAGE FROM %0: %1}
-#action {%0 tells you %1} {#leader #showme <149>PRIVATE MESSAGE FROM %0: %1}
-#action {%0 tells your clan %1} {#leader #showme <149>CLAN MESSAGE FROM %0: %1}
-#action {%0 shouts %1} {#leader #showme <149>SHOUT FROM %0: %1}
-#action {%0 yells %1} {#leader #showme <149>YELL FROM %0: %1}
-#action {%0 says %1} {#leader #showme <149>SAY FROM %0: %1}
+#alias a {#a %0}
 
-#action {You receive %0 experience} {#leader #showme <149>FOLLOWER GAINED XP: %0}
-#action {You raise a level} {#leader #showme <149>FOLLOWER GAINED A LEVEL}
-#action {You gain a rank} {#leader #showme <149>FOLLOWER GAINED A RANK}
+#action {%0 tells your group %1} {#a #showme <149>GROUP MESSAGE FROM %0: %1}
+#action {%0 tells you %1} {#a #showme <149>PRIVATE MESSAGE FROM %0: %1}
+#action {%0 tells your clan %1} {#a #showme <149>CLAN MESSAGE FROM %0: %1}
+#action {%0 shouts %1} {#a #showme <149>SHOUT FROM %0: %1}
+#action {%0 yells %1} {#a #showme <149>YELL FROM %0: %1}
+#action {%0 says %1} {#a #showme <149>SAY FROM %0: %1}
 
-#action {You should probably stand up} {#leader #showme <119>-->TANK IS SITTING<--}
-#action {You settle down} {#leader #showme <119>-->DANCE IS OVER<--}
-#action {builds but quickly subsides} {#leader #showme <119>-->DANCE FAILED<--}
+#action {You receive %0 experience} {#a #showme <149>FOLLOWER GAINED XP: %0}
+#action {You raise a level} {#a #showme <149>FOLLOWER GAINED A LEVEL}
+#action {You gain a rank} {#a #showme <149>FOLLOWER GAINED A RANK}
+
+#action {You should probably stand up} {#a #showme <119>-->TANK IS SITTING<--}
+#action {You settle down} {#a #showme <119>-->DANCE IS OVER<--}
+#action {builds but quickly subsides} {#a #showme <119>-->DANCE FAILED<--}
+
+#action {You are hungry} {#a #showme <119>-->FOLLOWER HUNGRY<--}
+#action {You are thirsty} {#a #showme <119>-->FOLLOWER THIRSTY<--}
