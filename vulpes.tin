@@ -1,0 +1,7 @@
+#alias t {#follower %0}
+
+#macro {`} {t cancel;t stand;t rescue vulpes}
+
+#read ./arctic/basics.tin
+
+#alias {fight} {t bash %0; t stand; t kick; t punch; aim %0; shoot auto}

@@ -98,7 +98,17 @@
 {
 	cast 'str' %0
 }
+#ALIAS {spheres}
+{
+	cast 'spheres of ab'
+}
 {5}
+#ALIAS {shell}
+{
+	cast 'anti shell'
+}
+{5}
+
 
 #CONFIG           {256 COLORS}  {ON}
 #CONFIG           {AUTO TAB}  {5000}
