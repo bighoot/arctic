@@ -109,6 +109,12 @@
 }
 {5}
 
+#ALIAS {sb}
+{
+	cast 'shocking blast' %0
+}
+{5}
+
 
 #CONFIG           {256 COLORS}  {ON}
 #CONFIG           {AUTO TAB}  {5000}
