@@ -1,10 +1,8 @@
-From Haven []
+﻿From Haven []
 
-w;w;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;n;n;w;w;w;w;w;w;n;d;d;w;w;w;w;n;n;n;
+w;w;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;n;n;w;w;w;w;w;w;n;d;d;w;w;w;w;n;n;n;w;n;n;n;n;w;w;w;w;w;w;w;s;w;
 
-w;n;n;n;n;w;w;w;w;w;w;w;s;w;s;s;s;e;e;e;e;e;e;n;n;e;e;e;e;n;n;n;w;w;n;
-
-n;n;n;n;n;e;e;e;e;s;e;s;s;s;w;s;s;
+s;s;s;e;e;e;e;e;e;n;n;e;e;e;e;n;n;n;w;w;n;n;n;n;n;n;e;e;e;e;s;e;s;s;s;w;s;s;
 
 Now w, then crawl w, crawl s, 
 

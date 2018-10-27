@@ -115,6 +115,60 @@
 }
 {5}
 
+#alias {recover}
+{
+	gift;
+	magical anchor;
+	arcane barrier;
+	rest;
+	bandage me;
+	order velox rest;
+	bandage velox;
+	deep;
+}
+{5}
+
+#alias {defense}
+{
+	cast 'antimagic shell';
+	cast 'spheres';
+	cast 'displacement';
+}
+{5}
+
+#alias {buffs}
+{
+	cast 'blur' me;
+	cast 'imp inv';
+	cast 'det inv';
+	cast 'pote';
+	cast 'men ac';
+}
+{5}
+
+#alias practice
+{
+	mag anc;
+	arcane bar;
+	gift;
+}
+{5}
+
+#highlight {The lunar glimmer fades from your eye.}{cyan}
+#highlight {The energy in the air coalesces and becomes controllable once again.}{cyan}
+#highlight {Your mind slides back into a more normal state.}{cyan}
+#highlight {You sense the protective magic about you fade away.}{cyan}
+#highlight {You suddenly notice that your body is in focus once again.}{cyan}
+#highlight {A path to the future lays before your feet.}{cyan}
+#highlight {You feel yourself exposed.}{cyan}
+#highlight {Velox the mercury golem splashes to the ground and trickles away.}{cyan}
+#highlight {The spheres around you blink out of existence.}{cyan}
+#highlight {With one last pulse your barrier of green energy disappears.}{cyan}
+
+#highlight {You are hungry.}{cyan}
+#highlight {You are thirsty.}{cyan}
+
+	
 
 #CONFIG           {256 COLORS}  {ON}
 #CONFIG           {AUTO TAB}  {5000}

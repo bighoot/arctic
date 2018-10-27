@@ -1,0 +1,6 @@
+#alias a #a %0
+#alias b #b %0
+
+#alias loot {get all %0.corpse;get all.coins;}
+
+#alias recover {camp; a rest; b rest; a bandage me; b bandage me; a hide; b hide;}

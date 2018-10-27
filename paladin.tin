@@ -1,0 +1,5 @@
+#alias fight {beseech kiri; reck; strike %0; order horse assist; rally;}
+
+#alias oh {order horse %0;}
+
+#highlight {The rally cry fades.}{cyan}

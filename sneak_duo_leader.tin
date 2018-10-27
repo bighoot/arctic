@@ -3,9 +3,12 @@
 #read ./arctic/basics.tin
 #read ./arctic/scout.tin
 
-#alias fight {fence disengage;b envenom 1.dagger;b envenom 2.dagger;b hide;b back %0}
+#alias fight {fence disengage;b envenom 1.dagger;b envenom 2.dagger;b hide;b back %0;#variable bad_guy %0;}
+#alias bowa {aim $bad_guy; shoot auto;}
+#alias bow {aim %0; shoot auto;}
 #alias rrr {rescue kaulu;}
 #alias aaa {b assist lanai;b unbalance; b throat;}
+#alias out {rem bow;wield spear;hold crossbow;}
 
 #alias stealth {sneak; b sneak;}
 
@@ -15,4 +18,5 @@
 
 #alias loot {get all %0.corpse}
 
-#action {What a self-sacrificing act! You're such a hero!} {fence engage;}
+#action {What a self-sacrificing act! You're such a hero!} {rem bow; wield spear; hold crossbow; fence engage;}
+
