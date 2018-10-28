@@ -1,6 +1,18 @@
+#read ./arctic/basics.tin
+
 #alias a #a %0
 #alias b #b %0
 
 #alias loot {get all %0.corpse;get all.coins;}
 
 #alias recover {camp; a rest; b rest; a bandage me; b bandage me; a hide; b hide;}
+
+#alias uu {fade up}
+#alias dd {fade down}
+#alias nn {fade north}
+#alias ee {fade east}
+#alias ww {fade west}
+#alias ss {fade south}
+
+#alias fight {b peck %0;watch taara;aim %0; shoot auto;}
+#alias bow {aim %0; shoot auto;}
