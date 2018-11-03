@@ -1,0 +1,30 @@
+#read ./arctic/basics.tin
+
+#alias a #a %0
+#alias b #b %0
+
+#alias loot {get all %0.corpse;get all.coins;}
+#alias recover {camp; a rest; b rest; a bandage me; b bandage me; a hide; b hide;}
+
+#alias uu {fade up}
+#alias dd {fade down}
+#alias nn {fade north}
+#alias ee {fade east}
+#alias ww {fade west}
+#alias ss {fade south}
+
+#action {You feel up to using dart again.} {dart}
+#action {You are sent sprawling} {cancel;stand;}
+#action {You should probably stand up!} {cancel;stand;}
+
+#action {You receive %0 experience} {#b #showme <149>FOLLOWER GAINED XP: %0}
+#action {You raise a level} {#b #showme <149>FOLLOWER GAINED A LEVEL}
+#action {You gain a rank} {#b #showme <149>FOLLOWER GAINED A RANK}
+#action {You are hungry} {#b #showme <119>-->FOLLOWER HUNGRY<--}
+#action {You are thirsty} {#b #showme <119>-->FOLLOWER THIRSTY<--}
+
+#highlight {Your victim's tracks lead %*} {cyan}
+
+#alias fight {kill %0; b wildfire; b aim %0; b shoot auto;}
+
+
