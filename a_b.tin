@@ -4,3 +4,24 @@
 #alias loot {get all %0.corpse;get all.coins;}
 
 #alias recover {camp; a rest; b rest; a bandage me; b bandage me; a hide; b hide;}
+
+#highlight {Your victim's tracks lead %*} {cyan}
+
+#action {You feel up to using dart again.} {dart}
+
+#action {You are sent sprawling} {cancel;stand;}
+#action {You should probably stand up!} {cancel;stand;}
+
+#alias uu {fade up}
+#alias dd {fade down}
+#alias nn {fade north}
+#alias ee {fade east}
+#alias ww {fade west}
+#alias ss {fade south}
+
+#highlight {You feel enlightened.} {magenta}
+#highlight {You feel especially skillful today.} {magenta}
+
+#action {You receive %0 experience} {#b #showme <149>FOLLOWER GAINED XP: %0}
+#action {You raise a level} {#b #showme <149>FOLLOWER GAINED A LEVEL}
+#action {You gain a rank} {#b #showme <149>FOLLOWER GAINED A RANK}
