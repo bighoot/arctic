@@ -168,6 +168,7 @@
 #highlight {You are hungry.}{cyan}
 #highlight {You are thirsty.}{cyan}
 
+#alias {mirphy}={w; w; s; s; w; w; w; open gate; w; w; n; n; climb cliff; d; n; w; w; w;}
 	
 
 #CONFIG           {256 COLORS}  {ON}
