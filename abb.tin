@@ -26,7 +26,9 @@
 #highlight {Your victim's tracks lead %*} {cyan}
 
 #alias og {order velox %0}
-#alias fight {watch velox; order velox kill %0; order velox merc; a wildfire; a aim %0; a shoot auto;}
+
+#alias xxx {watch velox; order velox kill %0; order velox merc; a wildfire; a aim %0; a shoot auto;}
+#alias fight {kill %0; a wildfire; a aim %0; a shoot auto;order horse assist; rally;}
 
 #alias fff {order ironwood kill %0; a wildfire; a aim %0; a shoot auto;}
 
