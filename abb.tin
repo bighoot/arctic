@@ -23,6 +23,9 @@
 #action {You are hungry} {#a #showme <119>-->FOLLOWER HUNGRY<--}
 #action {You are thirsty} {#a #showme <119>-->FOLLOWER THIRSTY<--}
 
+#action {%0 tells you %1} {#a #showme <149>PRIVATE MESSAGE FROM %0: %1}
+#action {%0 tells your clan %1} {#a #showme <149>CLAN MESSAGE FROM %0: %1}
+
 #highlight {Your victim's tracks lead %*} {cyan}
 
 #alias og {order velox %0}

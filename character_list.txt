@@ -1,0 +1,15 @@
+Aether		Sky Scout
+Tarra?		Sky Scout
+
+Dany		Paladin (Crown)
+Halmos		Red Robe
+
+Maui		Shaman
+Euler		Barbarian
+
+Styr		Druid
+Tyrrus		Cleric
+
+Lanai		Ocean Scout
+Kaulu		Thief
+

@@ -88,7 +88,7 @@
 }
 {5}
 
-#ALIAS {sg}
+#ALIAS {sg}	
 {
 	cast 'sh gr' %0
 }
@@ -115,6 +115,18 @@
 }
 {5}
 
+#ALIAS {fm}
+{
+	cast 'force missile' %0
+}
+{5}
+
+#ALIAS {cl}
+{
+	cast 'chain lightning' %0
+}
+{5}
+
 #alias {recover}
 {
 	gift;
@@ -133,6 +145,7 @@
 	cast 'antimagic shell';
 	cast 'spheres';
 	cast 'displacement';
+	cast 'lightning shield';
 }
 {5}
 
@@ -151,8 +164,19 @@
 	mag anc;
 	arcane bar;
 	gift;
+	brew 'strength';
+	scribe 'strength';
 }
 {5}
+
+#alias practice2
+{
+	rest;
+	rem bracelet;
+	wear bracelet;
+	bandage me;
+	deep;
+}
 
 #highlight {The lunar glimmer fades from your eye.}{cyan}
 #highlight {The energy in the air coalesces and becomes controllable once again.}{cyan}
@@ -164,13 +188,17 @@
 #highlight {Velox the mercury golem splashes to the ground and trickles away.}{cyan}
 #highlight {The spheres around you blink out of existence.}{cyan}
 #highlight {With one last pulse your barrier of green energy disappears.}{cyan}
+#highlight {You feel much heavier.}{cyan}
+#highlight {You feel that Velox the mercury golem is up to using wildstrike %* again.} {<169>}
+#highlight {You feel ready to scribe again.}{cyan}
+#highlight {You feel ready to brew again.}{cyan}
 
+	
 #highlight {You are hungry.}{cyan}
 #highlight {You are thirsty.}{cyan}
 
-#alias {mirphy}={w; w; s; s; w; w; w; open gate; w; w; n; n; climb cliff; d; n; w; w; w;}
+#alias {mirphy} {w; w; s; s; w; w; w; open gate; w; w; n; n; climb cliff; d; n; w; w; w;}
 	
-
 #CONFIG           {256 COLORS}  {ON}
 #CONFIG           {AUTO TAB}  {5000}
 #CONFIG           {BUFFER SIZE}  {20000}
@@ -201,3 +229,18 @@
 #PATHDIR          {sw}  {ne}  {12}
 #PATHDIR          {u}  {d}  {16}
 #PATHDIR          {w}  {e}  {8}
+
+#alias visittarsis {cast 'tele' darvinus;cast 'di do' darvinus;}
+#alias visitkalaman {cast 'tele' zardonna; cast 'di do' zardonna;}
+#alias visitbalifor {cast 'tele' petrin; cast 'di do' petrin;}
+#alias visithaven {cast 'tele' canstin; cast 'di do' canstin;}
+#alias visitvingaard {cast 'tele' torenth; cast 'di do' torenth;}
+#alias visitpalanthas {cast 'tele' anatole; cast 'di do' anatole;}
+#alias visitneraka {cast 'tele' snaggle; cast 'di do' snaggle;}
+#alias visitsolace {cast 'tele' theobald;cast 'di do' theobald;}
+#alias visitwayreth {cast 'tele' ferris;cast 'di do' ferris;}
+#alias visittantallon {cast 'tele' itanus;cast 'di do' itanus;}
+#alias visitcaergoth {cast 'tele' mirus;cast 'di do' mirus;}
+
+#alias getacorns {w;s;open gate;w;n;n;n;e;e;e;n;w;n;n;n;n;n;n;n;n;n;n;n;n;n;n;w;w;w;w;w;w;w;s;e;buy 20*acorn;put all.acorn pouch;}
+

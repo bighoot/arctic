@@ -1,0 +1,35 @@
+glade of whitestone pally oath
+lord kyle say measure
+storms keep kill noom in his room
+    kw look nightstand;exam nightstand;look letter
+got to flying citadel; kill tenlo in telo's room
+    kw search crates
+back to lord kyle
+    present books
+boku forest kill malak in malak's room
+    kw open cage 2x
+    kw gather pages cage
+go back to lord kyle
+    present sheaf
+go to terzak forests kill terzak in terzaks room
+    kw look shelf
+    kw get book shelf or loot shelf
+back to lord kyle
+    present code
+go to gal'vari isle
+    kill gal'vari in gal'vari's room
+    kw look desk
+    kw get package desk
+go to lord kyle
+    kw present package
+go to balcome's lair
+    kill serra, kill balcome, room north of balcome
+    kw listen librarian
+    kw cast 'abso' apprentice
+lord kyle again
+    kw present parchment
+    whitestone glade
+    kw kneel
+go to marquin in garret
+    embrace sword
+that is the quest

@@ -1,2 +1,8 @@
-#alias sleader {#session leader mud.arctic.org 2700}
-#alias sbarb {#session barb mud.arctic.org 2700}
+#alias starta {#session a mud.arctic.org 2700}
+#alias startb {#session b mud.arctic.org 2700}
+
+#alias loadboth	{#a #read ./arctic/aab.tin;#b #read ./arctic/abb.tin}
+
+#alias mage {read ./arctic/mage.tin}
+#alias druid {read ./arctic/druid.tin}
+#alias shaman {read ./arctic/shaman.tin}

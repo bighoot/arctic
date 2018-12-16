@@ -1,0 +1,230 @@
+#nop should work on group members only
+#nop type group to populate group member list
+
+#action {  Member              Hits      Move} {
+    #action {^  {[A-Z][A-Z]} %%2 %%3} {#var groupie[%%2] 1;};
+    #alias showgroup {
+        unset_rescue_triggers;
+        #var grouplist asdfgh;
+        #foreach {$groupie[]} {tname} {
+            #var grouplist $grouplist|$tname;
+        };
+        set_rescue_triggers;
+        #alias showgroup {#nop};
+    }
+}
+
+#alias showgroup {#nop};
+#alias do_assist {#nop};
+
+
+#VARIABLE         {hitTypes}  {smite|hit|bite|smith|pierce|slash|cleave|claw|crush|drain|bludgeon|whip|stab|sting|shoot|plunk}
+#VARIABLE         {hitTypesPlural}  {smites|hits|bites|smiths|pierces|slashes|cleaves|claws|crushes|drains|bludgeons|whips|stabs|stings|shoots|plunks}
+#VARIABLE         {hitTypesback}  {hard|very hard|extremely hard}
+#VARIABLE         {hitTypesfront}  {misses|bruises|massacres|annihilates|obliterates|mutilates}
+#VARIABLE         {hitTypesfrontYOU}  {miss|bruise|massacre|annihilate|obliterate|mutilate}
+#var rescueflag 1;
+#var autoassist 0;
+#var assisting 0;
+
+#alias set_rescue_triggers {
+
+#showme set rescue triggers;
+
+#ACTION {%%1 {$hitTypesPlural} {$grouplist} {$hitTypesback}.} {
+	#if {$targetflag == 0}	{
+		resettarget;
+        #var targetflag 1;
+        #var rescueflag 1;
+        #unticker {rescue};
+	};
+    #var target[%%3] 1;
+};
+
+#ACTION {%%1 {$hitTypesPlural} {$grouplist}.} {
+	#if {$targetflag == 0}	{
+		resettarget;
+        #var targetflag 1;
+        #var rescueflag 1;
+        #unticker {rescue};
+	};
+    #var target[%%3] 1;
+};
+
+#ACTION {%%1 {$hitTypesfront} {$grouplist} with {his|her|its} {$hitTypes}.} {
+	#if {$targetflag == 0} {
+		resettarget;
+        #var targetflag 1;
+        #var rescueflag 1;
+        #unticker {rescue};
+	};
+    #var target[%%3] 1;
+};
+
+#ACTION {%%1 crashes into {$grouplist} in a thundering collision} {
+	#if {$targetflag == 0}	{
+		resettarget;
+        #var targetflag 1;
+        #var rescueflag 1;
+        #unticker {rescue};
+	};
+    #var target[%%2] 1;
+};
+
+#ACTION {%%1 stumbles and falls while trying to bash {$grouplist}.} {
+	#if {$targetflag == 0}	{
+		resettarget;
+        #var targetflag 1;
+        #var rescueflag 1;
+        #unticker {rescue};
+	};
+    #var target[%%2] 1;
+};
+
+#ACTION {%%1 gives {$grouplist} a solid punch in the face.} {
+	#if {$targetflag == 0}	{
+		resettarget;
+        #var targetflag 1;
+        #var rescueflag 1;
+        #unticker {rescue};
+	};
+    #var target[%%2] 1;
+};
+
+#ACTION {%%1 delivers a snap kick to {$grouplist}} {
+	#if {$targetflag == 0}	{
+		resettarget;
+        #var targetflag 1;
+        #var rescueflag 1;
+        #unticker {rescue};
+	};
+    #var target[%%2] 1;
+};
+
+#ACTION {%%1 spins and tries to kick {$grouplist}} {
+	#if {$targetflag == 0}	{
+		resettarget;
+        #var targetflag 1;
+        #var rescueflag 1;
+        #unticker {rescue};
+	};
+    #var target[%%2] 1;
+};
+
+
+
+};
+
+#alias unset_rescue_triggers {
+
+    #UNACTION {%%1 {$hitTypesPlural} {$grouplist} {$hitTypesback}.};
+    #UNACTION {%%1 {$hitTypesPlural} {$grouplist}.};
+    #UNACTION {%%1 {$hitTypesfront} {$grouplist} with {his|her|its} {$hitTypes}.};
+    #UNACTION {%%1 crashes into {$grouplist} in a thundering collision};
+    #UNACTION {%%1 stumbles and falls while trying to bash {$grouplist}.};
+    #UNACTION {%%1 gives {$grouplist} a solid punch in the face.};
+    #UNACTION {%%1 delivers a snap kick to {$grouplist}};
+    #UNACTION {%%1 spins and tries to kick {$grouplist}};
+};
+
+
+#alias showtarget {
+    #var target_index 1;
+    #foreach {$target[]} {tname} {
+        #var $targetT[$target_index] $tname;
+        #math target_index {$target_index + 1}
+    };
+};
+
+#var target_index 1;
+
+#var {targetT} {{1} {target1} {2} {target2} {3} {target3} {4} {target4} {5} {target5} {6} {target6} {7} {target7} {8} {target8} {9} {target9} {10} {target10}}
+
+#nop ACTION {^%1H %2V %3X %4% %5C} 
+#ACTION {^%1H %2V %3X %5C} {
+    #unac {^  {[A-Z][A-Z]} %%2 %%3};
+    showgroup;
+    showtarget;
+    showhealth;
+
+   	#if {$autoassist == 1} { 
+   	    do_assist;
+   	}
+
+#nop resettarget;
+#var targetflag 0;
+    do_spell_check;
+    unset_spell_check;
+#ticker {rescue} {#var rescueflag 0;#var assisting 0} {2};
+};
+
+#ALIAS {showhealth}
+{
+	#if {$rescueflag == 1}
+	{
+
+        #showme rescuelist F3 $target1 F4 $target2 F5 $target3 F6 $target4 flag: $targetflag
+    }    
+    
+}
+
+#alias {resettarget}
+{
+	#variable target_index 1;
+	#unvariable target1;
+	#unvariable target2;
+	#unvariable target3;
+	#unvariable target4;
+	#unvariable target5;
+	#unvariable target6;
+	#unvariable target7;
+	#unvariable target8;
+	#unvariable target9;
+	#unvariable target10;
+    #unvar target;
+    
+    #alias do_assist {
+    	#if {$targetflag == 1} {
+    #showme enter do_assist;
+
+        	#if {$assisting == 0} {
+        	    #showme assisting!;
+        	    assist;
+        	    #var assisting 1;
+        	    #alias do_assist {#nop};
+            }    
+
+        }    
+    }
+
+}
+
+#MACRO {\eOR}
+{
+	rescue $target1
+}
+
+#MACRO {\eOS}
+{
+	rescue $target2
+}
+#MACRO {\e[15~}
+{
+	rescue $target3
+}
+
+#MACRO {\e[17~}
+{
+	rescue $target4
+}
+
+#MACRO {\e[18~}
+{
+	rescue $target5
+}
+
+#MACRO {\e[20~}
+{
+	rescue $target6
+}
+

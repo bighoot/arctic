@@ -6,6 +6,9 @@
 #alias loot {get all %0.corpse;get all.coins;}
 #alias recover {camp; a rest; b rest; a bandage me; b bandage me; a hide; b hide;}
 
+#macro {`} {b cancel;b stand;b rescue halmos}
+#macro {-} {cancel; get recall chest; recite recall dany; get recall chest; recite recall me;}
+
 #alias uu {fade up}
 #alias dd {fade down}
 #alias nn {fade north}
@@ -23,8 +26,12 @@
 #action {You are hungry} {#b #showme <119>-->FOLLOWER HUNGRY<--}
 #action {You are thirsty} {#b #showme <119>-->FOLLOWER THIRSTY<--}
 
+#action {%0 tells you %1} {#b #showme <149>PRIVATE MESSAGE FROM %0: %1}
+#action {%0 tells your clan %1} {#b #showme <149>CLAN MESSAGE FROM %0: %1}
+
 #highlight {Your victim's tracks lead %*} {cyan}
 
-#alias fight {kill %0; b wildfire; b aim %0; b shoot auto;}
+#alias fight {b kill %0; b order skag assist; b rally; b reckoning; b strike; b aven legs; assist; order velox assist dany;}
+#alias xxx {b strike %0; b skag griffon assist; assist; order velox assist; b rally; b reckoning; b strike;}
 
 

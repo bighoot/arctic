@@ -1,0 +1,213 @@
+NERAKA ENCHANTING
+
+Most of these items suck... but there might be more I'm not aware of...
+
+To get the base items required for enchanting you can either kill the soldiers around the city or just buy them from the dwarf shopkeeper in the eastern part of Neraka. Then you need some extra components:
+
+tail of a rat     - various ways to enter sewers, easiest way is to go to "Southeast Corner" and "enter alley", then "open trapdoor" and go down. 
+                    Look for a room down there with NS exits, 'enter tunnel', 'rummage', and hit the rat until its tail pops off.
+
+vial of acid      - on Donny Fugazi in Neraka interior, kill it quick or else it may quaff the vial
+
+coarse black hair - 'yank hair' from Zirko in the Hair of the Troll, southwest area of neraka. Zirko will aggro, can flee
+
+sivak's scale     - need 170 coins, buy a ticket in the arena of death, buy a token inside and challenge sivak. Loot scale from sivak when it dies
+
+dead cockroach from sewers / golden merchant scales from Donny - unknown what to do with these?
+
+
+When you have the required items, go to the mid-western area of Neraka, find "Wizard's Row" room with N(E)S exits and 'climb stairs'/open door north to Iolanthe. KW to upgrade is 'enhance (item)', each enchant costs 500 coins.
+
+
+
+
+
+               Weapon damage stats are given as XdY hitroll/damroll
+
+
+
+                    tail of a rat, vial of acid, 500 coins
+
+   a steel dragonarmy battleaxe     ----->     an acid-etched steel battleaxe
+          30 weight, 3d7                            30 weight, 2d13 2/1
+
+      a steel dragonarmy mace       ----->     
+          13 weight, 2d5
+
+     a steel dragonarmy sword       ----->      an acid-etched steel sword         // NOT OFFHANDABLE
+          12 weight, 2d5                            12 weight, 3d5 2/1             // wielded by Verum outside the Arena of Death
+
+     a steel dragonarmy dagger      ----->      an acid-etched steel dagger        // OFFHANDABLE
+           3 weight, 3d3                             3 weight, 2d7 2/1             // wielded by Saldux in dilapidated house
+
+     a steel dragonarmy shield      ----->      an acid-etched steel shield
+         20 weight, apply 5                     20 weight, apply 5, +3 bash
+
+
+                   coarse black hair, sivak scale, 500 coins
+
+   some leather dragonarmy boots    ----->    
+              apply 4
+
+ some leather dragonarmy gauntlets  ----->   some hardened leather gauntlets
+              apply 4                              apply 4, +1 hitroll
+
+ a leather dragonarmy breastplate   ----->   a hardened leather breastplate        // worn by Commander Slith
+              apply 2                              apply 5, +1 strength
+
+    a leather dragonarmy helm       ----->      a hardened leather helm
+              apply 4                              apply 4, det_invis, 
+                                                 sense_life, infravision
+
+
+
+
+///
+
+a steel dragonarmy battleaxe
+ Object 'battleaxe axe dragonarmy steel huge tempered'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 30           Value   : 60
+
+ Class    : battle_axe
+ Damage   : 3D7
+
+
+a steel dragonarmy shield
+ Object 'shield dragonarmy steel triangular'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 30
+
+ Item is  : BLESS
+ Apply    : 5
+
+
+an acid-etched steel shield
+ Object 'shield dragonarmy steel triangular acid-etched'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 55
+
+ Affects  : skill bash          by +3
+ Item is  : MAGIC
+ Apply    : 5
+
+
+a steel dragonarmy mace
+ Object 'mace dragonarmy steel flanged tempered'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 13           Value   : 40
+
+ Class    : mace
+ Damage   : 2D5
+
+
+a steel dragonarmy dagger
+ Object 'dagger dragonarmy steel sharp tempered'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 3            Value   : 30
+
+ Class    : dagger
+ Damage   : 3D3
+
+
+an acid-etched steel dagger
+ Object 'dagger dragonarmy steel sharp acid-etched'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 3            Value   : 120
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Class    : dagger
+ Damage   : 2D7
+
+
+a steel dragonarmy sword
+ Object 'sword dragonarmy steel long tempered'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 40
+
+ Class    : long_sword
+ Damage   : 2D5
+
+
+an acid-etched steel sword
+ Object 'sword dragonarmy steel long acid-etched'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 180
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Class    : long_sword
+ Damage   : 3D5
+
+
+a leather dragonarmy breastplate
+Object 'breastplate breast plate dragonarmy leather crude rough'
+ Item Type: ARMOR
+ Mat Class: leather      Material: rough_leather
+ Weight   : 14           Value   : 40
+
+ Apply    : 2
+
+
+a hardened leather breastplate
+Object 'breastplate breast plate dragonarmy leather crude hardened'
+ Item Type: ARMOR
+ Mat Class: leather      Material: rigid_leather
+ Weight   : 20           Value   : 55
+
+ Affects  : STR           by 1
+ Item is  : MAGIC
+ Apply    : 5
+
+
+some leather dragonarmy gauntlets
+ Object 'gauntlets dragonarmy leather rough'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 4            Value   : 45
+
+ Item is  : BLESS
+ Apply    : 4
+
+
+some hardened leather gauntlets
+ Object 'gauntlets dragonarmy leather hardened'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rigid_leather
+ Weight   : 4            Value   : 45
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Apply    : 4
+
+
+a leather dragonarmy helm
+ Object 'helm dragonarmy leather crude rough'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 4            Value   : 45
+
+ Item is  : BLESS
+ Apply    : 4
+
+
+some leather dragonarmy boots
+ Object 'boots dragonarmy leather rough'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 4            Value   : 45
+
+ Item is  : BLESS
+ Apply    : 4
+

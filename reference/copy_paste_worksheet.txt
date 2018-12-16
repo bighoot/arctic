@@ -1,0 +1,28 @@
+quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;quell lynx;instinct lynx;
+
+quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;
+
+hunt theocrat;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;
+
+
+#12 case lanai;#12 steal coins lanai;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;plant pants lanai;a give pants kaulu;
+
+quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;quell fox;instinct fox;
+
+quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;quell crow;instinct crow;
+
+quell harrier;instinct harrier;quell harrier;instinct harrier;quell harrier;instinct harrier;quell harrier;instinct harrier;quell harrier;instinct harrier;quell harrier;instinct harrier;quell harrier;instinct harrier;quell harrier;instinct harrier;
+
+quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;quell swallow;instinct swallow;
+
+s;e;e;e;w;w;w;e;e;e;w;w;w;e;e;e;w;w;w;e;e;e;w;w;w;e;e;e;w;w;w;e;e;e;w;w;w;e;e;e;
+w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;w;e;
+
+#session a mud.arctic.org 2700
+#session b mud.arctic.org 2700
+
+#read ./arctic/a_b.tin
+
+scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;scout d;stand;up;
+
+#20 {scout n;stand;s;s;s;}

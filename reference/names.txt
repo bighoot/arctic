@@ -1,0 +1,21 @@
+#session a mud.arctic.org 2700
+#session b mud.arctic.org 2700
+
+#read ./arctic/sneak_duo_leader.tin
+#read ./arctic/sneak_duo_stabber.tin
+
+Halmos the Number Theorist, Computational Mythematician
+Lady Dany D'Nay, the Light of Dawn
+
+Tom Schrupp
+720.487.6715| tom.schrupp@gmail.com
+Coworker at Lockheed Martin from 2003 to 2012
+
+Dirk Penberthy
+719.277.5486 | dirk.penberthy@gmail.com
+Architect at Lockheed Martin from 2009 to 2013
+
+Brad Walker
+719.277.4421 | walker5brad@gmail.com
+Coworker at Lockheed Martin from 2003 to 2013
+
