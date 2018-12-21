@@ -1,0 +1,37 @@
+Level 1
+aid                    bless                  cause light            
+create food            create water           cure light             
+know alignment         restore strength       spiritual hammer       
+
+Level 2
+blindness              cure blindness         curse                  
+detect evil            detect good            detect magic           
+light                  remove curse           silence                
+
+Level 3
+cause serious          cure serious           fear                   
+gust of wind           holy armor             poison                 
+protection from evil   remove fear            remove poison          
+
+Level 4
+cloak of bravery       cure disease           dispel magic           
+flamestrike            free action            heroism                
+hold person            prayer                 sacred ward            
+sanctuary              
+
+Level 5
+atonement              cause critical         cure critical          
+dispel evil            dispel good            fortify self           
+holy aura              word of recall         
+
+Level 6
+animate dead           darkness               harm                   
+heal                   restoration            summon                 
+
+Level 7
+ancient curse          negative plane protectisoul leech             
+strength of one        summoning circle       sunbolt                
+
+Level 8
+gate                   healing mist           holy word              
+steelskin              sunray                 wave of terror         

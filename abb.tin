@@ -31,7 +31,16 @@
 #alias og {order velox %0}
 
 #alias xxx {watch velox; order velox kill %0; order velox merc; a wildfire; a aim %0; a shoot auto;}
-#alias fight {kill %0; a wildfire; a aim %0; a shoot auto;order horse assist; rally; reckoning;}
-
+#alias xxx2 {kill %0; a wildfire; a aim %0; a shoot auto;order horse assist; rally; reckoning;}
 #alias fff {order ironwood kill %0; a wildfire; a aim %0; a shoot auto;}
 
+#alias cl {a cast 'cure light' vali}
+#alias cs {a cast 'cure ser' vali}
+#alias cc {a cast 'cure crit' vali}
+#alias bless {a cast 'bless' vali}
+#alias fight {b kick %0; a assist;}
+#alias food {a cast 'create food'; a give bread vali; a eat bread; b eat bread;}
+#alias bli {a cast 'blind';}
+#alias cur {a cast 'curse';}
+#alias sil {a cast 'silence';}
+#alias cas {a cast 'cause ser';}

@@ -31,7 +31,17 @@
 
 #highlight {Your victim's tracks lead %*} {cyan}
 
-#alias fight {b kill %0; b order skag assist; b rally; b reckoning; b strike; b aven legs; assist; order velox assist dany;}
+#alias xxx2 {b kill %0; b order skag assist; b rally; b reckoning; b strike; b aven legs; assist; order velox assist dany;}
 #alias xxx {b strike %0; b skag griffon assist; assist; order velox assist; b rally; b reckoning; b strike;}
 
+#alias cl {a cast 'cure light' vali}
+#alias cs {a cast 'cure ser' vali}
+#alias cc {a cast 'cure crit' vali}
+#alias bless {a cast 'bless' vali}
+#alias fight {b kick %0; a assist;}
+#alias food {a cast 'create food'; a give bread vali; a eat bread; b eat bread;}
+#alias bli {a cast 'blind';}
+#alias cur {a cast 'curse';}
+#alias sil {a cast 'silence';}
+#alias cas {a cast 'cause ser';}
 
