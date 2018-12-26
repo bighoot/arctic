@@ -39,9 +39,16 @@
 #alias cc {a cast 'cure crit' vali}
 #alias bless {a cast 'bless' vali}
 #alias fight {b kick %0; a assist;}
-#alias food {a cast 'create food'; a give bread vali; a eat bread; b eat bread;}
+#alias food {a cast 'create food'; a give bread vali; a eat bread;}
+#alias water {a drink all.water; b drink all.water;}
 #alias bli {a cast 'blind';}
 #alias cur {a cast 'curse';}
 #alias sil {a cast 'silence';}
 #alias cas {a cast 'cause ser';}
+#alias harm {a cast 'harm';}
+#alias hp {a cast 'hold person';}
+#alias kpk {kick;punch;kick;}
+
+#action {Baldr gives you a loaf of bread.} {eat bread}
+
 
