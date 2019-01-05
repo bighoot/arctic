@@ -43,7 +43,7 @@
 #alias fight {b kick %0; a assist;}
 #alias food {a cast 'create food'; a give bread vali; a eat bread;}
 #alias water {a drink all.water; b drink all.water;}
-##alias bli {a cast 'blind' %0;}
+#alias bli {a cast 'blind' %0;}
 #alias cur {a cast 'curse' %0;}
 #alias sil {a cast 'silence' %0;}
 #alias cas {a cast 'cause ser' %0;}
