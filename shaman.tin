@@ -6,11 +6,16 @@
 
 #alias {ab} {cast 'an bl' %0}
 #alias {as} {cast 'an sh' %0}
+#alias {mm} {cast 'mon man'}
+#alias {bb} {cast 'bo bl'}
+#alias {dark} {cast 'da so'}
+#alias {devo} {cast 'de spir'} 
 
 #alias {cl} {cast 'cure light' %0}
 #alias {cs} {cast 'cure ser' %0}
 #alias {cc} {cast 'cure crit' %0}
 #alias {regen} {cast 'regen' %0}
+#alias {wave} {cast 'heal wave' %0}
 
 #alias {bli} {cast 'blind' %0}
 
