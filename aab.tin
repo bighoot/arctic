@@ -38,9 +38,10 @@
 #alias cs {a cast 'cure ser' vali}
 #alias cc {a cast 'cure crit' vali}
 #alias heal {a cast 'heal' vali}
+#alias regen {a cast 'regen' vali}
+#alias wave {a cast 'wave'}
 #alias bless {a cast 'bless' vali}
 #alias prayer {a cast 'prayer'}
-#alias fight {b kick %0; a assist;}
 #alias food {a cast 'create food'; a give bread vali; a eat bread;}
 #alias water {a drink all.water; b drink all.water;}
 #alias bli {a cast 'blind' %0;}
@@ -51,6 +52,9 @@
 #alias hp {a cast 'hold person' %0;}
 #alias flame {a cast 'flamestrike' %0;}
 #alias kpk {kick;punch;kick;}
+
+#alias recover {a rest; a bandage me; a seance; b rest; b bandage me;}
+#alias fight {b kick %0; a assist; a order all.spirit assist vali;}
 
 #action {Baldr gives you a loaf of bread.} {eat bread}
 
