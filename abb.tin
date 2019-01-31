@@ -28,32 +28,34 @@
 
 #highlight {Your victim's tracks lead %*} {cyan}
 
-#alias og {order velox %0}
-
 #alias xxx {watch velox; order velox kill %0; order velox merc; a wildfire; a aim %0; a shoot auto;}
 #alias xxx2 {kill %0; a wildfire; a aim %0; a shoot auto;order horse assist; rally; reckoning;}
 #alias fff {order ironwood kill %0; a wildfire; a aim %0; a shoot auto;}
 
-#alias cl {a cast 'cure light' vali}
-#alias cs {a cast 'cure ser' vali}
-#alias cc {a cast 'cure crit' vali}
-#alias heal {a cast 'heal' vali}
-#alias regen {a cast 'regen' vali}
-#alias wave {a cast 'wave'}
-#alias bless {a cast 'bless' vali}
-#alias prayer {a cast 'prayer'}
-#alias food {a cast 'sat'; b get bowl chest; b eat bowl;}
-#alias water {a drink all.water; b drink all.water;}
-#alias bli {a cast 'blind' %0;}
-#alias cur {a cast 'curse' %0;}
-#alias sil {a cast 'silence' %0;}
-#alias cas {a cast 'cause ser' %0;}
-#alias harm {a cast 'harm' %0;}
-#alias hp {a cast 'hold person' %0;}
-#alias flame {a cast 'flamestrike' %0;}
-#alias kpk {kick;punch;kick;}
+#nop alias cl {a cast 'cure light' vali}
+#nop alias cs {a cast 'cure ser' vali}
+#nop alias cc {a cast 'cure crit' vali}
+#nop alias heal {a cast 'heal' vali}
+#nop alias regen {a cast 'regen' vali}
+#nop alias wave {a cast 'wave'}
+#nop alias bless {a cast 'bless' vali}
+#nop alias prayer {a cast 'prayer'}
+#nop alias food {a cast 'create food'; a give bread vali; a eat bread;}
+#nop alias water {a drink all.water; b drink all.water;}
+#nop alias bli {a cast 'blind' %0;}
+#nop alias cur {a cast 'curse' %0;}
+#nop alias sil {a cast 'silence' %0;}
+#nop alias cas {a cast 'cause ser' %0;}
+#nop alias harm {a cast 'harm' %0;}
+#nop alias hp {a cast 'hold person' %0;}
+#nop alias flame {a cast 'flamestrike' %0;}
+#nop action {Baldr gives you a loaf of bread.} {eat bread}
 
-#alias recover {a rest; a bandage me; a seance; b rest; b bandage me;}
-#alias fight {b kick %0; a assist; a order all.spirit assist vali;}
+#alias kpk {a kick;a punch;a kick;b scrape;}
+#alias ra {a resc arcas;}
+#alias rc {b resc cilix;}
 
-#action {Baldr gives you a loaf of bread.} {eat bread}
+#action {You feel up to using headbutt again.} {headbutt}
+#action {You feel up to using scrape again.} {scrape}
+
+

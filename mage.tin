@@ -142,6 +142,7 @@
 
 #alias {defense}
 {
+	cast 'mne' 9;
 	cast 'antimagic shell';
 	cast 'spheres';
 	cast 'displacement';

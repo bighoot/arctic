@@ -14,7 +14,3 @@
 
 #action {There were %0 coins} {split %0}
 
-#highlight {Hastam %*} {cyan}
-#highlight {Hastam, %*} {cyan}
-#highlight {%* Hastam, %*} {cyan}
-
