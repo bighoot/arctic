@@ -57,5 +57,6 @@
 
 #action {You feel up to using headbutt again.} {headbutt}
 #action {You feel up to using scrape again.} {scrape}
+#action {You feel up to using freeze again.} {freeze}
 
 

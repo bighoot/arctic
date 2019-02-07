@@ -58,7 +58,7 @@
 #alias rc {b resc cilix;}
 
 #alias recover {a rest; a bandage me; b camp; b rest; b bandage me;}
-#alias fight {a kick %0; b headbutt %0;}
+#alias fight {b kill %0; a kick %0; b wildfire; b anger; b freeze %0;}
 
 
 
