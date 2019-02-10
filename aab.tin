@@ -53,12 +53,27 @@
 #nop alias flame {a cast 'flamestrike' %0;}
 #nop action {Baldr gives you a loaf of bread.} {eat bread}
 
+#alias cl {a cast 'cure light' arcas}
+#alias cs {a cast 'cure ser' arcas}
+#alias cc {a cast 'cure crit' arcas}
+#alias heal {a cast 'heal' arcas}
+#alias regen {a cast 'regen' arcas}
+#alias wave {a cast 'wave'}
+
+#alias sg {a cast 'sp gui';}
+#alias as {a cast 'an sh' %0;}
+#alias ab {a cast 'an bl';}
+#alias sl {a cast 'so le' %0;}
+#alias oas {order all.spirit %0;}
+
+#alias buffs {a as me; a as arcas; a ab; a cast 'bo bl'; a cast 'dark soul';}
+
 #alias kpk {a kick;a punch;a kick;b scrape;}
 #alias ra {a resc arcas;}
-#alias rc {b resc cilix;}
+#alias rm {b cancel; b resc maui;}
 
 #alias recover {a rest; a bandage me; b camp; b rest; b bandage me;}
-#alias fight {b kill %0; a kick %0; b wildfire; b anger; b freeze %0;}
+#alias fight {b kill %0; a kill %0; b wildfire; b anger; b freeze %0; a order all.spirit assist;}
 
 
 
