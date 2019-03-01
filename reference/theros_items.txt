@@ -1,0 +1,35 @@
+Theros Items
+
+ Object 'axe battleaxe iron'
+ Item Type: WEAPON
+ Mat Class: metal        Material: iron
+ Weight   : 20           Value   : 300
+ Class    : battle_axe
+ Damage   : 2D10
+
+ Object 'axe steel battleaxe'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 350
+ Class    : battle_axe
+ Damage   : 2D12
+
+ Object 'axe steel battleaxe'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 500
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 1
+ Class    : battle_axe
+ Damage   : 2D12
+ 
+ 
+ Object 'axe steel battleaxe red-edged'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 24           Value   : 700
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : battle_axe
+ Damage   : 2D13

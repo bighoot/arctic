@@ -53,12 +53,15 @@
 #nop alias flame {a cast 'flamestrike' %0;}
 #nop action {Baldr gives you a loaf of bread.} {eat bread}
 
-#alias cl {a cast 'cure light' arcas}
-#alias cs {a cast 'cure ser' arcas}
-#alias cc {a cast 'cure crit' arcas}
-#alias heal {a cast 'heal' arcas}
-#alias regen {a cast 'regen' arcas}
-#alias wave {a cast 'wave'}
+#alias cl {a cast 'cure light' %0}
+#alias cs {a cast 'cure ser' %0}
+#alias cc {a cast 'cure crit' %0}
+#alias regen {a cast 'regen' %0}
+#alias wave {a cast 'healing wave'}
+#alias bb {a cast 'boiling blood'}
+#alias mm {a cast 'mon man'}
+#alias ds {a cast 'dark soul'}
+#alias rit {a cast 'rit voy' %0;}
 
 #alias sg {a cast 'sp gui';}
 #alias as {a cast 'an sh' %0;}
@@ -71,10 +74,18 @@
 #alias kpk {a kick;a punch;a kick;b scrape;}
 #alias ra {a resc arcas;}
 #alias rm {b cancel; b resc maui;}
+#alias rt {a cancel; a resc teline;}
 
 #alias recover {a rest; a bandage me; b camp; b rest; b bandage me;}
-#alias fight {b kill %0; a kill %0; b wildfire; b anger; b freeze %0; a order all.spirit assist;}
+#alias fffff {b kill %0; a kill %0; b thrash; b wildfire; b anger; a order all.spirit assist;}
+#alias fight {b back %0; a kill %0; b throat; a drain;}
 
+#alias tu {opt refuse_follow; up; opt refuse_follow}
+#alias td {opt refuse_follow; down; opt refuse_follow}
+#alias tn {opt refuse_follow; north; opt refuse_follow}
+#alias te {opt refuse_follow; east; opt refuse_follow}
+#alias tw {opt refuse_follow; west; opt refuse_follow}
+#alias ts {opt refuse_follow; south; opt refuse_follow}
 
 
 
