@@ -18,3 +18,11 @@
 #highlight {Hastam, %*} {cyan}
 #highlight {%* Hastam, %*} {cyan}
 
+#substitute {massacres} {MASSACRES}
+#substitute {massacre} {MASSACRE}
+#substitute {annihilates} {**ANNIHILATES**}
+#substitute {annihilate} {**ANNIHILATE**}
+#substitute {obliterates} {**OBLITERATES`**}
+#substitute {obliterate} {**OBLITERATE**}
+
+#substitute {Hastam} {**HASTAM**}
