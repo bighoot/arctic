@@ -23,7 +23,6 @@ Theros Items
  Class    : battle_axe
  Damage   : 2D12
  
- 
  Object 'axe steel battleaxe red-edged'
  Item Type: WEAPON
  Mat Class: metal        Material: steel
@@ -33,3 +32,39 @@ Theros Items
  Item is  : MAGIC
  Class    : battle_axe
  Damage   : 2D13
+
+ 
+ Object 'trident iron'
+ Item Type: WEAPON
+ Mat Class: metal        Material: iron
+ Weight   : 10           Value   : 250
+ Affects  : HITROLL       by 1
+ Class    : trident
+ Damage   : 2D5
+
+ Object 'trident steel'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 300
+ Affects  : HITROLL       by 1
+ Class    : trident
+ Damage   : 2D6
+ 
+ Object 'trident steel'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 14           Value   : 450
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 1
+ Class    : trident
+ Damage   : 2D6
+
+ Object 'trident steel red-tipped'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 14           Value   : 610
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : trident
+ Damage   : 2D7

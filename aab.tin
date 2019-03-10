@@ -75,10 +75,16 @@
 #alias ra {a resc arcas;}
 #alias rm {b cancel; b resc maui;}
 #alias rt {a cancel; a resc teline;}
+#alias rh {b cancel; b resc halmos;}
 
 #alias recover {a rest; a bandage me; b camp; b rest; b bandage me;}
 #alias fffff {b kill %0; a kill %0; b thrash; b wildfire; b anger; a order all.spirit assist;}
-#alias fight {b back %0; a kill %0; b throat; a drain;}
+#alias fffff {b back %0; a kill %0; b throat; a drain;}
+#alias fffff {order hastam kill %0; b kill %0; b thrash; b wildfire; b anger;}
+#alias fight {b order skag kill %0; b kill %0; b rally; #delay 1 {a order all.spirit kill %0; a kill %0;}}
+
+#alias bog {b order skag %0;}
+#alias steel {bog cast 'steelskin' dany;}
 
 #alias tu {opt refuse_follow; up; opt refuse_follow}
 #alias td {opt refuse_follow; down; opt refuse_follow}
