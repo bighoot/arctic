@@ -14,13 +14,17 @@
 
 #action {There were %0 coins} {split %0}
 
-
+#highlight {Hastam %*} {cyan}
+#highlight {Hastam, %*} {cyan}
+#highlight {%* Hastam, %*} {cyan}
 
 #substitute {massacres} {MASSACRES}
 #substitute {massacre} {MASSACRE}
 #substitute {annihilates} {**ANNIHILATES**}
 #substitute {annihilate} {**ANNIHILATE**}
-#substitute {obliterates} {**OBLITERATES`**}
+#substitute {obliterates} {**OBLITERATES**}
 #substitute {obliterate} {**OBLITERATE**}
 
 #substitute {Hastam} {**HASTAM**}
+
+#substitute {You feel that Velox the mercury golem is up to using detonation I again.} {****CAUSE I'M TNT!  I'M  DYNAMITE!****}

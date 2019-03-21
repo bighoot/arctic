@@ -22,6 +22,7 @@
 #action {You gain a rank} {#a #showme <149>FOLLOWER GAINED A RANK}
 #action {You are hungry} {#a #showme <119>-->FOLLOWER HUNGRY<--}
 #action {You are thirsty} {#a #showme <119>-->FOLLOWER THIRSTY<--}
+#action {Through the darkness, you find a connection to the will of the righteous again.} {#a #showme <149>DANY READY FOR RIGHTEOUS WILL; right;}
 
 #action {%0 tells you %1} {#a #showme <149>PRIVATE MESSAGE FROM %0: %1}
 #action {%0 tells your clan %1} {#a #showme <149>CLAN MESSAGE FROM %0: %1}
@@ -59,4 +60,6 @@
 #action {You feel up to using scrape again.} {scrape}
 #action {You feel up to using freeze again.} {freeze}
 
+#action {disarms your weapon.} {get partisan;wield partisan;}
+#action {strike at} {strike;}
 

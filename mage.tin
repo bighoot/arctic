@@ -103,6 +103,7 @@
 	cast 'spheres of ab'
 }
 {5}
+
 #ALIAS {shell}
 {
 	cast 'anti shell'
@@ -127,7 +128,25 @@
 }
 {5}
 
-#alias {recover}
+#ALIAS {mbo}
+{
+	cast 'magic bolt' %0
+}
+{5}
+
+#ALIAS {cold}
+{
+	cast 'cold snap'
+}
+{5}
+
+#ALIAS {cw}
+{
+	cast 'cripp wave'
+}
+{5}
+
+#alias {rrrrrr}
 {
 	gift;
 	magical anchor;
