@@ -88,7 +88,7 @@
 #alias fffff {b kill %0; b order skag kill %0; b reck; b strike; #delay 1 {a assist; a order all.spirit assist; b rally;}}
 #alias fffff {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; a order velox assist; b rally;}}
 #alias fffff {b kill %0; b anger; b wildfire; #delay 1 {a assist; a order velox assist; b thrash;}}
-#alias fight {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; a order sylph assist; b rally;}}
+#alias fight {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; a order elemental assist; b rally;}}
 
 
 #action {The death cry of} {get all.coins corpse; get all.component corpse; exa corpse;}
