@@ -16,6 +16,7 @@
 #action {You feel up to using dart again.} {dart}
 #action {You are sent sprawling} {cancel;stand;}
 #action {You should probably stand up!} {cancel;stand;}
+#action {You try to bash} {cancel;stand;}
 
 #action {You receive %0 experience} {#a #showme <149>FOLLOWER GAINED XP: %0}
 #action {You raise a level} {#a #showme <149>FOLLOWER GAINED A LEVEL}

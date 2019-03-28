@@ -20,6 +20,7 @@
 #action {You feel up to using dart again.} {dart}
 #action {You are sent sprawling} {cancel;stand;}
 #action {You should probably stand up!} {cancel;stand;}
+#action {You try to bash} {cancel;stand;}
 
 #action {You receive %0 experience} {#b #showme <149>FOLLOWER GAINED XP: %0}
 #action {You raise a level} {#b #showme <149>FOLLOWER GAINED A LEVEL}
@@ -63,6 +64,8 @@
 #alias mm {a cast 'mon man'}
 #alias ds {a cast 'dark soul'}
 #alias rit {a cast 'rit voy' %0;}
+#alias rf {a cast 'rot fle' %0;}
+#alias amp {a cast 'amp spi';}
 
 #alias sg {a cast 'sp gui';}
 #alias as {a cast 'an sh' %0;}
@@ -88,8 +91,10 @@
 #alias fffff {b kill %0; b order skag kill %0; b reck; b strike; #delay 1 {a assist; a order all.spirit assist; b rally;}}
 #alias fffff {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; a order velox assist; b rally;}}
 #alias fffff {b kill %0; b anger; b wildfire; #delay 1 {a assist; a order velox assist; b thrash;}}
-#alias fight {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; a order elemental assist; b rally;}}
+#alias fffff {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; order elemental assist; b rally;}}
+#alias fffff {b kill %0; b anger; b wildfire; #delay 1 {a assist; a order all.spirit assist; b thrash;}}
 
+#alias fight {a kill %0; a thrash; a anger; a wildfire; #delay 1 {b bash %0; b punch; b kick low;}}
 
 #action {The death cry of} {get all.coins corpse; get all.component corpse; exa corpse;}
 
