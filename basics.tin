@@ -24,6 +24,7 @@
 #substitute {annihilate} {**ANNIHILATE**}
 #substitute {obliterates} {**OBLITERATES**}
 #substitute {obliterate} {**OBLITERATE**}
+#substitute {%0 stands up} {-#-#-#-#-#-#-#-> %0 <-#-#-#-#-#-#-#- }
 
 #substitute {Hastam} {**HASTAM**}
 

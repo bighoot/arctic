@@ -5,7 +5,7 @@
 
 #alias loot {get all %0.corpse;get all.coins; b carve %0.corpse;}
 #alias rrrrrr {camp; a rest; b rest; a bandage me; b bandage me; a hide; b hide;}
-#alias recover {a rest; a deep; b rest; b bandage me; b recuperate; b mend bag;}
+#alias recover {a camp; a rest; a bandange me; b rest; b bandage me;}
 
 #macro {`} {b cancel;b stand;b rescue halmos}
 #macro {-} {cancel; get recall chest; recite recall dany; get recall chest; recite recall me;}
@@ -75,8 +75,9 @@
 
 #alias buffs {a as me; a as arcas; a ab; a cast 'bo bl'; a cast 'dark soul';}
 
-#alias kpk {a kick;a punch;a kick;b scrape;}
-#alias ra {a resc arcas;}
+#alias kpk {b kick low;b punch;b kick low;}
+#alias bash {b bash %0;}
+#alias ra {b resc arcas;}
 #alias rm {b cancel; b resc maui;}
 #alias rt {a cancel; a resc teline;}
 #alias rh {b cancel; b resc halmos;}
@@ -92,9 +93,12 @@
 #alias fffff {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; a order velox assist; b rally;}}
 #alias fffff {b kill %0; b anger; b wildfire; #delay 1 {a assist; a order velox assist; b thrash;}}
 #alias fffff {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; order elemental assist; b rally;}}
-#alias fffff {b kill %0; b anger; b wildfire; #delay 1 {a assist; a order all.spirit assist; b thrash;}}
+#alias fffff {b kill %0; b kick; #delay 1 {a assist; a order all.spirit assist;}}
 
-#alias fight {a kill %0; a thrash; a anger; a wildfire; #delay 1 {b bash %0; b punch; b kick low;}}
+#alias fffff {a kill %0; a thrash; a anger; a wildfire; #delay 1 {b assist;}}
+#alias fffff {b bash %0; a assist; a order all.spirit assist;}
+
+#alias fight {b sip all.bottle; b charge %0; b healdance; b wardance; b wilddance; b gore; #delay 1 {a assist; a hex; a spook;}}
 
 #action {The death cry of} {get all.coins corpse; get all.component corpse; exa corpse;}
 
@@ -108,5 +112,7 @@
 #alias og {order hastam %0;}
 #alias od {order skag %0;}
 
+#alias v {assist sharg; b assist sharg; b bash; rally;}
 
-
+#nop {claws YOU} {b south;}
+#nop {Dany comes to your rescue} {b flee; b flee; b flee;}

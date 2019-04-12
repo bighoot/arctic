@@ -16,14 +16,20 @@
 #action {You feel up to using dart again.} {dart}
 #action {You are sent sprawling} {cancel;stand;}
 #action {You should probably stand up!} {cancel;stand;}
-#action {You try to bash} {cancel;stand;}
+#action {You try to bash} {cancel;stand;#a #showme <119>** OUCHIES, MISSED THE BASH!!! **; #b #showme <119>** OUCHIES, MISSED THE BASH!!! **;}
 
 #action {You receive %0 experience} {#a #showme <149>FOLLOWER GAINED XP: %0}
 #action {You raise a level} {#a #showme <149>FOLLOWER GAINED A LEVEL}
 #action {You gain a rank} {#a #showme <149>FOLLOWER GAINED A RANK}
 #action {You are hungry} {#a #showme <119>-->FOLLOWER HUNGRY<--}
 #action {You are thirsty} {#a #showme <119>-->FOLLOWER THIRSTY<--}
+#action {You feel enlightened.} {#a #showme <119>-->FOLLOWER ENLIGHTENED<--}
+#action {You feel especially skillful today.} {#a #showme <119>-->FOLLOWER SKILLFUL<--}
 #action {Through the darkness, you find a connection to the will of the righteous again.} {#a #showme <149>DANY READY FOR RIGHTEOUS WILL; right;}
+#action {You can focus again on your prayers.} {#a #showme <149>DANY READY FOR DIVINE FOCUS;}
+
+#action {doesn't recover as you deliver the bash} {#a #showme <129>** DEATH BY BASH!!! **; #b #showme <129>** DEATH BY BASH!!! **;}
+#action {You crash into %0 sprawling to the ground.} {#a #showme <129>** IN THE FACE!!! **; #b #showme <129>** IN THE FACE!!! **;}
 
 #action {%0 tells you %1} {#a #showme <149>PRIVATE MESSAGE FROM %0: %1}
 #action {%0 tells your clan %1} {#a #showme <149>CLAN MESSAGE FROM %0: %1}
@@ -61,6 +67,10 @@
 #action {You feel up to using scrape again.} {scrape}
 #action {You feel up to using freeze again.} {freeze}
 
-#action {disarms your weapon.} {get partisan;wield partisan;}
+#action {disarms your weapon.} {get sword;wield sword;}
 #action {strike at} {strike;}
+
+#action {You are hungry} {cast 'su el'; drink elixir;}
+
+
 
