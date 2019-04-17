@@ -3,7 +3,7 @@
 #alias a #a %0
 #alias b #b %0
 
-#alias loot {get all %0.corpse;get all.coins; b carve %0.corpse;}
+#alias loot {get all %0.corpse; get all.coins; #delay 1 {a rest; a bandage me; a seance; b carve %0.corpse; b rest; b recuperate; b bandage me; b lore boots; b sharpen spear; b mend spear; b sta; a sta;}}
 #alias rrrrrr {camp; a rest; b rest; a bandage me; b bandage me; a hide; b hide;}
 #alias recover {a camp; a rest; a bandange me; b rest; b bandage me;}
 
@@ -96,9 +96,9 @@
 #alias fffff {b kill %0; b kick; #delay 1 {a assist; a order all.spirit assist;}}
 
 #alias fffff {a kill %0; a thrash; a anger; a wildfire; #delay 1 {b assist;}}
-#alias fffff {b bash %0; a assist; a order all.spirit assist;}
+#alias fight {b bash %0; a assist; a order all.spirit assist;}
 
-#alias fight {b sip all.bottle; b charge %0; b healdance; b wardance; b wilddance; b gore; #delay 1 {a assist; a hex; a spook;}}
+#alias fffff {b sip all.bottle; b charge %0; b battle; b breach; b healdance; b healdance; b healdance; b gore; b assail; #delay 1 {a assist; a order all.spirit assist; a hex; a spook; a stupe;}}
 
 #action {The death cry of} {get all.coins corpse; get all.component corpse; exa corpse;}
 
@@ -112,7 +112,7 @@
 #alias og {order hastam %0;}
 #alias od {order skag %0;}
 
-#alias v {assist sharg; b assist sharg; b bash; rally;}
+#alias v {assist dottie; b ass dottie; order all.spirit assist dottie; frenz; spook; stupe; hex;}
 
 #nop {claws YOU} {b south;}
 #nop {Dany comes to your rescue} {b flee; b flee; b flee;}

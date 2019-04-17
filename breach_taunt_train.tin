@@ -1,0 +1,6 @@
+#action {until he becomes red in the face.} {b ass; b breach;}
+#action {but ends up weeping instead.} {b breach;}
+#action {and pushes you out of the way of battle.} {ass;taunt}
+#action {but he ignores you.} {taunt}
+#action {You're thankful, but a bit dazed.} {ass;taunt;}
+#action {tries to shove you out of the way of battle.} {b breach;}

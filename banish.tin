@@ -1,0 +1,5 @@
+#alias newskag {b sta; b cast 'su mo'; b rest;}
+
+#action {Skag the bronze dragon now follows Dany.} {banish skag}
+#action {You glare at Skag the bronze dragon and clench your fist.} {banish skag}
+#action {Skag the bronze dragon transcends this world and enters another plane.} {newskag}
