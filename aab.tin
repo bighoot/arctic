@@ -48,11 +48,18 @@
 #nop alias water {a drink all.water; b drink all.water;}
 #nop alias bli {a cast 'blind' %0;}
 #nop alias cur {a cast 'curse' %0;}
-#nop alias sil {a cast 'silence' %0;}
 #nop alias cas {a cast 'cause ser' %0;}
 #nop alias harm {a cast 'harm' %0;}
 #nop alias hp {a cast 'hold person' %0;}
-#nop alias flame {a cast 'flamestrike' %0;}
+
+#alias sil {a cast 'silence' %0;}
+#alias bli {a cast 'blind' %0;}
+#alias flame {a cast 'flamestrike' %0;}
+#alias sun {a cast 'sunbolt' %0;}
+#alias heal {a cast 'heal' %0;}
+#alias mist {a cast 'healing mist';}
+#alias prayer {a cast 'prayer';}
+#alias harm {a cast 'harm' %0;}
 #nop action {Baldr gives you a loaf of bread.} {eat bread}
 
 #alias cl {a cast 'cure light' %0}
@@ -96,11 +103,15 @@
 #alias fffff {b kill %0; b kick; #delay 1 {a assist; a order all.spirit assist;}}
 
 #alias fffff {a kill %0; a thrash; a anger; a wildfire; #delay 1 {b assist;}}
-#alias fight {b bash %0; a assist; a order all.spirit assist;}
+#alias fffff {b bash %0; a assist; a order all.spirit assist;}
 
 #alias fffff {b sip all.bottle; b charge %0; b battle; b breach; b healdance; b healdance; b healdance; b gore; b assail; #delay 1 {a assist; a order all.spirit assist; a hex; a spook; a stupe;}}
+#alias fffff {b kill %0; b strike; b reck; #delay 1 {a order all.spirit assist dany; a assist; a hex; a spook; a stupe;} #delay 2 {b rally;}}
 
-#action {The death cry of} {get all.coins corpse; get all.component corpse; exa corpse;}
+#nop BALDR and CILIX
+#alias fight {b kill %0; kpk; #delay 1 {a assist cilix;}}
+
+#action {The death cry of} {get all.coins corpse; exa corpse;}
 
 #alias bog {b order skag %0;}
 #alias steel {bog cast 'steelskin' dany;}
