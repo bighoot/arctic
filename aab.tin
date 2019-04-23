@@ -8,7 +8,7 @@
 #alias recover {a camp; a rest; a bandange me; b rest; b bandage me;}
 
 #macro {`} {b cancel;b stand;b rescue halmos}
-#macro {-} {cancel; get recall chest; recite recall dany; get recall chest; recite recall me;}
+
 
 #alias uu {fade up}
 #alias dd {fade down}
@@ -42,16 +42,16 @@
 #nop alias heal {a cast 'heal' vali}
 #nop alias regen {a cast 'regen' vali}
 #nop alias wave {a cast 'wave'}
+
 #nop alias bless {a cast 'bless' vali}
-#nop alias prayer {a cast 'prayer'}
 #nop alias food {a cast 'create food'; a give bread vali; a eat bread;}
 #nop alias water {a drink all.water; b drink all.water;}
-#nop alias bli {a cast 'blind' %0;}
 #nop alias cur {a cast 'curse' %0;}
-#nop alias cas {a cast 'cause ser' %0;}
-#nop alias harm {a cast 'harm' %0;}
-#nop alias hp {a cast 'hold person' %0;}
+#nop action {Baldr gives you a loaf of bread.} {eat bread}
 
+#alias cac {a cast 'cause crit' %0;}
+#alias cas {a cast 'cause ser' %0;}
+#alias hp {a cast 'hold person' %0;}
 #alias sil {a cast 'silence' %0;}
 #alias bli {a cast 'blind' %0;}
 #alias flame {a cast 'flamestrike' %0;}
@@ -60,11 +60,12 @@
 #alias mist {a cast 'healing mist';}
 #alias prayer {a cast 'prayer';}
 #alias harm {a cast 'harm' %0;}
-#nop action {Baldr gives you a loaf of bread.} {eat bread}
+#alias word {a cast 'w o r' %0;}
 
 #alias cl {a cast 'cure light' %0}
 #alias cs {a cast 'cure ser' %0}
 #alias cc {a cast 'cure crit' %0}
+
 #alias regen {a cast 'regen' %0}
 #alias wave {a cast 'healing wave'}
 #alias bb {a cast 'boiling blood'}
@@ -123,7 +124,10 @@
 #alias og {order hastam %0;}
 #alias od {order skag %0;}
 
-#alias v {assist dottie; b ass dottie; order all.spirit assist dottie; frenz; spook; stupe; hex;}
+#alias v {assist; b assist; kpk;}
+#alias practice {rest; brew 'bless'; scribe 'bless'; rem armor; wear armor; bandage me; meditate;}
+#alias milky {get milky chest; quaff milky;}
+#alias rb {b cancel; b stand; b rescue baldr;}
 
 #nop {claws YOU} {b south;}
 #nop {Dany comes to your rescue} {b flee; b flee; b flee;}
