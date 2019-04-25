@@ -1,0 +1,860 @@
+[0m#LOG: LOGGING OUTPUT TO 'soth.txt' FILESIZE: 0[0m
+[0;37mct ok logging[0m
+[0m[1;34;49mCLAN MESSAGE FROM Halmos: 'ok logging'[0m
+You tell your clan 'ok logging'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NSW> 
+[36mAli tells your group 'from here i think is all s'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NSW> 
+Ali flies south.
+You follow Ali south.
+[36mSouth of A Junction of Paths[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m138V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+Ali flies south.
+You follow Ali south.
+[36mBanks of the Vingaard River[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m136V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+Ali flies south.
+You follow Ali south.
+[36mThe Vingaard River[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m134V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+Ali flies south.
+You follow Ali south.
+[36mThe Banks of the Vingaard River[0;37m
+[33m[1m-#-#-#-#-#-#-#-> A small wooden signpost <-#-#-#-#-#-#-#-  stands upright at the edge of the road.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m132V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NES> 
+Ali flies south.
+You follow Ali south.
+[36mNear the Mighty Vingaard[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m130V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+Ali flies south.
+You follow Ali south.
+[36mCrossing the Plains[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NEW> 
+[36mAli tells your group 'east here goes to tirabot i think'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NEW> 
+Ali flies east.
+You follow Ali east.
+[36mCrossing the Plains[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m126V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:SW> 
+[36mAli tells your group 'oh thats what I forgot.'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m126V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:SW> 
+Ali flies south.
+You follow Ali south.
+[36mTravelling the Plains of Estwilde[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m124V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+Ali flies south.
+You follow Ali south.
+[36mIn Sight of a Small Hamlet[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m122V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+Ali flies south.
+You follow Ali south.
+[36mOutside A Small Keep[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m120V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NEW> [0;37mnod[0m
+You nod solemnly.
+
+[32m[0;37m[32m339H [0;37m[32m120V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NEW> 
+[36mAli tells your group 'east here is Tirabot.'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m120V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NEW> [0;37mgt ah, k[0m
+You tell your group 'ah, k'
+
+[32m[0;37m[32m339H [0;37m[32m120V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NEW> 
+Ali flies west.
+You follow Ali west.
+[36mNear a Small Hamlet[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m118V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:EW> 
+[36mAli tells your group 'then w'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m118V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:EW> 
+Ali flies west.
+You follow Ali west.
+[36mNearing the Border of Estwilde[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m116V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:ES> 
+Ali flies south.
+You follow Ali south.
+[36mCrossing the Borders of Nightlund and Estwilde[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m114V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+Ali flies south.
+You follow Ali south.
+[36mThe Plains of Nightlund[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[33m[1m112V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NE> 
+Ali flies east.
+You follow Ali east.
+[36mEntering the Dargaard Mountains[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[33m[1m110V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:SW> 
+[36mAli tells your group '***tick in ten***'
+[0;37m
+[32m[0;37m[32m339H [0;37m[33m[1m110V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:SW> 
+Ali flies south.
+You follow Ali south.
+[36mBefore the Dargaard Mountains[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m138V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NES> 
+[36mAli tells your group 'east here'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m138V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NES> 
+Ali flies east.
+You follow Ali east.
+[36mBefore a Yawning Chasm[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m136V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:SW> 
+Ali flies south.
+You follow Ali south.
+[36mA Mountainous Path[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m134V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NE> 
+Ali flies east.
+You follow Ali east.
+[36mA Mountainous Path[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m132V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:EW> 
+Ali flies east.
+You follow Ali east.
+[36mA Mountainous Path[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m130V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NW> 
+Ali flies north.
+You follow Ali north.
+[36mA Scorched Stone Bridge[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> 
+Ali says 'this bridge is locate room'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> [0;37msay thanks[0m
+You say 'thanks'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> [0;37mcast 'lo ob' book[0m
+As you get a hand-held sundial from your pouch, it bursts into flames!
+You utter the words, 'locate object'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mcast 'lo ob' book[0m
+
+Ali says 'locate "Pitch" to test'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+You utter the words, 'locate object'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mcast 'lo ob' pitch[0m
+You utter the words, 'locate object'
+Your eyes briefly glow red.
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mcast 'lo ob' pitch[0m
+You utter the words, 'locate object'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37msay nothing[0m
+You say 'nothing'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37msay but i dont have NV[0m
+You say 'but i dont have NV'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Ali says 'well hmm'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mtime[0m
+It is 4 o'clock pm, on Palast
+The 8th Day of Aelmont, Year 1057.
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Ali says 'locate belt'
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> [0;37mmem[0m
+Spells currently memorized:
+1: [ 1]blur                 [ 1]detect magic         [ 1]floating disc       
+   [ 2]magic missile        [ 1]repose               [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 2]invisibility        
+   [ 3]silence              [ 1]strength            
+3: [ 1]dispel magic         [ 1]fly                  [ 2]gust of wind        
+   [ 1]lightning bolt       [ 1]rot                  [ 1]water breath        
+4: [ 5]cold snap            [ 1]free action          [ 1]improved invisibilit
+5: [ 1]drain magic          [ 1]force bolt           [ 1]mental acuity       
+   [ 1]read magic          
+6: [ 1]chain lightning      [ 1]displacement         [ 1]minor globe of invul
+   [ 1]potency              [ 1]relocate             [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 3]force missile        [ 1]lightning shield    
+   [ 1]tether              
+8: [ 1]mnemonic enhancer    [ 4]shocking blast      
+9: [ 1]astral portal        [ 3]crippling wave      
+
+Spells being memorized:
+5: [ 4]locate object       
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+[36mAli tells your group '***tick in ten***'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m128V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mExits:NESW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> [0;37mcast 'lo ob' belt[0m
+You utter the words, 'locate object'
+A heavy leather toolbelt equipped by a blue dragonarmy blacksmith.
+A heavy black belt equipped by Sir Peyotr Gerovik.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37msay yeah, hit[0m
+You say 'yeah, hit'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Ali says 'soth has "pitch,belt,blood,purple"'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mcast 'lo ob' blood[0m
+You utter the words, 'locate object'
+A drop of black dragon blood in a plain component pouch.
+A jar of dark red blood in an embossed jellyfish pouch.
+A small vial of blood red water carried by the clan alchemist.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mcast 'lo ob' purple[0m
+You utter the words, 'locate object'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[37mYour clanmate Pirotess has entered the game.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Ali says 'book of the dead is what you're after.'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Pirotess: 'anything going on?'[0m
+
+[36mPirotess tells your clan 'anything going on?'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> [0;37mgt A heavy black belt equipped by Sir Peyotr Gerovik.[0m
+You tell your group 'A heavy black belt equipped by Sir Peyotr Gerovik.'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> [0;37mgt only hit so far[0m
+You tell your group 'only hit so far'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> [0;37mct not really[0m
+[0m[1;34;49mCLAN MESSAGE FROM Halmos: 'not really'[0m
+You tell your clan 'not really'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+[36mAli tells your group '***tick in ten***'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Ali says 'stay put ill get Chtonia'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mExits:NESW> [0;37mrest[0m
+You are already resting.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mExits:NESW> 
+Ali utters the words, 'word of recall'.
+Ali disappears.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mExits:NESW> 
+You are no longer a member of Ali's group.
+You stop following Ali.
+[37mYour clanmate Ali has left the game.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mExits:NESW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> [0;37mcast 'lo ob' book[0m
+You utter the words, 'locate object'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mcast 'lo ob' book[0m
+You utter the words, 'locate object'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[37mYour clanmate Chtonia has entered the game.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You are casting at level 21.
+You are a Clansman in MYTH.
+You are rank 25. You have completed 6.73% of your next rank.
+You are 40 years old.
+You have 339(339) hit and 140(140) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 199999999 exp, and have 231(4803) steel coins.
+You have 1 rank point to spend.
+You have died 12 horrible deaths.
+You have been connected for 12 minute(s).
+You have been playing for 12 day(s), 7 hour(s) and 33 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 23 Wis: 18 Dex: 19 Con: 12 Cha: 16
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    fly
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Chtonia appears before you in a puff of smoke.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Chtonia utters the words, 'locate object'.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Chtonia says 'I got bracer equipped by soth'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Chtonia says 'must need NV'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mcast 'lo ob' bracer[0m
+You utter the words, 'locate object'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Chtonia says '"pitch"'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37magree[0m
+[0;37msc[0m
+You nod your head in agreement.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You are casting at level 21.
+You are a Clansman in MYTH.
+You are rank 25. You have completed 6.73% of your next rank.
+You are 40 years old.
+You have 339(339) hit and 140(140) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 199999999 exp, and have 231(4803) steel coins.
+You have 1 rank point to spend.
+You have died 12 horrible deaths.
+You have been connected for 12 minute(s).
+You have been playing for 12 day(s), 7 hour(s) and 33 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 23 Wis: 18 Dex: 19 Con: 12 Cha: 16
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    anti-spam measures
+    fly
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Chtonia utters the words, 'locate object'.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Chtonia begins resting but stays aloft.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37msay You are casting at level 21.[0m
+You say 'You are casting at level 21.'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Chtonia closes her spellbook with a content look on her face.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+-#-#-#-#-#-#-#-> Chtonia <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37msad[0m
+Awwww! Don't give up hope. I'm sure your mother loves you...
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Chtonia says 'that too.'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Chtonia says 'should fix that. :)'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Chtonia gives you a long silver-streaked black robe.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mwear robe[0m
+You already wear something about your body.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mrem robe[0m
+You are not wearing anything with that description.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37meq[0m
+You are using:
+<worn on finger>           a black ice ring..it glows dimly
+<worn around neck>         a cloak made of old, black cloth
+<worn on legs>             a pair of leather pants
+<worn on feet>             a pair of leather boots
+<worn on hands>            a pair of red gloves of the Conclave
+<worn on arms>             a pair of leather sleeves
+<worn about body>          some heavy red robes of the Conclave
+<worn as pouch>            a plain component pouch
+<used in both hands>       a shark jaw bone crossbow
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Chtonia looks at you.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mrem robes[0m
+You stop using some heavy red robes of the Conclave.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mwear robe[0m
+You smoothly slip into a long silver-streaked black robe.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You are casting at level 23.
+You are a Clansman in MYTH.
+You are rank 25. You have completed 6.73% of your next rank.
+You are 40 years old.
+You have 339(339) hit and 140(140) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 199999999 exp, and have 231(4803) steel coins.
+You have 1 rank point to spend.
+You have died 12 horrible deaths.
+You have been connected for 13 minute(s).
+You have been playing for 12 day(s), 7 hour(s) and 34 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 23 Wis: 18 Dex: 19 Con: 12 Cha: 16
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    fly
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37msay 23[0m
+You say '23'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mmem[0m
+Spells currently memorized:
+1: [ 1]blur                 [ 1]detect magic         [ 1]floating disc       
+   [ 2]magic missile        [ 1]repose               [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 2]invisibility        
+   [ 3]silence              [ 1]strength            
+3: [ 1]dispel magic         [ 1]fly                  [ 2]gust of wind        
+   [ 1]lightning bolt       [ 1]rot                  [ 1]water breath        
+4: [ 5]cold snap            [ 1]free action          [ 1]improved invisibilit
+5: [ 1]drain magic          [ 1]force bolt           [ 1]locate object       
+   [ 1]mental acuity        [ 1]read magic          
+6: [ 1]chain lightning      [ 1]displacement         [ 1]minor globe of invul
+   [ 1]potency              [ 1]relocate             [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 3]force missile        [ 1]lightning shield    
+   [ 1]tether              
+8: [ 1]mnemonic enhancer    [ 4]shocking blast      
+9: [ 1]astral portal        [ 3]crippling wave      
+
+Spells being memorized:
+5: [ 3]locate object       
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Chtonia says 'better.'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37min[0m
+You are carrying:
+some heavy red robes of the Conclave
+a small wooden chest
+a waterskin [3]
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Chtonia says 'reveal'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mreveal[0m
+You reveal your equipment for all to see.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Chtonia looks at you.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37meq[0m
+You are using:
+<worn on finger>           a black ice ring..it glows dimly
+<worn around neck>         a cloak made of old, black cloth
+<worn on legs>             a pair of leather pants
+<worn on feet>             a pair of leather boots
+<worn on hands>            a pair of red gloves of the Conclave
+<worn on arms>             a pair of leather sleeves
+<worn about body>          a long silver-streaked black robe
+<worn as pouch>            a plain component pouch
+<used in both hands>       a shark jaw bone crossbow
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Chtonia says 'sec'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Chtonia utters the words, 'relocate'.
+Chtonia disappears in a puff of smoke.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Your studies complete, you close your spellbook with a smile.
+The cloud-veiled sky becomes even darker as the sun sets.
+A cloudy potion decays in your hands.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> [0;37msta[0m
+You are already standing.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> [0;37mcast 'lo ob' bracer[0m
+You utter the words, 'locate object'
+A blue ochre bracer equipped by a recruit.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mcast 'lo ob' bracer[0m
+You utter the words, 'locate object'
+A blue ochre bracer equipped by a recruit.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Chtonia appears before you in a puff of smoke.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Chtonia says 'relo to Wayreth and buy a set of gloves'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Chtonia looks at you.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Chtonia says 'nm'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> [0;37msay i have them[0m
+You say 'i have them'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Chtonia says 'you got them'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> [0;37mgig[0m
+You giggle.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+Your studies complete, you close your spellbook with a smile.
+The darkness marks the end of another day.
+The rain has stopped.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mExits:NESW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You are casting at level 23.
+You are a Clansman in MYTH.
+You are rank 25. You have completed 6.73% of your next rank.
+You are 40 years old.
+You have 339(339) hit and 140(140) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 199999999 exp, and have 231(4803) steel coins.
+You have 1 rank point to spend.
+You have died 12 horrible deaths.
+You have been connected for 14 minute(s).
+You have been playing for 12 day(s), 7 hour(s) and 35 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 23 Wis: 18 Dex: 19 Con: 12 Cha: 16
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are resting.
+You are flying.
+You are affected by the following:
+    fly
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [Pos:resting] [0;37mExits:NESW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> [0;37mcast 'lo ob' book[0m
+You utter the words, 'locate object'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mcast 'lo ob' book[0m
+You utter the words, 'locate object'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mshrug[0m
+You shrug.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mrem robe[0m
+You stop using a long silver-streaked black robe.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mgive robe chtonia[0m
+You give something to Chtonia.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mwear robes[0m
+You wear some heavy red robes of the Conclave about your body.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37min[0m
+You are carrying:
+a small wooden chest
+a waterskin [3]
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mexa chest[0m
+The chest is beginning to show signs of warping. (70%)
+chest (carried) : 
+a smoked sausage [7]
+a cloudy potion [3]
+a common scroll [5]
+a faint mote of condensed magic
+a wispy mote of condensed magic
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37min[0m
+You are carrying:
+a small wooden chest
+a waterskin [3]
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37msay i dont play him enough to keep gear on him[0m
+You say 'i dont play him enough to keep gear on him'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37ml[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+Chtonia closes her spellbook with a content look on her face.
+[37mThe clouds block your view of Solinari.
+[31mThe clouds block your view of Lunitari.
+[34m[0;37mA common scroll decays in your hands.
+It is pitch black.
+[33m[1m[0;37m[31m[1m<MYTH> Chtonia the Female Human is standing here. (flying) (invisible)
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37msay but thanks for the intel[0m
+You say 'but thanks for the intel'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37ml[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1m<MYTH> Chtonia the Female Human is standing here. (flying) (invisible)
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mcast 'cont lig'[0m
+As you get a golden nugget from your pouch, it bursts into flames!
+You utter the words, 'continual light'
+You make a sweeping gesture, creating a small ball of light.
+The ball of light begins following you, hovering nearby.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37ml[0m
+[36mA Scorched Stone Bridge[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Chtonia the Female Human is standing here. (flying) (invisible)
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You are casting at level 21.
+You are a Clansman in MYTH.
+You are rank 25. You have completed 6.73% of your next rank.
+You are 40 years old.
+You have 339(339) hit and 140(140) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 199999999 exp, and have 231(4803) steel coins.
+You have 1 rank point to spend.
+You have died 12 horrible deaths.
+You have been connected for 16 minute(s).
+You have been playing for 12 day(s), 7 hour(s) and 37 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 23 Wis: 18 Dex: 19 Con: 12 Cha: 16
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    continual light
+    fly
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mrank[0m
+You currently have 1 Rank Point to spend.
+
+Your current rank affects:
+
+1  Soul Armor             NOCHARM IMMUNE_CURSE          
+2  Elude Spell            SAVING_SPELL by -1            
+3  Elude Spell            SAVING_SPELL by -1            
+4  Elude Spell            SAVING_SPELL by -1            
+5  Loudmouth              IMMUNE_SILENCE                
+6  Grit                   CON by 1                      
+7  Grit                   CON by 1                      
+8  Grit                   CON by 1                      
+9  Arctic Legend          Turns you into a Legendary    
+                          character.                    
+10 Legendary Read Magic   spell slots by 1 at level 5   
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mvisitsolace[0m
+You utter the words, 'relocate'
+[36mSolace School of Magic[0;37m
+[33m[1mA magical sign floats in the air here...it glows dimly
+A chart of the moons is posted on the wall over in the far corner.
+[0;37m[31m[1mMaster Theobald wanders his school looking for troublemakers.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:E> [0;37mct thanks for help[0m
+[0m[1;34;49mCLAN MESSAGE FROM Halmos: 'thanks for help'[0m
+You tell your clan 'thanks for help'
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:E> [0;37me[0m
+A beautiful vallenwood leaf falls to the ground.
+[36mOn a Vallenwood Bough[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mA fidgeting wiry young boy stands here looking suspicious.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m139V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESWD> [0;37ms[0m
+[36mOn a Vallenwood Bough[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m137V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:N(E)S> [0;37ms[0m
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mA lively young child freely romps around the area.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m135V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESWUD> [0;37md[0m
+[36mSolace Square[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA street illusionist drawing quite a crowd with his performance.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m134V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESWU> 
+You can't put liquids in a black ice ring!
+You can't put liquids in a cloak made of old, black cloth!
+You can't put liquids in a pair of leather pants!
+You can't put liquids in a pair of leather boots!
+You can't put liquids in a pair of red gloves of the Conclave!
+You can't put liquids in a pair of leather sleeves!
+You can't put liquids in some heavy red robes of the Conclave!
+You can't put liquids in a plain component pouch!
+You can't put liquids in a shark jaw bone crossbow!
+You can't put liquids in a small wooden chest!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m339H [0;37m[32m134V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESWU> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m339H [0;37m[32m133V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NSWU> 
+Chtonia appears before you in a puff of smoke.
+
+[32m[0;37m[32m339H [0;37m[32m133V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NSWU> [0;37mw[0m
+[36mA Small Side Street[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mA citizen of Solace moves quickly about.
+An old beggar hobbles along here looking for handouts.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m132V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NEU> [0;37mu[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects.
+Otik watches you calmly, while he skillfully mixes a drink.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m131V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:SWUD> [0;37mu[0m
+[36mThe Reception[0;37m
+[33m[1mA wooden bucket sits on the ground here.
+A black adamantite spider on a gold chain rests here...it hums softly
+A large board with numerous wanted posters tacked on it is here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m130V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:D> 
+[0m#SESSION 'a' DIED.[0m
+
+The receptionist sighs and starts flipping through a leather bound book.
+Dolan stares at the receptionist but quickly looks away when she looks up.
+[37mYour clanmate Baldr has left the game.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> [0;37mstarta[0m
+[0m#TRYING TO CONNECT 'a' TO 'mud.arctic.org' PORT '2700'.[0m
+
+[37mYour clanmate Baldr has entered the game.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> 
+Barry flies in from below.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> 
+Barry wields a petrified cannabis clavariaceae with both hands.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> 
+The receptionist gives Barry an offer.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> 
+The receptionist shows Barry to his room.
+Barry sinks gently to the ground.
+Quintas stops following Barry.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> 
+[36mChtonia tells your clan 'np man'
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> 
+[0m#SESSION 'b' ACTIVATED.[0m
+[0;37ml[0m
+[36mThe Reception[0;37m
+[33m[1mA wooden bucket sits on the ground here.
+A black adamantite spider on a gold chain rests here...it hums softly
+A large board with numerous wanted posters tacked on it is here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> 
+[37mYour clanmate Chtonia has left the game.
+[0;37m
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> [0;37min[0m
+You are carrying:
+a small wooden chest
+a waterskin [3]
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> [0;37msta[0m
+You are already standing.
+
+[32m[0;37m[32m339H [0;37m[32m140V [0;37m1X 6.73% 231C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:D> [0;37mrent[0m
+[33m[1m                     a black ice ring : 350 coins/day
+[0;37m[33m[1m     a cloak made of old, black cloth : 100 coins/day
+[0;37m[33m[1m              a pair of leather pants : 12 coins/day
+[0;37m[33m[1m              a pair of leather boots : 14 coins/day
+[0;37m[33m[1m a pair of red gloves of the Conclave : 20 coins/day
+[0;37m[33m[1m            a pair of leather sleeves : 16 coins/day
+[0;37m[33m[1m some heavy red robes of the Conclave : 100 coins/day
+[0;37m[33m[1m              a plain component pouch : 5 coins/day
+[0;37m[33m[1m                a flattened lead disc : 5 coins/day
+[0;37m[33m[1m      an adder's tongue fern leaf [2] : 24 coins/day
+[0;37m[33m[1m    a neatly folded parchment fan [3] : 36 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 27 coins/day
+[0;37m[33m[1m                       a pineal gland : 19 coins/day
+[0;37m[33m[1ma dried piece of octopus tentacle [2] : 42 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 42 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 10 coins/day
+[0;37m[33m[1m              a small paraffin candle : 5 coins/day
+[0;37m[33m[1m            a splintered demon's horn : 55 coins/day
+[0;37m[33m[1m              some bitten fingernails : 4 coins/day
+[0;37m[33m[1m         a drop of black dragon blood : 35 coins/day
+[0;37m[33m[1m            a sparkling green emerald : 70 coins/day
+[0;37m[33m[1m               flakes of leprous skin : 45 coins/day
+[0;37m[33m[1m                 powdered bull's horn : 11 coins/day
+[0;37m[33m[1m            a shark jaw bone crossbow : 120 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m                 a smoked sausage [7] : 7 coins/day
+[0;37m[32m                  a cloudy potion [3] : 30 coins/day
+[0;37m[32m                  a common scroll [4] : 40 coins/day
+[0;37m[32m      a faint mote of condensed magic : 0 coins/day
+[0;37m[32m      a wispy mote of condensed magic : 0 coins/day
+[0;37m[33m                      a waterskin [3] : 3 coins/day
+[0;37mThe receptionist tells you 'You need at least 1248 coins to rent.'
+The receptionist tells you 'You will be able to rent for 12 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+5) Create new character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'b' DIED.[0m
