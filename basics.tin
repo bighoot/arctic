@@ -26,6 +26,8 @@
 #substitute {obliterate} {**OBLITERATE**}
 #substitute {%0 stands up} {-#-#-#-#-#-#-#-> %0 <-#-#-#-#-#-#-#- }
 
+#substitute {You feel up to using %0 again.} {##!##!##!##>  %0  <##!##!##!##}
+
 #substitute {Hastam} {**HASTAM**}
 
 #substitute {You feel that Velox the mercury golem is up to using detonation I again.} {****CAUSE I'M TNT!  I'M  DYNAMITE!****}

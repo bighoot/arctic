@@ -110,7 +110,13 @@
 #alias fffff {b kill %0; b strike; b reck; #delay 1 {a order all.spirit assist dany; a assist; a hex; a spook; a stupe;} #delay 2 {b rally;}}
 
 #nop BALDR and CILIX
-#alias fight {b kill %0; kpk; #delay 1 {a assist cilix;}}
+#alias fffff {b kill %0; kpk; #delay 1 {a assist cilix;}}
+
+#nop AETHER and DANY
+#alias fight {b kill %0; #delay 1 {a assist dany; a wildfire; b reck; b rally;}}
+
+#nop AETHER (ARCHERY) and DANY
+#alias fight {b kill %0; #delay 1 {a watch Dany; a aim %0; a shoot auto; a wildfire; b reck; b order skag assist; b rally;}}
 
 #action {The death cry of} {get all.coins corpse; exa corpse;}
 
@@ -124,7 +130,7 @@
 #alias og {order hastam %0;}
 #alias od {order skag %0;}
 
-#alias v {assist; b assist; kpk;}
+#alias v {assist; rally;}
 #alias practice {rest; brew 'bless'; scribe 'bless'; rem armor; wear armor; bandage me; meditate;}
 #alias milky {get milky chest; quaff milky;}
 #alias rb {b cancel; b stand; b rescue baldr;}
