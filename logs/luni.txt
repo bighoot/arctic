@@ -1,0 +1,941 @@
+[0m#LOG: LOGGING OUTPUT TO 'luni' FILESIZE: 0[0m
+
+[36mSharg tells your group 'can you log?'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m138V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NS> gt ok go
+You tell your group 'ok go'
+
+[32m[0;37m[32m363H [0;37m[32m138V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NS> nod
+
+Sharg flies south.
+You follow Sharg south.
+[36mNearing the Town of Lemish[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m136V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+Sharg flies east.
+You follow Sharg east.
+[36mNearing the Town of Lemish[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:EW> 
+Sharg flies east.
+You follow Sharg east.
+[36mNearing the Town of Lemish[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m132V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:EW> 
+Sharg flies east.
+You follow Sharg east.
+[36mRoad Through the Khalkists[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NEW> 
+Sharg flies north.
+You follow Sharg north.
+[36mA Narrow Valley[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m128V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NS> 
+Sharg flies north.
+You follow Sharg north.
+[36mA Narrow Valley[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m126V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:SU> 
+You nod solemnly.
+
+[32m[0;37m[32m363H [0;37m[32m126V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:SU> 
+Sharg flies up.
+You follow Sharg up.
+[36mAbove a Small Rockfall[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m124V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NEWD> 
+Sharg flies west.
+You follow Sharg west.
+[36mThe Khalkist Plateau[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m122V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+Sharg flies north.
+You follow Sharg north.
+[36mThe Khalkist Plateau[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m120V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NES> 
+Sharg flies north.
+You follow Sharg north.
+[36mBase of the Pinnacle[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m118V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:ES> 
+Sharg flies up.
+You follow Sharg up.
+The ground before you is scorched as lightning arcs past you!
+
+Storm clouds brew above you creating violent claps of thunder.
+[36mIn the Clouds[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m116V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NEWD> 
+Sharg flies north.
+You follow Sharg north.
+Storm clouds brew above you creating violent claps of thunder.
+[36mThe Edge of a Clearing[0;37m
+[33m[1m[0;37m[31m[1m[0;37mThunder sounds as a streak of blue lightning arches to the ground.
+
+[32m[0;37m[32m363H [0;37m[32m114V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NESW> 
+Sharg flies west.
+You follow Sharg west.
+[36mA Wide Clearing[0;37m
+[33m[1mA huge boat with leather sails furled along the edges is here sinking in mud.
+[0;37m[31m[1mStutts, Captain of the Lunitari Exploration Group, is standing in a pool of mud.
+[0;37mThunder sounds as a streak of blue lightning arches to the ground.
+
+[32m[0;37m[32m363H [0;37m[33m[1m112V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+Afrika stops following Namahs.
+[37mYour clanmate Afrika has left the game.
+[0;37m
+[32m[0;37m[32m363H [0;37m[33m[1m112V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[36mSharg tells your group 'thast it'
+[0;37m
+[32m[0;37m[32m363H [0;37m[33m[1m112V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> nod
+
+[36mSharg tells your group 'dont do yet'
+[0;37m
+[32m[0;37m[32m363H [0;37m[33m[1m112V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+You nod solemnly.
+
+[32m[0;37m[32m363H [0;37m[33m[1m112V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[36mSharg tells your group 'but if locating'
+[0;37m
+[32m[0;37m[32m363H [0;37m[33m[1m112V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[36mSharg tells your group 'you do enter boat here'
+[0;37m
+[32m[0;37m[32m363H [0;37m[33m[1m112V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[36mSharg tells your group 'but first'
+[0;37m
+[32m[0;37m[32m363H [0;37m[33m[1m112V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+Sharg flies north.
+You follow Sharg north.
+Thunder sounds as a streak of blue lightning arches to the ground.
+Thunder sounds as a streak of blue lightning arches to the ground.
+[36mKhalkist Peneplain[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[33m[1m110V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:SW> 
+Sharg flies west.
+You follow Sharg west.
+[36mKhalkist Peneplain[0;37m
+[33m[1m[0;37m[31m[1m[0;37mThunder sounds as a streak of blue lightning arches to the ground.
+
+[32m[0;37m[32m363H [0;37m[33m[1m108V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:EU> 
+Sharg flies up.
+You follow Sharg up.
+Thunder sounds as a streak of blue lightning arches to the ground.
+Storm clouds brew above you creating violent claps of thunder.
+[36mBasalt Spire[0;37m
+[33m[1m[0;37m[31m[1mAn eagle headed griffon majestically guards Qualm here.
+An eagle headed griffon majestically guards Qualm here.
+An eagle headed griffon majestically guards Qualm here.
+An eagle headed griffon majestically guards Qualm here.
+A quiet, reflective storm giant is here musing about the world.
+[0;37mThunder sounds as a streak of blue lightning arches to the ground.
+
+[32m[0;37m[32m363H [0;37m[33m[1m106V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:D> 
+Thunder sounds as a streak of blue lightning arches to the ground.
+Sharg looks at Qualm, the storm giant.
+
+[32m[0;37m[32m363H [0;37m[33m[1m106V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:D> 
+Your studies complete, you close your spellbook with a smile.
+Namahs smiles as he finishes his meditation.
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:D> 
+[36mSharg tells your group 'thats qualm'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:D> look qualm
+
+[36mSharg tells your group 'he has druid tabs'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:D> 
+Storm clouds brew above you creating violent claps of thunder.
+This giant resembles a well built human with gigantic proportions.  He's
+about twenty-six feet tall with pale, light green skin.  His hair is dark
+green and his eyes glitter like emeralds.  He's wearing a loose belted tunic,
+sandals and a headband.  A few simple pieces of jewelry adorn his limbs and
+a pouch has been attached to his belt.
+Qualm, the storm giant is in an excellent condition.
+
+Qualm, the storm giant is using:
+<worn around neck>         a symbol of lightning
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:D> 
+[36mSharg tells your group 'load held'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:D> nod
+You nod solemnly.
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:D> 
+[36mSharg tells your group 'neck is imm elec norent'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:D> 
+Sharg flies down.
+You follow Sharg down.
+Thunder sounds as a streak of blue lightning arches to the ground.
+Thunder sounds as a streak of blue lightning arches to the ground.
+Storm clouds brew above you creating violent claps of thunder.
+[36mKhalkist Peneplain[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m381H [0;37m[32m138V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:EU> 
+Sharg flies east.
+You follow Sharg east.
+Thunder sounds as a streak of blue lightning arches to the ground.
+[36mKhalkist Peneplain[0;37m
+[33m[1m[0;37m[31m[1m[0;37mThunder sounds as a streak of blue lightning arches to the ground.
+
+[32m[0;37m[32m381H [0;37m[32m136V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:SW> 
+Sharg flies south.
+You follow Sharg south.
+Thunder sounds as a streak of blue lightning arches to the ground.
+[36mA Wide Clearing[0;37m
+[33m[1mA huge boat with leather sails furled along the edges is here sinking in mud.
+[0;37m[31m[1mStutts, Captain of the Lunitari Exploration Group, is standing in a pool of mud.
+[0;37mThunder sounds as a streak of blue lightning arches to the ground.
+
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+Thunder sounds as a streak of blue lightning arches to the ground.
+
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Falcor: 'halmos poof'[0m
+
+[36mFalcor tells your clan 'halmos poof'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[36mSharg tells your group 'i did enter boat'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Falcor: 'hehe'[0m
+
+[36mFalcor tells your clan 'hehe'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[36mSharg tells your group 'now i wait a few tics'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> l
+
+[36mSharg tells your group 'go ahead and poof'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+Storm clouds brew above you creating violent claps of thunder.
+[36mA Wide Clearing[0;37m
+[33m[1mA huge boat with leather sails furled along the edges is here sinking in mud.
+[0;37m[31m[1m<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here. (flying)
+. . . has a tough exterior.
+<MYTH> Namahs the Male Hill Dwarf is standing here. (flying)
+. . . emits an eerie glow.
+<MYTH> Sharg the Male Hylar Dwarf is standing here. (flying)
+. . . has a granite appearance.
+Stutts, Captain of the Lunitari Exploration Group, is standing in a pool of mud.
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[36mSharg tells your group 'you can come back'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[36mSharg tells your group 'tis just afk now as boat flies to luni'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> sta
+You are already standing.
+
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> cast 'relocate' falcor
+You utter the words, 'relocate'
+
+[32m[0;37m[32m381H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> no magic?
+Warning: your input 'magic?' ignored.
+Storm clouds brew above you creating violent claps of thunder.
+[36mKhalkist Peneplain[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m381H [0;37m[32m132V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:SW> s
+
+[37mYour clanmate Afrika has entered the game.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m132V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:SW> 
+[36mA Wide Clearing[0;37m
+[33m[1mA huge boat with leather sails furled along the edges is here sinking in mud.
+[0;37m[31m[1m<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here. (flying)
+. . . has a granite appearance.
+<MYTH> Namahs the Male Hill Dwarf is standing here. (flying)
+. . . emits an eerie glow.
+<MYTH> Sharg the Male Hylar Dwarf is standing here. (flying)
+. . . has a granite appearance.
+Stutts, Captain of the Lunitari Exploration Group, is standing in a pool of mud.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Afrika: 'im fucking stupid'[0m
+
+[36mAfrika tells your clan 'im fucking stupid'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+Your studies complete, you close your spellbook with a smile.
+[36mOn the Deck of the Cloudmaster[0;37m
+[33m[1m[0;37m[31m[1m[0;37mDany steps on board the Cloudmaster.
+Namahs steps on board the Cloudmaster.
+Sharg steps on board the Cloudmaster.
+A short stick of incense decays in your hands.
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> say this no magic?
+
+Sharg gazes over the side of the Cloudmaster in wonder.
+Namahs gazes over the side of the Cloudmaster in wonder.
+Dany gazes over the side of the Cloudmaster in wonder.
+The ground seems like a clay model below you...you gaze in wonder.
+[36mColumns of Blue and White[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here. (flying)
+. . . has a tough exterior.
+<MYTH> Namahs the Male Hill Dwarf is standing here. (flying)
+. . . has a tough exterior.
+<MYTH> Sharg the Male Hylar Dwarf is standing here. (flying)
+. . . has a granite appearance.
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> l
+
+As you fly through the clouds, it begins to get very icy, you head for
+the hatch that leads below.
+[36mInside the Cloudmaster[0;37m
+[33m[1m[0;37m[31m[1mWingover, the Navigator of the Lunitari Exploration Crew, is standing here.
+[0;37mDany steps below, dusting off a layer of ice and snow.
+Namahs steps below, dusting off a layer of ice and snow.
+Sharg steps below, dusting off a layer of ice and snow.
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+You say 'this no magic?'
+Namahs falls into a trance and begins moaning.
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+[36mInside the Cloudmaster[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Sharg the Male Hylar Dwarf is standing here. (flying)
+. . . has a tough exterior.
+<MYTH> Namahs the Male Hill Dwarf is standing here. (flying)
+. . . has a tough exterior.
+<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here. (flying)
+. . . has a metallic luster.
+Wingover, the Navigator of the Lunitari Exploration Crew, is standing here.
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+Sharg shrugs helplessly.
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+[36mAfrika tells your clan 'i forgot about some stuff i wanted to repair on afrika and too and both died'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+[0m[1;34;49mCLAN MESSAGE FROM Afrika: 'i forgot about some stuff i wanted to repair on afrika and too and both died'[0m
+
+[37mYour clanmate Afrika has left the game.
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'shit'[0m
+
+[36mSharg tells your clan 'shit'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'where'[0m
+
+[36mSharg tells your clan 'where'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+[37mYour clanmate Too has entered the game.
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> grit
+You grit your teeth in frustration.
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> l
+[36mInside the Cloudmaster[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Sharg the Male Hylar Dwarf is standing here. (flying)
+. . . has a metallic luster.
+<MYTH> Namahs the Male Hill Dwarf is standing here. (flying)
+. . . emits an eerie glow.
+<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here. (flying)
+. . . has a tough exterior.
+Wingover, the Navigator of the Lunitari Exploration Crew, is standing here.
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+Namahs utters the words, 'regenerate'.
+Namahs's wounds begin to heal.
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+[36mSharg tells your group 'its magic here'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+Namahs begins resting but stays aloft.
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> frown
+What's bothering you?
+
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> 
+[36mSharg tells your group 'poof to him'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37m> cast 'relocate' falcor
+You utter the words, 'relocate'
+[36mSchaeffa's Sleight of Mind[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+Schaeffa guides you through the many shelves of stock he has.
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:E> 
+[36mSharg tells your group 'well'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:E> 
+[36mSharg tells your group 'almost here now'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:E> 
+[0m[1;34;49mCLAN MESSAGE FROM Too: 'i thought going north was safe to get the the climb vines spot...guess not lol'[0m
+
+Your studies complete, you close your spellbook with a smile.
+[36mToo tells your clan 'i thought going north was safe to get the the climb vines spot...guess not lol'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> say locate what?
+You say 'locate what?'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> 
+[36mSharg tells your group 'shit you died in forest?'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'shit you died in forest?'[0m
+
+[36mSharg tells your clan 'shit you died in forest?'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'those fuckers loot stuff'[0m
+
+[36mSharg tells your clan 'those fuckers loot stuff'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> poke falcor
+You poke him in the ribs.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> 
+[36mNamahs tells your group '***REGEN GONE***'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> 
+Falcor beckons for everyone to follow him.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> fol falcor
+[0m[1;34;49mCLAN MESSAGE FROM Too: 'too and afrika did'[0m
+
+[36mToo tells your clan 'too and afrika did'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> 
+You stop following Sharg.
+You now follow Falcor.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:E> 
+Falcor flies east.
+You follow Falcor east.
+[36mMaple Avenue[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+A lovely irda female glides by on her way to the market.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m139V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NSW> 
+Falcor flies south.
+You follow Falcor south.
+[36mIntersection of Pebble Creek Street and Maple Avenue[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m138V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NSW> 
+Falcor flies south.
+You follow Falcor south.
+[36mMaple Avenue[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m137V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NSW> 
+Falcor flies south.
+You follow Falcor south.
+[36mMaple Avenue[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m136V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NS> 
+Falcor flies south.
+You follow Falcor south.
+[36mMaple Avenue[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m135V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NS(W)> 
+Falcor flies south.
+You follow Falcor south.
+[36mMaple Avenue[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m134V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NS> 
+Falcor flies south.
+You follow Falcor south.
+[36mA Fading Avenue[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m133V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NS> 
+Falcor flies south.
+You follow Falcor south.
+[36mBefore the Southern Gate[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m132V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:N(S)> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'lost godo stuff?'[0m
+
+[36mSharg tells your clan 'lost godo stuff?'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m132V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:N(S)> 
+Falcor opens the gate.
+
+[32m[0;37m[32m363H [0;37m[32m132V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NS> 
+[0m[1;34;49mCLAN MESSAGE FROM Caine: 'it's N E N E N E'[0m
+
+[36mCaine tells your clan 'it's N E N E N E'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m132V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NS> 
+Falcor flies south.
+You follow Falcor south.
+[36mOutside the Southern Gate[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Caine: 'to climb vines from the gate'[0m
+
+Falcor says 'locate book'
+
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[36mCaine tells your clan 'to climb vines from the gate'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> cast 'lo ob' book
+You utter the words, 'locate object'
+
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> cast 'lo ob' book
+You utter the words, 'locate object'
+Your eyes briefly glow red.
+A large book with arcane runes is in "The Vault".
+
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:2 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'im unclear on how to cr there'[0m
+
+[36mSharg tells your clan 'im unclear on how to cr there'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:2 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'we can wander aroudn and ae undead'[0m
+
+[36mSharg tells your clan 'we can wander aroudn and ae undead'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m130V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:2 Exits:NE> say a large book with arcane runes is in the vault
+You say 'a large book with arcane runes is in the vault'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> cast 'lo ob' book
+You utter the words, 'locate object'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> cast 'lo ob' book
+
+Falcor shakes his head.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+You utter the words, 'locate object'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> say nothing
+[0m[1;34;49mCLAN MESSAGE FROM Too: 'doesn't matter. im going to just go reloading shit.'[0m
+
+[36mToo tells your clan 'doesn't matter. im going to just go reloading shit.'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+You say 'nothing'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[36mSharg tells your clan 'but i dont have any better plan than that'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+Falcor says 'would be on trio mob'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'but i dont have any better plan than that'[0m
+[0m[1;34;49mCLAN MESSAGE FROM Too: 'some i don't know how'[0m
+
+[36mToo tells your clan 'some i don't know how'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Dolyn: 'yeah... not an easy cr'[0m
+
+[36mDolyn tells your clan 'yeah... not an easy cr'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> l
+[36mOutside the Southern Gate[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Falcor the Male Half Ogre is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Falcor: 'anything else to locate in irda while we are here'[0m
+
+[36mFalcor tells your clan 'anything else to locate in irda while we are here'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[36mDolyn tells your clan 'and mobs will pick up gear... so it doesnt decay'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Dolyn: 'and mobs will pick up gear... so it doesnt decay'[0m
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'reloto me'[0m
+
+[36mSharg tells your clan 'reloto me'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'and locate book'[0m
+
+[36mSharg tells your clan 'and locate book'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'im on luni'[0m
+
+[36mSharg tells your clan 'im on luni'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> ct k, tick
+[0m[1;34;49mCLAN MESSAGE FROM Halmos: 'k, tick'[0m
+You tell your clan 'k, tick'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+Falcor gets a scroll from his chest.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+Falcor stops using a revenant's skull.
+Falcor grabs a glowing scroll of recall.
+Falcor recites a glowing scroll of recall.
+Falcor disappears.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Dolyn: 'can we do luni anyway?'[0m
+
+[36mDolyn tells your clan 'can we do luni anyway?'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[36mDolyn tells your clan 'i want a log'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Dolyn: 'i want a log'[0m
+
+[36mSharg tells your clan 'easily'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'easily'[0m
+l
+[36mOutside the Southern Gate[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> twiddle
+You patiently twiddle your thumbs.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> sta
+You are already standing.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[36mToo tells your clan 'my daughter is laughing at me cuz i freaked out lmao'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mExits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Too: 'my daughter is laughing at me cuz i freaked out lmao'[0m
+cast 'relocate' s harg
+You utter the words, 'relocate'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Falcor: 'haha'[0m
+
+[36mFalcor tells your clan 'haha'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'sorry kristin'[0m
+
+[36mSharg tells your clan 'sorry kristin'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'we can try'[0m
+
+[36mSharg tells your clan 'we can try'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'if you want'[0m
+
+[36mSharg tells your clan 'if you want'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+rest
+[0m[1;34;49mCLAN MESSAGE FROM Too: 'nah'[0m
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+[36mToo tells your clan 'nah'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:standing] [0;37mMem:1 Exits:NE> 
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'you sure?'[0m
+
+[36mSharg tells your clan 'you sure?'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> gt be there in a tick
+You are not a member of a group.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Too: 'i don't even know where i was and it was spinny'[0m
+[0m[1;34;49mCLAN MESSAGE FROM Arie: 'ruby is up'[0m
+
+[36mToo tells your clan 'i don't even know where i was and it was spinny'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'they loot your corpse adn wander'[0m
+ct be there in a tick
+[0m[1;34;49mCLAN MESSAGE FROM Halmos: 'be there in a tick'[0m
+[0m[1;34;49mCLAN MESSAGE FROM Arie: 'we can start with that '[0m
+[0m[1;34;49mCLAN MESSAGE FROM Dolyn: 'where you locate ruby from?'[0m
+
+
+
+
+
+
+
+
+a
+l
+loadboth
+[0;37ma[0m
+[0m#SESSION 'b' ACTIVATED.[0m
+[0;37m[0m
+[0;37ml[0m
+[0m[1;34;49mCLAN MESSAGE FROM Too: 'so how long before the stuff decays if they loot it?'[0m
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'forever i think'[0m
+[0;37m[0m
+[0;37m[0m
+[0;37m[0m
+[0;37m[0m
+[0m[1;34;49mCLAN MESSAGE FROM Ali: 'is just like on a player from what I was told'[0m
+[0;37m[0m
+[0;37m[0m
+[0;37m[0m
+[0;37m[0m
+[0;37m[0m
+[0;37mb[0m
+[0m#SESSION 'b' ACTIVATED.[0m
+[0;37m[0m
+[0;37m[0m
+[0;37m[0m
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'til foom'[0m
+[0;37ml[0m
+[0m[1;34;49mCLAN MESSAGE FROM Too: 'omg'[0m
+
+[36mArie tells your clan 'ruby is up'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[36mSharg tells your clan 'they loot your corpse adn wander'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+You tell your clan 'be there in a tick'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[36mArie tells your clan 'we can start with that '
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[36mDolyn tells your clan 'where you locate ruby from?'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mMem:1 Exits:NE> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+Unexpected end of input:
+You must specify a character to perform that action on.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[36mOutside the Southern Gate[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[36mOutside the Southern Gate[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[36mToo tells your clan 'so how long before the stuff decays if they loot it?'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[36mSharg tells your clan 'forever i think'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[36mAli tells your clan 'is just like on a player from what I was told'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[36mSharg tells your clan 'til foom'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[36mOutside the Southern Gate[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[36mToo tells your clan 'omg'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'or til someone kills'[0m
+
+[36mSharg tells your clan 'or til someone kills'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> [0;37mcast 'relocate' sharg[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [Pos:resting] [0;37mExits:NE> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mExits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Ali: 'it will foom... I woudnt worry'[0m
+
+[36mAli tells your clan 'it will foom... I woudnt worry'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mExits:NE> 
+[0m[1;34;49mCLAN MESSAGE FROM Arie: 'The Royal Bedroom'[0m
+
+[36mArie tells your clan 'The Royal Bedroom'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mExits:NE> [0;37mcast 'relocate' sharg[0m
+You utter the words, 'relocate'
+[36mLunitari Exploratory Headquarters, Mark I[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Sharg the Male Hylar Dwarf is standing here. (flying)
+. . . has a tough exterior.
+<MYTH> Namahs the Male Hill Dwarf is standing here. (flying)
+. . . has a tough exterior.
+<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+Your studies complete, you close your spellbook with a smile.
+The dust-filled skies of Lunitari darken as the sun sets.
+The energy in the air coalesces and becomes controllable once again.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> 
+Namahs falls into a trance and begins moaning.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> [0;37mcast 'lo ob' book[0m
+You utter the words, 'locate object'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mcast 'lo ob' book[0m
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'who wants rit to luni'[0m
+
+[36mSharg tells your clan 'who wants rit to luni'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+You utter the words, 'locate object'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mcast 'lo ob' book[0m
+[0m[1;34;49mCLAN MESSAGE FROM Kennet: 'how much room'[0m
+
+[36mKennet tells your clan 'how much room'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+You utter the words, 'locate object'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mcast 'lo ob' book[0m
+[0m[1;34;49mCLAN MESSAGE FROM Dolyn: 'me'[0m
+
+[36mDolyn tells your clan 'me'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+You utter the words, 'locate object'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Dolyn: 'and Ali'[0m
+
+[36mDolyn tells your clan 'and Ali'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37msay no hits on book[0m
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'well lets see if book up'[0m
+
+[36mSharg tells your clan 'well lets see if book up'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+You say 'no hits on book'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Kennet: 'nod'[0m
+
+[36mKennet tells your clan 'nod'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'no book'[0m
+
+[36mSharg tells your clan 'no book'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Kennet: 'no book in irda'[0m
+
+[36mKennet tells your clan 'no book in irda'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37msay i dont have nightvision tho[0m
+You say 'i dont have nightvision tho'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37ml[0m
+[36mLunitari Exploratory Headquarters, Mark I[0;37m
+[33m[1m[0;37m[31m[1m<MYTH> Sharg the Male Hylar Dwarf is standing here. (flying)
+. . . has a metallic luster.
+<MYTH> Namahs the Male Hill Dwarf is standing here. (flying)
+. . . emits an eerie glow.
+<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here. (flying)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'well he doesnt have NV'[0m
+
+[36mSharg tells your clan 'well he doesnt have NV'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'i dunno fuck it lets do it'[0m
+
+[36mSharg tells your clan 'i dunno fuck it lets do it'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Sharg: 'who wants rit'[0m
+
+[36mSharg tells your clan 'who wants rit'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Kennet: 'me'[0m
+
+[36mKennet tells your clan 'me'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Caine stops following Namahs.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Sharg says 'poof away halmos'
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Dolyn: 'ill locate with chtonia if needed'[0m
+
+[36mDolyn tells your clan 'ill locate with chtonia if needed'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37mfol namahs[0m
+You stop following Falcor.
+You now follow Namahs.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+Namahs utters the words, 'ritual voyage'.
+Dolyn arrives suddenly.
+
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+[0m[1;34;49mCLAN MESSAGE FROM Kennet: 'or you want basher'[0m
+
+[36mKennet tells your clan 'or you want basher'
+[0;37m
+[32m[0;37m[32m363H [0;37m[32m140V [0;37m1X 4.41% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37m#zap[0m
+[0m[0m
+[0m#ZZZZZZZAAAAAAAAPPPP!!!!!!!!! LET'S GET OUTTA HERE!!!!!!!![0m
+[0m#SESSION 'b' DIED.[0m
