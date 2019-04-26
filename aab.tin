@@ -3,7 +3,7 @@
 #alias a #a %0
 #alias b #b %0
 
-#alias loot {get all %0.corpse; get all.coins; #delay 1 {a rest; a bandage me; a seance; b carve %0.corpse; b rest; b recuperate; b bandage me; b lore boots; b sharpen spear; b mend spear; b sta; a sta;}}
+#alias llll {get all %0.corpse; get all.coins; #delay 1 {a rest; a bandage me; a seance; b carve %0.corpse; b rest; b recuperate; b bandage me; b lore boots; b sharpen spear; b mend spear; b sta; a sta;}}
 #alias rrrrrr {camp; a rest; b rest; a bandage me; b bandage me; a hide; b hide;}
 #alias recover {a camp; a rest; a bandange me; b rest; b bandage me;}
 
@@ -116,7 +116,14 @@
 #alias fight {b kill %0; #delay 1 {a assist dany; a wildfire; b reck; b rally;}}
 
 #nop AETHER (ARCHERY) and DANY
-#alias fight {b kill %0; #delay 1 {a watch Dany; a aim %0; a shoot auto; a wildfire; b reck; b order skag assist; b rally;}}
+#alias fffff {b kill %0; #delay 1 {a watch sharg; a aim %0; a shoot auto; a wildfire; b reck; b order skag assist; b rally;}}
+#highlight {You %* plunk} {yellow}
+#highlight {You plunk %*} {yellow}
+
+#nop HALMOS and DANY
+#alias fight {b kill %0; #delay 1 {a order murus assist Dany; a assist dany; b order skag assist; b rally;}}
+#alias loot {a get all.component %0.corpse; #delay 1 {b get all %0.corpse;}}
+#alias cure {b cast 'cure ser' %0;}
 
 #action {The death cry of} {get all.coins corpse; exa corpse;}
 
@@ -130,7 +137,7 @@
 #alias og {order hastam %0;}
 #alias od {order skag %0;}
 
-#alias v {assist; rally;}
+#alias v {assist sharg; order murus assist;}
 #alias practice {rest; brew 'bless'; scribe 'bless'; rem armor; wear armor; bandage me; meditate;}
 #alias milky {get milky chest; quaff milky;}
 #alias rb {b cancel; b stand; b rescue baldr;}

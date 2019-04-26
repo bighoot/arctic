@@ -1,0 +1,96 @@
+Id  Name                   Desc.                     Now Max | C     T  R
+1   Sacrificial Shield     Your golem can use        1   1   | 3000  0  2
+                           'sacrifice' to grant a
+                           target damage reduction
+                           at the expense of the
+                           golem's vitality.
+2   Courageous Defender    Each purchase gives your  3   3   | 3000  0  2
+                           golem training in the
+                           'rescue' skill, allowing
+                           it to save an ally from
+                           combat.
+    Requires  : Sacrificial Shield     x1
+3   Vengeful Counterstrike Allows your golem to      0   1   | 6500  0  2
+                           strike back at melee
+                           attackers.
+    Requires  : Courageous Defender    x3
+4   Reflexive Interrupt    Allows your golem to      0   1   | 8000  0  5
+                           occasionally interrupt
+                           an enemy's casting.
+    Requires  : Vengeful Counterstrike x1
+5   Valiant Defender       Your golem rescues a      1   1   | 6000  0  2
+                           target from up to 2
+                           enemies at once when
+                           ordered to 'rescue'.
+    Requires  : Courageous Defender    x3
+6   Altruistic Protector   Your pet can use          3   3   | 7000  0  2
+                           'altruism' to start or
+                           stop automatically
+                           rescuing you. Each
+                           purchase increases the
+                           chance of this.
+    Requires  : Valiant Defender       x1
+7   Deflection Plating     Your golem is harder to   0   3   | 1500  0  1
+                           hit.
+8   Absorption Plating     Your golem has a chance   0   1   | 5000  0  2
+                           to negate spell damage.
+    Requires  : Deflection Plating     x3
+9   Reinforced Construction Increases your golem's    0   3   | 5000  0  1
+                           damage resistance.
+    Requires  : Absorption Plating     x1
+10  Centrifugal Balance    Your golem is harder to   0   2   | 4000  0  2
+                           bash.
+    Requires  : Reinforced Construction x3
+11  Plated Fists           Your golem ignores        0   1   | 3000  0  1
+                           damage reflection
+                           shields, such as
+                           'fireshield'.
+    Requires  : Deflection Plating     x3
+12  Martial Interception   Your golem has a chance   0   1   | 5000  0  4
+                           to block a portion of
+                           incoming melee damage
+                           with its fists.
+    Requires  : Plated Fists           x1
+13  Augmented Repairs      Increase healing          0   3   | 3000  0  1
+                           received by your golem.
+    Requires  : Deflection Plating     x3
+14  Automated Repairs      Your golem gains          0   1   | 1000  0  3
+                           automatic regeneration.
+    Requires  : Augmented Repairs      x3
+15  Refined Targeting      Significantly increase    0   3   | 2000  0  2
+                           your golem's chance to
+                           hit.
+16  Brutal Strikes         Significantly increase    0   3   | 4000  0  2
+                           your golem's melee
+                           damage.
+    Requires  : Refined Targeting      x3
+17  Vicious Crush          Your golem will           0   1   | 4000  0  2
+                           occasionally make a
+                           crushing attack.
+    Requires  : Brutal Strikes         x3
+18  Ferocious Alacrity     Increase your golem's     0   3   | 7500  0  2
+                           melee haste.
+    Requires  : Brutal Strikes         x3
+19  Raging Flurry          Your golem can 'flurry'   0   1   | 7500  0  3
+                           to lash out against all
+                           enemies in sight.
+    Requires  : Ferocious Alacrity     x3
+20  Verdant Bloom          Your golem can 'bloom'    0   1   | 10000 0  5
+                           to increase its vitality
+                           and restore hitpoints.
+    Requires minimum rank of : 20
+21  Repellent Field        Increases your pet's      0   2   | 4000  0  2
+                           ability to resist
+                           magical spell effects
+                           greatly.
+22  Lubricated Joints      Increases your pet's      0   2   | 4000  0  2
+                           ability to resist
+                           paralytic attacks
+                           greatly.
+23  Acrid Resilience       Increases your pet's      0   2   | 4000  0  2
+                           ability to resist breath
+                           attacks greatly.
+24  Telepathic Link        Allows you to order your  0   1   | 5000  0  2
+                           pet when silenced.
+25  Gilded Eyes            Protects your pet from    0   1   | 8000  0  3
+                           blindness.

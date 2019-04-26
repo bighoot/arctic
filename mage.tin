@@ -174,7 +174,6 @@
 {
 	cast 'blur' me;
 	cast 'imp inv';
-	cast 'det inv';
 	cast 'pote';
 	cast 'men ac';
 }

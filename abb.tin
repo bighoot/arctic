@@ -30,6 +30,7 @@
 
 #action {doesn't recover as you deliver the bash} {#a #showme <129>** DEATH BY BASH!!! **; #b #showme <129>** DEATH BY BASH!!! **;}
 #action {You crash into %0 sprawling to the ground.} {#a #showme <129>** IN THE FACE!!! **; #b #showme <129>** IN THE FACE!!! **;}
+#action {Your sense of indignation weakens and fades.} {#a #showme <159> *******>>> RIGHTEOUS INDIGNATION GONE <<<*******;}
 
 #action {%0 tells you %1} {#a #showme <149>PRIVATE MESSAGE FROM %0: %1}
 #action {%0 tells your clan %1} {#a #showme <149>CLAN MESSAGE FROM %0: %1}
