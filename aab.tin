@@ -27,6 +27,7 @@
 #action {You gain a rank} {#b #showme <149>FOLLOWER GAINED A RANK}
 #action {You are hungry} {#b #showme <119>-->FOLLOWER HUNGRY<--}
 #action {You are thirsty} {#b #showme <119>-->FOLLOWER THIRSTY<--}
+#action {Your victim's tracks lead %0.} {#b #showme <119>-->TRACKS LEAD %0<--}
 
 #action {%0 tells you %1} {#b #showme <149>PRIVATE MESSAGE FROM %0: %1}
 #action {%0 tells your clan %1} {#b #showme <149>CLAN MESSAGE FROM %0: %1}
@@ -113,25 +114,28 @@
 #alias fffff {b kill %0; kpk; #delay 1 {a assist cilix;}}
 
 #nop AETHER and DANY
-#alias fight {b kill %0; #delay 1 {a assist dany; a wildfire; b reck; b rally;}}
+#alias fffff {b kill %0; #delay 1 {a assist dany; a wildfire; b reck; b order skag assist; b rally; b slam;}}
 
 #nop AETHER (ARCHERY) and DANY
-#alias fffff {b kill %0; #delay 1 {a watch sharg; a aim %0; a shoot auto; a wildfire; b reck; b order skag assist; b rally;}}
+#alias fffff {b kill %0; #delay 1 {a watch dany; a aim %0; a shoot auto; a wildfire; b reck; b rally; b slam;}}
 #highlight {You %* plunk} {yellow}
 #highlight {You plunk %*} {yellow}
+#action {You feel up to using gather again.} {gather; put all.arrows quiver;}
 
 #nop HALMOS and DANY
-#alias fight {b kill %0; #delay 1 {a order murus assist Dany; a assist dany; b order skag assist; b rally;}}
+#alias fffff {b kill %0; #delay 1 {a order murus assist Dany; a assist dany; b order skag assist; b rally;}}
 #alias loot {a get all.component %0.corpse; #delay 1 {b get all %0.corpse;}}
-#alias cure {b cast 'cure ser' %0;}
+#alias cure {b order skag cast 'cure ser' %0; b cast 'cure ser' %0;}
+
+#nop RICHTER and ENKI
+#alias fight {a kill %0; #delay 1 {b assist; b zap; b swarm;}}
+#alias recover {b camp; #delay 1 {a rest; a bandage me; a recuperate; b rest; b bandage me;}}
 
 #action {The death cry of} {get all.coins corpse; exa corpse;}
 
 #alias bog {b order skag %0;}
 #alias steel {bog cast 'steelskin' dany;}
 #alias ogd {a order velox detonat;}
-
-#alias recover {a rest; a deep; b rest; b bandage me; b recuperate; b mend bag;}
 
 #alias oc {order cat %0;}
 #alias og {order hastam %0;}
@@ -144,3 +148,6 @@
 
 #nop {claws YOU} {b south;}
 #nop {Dany comes to your rescue} {b flee; b flee; b flee;}
+
+#alias goton {s;s;s;s;s;s;s;u;s;s;s;d;s;e;s;s;e;s;s;d;s;s;s;s;s;e;e;e;d;s;s;s;s;s;}
+#alias gotok {n;n;n;n;n;u;w;w;w;n;n;n;n;n;u;n;n;w;n;n;w;n;u;n;n;n;d;n;n;n;n;n;n;n;}

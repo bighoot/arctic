@@ -27,6 +27,7 @@
 #action {You feel especially skillful today.} {#a #showme <119>-->FOLLOWER SKILLFUL<--}
 #action {Through the darkness, you find a connection to the will of the righteous again.} {#a #showme <149>DANY READY FOR RIGHTEOUS WILL; right;}
 #action {You can focus again on your prayers.} {#a #showme <149>DANY READY FOR DIVINE FOCUS;}
+#action {Your victim's tracks lead %0.} {#a #showme <119>-->TRACKS LEAD %0<--}
 
 #action {doesn't recover as you deliver the bash} {#a #showme <129>** DEATH BY BASH!!! **; #b #showme <129>** DEATH BY BASH!!! **;}
 #action {You crash into %0 sprawling to the ground.} {#a #showme <129>** IN THE FACE!!! **; #b #showme <129>** IN THE FACE!!! **;}
