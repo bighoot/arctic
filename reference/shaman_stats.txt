@@ -1,0 +1,24 @@
+KAGONESTI
+Str 18 Int 14 Wis 15 Dex 16 Con 16 Cha 18  
+Str 18 Int 15 Wis 14 Dex 16 Con 15 Cha 17  
+Str 18 Int 15 Wis 15 Dex 16 Con 15 Cha 17
+Str 18 Int 15 Wis 15 Dex 16 Con 16 Cha 18
+Str 17 Int 14 Wis 14 Dex 16 Con 16 Cha 18
+Str 18 Int 14 Wis 14 Dex 16 Con 16 Cha 17
+
+
+HILL DWARF
+Str 15 Int 16 Wis 20 Dex 12 Con 18 Cha 17
+Str 14 Int 17 Wis 19 Dex 12 Con 18 Cha 16
+Str 14 Int 17 Wis 20 Dex 12 Con 18 Cha 16
+Str 14 Int 16 Wis 20 Dex 12 Con 18 Cha 16
+Str 15 Int 16 Wis 20 Dex 12 Con 18 Cha 17
+str 15 int 17 wis 19 dex 12 con 17 cha 16
+
+
+KENDER
+Str 15 Int 16 Wis 16 Dex 19 Con 16 Cha 15
+Str 16 Int 16 Wis 16 Dex 19 Con 16 Cha 16
+Str 16 Int 16 Wis 17 Dex 20 Con 16 Cha 16
+Str 16 Int 16 Wis 17 Dex 20 Con 15 Cha 16
+Str 15 Int 16 Wis 17 Dex 19 Con 16 Cha 15   

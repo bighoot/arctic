@@ -29,6 +29,9 @@
 #action {You are thirsty} {#b #showme <119>-->FOLLOWER THIRSTY<--}
 #action {Your victim's tracks lead %0.} {#b #showme <119>-->TRACKS LEAD %0<--}
 
+#action {Your wounds stop healing.} {#a #showme <159> *******>>> REGENERATION GONE <<<*******}
+#action {Your wounds stop healing.} {#b #showme <159> *******>>> REGENERATION GONE <<<*******}
+
 #action {%0 tells you %1} {#b #showme <149>PRIVATE MESSAGE FROM %0: %1}
 #action {%0 tells your clan %1} {#b #showme <149>CLAN MESSAGE FROM %0: %1}
 
@@ -116,11 +119,7 @@
 #nop AETHER and DANY
 #alias fffff {b kill %0; #delay 1 {a assist dany; a wildfire; b reck; b order skag assist; b rally; b slam;}}
 
-#nop AETHER (ARCHERY) and DANY
-#alias fffff {b kill %0; #delay 1 {a watch dany; a aim %0; a shoot auto; a wildfire; b reck; b rally; b slam;}}
-#highlight {You %* plunk} {yellow}
-#highlight {You plunk %*} {yellow}
-#action {You feel up to using gather again.} {gather; put all.arrows quiver;}
+
 
 #nop HALMOS and DANY
 #alias fffff {b kill %0; #delay 1 {a order murus assist Dany; a assist dany; b order skag assist; b rally;}}
@@ -128,10 +127,40 @@
 #alias cure {b order skag cast 'cure ser' %0; b cast 'cure ser' %0;}
 
 #nop RICHTER and ENKI
-#alias fight {a kill %0; #delay 1 {b assist; b zap; b swarm;}}
+#alias fffff {a kill %0; #delay 1 {b assist; b wildfire; b zap; b swarm;}}
 #alias recover {b camp; #delay 1 {a rest; a bandage me; a recuperate; b rest; b bandage me;}}
+#action {disarms your weapon.} {get hammer; wield hammer;}
+#alias afight {a breach; a battle; a assail; a gore; a charge;}
 
+#nop STYR and RICHTER
+#alias fight {a watch dany; b sip all.whiskey; b kill %0; b breach; b heald; #delay 1 {a order nereid assist dany;}}
+#alias recover {b rest; b bandage me; b recuperate; a rest; a commune; a bandage me;}
+#alias practice {b mend chest; b sharpen sword; b lore girdle;}
+#alias combat {b gore; b charge; b assail; b battle;}
+#alias llll {get all %0.corpse; get all.coins; #delay 1 {b carve %0.corpse;}}
+
+#nop STYR and DANY
+#alias fight {a watch dany; b kill %0; b slam; #delay 1 {a order eagle assist dany; b order skag assist; b rally;}}
+#alias combat {b rally; b reck; b aven legs; b strike; b slam;}
+#alias loot {a get all.component %0.corpse; #delay 1 {b get all %0.corpse;}}
+#action {You are hungry.} {sta;cast 'sus' me;rest;}
+
+#nop AETHER (ARCHERY) and DANY
+#alias fight {b kill %0; #delay 1 {a watch dany; a aim %0; a shoot auto; a wildfire; b reck; b rally; b slam;}}
+#highlight {You %* plunk} {yellow}
+#highlight {You plunk %*} {yellow}
+#action {You feel up to using gather again.} {gather; put all.arrows quiver;}
+
+#nop MAUI and DANY
+#alias fight {b kill %0; #delay 1 {a order all.spirit assist dany; b rally; b slam;}}
 #action {The death cry of} {get all.coins corpse; exa corpse;}
+#alias {rawr} {cast 'bo bl'; cast 'dark soul';}
+#alias v {assist; oas assist;}
+
+#NOOBS
+#alias fight {a env dagger; a env flame; b env spear; b env sword; a back %0; #delay 1 {b assist; a throat; b throat;}}
+#action {Your hand is strong, and ready for some use.} {throat;}
+#alias both {a %0; b %0;}
 
 #alias bog {b order skag %0;}
 #alias steel {bog cast 'steelskin' dany;}
@@ -141,8 +170,7 @@
 #alias og {order hastam %0;}
 #alias od {order skag %0;}
 
-#alias v {assist sharg; order murus assist;}
-#alias practice {rest; brew 'bless'; scribe 'bless'; rem armor; wear armor; bandage me; meditate;}
+#alias ppppppp {rest; brew 'bless'; scribe 'bless'; rem armor; wear armor; bandage me; meditate;}
 #alias milky {get milky chest; quaff milky;}
 #alias rb {b cancel; b stand; b rescue baldr;}
 

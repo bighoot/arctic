@@ -42,6 +42,10 @@
 #alias xxx2 {kill %0; a wildfire; a aim %0; a shoot auto;order horse assist; rally; reckoning;}
 #alias fff {order ironwood kill %0; a wildfire; a aim %0; a shoot auto;}
 
+#NOOBS
+#alias fight {a env dagger; a env flame; b env spear; b env sword; b back %0; #delay 1 {a assist; b throat; a throat;}}
+#action {Your hand is strong, and ready for some use.} {throat;}
+
 #nop alias cl {a cast 'cure light' vali}
 #nop alias cs {a cast 'cure ser' vali}
 #nop alias cc {a cast 'cure crit' vali}
@@ -72,7 +76,7 @@
 #action {disarms your weapon.} {get sword;wield sword;}
 #action {strike at} {strike;}
 
-#action {You are hungry} {cast 'su el'; drink elixir;}
+#nop {You are hungry} {cast 'su el'; drink elixir;}
 
 
 
