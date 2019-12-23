@@ -1,13 +1,15 @@
-#alias poi {env $main;env $offhand}
+#MACRO {\eOr} {fade s}
+#MACRO {\eOs} {fade d}
+#MACRO {\eOt} {fade w}
+#MACRO {\eOv} {fade e}
+#MACRO {\eOx} {fade n}
+#MACRO {\eOy} {fade u}
+#macro {\eOu} {fade}
+#macro {\eOp} {back $target}
 
-#variable main javelin
-#variable offhand inky
+#macro {\eOk} {stand}
+#macro {\eOm} {rest}
+#macro {\eOj} {a cast 'heal' yves}
 
-#alias uu {fade up}
-#alias dd {fade down}
-#alias nn {fade north}
-#alias ee {fade east}
-#alias ww {fade west}
-#alias ss {fade south}
-
-#alias ff {fade;hide}
+#alias back {env dagger; env crossbow; backstab %0; #var target %0;}
+#alias bb {back $target;}

@@ -32,11 +32,20 @@
 
 #substitute {Hastam} {**HASTAM**}
 #substitute {Murus} {**MURUS**}
-#substitute {Skag} {**SKAG**}
+#substitute {Drogon} {**DROGON**}
+
+#MACRO {\eOr} {s}
+#MACRO {\eOs} {d}
+#MACRO {\eOt} {w}
+#MACRO {\eOv} {e}
+#MACRO {\eOx} {n}
+#MACRO {\eOy} {u}
 
 #substitute {You feel that Velox the mercury golem is up to using detonation I again.} {****CAUSE I'M TNT!  I'M  DYNAMITE!****}
 
 #action {Sharg rears his head back and lets out a mighty roar!} {stand;}
 
 #action {Your wounds stop healing.} {#a #showme <159> *******>>> REGENERATION GONE <<<*******; #b #showme <159> *******>>> REGENERATION GONE <<<*******; gt Regeration gone!}
+
+#action {Sharg tells your group 'crawl hole'} {crawl hole}
 

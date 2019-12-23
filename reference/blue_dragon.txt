@@ -1,0 +1,93 @@
+Id  Name                   Desc.                     Now Max | C     T  R
+1   Swooping Attack        Teaches your dragon to    0   1   | 2000  0  2
+                           'swoop', attacking an
+                           opponent from above and
+                           landing both of them on
+                           the floor.
+2   Improved Swoop         Improves your dragon's    0   1   | 6000  0  3
+                           swooping attacks.
+    Requires  : Swooping Attack        x1
+3   Scavenging Beast       Lets your dragon          0   1   | 2000  0  1
+                           'consume' corpses to
+                           gain health. The corpses
+                           must be stripped of all
+                           possessions.
+4   Deadly Predator        Teaches your dragon to    0   1   | 2000  0  2
+                           'scavenge' for food for
+                           your entire party by
+                           hunting small prey.
+5   Tracking Scent         Allows your dragon to     0   2   | 5000  0  5
+                           track prey by scent.
+6   Increased Static       Increases the damage      0   2   | 5000  0  3
+                           caused by your dragon's
+                           lightning breath.
+7   Shocking Breath        Each purchase gives your  0   2   | 6000  0  4
+                           dragon one charge of
+                           'breathe', which blasts
+                           non-allies with bolts of
+                           lightning.
+    Requires  : Increased Static       x2
+8   Rending Claws          Your dragon's chance to   0   3   | 6000  0  2
+                           hit increases
+                           significantly, and
+                           damage increases
+                           slightly.
+9   Sheathed Claws         Your dragon ignores       0   1   | 3000  0  1
+                           damage reflection
+                           shields, such as
+                           'fireshield'.
+10  Enchanted Scales       Increases your dragon's   0   3   | 5000  0  3
+                           resistance to physical
+                           and magical attacks.
+11  Fortified Bones        Increases your dragon's   0   2   | 5000  0  3
+                           damage resistance.
+12  Evasive Maneuvers      Allows your dragon to     0   3   | 5000  0  1
+                           avoid area spells.
+13  Improved Evasion       Greatly boosts your       0   1   | 10000 0  3
+                           dragon's evasive
+                           abilities.
+    Requires  : Evasive Maneuvers      x3
+14  Draconic Affinity      Protects your dragon      0   4   | 5000  0  1
+                           against breath attacks.
+15  Magical Initiate       Grants your dragon two    0   1   | 10000 0  2
+                           first level slots, and
+                           teaches it 'dispel
+                           magic' and 'lightning
+                           bolt'.
+16  Magical Apprentice     Grants your dragon two    0   1   | 5000  0  2
+                           second level slots, and
+                           teaches it 'bless' and
+                           'enlarge'.
+    Requires  : Magical Initiate       x1
+17  Magical Adept          Grants your dragon two    0   1   | 5000  0  3
+                           third level slots, and
+                           teaches it 'mirror
+                           image' and 'unholy
+                           might'.
+    Requires  : Magical Apprentice     x1
+18  Magical Authority      Grants your dragon two    0   1   | 5000  0  3
+                           fourth level slots, and
+                           teaches it 'ancient
+                           curse', 'call
+                           lightning', and 'storm
+                           call'.
+    Requires  : Magical Adept          x1
+19  Magical Expert         Grants your dragon two    0   1   | 5000  0  3
+                           fifth level slots, and
+                           teaches it 'darkness'
+                           and 'soul leech'.
+    Requires  : Magical Authority      x1
+20  Magical Master         Increases your dragon's   0   1   | 3000  0  1
+                           effective casting level.
+    Requires  : Magical Expert         x1
+21  Empathic Link          Allows you to order your  0   1   | 5000  0  2
+                           dragon when silenced.
+22  Fearsome Presence      Your dragon radiates a    0   1   | 6000  0  5
+                           fearsome aura that
+                           affects itself and you,
+                           increasing awe inspired
+                           and guarding against
+                           fear.
+23  Fate Link              Your dragon will benefit  0   3   | 10000 0  1
+                           from healing magic
+                           affecting you.

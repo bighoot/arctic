@@ -10,6 +10,9 @@
 #alias {ef} {cast 'elemental fist' %0}
 #alias {fs} {cast 'flame shroud' %0}
 #alias {cone} {cast 'co o co' %0;}
+#alias {call} {cast 'call lightning' %0;}
+#alias {fire} {cast 'fire storm' %0;}
+
 #alias {nado} {cast 'tornado'}
 #alias {ice} {cast 'ice storm'}
 
@@ -17,6 +20,7 @@
 #alias {cc} {cast 'cure crit' %0;}
 
 #alias {stink} {cast 'stinking cloud'}
+#alias {cw} {cast 'con win'}
 
 #alias {ref} {cast 'refresh' %0}
 #alias {mref} {cast 'mass ref'}

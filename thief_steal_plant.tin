@@ -1,0 +1,5 @@
+#action {Maui notices you. You're caught!} {plant knife maui}
+#action {Got rid of it.} {steal knife maui}
+
+#action {Got it.} {plant knife maui}
+#action {Maui notices you!} {steal knife maui}

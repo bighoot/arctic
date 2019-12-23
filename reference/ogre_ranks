@@ -1,0 +1,76 @@
+Id  Name                   Desc.                     Now Max | C     T  R
+1   Selfless Hurtle        Your pet can 'hurtle'     0   1   | 5000  0  2
+                           towards a friendly
+                           target, slamming each of
+                           its opponents to block
+                           some damage with its
+                           body. Pet must be in
+                           active combat to use.
+2   Dastardly Taunt        Your pet gains training   0   3   | 4000  0  2
+                           in the 'taunt' skill,
+                           which can force a target
+                           to attack the pet.
+    Requires  : Selfless Hurtle        x1
+3   Intimidating Taunt     Improves your pet's       0   1   | 6000  0  2
+                           'taunt' to also
+                           intimidate the target,
+                           reducing its melee
+                           capabilities.
+    Requires  : Dastardly Taunt        x3
+4   Taunting Shout         Improves your pet's       0   1   | 6000  0  2
+                           'taunt' to potentially
+                           affect an additional
+                           enemy.
+    Requires  : Dastardly Taunt        x3
+5   Chronic Belligerence   Your pet can use          0   3   | 7000  0  2
+                           'belligerence' to start
+                           or stop automatically
+                           taunting enemies that
+                           are fighting you. Each
+                           purchase increases the
+                           chance of this taunt.
+    Requires  : Taunting Shout         x1
+6   Snarling Resilience    Your pet can sometimes    0   2   | 5000  0  2
+                           shrug off half of the
+                           damage it receives.
+7   Crippling Crush        Your pet can club its     0   1   | 6000  0  4
+                           opponent's hands,
+                           reducing its melee
+                           capability.
+    Requires  : Snarling Resilience    x2
+8   Vicious Growl          Your pet can growl in     0   1   | 12000 0  5
+                           combat to impair enemies
+                           fighting it and fought
+                           by it.
+    Requires  : Snarling Resilience    x2
+9   Startling Shout        Your pet can startle its  0   1   | 12000 0  5
+                           opponent, causing spell
+                           failure.
+    Requires  : Vicious Growl          x1
+10  Fearsome Size          Your pet can 'enlarge'    0   1   | 6000  0  2
+                           itself briefly.
+11  Reckless Rage          Your pet can 'rage' to    0   1   | 7500  0  3
+                           increase offensive
+                           capability at the
+                           expense of defense.
+12  Last Stand             Your pet can 'overexert'  0   1   | 10000 0  5
+                           itself to make a last
+                           ditch effort to stave
+                           off death. Must be low
+                           on hitpoints.
+    Requires minimum rank of : 20
+13  Repellent Field        Increases your pet's      0   2   | 4000  0  2
+                           ability to resist
+                           magical spell effects
+                           greatly.
+14  Lubricated Joints      Increases your pet's      0   2   | 4000  0  2
+                           ability to resist
+                           paralytic attacks
+                           greatly.
+15  Acrid Resilience       Increases your pet's      0   2   | 4000  0  2
+                           ability to resist breath
+                           attacks greatly.
+16  Telepathic Link        Allows you to order your  0   1   | 5000  0  2
+                           pet when silenced.
+17  Gilded Eyes            Protects your pet from    0   1   | 8000  0  3
+                           blindness.

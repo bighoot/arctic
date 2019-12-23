@@ -146,6 +146,9 @@
 }
 {5}
 
+#alias sco {cast 'scorch' %0;}
+#alias as {cast 'arcane spear' %0;}
+
 #alias {rrrrrr}
 {
 	gift;
@@ -167,6 +170,7 @@
 	cast 'displacement';
 	cast 'lightning shield';
 	cast 'minor globe of in';
+	cast 'mirror image';
 }
 {5}
 
@@ -179,24 +183,7 @@
 }
 {5}
 
-#alias practice
-{
-	mag anc;
-	arcane bar;
-	gift;
-	brew 'strength';
-	scribe 'strength';
-}
-{5}
 
-#alias practice2
-{
-	rest;
-	rem bracelet;
-	wear bracelet;
-	bandage me;
-	deep;
-}
 
 #highlight {The lunar glimmer fades from your eye.}{cyan}
 #highlight {The energy in the air coalesces and becomes controllable once again.}{cyan}

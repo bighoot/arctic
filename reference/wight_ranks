@@ -1,0 +1,114 @@
+Id  Name                   Desc.                     Now Max | C     T  R
+1   Fiery Destruction      Teaches your pet the      0   1   | 10000 0  3
+                           'fireball' spell.
+    Requires  : Lofty Arcana           x3
+2   Wintery Bite           Teaches your pet the      0   1   | 10000 0  3
+                           'cold snap' spell.
+    Requires  : Lofty Arcana           x3
+3   Withering Cantrip      Your pet will often cast  0   1   | 6000  0  2
+                           'ray of enfeeblement'
+                           for free in combat.
+    Requires  : Lofty Arcana           x3
+4   Fiery Retaliation      Your pet may retaliate    0   1   | 5000  0  1
+                           against offensive spells
+                           with a fire bolt.
+    Requires  : Lofty Arcana           x3
+5   Murderous Vision       Significantly increase    0   3   | 2000  0  2
+                           your pet's chance to
+                           hit.
+6   Unbridled Cruelty      Significantly increase    0   2   | 4000  0  2
+                           your pet's melee damage.
+    Requires  : Murderous Vision       x3
+7   Fel Lash               Your pet will             0   1   | 4000  0  1
+                           occasionally lash out at
+                           its target.
+    Requires  : Unbridled Cruelty      x2
+8   Deadly Lash            Improve the damage of     0   1   | 4000  0  1
+                           your pet's Fel Lash.
+    Requires  : Fel Lash               x1
+9   Staggering Smash       Your pet can 'smash' a    0   1   | 6000  0  2
+                           target to disorient it.
+    Requires  : Fel Lash               x1
+10  Martial Retaliation    Your pet will often       0   1   | 6000  0  1
+                           strike back at melee
+                           attackers.
+    Requires  : Fel Lash               x1
+11  Demonic Fervor         Increase your pet's       0   3   | 7500  0  2
+                           melee haste.
+    Requires  : Unbridled Cruelty      x2
+12  Desecrating Plague     Your pet can 'plague' a   0   1   | 7500  0  2
+                           target by hurling a
+                           corpse object at it.
+    Requires  : Unbridled Cruelty      x2
+13  Shadow Skin            Your pet is harder to     0   3   | 1000  0  1
+                           hit.
+14  Umbral Mantle          Your pet can avoid        0   1   | 7500  0  3
+                           ranged attacks.
+    Requires  : Shadow Skin            x3
+15  Infernal Reflexes      Your pet gains training   0   2   | 10000 0  2
+                           in 'evade' to avoid area
+                           attacks.
+    Requires  : Shadow Skin            x3
+16  Nefarious Attacks      Your pet's melee attacks  0   1   | 3000  0  1
+                           bypass damage shields,
+                           such as 'fireshield'.
+    Requires  : Shadow Skin            x3
+17  Fel Armor              Increases your pet's      0   3   | 5000  0  1
+                           damage resistance.
+    Requires  : Shadow Skin            x3
+18  Hellish Rebuke         Your pet can partially    0   1   | 7500  0  3
+                           block melee attacks,
+                           reducing damage
+                           received.
+    Requires  : Fel Armor              x3
+19  Wicked Rebuke          Improves your pet's       0   1   | 6000  0  3
+                           Hellish Rebuke to
+                           occasionally knock an
+                           attacker off its feet.
+    Requires  : Hellish Rebuke         x1
+20  Soul Siphon            Your pet can              0   1   | 10000 0  3
+                           occasionally siphon away
+                           some of its target's
+                           hitpoints to heal
+                           itself.
+    Requires  : Fel Armor              x3
+21  Vile Touch             Your wight can 'drain' a  0   1   | 10000 0  5
+                           target, inflicting
+                           damage while curing
+                           itself.
+    Requires minimum rank of : 20
+22  Repellent Field        Increases your pet's      0   2   | 4000  0  2
+                           ability to resist
+                           magical spell effects
+                           greatly.
+23  Lubricated Joints      Increases your pet's      0   2   | 4000  0  2
+                           ability to resist
+                           paralytic attacks
+                           greatly.
+24  Acrid Resilience       Increases your pet's      0   2   | 4000  0  2
+                           ability to resist breath
+                           attacks greatly.
+25  Telepathic Link        Allows you to order your  0   1   | 5000  0  2
+                           pet when silenced.
+26  Intense Focus          Increases your pet's      0   2   | 1000  0  1
+                           chance to avoid spell
+                           interruption.
+27  Indomitable Focus      Grants your pet immunity  0   1   | 8000  0  3
+                           to mind-affecting
+                           abilities.
+    Requires  : Intense Focus          x2
+28  Apprentice Arcanist    Increase your pet's       0   1   | 1500  0  1
+                           slots at circle 1 by 1.
+29  Adept Arcanist         Increase your pet's       0   1   | 2000  0  1
+                           slots at circle 2 by 1.
+    Requires  : Apprentice Arcanist    x1
+30  Adroit Arcanist        Increase your pet's       0   1   | 4000  0  2
+                           slots at circle 3 by 1.
+    Requires  : Adept Arcanist         x1
+31  Accomplished Arcanist  Increase your pet's       0   1   | 5000  0  2
+                           slots at circle 4 by 1.
+    Requires  : Adroit Arcanist        x1
+32  Lofty Arcana           Increase your pet's       0   3   | 5000  0  1
+                           effective casting level.
+    Requires  : Accomplished Arcanist  x1
+

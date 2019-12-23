@@ -45,6 +45,8 @@
 #NOOBS
 #alias fight {a env dagger; a env flame; b env spear; b env sword; b back %0; #delay 1 {a assist; b throat; a throat;}}
 #action {Your hand is strong, and ready for some use.} {throat;}
+#action {Get in there and coup some chumps.} {coup;}
+#action {Maui gives you an ethereal ghost berry.} {eat berry}
 
 #nop alias cl {a cast 'cure light' vali}
 #nop alias cs {a cast 'cure ser' vali}
@@ -63,7 +65,8 @@
 #nop alias harm {a cast 'harm' %0;}
 #nop alias hp {a cast 'hold person' %0;}
 #nop alias flame {a cast 'flamestrike' %0;}
-#nop action {Baldr gives you a loaf of bread.} {eat bread}
+
+#action {Baldr gives you a loaf of bread.} {eat bread}
 
 #alias kpk {a kick;a punch;a kick;b scrape;}
 #alias ra {a resc arcas;}
@@ -72,11 +75,19 @@
 #action {You feel up to using headbutt again.} {headbutt}
 #action {You feel up to using scrape again.} {scrape}
 #action {You feel up to using freeze again.} {freeze}
+#action {You feel up to using zap again.} {zap}
+#action {You feel up to using sting again.} {sting}
+#action {You feel up to using swarm again.} {swarm}
+#action {You feel up to using bite again.} {bite}
+#action {You feel up to using gather again.} {gather; put all.arrows quiver; put all.arrow quiver;}
 
 #action {disarms your weapon.} {get sword;wield sword;}
 #action {strike at} {strike;}
 
 #nop {You are hungry} {cast 'su el'; drink elixir;}
 
+#alias fight {aim %0; shoot auto;}
+#highlight {You %* plunk} {yellow}
+#highlight {You plunk %*} {yellow}
 
 

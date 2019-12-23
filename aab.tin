@@ -113,18 +113,13 @@
 #alias fffff {b sip all.bottle; b charge %0; b battle; b breach; b healdance; b healdance; b healdance; b gore; b assail; #delay 1 {a assist; a order all.spirit assist; a hex; a spook; a stupe;}}
 #alias fffff {b kill %0; b strike; b reck; #delay 1 {a order all.spirit assist dany; a assist; a hex; a spook; a stupe;} #delay 2 {b rally;}}
 
-#nop BALDR and CILIX
-#alias fffff {b kill %0; kpk; #delay 1 {a assist cilix;}}
-
 #nop AETHER and DANY
 #alias fffff {b kill %0; #delay 1 {a assist dany; a wildfire; b reck; b order skag assist; b rally; b slam;}}
-
-
 
 #nop HALMOS and DANY
 #alias fffff {b kill %0; #delay 1 {a order murus assist Dany; a assist dany; b order skag assist; b rally;}}
 #alias loot {a get all.component %0.corpse; #delay 1 {b get all %0.corpse;}}
-#alias cure {b order skag cast 'cure ser' %0; b cast 'cure ser' %0;}
+#alias cure {b order drogon cast 'cure ser' %0; b cast 'cure ser' %0;}
 
 #nop RICHTER and ENKI
 #alias fffff {a kill %0; #delay 1 {b assist; b wildfire; b zap; b swarm;}}
@@ -141,7 +136,6 @@
 
 #nop STYR and DANY
 #alias fight {a watch dany; b kill %0; b slam; #delay 1 {a order eagle assist dany; b order skag assist; b rally;}}
-#alias combat {b rally; b reck; b aven legs; b strike; b slam;}
 #alias loot {a get all.component %0.corpse; #delay 1 {b get all %0.corpse;}}
 #action {You are hungry.} {sta;cast 'sus' me;rest;}
 
@@ -151,21 +145,115 @@
 #highlight {You plunk %*} {yellow}
 #action {You feel up to using gather again.} {gather; put all.arrows quiver;}
 
-#nop MAUI and DANY
-#alias fight {b kill %0; #delay 1 {a order all.spirit assist dany; b rally; b slam;}}
-#action {The death cry of} {get all.coins corpse; exa corpse;}
-#alias {rawr} {cast 'bo bl'; cast 'dark soul';}
-#alias v {assist; oas assist;}
+#nop MAUI and CILIX
+#alias fight {b assist sharg; assist sharg; order all.spirit assist sharg;}
+
+#nop EVIL BITCHES
+#alias fight {a kill %0; #delay 1 {b order wight assist tepe; b assist tepe;}}
+
+#nop MAUI and HALMOS
+#alias fight {b order murus kill %0; a order all.spirit kill %0; #delay 1 {a assist murus; order all.spirit assist;}}
+#nop fight {b order murus assist sharg; a order all.spirit assist sharg; #delay 1 {a assist sharg; b assist sharg;}}
 
 #NOOBS
-#alias fight {a env dagger; a env flame; b env spear; b env sword; a back %0; #delay 1 {b assist; a throat; b throat;}}
-#action {Your hand is strong, and ready for some use.} {throat;}
+#alias fight {b env spear; b env sword; b back %0; #delay 1 {order wight assist yves; assist yves;}}
 #alias both {a %0; b %0;}
+
+#nop MAUI and RICHTER
+#alias fight {b sip all.bottle; b kill %0; b heald; b breach; b assist; #delay 1 {a order all.spirit assist richter; a assist;}}
+#alias combat {b charge; b gore; b assail; b battle;}
+#alias recover {b rest; b bandage me; b recuperate; a rest; a seance; a bandage me;}
+#alias practice {b mend chest; b sharpen 2.axe; b lore quartz;}
+
+#nop MAUI and AETHER
+#alias fight {b hover; b kill %0; b wildfire; #delay 2 {a order all.spirit assist aether; a assist;}}
+#nop fight {a kill %0; oas assist; #delay 2 {b aim %0; b shoot auto; b wildfire;}}
+#alias recover {b camp; b rest; b bandage me; b stand;}
+#alias {v} {b riposte slash;}
+#alias rss {b resc 1.spirit; b resc 2.spirit; b resc 3.spirit; b resc 4.spirit;}
+
+
+
+#nop MAUI and DANY
+#alias fight {b kill %0; b assist; #delay 1 {a order all.spirit assist dany; b rally; b slam; a assist;}}
+#alias combat {b rally; b reck; b aven legs; b strike; b slam;}
+
+#alias {rawr} {cast 'bo bl'; cast 'dark soul';}
+#alias {fullbuffs} {cast 'bo bl'; cast 'dark soul'; cast 'eth arm'; cast 'ten heart'; cast 'mon man'; cast 'ghostskin' me; cast 'an sh' me; cast 'an bl' me;}
+#alias {tankbuffs} {cast 'ghostskin' %0; cast 'an sh' %0; cast 'heal boost' %0;}
+
+
+
+#nop YVES
+#alias   fight {a watch yves; b env trident; b env sword; a kill %0; b assist; #delay 1 {a order all.spirit assist yves; #5 b unb;}}
+#alias   fight {a watch murus; b env trident; b env dagger; a order murus kill %0; a order murus assist; #delay 1 {b assist; #8 b unbalance;}}
+#alias   fight {a kill %0; a regen me; a order all.spirit assist; #delay 1 {b assist; #12 b unbalance;}}
+#alias   fight {a watch yves; b env trident; b env dagger; b back %0; #delay 1 {a order all.spirit assist yves; b throat; b coup; b bac;}}
+
+
+
+
+#alias food {a cast 'ghost ber'; a give berry bern; a eat berry;}
+
+#nop EVILS
+#alias   fight {b kill %0; #delay 1 {a order all.spirit assist grex; a assist grex; b disarm; kpk; b parry; b parry;}}
+#alias   fight {b kill %0; #delay 1 {a assist ynini; b sting; b zap;}}
+#alias   fight {b kill %0; #delay 1 {a assist ygritte;}}
+
+#alias fight {b kill %0; #delay 1 {a order Quincy assist Dany; a assist dany; b order drogon assist; b rally;}}
+#alias practice {a gift; a resid; a transfer quincy; a rest; a deep; a bandage me; a brew 'strength'; a scribe 'strength';}
+
+#alias   recover {b camp; both rest; b bandage me; a commune; a bandage me;}
+
+#alias fight {a watch usha; b kill %0; #delay 1 {a order Quincy assist Usha;}}
+#alias   fight {b env trident; b env crossbow; b back %0; b assist; #delay 1 {a order all.spirit assist yves; assist yves; b adrenaline; b retaliate;}}
+
+#alias fight {a watch roficent; b kill %0; b order quincy assist; b order quincy pounce; #delay 1 {a order all.spirit assist roficent; a order all.spirit assist quincy;}}
+
+#nop MAUI and DANY
+#alias fight {b kill %0; b assist; #delay 1 {a order all.spirit stand; a order all.spirit assist dany; b rally; b slam; a assist;}}
+#alias combat {b rally; b reck; b aven legs; b strike; b slam;}
+
+#nop MAUI and ARCAS
+#alias fight {b kill %0; b anger; b freeze %0; b wildfire; #delay 1 {a order all.spirit assist arcas; a assist arcas;}}
+
+#nop BALDR and RICHTER
+#alias fight {b sip all.firebreather; b kill %0; b ward; b breach; b assist; #delay 1 {a order all.corpse assist richter; a assist;}}
+#alias combat {b charge; b gore; b assail; b battle;}
+#alias recover {b rest; b bandage me; b recuperate; a rest; a meditate; a bandage me; b sharpen spear; b lore hatchet;}
+#alias practice {b mend chest; b sharpen 2.axe; b lore quartz;}
+
+#nop Vidar and Forseti
+#alias fight {a kill %0; a reck; #delay 1 {b assist; b order quincy assist; a order griffon assist;}}
+#alias fight {a kill %0; a reck; b wildfire; #delay 1 {b assist; b bite; b swarm; a order griffon assist; a rally;}}
+
+
+
+#nop STYR and VIDAR
+#alias fight {b kill %0; b reck; #delay 1 {a order rat assist vidar; a assist vidar; b order eagle assist; b rally;}}
+
+#alias fight {b kill %0; b wildfire; b bite; b swarm; #delay 1 {a assist forseti; a order eagle assist forseti;}}
+#alias fight {b kill %0; b reck; #delay 1 {a assist dany; a order nereid assist; b rally; b slam; b aven legs;}}
+#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire maui; a assist; a order all.spirit assist; b thrust; a hex; b impair; b drain;}}
+#alias fight {b kill %0; #delay 1 {a assist dany; a order ohm assist; b rally; b slam; b aven legs; a gaze; a inspire dany;}}
+#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire maui; a assist; a order all.spirit assist; b thrust; a spook; b impair; b drain;}}
+
+
+#alias buffs {b cast 'bless' me; b cast 'bless' styr; b cast 'a o g'; b cast 'holy arms'; b cast 'crusade';}
+#alias buffs {b cast 'unholy might'; b cast 'cloak of shadow'; a cast 'ghostskin' bern; a cast 'an sh' bern; a cast 'heal boost' bern; a cast 'ten heart'; a cast 'dark soul'; b cast 'un au'; b cast 'bless' me; b cast 'bless' maui; a cast 'eth arm'; b cast 'aid' me; b cast 'unholy wrath';}
+
+
+#alias as {b cast 'arcane spear' %0;}
+#alias ig {b cast 'ignite' %0;}
+#alias sco {b cast 'scorch' %0;}
+
+#action {The death cry of} {get all.coins corpse; get all.component corpse; put all.component chest; exa corpse;}
+
+
 
 #alias bog {b order skag %0;}
 #alias steel {bog cast 'steelskin' dany;}
 #alias ogd {a order velox detonat;}
-
 #alias oc {order cat %0;}
 #alias og {order hastam %0;}
 #alias od {order skag %0;}
