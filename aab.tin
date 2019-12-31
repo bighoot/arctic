@@ -236,7 +236,7 @@
 #alias fight {b kill %0; b reck; #delay 1 {a assist dany; a order nereid assist; b rally; b slam; b aven legs;}}
 #alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire maui; a assist; a order all.spirit assist; b thrust; a hex; b impair; b drain;}}
 #alias fight {b kill %0; #delay 1 {a assist dany; a order ohm assist; b rally; b slam; b aven legs; a gaze; a inspire dany;}}
-#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire maui; a assist; a order all.spirit assist; b thrust; a spook; b impair; b drain;}}
+#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire maui; a assist; a order all.spirit assist; b disarm; b thrust; a stupe; b impair; b drain;}}
 
 
 #alias buffs {b cast 'bless' me; b cast 'bless' styr; b cast 'a o g'; b cast 'holy arms'; b cast 'crusade';}
