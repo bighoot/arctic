@@ -193,7 +193,7 @@
 
 
 
-#alias food {a cast 'ghost ber'; a give berry bern; a eat berry;}
+#alias food {a cast 'ghost ber'; a give berry richter; a eat berry;}
 
 #nop EVILS
 #alias   fight {b kill %0; #delay 1 {a order all.spirit assist grex; a assist grex; b disarm; kpk; b parry; b parry;}}
@@ -217,11 +217,7 @@
 #nop MAUI and ARCAS
 #alias fight {b kill %0; b anger; b freeze %0; b wildfire; #delay 1 {a order all.spirit assist arcas; a assist arcas;}}
 
-#nop BALDR and RICHTER
-#alias fight {b sip all.firebreather; b kill %0; b ward; b breach; b assist; #delay 1 {a order all.corpse assist richter; a assist;}}
-#alias combat {b charge; b gore; b assail; b battle;}
-#alias recover {b rest; b bandage me; b recuperate; a rest; a meditate; a bandage me; b sharpen spear; b lore hatchet;}
-#alias practice {b mend chest; b sharpen 2.axe; b lore quartz;}
+
 
 #nop Vidar and Forseti
 #alias fight {a kill %0; a reck; #delay 1 {b assist; b order quincy assist; a order griffon assist;}}
@@ -236,11 +232,47 @@
 #alias fight {b kill %0; b reck; #delay 1 {a assist dany; a order nereid assist; b rally; b slam; b aven legs;}}
 #alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire maui; a assist; a order all.spirit assist; b thrust; a hex; b impair; b drain;}}
 #alias fight {b kill %0; #delay 1 {a assist dany; a order ohm assist; b rally; b slam; b aven legs; a gaze; a inspire dany;}}
-#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire maui; a assist; a order all.spirit assist; b disarm; b thrust; a stupe; b impair; b drain;}}
+#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire ohm; a assist; a order all.spirit assist; b disarm; b impair; b thrust; b drain;}}
 
 
 #alias buffs {b cast 'bless' me; b cast 'bless' styr; b cast 'a o g'; b cast 'holy arms'; b cast 'crusade';}
 #alias buffs {b cast 'unholy might'; b cast 'cloak of shadow'; a cast 'ghostskin' bern; a cast 'an sh' bern; a cast 'heal boost' bern; a cast 'ten heart'; a cast 'dark soul'; b cast 'un au'; b cast 'bless' me; b cast 'bless' maui; a cast 'eth arm'; b cast 'aid' me; b cast 'unholy wrath';}
+
+#nop BALDR and RICHTER
+#alias fight {b sip all.whiskey; b kill %0; b ward; b breach; b assist; #delay 1 {a order all.corpse assist richter; a assist;}}
+#alias combat {b charge; b gore; b assail; b battle;}
+#alias recover {b rest; b bandage me; b recuperate; a rest; a meditate; a bandage me; b sharpen sword; b lore sword;}
+#alias practice {b mend chest; b sharpen sword; b lore sword;}
+#substitute {Richter charges into the breach, sounding a great yell.} {<159> *******>>> RICHTER INTO THE BREACH <<<*******}
+#substitute {Richter yells a battle cry and fights like a madman!} {<159> *******>>> RICHTER WARDANCING <<<*******}
+b #action {Your rush into the breach reaches its end.} {a #showme <159> *******>>> RICHTER OUT OF THE BREACH <<<*******}
+b #action {You calm down.} {a #showme <159> *******>>> RICHTER NOT DANCING <<<*******}
+b #action {You can't find the courage to dive into the breach.} {a #showme <159> *******>>> RICHTER OUT OF THE BREACH <<<*******}
+
+#nop MAUI and DANY
+#alias fight {b kill %0; b assist; #delay 1 {a order all.spirit stand; a order all.spirit assist dany; b rally; b slam; a assist;}}
+#alias combat {b rally; b reck; b aven legs; b strike; b slam;}
+
+
+#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire ohm; a assist; a order all.spirit assist; b disarm; b impair; b thrust; b drain;}}
+
+#nop MAUI and RICHTER
+#alias fight {b sip all.firebreather; b kill %0; b ward; b breach; b assist; #delay 1 {a order all.spirit assist richter;}}
+#alias buffs {a cast 'ghostskin' richter; a cast 'an sh' richter; a cast 'heal boost' richter; a cast 'ten heart'; a cast 'dark soul'; a cast 'eth arm';}
+#substitute {You calm down.} {<159> *******>>> FRENZY OVER <<<*******}
+#substitute {A red mist blurs your vision and you let out a mighty yell!} {<159> *******>>> FRENZY STARTED <<<*******}
+#substitute {Your connection to the dead breaks.} {<159> *******>>> SEANCE BROKEN <<<*******}
+#substitute {Everything becomes clear as you prepare to cast.} {<159> *******>>> SEANCE CONTINUES <<<*******}
+#substitute {Your spirits diminish in power, but remain.} {<159> *******>>> AMPLIFY SPIRITS GONE <<<*******}
+#alias rm {b cancel; b resc maui;}
+#alias combat {b charge; b gore; b assail; b battle;}
+#alias recover {b rest; b bandage me; b recuperate; a rest; a meditate; a bandage me; b sharpen sword; b lore sword;}
+#alias practice {b mend chest; b sharpen sword; b lore sword;}
+#substitute {Richter charges into the breach, sounding a great yell.} {<159> *******>>> RICHTER INTO THE BREACH <<<*******}
+#substitute {Richter yells a battle cry and fights like a madman!} {<159> *******>>> RICHTER WARDANCING <<<*******}
+b #action {Your rush into the breach reaches its end.} {a #showme <159> *******>>> RICHTER OUT OF THE BREACH <<<*******}
+b #action {You calm down.} {a #showme <159> *******>>> RICHTER NOT DANCING <<<*******}
+b #action {You can't find the courage to dive into the breach.} {a #showme <159> *******>>> RICHTER OUT OF THE BREACH <<<*******}
 
 
 #alias as {b cast 'arcane spear' %0;}

@@ -81,7 +81,7 @@
 #action {You feel up to using bite again.} {bite}
 #action {You feel up to using gather again.} {gather; put all.arrows quiver; put all.arrow quiver;}
 
-#action {disarms your weapon.} {get sword;wield sword;}
+#action {disarms your weapon.} {get axe;wield axe;}
 #action {strike at} {strike;}
 
 #nop {You are hungry} {cast 'su el'; drink elixir;}
