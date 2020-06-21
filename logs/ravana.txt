@@ -1,0 +1,27 @@
+[0m#LOG: LOGGING OUTPUT TO 'ravana.txt' FILESIZE: 0[0m
+
+
+[32m[0;37m[32m323H [0;37m[32m138V [0;37m3182172X 56.70% 4426C [Pos:standing] [0;37mMem:2 Exits:NSU> l
+[35mThe Halls of MYTH[0;37m
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m323H [0;37m[32m138V [0;37m3182172X 56.70% 4426C [Pos:standing] [0;37mMem:2 Exits:NSU> help spell clairvoyance
+Spell    : Clairvoyance
+Sphere   : Divination
+Usage    : cast 'clairvoyance' [char in world]
+Duration : Instantaneous
+Effects  : Caster sees a vision of victim's location
+
+If successful, the caster receives a vision of the current location of his
+or her victim. The accuracy of this spell may vary depending upon the
+frequency of the casting, and the target's natural ability to resist such
+probing.
+
+The spell cannot be cast in a PEACE room.
+
+Component Casting:
+--Nothing obvious.
+
+[32m[0;37m[32m323H [0;37m[32m138V [0;37m3182172X 56.70% 4426C [Pos:standing] [0;37mMem:2 Exits:NSU> #log
+[0m#SYNTAX: #LOG {APPEND|OVERWRITE|OFF} {<FILENAME>}[0m
+#log off

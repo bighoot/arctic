@@ -1,0 +1,3072 @@
+[0m#LOG: LOGGING OUTPUT TO 'sanction_chaos.txt' FILESIZE: 0[0m
+[0;37m[0m
+
+[32m[0;37m[33m[1m230H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37mmem[0m
+Spells currently memorized:
+1: [ 7]magic missile        [ 2]repose              
+2: [ 1]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 6]magic blast         
+5: [ 7]force bolt           [ 2]locate object        [ 1]mass invisibility   
+   [ 1]mental acuity        [ 1]pocket dimension    
+6: [ 8]chain lightning      [ 1]displacement         [ 1]minor globe of invul
+   [ 1]potency              [ 2]relocate             [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 2]force missile        [ 1]lightning shield    
+   [ 1]mass teleport        [ 1]mirror image         [ 1]tether              
+8: [ 2]blink                [ 2]clairvoyance         [ 1]mnemonic enhancer   
+   [ 7]shocking blast      
+9: [ 4]power word stun     
+
+Spells being memorized:
+2: [ 1]continual light     
+5: [ 1]force bolt           [ 1]pocket dimension    
+7: [ 6]force missile       
+9: [ 1]power word stun      [ 6]thunderbolt         
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-4 2-6 3-8 4-2 5-0 6-3 7-2 8-1 9-0
+
+[32m[0;37m[33m[1m230H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37mspells[0m
+Your spells
+-----------
+1:  blur                   detect magic           floating disc        
+    infravision            light                  magic missile        
+    repose                 shield                 weaken               
+2:  continual light        deep pockets           detect invisibility  
+    invisibility           ray of enfeeblement    shocking grasp       
+    silence                sleep                  strength             
+3:  dispel magic           featherfall            fireball             
+    fly                    gust of wind           lightning bolt       
+    magic bolt             mending                rot                  
+    teleport               water breath           web                  
+4:  acid blast             calm                   cold snap            
+    dimension door         free action            haste                
+    hold monster           improved invisibility  magic blast          
+    whispering wind      
+5:  astral beacon          confusion              drain magic          
+    enchant item           force bolt             locate object        
+    mass invisibility      mental acuity          pocket dimension     
+    read magic           
+6:  chain lightning        displacement           identify             
+    minor globe of invulnerability  potency                relocate             
+    spheres of absorption
+7:  antimagic shell        charm monster          detect scry          
+    force missile          lightning shield       mass teleport        
+    mirror image           recharge               tether               
+8:  blink                  clairvoyance           feeblemind           
+    mnemonic enhancer      shocking blast         wizard eye           
+9:  astral portal          blastwave              crippling wave       
+    peek                   power word stun        spell trap           
+    thunderbolt            wall of force        
+
+[32m[0;37m[33m[1m230H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:2 Exits:NS> 
+The rising sun proclaims a new day.
+
+[32m[0;37m[33m[1m343H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.30% of your next rank.
+You are 20 years old.
+You have 343(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,018,135 exp, and have 15134(989099100) steel coins.
+You need 10,981,865 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 6 minute(s).
+You have been playing for 14 day(s), 9 hour(s) and 42 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    continual light
+    minor globe of invulnerability
+    lightning shield
+    antimagic shell
+    repose
+    steelskin
+    mnemonic enhancer
+
+[32m[0;37m[33m[1m343H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mrank[0m
+You currently have 4 Rank Points to spend.
+
+Your current rank affects:
+
+1  Arctic Legend          Turns you into a Legendary    
+                          character.                    
+2  Legendary Mirror Image spell slots by 1 at level 7   
+3  Legendary Mnemonic Enhancer spell slots by 1 at level 8   
+4  Legendary Potency      spell slots by 1 at level 6   
+5  Legendary Read Magic   spell slots by 1 at level 5   
+6  Legendary Spell Trap   spell slots by 1 at level 9   
+7  Legendary Temporal Vision skill temporal vision by 5    
+8  Anti-Freeze            IMMUNE_COLD                   
+9  Fireproof              IMMUNE_HEAT                   
+10 Shock Trooper          IMMUNE_ELECTRICITY            
+11 Antacid                IMMUNE_ACID                   
+12 Nothing Noxious        IMMUNE_GAS                    
+13 Afterglow              NIGHTVISION                   
+14 Peripheral Vision      AWARENESS                     
+15 Eye Spy                DETECT_INVISIBLE SENSE_LIFE   
+16 Sea & Air              WATERBREATH CAN_FLY           
+17 Crack Vision           TRUE_SEEING IMMUNE_BLINDNESS  
+18 Brain Cage             DETECT_SCRY MINDSHIELD        
+
+[32m[0;37m[33m[1m343H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> 
+A red emerald spindle hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m343H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> 
+Your studies complete, you close your spellbook with a smile.
+You sense your minor globe weaken and fade away.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mExits:NS> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mdefense[0m
+You utter the words, 'mnemonic enhancer'
+Your head throbs again, but only for a moment.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+You utter the words, 'antimagic shell'
+The air around you crackles as a translucent barrier envelops you.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> 
+You utter the words, 'spheres of absorption'
+You are surrounded by 3 shimmering spheres.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> 
+You utter the words, 'displacement'
+Your body loses focus and shudders for a brief moment.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+You utter the words, 'lightning shield'
+A veil of electrical energies surround your entire body.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+You utter the words, 'minor globe of invulnerability'
+A shining globe of force enfolds you.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mhelp spell blast wave[0m
+You utter the words, 'mirror image'
+You are surrounded by 5 duplicate images.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+There is no help on that topic.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> [0;37mhelp spell blastwave[0m
+Spell    : Blastwave
+Sphere   : Evocation
+Usage    : cast 'blastwave'
+Damage   : Nominal to massive
+
+This spell causes the caster to detonate a magical explosion that will
+affect nearby enemies.  All enemies in the blast area may find they are
+fumbling and bumbling more often for a time.
+
+Component Casting:
+--Increased damage.
+--Increased affect duration.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> [0;37mmem[0m
+Spells currently memorized:
+1: [ 7]magic missile        [ 2]repose              
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 6]magic blast         
+5: [ 8]force bolt           [ 2]locate object        [ 1]mass invisibility   
+   [ 1]mental acuity        [ 2]pocket dimension    
+6: [ 8]chain lightning      [ 1]potency              [ 2]relocate            
+7: [ 8]force missile        [ 1]mass teleport        [ 1]tether              
+8: [ 2]blink                [ 2]clairvoyance         [ 7]shocking blast      
+9: [ 5]power word stun      [ 6]thunderbolt         
+
+Spells being memorized:
+6: [ 1]displacement         [ 1]minor globe of invul [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 1]lightning shield     [ 1]mirror image        
+8: [ 1]mnemonic enhancer   
+
+You estimate your studies will complete in 4 (game) hours.
+
+Spells left (level-number): 1-4 2-6 3-8 4-2 5-0 6-3 7-2 8-1 9-0
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> [0;37mforget 'thunderbolt'[0m
+thunderbolt: You forget this spell.
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mforget 'thunderbolt'[0m
+thunderbolt: You forget this spell.
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mforget 'thunderbolt'[0m
+thunderbolt: You forget this spell.
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mmem 'blastwave'[0m
+blastwave: added to your list
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mmem 'blastwave'[0m
+blastwave: added to your list
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> [0;37mmem 'blastwave'[0m
+blastwave: added to your list
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.30% of your next rank.
+You are 20 years old.
+You have 565(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,018,135 exp, and have 15134(989099100) steel coins.
+You need 10,981,865 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 8 minute(s).
+You have been playing for 14 day(s), 9 hour(s) and 44 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    mirror image (5 images)
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    steelskin
+    mnemonic enhancer
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:2 Exits:NS> 
+A red emerald spindle hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37m[0m
+
+[32m[0;37m[33m[1m565H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37m[0m
+
+[32m[0;37m[33m[1m667H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> 
+A red emerald spindle hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m667H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> 
+[36mLiko tells you 'number terrorist? aka. math teacher? :p'
+[0;37m
+[32m[0;37m[33m[1m667H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.30% of your next rank.
+You are 20 years old.
+You have 667(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,018,135 exp, and have 15134(989099100) steel coins.
+You need 10,981,865 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 10 minute(s).
+You have been playing for 14 day(s), 9 hour(s) and 46 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    mirror image (5 images)
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    steelskin
+    mnemonic enhancer
+
+[32m[0;37m[33m[1m667H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mreply THEOrist[0m
+You tell Liko 'THEOrist'
+
+[32m[0;37m[33m[1m667H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mwho liko[0m
+[0;37m[36mMortals
+-------
+[1m[36m<WILD> Liko Rich, High Cleric[0;37m[36m
+
+[32m[1mTotal visible people : 1        Total people online  : 11
+[0;37m
+[32m[0;37m[33m[1m667H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> 
+[36mLiko tells you 'same thing :)'
+[0;37m
+[32m[0;37m[33m[1m667H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mMem:1 Exits:NS> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m780H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mExits:NS> 
+A red emerald teardrop hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m780H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [Pos:resting] [0;37mExits:NS> [0;37mboth sta[0m
+You stand up.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37ml[0m
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mn[0m
+[36mAt the Gates of Sanction[0;37m
+[33m[1m[0;37m[31m[1mA draconian gateguard is guarding the gates to Sanction.
+A draconian gateguard is guarding the gates to Sanction.
+A draconian gateguard is guarding the gates to Sanction.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m200V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [0;37mExits:N(E)SW> [0;37mstun[0m
+You utter the words, 'power word stun'
+A draconian gateguard is stunned momentarily, recovering quickly.
+A draconian gateguard is stunned momentarily, recovering quickly.
+A draconian gateguard is stunned momentarily, recovering quickly.
+
+[32m[0;37m[32m901H [0;37m[32m200V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a draconian gateguard:[0;37m[32mPerfect[0;37m] [0;37mMem:2 Exits:N(E)SW> 
+A draconian gateguard tries to kick you but he misses and destroys an image instead.
+
+[32m[0;37m[32m901H [0;37m[32m200V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a draconian gateguard:[0;37m[32mPerfect[0;37m] [0;37mMem:2 Exits:N(E)SW> 
+A draconian gateguard kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+[32m[0;37m[32m898H [0;37m[32m200V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[32mPerfect[0;37m] [0;37mMem:2 Exits:N(E)SW> 
+A draconian gateguard tries to kick you but he misses and destroys an image instead.
+
+[32m[0;37m[32m898H [0;37m[32m200V [0;37m10981865X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[32mPerfect[0;37m] [0;37mMem:2 Exits:N(E)SW> 
+A draconian gateguard misses you with his claw.
+A draconian gateguard barely claws YOU.
+A draconian gateguard is shocked as he passes through your aura.
+You bludgeon a draconian gateguard.
+A draconian gateguard misses you with his claw.
+
+[32m[0;37m[32m893H [0;37m[32m200V [0;37m10981618X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[32mV.Good[0;37m] [0;37mMem:2 Exits:N(E)SW> [0;37mcast 'blastwave'[0m
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against a draconian gateguard's chest.
+Your thunderous blastwave brutally breaks against a draconian gateguard's chest.
+A draconian gateguard looks un-well after taking the brunt of the blastwave in the gut.
+Your thunderous blastwave brutally breaks against a draconian gateguard's chest.
+
+[32m[0;37m[32m893H [0;37m[32m200V [0;37m10979358X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:N(E)SW> 
+A draconian gateguard misses you and destroys an image.
+A draconian gateguard fumbles and fails to swing at his target.
+A draconian gateguard misses you with his claw.
+
+[32m[0;37m[32m893H [0;37m[32m200V [0;37m10979358X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:N(E)SW> [0;37mcast 'blastwave'[0m
+
+A draconian gateguard tries to kick you but he misses and destroys an image instead.
+
+[32m[0;37m[32m893H [0;37m[32m200V [0;37m10979358X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:N(E)SW> 
+You feel ribs crack as you are kicked in the chest by a draconian gateguard.
+
+[32m[0;37m[32m883H [0;37m[32m200V [0;37m10979358X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:N(E)SW> 
+You feel ribs crack as you are kicked in the chest by a draconian gateguard.
+
+[32m[0;37m[32m873H [0;37m[32m200V [0;37m10979358X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:N(E)SW> 
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against a draconian gateguard's chest.
+Your thunderous blastwave brutally breaks against a draconian gateguard's chest.
+Your thunderous blastwave brutally breaks against a draconian gateguard's chest.
+
+[32m[0;37m[32m873H [0;37m[32m200V [0;37m10977494X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mFair[0;37m] [0;37mMem:3 Exits:N(E)SW> 
+A draconian gateguard misses you with his claw.
+A draconian gateguard fumbles and fails to swing at his target.
+A draconian gateguard barely claws YOU.
+A draconian gateguard is shocked as he passes through your aura.
+
+[32m[0;37m[32m868H [0;37m[32m200V [0;37m10977346X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mFair[0;37m] [0;37mMem:3 Exits:N(E)SW> [0;37mcast 'blastwave'[0m
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against a draconian gateguard's chest.
+Your thunderous blastwave brutally breaks against a draconian gateguard's chest.
+A draconian gateguard looks un-well after taking the brunt of the blastwave in the gut.
+A draconian gateguard screams in horror and pain as your blastwave explodes!
+A draconian gateguard staggers back as your blastwave explodes in front of him!
+A draconian gateguard screams in horror and pain as your blastwave explodes!
+Your thunderous blastwave brutally breaks against a draconian gateguard's chest.
+A draconian gateguard looks un-well after taking the brunt of the blastwave in the gut.
+
+[32m[0;37m[32m868H [0;37m[32m200V [0;37m10974296X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:N(E)SW> 
+A draconian gateguard tries to kick you but he misses and destroys an image instead.
+The images around you fade out of existence.
+
+[32m[0;37m[32m868H [0;37m[32m200V [0;37m10974296X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:N(E)SW> 
+You feel ribs crack as you are kicked in the chest by a draconian gateguard.
+
+[32m[0;37m[32m862H [0;37m[32m200V [0;37m10974296X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:N(E)SW> 
+A draconian gateguard kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+[32m[0;37m[32m854H [0;37m[32m200V [0;37m10974296X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:N(E)SW> 
+A draconian gateguard fumbles and fails to swing at his target.
+A draconian gateguard claws YOU.
+A draconian gateguard looks shocked as he is electrocuted by your aura.
+You receive 28156 experience.
+A draconian gateguard's body goes through a strange transformation...
+You see yourself!
+Halmos the Number Theorist, Computational Mythematician is dead! R.I.P.
+A draconian gateguard barely claws YOU.
+A draconian gateguard is shocked as he passes through your aura.
+The death cry of Halmos the Number Theorist, Computational Mythematician echoes from somewhere nearby...
+
+[32m[0;37m[32m841H [0;37m[32m200V [0;37m10945695X 36.30% 15134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:N(E)SW> 
+You get a small pile of coins from the corpse of Halmos the Number Theorist, Computational Mythematician.
+There were 9 coins.
+
+[32m[0;37m[32m841H [0;37m[32m200V [0;37m10945695X 36.30% 15143C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:N(E)SW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+[32m[0;37m[32m841H [0;37m[32m200V [0;37m10945695X 36.30% 15143C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:N(E)SW> [0;37mstun[0m
+A red emerald sphere hums softly as it morphs into a different shape.
+You belong to no group.
+
+[32m[0;37m[32m841H [0;37m[32m200V [0;37m10945695X 36.30% 15143C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:N(E)SW> 
+You utter the words, 'power word stun'
+A draconian gateguard is stunned momentarily, recovering quickly.
+A draconian gateguard is stunned!
+
+[32m[0;37m[32m841H [0;37m[32m200V [0;37m10945695X 36.30% 15143C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:4 Exits:N(E)SW> 
+A draconian gateguard bruises YOU with his claw.
+A draconian gateguard is shocked as he passes through your aura.
+
+[32m[0;37m[32m838H [0;37m[32m200V [0;37m10945563X 36.30% 15143C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:4 Exits:N(E)SW> 
+A draconian gateguard kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10945563X 36.30% 15143C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:4 Exits:N(E)SW> [0;37mfm[0m
+You utter the words, 'force missile'
+You grin triumphantly as your force missile crashes into a draconian gateguard.
+You grin triumphantly as your force missile crashes into a draconian gateguard.
+A draconian gateguard is stunned, but will likely regain consciousness again.
+The force missile tears away the remaining life of a draconian gateguard.
+You receive 23623 experience.
+A draconian gateguard's body goes through a strange transformation...
+You see yourself!
+Halmos the Number Theorist, Computational Mythematician is dead! R.I.P.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10920885X 36.30% 15143C [32m[Pos:standing][0m[0;37m [Halmos the Number Theorist, Computational Mythematician:[0;37m[31mDying[0;37m] [0;37mMem:4 Exits:N(E)SW> 
+The death cry of Halmos the Number Theorist, Computational Mythematician echoes from somewhere nearby...
+You direct your attention to a draconian gateguard.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10920885X 36.30% 15143C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:N(E)SW> 
+You bludgeon a draconian gateguard very hard.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10920885X 36.30% 15143C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:N(E)SW> 
+You get a pile of coins from the corpse of Halmos the Number Theorist, Computational Mythematician.
+There were 11 coins.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10920885X 36.30% 15154C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:N(E)SW> [0;37mfm[0m
+You bludgeon a draconian gateguard hard.
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10920885X 36.30% 15154C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:N(E)SW> 
+You belong to no group.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10920885X 36.30% 15154C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian gateguard:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:N(E)SW> 
+You utter the words, 'force missile'
+You grin triumphantly as your force missile crashes into a draconian gateguard.
+A draconian gateguard is mortally wounded, and will die soon, if not aided.
+The force missile tears away the remaining life of a draconian gateguard.
+You receive 23536 experience.
+A draconian gateguard's body goes through a strange transformation...
+You see yourself!
+Halmos the Number Theorist, Computational Mythematician is dead! R.I.P.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15154C [32m[Pos:standing][0m[0;37m [Halmos the Number Theorist, Computational Mythematician:[0;37m[31mDying[0;37m] [0;37mMem:5 Exits:N(E)SW> 
+The death cry of Halmos the Number Theorist, Computational Mythematician echoes from somewhere nearby...
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15154C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:N(E)SW> [0;37mrest[0m
+You get a small pile of coins from the corpse of Halmos the Number Theorist, Computational Mythematician.
+There were 8 coins.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:N(E)SW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:N(E)SW> 
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:2 Exits:N(E)SW> 
+You belong to no group.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:2 Exits:N(E)SW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:N(E)SW> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+The gate is closed.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+[31m[1mA vicious-looking red dragon lies across the bridge, basking in the heat.
+[0;37mLooking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:N(E)SW> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:2 Exits:N(E)SW> [0;37mmem[0m
+Spells currently memorized:
+1: [ 7]magic missile        [ 2]repose              
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 6]magic blast         
+5: [ 8]force bolt           [ 2]locate object        [ 1]mass invisibility   
+   [ 1]mental acuity        [ 2]pocket dimension    
+6: [ 8]chain lightning      [ 1]displacement         [ 1]minor globe of invul
+   [ 1]potency              [ 2]relocate             [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 6]force missile        [ 1]lightning shield    
+   [ 1]mass teleport        [ 1]mirror image         [ 1]tether              
+8: [ 2]blink                [ 2]clairvoyance         [ 1]mnemonic enhancer   
+   [ 7]shocking blast      
+9: [ 3]power word stun      [ 3]thunderbolt         
+
+Spells being memorized:
+7: [ 2]force missile       
+9: [ 3]blastwave            [ 2]power word stun     
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-4 2-6 3-8 4-2 5-0 6-3 7-2 8-1 9-0
+
+[32m[0;37m[32m832H [0;37m[32m200V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:2 Exits:N(E)SW> [0;37mforget 'thunderbolt'[0m
+thunderbolt: You forget this spell.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37mforget 'thunderbolt'[0m
+thunderbolt: You forget this spell.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37mforget 'thunderbolt'[0m
+thunderbolt: You forget this spell.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37mmem 'blastwave'[0m
+blastwave: added to your list
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37mmem 'blastwave'[0m
+blastwave: added to your list
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37mmem 'blastwave'[0m
+blastwave: added to your list
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:2 Exits:N(E)SW> [0;37m#alias bw cast 'blastwave'[0m
+[0m#OK. {bw} NOW ALIASES {cast 'blastwave'} @ {5}.[0m
+[0;37m[0m
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:2 Exits:N(E)SW> [0;37mcl[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:2 Exits:N(E)SW> [0;37m#read ./arctic/mage.tin[0m
+
+The electrical energies shielding you disappear.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> 
+A red emerald ovoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37mloadboth[0m
+[0;37m#read ./arctic/mage.tin[0m
+[0;37ml[0m
+[36mAt the Gates of Sanction[0;37m
+[33m[1mThe corpse of Halmos the Number Theorist, Computational Mythematician is lying here. [3]
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37mmem[0m
+Spells currently memorized:
+1: [ 7]magic missile        [ 2]repose              
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 6]magic blast         
+5: [ 8]force bolt           [ 2]locate object        [ 1]mass invisibility   
+   [ 1]mental acuity        [ 2]pocket dimension    
+6: [ 8]chain lightning      [ 1]displacement         [ 1]minor globe of invul
+   [ 1]potency              [ 2]relocate             [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 6]force missile        [ 1]lightning shield    
+   [ 1]mass teleport        [ 1]mirror image         [ 1]tether              
+8: [ 2]blink                [ 2]clairvoyance         [ 1]mnemonic enhancer   
+   [ 7]shocking blast      
+9: [ 3]power word stun     
+
+Spells being memorized:
+7: [ 2]force missile       
+9: [ 6]blastwave            [ 2]power word stun     
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-4 2-6 3-8 4-2 5-0 6-3 7-2 8-1 9-0
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37mexa corpse[0m
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37mwho[0m
+[0;37m[37mImmortals
+---------
+[1m[37m[Imp  36]  Kam will kill you all.[0;37m[34m
+
+[0;37m[36mMortals
+-------
+[1m[36m       Ocasio the Female Qualinesti[0;37m[36m
+[1m[36m<CORE> General Ellison, Attorney[0;37m[36m
+[1m[36m<THC>  Pete, Dave, Frank, Personality Disorder is Real[0;37m[36m
+[1m[36m       Yeroc the Male Minotaur[0;37m[36m
+[1m[36m       Corey the Male Minotaur[0;37m[36m
+[1m[36m       Balin the Male Silvanesti[0;37m[36m
+[1m[36m<MYTH> Halmos the Number Theorist, Computational Mythematician[0;37m[36m
+[1m[36m<THC>  Crayon the Male Half Ogre[0;37m[36m
+
+[32m[1mTotal visible people : 9        Total people online  : 9
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.30% of your next rank.
+You are 20 years old.
+You have 901(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,103,211 exp, and have 15162(989099100) steel coins.
+You need 10,896,789 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 14 minute(s).
+You have been playing for 14 day(s), 9 hour(s) and 50 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    minor globe of invulnerability
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    steelskin
+    mnemonic enhancer
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mMem:1 Exits:N(E)SW> 
+Your studies complete, you close your spellbook with a smile.
+The metallic luster of your skin fades.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [Pos:resting] [0;37mExits:N(E)SW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mExits:N(E)SW> [0;37mcast 'mirror'[0m
+You utter the words, 'mirror image'
+You are surrounded by 5 duplicate images.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:N(E)SW> [0;37msta[0m
+You are already standing.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:N(E)SW> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m901H [0;37m[32m200V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1mA monstrous visage of doom, a harbinger of chaos looms over the land.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m198V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NE> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1mA draconian is here patrolling the area for intruders.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m196V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:EW> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1mA monstrous visage of doom, a harbinger of chaos looms over the land.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m194V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NE> [0;37mlook harbinger[0m
+In the face of death, you see only what you might have been.
+Try to do better next time.
+
+A monster harbinger of chaos is in an excellent condition.
+
+[32m[0;37m[32m901H [0;37m[32m194V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NE> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1mA draconian is here patrolling the area for intruders.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m192V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:EW> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1mA draconian is here patrolling the area for intruders.
+A draconian is here patrolling the area for intruders.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m190V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:EW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.30% of your next rank.
+You are 20 years old.
+You have 901(901) hit and 190(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,103,211 exp, and have 15162(989099100) steel coins.
+You need 10,896,789 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 15 minute(s).
+You have been playing for 14 day(s), 9 hour(s) and 51 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    mirror image (5 images)
+    minor globe of invulnerability
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    mnemonic enhancer
+
+[32m[0;37m[32m901H [0;37m[32m190V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:EW> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m901H [0;37m[32m188V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NW> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m901H [0;37m[32m186V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1mA draconian is here patrolling the area for intruders.
+A dragonarmy officer is standing here taking a smoke break.
+[0;37mA dragonarmy lieutenant tries to kick you but he misses and destroys an image instead.
+
+[32m[0;37m[32m901H [0;37m[32m184V [0;37m10896789X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a dragonarmy lieutenant:[0;37m[32mPerfect[0;37m] [0;37mMem:1 Exits:NS> [0;37mcl[0m
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy lieutenant to shake and spasm.
+
+[32m[0;37m[32m901H [0;37m[32m184V [0;37m10895821X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a dragonarmy lieutenant:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:NS> 
+A dragonarmy lieutenant misses you and destroys an image.
+After briefly disappearing, your mirror image pops back into view.
+A dragonarmy lieutenant hits YOU hard.
+
+[32m[0;37m[32m890H [0;37m[32m184V [0;37m10895821X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:NS> [0;37mfm[0m
+
+A dragonarmy lieutenant kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+[32m[0;37m[32m882H [0;37m[32m184V [0;37m10895821X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:NS> 
+A draconian patrol tries to kick you but he misses and destroys an image instead.
+
+[32m[0;37m[32m882H [0;37m[32m184V [0;37m10895821X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:NS> 
+You utter the words, 'force missile'
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+A draconian patrol screams in horror and pain as your force missile explodes!
+A dragonarmy lieutenant screams in horror and pain as your force missile explodes!
+
+[32m[0;37m[32m882H [0;37m[32m184V [0;37m10892943X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:NS> 
+A draconian patrol misses you and destroys an image.
+After briefly disappearing, your mirror image pops back into view.
+A dragonarmy lieutenant hits YOU hard.
+A dragonarmy lieutenant misses you and destroys an image.
+After briefly disappearing, your mirror image pops back into view.
+
+[32m[0;37m[32m872H [0;37m[32m184V [0;37m10892943X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:NS> [0;37mfm[0m
+You utter the words, 'force missile'
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+There is a bright flash as your force missile explodes in a draconian patrol's face!
+A dragonarmy lieutenant screams in horror and pain as your force missile explodes!
+
+[32m[0;37m[32m872H [0;37m[32m184V [0;37m10890477X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:NS> 
+A dragonarmy lieutenant tries to kick you but he misses and destroys an image instead.
+After briefly disappearing, your mirror image pops back into view.
+A draconian patrol misses you and destroys an image.
+A dragonarmy lieutenant hits YOU hard.
+
+[32m[0;37m[32m861H [0;37m[32m184V [0;37m10890477X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:NS> 
+A draconian patrol strikes your weapon, but you maintain your grip on it.
+
+[32m[0;37m[32m861H [0;37m[32m184V [0;37m10890477X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 Exits:NS> [0;37mfm[0m
+A draconian patrol misses you and destroys an image.
+A dragonarmy lieutenant misses you and destroys an image.
+The images around you fade out of existence.
+A dragonarmy lieutenant misses you with his hit.
+You bludgeon a dragonarmy lieutenant hard.
+You utter the words, 'force missile'
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+
+[32m[0;37m[32m861H [0;37m[32m184V [0;37m10888350X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:3 Exits:NS> [0;37mfm[0m
+
+A dragonarmy lieutenant kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10888350X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:3 Exits:NS> 
+A draconian patrol tries to punch you, but you deftly avoid his blow.
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10888350X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:3 Exits:NS> 
+A draconian patrol misses you with his claw.
+A dragonarmy lieutenant misses you with his hit.
+A dragonarmy lieutenant misses you with his hit.
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10888350X 36.30% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:3 Exits:NS> 
+You utter the words, 'force missile'
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+You grin triumphantly as your force missile crashes into a dragonarmy lieutenant.
+A dragonarmy lieutenant is mortally wounded, and will die soon, if not aided.
+The force missile tears away the remaining life of a dragonarmy lieutenant.
+You receive 83054 experience.
+A dragonarmy lieutenant is dead! R.I.P.
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10803724X 36.35% 15162C [32m[Pos:standing][0m[0;37m [a dragonarmy lieutenant:[0;37m[31mDying[0;37m] [0;37mMem:3 Exits:NS> 
+The death cry of a dragonarmy lieutenant echoes from somewhere nearby...
+A draconian patrol stops following a dragonarmy lieutenant.
+A dragonarmy lieutenant now follows a draconian patrol.
+A draconian patrol is the new leader of a dragonarmy lieutenant's group.
+A dragonarmy lieutenant stops following a draconian patrol.
+You direct your attention to a draconian patrol.
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10803724X 36.35% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[32mPerfect[0;37m] [0;37mMem:3 Exits:NS> [0;37mfm[0m
+
+You slam your staff on a draconian patrol's face and he stumbles back.
+You bludgeon a draconian patrol.
+A draconian patrol misses you with his claw.
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10803609X 36.35% 15162C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:NS> 
+You get a large pile of coins from the corpse of a dragonarmy lieutenant.
+There were 110 coins.
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10803609X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:NS> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a large iron key
+a dragonarmy shield
+a red dragonarmy breastplate
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10803609X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:NS> [0;37mget key corpse[0m
+You utter the words, 'force missile'
+You grin triumphantly as your force missile crashes into a draconian patrol.
+You grin triumphantly as your force missile crashes into a draconian patrol.
+You grin triumphantly as your force missile crashes into a draconian patrol.
+You grin triumphantly as your force missile crashes into a draconian patrol.
+You grin triumphantly as your force missile crashes into a draconian patrol.
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10802340X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[33m[1mFair[0;37m] [0;37mMem:4 Exits:NS> 
+A red emerald ellipsoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m848H [0;37m[32m184V [0;37m10802340X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[33m[1mFair[0;37m] [0;37mMem:4 Exits:NS> 
+A draconian patrol claws YOU hard.
+
+[32m[0;37m[32m836H [0;37m[32m184V [0;37m10802340X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[33m[1mFair[0;37m] [0;37mMem:4 Exits:NS> [0;37mfm[0m
+You belong to no group.
+
+[32m[0;37m[32m836H [0;37m[32m184V [0;37m10802340X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[33m[1mFair[0;37m] [0;37mMem:4 Exits:NS> 
+You get a large iron key from the corpse of a dragonarmy lieutenant.
+
+[32m[0;37m[32m836H [0;37m[32m184V [0;37m10802340X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[33m[1mFair[0;37m] [0;37mMem:4 Exits:NS> 
+You utter the words, 'force missile'
+You grin triumphantly as your force missile crashes into a draconian patrol.
+You grin triumphantly as your force missile crashes into a draconian patrol.
+You grin triumphantly as your force missile crashes into a draconian patrol.
+You grin triumphantly as your force missile crashes into a draconian patrol.
+You grin triumphantly as your force missile crashes into a draconian patrol.
+
+[32m[0;37m[32m836H [0;37m[32m184V [0;37m10801038X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:NS> [0;37mfm[0m
+
+A draconian patrol barely claws YOU.
+
+[32m[0;37m[32m831H [0;37m[32m184V [0;37m10801038X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:NS> 
+You utter the words, 'force missile'
+You grin triumphantly as your force missile crashes into a draconian patrol.
+The force missile tears away the remaining life of a draconian patrol.
+You receive 28156 experience.
+A draconian patrol's body goes through a strange transformation...
+You see yourself!
+Halmos the Number Theorist, Computational Mythematician is dead! R.I.P.
+
+[32m[0;37m[32m831H [0;37m[32m184V [0;37m10772388X 36.35% 15272C [32m[Pos:standing][0m[0;37m [Halmos the Number Theorist, Computational Mythematician:[0;37m[31mDying[0;37m] [0;37mMem:5 Exits:NS> 
+The death cry of Halmos the Number Theorist, Computational Mythematician echoes from somewhere nearby...
+
+[32m[0;37m[32m831H [0;37m[32m184V [0;37m10772388X 36.35% 15272C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:NS> 
+You get a small pile of coins from the corpse of Halmos the Number Theorist, Computational Mythematician.
+There were 6 coins.
+
+[32m[0;37m[32m866H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a sinister draconian claw
+
+[32m[0;37m[32m866H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m866H [0;37m[32m200V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+You belong to no group.
+
+[32m[0;37m[32m866H [0;37m[32m200V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m866H [0;37m[32m198V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NW> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1mA monstrous visage of doom, a harbinger of chaos looms over the land.
+A draconian is here patrolling the area for intruders.
+A draconian is here patrolling the area for intruders.
+[0;37m
+[32m[0;37m[32m866H [0;37m[32m196V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:EW> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1mA draconian is here patrolling the area for intruders.
+[0;37m
+[32m[0;37m[32m866H [0;37m[32m194V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:EW> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m866H [0;37m[32m192V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NE> 
+Alas, you cannot go that way...
+
+[32m[0;37m[32m866H [0;37m[32m192V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NE> 
+[36mOutside the Fortress Walls[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m866H [0;37m[32m190V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+[36mAt the Gates of Sanction[0;37m
+[33m[1mThe corpse of Halmos the Number Theorist, Computational Mythematician is lying here. [3]
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:N(E)SW> [0;37munlock gate e[0m
+*click* as you use a large iron key.
+The key turns to dust as its usefulness ends.
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:N(E)SW> [0;37mopen gate e[0m
+Ok.
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:2 Exits:NESW> [0;37mme[0m
+Spells currently memorized:
+1: [ 7]magic missile        [ 2]repose              
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 6]magic blast         
+5: [ 8]force bolt           [ 2]locate object        [ 1]mass invisibility   
+   [ 1]mental acuity        [ 2]pocket dimension    
+6: [ 7]chain lightning      [ 1]displacement         [ 1]minor globe of invul
+   [ 1]potency              [ 2]relocate             [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 1]force missile        [ 1]lightning shield    
+   [ 1]mass teleport        [ 1]tether              
+8: [ 2]blink                [ 2]clairvoyance         [ 1]mnemonic enhancer   
+   [ 7]shocking blast      
+9: [ 6]blastwave            [ 5]power word stun     
+
+Spells being memorized:
+6: [ 1]chain lightning     
+7: [ 7]force missile        [ 1]mirror image        
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-4 2-6 3-8 4-2 5-0 6-3 7-2 8-1 9-0
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:2 Exits:NESW> [0;37mbw[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:2 Exits:NESW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.35% of your next rank.
+You are 20 years old.
+You have 866(901) hit and 188(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,227,612 exp, and have 15278(989099100) steel coins.
+You need 10,772,388 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 16 minute(s).
+You have been playing for 14 day(s), 9 hour(s) and 52 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    minor globe of invulnerability
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    mnemonic enhancer
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:2 Exits:NESW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> [0;37mcast 'lig sh'[0m
+You utter the words, 'lightning shield'
+A veil of electrical energies surround your entire body.
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:2 Exits:NESW> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+The gate is open.
+[31m[1mA dragonarmy sentry stares at you for a second, then reaches for his weapon.
+[0;37mLooking south:
+You see nothing special.
+[31m[1mA monstrous visage of doom, a harbinger of chaos looms over the land.
+[0;37mLooking west:
+You see nothing special.
+[31m[1mA vicious-looking red dragon lies across the bridge, basking in the heat.
+[0;37mLooking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m866H [0;37m[32m188V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:2 Exits:NESW> 
+The corpse of Halmos the Number Theorist, Computational Mythematician decays into dust and blows away.
+The corpse of Halmos the Number Theorist, Computational Mythematician decays into dust and blows away.
+The corpse of Halmos the Number Theorist, Computational Mythematician decays into dust and blows away.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+A monster harbinger of chaos flies in from the south.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+A red emerald lentoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+A monster harbinger of chaos flies east.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mMem:1 Exits:NESW> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mExits:NESW> 
+A red emerald spindle hums softly as it morphs into a different shape.
+A monster harbinger of chaos flies in from the east.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mExits:NESW> 
+A monster harbinger of chaos flies west.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mExits:NESW> 
+You sense your minor globe weaken and fade away.
+You shudder briefly before losing your displacement powers.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [Pos:resting] [0;37mExits:NESW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mExits:NESW> [0;37mdefense[0m
+You utter the words, 'mnemonic enhancer'
+Your head throbs again, but only for a moment.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+You utter the words, 'antimagic shell'
+The air around you crackles as a translucent barrier envelops you.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> [0;37msc[0m
+You utter the words, 'spheres of absorption'
+You are surrounded by 3 shimmering spheres.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NESW> 
+You utter the words, 'displacement'
+Your body loses focus and shudders for a brief moment.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NESW> 
+A red emerald ellipsoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NESW> 
+You utter the words, 'lightning shield'
+A veil of electrical energies surround your entire body.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NESW> 
+You utter the words, 'minor globe of invulnerability'
+A shining globe of force enfolds you.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NESW> 
+The tentacles on your belt quiver as you prepare to cast.
+You utter the words, 'mirror image'
+You are surrounded by 7 duplicate images.
+
+[32m[0;37m[32m888H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> 
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.35% of your next rank.
+You are 20 years old.
+You have 888(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,227,612 exp, and have 15278(989099100) steel coins.
+You need 10,772,388 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 19 minute(s).
+You have been playing for 14 day(s), 9 hour(s) and 55 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    mirror image (7 images)
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    mnemonic enhancer
+
+[32m[0;37m[32m888H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+The gate is open.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+[31m[1mA monstrous visage of doom, a harbinger of chaos looms over the land.
+A vicious-looking red dragon lies across the bridge, basking in the heat.
+[0;37mLooking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m888H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> [0;37ml[0m
+[36mAt the Gates of Sanction[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m888H [0;37m[32m202V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> [0;37me[0m
+[36mInside the Grand Gates of Sanction[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m888H [0;37m[32m201V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:EW> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+[31m[1mA dragonarmy soldier stares at you for a second, then reaches for his weapon.
+The mayor of Sanction is here inspecting the city.
+[0;37mLooking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+The gate is open.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m888H [0;37m[32m201V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:EW> [0;37me[0m
+[36mA Large Street Through Sanction[0;37m
+[33m[1m[0;37m[31m[1mA dragonarmy soldier stares at you for a second, then reaches for his weapon.
+The mayor of Sanction is here inspecting the city.
+[0;37m
+[32m[0;37m[32m888H [0;37m[32m200V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> [0;37mscan[0m
+Looking north:
+You see nothing special.
+[31m[1mA dragonarmy mercenary wanders about with whiskey at hand on his day off.
+A dragonarmy soldier stares at you for a second, then reaches for his weapon.
+[0;37mLooking east:
+You see nothing special.
+[31m[1mA dragonarmy stormtrooper is ready to slice and dice you.
+[0;37mLooking south:
+You see nothing special.
+[31m[1mA dragonarmy trainee is practicing his sword fighting skills.
+A dragonarmy mercenary wanders about with whisky at hand on his day off.
+A dragonarmy mercenary wanders about with whisky at hand on his day off.
+[0;37mLooking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m888H [0;37m[32m200V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> 
+A dragonarmy soldier leaves west.
+
+[32m[0;37m[32m888H [0;37m[32m200V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NESW> [0;37me[0m
+[36mA Large Street Through Sanction[0;37m
+[33m[1m[0;37m[31m[1mA dragonarmy stormtrooper is ready to slice and dice you.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m201V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NE(S)W> [0;37me[0m
+[36mA Large Street Through Sanction[0;37m
+[33m[1m[0;37m[31m[1mA dragonarmy stormtrooper is ready to slice and dice you.
+A dragonarmy sentry stares at you for a second, then reaches for his weapon.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m200V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NESW> [0;37me[0m
+[36mCentral Plaza of Sanction[0;37m
+[33m[1m[0;37m[31m[1mA dragonarmy sentry stares at you for a second, then reaches for his weapon.
+A young woman is here weeping silently to herself.
+A dragonarmy stormtrooper is ready to slice and dice you.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m199V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NESW> [0;37me[0m
+[36mA Large Street Through Sanction[0;37m
+[33m[1m[0;37m[31m[1mA dragonarmy soldier stares at you for a second, then reaches for his weapon.
+[0;37m
+[32m[0;37m[32m901H [0;37m[32m198V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NESW> [0;37me[0m
+[36mA Large Street Through Sanction[0;37m
+[33m[1m[0;37m[31m[1mA draconian is here patrolling the area for intruders.
+A draconian is here patrolling the area for intruders.
+A sergeant of the dragonarmy is here patrolling the streets of Sanction.
+A draconian is here patrolling the area for intruders.
+A sergeant of the dragonarmy is here patrolling the streets of Sanction.
+[0;37mA sergeant of the dragonarmy tries to kick you but he misses and destroys an image instead.
+A sergeant of the dragonarmy tries to punch you, but you deftly avoid his blow.
+
+[32m[0;37m[32m901H [0;37m[32m197V [0;37m10772388X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a sergeant of the dragonarmy:[0;37m[32mPerfect[0;37m] [0;37mMem:3 Exits:(N)EW> 
+A sergeant of the dragonarmy misses you and destroys an image.
+A sergeant of the dragonarmy misses you and destroys an image.
+After briefly disappearing, your mirror image pops back into view.
+You bludgeon a sergeant of the dragonarmy.
+
+[32m[0;37m[32m901H [0;37m[32m197V [0;37m10772190X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a sergeant of the dragonarmy:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:(N)EW> [0;37mbw[0m
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+A draconian patrol looks un-well after taking the brunt of the blastwave in the gut.
+Your thunderous blastwave brutally breaks against a sergeant of the dragonarmy's chest.
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+Your thunderous blastwave brutally breaks against a sergeant of the dragonarmy's chest.
+
+[32m[0;37m[32m901H [0;37m[32m197V [0;37m10768286X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a sergeant of the dragonarmy:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:(N)EW> [0;37mbw[0m
+
+A sergeant of the dragonarmy tries to punch you, but you deftly avoid his blow.
+
+[32m[0;37m[32m901H [0;37m[32m197V [0;37m10768286X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a sergeant of the dragonarmy:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:(N)EW> 
+A draconian patrol tries to punch you, but his fist passes right through your image.
+After briefly disappearing, your mirror image pops back into view.
+
+[32m[0;37m[32m901H [0;37m[32m197V [0;37m10768286X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a sergeant of the dragonarmy:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:(N)EW> 
+A draconian patrol tries to kick you but he misses and destroys an image instead.
+
+[32m[0;37m[32m901H [0;37m[32m197V [0;37m10768286X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [a sergeant of the dragonarmy:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:(N)EW> 
+A draconian patrol barely claws YOU.
+A draconian patrol is shocked as he passes through your aura.
+A draconian patrol misses you and destroys an image.
+A draconian patrol barely claws YOU.
+A draconian patrol is shocked as he passes through your aura.
+A sergeant of the dragonarmy misses you and destroys an image.
+A sergeant of the dragonarmy hits YOU hard.
+A sergeant of the dragonarmy is shocked as he passes through your aura.
+
+[32m[0;37m[32m879H [0;37m[32m197V [0;37m10767456X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mGood[0;37m] [0;37mMem:3 Exits:(N)EW> [0;37mstun[0m
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+Your thunderous blastwave brutally breaks against a sergeant of the dragonarmy's chest.
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+Your thunderous blastwave brutally breaks against a sergeant of the dragonarmy's chest.
+
+[32m[0;37m[32m879H [0;37m[32m197V [0;37m10763425X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mFair[0;37m] [0;37mMem:4 Exits:(N)EW> 
+A draconian patrol tries to kick you but he misses and destroys an image instead.
+After briefly disappearing, your mirror image pops back into view.
+
+[32m[0;37m[32m879H [0;37m[32m197V [0;37m10763425X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mFair[0;37m] [0;37mMem:4 Exits:(N)EW> 
+A draconian patrol claws YOU.
+A draconian patrol is shocked as he passes through your aura.
+A draconian patrol fumbles and fails to swing at his target.
+A draconian patrol fumbles and fails to swing at his target.
+A draconian patrol misses you and destroys an image.
+After briefly disappearing, your mirror image pops back into view.
+A sergeant of the dragonarmy hits YOU.
+A sergeant of the dragonarmy is shocked as he passes through your aura.
+A sergeant of the dragonarmy barely hits YOU.
+A sergeant of the dragonarmy is shocked as he passes through your aura.
+A sergeant of the dragonarmy barely hits YOU.
+A sergeant of the dragonarmy is shocked as he passes through your aura.
+
+[32m[0;37m[32m851H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+A sergeant of the dragonarmy tries to kick you but he misses and destroys an image instead.
+After briefly disappearing, your mirror image pops back into view.
+
+[32m[0;37m[32m851H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+You dodge out of the way of a draconian patrol's mistargeted kick.
+
+[32m[0;37m[32m851H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+A draconian patrol disarms your weapon.
+
+[32m[0;37m[32m851H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+You utter the words, 'power word stun'
+A draconian patrol is stunned momentarily, recovering quickly.
+A draconian patrol is stunned momentarily, recovering quickly.
+A sergeant of the dragonarmy is stunned!
+A draconian patrol is stunned!
+A sergeant of the dragonarmy is stunned!
+
+[32m[0;37m[32m851H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+A draconian patrol misses you and destroys an image.
+A draconian patrol fumbles and fails to swing at his target.
+A draconian patrol misses you with his claw.
+
+[32m[0;37m[32m851H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> [0;37mget staff[0m
+[0;37mwield staff[0m
+You get a crafted aspen staff.
+
+[32m[0;37m[32m851H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+You start using the staff.
+
+[32m[0;37m[32m851H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+A draconian patrol tries to sweep your legs, but you avoid the attack.
+
+[32m[0;37m[32m851H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+A draconian patrol gives you a solid punch in the face.
+
+[32m[0;37m[32m846H [0;37m[32m197V [0;37m10762221X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+A draconian patrol misses you and destroys an image.
+The images around you fade out of existence.
+A draconian patrol barely claws YOU.
+A draconian patrol is shocked as he passes through your aura.
+You bludgeon a sergeant of the dragonarmy hard.
+
+[32m[0;37m[32m841H [0;37m[32m197V [0;37m10761974X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+A dragonarmy stormtrooper arrives from the west.
+A draconian patrol tries to disarm your weapon, but you deftly avoid him.
+A dragonarmy stormtrooper appears to be tracking someone.
+A dragonarmy stormtrooper gives you a solid punch in the face.
+
+[32m[0;37m[32m830H [0;37m[32m197V [0;37m10761974X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> [0;37mstun[0m
+
+A dragonarmy stormtrooper arrives from the west.
+A dragonarmy stormtrooper disarms your weapon.
+A dragonarmy stormtrooper appears to be tracking someone.
+A dragonarmy stormtrooper gives you a solid punch in the face.
+
+[32m[0;37m[32m817H [0;37m[32m197V [0;37m10761974X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:(N)EW> 
+You utter the words, 'power word stun'
+A dragonarmy stormtrooper is stunned!
+A dragonarmy stormtrooper is stunned!
+A draconian patrol is stunned!
+A draconian patrol is stunned!
+A sergeant of the dragonarmy is stunned momentarily, recovering quickly.
+A draconian patrol is stunned!
+A sergeant of the dragonarmy is stunned!
+
+[32m[0;37m[32m817H [0;37m[32m197V [0;37m10761974X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[33m[1mBad[0;37m] [0;37mMem:5 Exits:(N)EW> [0;37mbw[0m
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against a dragonarmy stormtrooper's chest.
+Your thunderous blastwave brutally breaks against a dragonarmy stormtrooper's chest.
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+A draconian patrol is mortally wounded, and will die soon, if not aided.
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+Your thunderous blastwave brutally breaks against a sergeant of the dragonarmy's chest.
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+Your thunderous blastwave brutally breaks against a sergeant of the dragonarmy's chest.
+
+[32m[0;37m[32m817H [0;37m[32m197V [0;37m10754417X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> [0;37mbw[0m
+
+A dragonarmy soldier arrives from the west.
+
+[32m[0;37m[32m817H [0;37m[32m197V [0;37m10754417X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a sergeant of the dragonarmy:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> 
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against a dragonarmy soldier's chest.
+Your thunderous blastwave brutally breaks against a dragonarmy stormtrooper's chest.
+Your thunderous blastwave brutally breaks against a dragonarmy stormtrooper's chest.
+The blastwave rips a draconian patrol in half and flings his torso far overhead.
+You receive 23377 experience.
+A draconian patrol's body goes through a strange transformation...
+You see yourself!
+Halmos the Number Theorist, Computational Mythematician is dead! R.I.P.
+Your thunderous blastwave brutally breaks against a draconian patrol's chest.
+The blastwave rips a sergeant of the dragonarmy in half and flings his torso far overhead.
+You receive 61120 experience.
+A sergeant of the dragonarmy is dead! R.I.P.
+The blastwave rips a draconian patrol in half and flings his torso far overhead.
+You receive 23405 experience.
+A draconian patrol's body goes through a strange transformation...
+You see yourself!
+Halmos the Number Theorist, Computational Mythematician is dead! R.I.P.
+Your thunderous blastwave brutally breaks against a sergeant of the dragonarmy's chest.
+
+[32m[0;37m[32m817H [0;37m[32m197V [0;37m10639922X 36.35% 15278C [32m[Pos:standing][0m[0;37m [a sergeant of the dragonarmy:[0;37m[31mDying[0;37m] [0;37mMem:6 Exits:(N)EW> 
+The death cry of Halmos the Number Theorist, Computational Mythematician echoes from somewhere nearby...
+Halmos the Number Theorist, Computational Mythematician stops following a sergeant of the dragonarmy.
+The death cry of a sergeant of the dragonarmy echoes from somewhere nearby...
+A draconian patrol stops following a sergeant of the dragonarmy.
+A sergeant of the dragonarmy now follows a draconian patrol.
+A draconian patrol is the new leader of a sergeant of the dragonarmy's group.
+A sergeant of the dragonarmy stops following a draconian patrol.
+You direct your attention to a draconian patrol.
+The death cry of Halmos the Number Theorist, Computational Mythematician echoes from somewhere nearby...
+Halmos the Number Theorist, Computational Mythematician stops following a sergeant of the dragonarmy.
+
+[32m[0;37m[32m817H [0;37m[32m197V [0;37m10639922X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> 
+You miss a draconian patrol with your hit.
+A dragonarmy soldier hits YOU.
+A dragonarmy soldier is shocked as he passes through your aura.
+
+[32m[0;37m[32m808H [0;37m[32m197V [0;37m10639642X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> 
+A dragonarmy stormtrooper arrives from the west.
+A dragonarmy stormtrooper appears to be tracking someone.
+A dragonarmy stormtrooper tries to punch you, but you deftly avoid his blow.
+
+[32m[0;37m[32m808H [0;37m[32m197V [0;37m10639642X 36.35% 15278C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> [0;37mcl[0m
+You get a small pile of coins from the corpse of Halmos the Number Theorist, Computational Mythematician.
+There were 6 coins.
+
+[32m[0;37m[32m808H [0;37m[32m197V [0;37m10639642X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a sinister draconian claw
+
+[32m[0;37m[32m808H [0;37m[32m197V [0;37m10639642X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m808H [0;37m[32m197V [0;37m10639642X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a sinister draconian claw
+
+[32m[0;37m[32m808H [0;37m[32m197V [0;37m10639642X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m808H [0;37m[32m197V [0;37m10639642X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> 
+A dragonarmy stormtrooper slashes YOU very hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+You bruise a draconian patrol with your hit.
+A dragonarmy soldier hits YOU.
+A dragonarmy soldier is shocked as he passes through your aura.
+A sergeant of the dragonarmy barely hits YOU.
+A sergeant of the dragonarmy is shocked as he passes through your aura.
+A sergeant of the dragonarmy hits YOU hard.
+A sergeant of the dragonarmy is shocked as he passes through your aura.
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a sinister draconian claw
+
+[32m[0;37m[32m764H [0;37m[32m197V [0;37m10637629X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a draconian patrol:[0;37m[31mAwful[0;37m] [0;37mMem:6 Exits:(N)EW> 
+You utter the words, 'chain lightning'
+Your chain lightning electrocutes a draconian patrol to death.
+You receive 23595 experience.
+A draconian patrol's body goes through a strange transformation...
+You see yourself!
+Halmos the Number Theorist, Computational Mythematician is dead! R.I.P.
+Your chain lightning electrocutes a sergeant of the dragonarmy to death.
+You receive 51022 experience.
+A sergeant of the dragonarmy is dead! R.I.P.
+Your chain lightning causes a dragonarmy soldier to shake and spasm.
+Your chain lightning causes a dragonarmy soldier to shake and spasm.
+Your chain lightning causes a dragonarmy soldier to shake and spasm.
+A dragonarmy soldier is incapacitated and will slowly die, if not aided.
+
+[32m[0;37m[32m764H [0;37m[32m197V [0;37m10558064X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos the Number Theorist, Computational Mythematician:[0;37m[31mDying[0;37m] [0;37mMem:7 Exits:(N)EW> 
+The death cry of Halmos the Number Theorist, Computational Mythematician echoes from somewhere nearby...
+You direct your attention to a dragonarmy stormtrooper.
+The death cry of a sergeant of the dragonarmy echoes from somewhere nearby...
+
+[32m[0;37m[32m764H [0;37m[32m197V [0;37m10558064X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[32mGood[0;37m] [0;37mMem:7 Exits:(N)EW> [0;37mcl[0m
+
+A red emerald teardrop hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m764H [0;37m[32m197V [0;37m10558064X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[32mGood[0;37m] [0;37mMem:7 Exits:(N)EW> 
+You miss a dragonarmy stormtrooper with your hit.
+A dragonarmy stormtrooper slashes YOU very hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+
+[32m[0;37m[32m744H [0;37m[32m197V [0;37m10557206X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mGood[0;37m] [0;37mMem:7 Exits:(N)EW> 
+You belong to no group.
+
+[32m[0;37m[32m744H [0;37m[32m197V [0;37m10557206X 36.35% 15284C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mGood[0;37m] [0;37mMem:7 Exits:(N)EW> 
+You get a pile of coins from the corpse of a sergeant of the dragonarmy.
+There were 75 coins.
+
+[32m[0;37m[32m744H [0;37m[32m197V [0;37m10557206X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mGood[0;37m] [0;37mMem:7 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+[32m[0;37m[32m744H [0;37m[32m197V [0;37m10557206X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mGood[0;37m] [0;37mMem:7 Exits:(N)EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m744H [0;37m[32m197V [0;37m10557206X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mGood[0;37m] [0;37mMem:7 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+[32m[0;37m[32m744H [0;37m[32m197V [0;37m10557206X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mGood[0;37m] [0;37mMem:7 Exits:(N)EW> 
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+
+[32m[0;37m[32m744H [0;37m[32m197V [0;37m10551794X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 Exits:(N)EW> [0;37mcl[0m
+
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU very hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+
+[32m[0;37m[33m[1m690H [0;37m[32m197V [0;37m10549154X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 Exits:(N)EW> 
+A dragonarmy stormtrooper tries to punch you, but you deftly avoid his blow.
+
+[32m[0;37m[33m[1m690H [0;37m[32m197V [0;37m10549154X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 Exits:(N)EW> 
+A dragonarmy stormtrooper arrives from the west.
+A dragonarmy storm trooper spins around and kicks you in the face!
+-#-#-#-#-#-#-#-> A dragonarmy stormtrooper <-#-#-#-#-#-#-#-  stands up.
+-#-#-#-#-#-#-#-> A dragonarmy stormtrooper <-#-#-#-#-#-#-#-  stands up.
+A dragonarmy stormtrooper appears to be tracking someone.
+A dragonarmy stormtrooper gives you a solid punch in the face.
+
+[32m[0;37m[33m[1m672H [0;37m[32m197V [0;37m10549154X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 Exits:(N)EW> 
+You belong to no group.
+
+[32m[0;37m[33m[1m672H [0;37m[32m197V [0;37m10549154X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 Exits:(N)EW> 
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning electrocutes a dragonarmy stormtrooper to death.
+You receive 61163 experience.
+A dragonarmy stormtrooper is dead! R.I.P.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+
+[32m[0;37m[33m[1m672H [0;37m[32m197V [0;37m10481809X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:7 Exits:(N)EW> 
+The death cry of a dragonarmy stormtrooper echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m672H [0;37m[32m197V [0;37m10481809X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:7 Exits:(N)EW> 
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper looks shocked as he is electrocuted by your aura.
+You receive 50881 experience.
+A dragonarmy stormtrooper is dead! R.I.P.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+The death cry of a dragonarmy stormtrooper echoes from somewhere nearby...
+You direct your attention to a dragonarmy stormtrooper.
+
+[32m[0;37m[33m[1m632H [0;37m[32m197V [0;37m10428794X 36.35% 15359C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 Exits:(N)EW> [0;37mcl[0m
+You get a large pile of coins from the corpse of a dragonarmy stormtrooper.
+There were 179 coins.
+
+[32m[0;37m[33m[1m632H [0;37m[32m197V [0;37m10428794X 36.35% 15538C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[33m[1m632H [0;37m[32m197V [0;37m10428794X 36.35% 15538C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 Exits:(N)EW> 
+A dragonarmy stormtrooper gives you a solid punch in the face.
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[33m[1m627H [0;37m[32m197V [0;37m10428794X 36.35% 15538C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[33m[1m627H [0;37m[32m197V [0;37m10428794X 36.35% 15538C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 Exits:(N)EW> 
+A dragonarmy stormtrooper arrives from the west.
+A dragonarmy storm trooper spins around and kicks you in the face!
+A dragonarmy stormtrooper appears to be tracking someone.
+A dragonarmy stormtrooper gives you a solid punch in the face.
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+
+[32m[0;37m[33m[1m606H [0;37m[32m197V [0;37m10423712X 36.35% 15538C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:8 Exits:(N)EW> 
+A dragonarmy stormtrooper arrives from the west.
+A dragonarmy storm trooper spins around and kicks you in the face!
+A dragonarmy stormtrooper appears to be tracking someone.
+A dragonarmy stormtrooper tries to punch you, but you deftly avoid his blow.
+
+[32m[0;37m[33m[1m592H [0;37m[32m197V [0;37m10423712X 36.35% 15538C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:8 Exits:(N)EW> 
+A dragonarmy stormtrooper slashes YOU very hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU very hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper looks shocked as he is electrocuted by your aura.
+You receive 50881 experience.
+A dragonarmy stormtrooper is dead! R.I.P.
+The death cry of a dragonarmy stormtrooper echoes from somewhere nearby...
+You direct your attention to a dragonarmy stormtrooper.
+The cloud-veiled sky becomes even darker as the sun sets.
+A dragonarmy soldier lies helplessly on the ground and suffers.
+A dragonarmy soldier is mortally wounded, and will die soon, if not aided.
+
+[32m[0;37m[33m[1m556H [0;37m[32m202V [0;37m10369663X 36.35% 15538C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:(N)EW> [0;37mcl[0m
+You belong to no group.
+
+[32m[0;37m[33m[1m556H [0;37m[32m202V [0;37m10369663X 36.35% 15538C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:(N)EW> 
+A dragonarmy stormtrooper arrives from the west.
+A dragonarmy storm trooper spins around and kicks you in the face!
+A dragonarmy stormtrooper appears to be tracking someone.
+A dragonarmy stormtrooper tries to punch you, but you deftly avoid his blow.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+You miss a dragonarmy stormtrooper with your hit.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+You get a large pile of coins from the corpse of a dragonarmy stormtrooper.
+There were 152 coins.
+
+[32m[0;37m[33m[1m467H [0;37m[32m202V [0;37m10366099X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mGood[0;37m] [0;37mMem:8 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[33m[1m467H [0;37m[32m202V [0;37m10366099X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mGood[0;37m] [0;37mMem:8 Exits:(N)EW> 
+A dragonarmy storm trooper spins around and kicks you in the face!
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+
+[32m[0;37m[33m[1m461H [0;37m[32m202V [0;37m10361149X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mBad[0;37m] [0;37mMem:8 Exits:(N)EW> 
+A dragonarmy stormtrooper arrives from the west.
+A dragonarmy stormtrooper tries to punch you, but you deftly avoid his blow.
+A dragonarmy storm trooper spins around and kicks you in the face!
+A dragonarmy stormtrooper tries to punch you, but you deftly avoid his blow.
+A dragonarmy stormtrooper appears to be tracking someone.
+A dragonarmy stormtrooper gives you a solid punch in the face.
+
+[32m[0;37m[33m[1m439H [0;37m[32m202V [0;37m10361149X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mBad[0;37m] [0;37mMem:8 Exits:(N)EW> 
+A dragonarmy storm trooper spins around and kicks you in the face!
+
+[32m[0;37m[33m[1m425H [0;37m[32m202V [0;37m10361149X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mBad[0;37m] [0;37mMem:8 Exits:(N)EW> [0;37mcl[0m
+
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU very hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU very hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper misses you with his slash.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+
+[32m[0;37m[33m[1m346H [0;37m[32m202V [0;37m10357299X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mV.Bad[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:8 Exits:(N)EW> 
+You belong to no group.
+
+[32m[0;37m[33m[1m346H [0;37m[32m202V [0;37m10357299X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mV.Bad[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:8 Exits:(N)EW> 
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+A dragonarmy stormtrooper is incapacitated and will slowly die, if not aided.
+
+[32m[0;37m[33m[1m346H [0;37m[32m202V [0;37m10352899X 36.35% 15690C [32m[Pos:standing][0m[0;37m [a dragonarmy stormtrooper:[0;37m[31mDying[0;37m] [0;37mMem:8 Exits:(N)EW> 
+A dragonarmy storm trooper spins around and kicks you in the face!
+
+[32m[0;37m[33m[1m332H [0;37m[32m202V [0;37m10352899X 36.35% 15690C [32m[Pos:standing][0m[0;37m [a dragonarmy stormtrooper:[0;37m[31mDying[0;37m] [0;37mMem:8 Exits:(N)EW> [0;37mcl[0m
+
+A dragonarmy storm trooper spins around and kicks you in the face!
+
+[32m[0;37m[33m[1m322H [0;37m[32m202V [0;37m10352899X 36.35% 15690C [32m[Pos:standing][0m[0;37m [a dragonarmy stormtrooper:[0;37m[31mDying[0;37m] [0;37mMem:8 Exits:(N)EW> 
+A young woman arrives from the west.
+A dragonarmy stormtrooper gives you a solid punch in the face.
+
+[32m[0;37m[33m[1m315H [0;37m[32m202V [0;37m10352899X 36.35% 15690C [32m[Pos:standing][0m[0;37m [a dragonarmy stormtrooper:[0;37m[31mDying[0;37m] [0;37mMem:8 Exits:(N)EW> 
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU very hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+
+[32m[0;37m[33m[1m242H [0;37m[32m202V [0;37m10349225X 36.35% 15690C [32m[Pos:standing][0m[0;37m [a dragonarmy stormtrooper:[0;37m[31mDying[0;37m] [0;37mMem:8 Exits:(N)EW> 
+You utter the words, 'chain lightning'
+Your chain lightning electrocutes a dragonarmy stormtrooper to death.
+You receive 50952 experience.
+A dragonarmy stormtrooper is dead! R.I.P.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning electrocutes a dragonarmy stormtrooper to death.
+You receive 50881 experience.
+A dragonarmy stormtrooper is dead! R.I.P.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+
+[32m[0;37m[33m[1m242H [0;37m[32m202V [0;37m10242024X 36.35% 15690C [32m[Pos:standing][0m[0;37m [a dragonarmy stormtrooper:[0;37m[31mDying[0;37m] [0;37mMem:9 Exits:(N)EW> 
+The death cry of a dragonarmy stormtrooper echoes from somewhere nearby...
+You direct your attention to a dragonarmy stormtrooper.
+The death cry of a dragonarmy stormtrooper echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m242H [0;37m[32m202V [0;37m10242024X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mV.Bad[0;37m] [a dragonarmy stormtrooper:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:9 Exits:(N)EW> [0;37mstun[0m
+
+A dragonarmy stormtrooper tries to punch you, but you deftly avoid his blow.
+You miss a dragonarmy stormtrooper with your hit.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU very hard.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper barely slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+
+[32m[0;37m[33m[1m190H [0;37m[32m202V [0;37m10239648X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mV.Bad[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:9 Exits:(N)EW> 
+A dragonarmy storm trooper spins around and kicks you in the face!
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37m
+[32m[0;37m[31m177H [0;37m[32m202V [0;37m10239648X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:9 Exits:(N)EW> 
+A dragonarmy storm trooper spins around and kicks you in the face!
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mA young woman leaves west.
+
+[32m[0;37m[31m169H [0;37m[32m202V [0;37m10239648X 36.35% 15690C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:9 Exits:(N)EW> 
+You get a large pile of coins from the corpse of a dragonarmy stormtrooper.
+There were 249 coins.
+
+[32m[0;37m[31m169H [0;37m[32m202V [0;37m10239648X 36.35% 15939C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:9 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[31m169H [0;37m[32m202V [0;37m10239648X 36.35% 15939C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:9 Exits:(N)EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[31m169H [0;37m[32m202V [0;37m10239648X 36.35% 15939C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:9 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[31m169H [0;37m[32m202V [0;37m10239648X 36.35% 15939C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:9 Exits:(N)EW> 
+Your casting is disrupted by the fighting!
+
+[32m[0;37m[31m169H [0;37m[32m202V [0;37m10239648X 36.35% 15939C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:9 Exits:(N)EW> 
+You belong to no group.
+
+[32m[0;37m[31m169H [0;37m[32m202V [0;37m10239648X 36.35% 15939C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:9 Exits:(N)EW> [0;37mcl[0m
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning causes a dragonarmy stormtrooper to shake and spasm.
+Your chain lightning electrocutes a dragonarmy stormtrooper to death.
+You receive 50881 experience.
+A dragonarmy stormtrooper is dead! R.I.P.
+Your chain lightning electrocutes a dragonarmy stormtrooper to death.
+You receive 50864 experience.
+A dragonarmy stormtrooper is dead! R.I.P.
+
+[32m[0;37m[31m169H [0;37m[32m202V [0;37m10134383X 36.35% 15939C [32m[Pos:standing][0m[0;37m [a dragonarmy stormtrooper:[0;37m[31mDying[0;37m] [0;37mMem:10 Exits:(N)EW> 
+The death cry of a dragonarmy stormtrooper echoes from somewhere nearby...
+The death cry of a dragonarmy stormtrooper echoes from somewhere nearby...
+You direct your attention to a dragonarmy stormtrooper.
+
+[32m[0;37m[31m169H [0;37m[32m202V [0;37m10134383X 36.35% 15939C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [a dragonarmy stormtrooper:[0;37m[31mAwful[0;37m] [0;37mMem:10 Exits:(N)EW> 
+You miss a dragonarmy stormtrooper with your hit.
+A dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mA dragonarmy stormtrooper slashes YOU.
+A dragonarmy stormtrooper looks shocked as he is electrocuted by your aura.
+You receive 50776 experience.
+A dragonarmy stormtrooper is dead! R.I.P.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mThe death cry of a dragonarmy stormtrooper echoes from somewhere nearby...
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 15939C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> [0;37ml[0m
+You get a large pile of coins from the corpse of a dragonarmy stormtrooper.
+There were 122 coins.
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> 
+[36mA Large Street Through Sanction[0;37m
+[33m[1mThe corpse of a dragonarmy stormtrooper is lying here. [8]
+The corpse of a sergeant of the dragonarmy is lying here.
+The corpse of Halmos the Number Theorist, Computational Mythematician is lying here. [2]
+The corpse of a sergeant of the dragonarmy is lying here.
+The corpse of Halmos the Number Theorist, Computational Mythematician is lying here.
+A carefully crafted staff lays here...it glows blue..it hums softly
+[0;37m[31m[1mA dragonarmy soldier is lying here, about to die.
+[0;37m
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> 
+You belong to no group.
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> [0;37mget staff[0m
+You get a crafted aspen staff.
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> [0;37mwield staff[0m
+You start using the staff.
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:10 Exits:(N)EW> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [Pos:resting] [0;37mMem:4 Exits:(N)EW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.35% of your next rank.
+You are 20 years old.
+You have 153(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,917,317 exp, and have 16061(989099100) steel coins.
+You need 10,082,683 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 21 minute(s).
+You have been playing for 14 day(s), 9 hour(s) and 57 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    mnemonic enhancer
+
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [Pos:resting] [0;37mMem:4 Exits:(N)EW> [0;37ml[0m
+[36mA Large Street Through Sanction[0;37m
+[33m[1mThe corpse of a dragonarmy stormtrooper is lying here. [8]
+The corpse of a sergeant of the dragonarmy is lying here.
+The corpse of Halmos the Number Theorist, Computational Mythematician is lying here. [2]
+The corpse of a sergeant of the dragonarmy is lying here.
+The corpse of Halmos the Number Theorist, Computational Mythematician is lying here.
+[0;37m[31m[1mA dragonarmy soldier is lying here, about to die.
+[0;37m
+[32m[0;37m[31m153H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [Pos:resting] [0;37mMem:4 Exits:(N)EW> [0;37mbandage me[0m
+You apply bandages to your wounds and hope for the best.
+
+[32m[0;37m[33m[1m213H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [Pos:resting] [0;37mMem:4 Exits:(N)EW> [0;37mmem[0m
+
+A young woman arrives from the west.
+
+[32m[0;37m[33m[1m213H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [Pos:resting] [0;37mMem:4 Exits:(N)EW> 
+Spells currently memorized:
+1: [ 7]magic missile        [ 2]repose              
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 6]magic blast         
+5: [ 8]force bolt           [ 2]locate object        [ 1]mass invisibility   
+   [ 1]mental acuity        [ 2]pocket dimension    
+6: [ 1]potency              [ 2]relocate            
+7: [ 8]force missile        [ 1]mass teleport        [ 1]tether              
+8: [ 2]blink                [ 2]clairvoyance         [ 7]shocking blast      
+9: [ 2]blastwave            [ 2]power word stun     
+
+Spells being memorized:
+6: [ 8]chain lightning      [ 1]displacement         [ 1]minor globe of invul
+   [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 1]lightning shield     [ 1]mirror image        
+8: [ 1]mnemonic enhancer   
+9: [ 4]blastwave            [ 3]power word stun     
+
+You estimate your studies will complete in 4 (game) hours.
+
+Spells left (level-number): 1-4 2-6 3-8 4-2 5-0 6-3 7-2 8-1 9-0
+
+[32m[0;37m[33m[1m213H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [Pos:resting] [0;37mMem:4 Exits:(N)EW> 
+The darkness marks the end of another day.
+A dragonarmy soldier lies helplessly on the ground and suffers.
+A dragonarmy soldier is mortally wounded, and will die soon, if not aided.
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [Pos:resting] [0;37mMem:3 Exits:(N)EW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10082683X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:7 Exits:(N)EW> [0;37mkill soldier[0m
+You bludgeon a dragonarmy soldier very hard.
+You receive 28052 experience.
+A dragonarmy soldier is dead! R.I.P.
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10054631X 36.35% 16061C [32m[Pos:standing][0m[0;37m [a dragonarmy soldier:[0;37m[31mDying[0;37m] [0;37mMem:7 Exits:(N)EW> 
+The death cry of a dragonarmy soldier echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10054631X 36.35% 16061C [32m[Pos:standing][0m[0;37m [0;37mMem:7 Exits:(N)EW> [0;37mrest[0m
+You get a pile of coins from the corpse of a dragonarmy soldier.
+There were 73 coins.
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mMem:7 Exits:(N)EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mMem:7 Exits:(N)EW> 
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:3 Exits:(N)EW> 
+You belong to no group.
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:3 Exits:(N)EW> [0;37ml[0m
+[36mA Large Street Through Sanction[0;37m
+[33m[1mThe corpse of a dragonarmy soldier is lying here.
+The corpse of a dragonarmy stormtrooper is lying here. [8]
+The corpse of a sergeant of the dragonarmy is lying here.
+The corpse of Halmos the Number Theorist, Computational Mythematician is lying here. [2]
+The corpse of a sergeant of the dragonarmy is lying here.
+The corpse of Halmos the Number Theorist, Computational Mythematician is lying here.
+[0;37m[31m[1mA young woman is here weeping silently to herself.
+[0;37m
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:3 Exits:(N)EW> [0;37m[0m
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:3 Exits:(N)EW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.35% of your next rank.
+You are 20 years old.
+You have 358(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,945,369 exp, and have 16134(989099100) steel coins.
+You need 10,054,631 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 22 minute(s).
+You have been playing for 14 day(s), 9 hour(s) and 58 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+Your wounds have been bandaged.
+You are affected by the following:
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    mnemonic enhancer
+
+[32m[0;37m[33m[1m358H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:3 Exits:(N)EW> 
+[37mThe clouds block your view of Solinari.
+[31mThe clouds block your view of Lunitari.
+[0;37m[34m[0;37m
+[32m[0;37m[33m[1m503H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:2 Exits:(N)EW> [0;37m[0m
+
+[32m[0;37m[33m[1m503H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:2 Exits:(N)EW> 
+A red emerald ovoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m503H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:2 Exits:(N)EW> [0;37m[0m
+
+[32m[0;37m[33m[1m659H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:1 Exits:(N)EW> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.35% of your next rank.
+You are 20 years old.
+You have 659(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 209,945,369 exp, and have 16134(989099100) steel coins.
+You need 10,054,631 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 24 minute(s).
+You have been playing for 14 day(s), 10 hour(s) and 0 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+Your wounds have been bandaged.
+You are affected by the following:
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    mnemonic enhancer
+
+[32m[0;37m[33m[1m659H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:1 Exits:(N)EW> 
+A young woman leaves east.
+
+[32m[0;37m[33m[1m659H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:1 Exits:(N)EW> [0;37ml[0m
+[36mA Large Street Through Sanction[0;37m
+[33m[1mThe corpse of a dragonarmy soldier is lying here.
+The corpse of a dragonarmy stormtrooper is lying here. [8]
+The corpse of a sergeant of the dragonarmy is lying here.
+The corpse of Halmos the Number Theorist, Computational Mythematician is lying here. [2]
+The corpse of a sergeant of the dragonarmy is lying here.
+The corpse of Halmos the Number Theorist, Computational Mythematician is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m659H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:1 Exits:(N)EW> 
+A dragonarmy sentry arrives from the west.
+
+[32m[0;37m[33m[1m659H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:1 Exits:(N)EW> 
+A red emerald sphere hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m659H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:1 Exits:(N)EW> 
+A dragonarmy sentry leaves east.
+
+[32m[0;37m[33m[1m659H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mMem:1 Exits:(N)EW> 
+Your studies complete, you close your spellbook with a smile.
+[36mYou throw away your bloody bandages.[0m
+The corpse of a dragonarmy stormtrooper decays into dust and blows away.
+The corpse of a dragonarmy stormtrooper decays into dust and blows away.
+The corpse of a dragonarmy stormtrooper decays into dust and blows away.
+The corpse of a sergeant of the dragonarmy decays into dust and blows away.
+The corpse of Halmos the Number Theorist, Computational Mythematician decays into dust and blows away.
+The corpse of Halmos the Number Theorist, Computational Mythematician decays into dust and blows away.
+The corpse of a sergeant of the dragonarmy decays into dust and blows away.
+The corpse of Halmos the Number Theorist, Computational Mythematician decays into dust and blows away.
+
+[32m[0;37m[32m783H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [Pos:resting] [0;37mExits:(N)EW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m783H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mExits:(N)EW> [0;37mopen door n[0m
+I see no door to the north.
+
+[32m[0;37m[32m783H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mExits:(N)EW> [0;37mopen gate[0m
+Ok.
+
+[32m[0;37m[32m783H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mExits:NEW> [0;37mscan[0m
+Looking north:
+You see nothing special.
+The gate is open.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m783H [0;37m[32m202V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mExits:NEW> [0;37mn[0m
+[36mCourtyard of the Palace[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m783H [0;37m[32m201V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mn[0m
+[36mAt the Gates of the Palace[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m783H [0;37m[32m200V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mExits:N(E)S> 
+A red emerald ellipsoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m783H [0;37m[32m200V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mExits:N(E)S> [0;37mscan[0m
+Looking north:
+You see nothing special.
+[31m[1mSeeing that you don't belong here, the elite guard attacks!
+Seeing that you don't belong here, the elite guard attacks!
+A dragonarmy officer is sitting here, taking a little nap.
+[0;37mLooking east:
+You see nothing special.
+The gate is closed.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m783H [0;37m[32m200V [0;37m10054631X 36.35% 16134C [32m[Pos:standing][0m[0;37m [0;37mExits:N(E)S> [0;37mn[0m
+[36mA Guard Post[0;37m
+[33m[1m[0;37m[31m[1mSeeing that you don't belong here, the elite guard attacks!
+Seeing that you don't belong here, the elite guard attacks!
+A dragonarmy officer is sitting here, taking a little nap.
+[0;37mA dragonarmy elite guard gives you a solid punch in the face.
+A dragonarmy elite guard gives you a solid punch in the face.
+A dragonarmy lieutenant hits YOU extremely hard.
+A dragonarmy lieutenant is shocked as he passes through your aura.
+
+[32m[0;37m[32m747H [0;37m[32m199V [0;37m10054026X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy elite guard:[0;37m[32mPerfect[0;37m] [0;37mExits:S> [0;37mstun[0m
+You utter the words, 'power word stun'
+A dragonarmy elite guard is stunned!
+A dragonarmy elite guard is stunned!
+A dragonarmy lieutenant is stunned!
+
+[32m[0;37m[32m747H [0;37m[32m199V [0;37m10054026X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy elite guard:[0;37m[32mPerfect[0;37m] [0;37mMem:2 Exits:S> [0;37mcackle[0m
+You cackle gleefully.
+
+[32m[0;37m[32m747H [0;37m[32m199V [0;37m10054026X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy elite guard:[0;37m[32mPerfect[0;37m] [0;37mMem:2 Exits:S> [0;37mbw[0m
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against a dragonarmy elite guard's chest.
+Your thunderous blastwave brutally breaks against a dragonarmy elite guard's chest.
+Your thunderous blastwave brutally breaks against a dragonarmy lieutenant's chest.
+A dragonarmy lieutenant looks un-well after taking the brunt of the blastwave in the gut.
+
+[32m[0;37m[32m747H [0;37m[32m199V [0;37m10049889X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy elite guard:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:S> [0;37mbw[0m
+You bludgeon a dragonarmy elite guard hard.
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against a dragonarmy elite guard's chest.
+Your thunderous blastwave brutally breaks against a dragonarmy elite guard's chest.
+Your thunderous blastwave brutally breaks against a dragonarmy lieutenant's chest.
+
+[32m[0;37m[32m747H [0;37m[32m199V [0;37m10046478X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy elite guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:3 Exits:S> [0;37mcl[0m
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy elite guard to shake and spasm.
+Your chain lightning causes a dragonarmy lieutenant to shake and spasm.
+Your chain lightning causes a dragonarmy elite guard to shake and spasm.
+Your chain lightning causes a dragonarmy elite guard to shake and spasm.
+Your chain lightning causes a dragonarmy lieutenant to shake and spasm.
+
+[32m[0;37m[32m747H [0;37m[32m199V [0;37m10040574X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy elite guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:3 Exits:S> [0;37mcl[0m
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy elite guard to shake and spasm.
+Your chain lightning causes a dragonarmy lieutenant to shake and spasm.
+Your chain lightning causes a dragonarmy lieutenant to shake and spasm.
+Your chain lightning causes a dragonarmy elite guard to shake and spasm.
+Your chain lightning causes a dragonarmy elite guard to shake and spasm.
+
+[32m[0;37m[32m747H [0;37m[32m199V [0;37m10032467X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [a dragonarmy elite guard:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:S> [0;37mcl[0m
+
+A dragonarmy lieutenant hits YOU very hard.
+A dragonarmy lieutenant is shocked as he passes through your aura.
+A dragonarmy lieutenant misses you with his pierce.
+A dragonarmy lieutenant fumbles and fails to swing at his target.
+A dragonarmy elite guard hits YOU hard.
+A dragonarmy elite guard is shocked as he passes through your aura.
+A dragonarmy elite guard slashes YOU hard.
+A dragonarmy elite guard is shocked as he passes through your aura.
+A dragonarmy elite guard hits YOU hard.
+A dragonarmy elite guard is shocked as he passes through your aura.
+A dragonarmy elite guard slashes YOU hard.
+A dragonarmy elite guard looks shocked as he is electrocuted by your aura.
+You receive 81822 experience.
+A dragonarmy elite guard is dead! R.I.P.
+The death cry of a dragonarmy elite guard echoes from somewhere nearby...
+You direct your attention to a dragonarmy lieutenant.
+
+[32m[0;37m[33m[1m718H [0;37m[32m202V [0;37m9947620X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy lieutenant:[0;37m[33m[1mBad[0;37m] [0;37mMem:4 Exits:S> 
+You utter the words, 'chain lightning'
+Your chain lightning causes a dragonarmy lieutenant to shake and spasm.
+Your chain lightning causes a dragonarmy lieutenant to shake and spasm.
+Your chain lightning causes a dragonarmy elite guard to shake and spasm.
+Your chain lightning electrocutes a dragonarmy elite guard to death.
+You receive 68301 experience.
+A dragonarmy elite guard is dead! R.I.P.
+
+[32m[0;37m[33m[1m718H [0;37m[32m202V [0;37m9872931X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:S> 
+The death cry of a dragonarmy elite guard echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m718H [0;37m[32m202V [0;37m9872931X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:S> [0;37mcl[0m
+
+A dragonarmy lieutenant hits YOU very hard.
+A dragonarmy lieutenant is shocked as he passes through your aura.
+A dragonarmy lieutenant pierces YOU extremely hard.
+A dragonarmy lieutenant is shocked as he passes through your aura.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9871721X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:S> 
+-#-#-#-#-#-#-#-> A dragonarmy lieutenant <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9871721X 36.35% 16134C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:S> 
+You get a large pile of coins from the corpse of a dragonarmy elite guard.
+There were 275 coins.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9871721X 36.35% 16409C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:S> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9871721X 36.35% 16409C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9871721X 36.35% 16409C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:S> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a long sword
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9871721X 36.35% 16409C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [a dragonarmy lieutenant:[0;37m[31mAwful[0;37m] [0;37mMem:4 Exits:S> 
+You utter the words, 'chain lightning'
+Your chain lightning electrocutes a dragonarmy lieutenant to death.
+You receive 86398 experience.
+A dragonarmy lieutenant is dead! R.I.P.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16409C [32m[Pos:standing][0m[0;37m [a dragonarmy lieutenant:[0;37m[31mDying[0;37m] [0;37mMem:4 Exits:S> 
+The death cry of a dragonarmy lieutenant echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16409C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:S> [0;37ml[0m
+You belong to no group.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16409C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:S> 
+You get a pile of coins from the corpse of a dragonarmy lieutenant.
+There were 62 coins.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:S> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a steel shortsword
+an officer's cap
+a steel key
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:S> 
+[36mA Guard Post[0;37m
+[33m[1mThe corpse of a dragonarmy lieutenant is lying here.
+The corpse of a dragonarmy elite guard is lying here. [2]
+[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:S> 
+You belong to no group.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:S> [0;37mget key 2.corpse[0m
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:S> [0;37mget key corpse[0m
+You get a steel key from the corpse of a dragonarmy lieutenant.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:S> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [Pos:resting] [0;37mMem:2 Exits:S> 
+A red emerald ellipsoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m682H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [Pos:resting] [0;37mMem:2 Exits:S> [0;37m[0m
+
+[32m[0;37m[32m784H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [Pos:resting] [0;37mMem:1 Exits:S> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.39% of your next rank.
+You are 20 years old.
+You have 784(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 210,216,661 exp, and have 16471(989099100) steel coins.
+You need 9,783,339 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 27 minute(s).
+You have been playing for 14 day(s), 10 hour(s) and 3 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    repose
+    mnemonic enhancer
+
+[32m[0;37m[32m784H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [Pos:resting] [0;37mMem:1 Exits:S> 
+[36mPete shouts 'anyone look at the spellbook in wayreth? You got messages dating as far back as 1997 on it. Pretty neat!'
+[0;37m
+[32m[0;37m[32m784H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [Pos:resting] [0;37mMem:1 Exits:S> 
+[36mCrayon shouts 'and a sign that Says Bertil SUXS!'
+[0;37m
+[32m[0;37m[32m784H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [Pos:resting] [0;37mMem:1 Exits:S> 
+Your studies complete, you close your spellbook with a smile.
+Your deep calm fades.
+
+[32m[0;37m[32m852H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [Pos:resting] [0;37mExits:S> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m852H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mExits:S> [0;37mcast 'repose'[0m
+Who should the spell be cast upon?
+
+[32m[0;37m[32m852H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mExits:S> [0;37mcast 'repose' me[0m
+You utter the words, 'repose'
+You feel much more at peace.
+
+[32m[0;37m[32m852H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:S> [0;37ms[0m
+[36mAt the Gates of the Palace[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:N(E)S> 
+[36mEllison shouts 'well, I'm glad there are facts we can still agree on'
+[0;37m
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:N(E)S> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.39% of your next rank.
+You are 20 years old.
+You have 852(901) hit and 201(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 210,216,661 exp, and have 16471(989099100) steel coins.
+You need 9,783,339 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 28 minute(s).
+You have been playing for 14 day(s), 10 hour(s) and 4 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    repose
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    continual light
+    mnemonic enhancer
+
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:N(E)S> [0;37mdefense[0m
+You utter the words, 'mnemonic enhancer'
+Your head throbs again, but only for a moment.
+
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:N(E)S> 
+You utter the words, 'antimagic shell'
+The air around you crackles as a translucent barrier envelops you.
+
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:N(E)S> 
+A red emerald teardrop hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:N(E)S> 
+You utter the words, 'spheres of absorption'
+You are surrounded by 3 shimmering spheres.
+
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:N(E)S> 
+You utter the words, 'displacement'
+Your body loses focus and shudders for a brief moment.
+
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:N(E)S> 
+You utter the words, 'lightning shield'
+A veil of electrical energies surround your entire body.
+
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:N(E)S> 
+You utter the words, 'minor globe of invulnerability'
+A shining globe of force enfolds you.
+
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:N(E)S> 
+You utter the words, 'mirror image'
+You are surrounded by 5 duplicate images.
+
+[32m[0;37m[32m852H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:N(E)S> [0;37ml[0m
+[36mAt the Gates of the Palace[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m887H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:N(E)S> [0;37munlock gate[0m
+*click* as you use a steel key.
+The key turns to dust as its usefulness ends.
+
+[32m[0;37m[32m887H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:N(E)S> [0;37mopen gate[0m
+Ok.
+
+[32m[0;37m[32m887H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NES> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+The gate is open.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m887H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NES> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.39% of your next rank.
+You are 20 years old.
+You have 887(901) hit and 202(202) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 210,216,661 exp, and have 16471(989099100) steel coins.
+You need 9,783,339 more experience to advance.
+You have died 16 horrible deaths.
+You have been connected for 1 hour(s) and 29 minute(s).
+You have been playing for 14 day(s), 10 hour(s) and 5 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    mirror image (5 images)
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    repose
+    continual light
+    mnemonic enhancer
+
+[32m[0;37m[32m887H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NES> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+The gate is open.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m887H [0;37m[32m202V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NES> [0;37me[0m
+[36mPalace Entry[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m887H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:EW> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+[31m[1mYou stare into the gaze of a mighty beholder!
+. . . is surrounded by a white mist.
+[0;37mLooking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+The gate is open.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m887H [0;37m[32m201V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:EW> [0;37mw[0m
+[36mAt the Gates of the Palace[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m887H [0;37m[32m200V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NES> 
+The mighty beholder arrives from the east.
+
+[32m[0;37m[32m887H [0;37m[32m200V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NES> [0;37mstun[0m
+You utter the words, 'power word stun'
+The mighty beholder is stunned momentarily, recovering quickly.
+
+[32m[0;37m[32m887H [0;37m[32m200V [0;37m9783339X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mPerfect[0;37m] [0;37mMem:3 Exits:NES> 
+You bludgeon the mighty beholder.
+The mighty beholder's spell misses you and destroys a sphere.
+The mighty beholder's spell misses you and destroys a sphere.
+The mighty beholder misses you and destroys an image.
+After briefly disappearing, your mirror image pops back into view.
+The mighty beholder misses you with his hit.
+
+[32m[0;37m[32m887H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:NES> [0;37mfm[0m
+
+The mighty beholder utters the words, 'malevolent tentacles'.
+The mighty beholder conjures a writhing mass of inky black tentacles!
+The mighty beholder destroys your mirror images.
+The images around you fade out of existence.
+You feel new life flow within you.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You escape the grasp of the tentacles!
+You manage to slip away from the tentacles.
+
+[32m[0;37m[32m901H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:NES> 
+You utter the words, 'force missile'
+The air before the mighty beholder shimmers.
+An arcane shield quivers as it absorbs most of the spell.
+But he looks fine!
+You feel a very slight tingling sensation.
+You grin triumphantly as your force missile crashes into Halmos.
+Your spell misses Halmos and destroys a sphere instead.
+[36mThe spheres around you blink out of existence.[0m
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+You grin triumphantly as your force missile crashes into Halmos.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+
+[32m[0;37m[32m897H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> [0;37mfm[0m
+
+The mighty beholder hits YOU hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[32m884H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+You utter the words, 'force missile'
+The air before the mighty beholder shimmers.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+
+[32m[0;37m[32m900H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+The mighty beholder hits YOU hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU extremely hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[32m869H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> [0;37mfm[0m
+
+The mighty beholder focuses harshly on you and utters the words, 'confusion'.
+You feel a slight chill.
+
+[32m[0;37m[32m869H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+You utter the words, 'force missile'
+The air before the mighty beholder shimmers.
+You grin triumphantly as your force missile crashes into Halmos.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You grin triumphantly as your force missile crashes into Halmos.
+You grin triumphantly as your force missile crashes into Halmos.
+
+[32m[0;37m[32m890H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[32m863H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+You sense Cervos the Conjurer summoning you.
+Your body tingles slightly, for a brief moment.
+
+[32m[0;37m[32m863H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+The mighty beholder utters the words, 'prismatic spray'.
+The mighty beholder's hands issue a spray of prismatic color!
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You are struck by a spray of murky violet!
+
+[32m[0;37m[32m897H [0;37m[32m200V [0;37m9783075X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+You barely bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+The mighty beholder's attack fails miserably as you magically shift to the side.
+The mighty beholder's attack fails miserably as you magically shift to the side.
+
+[32m[0;37m[32m899H [0;37m[32m200V [0;37m9782877X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+You barely bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+The mighty beholder hits YOU hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder's attack fails miserably as you magically shift to the side.
+
+[32m[0;37m[32m888H [0;37m[32m200V [0;37m9782745X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+The mighty beholder focuses harshly on you and utters the words, 'confusion'.
+You feel a slight chill.
+
+[32m[0;37m[32m888H [0;37m[32m200V [0;37m9782745X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> [0;37mconjure ironwood[0m
+You can't do that while fighting.
+
+[32m[0;37m[32m888H [0;37m[32m200V [0;37m9782745X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+You bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+The mighty beholder's attack fails miserably as you magically shift to the side.
+
+[32m[0;37m[32m890H [0;37m[32m200V [0;37m9782481X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+The mighty beholder utters the words, 'power word stun'.
+You are stunned for a moment, but recover immediately.
+
+[32m[0;37m[32m890H [0;37m[32m200V [0;37m9782481X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> 
+You barely bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+The mighty beholder's attack fails miserably as you magically shift to the side.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[32m876H [0;37m[32m200V [0;37m9782316X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:NES> [0;37mbw[0m
+Your casting is disrupted by the fighting!
+
+[32m[0;37m[32m876H [0;37m[32m200V [0;37m9782316X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:5 Exits:NES> [0;37mbw[0m
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against the mighty beholder's chest.
+
+[32m[0;37m[32m876H [0;37m[32m200V [0;37m9781029X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:5 Exits:NES> 
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The rising sun barely lights the dark and cloudy sky.
+
+[32m[0;37m[32m884H [0;37m[32m202V [0;37m9781029X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:5 Exits:NES> [0;37mbw[0m
+
+The mighty beholder focuses harshly on you and utters the words, 'shocking grasp'.
+You feel new life flow within you.
+An arcane shield quivers as it absorbs most of the spell.
+Some of your nastier scrapes disappear.
+You nimbly dodge a shocking grasp from the mighty beholder.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m9781029X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:5 Exits:NES> 
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against the mighty beholder's chest.
+
+[32m[0;37m[32m901H [0;37m[32m202V [0;37m9780468X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[32m872H [0;37m[32m202V [0;37m9780468X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> [0;37mbw[0m
+
+The mighty beholder utters the words, 'power word stun'.
+You fall down, your ears ringing.
+
+[32m[0;37m[32m872H [0;37m[32m202V [0;37m9780468X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+You are completely disoriented.
+
+[32m[0;37m[32m872H [0;37m[32m202V [0;37m9780468X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The mighty beholder MASSACREs YOU with his hit.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU extremely hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[32m830H [0;37m[32m202V [0;37m9780468X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The mighty beholder hits YOU extremely hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder MASSACREs YOU with his hit.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[32m790H [0;37m[32m202V [0;37m9780468X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The mighty beholder utters the words, 'monster summoning'.
+The mighty beholder waves his hand, and the owlbear appears!
+The owlbear now follows the mighty beholder.
+
+[32m[0;37m[32m790H [0;37m[32m202V [0;37m9780468X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The mighty beholder hits YOU extremely hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder MASSACREs YOU with his hit.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[32m747H [0;37m[32m202V [0;37m9780468X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The mighty beholder issues the order 'assist'
+The owlbear claws YOU hard.
+The owlbear is shocked as she passes through your aura.
+
+[32m[0;37m[32m736H [0;37m[32m202V [0;37m9780072X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[32mGood[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The owlbear claws YOU.
+The owlbear is shocked as she passes through your aura.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder MASSACREs YOU with his hit.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[33m[1m687H [0;37m[32m202V [0;37m9779654X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+You sense Cervos the Conjurer summoning you.
+Your body tingles slightly, for a brief moment.
+The owlbear claws YOU hard.
+The owlbear is shocked as she passes through your aura.
+The mighty beholder MASSACREs YOU with his hit.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder MASSACREs YOU with his hit.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[33m[1m626H [0;37m[32m202V [0;37m9779104X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The mighty beholder focuses harshly on you and utters the words, 'confusion'.
+You feel a slight chill.
+
+[32m[0;37m[33m[1m626H [0;37m[32m202V [0;37m9779104X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The owlbear claws YOU.
+The owlbear is shocked as she passes through your aura.
+You should probably stand up!
+You bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+The mighty beholder's attack fails miserably as you magically shift to the side.
+The mighty beholder's attack fails miserably as you magically shift to the side.
+
+[32m[0;37m[33m[1m621H [0;37m[32m202V [0;37m9778444X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+There are no queued commands.
+
+[32m[0;37m[33m[1m621H [0;37m[32m202V [0;37m9778444X 36.39% 16471C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+You stand up.
+
+[32m[0;37m[33m[1m621H [0;37m[32m202V [0;37m9778444X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> [0;37msta[0m
+You are already standing.
+
+[32m[0;37m[33m[1m621H [0;37m[32m202V [0;37m9778444X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> 
+The mighty beholder utters the words, 'spheres of absorption'.
+The mighty beholder is surrounded by 3 shimmering spheres.
+
+[32m[0;37m[33m[1m621H [0;37m[32m202V [0;37m9778444X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:6 Exits:NES> [0;37mstun[0m
+You utter the words, 'power word stun'
+The owlbear is stunned!
+The mighty beholder is stunned momentarily, recovering quickly.
+
+[32m[0;37m[33m[1m621H [0;37m[32m202V [0;37m9778444X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:7 Exits:NES> 
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[33m[1m604H [0;37m[32m202V [0;37m9778444X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:7 Exits:NES> [0;37mstun[0m
+You barely bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+The mighty beholder hits YOU extremely hard.
+Your spell misses the mighty beholder and destroys a sphere instead.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+You utter the words, 'power word stun'
+The owlbear is stunned momentarily, recovering quickly.
+The mighty beholder is stunned momentarily, recovering quickly.
+
+[32m[0;37m[33m[1m574H [0;37m[32m202V [0;37m9778279X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:7 Exits:NES> 
+The mighty beholder utters the words, 'mass charm'.
+You feel a slight chill.
+
+[32m[0;37m[33m[1m574H [0;37m[32m202V [0;37m9778279X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:7 Exits:NES> [0;37mbw[0m
+
+The mighty beholder misses you with his hit.
+The mighty beholder hits YOU extremely hard.
+Your spell misses the mighty beholder and destroys a sphere instead.
+
+[32m[0;37m[33m[1m556H [0;37m[32m202V [0;37m9778279X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:7 Exits:NES> 
+Your casting is disrupted by the fighting!
+
+[32m[0;37m[33m[1m556H [0;37m[32m202V [0;37m9778279X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> [0;37mbw[0m
+You utter the words, 'blastwave'
+Arcane energies detonate from your hands!
+Your thunderous blastwave brutally breaks against the owlbear's chest.
+The owlbear looks un-well after taking the brunt of the blastwave in the gut.
+Your thunderous blastwave brutally breaks against the mighty beholder's chest.
+
+[32m[0;37m[33m[1m556H [0;37m[32m202V [0;37m9776519X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The mighty beholder utters the words, 'power word stun'.
+You are stunned for a moment, but recover immediately.
+
+[32m[0;37m[33m[1m556H [0;37m[32m202V [0;37m9776519X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU hard.
+Your spell misses the mighty beholder and destroys a sphere instead.
+
+[32m[0;37m[33m[1m530H [0;37m[32m202V [0;37m9776519X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+You bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder's attack fails miserably as you magically shift to the side.
+
+[32m[0;37m[33m[1m516H [0;37m[32m202V [0;37m9776288X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The mighty beholder utters the words, 'minor globe of invulnerability'.
+A shining globe of force enfolds the mighty beholder.
+
+[32m[0;37m[33m[1m516H [0;37m[32m202V [0;37m9776288X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> [0;37ml[0m
+[36mAt the Gates of the Palace[0;37m
+[33m[1m[0;37m[31m[1mThe owlbear is sitting here, fighting YOU.
+The mighty beholder is standing here, fighting YOU.
+. . . is enveloped in flames.
+[0;37m
+[32m[0;37m[33m[1m516H [0;37m[32m202V [0;37m9776288X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The owlbear barely claws YOU.
+The owlbear is shocked as she passes through your aura.
+The owlbear fumbles and fails to swing at her target.
+You barely bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[33m[1m495H [0;37m[32m202V [0;37m9775826X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+-#-#-#-#-#-#-#-> The owlbear <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[33m[1m495H [0;37m[32m202V [0;37m9775826X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+The gate is open.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[33m[1m495H [0;37m[32m202V [0;37m9775826X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The mighty beholder utters the words, 'mental acuity'.
+A bright bulb of light pops up over the mighty beholder's head.
+
+[32m[0;37m[33m[1m495H [0;37m[32m202V [0;37m9775826X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> [0;37mmem[0m
+Spells currently memorized:
+1: [ 7]magic missile        [ 1]repose              
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 6]magic blast         
+5: [ 8]force bolt           [ 2]locate object        [ 1]mass invisibility   
+   [ 1]mental acuity        [ 2]pocket dimension    
+6: [ 8]chain lightning      [ 1]potency              [ 2]relocate            
+7: [ 5]force missile        [ 1]mass teleport        [ 1]tether              
+8: [ 2]blink                [ 2]clairvoyance         [ 7]shocking blast      
+9: [ 1]blastwave            [ 2]power word stun     
+
+Spells being memorized:
+1: [ 1]repose              
+6: [ 1]displacement         [ 1]minor globe of invul [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 3]force missile        [ 1]lightning shield    
+   [ 1]mirror image        
+8: [ 1]mnemonic enhancer   
+9: [ 5]blastwave            [ 3]power word stun     
+
+You estimate your studies will complete in 8 (game) hours.
+
+Spells left (level-number): 1-4 2-6 3-8 4-2 5-0 6-3 7-2 8-1 9-0
+
+[32m[0;37m[33m[1m495H [0;37m[32m202V [0;37m9775826X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The owlbear's attack fails miserably as you magically shift to the side.
+You barely bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+The mighty beholder's attack fails miserably as you magically shift to the side.
+You shudder briefly before losing your displacement powers.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[33m[1m481H [0;37m[32m202V [0;37m9775694X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The owlbear grabs you in a bearhug.  You feel ribs crack.
+
+[32m[0;37m[33m[1m465H [0;37m[32m202V [0;37m9775694X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+You sense Cervos the Conjurer summoning you.
+Your body tingles slightly, for a brief moment.
+The owlbear claws YOU.
+The owlbear is shocked as she passes through your aura.
+You barely bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The rising sun proclaims a new day.
+
+[32m[0;37m[33m[1m465H [0;37m[32m202V [0;37m9775232X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The mighty beholder utters the words, 'mirror image'.
+The mighty beholder is surrounded by 4 duplicate images.
+
+[32m[0;37m[33m[1m465H [0;37m[32m202V [0;37m9775232X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The owlbear claws YOU.
+The owlbear is shocked as she passes through your aura.
+You bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[33m[1m434H [0;37m[32m202V [0;37m9774671X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The mighty beholder focuses harshly on you and utters the words, 'feeblemind'.
+You feel a slight chill.
+
+[32m[0;37m[33m[1m434H [0;37m[32m202V [0;37m9774671X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The owlbear fumbles and fails to swing at her target.
+You barely bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+The mighty beholder hits YOU extremely hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU very hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[33m[1m404H [0;37m[32m202V [0;37m9774473X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> [0;37m[0m
+
+[32m[0;37m[33m[1m404H [0;37m[32m202V [0;37m9774473X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> 
+The owlbear claws YOU.
+The owlbear is shocked as she passes through your aura.
+You bludgeon the mighty beholder.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's freezing aura.
+You feel new life flow within you.
+You feel nothing as you swing through the mighty beholder's flaming aura.
+The mighty beholder hits YOU hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+The mighty beholder hits YOU hard.
+The mighty beholder appears to grow stronger.
+The mighty beholder calmly ignores the electrical aura that surrounds you.
+
+[32m[0;37m[33m[1m374H [0;37m[32m202V [0;37m9773835X 36.39% 16471C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [the mighty beholder:[0;37m[32mV.Good[0;37m] [0;37mMem:8 Exits:NES> [0;37mvisitsolace[0m
+You utter the words, 'relocate'
+[36mSolace School of Magic[0;37m
+[33m[1mA magical sign floats in the air here...it glows blue..it glows dimly
+A chart of the moons is posted on the wall over in the far corner.
+[0;37m[31m[1mMaster Theobald wanders his school looking for troublemakers.
+[0;37m
+[32m[0;37m[33m[1m374H [0;37m[32m202V [0;37m9773835X 36.39% 16471C [32m[Pos:standing][0m[0;37m [0;37mMem:6 Exits:E> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[33m[1m374H [0;37m[32m202V [0;37m9773835X 36.39% 16471C [Pos:resting] [0;37mMem:2 Exits:E> 
+Master Theobald laughs at a student's attempt to create a ball of light.
+A red emerald ellipsoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m374H [0;37m[32m202V [0;37m9773835X 36.39% 16471C [Pos:resting] [0;37mMem:2 Exits:E> [0;37m#log[0m
+[0m#SYNTAX: #LOG {APPEND|OVERWRITE|OFF} {<FILENAME>}[0m
+[0;37m#log off[0m

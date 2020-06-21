@@ -1,0 +1,5 @@
+#alias poi {env $main;env $offhand}
+
+#variable main javelin
+
+#variable offhand inky

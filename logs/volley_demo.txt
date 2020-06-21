@@ -1,0 +1,830 @@
+#LOG: LOGGING OUTPUT TO 'volley_demo.txt' FILESIZE: 0
+archery
+Speed: 5, Power: 2, Accuracy: 2
+
+519H 97V 44574303X 47.68% 1278C [**Dany:Perfect**] Exits:S(W)> eq
+You are using:
+<slung over shoulder>      a green leather quiver
+<held in secondary hand>   a short blackenwood bow
+
+519H 97V 44574303X 47.68% 1278C [**Dany:Perfect**] Exits:S(W)> rank
+You currently have 2 Rank Points to spend.
+
+Your current rank affects:
+
+1  Rigid Skin             ARMOR by -10                  
+2  Rigid Skin             ARMOR by -10                  
+3  Thick Skin             ARMOR by -20                  
+4  Soul Armor             NOCHARM IMMUNE_CURSE          
+5  Trueshot               RANGED_HITROLL by 2           
+6  Agile                  DEX by 2                      
+7  Nimble                 DEX by 1                      
+8  Nimble                 DEX by 1                      
+
+519H 97V 44574303X 47.68% 1278C [**Dany:Perfect**] Exits:S(W)> sc
+You are Aether the Male Kender, a level 30 Scout.
+You are rank 21. You have completed 47.68% of your next rank.
+You are 64 years old.
+You have 519(519) hit and 97(97) movement points.
+Your behaviour has been Neutral.
+You are traversing the path of the Sky.
+You have scored 155,425,697 exp, and have 1278(0) steel coins.
+You need 44,574,303 more experience to advance.
+You have died 8 horrible deaths.
+You have been connected for 19 minute(s).
+You have been playing for 6 day(s), 5 hour(s) and 52 minute(s).
+Your natural ability scores are:
+	Str: 17 Int: 15 Wis: 15 Dex: 24 Con: 16 Cha: 12
+You are currently not hunting.
+Your equipment is currently not being concealed.
+Your steps are light and unencumbered.
+You are standing.
+You are flying.
+You are watching Dany.
+You are guarded by Dany.
+Available Instincts:
+    swan: flap
+    harrier: hover
+    roc: volley
+    owl: gather
+Dormant Instinct Abilities:
+    gather
+    volley
+    scavenge
+
+519H 97V 44574303X 47.68% 1278C [**Dany:Perfect**] Exits:S(W)> 
+You feel up to using ##!##!##!##>  volley  <##!##!##!## again.
+
+519H 97V 44574303X 47.68% 1278C [**Dany:Perfect**] Exits:S(W)> l
+The Red Gate
+**DROGON** the bronze dragon is standing here, awaiting a rider.
+<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here. (flying)
+. . . has a metallic luster.
+A hulking sivak draconian in red leather armor guards the gate.
+A hulking sivak draconian in red leather armor guards the gate.
+A hulking sivak draconian in red leather armor guards the gate.
+
+519H 97V 44574303X 47.68% 1278C [**Dany:Perfect**] Exits:S(W)> group
+Your group of 2 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SC Aether           perfect   rested    standing   Y  N   N    Y   Y    0    0
+  PA Dany             perfect   rested    standing   Y  N   Y    Y   Y    0    0
+
+519H 97V 44574303X 47.68% 1278C [**Dany:Perfect**] Exits:S(W)> fight sivak
+
+Dany stabs a red dragonarmy gateguard extremely hard.
+
+519H 97V 44574303X 47.68% 1278C [**Dany:Perfect**] [**a red dragonarmy gateguard:V.Good**] Exits:S(W)> 
+You aim at a red dragonarmy gateguard.
+
+519H 97V 44574303X 47.68% 1278C [**Dany:Perfect**] [**a red dragonarmy gateguard:V.Good**] Exits:S(W)> 
+You start shooting like mad.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44574083X 47.68% 1278C [**Dany:Perfect**] [**a red dragonarmy gateguard:V.Good**] Exits:S(W)> volley
+You plunk a red dragonarmy gateguard hard.
+You prepare to unleash a volley.
+
+519H 97V 44573891X 47.68% 1278C [**Dany:Perfect**] [**a red dragonarmy gateguard:V.Good**] Exits:S(W)> 
+Dany stabs a red dragonarmy gateguard extremely hard.
+Dany deflects part of a red dragonarmy gateguard's blow with her shield.
+A red dragonarmy gateguard pierces Dany hard.
+A red dragonarmy gateguard delivers a vicious kick to Dany's face. Blood flies as her head snaps back.
+A red dragonarmy gateguard crashes into Dany in a thundering collision, knocking her to the ground!
+
+519H 97V 44573891X 47.68% 1278C [**Dany:V.Good**] [**a red dragonarmy gateguard:Good**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard.
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44573176X 47.68% 1278C [**Dany:V.Good**] [**a red dragonarmy gateguard:Good**] Exits:S(W)> 
+A red dragonarmy gateguard spins and tries to kick Dany, but Dany dodges out of the way.
+
+519H 97V 44573176X 47.68% 1278C [**Dany:V.Good**] [**a red dragonarmy gateguard:Good**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+You miss a red dragonarmy gateguard with your shot.
+
+519H 97V 44572462X 47.68% 1278C [**Dany:V.Good**] [**a red dragonarmy gateguard:Good**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard extremely hard.
+You barely plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44571473X 47.68% 1278C [**Dany:V.Good**] [**a red dragonarmy gateguard:Good**] Exits:S(W)> 
+A red dragonarmy gateguard MASSACREs Dany with his cleave.
+A red dragonarmy gateguard MASSACREs Dany with his pierce.
+Dany stabs a red dragonarmy gateguard extremely hard.
+A red dragonarmy gateguard misses Dany with his pierce.
+
+519H 97V 44571473X 47.68% 1278C [**Dany:Good**] [**a red dragonarmy gateguard:Good**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard.
+You miss a red dragonarmy gateguard with your shot.
+You barely plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44571062X 47.68% 1278C [**Dany:Good**] [**a red dragonarmy gateguard:Good**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard extremely hard.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard.
+
+519H 97V 44570074X 47.68% 1278C [**Dany:Good**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard spins and tries to kick Dany, but Dany dodges out of the way.
+
+519H 97V 44570074X 47.68% 1278C [**Dany:Good**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard delivers a quick snap kick to Dany. Dany staggers and tries to recover.
+
+519H 97V 44570074X 47.68% 1278C [**Dany:Good**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard hard.
+A red dragonarmy gateguard MASSACREs Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his pierce.
+Dany stabs a red dragonarmy gateguard extremely hard.
+A red dragonarmy gateguard misses Dany with his pierce.
+A red dragonarmy gateguard MASSACREs Dany with his pierce.
+
+519H 97V 44569360X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+-#-#-#-#-#-#-#-> Dany <-#-#-#-#-#-#-#-  stands up.
+
+519H 97V 44569360X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You bruise a red dragonarmy gateguard with your plunk.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44568536X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+The stone dragon perched above the gate unleashes a rain of fire.
+Some of the searing flames quickly roast **DROGON** the bronze dragon.
+Some of the searing flames quickly roast Dany.
+You whimper as searing flames melt the flesh off your face.
+With a quick weave, you slip out of the way of someone's attack.
+
+519H 97V 44568536X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You bruise a red dragonarmy gateguard with your plunk.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44567685X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard misses Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his pierce.
+Dany stabs a red dragonarmy gateguard extremely hard.
+Dany deflects part of a red dragonarmy gateguard's blow with her shield.
+A red dragonarmy gateguard pierces Dany hard.
+
+519H 97V 44567685X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard very hard.
+
+519H 97V 44566724X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard tries to punch Dany, but she deftly avoids the blow.
+
+519H 97V 44566724X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard strikes Dany's weapon, nearly disarming it.
+
+519H 97V 44566724X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard strikes Dany's weapon, nearly disarming it.
+
+519H 97V 44566724X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You barely plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard.
+
+519H 97V 44566120X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You miss a red dragonarmy gateguard with your shot.
+You miss a red dragonarmy gateguard with your shot.
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard very hard.
+
+519H 97V 44565818X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+The stone dragon perched above the gate unleashes a rain of fire.
+Some of the searing flames quickly roast **DROGON** the bronze dragon.
+Some of the searing flames quickly roast Dany.
+You whimper as searing flames melt the flesh off your face.
+With a quick weave, you slip out of the way of someone's attack.
+
+519H 97V 44565818X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard MASSACREs Dany with his cleave.
+A red dragonarmy gateguard pierces Dany extremely hard.
+A red dragonarmy gateguard pierces Dany extremely hard.
+Dany stabs a red dragonarmy gateguard extremely hard.
+A red dragonarmy gateguard misses Dany with his pierce.
+
+519H 97V 44565818X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You barely plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard extremely hard.
+
+519H 97V 44564829X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard very hard.
+You bruise a red dragonarmy gateguard with your plunk.
+
+519H 97V 44564197X 47.68% 1278C [**Dany:Fair**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+A red dragonarmy gateguard crashes into Dany in a thundering collision, knocking her to the ground!
+
+519H 97V 44564197X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+A red dragonarmy gateguard strikes Dany's weapon, nearly disarming it.
+
+519H 97V 44564197X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+A red dragonarmy gateguard tries to punch Dany, but she deftly avoids the blow.
+
+519H 97V 44564197X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard.
+You barely plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard very hard.
+A red dragonarmy gateguard misses Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his pierce.
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+A red dragonarmy gateguard misses Dany with his pierce.
+
+519H 97V 44563400X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard very hard.
+You miss a red dragonarmy gateguard with your shot.
+
+519H 97V 44562575X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard very hard.
+You miss a red dragonarmy gateguard with your shot.
+You barely plunk a red dragonarmy gateguard.
+You miss a red dragonarmy gateguard with your shot.
+
+519H 97V 44562191X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+A red dragonarmy gateguard misses Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his pierce.
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+A red dragonarmy gateguard pierces Dany extremely hard.
+
+519H 97V 44562191X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+You bruise a red dragonarmy gateguard with your plunk.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard very hard.
+
+519H 97V 44561202X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> b order drogon cast 'cure ser' dany
+
+A red dragonarmy gateguard gives Dany a solid punch in the face.
+
+519H 97V 44561202X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+A red dragonarmy gateguard delivers a vicious kick to Dany's face. Blood flies as her head snaps back.
+
+519H 97V 44561202X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard.
+You bruise a red dragonarmy gateguard with your plunk.
+You bruise a red dragonarmy gateguard with your plunk.
+
+519H 97V 44560955X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+-#-#-#-#-#-#-#-> Dany <-#-#-#-#-#-#-#-  stands up.
+
+519H 97V 44560955X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+Dany gives **DROGON** the bronze dragon an order.
+**DROGON** the bronze dragon focuses on Dany and utters some strange words.
+A few of Dany's nastier scrapes disappear.
+
+519H 97V 44560955X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+You bruise a red dragonarmy gateguard with your plunk.
+You plunk a red dragonarmy gateguard hard.
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44560378X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+The stone dragon perched above the gate unleashes a rain of fire.
+Some of the searing flames quickly roast **DROGON** the bronze dragon.
+Some of the searing flames quickly roast Dany.
+You whimper as searing flames melt the flesh off your face.
+With a quick weave, you slip out of the way of someone's attack.
+
+519H 97V 44560378X 47.68% 1278C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+A red dragonarmy gateguard MASSACREs Dany with his cleave.
+A red dragonarmy gateguard pierces Dany very hard.
+Dany drives her pike to an opening in a red dragonarmy gateguard's armor.
+Dany stabs a red dragonarmy gateguard extremely hard.
+Dany deflects a good chunk of a red dragonarmy gateguard's blow with her shield.
+A red dragonarmy gateguard pierces Dany hard.
+
+519H 97V 44560378X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> b order drogon cast 'cure ser' dany
+
+Dany gives **DROGON** the bronze dragon an order.
+
+519H 97V 44560378X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+You barely plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44559554X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You miss a red dragonarmy gateguard with your shot.
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard very hard.
+
+519H 97V 44559059X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+A red dragonarmy gateguard gives Dany a solid punch in the face.
+
+519H 97V 44559059X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+A red dragonarmy gateguard delivers a quick snap kick to Dany. Dany staggers and tries to recover.
+
+519H 97V 44559059X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+A red dragonarmy gateguard gives Dany a solid punch in the face.
+
+519H 97V 44559059X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard hard.
+A red dragonarmy gateguard cleaves Dany very hard.
+A red dragonarmy gateguard misses Dany with his pierce.
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+A red dragonarmy gateguard misses Dany with his pierce.
+
+519H 97V 44558263X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> b order drogon cast 'cure ser' dany
+
+You plunk a red dragonarmy gateguard extremely hard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard extremely hard.
+
+519H 97V 44556862X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+Dany gives **DROGON** the bronze dragon an order.
+**DROGON** the bronze dragon focuses on Dany and utters some strange words.
+A few of Dany's nastier scrapes disappear.
+
+519H 97V 44556862X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+You bruise a red dragonarmy gateguard with your plunk.
+
+519H 97V 44556285X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+A red dragonarmy gateguard MASSACREs Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his pierce.
+Dany stabs a red dragonarmy gateguard extremely hard.
+Dany fumbles and fails to swing at her target.
+A red dragonarmy gateguard misses Dany with his pierce.
+
+519H 97V 44556285X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> b order drogon cast 'cure ser' dany
+
+Dany gives **DROGON** the bronze dragon an order.
+
+519H 97V 44556285X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard hard.
+A red dragonarmy gateguard is mortally wounded, and will die soon, if not aided.
+You plunk a red dragonarmy gateguard hard.
+You receive 103474 experience.
+A red dragonarmy gateguard is dead! R.I.P.
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard very hard.
+The death cry of a red dragonarmy gateguard echoes from somewhere nearby...
+You stop aiming at a red dragonarmy gateguard.
+
+519H 97V 44451959X 47.68% 1278C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+FOLLOWER GAINED XP: 0
+
+You get a pile of coins from the corpse of a red dragonarmy gateguard.
+There were 52 coins.
+
+519H 97V 44451959X 47.68% 1330C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+The corpse doesn't seem to have what you are looking for.
+
+519H 97V 44451959X 47.68% 1330C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard spins and tries to kick Dany, but Dany dodges out of the way.
+You can't find that container.
+
+519H 97V 44451959X 47.68% 1330C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard crashes into Dany in a thundering collision, knocking her to the ground!
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a steel dragonarmy dagger
+
+519H 97V 44451959X 47.68% 1330C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You divide 52 coins equally among the group members present.
+
+519H 97V 44451959X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> fight guard
+
+Dany stabs a red dragonarmy gateguard extremely hard.
+A red dragonarmy gateguard misses Dany with his cleave.
+Dany deflects part of a red dragonarmy gateguard's blow with her shield.
+A red dragonarmy gateguard pierces Dany hard.
+
+519H 97V 44451959X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You aim at a red dragonarmy gateguard.
+
+519H 97V 44451959X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You start shooting like mad.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44451162X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard extremely hard.
+You miss a red dragonarmy gateguard with your shot.
+You barely plunk a red dragonarmy gateguard.
+
+519H 97V 44450585X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> b cast 'cure ser' me
+
+A red dragonarmy gateguard strikes Dany's weapon, nearly disarming it.
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44449844X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+Dany stabs a red dragonarmy gateguard extremely hard.
+A red dragonarmy gateguard **ANNIHILATE**s Dany with his cleave.
+A red dragonarmy gateguard MASSACREs Dany with his pierce.
+
+519H 97V 44449844X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard extremely hard.
+You plunk a red dragonarmy gateguard hard.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44448882X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+-#-#-#-#-#-#-#-> Dany <-#-#-#-#-#-#-#-  stands up.
+
+519H 97V 44448882X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+Dany growls a prayer in anger and dives into the fray with a purpose.
+
+519H 97V 44448882X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+You barely plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard extremely hard.
+You plunk a red dragonarmy gateguard.
+Dany attempts to strike at a red dragonarmy gateguard with her pike.
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+
+519H 97V 44448223X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> b cast 'cure ser' me
+
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard very hard.
+
+519H 97V 44447344X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+Dany **ANNIHILATE**s a red dragonarmy gateguard with her stab.
+A red dragonarmy gateguard misses Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his pierce.
+
+519H 97V 44447344X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+A red dragonarmy gateguard gives Dany a solid punch in the face.
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard extremely hard.
+
+519H 97V 44446575X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+A red dragonarmy gateguard tries to punch Dany, but she deftly avoids the blow.
+
+519H 97V 44446575X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+Dany focuses her purity on a red dragonarmy gateguard's leg!
+Dany focuses on a red dragonarmy gateguard's legs, but is thwarted.
+
+519H 97V 44446575X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+You barely plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard very hard.
+You barely plunk a red dragonarmy gateguard.
+
+519H 97V 44446026X 47.68% 1304C [**Dany:V.Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+The stone dragon perched above the gate unleashes a rain of fire.
+Some of the searing flames quickly roast **DROGON** the bronze dragon.
+Some of the searing flames quickly roast Dany.
+You whimper as searing flames melt the flesh off your face.
+With a quick weave, you slip out of the way of someone's attack.
+
+519H 97V 44446026X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+You barely plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard very hard.
+You barely plunk a red dragonarmy gateguard.
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+A red dragonarmy gateguard misses Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his pierce.
+
+519H 97V 44445504X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> b cast 'cure ser' me
+
+You plunk a red dragonarmy gateguard extremely hard.
+You miss a red dragonarmy gateguard with your shot.
+You miss a red dragonarmy gateguard with your shot.
+
+519H 97V 44445009X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+Dany looks distracted and fails to concentrate through a spell cast.
+
+519H 97V 44445009X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+A red dragonarmy gateguard delivers a quick snap kick to Dany. Dany staggers and tries to recover.
+You barely plunk a red dragonarmy gateguard.
+You miss a red dragonarmy gateguard with your shot.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44444652X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+A red dragonarmy gateguard crashes into Dany in a thundering collision, knocking her to the ground!
+
+519H 97V 44444652X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+A red dragonarmy gateguard misses Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his pierce.
+
+519H 97V 44444652X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> b cast 'cure ser' me
+
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard hard.
+You bruise a red dragonarmy gateguard with your plunk.
+
+519H 97V 44444268X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard.
+You plunk a red dragonarmy gateguard very hard.
+You miss a red dragonarmy gateguard with your shot.
+
+519H 97V 44443829X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You bruise a red dragonarmy gateguard with your plunk.
+You bruise a red dragonarmy gateguard with your plunk.
+You plunk a red dragonarmy gateguard hard.
+
+519H 97V 44443444X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+Dany **ANNIHILATE**s a red dragonarmy gateguard with her stab.
+You receive 86130 experience.
+A red dragonarmy gateguard is dead! R.I.P.
+A red dragonarmy gateguard misses Dany with his cleave.
+The death cry of a red dragonarmy gateguard echoes from somewhere nearby...
+You stop aiming at a red dragonarmy gateguard.
+
+519H 97V 44357314X 47.68% 1304C [**Dany:Awful**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+FOLLOWER GAINED XP: 0
+b flee
+You get a pile of coins from the corpse of a red dragonarmy gateguard.
+There were 27 coins.
+
+519H 97V 44357314X 47.68% 1331C [**Dany:Awful**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+The corpse doesn't seem to have what you are looking for.
+
+519H 97V 44357314X 47.68% 1331C [**Dany:Awful**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+You can't find that container.
+
+519H 97V 44357314X 47.68% 1331C [**Dany:Awful**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a steel dragonarmy dagger
+
+519H 97V 44357314X 47.68% 1331C [**Dany:Awful**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+A red dragonarmy gateguard strikes Dany's weapon, nearly disarming it.
+You can't split 27 evenly among the people in the room; splitting 26 instead.
+You divide 26 coins equally among the group members present.
+
+519H 97V 44357314X 47.68% 1318C [**Dany:Awful**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> b flee
+b flee
+b flee
+b flee
+
+The stone dragon perched above the gate unleashes a rain of fire.
+Some of the searing flames quickly roast **DROGON** the bronze dragon.
+Some of the searing flames quickly roast Dany.
+You whimper as searing flames melt the flesh off your face.
+With a quick weave, you slip out of the way of someone's attack.
+
+519H 97V 44357314X 47.68% 1318C [**Dany:Awful**] [**a red dragonarmy gateguard:Fair**] Exits:S(W)> 
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+A red dragonarmy gateguard misses Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his cleave.
+
+519H 97V 44357314X 47.68% 1318C [**Dany:Awful**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> b flee
+b flee
+b flee
+
+-#-#-#-#-#-#-#-> Dany <-#-#-#-#-#-#-#-  stands up.
+
+519H 97V 44357314X 47.68% 1318C [**Dany:Awful**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+A red dragonarmy gateguard delivers a vicious kick to Dany's face. Blood flies as her head snaps back.
+Dany utters some strange words.
+A few of Dany's nastier scrapes disappear.
+
+519H 97V 44357314X 47.68% 1318C [**Dany:Awful**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+Dany drives her pike to an opening in a red dragonarmy gateguard's armor.
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+A red dragonarmy gateguard misses Dany with his cleave.
+
+519H 97V 44357314X 47.68% 1318C [**Dany:Awful**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> fight guard
+You aim at a red dragonarmy gateguard.
+
+519H 97V 44357314X 47.68% 1318C [**Dany:Awful**] [**a red dragonarmy gateguard:Bad**] Exits:S(W)> 
+You start shooting like mad.
+You plunk a red dragonarmy gateguard very hard.
+You plunk a red dragonarmy gateguard extremely hard.
+
+519H 97V 44356572X 47.68% 1318C [**Dany:Awful**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> b cancel
+
+You miss a red dragonarmy gateguard with your shot.
+You bruise a red dragonarmy gateguard with your plunk.
+
+519H 97V 44356517X 47.68% 1318C [**Dany:Awful**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> b flee
+
+Dany panics, and attempts to flee.
+Dany flies south.
+
+519H 97V 44356517X 47.68% 1318C Exits:S(W)> b flee
+
+You plunk a red dragonarmy gateguard extremely hard.
+You bruise a red dragonarmy gateguard with your plunk.
+A red dragonarmy gateguard **ANNIHILATE**s YOU with his cleave.
+
+485H 97V 44356050X 47.68% 1318C [Aether:V.Good] [a red dragonarmy gateguard:V.Bad] Exits:S(W)> 
+You stop watching Dany.
+You stop aiming at a red dragonarmy gateguard.
+
+485H 97V 44356050X 47.68% 1318C [Aether:V.Good] [a red dragonarmy gateguard:V.Bad] Exits:S(W)> b flee
+s
+You can't do that while fighting.
+
+485H 97V 44356050X 47.68% 1318C [Aether:V.Good] [a red dragonarmy gateguard:V.Bad] Exits:S(W)> fade s
+The Outskirts of the Red Dragonarmy Camp
+<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here. (flying)
+. . . has a metallic luster.
+
+485H 95V 44356050X 47.68% 1318C Exits:NESW> 
+A black dragonarmy trooper arrives from the east.
+
+485H 95V 44356050X 47.68% 1318C Exits:NESW> b cast 'cure ser' me
+
+A black dragonarmy trooper leaves west.
+
+485H 95V 44356050X 47.68% 1318C Exits:NESW> b rest
+
+Dany begins resting but stays aloft.
+
+485H 95V 44356050X 47.68% 1318C Exits:NESW> 
+A rabid squirrel arrives from the west.
+
+485H 95V 44356050X 47.68% 1318C Exits:NESW> group
+Your group of 2 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SC Aether           v.good    rested    standing   Y  N   N    Y   Y    0    0
+  PA Dany             awful     rested    resting    Y  N    Y    Y   Y    0    1
+
+485H 95V 44356050X 47.68% 1318C Exits:NESW> b
+
+Dany lays her hands on Dany and utters a prayer.
+
+485H 95V 44356050X 47.68% 1318C Exits:NESW> 
+#SESSION 'a' ACTIVATED.
+l
+The Outskirts of the Red Dragonarmy Camp
+A crazed squirrel with bloodshot eyes scampers about in search of food.
+<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is resting here. (flying)
+. . . has a metallic luster.
+
+485H 95V 44356050X 47.68% 1318C Exits:NESW> b sta
+
+-#-#-#-#-#-#-#-> Dany <-#-#-#-#-#-#-#-  stands up.
+
+485H 95V 44356050X 47.68% 1318C Exits:NESW> 
+You feel up to using ##!##!##!##>  gather  <##!##!##!## again.
+
+519H 97V 44356050X 47.68% 1318C Exits:NESW> 
+A green dragonarmy warrior arrives from the east.
+
+519H 97V 44356050X 47.68% 1318C Exits:NESW> gather
+You create some arrows.
+
+519H 97V 44356050X 47.68% 1318C Exits:NESW> 
+A green dragonarmy warrior leaves east.
+
+519H 97V 44356050X 47.68% 1318C Exits:NESW> put all.arrows quiver
+You put a bundle of arrows fletched with an owl feather in a green leather quiver.
+
+519H 97V 44356050X 47.68% 1318C Exits:NESW> b n
+
+Dany flies north.
+
+519H 97V 44356050X 47.68% 1318C Exits:NESW> n
+The Red Gate
+The corpse of a red dragonarmy gateguard is lying here. [2]
+[1m<MYTH> Lady Dany D'Nay, Vanguard of the Light of Dawn is standing here, fighting a red dragonarmy gateguard. (flying)
+. . . has a metallic luster.
+**DROGON** the bronze dragon is standing here, awaiting a rider.
+A red dragonarmy gateguard is standing here, fighting Dany.
+The stone dragon perched above the gate unleashes a rain of fire.
+You whimper as searing flames melt the flesh off your face.
+With a quick weave, you slip out of the way of someone's attack.
+Some of the searing flames quickly roast Dany.
+Some of the searing flames quickly roast **DROGON** the bronze dragon.
+
+519H 95V 44356050X 47.68% 1318C Exits:S(W)> 
+Dany deflects part of a red dragonarmy gateguard's blow with her shield.
+A red dragonarmy gateguard MASSACREs Dany with his cleave.
+Dany stabs a red dragonarmy gateguard extremely hard.
+
+519H 95V 44356050X 47.68% 1318C Exits:S(W)> fight guard
+
+Dany attempts to strike at a red dragonarmy gateguard with her pike.
+Dany stabs a red dragonarmy gateguard extremely hard.
+
+519H 95V 44356050X 47.68% 1318C Exits:S(W)> 
+You aim at a red dragonarmy gateguard.
+
+519H 95V 44356050X 47.68% 1318C Exits:S(W)> 
+You start shooting like mad.
+You plunk a red dragonarmy gateguard hard.
+
+519H 95V 44355830X 47.68% 1318C Exits:S(W)> 
+The stone dragon perched above the gate unleashes a rain of fire.
+You whimper as searing flames melt the flesh off your face.
+With a quick weave, you slip out of the way of someone's attack.
+Some of the searing flames quickly roast Dany.
+Some of the searing flames quickly roast **DROGON** the bronze dragon.
+
+519H 95V 44355830X 47.68% 1318C Exits:S(W)> 
+You bruise a red dragonarmy gateguard with your plunk.
+
+519H 95V 44355775X 47.68% 1318C Exits:S(W)> 
+A red dragonarmy gateguard misses Dany with his cleave.
+Dany deflects part of a red dragonarmy gateguard's blow with her shield.
+A red dragonarmy gateguard cleaves Dany very hard.
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+
+519H 95V 44355775X 47.68% 1318C Exits:S(W)> 
+You plunk a red dragonarmy gateguard hard.
+
+519H 95V 44355528X 47.68% 1318C Exits:S(W)> 
+Dany focuses her purity on a red dragonarmy gateguard's leg!
+Dany forces a red dragonarmy gateguard to the ground.
+
+519H 95V 44355528X 47.68% 1318C Exits:S(W)> 
+You MASSACRE a red dragonarmy gateguard with a plunk.
+
+519H 95V 44354951X 47.68% 1318C Exits:S(W)> watch dany
+
+You plunk a red dragonarmy gateguard extremely hard.
+
+519H 95V 44354484X 47.68% 1318C Exits:S(W)> 
+You now watch Dany.
+
+519H 95V 44354484X 47.68% 1318C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+The stone dragon perched above the gate unleashes a rain of fire.
+You whimper as searing flames melt the flesh off your face.
+With a quick weave, you slip out of the way of someone's attack.
+Some of the searing flames quickly roast Dany.
+Some of the searing flames quickly roast **DROGON** the bronze dragon.
+
+519H 95V 44354484X 47.68% 1318C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+A red dragonarmy gateguard misses Dany with his cleave.
+A red dragonarmy gateguard misses Dany with his cleave.
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+
+519H 95V 44354484X 47.68% 1318C [**Dany:Bad**] [**a red dragonarmy gateguard:V.Bad**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard extremely hard.
+Dany attempts to strike at a red dragonarmy gateguard with her pike.
+Dany MASSACREs a red dragonarmy gateguard with her stab.
+
+519H 95V 44354044X 47.68% 1318C [**Dany:Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard hard.
+
+519H 95V 44353797X 47.68% 1318C [**Dany:Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard very hard.
+A red dragonarmy gateguard misses Dany with his cleave.
+Dany **ANNIHILATE**s a red dragonarmy gateguard with her stab.
+
+519H 95V 44353440X 47.68% 1318C [**Dany:Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+Dany attempts to strike at a red dragonarmy gateguard with her pike.
+Dany stabs a red dragonarmy gateguard extremely hard.
+
+519H 95V 44353440X 47.68% 1318C [**Dany:Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard.
+A red dragonarmy gateguard is incapacitated and will slowly die, if not aided.
+
+519H 95V 44353303X 47.68% 1318C [**Dany:Bad**] [**a red dragonarmy gateguard:Awful**] Exits:S(W)> 
+You plunk a red dragonarmy gateguard very hard.
+You receive 86347 experience.
+A red dragonarmy gateguard is dead! R.I.P.
+The death cry of a red dragonarmy gateguard echoes from somewhere nearby...
+You stop aiming at a red dragonarmy gateguard.
+
+519H 95V 44266654X 47.68% 1318C [**Dany:Bad**] Exits:S(W)> 
+FOLLOWER GAINED XP: 0
+
+You get a pile of coins from the corpse of a red dragonarmy gateguard.
+There were 38 coins.
+
+519H 95V 44266654X 47.68% 1356C [**Dany:Bad**] Exits:S(W)> 
+The corpse doesn't seem to have what you are looking for.
+
+519H 95V 44266654X 47.68% 1356C [**Dany:Bad**] Exits:S(W)> 
+You can't find that container.
+
+519H 95V 44266654X 47.68% 1356C [**Dany:Bad**] Exits:S(W)> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a steel dragonarmy battleaxe
+
+519H 95V 44266654X 47.68% 1356C [**Dany:Bad**] Exits:S(W)> 
+You divide 38 coins equally among the group members present.
+
+519H 95V 44266654X 47.68% 1337C [**Dany:Bad**] Exits:S(W)> #log stop
+#SYNTAX: #LOG {APPEND|OVERWRITE|OFF} {<FILENAME>}
+#log off

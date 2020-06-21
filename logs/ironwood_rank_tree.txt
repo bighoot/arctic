@@ -1,0 +1,11 @@
+Sacrificial Shield [2][0/1]		->		Courageous Defender [2][0/3]	->		Vengeful Counterstrike [2][0/1]		->		Reflexive Interrupt [5][0/1]
+																		->		Valiant Defender [2][0/1]			->		Altruistic Protector [2][0/3]
+
+																
+Deflection Plating [1][0/3]		->		Absorbtion Plating [2][0/1]		->		Reinforced Construction [1][0/3]	->		Centrifugal Balance [2][0/2]		
+								->		Plated Fists [1][0/1]			->		Martial Interception [4][0/1]		
+								->		Augmented Repairs [1][0/3]		->		Automated Repairs [3][0/1]
+	
+	
+Refined Targeting [2][0/3]		->		Brutal Strikes [2][0/3]			->		Vicious Crush [2][0/1]
+																		->		Ferocious Alacrity [2][0/3]			->		Raging Flurry [3][0/1]

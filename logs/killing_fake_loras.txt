@@ -1,0 +1,1838 @@
+[0m#LOG: LOGGING OUTPUT TO 'killing_fake_loras.txt' FILESIZE: 0[0m
+[0;37mstun[0m
+You utter the words, 'power word stun'
+Hartigan, the Thane's Personal Guard is stunned momentarily, recovering quickly.
+Grahm, the Thane's Personal Guard is stunned!
+Loras Falstaff, Thane of New Palanthas is stunned!
+
+[32m[0;37m[32m967H [0;37m[33m[1m183V [0;37m21340913X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mPerfect[0;37m] [0;37mMem:2 Exits:N> [0;37mcast 'nightmare'[0m
+
+You bludgeon Hartigan, the Thane's Personal Guard.
+Hartigan, the Thane's Personal Guard slashes YOU hard.
+Hartigan, the Thane's Personal Guard is shocked as he passes through your aura.
+
+[32m[0;37m[32m957H [0;37m[33m[1m183V [0;37m21340261X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:2 Exits:N> 
+[37mYour clanmate Seqi has entered the game.
+[0;37m
+[32m[0;37m[32m957H [0;37m[33m[1m183V [0;37m21340261X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:2 Exits:N> 
+You utter the words, 'nightmare'
+You unleash the world of nightmares upon your enemies.
+Hartigan, the Thane's Personal Guard's eyes widen and jaw drops as you invade his mind with terror.
+Grahm, the Thane's Personal Guard's eyes widen and jaw drops as you invade his mind with terror.
+Loras Falstaff, Thane of New Palanthas's eyes widen and jaw drops as you invade his mind with terror.
+
+[32m[0;37m[32m957H [0;37m[33m[1m183V [0;37m21338995X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:2 Exits:N> 
+Hartigan, the Thane's Personal Guard stumbles and falls while trying to bash you.
+
+[32m[0;37m[32m957H [0;37m[33m[1m183V [0;37m21338995X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:2 Exits:N> 
+Hartigan, the Thane's Personal Guard slashes YOU.
+Hartigan, the Thane's Personal Guard is shocked as he passes through your aura.
+Hartigan, the Thane's Personal Guard misses you with his slash.
+Loras Falstaff shouts, 'Archers, shoot down my assailants!'
+At the command heavy bolts rain down from the nooks and crannies
+of the ceiling piercing your body.
+[33m[1mThat Really did HURT!
+[0;37mThe heavy bolts force you to the ground as you gush blood.
+
+[32m[0;37m[33m[1m718H [0;37m[33m[1m183V [0;37m21338657X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mFair[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:N> [0;37mbw[0m
+
+You bludgeon Hartigan, the Thane's Personal Guard hard.
+Hartigan, the Thane's Personal Guard slashes YOU hard.
+Hartigan, the Thane's Personal Guard is shocked as he passes through your aura.
+Loras Falstaff shouts, 'Archers, shoot down my assailants!'
+At the command heavy bolts rain down from the nooks and crannies
+of the ceiling piercing your body.
+[33m[1mThat Really did HURT!
+[0;37mThe heavy bolts force you to the ground as you gush blood.
+
+[32m[0;37m[33m[1m414H [0;37m[33m[1m183V [0;37m21337980X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mV.Bad[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mGood[0;37m] [0;37mMem:2 Exits:N> [0;37mflee[0m
+
+You bludgeon Hartigan, the Thane's Personal Guard.
+Hartigan, the Thane's Personal Guard barely slashes YOU.
+Hartigan, the Thane's Personal Guard is shocked as he passes through your aura.
+Hartigan, the Thane's Personal Guard slashes YOU.
+Hartigan, the Thane's Personal Guard is shocked as he passes through your aura.
+Loras Falstaff shouts, 'Archers, shoot down my assailants!'
+At the command heavy bolts rain down from the nooks and crannies
+of the ceiling piercing your body.
+[33m[1mThat Really did HURT!
+[0;37m[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mThe heavy bolts force you to the ground as you gush blood.
+You sense your minor globe weaken and fade away.
+
+[32m[0;37m[33m[1m229H [0;37m[32m238V [0;37m21337328X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mV.Bad[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mGood[0;37m] [0;37mMem:2 Exits:N> [0;37mcancel[0m
+Cancelled 2 queued commands.
+
+[32m[0;37m[33m[1m229H [0;37m[32m238V [0;37m21337328X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mV.Bad[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mGood[0;37m] [0;37mMem:2 Exits:N> [0;37mflee[0m
+
+-#-#-#-#-#-#-#-> Hartigan, the Thane's Personal Guard <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[33m[1m229H [0;37m[32m238V [0;37m21337328X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mV.Bad[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mGood[0;37m] [0;37mMem:2 Exits:N> 
+Loras Falstaff, Thane of New Palanthas MASSACREs YOU with his hit.
+Loras Falstaff, Thane of New Palanthas appears to grow stronger.
+Loras Falstaff, Thane of New Palanthas calmly ignores the electrical aura that surrounds you.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mLoras Falstaff, Thane of New Palanthas MASSACREs YOU with his hit.
+Loras Falstaff, Thane of New Palanthas appears to grow stronger.
+Loras Falstaff, Thane of New Palanthas calmly ignores the electrical aura that surrounds you.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard slashes YOU.
+Grahm, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard slashes YOU hard.
+Grahm, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mYou barely bludgeon Hartigan, the Thane's Personal Guard.
+Hartigan, the Thane's Personal Guard barely slashes YOU.
+Hartigan, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37m
+[32m[0;37m[31m161H [0;37m[32m238V [0;37m21336483X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mGood[0;37m] [0;37mMem:2 Exits:N> [0;37msta[0m
+[0;37mvisitsolace[0m
+
+Loras Falstaff, Thane of New Palanthas MASSACREs YOU with his hit.
+Loras Falstaff, Thane of New Palanthas appears to grow stronger.
+Loras Falstaff, Thane of New Palanthas calmly ignores the electrical aura that surrounds you.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mLoras Falstaff, Thane of New Palanthas MASSACREs YOU with his hit.
+Loras Falstaff, Thane of New Palanthas appears to grow stronger.
+Loras Falstaff, Thane of New Palanthas calmly ignores the electrical aura that surrounds you.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard slashes YOU.
+Grahm, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard bruises YOU with his slash.
+Grahm, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mYou bludgeon Hartigan, the Thane's Personal Guard.
+Hartigan, the Thane's Personal Guard misses you with his slash.
+
+[32m[0;37m[31m99H [0;37m[32m238V [0;37m21335782X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:N> 
+-#-#-#-#-#-#-#-> Loras Falstaff, Thane of New Palanthas <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[31m99H [0;37m[32m238V [0;37m21335782X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:N> 
+-#-#-#-#-#-#-#-> Grahm, the Thane's Personal Guard <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[31m99H [0;37m[32m238V [0;37m21335782X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:N> 
+Hartigan, the Thane's Personal Guard tries to disarm your weapon, but you deftly avoid him.
+
+[32m[0;37m[31m99H [0;37m[32m238V [0;37m21335782X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:N> 
+Loras Falstaff, Thane of New Palanthas MASSACREs YOU with his hit.
+Loras Falstaff, Thane of New Palanthas appears to grow stronger.
+Loras Falstaff, Thane of New Palanthas calmly ignores the electrical aura that surrounds you.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mLoras Falstaff, Thane of New Palanthas hits YOU extremely hard.
+Loras Falstaff, Thane of New Palanthas appears to grow stronger.
+Loras Falstaff, Thane of New Palanthas calmly ignores the electrical aura that surrounds you.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard barely slashes YOU.
+Grahm, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard slashes YOU very hard.
+Grahm, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mYou should probably stand up!
+You bludgeon Hartigan, the Thane's Personal Guard.
+Hartigan, the Thane's Personal Guard slashes YOU hard.
+Hartigan, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mYou can't do that while sitting.
+
+[32m[0;37m[31m27H [0;37m[32m238V [0;37m21334598X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:N> 
+Cancelled 2 queued commands.
+
+[32m[0;37m[31m27H [0;37m[32m238V [0;37m21334598X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:N> 
+You stand up.
+
+[32m[0;37m[31m27H [0;37m[32m238V [0;37m21334598X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:N> 
+Grahm, the Thane's Personal Guard stumbles and falls while trying to bash you.
+
+[32m[0;37m[31m27H [0;37m[32m238V [0;37m21334598X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:N> 
+Hartigan, the Thane's Personal Guard gives you a solid punch in the face.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37m
+[32m[0;37m[31m15H [0;37m[32m238V [0;37m21334598X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:N> 
+Loras Falstaff, Thane of New Palanthas's attack fails miserably as you magically shift to the side.
+Loras Falstaff, Thane of New Palanthas's attack fails miserably as you magically shift to the side.
+You shudder briefly before losing your displacement powers.
+Grahm, the Thane's Personal Guard slashes YOU.
+Grahm, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard barely slashes YOU.
+Grahm, the Thane's Personal Guard is shocked as he passes through your aura.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mYou bludgeon Hartigan, the Thane's Personal Guard.
+Hartigan, the Thane's Personal Guard slashes YOU hard.
+Hartigan, the Thane's Personal Guard is shocked as he passes through your aura.
+You are mortally wounded, and will die soon, if not aided.
+Loras Falstaff shouts, 'Archers, shoot down my assailants!'
+At the command heavy bolts rain down from the nooks and crannies
+of the ceiling piercing your body.
+You're dead.
+Lifelessly, you crumble under the assault of arrows.
+A flowing robe of sheer gossamer fades and becomes translucent.
+When you finally manage to let go of the orb, the brilliant light emanating
+from deep within the swirling mists dims slowly. The orb seems to shrink
+before your eyes into a flawless, dark, swirling crystal sphere.
+The electrical energies shielding you disappear.
+[36mThe spheres around you blink out of existence.[0m
+[36mYou sense the protective magic about you fade away.[0m
+Your head aches for a second.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+5) Create new character.
+
+Make a choice: [0;37m[0m
+
+Please select a number from the given list.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+5) Create new character.
+
+Make a choice: [0;37m1[0m
+
+Welcome to the land of Krynn.
+
+[36mThe Reception[0;37m
+[33m[1mnewbie_kit!
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[31m1H [0;37m[32m118V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:19 Exits:D> [0;37md[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects.
+Otik watches you calmly, while he skillfully mixes a drink.
+[0;37m
+[32m[0;37m[31m1H [0;37m[32m117V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:19 Exits:SWUD> [0;37md[0m
+[36mA Small Side Street[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mA citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[31m1H [0;37m[32m116V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:19 Exits:NEU> [0;37me[0m
+[36mNorthern Avenue[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mA young barbarian clad in soft white rabbit fur stands here.
+[0;37m
+[32m[0;37m[31m1H [0;37m[32m115V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:19 Exits:NSWU> [0;37ms[0m
+[36mSolace Square[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA plump housewife walks past carrying a basket full of groceries.
+A fidgeting wiry young boy stands here looking suspicious.
+A janitor is walking around, cleaning up.
+[0;37m
+[32m[0;37m[31m1H [0;37m[32m114V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:19 Exits:NESWU> 
+You must be carrying the object you are trying to fill.
+
+[32m[0;37m[31m1H [0;37m[32m114V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:19 Exits:NESWU> [0;37mu[0m
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+A green jerkin has been dropped here.
+A finely crafted longsword lies here.
+[0;37m[31m[1mA Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[31m1H [0;37m[32m113V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:19 Exits:NESWUD> [0;37mn[0m
+[36mOn a Vallenwood Bough[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[31m1H [0;37m[32m111V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:19 Exits:NES> [0;37mn[0m
+A beautiful vallenwood leaf falls to the ground.
+[36mOn a Vallenwood Bough[0;37m
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mA long-tailed ground dove sits here on a low branch.
+[0;37m
+[32m[0;37m[31m1H [0;37m[32m109V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:19 Exits:NESWD> [0;37mw[0m
+[36mSolace School of Magic[0;37m
+[33m[1mA magical sign floats in the air here...it glows dimly
+A chart of the moons is posted on the wall over in the far corner.
+[0;37m[31m[1mMaster Theobald wanders his school looking for troublemakers.
+[0;37m
+[32m[0;37m[31m1H [0;37m[32m108V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:12 Exits:E> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[31m1H [0;37m[32m108V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:12 Exits:E> 
+You say 'learned!'
+
+[32m[0;37m[31m1H [0;37m[32m108V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:12 Exits:E> [0;37mrest[0m
+You sit down and rest your tired bones.
+
+[32m[0;37m[31m1H [0;37m[32m108V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> [0;37mmem[0m
+You have no spells currently memorized.
+Spells being memorized:
+1: [ 7]magic missile       
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 2]magic blast         
+5: [ 3]force bolt           [ 4]locate object        [ 1]mass invisibility   
+6: [ 3]chain lightning      [ 2]identify             [ 2]relocate            
+7: [ 1]antimagic shell      [ 3]force missile        [ 1]lightning shield    
+   [ 1]mass teleport        [ 1]mirror image        
+8: [ 2]clairvoyance         [ 1]mnemonic enhancer    [ 3]shocking blast      
+9: [ 5]power word stun     
+
+You estimate your studies will complete in 5 (game) hours.
+
+Spells left (level-number): *-5 1-0 2-0 3-2 4-0 5-0 6-0 7-0 8-0 9-0
+
+[32m[0;37m[31m1H [0;37m[32m108V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> [0;37mspells[0m
+Your spells
+-----------
+*:  nightmare              prismatic spray      
+1:  blur                   detect magic           floating disc        
+    infravision            light                  magic missile        
+    repose                 shield                 weaken               
+2:  continual light        deep pockets           detect invisibility  
+    invisibility           ray of enfeeblement    shocking grasp       
+    silence                sleep                  strength             
+3:  dispel magic           featherfall            fireball             
+    fly                    gust of wind           lightning bolt       
+    magic bolt             mending                rot                  
+    teleport               water breath           web                  
+4:  acid blast             calm                   cold snap            
+    dimension door         free action            haste                
+    hold monster           improved invisibility  magic blast          
+    whispering wind      
+5:  astral beacon          confusion              drain magic          
+    enchant item           force bolt             locate object        
+    mass invisibility      mental acuity          pocket dimension     
+    read magic           
+6:  chain lightning        displacement           identify             
+    minor globe of invulnerability  potency                relocate             
+    spheres of absorption
+7:  antimagic shell        charm monster          detect scry          
+    force missile          lightning shield       mass teleport        
+    mirror image           recharge               tether               
+8:  blink                  clairvoyance           feeblemind           
+    mnemonic enhancer      shocking blast         wizard eye           
+9:  astral portal          blastwave              crippling wave       
+    peek                   power word stun        spell trap           
+    thunderbolt            wall of force        
+
+[32m[0;37m[31m1H [0;37m[32m108V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> [0;37mmem[0m
+You have no spells currently memorized.
+Spells being memorized:
+1: [ 7]magic missile       
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 2]magic blast         
+5: [ 3]force bolt           [ 4]locate object        [ 1]mass invisibility   
+6: [ 3]chain lightning      [ 2]identify             [ 2]relocate            
+7: [ 1]antimagic shell      [ 3]force missile        [ 1]lightning shield    
+   [ 1]mass teleport        [ 1]mirror image        
+8: [ 2]clairvoyance         [ 1]mnemonic enhancer    [ 3]shocking blast      
+9: [ 5]power word stun     
+
+You estimate your studies will complete in 5 (game) hours.
+
+Spells left (level-number): *-5 1-0 2-0 3-2 4-0 5-0 6-0 7-0 8-0 9-0
+
+[32m[0;37m[31m1H [0;37m[32m108V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> [0;37mmem 'nightmare'[0m
+nightmare: added to your list
+
+[32m[0;37m[31m1H [0;37m[32m108V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> [0;37mmem 'nightmare'[0m
+nightmare: added to your list
+
+[32m[0;37m[31m1H [0;37m[32m108V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> [0;37mmem 'prism'[0m
+prismatic spray: added to your list
+
+[32m[0;37m[31m101H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:4 Exits:E> [0;37mmem 'nightmare'[0m
+nightmare: added to your list
+
+[32m[0;37m[31m101H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> [0;37mmem 'prism'[0m
+prismatic spray: added to your list
+
+[32m[0;37m[31m101H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> [0;37mrest[0m
+You are already resting.
+
+[32m[0;37m[31m101H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> [0;37m[0m
+
+[32m[0;37m[31m101H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:5 Exits:E> 
+Master Theobald sighs and stops studying.
+
+[32m[0;37m[33m[1m221H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:4 Exits:E> [0;37m[0m
+
+[32m[0;37m[33m[1m221H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:4 Exits:E> [0;37mdeep[0m
+You try to ignore everything around you and focus upon your studies.
+
+[32m[0;37m[33m[1m221H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:3 Exits:E> [0;37mwho[0m
+[0;37m[37mImmortals
+---------
+[1m[37m[Imp  36]  Kam will kill you all.[0;37m[34m
+[1m[37m[Grd  32]  Zalm[0;37m[34m
+[1m[37m[Ovs  35]  Kholos[0;37m[34m
+
+[0;37m[36mMortals
+-------
+[1m[36m<MYTH> Halmos the Number Theorist, Computational Mythematician[0;37m[36m
+[1m[36m<MYTH> Doctor Seqi Bok'Vol[0;37m[36m
+[1m[36m<MYTH> Sertol Bok'Vol[0;37m[36m
+
+[32m[1mTotal visible people : 6        Total people online  : 6
+[0;37m
+[32m[0;37m[33m[1m221H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:3 Exits:E> 
+Master Theobald twiddles his thumbs and a bright ball of light suddenly
+appears.
+
+[32m[0;37m[33m[1m361H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mMem:2 Exits:E> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[33m[1m701H [0;37m[32m118V [0;37m28483414X 36.58% 0C [Pos:resting] [0;37mExits:E> [0;37msta[0m
+You stop studying and stand up.
+
+[32m[0;37m[33m[1m701H [0;37m[32m118V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mExits:E> [0;37mvisitpalanthas[0m
+You utter the words, 'relocate'
+[36mMages' Study[0;37m
+[33m[1mA magical sign floats in the air here...it glows dimly
+An orrery is mounted on a stand here.
+[0;37m[31m[1mA citizen of Palanthas is here going about his business.
+A streetsweeper is here keeping Palanthas tidy.
+Anatole the Amazing is here to teach you the ways of magic.
+A Palanthian guard stands here, watching warily for troublemakers.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m118V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:W> 
+[36mAlchemical Lab[0;37m
+[33m[1m[0;37m[31m[1mLinus the Alchemist, is here working diligently on a new formula.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m117V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:EW> 
+[36mAnatole's Amazing Artifacts[0;37m
+[33m[1m[0;37m[31m[1mA citizen of Palanthas is here going about his business.
+An apprentice mage is here watching the store for his master.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m116V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NE> 
+[36mSword Street[0;37m
+[33m[1m[0;37m[31m[1mA Palanthian guard is here serving and protecting the citizens of Palanthas.
+A Knight of Solamnia walks briskly through the crowd.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m115V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:ESW> 
+[36mSword Street[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m114V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:ESW> 
+[36mIntersection: Sword Street and Southern Avenue[0;37m
+[33m[1m[0;37m[31m[1mAn alley cat is here sniffing around the garbage looking for food.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m113V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+[36mKam tells you 'doesn't seem to have helped'
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m113V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+[36mSouthern Avenue[0;37m
+[33m[1m[0;37m[31m[1mAn alley cat is here sniffing around the garbage looking for food.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m112V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mIntersection: Crown Street and Southern Avenue[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m111V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> [0;37mreply i know, right?[0m
+You tell Kam 'i know, right?'
+
+[32m[0;37m[33m[1m701H [0;37m[32m111V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+[36mCrown Street[0;37m
+[33m[1m[0;37m[31m[1mA large pigeon is here pecking at some bread crumbs.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m110V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:EW> 
+[36mCrown Street[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m109V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:EW> 
+[36mCrown Street[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m108V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:EW> 
+[36mIntersection: Crown Street and Southeastern Avenue[0;37m
+[33m[1m[0;37m[31m[1mA Palanthian guard is here serving and protecting the citizens of Palanthas.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m107V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NEW> 
+[36mCrown Street[0;37m
+[33m[1m[0;37m[31m[1mA streetsweeper is here keeping Palanthas tidy.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m106V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NSW> 
+[36mEdge of New and Old City[0;37m
+[33m[1m[0;37m[31m[1mA Palanthian guard stands here, watching at the gates for troublemakers.
+A Palanthian guard stands here, watching at the gates for troublemakers.
+A Palanthian guard stands here, watching at the gates for troublemakers.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m105V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NE> 
+[36mMarkham Avenue[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m104V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:SW> 
+[36mIntersection of Markham Avenue and Barclay Road[0;37m
+[33m[1m[0;37m[31m[1mThe visage of impending doom, a harbinger of chaos sweeps across the land.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m103V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+[36mMarkham Avenue[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m102V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mEnd of Markham Avenue[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[32m101V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESW> 
+[36mEntrance to a Grand Estate[0;37m
+[33m[1m[0;37m[31m[1mA furry, white-tailed rabbit roams the grounds for food.
+An old man strolls toward the estate.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m95V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mBefore a Bridge[0;37m
+[33m[1m[0;37m[31m[1mA young squire awaits the orders of his lord.
+A newly annointed knight travels toward the manor.
+A small child runs toward the hedge maze.
+A furry, white-tailed rabbit roams the grounds for food.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m83V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mOn Top of a Bridge[0;37m
+[33m[1m[0;37m[31m[1mLila sells some snacks to passersby from a post on the bridge.
+A young boy hangs his line over the side of the bridge.
+An elderly man hangs a fishing line over the side of the bridge.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m71V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mBefore a Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1mA young squire watches the eastern side of the maze's entrance.
+A young squire watches the western side of the maze's entrance.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m64V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> [0;37mreply you cant fix stupid[0m
+You tell Kam 'you cant fix stupid'
+
+[32m[0;37m[33m[1m701H [0;37m[33m[1m64V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mWithin the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1mA bright orange crown circles the head of this small, otherwise drab, bird.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m62V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+Alas, you cannot go that way...
+
+[32m[0;37m[33m[1m701H [0;37m[33m[1m62V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+[36mWithin the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1mA ringed turtle-dove sings atop the hedges.
+A brown chipmunk roams the maze for nuts.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m60V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+[36mWithin the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m58V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+[36mWithin the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m56V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+[36mWithin the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1mA brownish olive bird darts through the hedges as it chases flies.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m54V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+[36mWithin the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1mA happy girl draws flowers upon the cobblestones.
+A small boy draws knights and dragons upon the cobblestones.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m52V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+[36mWithin the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m50V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+[36mWithin the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1mA light gray bird sings a plethora of songs from its perch atop the hedges.
+A brown chipmunk roams the maze for nuts.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m48V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+[36mWithin the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1mA ringed turtle-dove sings atop the hedges.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m46V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1> 
+[36mExiting the Hedge Garden Maze[0;37m
+[33m[1m[0;37m[31m[1mA young squire appears to be searching for the children of his lord.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m44V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:S> 
+[36mBefore the Manor of Loras Falstaff, Thane of Palanthas[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m42V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mThe Central Hall and Stair[0;37m
+[33m[1m[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's first floor.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m41V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NESWU> 
+[36mThe Top of the Central Stairs[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m40V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:ESWD> 
+[36mBefore the Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m39V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+[36mThe Audience Chamber[0;37m
+[33m[1mThe corpse of Halmos is lying here.
+[0;37m[31m[1mA member of the Thane's Personal Guard stands near the Thane. (white aura)
+A member of the Thane's Personal Guard stands near the Thane. (white aura)
+The Thane of New Palanthas stands over a half-moon table. (white aura)
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m38V [0;37m28483414X 36.58% 0C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:N> [0;37mget all corpse[0m
+You get a red emerald lentoid from the corpse of Halmos.
+You get a dragon orb from the corpse of Halmos.
+You get a crafted aspen staff from the corpse of Halmos.
+You get a bracelet of burning black talons from the corpse of Halmos.
+You get a bracelet of burning black talons from the corpse of Halmos.
+You get a runed silk pouch from the corpse of Halmos.
+You get a demonskin belt laden with tentacles from the corpse of Halmos.
+You get a flowing robe of sheer gossamer from the corpse of Halmos.
+You get an arcane shield from the corpse of Halmos.
+You get a pair of kraken beak gauntlets from the corpse of Halmos.
+You get a pair of magical gray slippers from the corpse of Halmos.
+You get some magical pants of greater chaos from the corpse of Halmos.
+You get a wide brimmed gray hat from the corpse of Halmos.
+You get some tattered sea green robes from the corpse of Halmos.
+You get a ring of high sorcery from the corpse of Halmos.
+You get a ring of high sorcery from the corpse of Halmos.
+You get a towering pile of coins from the corpse of Halmos.
+There were 920701 coins.
+You get a steel dragonarmy sword from the corpse of Halmos.
+You get a steel dragonarmy sword from the corpse of Halmos.
+You get an acid-etched steel dagger from the corpse of Halmos.
+You get a shirt of black scalemail from the corpse of Halmos.
+You get a curved onyx knife from the corpse of Halmos.
+You get a complimentary stable note from the corpse of Halmos.
+You get a glowing scroll of recall from the corpse of Halmos.
+You get a glowing scroll of recall from the corpse of Halmos.
+You get a glowing scroll of recall from the corpse of Halmos.
+You get a glowing scroll of recall from the corpse of Halmos.
+You get a hooded lantern from the corpse of Halmos.
+You get a loaf of bread from the corpse of Halmos.
+You get a loaf of bread from the corpse of Halmos.
+You get a map of Solace from the corpse of Halmos.
+You get a small leather bag from the corpse of Halmos.
+You get a waterskin from the corpse of Halmos.
+
+[32m[0;37m[33m[1m701H [0;37m[33m[1m38V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:N> 
+You belong to no group.
+
+[32m[0;37m[33m[1m701H [0;37m[33m[1m38V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:N> [0;37mn[0m
+[36mBefore the Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[33m[1m701H [0;37m[33m[1m37V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> [0;37mwear all[0m
+You couldn't find anywhere to use a waterskin.
+You couldn't find anywhere to use a small leather bag.
+You couldn't find anywhere to use a map of Solace.
+You couldn't find anywhere to use a loaf of bread.
+You couldn't find anywhere to use a loaf of bread.
+You couldn't find anywhere to use a hooded lantern.
+You couldn't find anywhere to use a glowing scroll of recall.
+You couldn't find anywhere to use a glowing scroll of recall.
+You couldn't find anywhere to use a glowing scroll of recall.
+You couldn't find anywhere to use a glowing scroll of recall.
+You couldn't find anywhere to use a complimentary stable note.
+You couldn't find anywhere to use a curved onyx knife.
+You wear a shirt of black scalemail on your body.
+You couldn't find anywhere to use an acid-etched steel dagger.
+You couldn't find anywhere to use a steel dragonarmy sword.
+You couldn't find anywhere to use a steel dragonarmy sword.
+You wear the ring on a finger of your right hand.
+You rise up off the ground.
+You wear the ring on a finger of your left hand.
+You already wear something on your body.
+You wear a wide brimmed gray hat on your head.
+You wear some magical pants of greater chaos on your legs.
+You wear a pair of magical gray slippers on your feet.
+Your hands tingle as you slip a pair of kraken beak gauntlets over them.
+You gesture, and an arcane shield begins to hover in front of you.
+You wear a flowing robe of sheer gossamer about your body.
+As you don a flowing robe of sheer gossamer, it turns carmine red.
+You wear a demonskin belt laden with tentacles about your waist.
+You strap a runed silk pouch on your belt.
+You wear the bracelet around your right wrist.
+You wear the bracelet around your left wrist.
+You couldn't find anywhere to use a crafted aspen staff.
+You couldn't find anywhere to use a dragon orb.
+You release a red emerald lentoid, and it begins to orbit around your neck.
+
+[32m[0;37m[33m[1m701H [0;37m[31m37V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> [0;37mrem shirt[0m
+You stop using a shirt of black scalemail.
+
+[32m[0;37m[33m[1m701H [0;37m[31m37V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+A red emerald lentoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m701H [0;37m[31m37V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[33m[1m765H [0;37m[32m238V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[33m[1m765H [0;37m[32m238V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> [0;37min[0m
+You are carrying:
+a shirt of black scalemail
+a waterskin
+a small leather bag
+a map of Solace
+a loaf of bread [2]
+a hooded lantern
+a glowing scroll of recall..it glows blue..it glows dimly [4]
+a complimentary stable note
+a curved onyx knife
+an acid-etched steel dagger..it glows blue
+a steel dragonarmy sword [2]
+some tattered sea green robes..it glows blue..it glows dimly
+a crafted aspen staff..it glows blue..it hums softly
+a dragon orb..it glows blue
+
+[32m[0;37m[33m[1m765H [0;37m[32m238V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> [0;37mwear robes[0m
+You wear some tattered sea green robes on your body.
+
+[32m[0;37m[33m[1m765H [0;37m[32m238V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> [0;37mwield staff[0m
+You start using the staff.
+
+[32m[0;37m[33m[1m765H [0;37m[32m238V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> [0;37mhold orb[0m
+You reach your hand out and place the orb upon it.
+The orb flares brightly as you grab it. You see the withered hands within
+the mists reaching out for you.
+
+[32m[0;37m[31m1H [0;37m[31m1V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[31m1H [0;37m[31m1V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37muse orb 'iceshield'[0m
+A veil of icy mist surrounds your entire body.
+You look deep within the orb and order it to do your bidding. Suddenly, a
+flash is emitted from within the orb.
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37mmem[0m
+You're not even conscious!
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m64H [0;37m[32m231V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37msta[0m
+You are already standing.
+
+[32m[0;37m[31m64H [0;37m[32m231V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37muse orb 'steelskin'[0m
+Your skin tightens and begins to shine like steel.
+You look deep within the orb and order it to do your bidding. Suddenly, a
+flash is emitted from within the orb.
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> 
+A red emerald lentoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m64H [0;37m[32m224V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37msta[0m
+You are already standing.
+
+[32m[0;37m[31m64H [0;37m[32m224V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37min[0m
+You are carrying:
+a shirt of black scalemail
+a waterskin
+a small leather bag
+a map of Solace
+a loaf of bread [2]
+a hooded lantern
+a glowing scroll of recall..it glows blue..it glows dimly [4]
+a complimentary stable note
+a curved onyx knife
+an acid-etched steel dagger..it glows blue
+a steel dragonarmy sword [2]
+
+[32m[0;37m[31m128H [0;37m[32m224V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.58% of your next rank.
+You are 20 years old.
+You have 128(1060) hit and 224(224) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 191,516,586 exp, and have 920701(988099100) steel coins.
+You need 28,483,414 more experience to advance.
+You have died 18 horrible deaths.
+You have been connected for 8 minute(s).
+You have been playing for 14 day(s), 12 hour(s) and 28 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are flying.
+You are affected by the following:
+    steelskin
+    iceshield
+
+[32m[0;37m[31m128H [0;37m[32m224V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37muse orb 'fireshield'[0m
+Cool flames emanate from all parts of your body.
+You look deep within the orb and order it to do your bidding. Suddenly, a
+flash is emitted from within the orb.
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> 
+A red emerald ellipsoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m0H [0;37m[31m0V [0;37m28483414X 36.58% 920701C [Pos:stunned] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37ml[0m
+[36mBefore the Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mhelp spell nightmare[0m
+Spell    : Nightmare
+Sphere   : Evocation
+Usage    : cast 'nightmare'
+Duration : Instantaneous
+Effects  : Damages and stuns opponents
+
+The caster plunges every creature not grouped with himself into a nightmarish
+sleep. He then evokes a terrifying experience within each of their minds,
+forcing them to confront their inner demons and inflicting grievous harm upon
+their psyches which increases with caster level. Lucky enemies that succeed
+their saving throw will receive reduced damage and will immediately awake
+from their nightmare, which is often before their knees even buckle. Other
+victims will be less fortunate -- the terror this spell imparts will
+completely rob them of their worldly senses, dragging them deeper into the
+nightmare and causing them to collapse into a state of stunned helplessness
+for several rounds.
+
+Component Casting:
+--Increased damage.
+--Reduced target save chance.
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37msta[0m
+You are already standing.
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mcast 'repose'[0m
+You can't remember how to cast that spell!
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mmem 'repose'[0m
+You open up your spellbook and begin studying it.
+repose: added to your list
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> [0;37mrest[0m
+
+A red emerald lentoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.58% of your next rank.
+You are 20 years old.
+You have 64(1060) hit and 217(217) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 191,516,586 exp, and have 920701(988099100) steel coins.
+You need 28,483,414 more experience to advance.
+You have died 18 horrible deaths.
+You have been connected for 10 minute(s).
+You have been playing for 14 day(s), 12 hour(s) and 29 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are resting.
+You are flying.
+You are affected by the following:
+    fireshield
+    steelskin
+    iceshield
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mmem[0m
+Spells currently memorized:
+*: [ 3]nightmare            [ 2]prismatic spray     
+1: [ 7]magic missile       
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 2]magic blast         
+5: [ 3]force bolt           [ 4]locate object        [ 1]mass invisibility   
+6: [ 3]chain lightning      [ 2]identify             [ 2]relocate            
+7: [ 1]antimagic shell      [ 3]force missile        [ 1]lightning shield    
+   [ 1]mass teleport        [ 1]mirror image        
+8: [ 2]clairvoyance         [ 1]mnemonic enhancer    [ 3]shocking blast      
+9: [ 5]power word stun     
+
+Spells being memorized:
+1: [ 1]repose              
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): *-6 1-5 2-6 3-8 4-6 5-6 6-7 7-6 8-6 9-6
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mmem 'nightmare'[0m
+nightmare: added to your list
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mmem 'nightmare'[0m
+nightmare: added to your list
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mmem 'nightmare'[0m
+nightmare: added to your list
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mmem 'prism'[0m
+prismatic spray: added to your list
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37mmem 'prism'[0m
+prismatic spray: added to your list
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37mmem 'prism'[0m
+prismatic spray: added to your list
+
+[32m[0;37m[31m64H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37mrest[0m
+You are already resting.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mmem[0m
+Spells currently memorized:
+*: [ 3]nightmare            [ 2]prismatic spray     
+1: [ 7]magic missile       
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 2]magic blast         
+5: [ 3]force bolt           [ 4]locate object        [ 1]mass invisibility   
+6: [ 3]chain lightning      [ 2]identify             [ 2]relocate            
+7: [ 1]antimagic shell      [ 3]force missile        [ 1]lightning shield    
+   [ 1]mass teleport        [ 1]mirror image        
+8: [ 2]clairvoyance         [ 1]mnemonic enhancer    [ 3]shocking blast      
+9: [ 5]power word stun     
+
+Spells being memorized:
+*: [ 3]nightmare            [ 3]prismatic spray     
+1: [ 1]repose              
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): *-0 1-5 2-6 3-8 4-6 5-6 6-7 7-6 8-6 9-6
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mdefense[0m
+You utter the words, 'mnemonic enhancer'
+Your head throbs for a second.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+You utter the words, 'antimagic shell'
+The air around you crackles as a translucent barrier envelops you.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+You can't remember how to cast that spell!
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+You can't remember how to cast that spell!
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+You utter the words, 'lightning shield'
+A veil of electrical energies surround your entire body.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+[37mYour clanmate Arakith has entered the game.
+[0;37m
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+You can't remember how to cast that spell!
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+The tentacles on your belt quiver as you prepare to cast.
+You utter the words, 'mirror image'
+You are surrounded by 7 duplicate images.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> 
+A red emerald ellipsoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> [0;37mmem 'spheres'[0m
+spheres of absorption: added to your list
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:NS> [0;37mmem 'displace'[0m
+displacement: added to your list
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:NS> [0;37mmem 'minor'[0m
+minor globe of invulnerability: added to your list
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:NS> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37mdeep[0m
+You try to ignore everything around you and focus upon your studies.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37msta[0m
+You stop studying and stand up.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:NS> [0;37mcast 'repose' me[0m
+You can't remember how to cast that spell!
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:5 Exits:NS> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37mmem[0m
+Spells currently memorized:
+*: [ 3]nightmare            [ 2]prismatic spray     
+1: [ 7]magic missile       
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 2]magic blast         
+5: [ 3]force bolt           [ 4]locate object        [ 1]mass invisibility   
+6: [ 3]chain lightning      [ 2]identify             [ 2]relocate            
+7: [ 3]force missile        [ 1]mass teleport       
+8: [ 2]clairvoyance         [ 3]shocking blast      
+9: [ 5]power word stun     
+
+Spells being memorized:
+*: [ 3]nightmare            [ 3]prismatic spray     
+1: [ 1]repose              
+6: [ 1]displacement         [ 1]minor globe of invul [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 1]lightning shield     [ 1]mirror image        
+8: [ 1]mnemonic enhancer   
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): *-0 1-5 2-6 3-8 4-6 5-6 6-7 7-8 8-7 9-6
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37mdeep[0m
+You find yourself still too distracted to study properly.
+
+[32m[0;37m[31m164H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:2 Exits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.58% of your next rank.
+You are 20 years old.
+You have 264(1060) hit and 217(217) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 191,516,586 exp, and have 920701(988099100) steel coins.
+You need 28,483,414 more experience to advance.
+You have died 18 horrible deaths.
+You have been connected for 11 minute(s).
+You have been playing for 14 day(s), 12 hour(s) and 31 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are resting.
+You are flying.
+You are affected by the following:
+    mirror image (7 images)
+    lightning shield
+    antimagic shell
+    mnemonic enhancer
+    fireshield
+    steelskin
+    iceshield
+
+[32m[0;37m[33m[1m264H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37m[0m
+
+[32m[0;37m[33m[1m264H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37m[0m
+
+[32m[0;37m[33m[1m264H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> 
+A red emerald sphere hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m264H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[33m[1m384H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[33m[1m384H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> 
+A red emerald ovoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m524H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> 
+A red emerald sphere hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m684H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[33m[1m684H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mdefense[0m
+You utter the words, 'mnemonic enhancer'
+Your head throbs again, but only for a moment.
+
+[32m[0;37m[33m[1m684H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> [0;37mbuffs[0m
+[0;37mrest[0m
+You utter the words, 'antimagic shell'
+The air around you crackles as a translucent barrier envelops you.
+
+[32m[0;37m[33m[1m684H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> 
+You utter the words, 'spheres of absorption'
+You are surrounded by 3 shimmering spheres.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> 
+You utter the words, 'displacement'
+Your body loses focus and shudders for a brief moment.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> 
+You utter the words, 'lightning shield'
+A veil of electrical energies surround your entire body.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> 
+You utter the words, 'minor globe of invulnerability'
+A shining globe of force enfolds you.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> 
+You utter the words, 'mirror image'
+You are surrounded by 5 duplicate images.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+A red emerald ellipsoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+You can't remember how to cast that spell!
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+You utter the words, 'improved invisibility'
+You vanish.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+You can't remember how to cast that spell!
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+You can't remember how to cast that spell!
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (superior)          short blades  (superior)        
+
+     arcana        (superior)          concentration (superior)        
+     brew          (superior)          deep focus    (superior)        
+     scribe        (superior)        
+     spellcraft    (superior)        
+     bandage       (superior)          gift          (superior)        
+     conjure       (superior)          magical anchor (superior)        
+     temporal vision (superior)        
+     arcane barrier (superior)        
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37marcane[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37marcane[0m
+A pulsating green aura surrounds you.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mgift[0m
+The power of the red moon infuses your thoughts.
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mmem[0m
+Spells currently memorized:
+*: [ 6]nightmare            [ 5]prismatic spray     
+1: [ 7]magic missile        [ 1]repose              
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 1]improved invisibilit
+   [ 2]magic blast         
+5: [ 3]force bolt           [ 4]locate object        [ 1]mass invisibility   
+6: [ 3]chain lightning      [ 2]identify             [ 2]relocate            
+7: [ 3]force missile        [ 1]mass teleport       
+8: [ 2]clairvoyance         [ 3]shocking blast      
+9: [ 5]power word stun     
+
+Spells being memorized:
+4: [ 1]improved invisibilit
+6: [ 1]displacement         [ 1]minor globe of invul [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 1]lightning shield     [ 1]mirror image        
+8: [ 1]mnemonic enhancer   
+
+You estimate your studies will complete in 3 (game) hours.
+
+Spells left (level-number): *-0 1-5 2-6 3-8 4-6 5-6 6-7 7-8 8-7 9-6
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mmem 'men ac'[0m
+mental acuity: added to your list
+
+[32m[0;37m[33m[1m748H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mmem 'potency'[0m
+potency: added to your list
+
+[32m[0;37m[33m[1m790H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[33m[1m790H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37mdeep[0m
+You try to ignore everything around you and focus upon your studies.
+
+[32m[0;37m[33m[1m790H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.58% of your next rank.
+You are 20 years old.
+You have 790(1060) hit and 217(217) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 191,516,586 exp, and have 920701(988099100) steel coins.
+You need 28,483,414 more experience to advance.
+You have died 18 horrible deaths.
+You have been connected for 16 minute(s).
+You have been playing for 14 day(s), 12 hour(s) and 36 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are resting.
+You are flying.
+You are affected by the following:
+    deep focus
+    gift: Lunitari
+    arcane barrier
+    improved invisibility
+    mirror image (5 images)
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    mnemonic enhancer
+    fireshield
+    steelskin
+    iceshield
+
+[32m[0;37m[33m[1m790H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> 
+[37mYour clanmate Sertol has left the game.
+[0;37m[37mYour clanmate Seqi has left the game.
+[0;37m
+[32m[0;37m[33m[1m790H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> 
+Your studies complete, you close your spellbook with a smile.
+The freezing mist surrounding you disappears.
+
+[32m[0;37m[33m[1m857H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> 
+A red emerald spindle hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m857H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> 
+[36mWith one last pulse your barrier of green energy disappears.[0m
+
+[32m[0;37m[32m937H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> [0;37marcane[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m937H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [Pos:resting] [0;37mExits:NS> [0;37msta[0m
+You stop studying and stand up.
+
+[32m[0;37m[32m937H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37marcane[0m
+Alas, you are not ready yet.
+
+[32m[0;37m[32m937H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37ml[0m
+[36mBefore the Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[32m937H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.58% of your next rank.
+You are 20 years old.
+You have 979(1060) hit and 217(217) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 191,516,586 exp, and have 920701(988099100) steel coins.
+You need 28,483,414 more experience to advance.
+You have died 18 horrible deaths.
+You have been connected for 20 minute(s).
+You have been playing for 14 day(s), 12 hour(s) and 40 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are flying.
+You are affected by the following:
+    gift: Lunitari
+    improved invisibility
+    mirror image (5 images)
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    mnemonic enhancer
+    fireshield
+    steelskin
+
+[32m[0;37m[32m979H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+Your flaming robe dissolves away.
+
+[32m[0;37m[32m1021H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mwho[0m
+[0;37m[37mImmortals
+---------
+[1m[37m[Ovs  35]  Kholos[0;37m[34m
+[1m[37m[Imp  36]  Kam will kill you all.[0;37m[34m
+
+[0;37m[36mMortals
+-------
+[1m[36m<MYTH> Arakith, the Aquamaniac[0;37m[36m
+[1m[36m<MYTH> Halmos the Number Theorist, Computational Mythematician[0;37m[36m
+[1m[36m<THC>  Shamuel Adams, Drunkard of The High Council[0;37m[36m
+
+[32m[1mTotal visible people : 5        Total people online  : 5
+[0;37m
+[32m[0;37m[32m1021H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37ml[0m
+[36mBefore the Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[32m1021H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+A red emerald sphere hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m1021H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+A red emerald sphere hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+[36mYou feel yourself exposed.[0m
+[37mYour clanmate Arakith has left the game.
+[0;37m
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> 
+[37mYour clanmate Seqi has entered the game.
+[0;37m
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37m[0m
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.58% of your next rank.
+You are 20 years old.
+You have 1060(1060) hit and 217(217) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 191,516,586 exp, and have 920701(988099100) steel coins.
+You need 28,483,414 more experience to advance.
+You have died 18 horrible deaths.
+You have been connected for 23 minute(s).
+You have been playing for 14 day(s), 12 hour(s) and 42 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are flying.
+You are affected by the following:
+    gift: Lunitari
+    mirror image (5 images)
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    mnemonic enhancer
+    steelskin
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37min[0m
+You are carrying:
+a shirt of black scalemail
+a waterskin
+a small leather bag
+a map of Solace
+a loaf of bread [2]
+a hooded lantern
+a glowing scroll of recall..it glows blue..it glows dimly [4]
+a complimentary stable note
+a curved onyx knife
+an acid-etched steel dagger..it glows blue
+a steel dragonarmy sword [2]
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mdrop shirt[0m
+You drop a shirt of black scalemail.
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mdrop bag[0m
+You drop a small leather bag.
+A small leather bag disintegrates.
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mdrop map[0m
+You drop a map of Solace.
+A map of Solace disintegrates.
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mdrop all.loaf[0m
+You drop a loaf of bread.
+A loaf of bread disintegrates.
+You drop a loaf of bread.
+A loaf of bread disintegrates.
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mdrop lantern[0m
+You drop a hooded lantern.
+A hooded lantern disintegrates.
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mdrop note[0m
+You drop a complimentary stable note.
+A complimentary stable note disintegrates.
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37ml[0m
+[36mBefore the Audience Chamber[0;37m
+[33m[1mA heavy shirt of black scalemail lies here.
+[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37min[0m
+You are carrying:
+a waterskin
+a glowing scroll of recall..it glows blue..it glows dimly [4]
+a curved onyx knife
+an acid-etched steel dagger..it glows blue
+a steel dragonarmy sword [2]
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mdrop waterskin[0m
+You drop a waterskin.
+A waterskin disintegrates.
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37ml[0m
+[36mBefore the Audience Chamber[0;37m
+[33m[1mA heavy shirt of black scalemail lies here.
+[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37mwho[0m
+[0;37m[37mImmortals
+---------
+[1m[37m[Imp  36]  Kam will kill you all.[0;37m[34m
+[1m[37m[Ovs  35]  Kholos[0;37m[34m
+
+[0;37m[36mMortals
+-------
+[1m[36m<MYTH> Halmos the Number Theorist, Computational Mythematician[0;37m[36m
+[1m[36m<MYTH> Doctor Seqi Bok'Vol[0;37m[36m
+[1m[36m<THC>  Shamuel Adams, Drunkard of The High Council[0;37m[36m
+
+[32m[1mTotal visible people : 5        Total people online  : 5
+[0;37m
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37msc[0m
+You are Halmos the Number Theorist, Computational Mythematician, a level 30 Legendary Red Robe.
+You have reincarnated 1 time.
+You are casting at level 30.
+You are a Clansman in MYTH.
+You are rank 101. You have completed 36.58% of your next rank.
+You are 20 years old.
+You have 1060(1060) hit and 217(217) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 191,516,586 exp, and have 920701(988099100) steel coins.
+You need 28,483,414 more experience to advance.
+You have died 18 horrible deaths.
+You have been connected for 23 minute(s).
+You have been playing for 14 day(s), 12 hour(s) and 43 minute(s).
+Your natural ability scores are:
+	Str: 12 Int: 28 Wis: 28 Dex: 19 Con: 12 Cha: 15
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    gift: Lunitari
+    mirror image (5 images)
+    minor globe of invulnerability
+    lightning shield
+    displacement
+    spheres of absorption (3 spheres)
+    antimagic shell
+    mnemonic enhancer
+    steelskin
+
+[32m[0;37m[32m1060H [0;37m[32m217V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:NS> [0;37ms[0m
+[36mThe Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mA member of the Thane's Personal Guard stands near the Thane. (white aura)
+A member of the Thane's Personal Guard stands near the Thane. (white aura)
+The Thane of New Palanthas stands over a half-moon table. (white aura)
+[0;37m
+[32m[0;37m[32m1060H [0;37m[32m216V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:N> 
+A red emerald teardrop hums softly as it morphs into a different shape.
+
+[32m[0;37m[32m1060H [0;37m[32m216V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mExits:N> [0;37mstun[0m
+You utter the words, 'power word stun'
+Hartigan, the Thane's Personal Guard is stunned!
+Grahm, the Thane's Personal Guard is stunned momentarily, recovering quickly.
+Loras Falstaff, Thane of New Palanthas is stunned!
+
+[32m[0;37m[32m1060H [0;37m[32m216V [0;37m28483414X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [Grahm, the Thane's Personal Guard:[0;37m[32mPerfect[0;37m] [0;37mMem:2 Exits:N> [0;37mflee[0m
+
+You bludgeon Grahm, the Thane's Personal Guard.
+Grahm, the Thane's Personal Guard misses you and destroys an image.
+
+[32m[0;37m[32m1060H [0;37m[32m216V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [Grahm, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:2 Exits:N> 
+PANIC! You couldn't escape!
+
+[32m[0;37m[32m1060H [0;37m[32m216V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mPerfect[0;37m] [Grahm, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:2 Exits:N> [0;37mflee[0m
+You flee head over heels.
+[36mBefore the Audience Chamber[0;37m
+[33m[1mA heavy shirt of black scalemail lies here.
+[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[32m1060H [0;37m[32m215V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> [0;37mscan[0m
+Looking north:
+The central stair lies back north.
+Looking east:
+The wall to the east is a bit discolored.
+Looking south:
+Beyond the doors lies the audience chamber proper.
+[31m[1mHartigan, the Thane's Personal Guard is sitting here.
+A member of the Thane's Personal Guard stands near the Thane. (white aura)
+Loras Falstaff, Thane of New Palanthas is sitting here.
+[0;37mLooking west:
+The wall to the west is a bit discolored.
+Looking up:
+The ceiling is vaulted and rises high above.
+Looking down:
+The red carpet continues to cover the floor in this room.
+
+[32m[0;37m[32m1060H [0;37m[32m215V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> [0;37msca[0m
+Looking north:
+The central stair lies back north.
+Looking east:
+The wall to the east is a bit discolored.
+Looking south:
+Beyond the doors lies the audience chamber proper.
+[31m[1mHartigan, the Thane's Personal Guard is sitting here.
+A member of the Thane's Personal Guard stands near the Thane. (white aura)
+Loras Falstaff, Thane of New Palanthas is sitting here.
+[0;37mLooking west:
+The wall to the west is a bit discolored.
+Looking up:
+The ceiling is vaulted and rises high above.
+Looking down:
+The red carpet continues to cover the floor in this room.
+
+[32m[0;37m[32m1060H [0;37m[32m215V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> [0;37msca[0m
+Looking north:
+The central stair lies back north.
+Looking east:
+The wall to the east is a bit discolored.
+Looking south:
+Beyond the doors lies the audience chamber proper.
+[31m[1mHartigan, the Thane's Personal Guard is sitting here.
+A member of the Thane's Personal Guard stands near the Thane. (white aura)
+The Thane of New Palanthas stands over a half-moon table. (white aura)
+[0;37mLooking west:
+The wall to the west is a bit discolored.
+Looking up:
+The ceiling is vaulted and rises high above.
+Looking down:
+The red carpet continues to cover the floor in this room.
+
+[32m[0;37m[32m1060H [0;37m[32m215V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> [0;37ms;stun[0m
+The electrical energies shielding you disappear.
+[36mThe Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mA member of the Thane's Personal Guard stands near the Thane. (white aura)
+A member of the Thane's Personal Guard stands near the Thane. (white aura)
+The Thane of New Palanthas stands over a half-moon table. (white aura)
+[0;37mHartigan, the Thane's Personal Guard tries to kick you but he misses and destroys an image instead.
+Grahm, the Thane's Personal Guard misses you and destroys an image.
+After briefly disappearing, your mirror image pops back into view.
+Loras Falstaff, Thane of New Palanthas gives you a solid punch in the face.
+
+[32m[0;37m[32m1048H [0;37m[32m216V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mPerfect[0;37m] [0;37mMem:1 Exits:N> 
+You utter the words, 'power word stun'
+Hartigan, the Thane's Personal Guard is stunned!
+Grahm, the Thane's Personal Guard is stunned!
+Loras Falstaff, Thane of New Palanthas is stunned momentarily, recovering quickly.
+
+[32m[0;37m[32m1048H [0;37m[32m216V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mPerfect[0;37m] [0;37mMem:1 Exits:N> [0;37mstun[0m
+
+Loras Falstaff, Thane of New Palanthas hits YOU hard.
+
+[32m[0;37m[32m1037H [0;37m[32m216V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mPerfect[0;37m] [0;37mMem:1 Exits:N> 
+You utter the words, 'power word stun'
+Hartigan, the Thane's Personal Guard is stunned!
+Grahm, the Thane's Personal Guard is stunned!
+Loras Falstaff, Thane of New Palanthas is stunned!
+
+[32m[0;37m[32m1037H [0;37m[32m216V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mPerfect[0;37m] [0;37mMem:2 Exits:N> [0;37mflee[0m
+You flee head over heels.
+[36mBefore the Audience Chamber[0;37m
+[33m[1mA heavy shirt of black scalemail lies here.
+[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[32m1037H [0;37m[32m215V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:NS> [0;37ms;cast 'nightmare'[0m
+[36mThe Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mHartigan, the Thane's Personal Guard is sitting here.
+Grahm, the Thane's Personal Guard is sitting here.
+Loras Falstaff, Thane of New Palanthas is sitting here.
+[0;37m
+[32m[0;37m[32m1037H [0;37m[32m214V [0;37m28483245X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:2 Exits:N> 
+You utter the words, 'nightmare'
+You unleash the world of nightmares upon your enemies.
+Hartigan, the Thane's Personal Guard's eyes widen and jaw drops as you invade his mind with terror.
+Grahm, the Thane's Personal Guard's eyes widen and jaw drops as you invade his mind with terror.
+Loras Falstaff, Thane of New Palanthas's eyes widen and jaw drops as you invade his mind with terror.
+
+[32m[0;37m[32m1037H [0;37m[32m214V [0;37m28482161X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[32mV.Good[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> 
+You barely bludgeon Hartigan, the Thane's Personal Guard.
+Loras Falstaff shouts, 'Archers, shoot down my assailants!'
+At the command heavy bolts rain down from the nooks and crannies
+of the ceiling piercing your body.
+The heavy bolts force you to the ground as you gush blood.
+
+[32m[0;37m[33m[1m847H [0;37m[32m214V [0;37m28482161X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> [0;37mcast 'nightmare'[0m
+
+You bludgeon Hartigan, the Thane's Personal Guard hard.
+
+[32m[0;37m[33m[1m847H [0;37m[32m214V [0;37m28482161X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> [0;37mcancel[0m
+Cancelled 1 queued command.
+
+[32m[0;37m[33m[1m847H [0;37m[32m214V [0;37m28482161X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> [0;37msta[0m
+
+Loras Falstaff, Thane of New Palanthas hits YOU hard.
+Loras Falstaff, Thane of New Palanthas hits YOU hard.
+You bludgeon Hartigan, the Thane's Personal Guard very hard.
+
+[32m[0;37m[33m[1m822H [0;37m[32m214V [0;37m28482161X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> [0;37mflee[0m
+[0;37mflee[0m
+
+-#-#-#-#-#-#-#-> Loras Falstaff, Thane of New Palanthas <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[33m[1m822H [0;37m[32m214V [0;37m28482161X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> 
+You stand up.
+
+[32m[0;37m[33m[1m822H [0;37m[32m214V [0;37m28482161X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Hartigan, the Thane's Personal Guard:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> 
+You flee head over heels.
+[36mBefore the Audience Chamber[0;37m
+[33m[1mA heavy shirt of black scalemail lies here.
+[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[33m[1m822H [0;37m[32m213V [0;37m28482161X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+You're not fighting, why bother fleeing?
+
+[32m[0;37m[33m[1m822H [0;37m[32m213V [0;37m28482161X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> 
+A red emerald ovoid hums softly as it morphs into a different shape.
+
+[32m[0;37m[33m[1m822H [0;37m[32m213V [0;37m28482161X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37ms;stun[0m
+[36mThe Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mHartigan, the Thane's Personal Guard is sitting here.
+Grahm, the Thane's Personal Guard is sitting here.
+The Thane of New Palanthas stands over a half-moon table. (white aura)
+[0;37mLoras Falstaff, Thane of New Palanthas tries to sweep your legs, but you avoid the attack.
+
+[32m[0;37m[33m[1m822H [0;37m[32m212V [0;37m28482161X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> 
+Loras Falstaff, Thane of New Palanthas hits YOU hard.
+You bludgeon Loras Falstaff, Thane of New Palanthas.
+Your casting is disrupted by the fighting!
+
+[32m[0;37m[33m[1m811H [0;37m[32m212V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> [0;37mstun[0m
+You utter the words, 'power word stun'
+Hartigan, the Thane's Personal Guard is stunned!
+Grahm, the Thane's Personal Guard is stunned momentarily, recovering quickly.
+Loras Falstaff, Thane of New Palanthas is stunned!
+
+[32m[0;37m[33m[1m811H [0;37m[32m212V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:4 Exits:N> [0;37mflee[0m
+You flee head over heels.
+[36mBefore the Audience Chamber[0;37m
+[33m[1mA heavy shirt of black scalemail lies here.
+[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[33m[1m811H [0;37m[32m211V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> [0;37ms;cast 'blastwave'[0m
+[36mThe Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mHartigan, the Thane's Personal Guard is sitting here.
+Grahm, the Thane's Personal Guard is sitting here.
+Loras Falstaff, Thane of New Palanthas is sitting here.
+[0;37m
+[32m[0;37m[33m[1m811H [0;37m[32m210V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:N> 
+You can't remember how to cast that spell!
+
+[32m[0;37m[33m[1m811H [0;37m[32m210V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:N> [0;37mn[0m
+[36mBefore the Audience Chamber[0;37m
+[33m[1mA heavy shirt of black scalemail lies here.
+[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[33m[1m811H [0;37m[32m209V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> [0;37mmem[0m
+Spells currently memorized:
+*: [ 5]nightmare            [ 5]prismatic spray     
+1: [ 7]magic missile        [ 1]repose              
+2: [ 2]continual light      [ 1]detect invisibility  [ 3]shocking grasp      
+   [ 1]strength            
+3: [ 1]fly                  [ 4]lightning bolt      
+4: [ 1]free action          [ 2]haste                [ 2]improved invisibilit
+   [ 2]magic blast         
+5: [ 3]force bolt           [ 4]locate object        [ 1]mass invisibility   
+   [ 1]mental acuity       
+6: [ 3]chain lightning      [ 1]displacement         [ 2]identify            
+   [ 1]minor globe of invul [ 1]potency              [ 2]relocate            
+   [ 1]spheres of absorptio
+7: [ 1]antimagic shell      [ 3]force missile        [ 1]lightning shield    
+   [ 1]mass teleport        [ 1]mirror image        
+8: [ 2]clairvoyance         [ 1]mnemonic enhancer    [ 3]shocking blast      
+
+Spells being memorized:
+*: [ 1]nightmare           
+9: [ 5]power word stun     
+
+You estimate your studies will complete in 4 (game) hours.
+
+Spells left (level-number): *-0 1-5 2-6 3-8 4-6 5-5 6-6 7-8 8-7 9-6
+
+[32m[0;37m[33m[1m811H [0;37m[32m209V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:4 Exits:NS> [0;37ms[0m
+[36mThe Audience Chamber[0;37m
+[33m[1m[0;37m[31m[1mHartigan, the Thane's Personal Guard is sitting here.
+Grahm, the Thane's Personal Guard is sitting here.
+Loras Falstaff, Thane of New Palanthas is sitting here.
+[0;37m-#-#-#-#-#-#-#-> Hartigan, the Thane's Personal Guard <-#-#-#-#-#-#-#-  stands up.
+-#-#-#-#-#-#-#-> Grahm, the Thane's Personal Guard <-#-#-#-#-#-#-#-  stands up.
+-#-#-#-#-#-#-#-> Loras Falstaff, Thane of New Palanthas <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[33m[1m853H [0;37m[32m216V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:N> 
+Loras Falstaff, Thane of New Palanthas gives you a solid punch in the face.
+
+[32m[0;37m[33m[1m844H [0;37m[32m216V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mPerfect[0;37m] [0;37mMem:3 Exits:N> 
+Grahm, the Thane's Personal Guard gives you a solid punch in the face.
+
+[32m[0;37m[33m[1m835H [0;37m[32m216V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mPerfect[0;37m] [0;37mMem:3 Exits:N> 
+Hartigan, the Thane's Personal Guard tries to kick you but he misses and destroys an image instead.
+
+[32m[0;37m[33m[1m835H [0;37m[32m216V [0;37m28481950X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mPerfect[0;37m] [0;37mMem:3 Exits:N> [0;37mcast 'nightmare'[0m
+You utter the words, 'nightmare'
+You unleash the world of nightmares upon your enemies.
+Hartigan, the Thane's Personal Guard's eyes widen and jaw drops as you invade his mind with terror.
+Hartigan, the Thane's Personal Guard succumbs to the nightmare and falls into a deep, dark sleep.
+Grahm, the Thane's Personal Guard's eyes widen and jaw drops as you invade his mind with terror.
+Loras Falstaff, Thane of New Palanthas's eyes widen and jaw drops as you invade his mind with terror.
+Loras Falstaff, Thane of New Palanthas succumbs to the nightmare and falls into a deep, dark sleep.
+
+[32m[0;37m[33m[1m835H [0;37m[32m216V [0;37m28480682X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> 
+Grahm, the Thane's Personal Guard bruises YOU with his slash.
+Grahm, the Thane's Personal Guard bruises YOU with his slash.
+
+[32m[0;37m[33m[1m829H [0;37m[32m216V [0;37m28480682X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[33m[1mGood[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> [0;37mcast 'nightmare'[0m
+
+Grahm, the Thane's Personal Guard misses you and destroys an image.
+You bludgeon Loras Falstaff, Thane of New Palanthas very hard.
+Loras Falstaff shouts, 'Archers, shoot down my assailants!'
+At the command heavy bolts rain down from the nooks and crannies
+of the ceiling piercing your body.
+[33m[1mThat Really did HURT!
+[0;37mThe heavy bolts force you to the ground as you gush blood.
+
+[32m[0;37m[33m[1m523H [0;37m[32m216V [0;37m28480682X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> 
+You feel ribs crack as you are kicked in the chest by Grahm, the Thane's Personal Guard.
+
+[32m[0;37m[33m[1m514H [0;37m[32m216V [0;37m28480682X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> [0;37mcancel[0m
+Cancelled 1 queued command.
+
+[32m[0;37m[33m[1m514H [0;37m[32m216V [0;37m28480682X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> [0;37mflee[0m
+
+Grahm, the Thane's Personal Guard misses you and destroys an image.
+After briefly disappearing, your mirror image pops back into view.
+Grahm, the Thane's Personal Guard bruises YOU with his slash.
+You bludgeon Loras Falstaff, Thane of New Palanthas very hard.
+
+[32m[0;37m[33m[1m511H [0;37m[32m216V [0;37m28480682X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> 
+Grahm, the Thane's Personal Guard kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+[32m[0;37m[33m[1m505H [0;37m[32m216V [0;37m28480682X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[33m[1mBad[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mV.Good[0;37m] [0;37mMem:3 Exits:N> 
+Grahm, the Thane's Personal Guard barely slashes YOU.
+Grahm, the Thane's Personal Guard barely slashes YOU.
+You should probably stand up!
+You bludgeon Loras Falstaff, Thane of New Palanthas extremely hard.
+Loras Falstaff shouts, 'Archers, shoot down my assailants!'
+At the command heavy bolts rain down from the nooks and crannies
+of the ceiling piercing your body.
+[33m[1mThat Really did HURT!
+[0;37m[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mThe heavy bolts force you to the ground as you gush blood.
+
+[32m[0;37m[31m175H [0;37m[32m216V [0;37m28480682X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> 
+Cancelled 1 queued command.
+
+[32m[0;37m[31m175H [0;37m[32m216V [0;37m28480682X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> [0;37mflee[0m
+[0;37mflee[0m
+
+Hartigan, the Thane's Personal Guard misses you and destroys an image.
+The images around you fade out of existence.
+Hartigan, the Thane's Personal Guard slashes YOU.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard barely slashes YOU.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard slashes YOU.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mLoras Falstaff, Thane of New Palanthas hits YOU hard.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mLoras Falstaff, Thane of New Palanthas hits YOU hard.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mYou bludgeon Loras Falstaff, Thane of New Palanthas hard.
+
+[32m[0;37m[31m126H [0;37m[32m216V [0;37m28480366X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> 
+-#-#-#-#-#-#-#-> Loras Falstaff, Thane of New Palanthas <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[31m126H [0;37m[32m216V [0;37m28480366X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> 
+Grahm, the Thane's Personal Guard kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37m
+[32m[0;37m[31m118H [0;37m[32m216V [0;37m28480366X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> 
+-#-#-#-#-#-#-#-> Hartigan, the Thane's Personal Guard <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[31m118H [0;37m[32m216V [0;37m28480366X 36.58% 920701C [31m[Pos:sitting][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> [0;37msta[0m
+[0;37mflee[0m
+Hartigan, the Thane's Personal Guard barely slashes YOU.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mHartigan, the Thane's Personal Guard slashes YOU.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mGrahm, the Thane's Personal Guard misses you with his slash.
+Grahm, the Thane's Personal Guard slashes YOU.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mLoras Falstaff, Thane of New Palanthas hits YOU extremely hard.
+[33m[1mYou wish your wounds would stop BLEEDING so much!
+[0;37mYou should probably stand up!
+You bludgeon Loras Falstaff, Thane of New Palanthas.
+You stand up.
+
+[32m[0;37m[31m78H [0;37m[32m216V [0;37m28480129X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> 
+Cancelled 4 queued commands.
+
+[32m[0;37m[31m78H [0;37m[32m216V [0;37m28480129X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> 
+You are already standing.
+
+[32m[0;37m[31m78H [0;37m[32m216V [0;37m28480129X 36.58% 920701C [32m[Pos:standing][0m[0;37m [Halmos:[0;37m[31mAwful[0;37m] [Loras Falstaff, Thane of New Palanthas:[0;37m[32mGood[0;37m] [0;37mMem:3 Exits:N> [0;37mflee[0m
+You flee head over heels.
+[36mBefore the Audience Chamber[0;37m
+[33m[1mA heavy shirt of black scalemail lies here.
+[0;37m[31m[1mA member of the Thane's Knight Guard wanders the manor's top floor.
+[0;37m
+[32m[0;37m[31m78H [0;37m[32m215V [0;37m28480129X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:3 Exits:NS> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[31m78H [0;37m[32m215V [0;37m28480129X 36.58% 920701C [Pos:resting] [0;37mMem:2 Exits:NS> 
+[36mThe lunar glimmer fades from your eye.[0m
+You sense your minor globe weaken and fade away.
+You shudder briefly before losing your displacement powers.
+
+[32m[0;37m[31m178H [0;37m[32m217V [0;37m28480129X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> 
+A red emerald spindle hums softly as it morphs into a different shape.
+
+[32m[0;37m[31m178H [0;37m[32m217V [0;37m28480129X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37m[0m
+
+[32m[0;37m[31m178H [0;37m[32m217V [0;37m28480129X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:NS> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[31m178H [0;37m[32m217V [0;37m28480129X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:NS> [0;37mn[0m
+[36mThe Top of the Central Stairs[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[31m178H [0;37m[32m216V [0;37m28480129X 36.58% 920701C [32m[Pos:standing][0m[0;37m [0;37mMem:1 Exits:ESWD> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[31m178H [0;37m[32m216V [0;37m28480129X 36.58% 920701C [Pos:resting] [0;37mMem:1 Exits:ESWD> [0;37m#log[0m
+[0m#SYNTAX: #LOG {APPEND|OVERWRITE|OFF} {<FILENAME>}[0m
+[0;37m#log off[0m
