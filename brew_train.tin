@@ -1,10 +1,4 @@
-#nop
-
-#action {You are hungry.} {cancel; stand; cast 'sat'; rest; brew 'sat';}
-#action {You feel especially skillful today.} {cancel;stand;cast 'ghost rit' shaman; learn all;rest;brew 'sat';}
-#action {You feel ready to brew again.} {brew 'sat'}
-
-#action {Drogon the bronze dragon transcends this world and enters another plane.} {b sta;b cast 'su mo';b rest}
-#action {Drogon the bronze dragon now follows Dany.} {banish drogon;}
-#action {You glare at Drogon the bronze dragon and clench your fist.} {banish drogon;}
-#action {Dany closes her prayerbook with a content look on her face.} {a cast 'regen' me;b sta;b cast 'su mo';b rest}
+#nop action {You feel ready to brew again.} {rest;brew 'cure light';}
+#action {You throw away your bloody bandages.} {sta; cast 'cause crit' me; rest; bandage me;}
+#action {You are hungry}  {eat bread}
+#action {You are thirsty} {drink water; drink water; drink water; rest;}

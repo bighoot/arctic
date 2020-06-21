@@ -1,0 +1,94 @@
+Id  Name                   Desc.                     Now Max | C     T  R
+1   Dimensional Step       Each purchase grants      0   2   | 3000  0  1
+                           your golem 1 charge of
+                           'riftwalk', allowing it
+                           to escape combat and
+                           reduce damage by
+                           becoming insubstantial.
+2   Conjured Nectar        Your golem can use        0   1   | 2000  0  1
+                           'welltap' to conjure a
+                           well of force filled
+                           with eggnog.
+3   Hearty Bounty          Your golem can use        0   1   | 2000  0  2
+                           'bounty' to conjure a
+                           delicious meal.
+    Requires  : Conjured Nectar        x1
+4   Brilliant Flareup      Your golem can use        0   1   | 1500  0  1
+                           'flare' to toggle a
+                           light over its head.
+5   Astral Glimpse         Your golem can 'scan' to  0   1   | 2000  0  2
+                           report targets it sees
+                           in adjacent rooms.
+6   Astral Search          Each purchase enhances    0   2   | 6000  0  3
+                           your golem's ability to
+                           'track' a target through
+                           the aether.
+    Requires  : Astral Glimpse         x1
+7   Field Distortion       Your golem can use        0   4   | 1500  0  1
+                           'distortion' to blur
+                           everything in the room.
+                           Additional purchases
+                           increase casting level.
+8   Directed Attacks       Your golem can use        0   1   | 4000  0  2
+                           'truestrike' to briefly
+                           boost allies' hit
+                           chance.
+9   Volatile Arcana        Your golem can use        0   1   | 6000  0  4
+                           'volatility' to briefly
+                           boost allies' spell
+                           damage.
+10  Metallic Flesh         Your golem can use        0   1   | 6000  0  4
+                           'ironskin' to briefly
+                           reduce melee damage
+                           taken by a single
+						   target.
+11  Bewildering Touch      Each purchase grants      0   2   | 3000  0  2
+                           your golem 1 charge of
+                           'bewilder', which may
+                           confuse a target.
+12  Bewildering Dementia   Adds a disorientation     0   1   | 3000  0  3
+                           effect to your golem's
+                           'bewilder' ability.
+    Requires  : Bewildering Touch      x2
+13  Static Cling           Your golem will           0   1   | 6000  0  3
+                           occasionally make its
+                           target vulnerable to
+                           electrical damage.
+14  Leadskin               Your golem will           0   1   | 7500  0  4
+                           occasionally make its
+                           target vulnerable to
+                           melee and heat damage.
+15  Quickwit Presence      Your golem radiates an    0   1   | 10000 0  7
+                           aura that sharpens
+                           allies' mental clarity.
+16  Flowing Limbs          Your golem radiates an    0   1   | 10000 0  7
+                           aura that increases
+                           allies' regeneration and
+                           affinity to watery
+                           surroundings.
+    Requires  : Quickwit Presence      x1
+17  Phase Variance         Your golem radiates an    0   1   | 10000 0  7
+                           aura that shifts allies'
+                           outlines and
+                           perceptions.
+    Requires  : Quickwit Presence      x1
+                Flowing Limbs          x1
+18  Auric Transmutation    Your golem can            0   1   | 10000 0  5
+                           'transmute' to briefly
+                           transform from lead to
+                           gold and bestow random
+                           affects on everything in
+                           the room each round.
+    Requires minimum rank of : 20
+19  Lubricated Joints      Increases your pet's      0   2   | 4000  0  2
+                           ability to resist
+                           paralytic attacks
+                           greatly.
+20  Acrid Resilience       Increases your pet's      0   2   | 4000  0  2
+                           ability to resist breath
+                           attacks greatly.
+21  Telepathic Link        Allows you to order your  0   1   | 5000  0  2
+                           pet when silenced.
+22  Gilded Eyes            Protects your pet from    0   1   | 8000  0  3
+                           blindness.
+

@@ -2,300 +2,183 @@
 
 #alias a #a %0
 #alias b #b %0
+#alias both {a %0; b %0;}
 
-#alias llll {get all %0.corpse; get all.coins; #delay 1 {a rest; a bandage me; a seance; b carve %0.corpse; b rest; b recuperate; b bandage me; b lore boots; b sharpen spear; b mend spear; b sta; a sta;}}
-#alias rrrrrr {camp; a rest; b rest; a bandage me; b bandage me; a hide; b hide;}
-#alias recover {a camp; a rest; a bandange me; b rest; b bandage me;}
+#nop ALONE MACROS
+#alias uu {up alone; #delay 1 {b up;}}
+#alias dd {down alone; #delay 1 {b down;}}
+#alias nn {north alone; #delay 1 {b north;}}
+#alias ee {east alone; #delay 1 {b east;}}
+#alias ww {west alone; #delay 1 {b west;}}
+#alias ss {south alone; #delay 1 {b south;}}
 
-#macro {`} {b cancel;b stand;b rescue halmos}
-
-
-#alias uu {fade up}
-#alias dd {fade down}
-#alias nn {fade north}
-#alias ee {fade east}
-#alias ww {fade west}
-#alias ss {fade south}
-
-#action {You feel up to using dart again.} {dart}
+#nop STAND TRIGGERS
 #action {You are sent sprawling} {cancel;stand;}
 #action {You should probably stand up!} {cancel;stand;}
 #action {You try to bash} {cancel;stand;}
 
+#nop HIGHLIGHTS
 #action {You receive %0 experience} {#b #showme <149>FOLLOWER GAINED XP: %0}
 #action {You raise a level} {#b #showme <149>FOLLOWER GAINED A LEVEL}
 #action {You gain a rank} {#b #showme <149>FOLLOWER GAINED A RANK}
 #action {You are hungry} {#b #showme <119>-->FOLLOWER HUNGRY<--}
 #action {You are thirsty} {#b #showme <119>-->FOLLOWER THIRSTY<--}
 #action {Your victim's tracks lead %0.} {#b #showme <119>-->TRACKS LEAD %0<--}
-
+#highlight {Your victim's tracks lead %*} {cyan}
 #action {Your wounds stop healing.} {#a #showme <159> *******>>> REGENERATION GONE <<<*******}
 #action {Your wounds stop healing.} {#b #showme <159> *******>>> REGENERATION GONE <<<*******}
 
-#action {%0 tells you %1} {#b #showme <149>PRIVATE MESSAGE FROM %0: %1}
-#action {%0 tells your clan %1} {#b #showme <149>CLAN MESSAGE FROM %0: %1}
-
-#highlight {Your victim's tracks lead %*} {cyan}
-
-#alias xxx2 {b kill %0; b order skag assist; b rally; b reckoning; b strike; b aven legs; assist; order velox assist dany;}
-#alias xxx {b strike %0; b skag griffon assist; assist; order velox assist; b rally; b reckoning; b strike;}
-
-#nop alias cl {a cast 'cure light' vali}
-#nop alias cs {a cast 'cure ser' vali}
-#nop alias cc {a cast 'cure crit' vali}
-#nop alias heal {a cast 'heal' vali}
-#nop alias regen {a cast 'regen' vali}
-#nop alias wave {a cast 'wave'}
-
-#nop alias bless {a cast 'bless' vali}
-#nop alias food {a cast 'create food'; a give bread vali; a eat bread;}
-#nop alias water {a drink all.water; b drink all.water;}
-#nop alias cur {a cast 'curse' %0;}
-#nop action {Baldr gives you a loaf of bread.} {eat bread}
-
-#alias cac {a cast 'cause crit' %0;}
-#alias cas {a cast 'cause ser' %0;}
-#alias hp {a cast 'hold person' %0;}
-#alias sil {a cast 'silence' %0;}
-#alias bli {a cast 'blind' %0;}
-#alias flame {a cast 'flamestrike' %0;}
-#alias sun {a cast 'sunbolt' %0;}
-#alias heal {a cast 'heal' %0;}
-#alias mist {a cast 'healing mist';}
-#alias prayer {a cast 'prayer';}
-#alias harm {a cast 'harm' %0;}
-#alias word {a cast 'w o r' %0;}
-
-#alias cl {a cast 'cure light' %0}
-#alias cs {a cast 'cure ser' %0}
-#alias cc {a cast 'cure crit' %0}
-
-#alias regen {a cast 'regen' %0}
-#alias wave {a cast 'healing wave'}
-#alias bb {a cast 'boiling blood'}
-#alias mm {a cast 'mon man'}
-#alias ds {a cast 'dark soul'}
-#alias rit {a cast 'rit voy' %0;}
-#alias rf {a cast 'rot fle' %0;}
-#alias amp {a cast 'amp spi';}
-
-#alias sg {a cast 'sp gui';}
-#alias as {a cast 'an sh' %0;}
-#alias ab {a cast 'an bl';}
-#alias sl {a cast 'so le' %0;}
-#alias oas {order all.spirit %0;}
-
-#alias buffs {a as me; a as arcas; a ab; a cast 'bo bl'; a cast 'dark soul';}
-
-#alias kpk {b kick low;b punch;b kick low;}
-#alias bash {b bash %0;}
-#alias ra {b resc arcas;}
-#alias rm {b cancel; b resc maui;}
-#alias rt {a cancel; a resc teline;}
-#alias rh {b cancel; b resc halmos;}
-#alias rr {b cancel; b resc roficent;}
-
-#alias rrrrrr {a rest; a bandage me; b camp; b rest; b bandage me;}
-#alias fffff {b kill %0; a kill %0; b thrash; b wildfire; b anger; a order all.spirit assist;}
-#alias fffff {b back %0; a kill %0; b throat; a drain;}
-#alias fffff {order hastam kill %0; b kill %0; b thrash; b wildfire; b anger;}
-#alias fffff {b kill %0; b anger; b thrash; b wildfire; #delay 1 {a order all.spirit kill %0; a kill %0;}}
-#alias fffff {b sip all.bottle; b kill %0; b heald; #delay 1 {a assist; a order cat assist ander; b gore;}}
-#alias fffff {b kill %0; b order skag kill %0; b reck; b strike; #delay 1 {a assist; a order all.spirit assist; b rally;}}
-#alias fffff {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; a order velox assist; b rally;}}
-#alias fffff {b kill %0; b anger; b wildfire; #delay 1 {a assist; a order velox assist; b thrash;}}
-#alias fffff {b assist; b kill %0; b order skag kill %0; b order skag assist; b reck; b strike; #delay 1 {a assist; order elemental assist; b rally;}}
-#alias fffff {b kill %0; b kick; #delay 1 {a assist; a order all.spirit assist;}}
-
-#alias fffff {a kill %0; a thrash; a anger; a wildfire; #delay 1 {b assist;}}
-#alias fffff {b bash %0; a assist; a order all.spirit assist;}
-
-#alias fffff {b sip all.bottle; b charge %0; b battle; b breach; b healdance; b healdance; b healdance; b gore; b assail; #delay 1 {a assist; a order all.spirit assist; a hex; a spook; a stupe;}}
-#alias fffff {b kill %0; b strike; b reck; #delay 1 {a order all.spirit assist dany; a assist; a hex; a spook; a stupe;} #delay 2 {b rally;}}
-
-#nop AETHER and DANY
-#alias fffff {b kill %0; #delay 1 {a assist dany; a wildfire; b reck; b order skag assist; b rally; b slam;}}
-
-#nop HALMOS and DANY
-#alias fffff {b kill %0; #delay 1 {a order murus assist Dany; a assist dany; b order skag assist; b rally;}}
-#alias loot {a get all.component %0.corpse; #delay 1 {b get all %0.corpse;}}
-#alias cure {b order drogon cast 'cure ser' %0; b cast 'cure ser' %0;}
-
-#nop RICHTER and ENKI
-#alias fffff {a kill %0; #delay 1 {b assist; b wildfire; b zap; b swarm;}}
-#alias recover {b camp; #delay 1 {a rest; a bandage me; a recuperate; b rest; b bandage me;}}
-#action {disarms your weapon.} {get hammer; wield hammer;}
-#alias afight {a breach; a battle; a assail; a gore; a charge;}
-
-#nop STYR and RICHTER
-#alias fight {a watch dany; b sip all.whiskey; b kill %0; b breach; b heald; #delay 1 {a order nereid assist dany;}}
-#alias recover {b rest; b bandage me; b recuperate; a rest; a commune; a bandage me;}
-#alias practice {b mend chest; b sharpen sword; b lore girdle;}
-#alias combat {b gore; b charge; b assail; b battle;}
-#alias llll {get all %0.corpse; get all.coins; #delay 1 {b carve %0.corpse;}}
-
-#nop STYR and DANY
-#alias fight {a watch dany; b kill %0; b slam; #delay 1 {a order eagle assist dany; b order skag assist; b rally;}}
-#alias loot {a get all.component %0.corpse; #delay 1 {b get all %0.corpse;}}
-#action {You are hungry.} {sta;cast 'sus' me;rest;}
-
-#nop AETHER (ARCHERY) and DANY
-#alias fight {b kill %0; #delay 1 {a watch dany; a aim %0; a shoot auto; a wildfire; b reck; b rally; b slam;}}
-#highlight {You %* plunk} {yellow}
-#highlight {You plunk %*} {yellow}
-#action {You feel up to using gather again.} {gather; put all.arrows quiver;}
-
-#nop MAUI and CILIX
-#alias fight {b assist sharg; assist sharg; order all.spirit assist sharg;}
-
-#nop EVIL BITCHES
-#alias fight {a kill %0; #delay 1 {b order wight assist tepe; b assist tepe;}}
-
-#nop MAUI and HALMOS
-#alias fight {b order murus kill %0; a order all.spirit kill %0; #delay 1 {a assist murus; order all.spirit assist;}}
-#nop fight {b order murus assist sharg; a order all.spirit assist sharg; #delay 1 {a assist sharg; b assist sharg;}}
-
-#NOOBS
-#alias fight {b env spear; b env sword; b back %0; #delay 1 {order wight assist yves; assist yves;}}
-#alias both {a %0; b %0;}
-
-#nop MAUI and RICHTER
-#alias fight {b sip all.bottle; b kill %0; b heald; b breach; b assist; #delay 1 {a order all.spirit assist richter; a assist;}}
-#alias combat {b charge; b gore; b assail; b battle;}
-#alias recover {b rest; b bandage me; b recuperate; a rest; a seance; a bandage me;}
-#alias practice {b mend chest; b sharpen 2.axe; b lore quartz;}
-
-#nop MAUI and AETHER
-#alias fight {b hover; b kill %0; b wildfire; #delay 2 {a order all.spirit assist aether; a assist;}}
-#nop fight {a kill %0; oas assist; #delay 2 {b aim %0; b shoot auto; b wildfire;}}
-#alias recover {b camp; b rest; b bandage me; b stand;}
-#alias {v} {b riposte slash;}
-#alias rss {b resc 1.spirit; b resc 2.spirit; b resc 3.spirit; b resc 4.spirit;}
-
-
-
-#nop MAUI and DANY
-#alias fight {b kill %0; b assist; #delay 1 {a order all.spirit assist dany; b rally; b slam; a assist;}}
-#alias combat {b rally; b reck; b aven legs; b strike; b slam;}
-
-#alias {rawr} {cast 'bo bl'; cast 'dark soul';}
-#alias {fullbuffs} {cast 'bo bl'; cast 'dark soul'; cast 'eth arm'; cast 'ten heart'; cast 'mon man'; cast 'ghostskin' me; cast 'an sh' me; cast 'an bl' me;}
-#alias {tankbuffs} {cast 'ghostskin' %0; cast 'an sh' %0; cast 'heal boost' %0;}
-
-
-
-#nop YVES
-#alias   fight {a watch yves; b env trident; b env sword; a kill %0; b assist; #delay 1 {a order all.spirit assist yves; #5 b unb;}}
-#alias   fight {a watch murus; b env trident; b env dagger; a order murus kill %0; a order murus assist; #delay 1 {b assist; #8 b unbalance;}}
-#alias   fight {a kill %0; a regen me; a order all.spirit assist; #delay 1 {b assist; #12 b unbalance;}}
-#alias   fight {a watch yves; b env trident; b env dagger; b back %0; #delay 1 {a order all.spirit assist yves; b throat; b coup; b bac;}}
-
-
-
-
-#alias food {a cast 'ghost ber'; a give berry richter; a eat berry;}
-
-#nop EVILS
-#alias   fight {b kill %0; #delay 1 {a order all.spirit assist grex; a assist grex; b disarm; kpk; b parry; b parry;}}
-#alias   fight {b kill %0; #delay 1 {a assist ynini; b sting; b zap;}}
-#alias   fight {b kill %0; #delay 1 {a assist ygritte;}}
-
-#alias fight {b kill %0; #delay 1 {a order Quincy assist Dany; a assist dany; b order drogon assist; b rally;}}
-#alias practice {a gift; a resid; a transfer quincy; a rest; a deep; a bandage me; a brew 'strength'; a scribe 'strength';}
-
-#alias   recover {b camp; both rest; b bandage me; a commune; a bandage me;}
-
-#alias fight {a watch usha; b kill %0; #delay 1 {a order Quincy assist Usha;}}
-#alias   fight {b env trident; b env crossbow; b back %0; b assist; #delay 1 {a order all.spirit assist yves; assist yves; b adrenaline; b retaliate;}}
-
-#alias fight {a watch roficent; b kill %0; b order quincy assist; b order quincy pounce; #delay 1 {a order all.spirit assist roficent; a order all.spirit assist quincy;}}
-
-#nop MAUI and DANY
-#alias fight {b kill %0; b assist; #delay 1 {a order all.spirit stand; a order all.spirit assist dany; b rally; b slam; a assist;}}
-#alias combat {b rally; b reck; b aven legs; b strike; b slam;}
-
-#nop MAUI and ARCAS
-#alias fight {b kill %0; b anger; b freeze %0; b wildfire; #delay 1 {a order all.spirit assist arcas; a assist arcas;}}
-
-
-
-#nop Vidar and Forseti
-#alias fight {a kill %0; a reck; #delay 1 {b assist; b order quincy assist; a order griffon assist;}}
-#alias fight {a kill %0; a reck; b wildfire; #delay 1 {b assist; b bite; b swarm; a order griffon assist; a rally;}}
-
-
-
-#nop STYR and VIDAR
-#alias fight {b kill %0; b reck; #delay 1 {a order rat assist vidar; a assist vidar; b order eagle assist; b rally;}}
-
-#alias fight {b kill %0; b wildfire; b bite; b swarm; #delay 1 {a assist forseti; a order eagle assist forseti;}}
-#alias fight {b kill %0; b reck; #delay 1 {a assist dany; a order nereid assist; b rally; b slam; b aven legs;}}
-#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire maui; a assist; a order all.spirit assist; b thrust; a hex; b impair; b drain;}}
-#alias fight {b kill %0; #delay 1 {a assist dany; a order ohm assist; b rally; b slam; b aven legs; a gaze; a inspire dany;}}
-#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire ohm; a assist; a order all.spirit assist; b disarm; b impair; b thrust; b drain;}}
-
-
-#alias buffs {b cast 'bless' me; b cast 'bless' styr; b cast 'a o g'; b cast 'holy arms'; b cast 'crusade';}
-#alias buffs {b cast 'unholy might'; b cast 'cloak of shadow'; a cast 'ghostskin' bern; a cast 'an sh' bern; a cast 'heal boost' bern; a cast 'ten heart'; a cast 'dark soul'; b cast 'un au'; b cast 'bless' me; b cast 'bless' maui; a cast 'eth arm'; b cast 'aid' me; b cast 'unholy wrath';}
-
-#nop BALDR and RICHTER
-#alias fight {b sip all.whiskey; b kill %0; b ward; b breach; b assist; #delay 1 {a order all.corpse assist richter; a assist;}}
-#alias combat {b charge; b gore; b assail; b battle;}
-#alias recover {b rest; b bandage me; b recuperate; a rest; a meditate; a bandage me; b sharpen sword; b lore sword;}
-#alias practice {b mend chest; b sharpen sword; b lore sword;}
-#substitute {Richter charges into the breach, sounding a great yell.} {<159> *******>>> RICHTER INTO THE BREACH <<<*******}
-#substitute {Richter yells a battle cry and fights like a madman!} {<159> *******>>> RICHTER WARDANCING <<<*******}
-b #action {Your rush into the breach reaches its end.} {a #showme <159> *******>>> RICHTER OUT OF THE BREACH <<<*******}
-b #action {You calm down.} {a #showme <159> *******>>> RICHTER NOT DANCING <<<*******}
-b #action {You can't find the courage to dive into the breach.} {a #showme <159> *******>>> RICHTER OUT OF THE BREACH <<<*******}
-
-#nop MAUI and DANY
-#alias fight {b kill %0; b assist; #delay 1 {a order all.spirit stand; a order all.spirit assist dany; b rally; b slam; a assist;}}
-#alias combat {b rally; b reck; b aven legs; b strike; b slam;}
-
-
-#alias fight {b kill %0; #delay 1 {b order ohm assist; b gaze; b inspire ohm; a assist; a order all.spirit assist; b disarm; b impair; b thrust; b drain;}}
-
-#nop MAUI and RICHTER
-#alias fight {b sip all.firebreather; b kill %0; b ward; b breach; b assist; #delay 1 {a order all.spirit assist richter;}}
-#alias buffs {a cast 'ghostskin' richter; a cast 'an sh' richter; a cast 'heal boost' richter; a cast 'ten heart'; a cast 'dark soul'; a cast 'eth arm';}
+#nop COMBAT MESSAGING
 #substitute {You calm down.} {<159> *******>>> FRENZY OVER <<<*******}
 #substitute {A red mist blurs your vision and you let out a mighty yell!} {<159> *******>>> FRENZY STARTED <<<*******}
 #substitute {Your connection to the dead breaks.} {<159> *******>>> SEANCE BROKEN <<<*******}
-#substitute {Everything becomes clear as you prepare to cast.} {<159> *******>>> SEANCE CONTINUES <<<*******}
+#substitute {Everything becomes clear as you prepare to cast.} {<159> *******>>> BONUS CAST <<<*******}
 #substitute {Your spirits diminish in power, but remain.} {<159> *******>>> AMPLIFY SPIRITS GONE <<<*******}
-#alias rm {b cancel; b resc maui;}
-#alias combat {b charge; b gore; b assail; b battle;}
-#alias recover {b rest; b bandage me; b recuperate; a rest; a meditate; a bandage me; b sharpen sword; b lore sword;}
-#alias practice {b mend chest; b sharpen sword; b lore sword;}
 #substitute {Richter charges into the breach, sounding a great yell.} {<159> *******>>> RICHTER INTO THE BREACH <<<*******}
 #substitute {Richter yells a battle cry and fights like a madman!} {<159> *******>>> RICHTER WARDANCING <<<*******}
+#substitute {Richter appears to get happy for a second.} {<159> *******>>> RICHTER NOT HEALDANCING <<<*******}
+#substitute {Richter yells a cry of joy and fights like a drunken sailor!} {<159> *******>>> RICHTER HEALDANCING <<<*******}
+#substitute {With a yawp from the gut, Aether unleashes a flurry of attacks.} {<159> *******>>> FUGGIN' SCOUT NUKES <<<*******}
 b #action {Your rush into the breach reaches its end.} {a #showme <159> *******>>> RICHTER OUT OF THE BREACH <<<*******}
 b #action {You calm down.} {a #showme <159> *******>>> RICHTER NOT DANCING <<<*******}
 b #action {You can't find the courage to dive into the breach.} {a #showme <159> *******>>> RICHTER OUT OF THE BREACH <<<*******}
+b #action {Your deep calm fades.} {a #showme <159> *******>>> REPOSE IS GONE <<<*******}
+b #action {Your divine blessing subsides.} {a #showme <159> *******>>> CRUSADE IS GONE <<<*******}
+b #action {You feel less powerful.} {a #showme <159> *******>>> HOLY ARMS IS GONE <<<*******}
+b #action {You feel less protected.} {a #showme <159> *******>>> P-F-E IS GONE <<<*******}
+b #action {Your sense of indignation weakens and fades.} {a #showme <159> *******>>> RIGHTEOUS INDIGNATION GONE <<<*******}
+b #action {Through the darkness, you find a connection to the will of the righteous again.} {a #showme <149>READY FOR RIGHTEOUS WILL}
+b #action {You can focus again on your prayers.} {a #showme <149>READY FOR DIVINE FOCUS}
+b #action {The radiance surrounding you fades away.} {a #showme <159> *******>>> A-O-G IS GONE <<<*******}
 
+#nop DOORS AND SUCH
+#nop alias doopen {open door %0; open doors %0; open gate %0; open gates %0; open panel %0; open panels %0; open bush %0; open bushes %0; open shrub %0; open shrubs %0; open grate %0; open grates %0; open hatch %0; open hatches %0; open tent %0; open tents %0; open flap %0; open flaps %0; open tarp %0; open tarps %0;} 
 
-#alias as {b cast 'arcane spear' %0;}
-#alias ig {b cast 'ignite' %0;}
-#alias sco {b cast 'scorch' %0;}
+#nop INTER-SESSION MESSAGES
+#action {%0 tells you %1} {#b #showme <149>PRIVATE MESSAGE FROM %0: %1}
+#action {%0 tells your clan %1} {#b #showme <149>CLAN MESSAGE FROM %0: %1}
 
-#action {The death cry of} {get all.coins corpse; get all.component corpse; put all.component chest; exa corpse;}
+#nop SPELL MACROS
+#alias gust {both cancel; both cast 'gust of wind';}
+#alias frac {a cast 'free action' %0;}
+#alias cl {a cast 'cure light' %0;}
+#alias cs {a cast 'cure ser' %0;}
+#alias cc {a cast 'cure crit' %0;}
+#alias heal {a cast 'heal' %0;}
+#alias mist {a cast 'healing mist';}
+#alias harm {a cast 'harm' %0;}
+#alias bli {a cast 'bli' %0;}
+#alias sil {a cast 'sil' %0;}
+#alias flame {a cast 'flamestrike' %0;}
+#alias sl {a cast 'so le' %0;}
+#alias sg {a cast 'sp gui';}
+#alias exo {a cast 'exorcism' %0;}
+#alias male {a cast 'cure male' %0;}
+#alias tent {a cast 'male tent';}
+#alias regen {a cast 'regen' %0;}
 
+#alias food {a get bowl chest; a eat bowl; a drink all.water;}
+#alias milky {get milky chest; quaff milky;}
 
+#alias loot {get all %0.corpse}
+#action {The death cry of} {b get all.arrow; b get all.arrows; get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;}
 
+#nop CHARMIE MACROS
+#alias oas {order all.spirit %0;}
+#alias oac {a order all.corpse %0;}
+#alias ham {a order all.spirit kill %0; b order all.corpse kill %0;}
 #alias bog {b order skag %0;}
-#alias steel {bog cast 'steelskin' dany;}
 #alias ogd {a order velox detonat;}
 #alias oc {order cat %0;}
 #alias og {order hastam %0;}
 #alias od {order skag %0;}
+#alias oh {a order harbinger %0;}
+#alias ot {b order turiel %0;}
 
-#alias ppppppp {rest; brew 'bless'; scribe 'bless'; rem armor; wear armor; bandage me; meditate;}
-#alias milky {get milky chest; quaff milky;}
-#alias rb {b cancel; b stand; b rescue baldr;}
+#nop RESCUE ME MACROS
+#alias ra {b cancel; b resc aina;}
+#alias rh {b cancel; b resc hestaby;}
+#alias rw {b cancel; b resc wosa;}
+#alias rd {b cancel; b resc dawner;}
+#alias rt {b cancel; b resc trinity;}
+#alias rb {b cancel; b rescue bmola;}
+#alias rz {b cancel; b resc zad;}
+	
+#alias setwb {
+	#alias fight {b kill %%0; b assist; #delay 1 {a assist; a order dwight assist; }};
+	#alias recover {a watch glasgian; b rest; b bandage me; a rest; a bandage me; a deep;};
+	} 	
+	
+#alias setbc {
+	#alias fight {b sip all.wine; b kill %%0; b assist; b heald; b breach; #delay 1 {a assist;}};
+	#alias recover {a watch richter; b rest; b bandage me; b recuperate; a rest; a bandage me; a meditate;};
+	#alias combat {b charge; b gore; b assail; b battle;};
+	}
+	
+#alias settd {
+	#alias fight {b env spear; b env 2.spear; b back %%0; b throat; #delay 1 {a assist; a order sylph assist; b assist;}};
+	#alias recover {a watch uriel; b rest; b bandage me; a rest; a bandage me; a commune;};
+	}
+	
+#alias setps {
+	#alias fight {b beseech kiri; b kill %%0; b assist; b order pegasus assist; #delay 1 {a assist; a order all.spirit assist;}};
+	#alias recover {a watch qem; b rest; b bandage me; a rest; a bandage me;};
+	#alias food {a cast 'sat' me; b cast 'su el'; b drink elixir;};
+	#alias buffs {a cast 'an sh' qem; a cast 'sp gu' me; b cast 'bless' me; b cast 'holy arms'; b cast 'crusade'; b cast 'aura of glory;};
+	#alias combat {a frenz; a hex; a spook; b reck; b rally; b aven legs;};
+	}
 
-#nop {claws YOU} {b south;}
-#nop {Dany comes to your rescue} {b flee; b flee; b flee;}
+#alias fight {beseech habbakuk; kill %0; order turiel ass; reck; rally; strike;}
+	
+#alias setpc {
+	#alias fight {b beseech habbakuk; b kill %%0; b assist; b order turiel assist; #delay 1 {a order all.corpse assist qem; a order harbinger assist qem; a watch qem;}};
+	#alias recover {a watch qem; b rest; b bandage me; a rest; a bandage me; a meditate; a brew 'cure light'; a scribe 'cure light';};
+	#alias food {a cast 'cr wa'; a cast 'cr fo'; a eat bread; b cast 'su el'; b drink elixir;};
+	#alias buffs {a cast 'aid' qem; a cast 'prayer'; a cast 'holy aura'; a cast 'steelskin' me; b cast 'crusade' me; b cast 'holy arms'; b cast 'aura of glory';};
+	#alias combat {a divinity; b reck; b rally; b aven legs; b strike; b strike;};
+	#alias docommand {b order turiel %%0; b %%0; a order harbinger %%0; a order all.corpse %%0; a %%0;}
+	}
+#alias settc {
+	#alias fight {b env tooth; b env whip; b back %%0; b throat;  b assist; #delay 1 {a order all.corpse assist kanye; a order harbinger assist kanye; a watch kanye; a rapture;}};
+	#alias recover {a watch kanye; b rest; b bandage me; a rest; a bandage me; a meditate;};
+	b #action {Hestaby gives you a strip of armaboro jerky.} {eat jerky;};
+	#alias food {a cast 'cr wa'; a get 2*jerky chest; a eat jerky; a give jerky arar; b drink all.water;};
+	#alias combat {a divinity; a amel;};
+	#alias buffs {a cast 'aid' arar; a cast 'prayer';};
+	#alias docommand {b %%0; a order harbinger %%0; a order all.corpse %%0; a %%0;}
+}
 
-#alias goton {s;s;s;s;s;s;s;u;s;s;s;d;s;e;s;s;e;s;s;d;s;s;s;s;s;e;e;e;d;s;s;s;s;s;}
-#alias gotok {n;n;n;n;n;u;w;w;w;n;n;n;n;n;u;n;n;w;n;n;w;n;u;n;n;n;d;n;n;n;n;n;n;n;}
+#alias set {
+	#alias fight {b kill %%0; b assist; #delay 1 {b order Cly assist; a order all.corpse assist arar; a order harbinger assist arar; a assist; a rapture;}};
+	#alias recover {a watch arar; b rest; b bandage me; a rest; a bandage me; a meditate;};
+	b #action {Hestaby gives you a strip of armaboro jerky.} {eat jerky;};
+	#alias food {a cast 'cr wa'; a get 2*jerky chest; a eat jerky; a give jerky arar; b drink all.water;};
+	#alias combat {a divinity; a amel; b gaze; b inspire hestaby; b impair; b disarm; b drain;};
+	#alias buffs {a cast 'aid' arar; a cast 'prayer'; b cast 'unholy might'; b cast 'cloak of shadows'; b cast 'p f g' me; b cast 'p f g' hestaby;};
+	#alias docommand {b order cly %%0; b %%0; a order harbinger %%0; a order all.corpse %%0; a %%0;}
+	#alias rcc {b resc corpse; b resc 2.corpse; b resc 3.corpse;}
+	}
+	
+#alias reposeall {both cast 'repose' me; b cast 'repose' arc; a cast 'repose' sulit;}
+#alias allup {both stand; b order arc stand; a order sulit stand;}
+#alias practice {a gift; a come; a mind;}
+
+
+
+
+#alias kpk {b kick; b punch; b kick;}
+
+
+
+b #var move_counter 0
+b #action {disarms your weapon.} {get falchion;wield falchion;}
+b #action {You follow} {#math {move_counter} {$move_counter + 1}; #if {$move_counter % 10 == 0} {sneak;};} 
+b #action {Aldur A'Kul the master thief sits in a corner watching every movement.} {learn all;}
+#action {Master Theobald wanders his school looking for troublemakers.} {learn all;}
+#action {Leehf the master of nature is here, playing with a small lighting cloud.} {learn all;}
+b #action {Elrax the master scout is here, blending into his surroundings.} {learn all;}
+b #action {%0 tugs at your sleeve to get your attention.} {surge %0};
+
+
+#nop SURGES
+#alias ref {b flap me; b flap pancho;}

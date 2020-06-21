@@ -1,0 +1,78 @@
+Vrock
+Spells left (level-number): 1-5 2-4 3-4 4-4 5-3
+
+1:  blur                   magic missile          shield
+    weaken
+2:  detect invisibility    ray of enfeeblement    shocking grasp
+    silence                sleep
+3:  dispel magic           fireball               lightning bolt
+    magic bolt             web
+4:  acid blast             cold snap              haste
+    hold monster           magic blast
+5:  dark accord            mind mangle            tenebrous orb
+
+
+Hezrou
+Spells left (level-number): 1-5 2-5 3-4 4-3
+
+1:  ancestral shroud       clot
+2:  blindness              cure blindness         cure light
+    curse                  endurance              remove curse
+3:  cure serious           delay death            protection from undead
+    remove poison          sap strength           vile spirits
+4:  devouring spirits      evil eye               monstrous mantle
+    soul leech             sublime resistance
+
+Nalfeshnee - pick
+
+
+order vrock mem stop; order vrock forget all; order vrock mem 'ma mi';order vrock mem 'ma mi';order vrock mem 'ma mi';order vrock mem 'ma mi';order vrock mem 'ma mi'; order vrock mem 'ray of en';order vrock mem 'ray of en';order vrock mem 'ray of en';order vrock mem 'ray of en';order vrock mem 'ray of en';
+
+
+order vrock mem 'li bo';order vrock mem 'li bo';order vrock mem 'li bo';order vrock mem 'li bo';order vrock mem 'ma bl';order vrock mem 'ma bl';order vrock mem 'ma bl';order vrock mem 'ma bl';order vrock mem 'mind mangle';order vrock mem 'mind mangle';order vrock mem 'dark accord';
+
+
+
+
+
+
+Chanticlir
+Spells left (level-number): 1-5 2-4 3-4 4-4 5-3
+
+1:  blur                   magic missile          shield
+    weaken
+2:  detect invisibility    ray of enfeeblement    shocking grasp
+    silence                sleep
+3:  dispel magic           fireball               lightning bolt
+    magic bolt             web
+4:  acid blast             cold snap              haste
+    hold monster           magic blast
+5:  confusion              force bolt             mass invisibility
+    mental acuity
+
+Chaldrun
+Spells left (level-number): 1-5 2-5 3-4 4-3
+
+1:  ancestral shroud       clot
+2:  blindness              cure blindness         cure light
+    curse                  endurance              remove curse
+3:  cure serious           delay death            protection from undead
+    remove poison          sap strength           vile spirits
+4:  devouring spirits      evil eye               monstrous mantle
+    soul leech             sublime resistance
+
+Chaun - pick
+
+Chakan
+ 1:  axes          (good)              bludgeons     (good)
+     long blades   (good)          **  miscellaneous (fair)          **
+     piercers      (good)              pole arms     (good)          **
+     short blades  (good)          **  two-handed    (good)
+
+     bash          (fair)          **  kick          (very good)
+     rescue        (very good)         vigor         (good)
+     parry         (fair)          **  punch         (good)
+     target        (good)
+     bandage       (not learned)   **  danger sense  (not learned)   **
+     disarm        (excellent)         track         (excellent)
+     shield block  (poor)

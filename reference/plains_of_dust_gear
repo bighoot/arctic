@@ -1,0 +1,54 @@
+Plains of Dust Gear
+	Object 'tunic cloth plainsman plainsman's dusty'
+		Item Type: WORN
+		Mat Class: cloth        Material: cotton
+		Weight   : 6            Value   : 200
+		Affects  : DEX           by 1
+		Affects  : RESIST_COLD   by 8
+		Affects  : RESIST_HEAT   by 8
+		
+	Object 'gloves leather dusty'
+		Item Type: WORN
+		Mat Class: leather      Material: rough_leather
+		Weight   : 5            Value   : 125
+		Affects  : HITROLL       by 1
+	
+	Object 'pants cloth dusty'
+		Item Type: WORN
+		Mat Class: cloth        Material: cotton
+		Weight   : 4            Value   : 90
+		Affects  : MOVE          by 10
+		Affects  : RESIST_HEAT   by 5
+
+	Object 'axe battle battleaxe twin bladed'
+		Item Type: WEAPON
+		Mat Class: metal        Material: steel
+		Weight   : 14           Value   : 250
+		Affects  : HITROLL       by 2
+		Affects  : DAMROLL       by 2
+		Class    : battle_axe
+		Damage   : 3D5
+
+	Object 'goggles thick circular dusty'
+		Item Type: WORN
+		Mat Class: crystal      Material: glass
+		Weight   : 2            Value   : 25
+		Affects  : HITROLL       by 1
+
+	Object 'dagger long'
+		Item Type: WEAPON
+		Mat Class: metal        Material: steel
+		Weight   : 9            Value   : 35
+		Affects  : HITROLL       by 1
+		Class    : dagger
+		Damage   : 2D6
+		
+	Object 'knife curve curve-bladed'
+		Item Type: WEAPON
+		Mat Class: metal        Material: steel
+		Weight   : 8            Value   : 40
+		Affects  : DAMROLL       by 3
+		Affects  : HITROLL       by 1
+		Class    : knife
+		Damage   : 3D3
+

@@ -12,6 +12,7 @@
 #alias {cone} {cast 'co o co' %0;}
 #alias {call} {cast 'call lightning' %0;}
 #alias {fire} {cast 'fire storm' %0;}
+#alias {daze} {cast 'daze' %0;}
 
 #alias {nado} {cast 'tornado'}
 #alias {ice} {cast 'ice storm'}

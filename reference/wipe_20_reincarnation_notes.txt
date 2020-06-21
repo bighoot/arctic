@@ -1,0 +1,65 @@
+--------------------------
+Caimbeul   	523hp at 30?
+
+1st
++2 to con
++1 to dex
+Str: 18 Int: 13 Wis: 15 Dex: 19 Con: 20 Cha: 17   <- does not include +2 to con from reincarnation
+
+
+--------------------------
+Hestaby		
+0th																					439hp at 30
+1st		+2 to con	+1 to wis	Str: 18 Int: 17 Wis: 18 Dex: 13 Con: 19 Cha: 16		471hp at 30
+2nd		+2 to con	+1 to wis	Str: 19 Int: 16 Wis: 18 Dex: 13 Con: 19 Cha: 17		484hp at 30
+
+
+
+Richter
+Str: 21 Int: 13 Wis: 14 Dex: 14 Con: 23 Cha: 16
+
+
+
+
+Pancho
+
+Lefty
+
+--------------------------
+Aina		
+0th			338hp at 30
+Str: 11 Int: 23 Wis: 17 Dex: 17 Con: 13 Cha: 16
+Str: 12 Int: 22 Wis: 17 Dex: 20 Con: 11 Cha: 15
+
+--------------------------
+Glasgian	
+0th			615hp at 30
+Str: 17 Int: 13 Wis: 12 Dex: 18 Con: 20 Cha: 19
+Str: 23 Int: 14 Wis: 14 Dex: 14 Con: 20 Cha: 17
+
+--------------------------
+Qem Dawnbringer, Vanguard of the Truth Seekers
+ Hylar Dwarf Paladin
+ 
+ --------------------------
+Zad Sunguard, Light of the Morning
+ Kagonesti Shaman
+ 
+--------------------------
+Malsumis
+ Half-Ogre Dark Knight
+ 
+-------------------------- 
+Bmola
+ Hill Dwarf Druid
+
+
+Fauci
+
+Birx
+
+
+Fanto
+
+Sfant 
+

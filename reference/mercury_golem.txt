@@ -90,4 +90,8 @@ Id  Name                   Desc.                     Now Max | C     T  R
                            effective casting level.
     Requires  : Accomplished Arcanist  x1
 
+
+order sulit mem 'ma mi';order sulit mem 'ma mi';order sulit mem 'ma mi';order sulit mem 'ma mi';order sulit mem 'ma bo';order sulit mem 'ma bo';order sulit mem 'ma bl';;order sulit mem 'ma bl';
+
+
 	

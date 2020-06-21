@@ -13,7 +13,6 @@
 #alias ww {fade west}
 #alias ss {fade south}
 
-#action {You feel up to using dart again.} {dart}
 #action {You are sent sprawling} {cancel;stand;}
 #action {You should probably stand up!} {cancel;stand;}
 #action {You try to bash} {cancel;stand;#a #showme <119>** OUCHIES, MISSED THE BASH!!! **; #b #showme <119>** OUCHIES, MISSED THE BASH!!! **;}
@@ -25,53 +24,28 @@
 #action {You are thirsty} {#a #showme <119>-->FOLLOWER THIRSTY<--}
 #action {You feel enlightened.} {#a #showme <119>-->FOLLOWER ENLIGHTENED<--}
 #action {You feel especially skillful today.} {#a #showme <119>-->FOLLOWER SKILLFUL<--}
-#action {Through the darkness, you find a connection to the will of the righteous again.} {#a #showme <149>DANY READY FOR RIGHTEOUS WILL; right;}
-#action {You can focus again on your prayers.} {#a #showme <149>DANY READY FOR DIVINE FOCUS;}
 #action {Your victim's tracks lead %0.} {#a #showme <119>-->TRACKS LEAD %0<--}
-
 #action {doesn't recover as you deliver the bash} {#a #showme <129>** DEATH BY BASH!!! **; #b #showme <129>** DEATH BY BASH!!! **;}
 #action {You crash into %0 sprawling to the ground.} {#a #showme <129>** IN THE FACE!!! **; #b #showme <129>** IN THE FACE!!! **;}
-#action {Your sense of indignation weakens and fades.} {#a #showme <159> *******>>> RIGHTEOUS INDIGNATION GONE <<<*******;}
+
 
 #action {%0 tells you %1} {#a #showme <149>PRIVATE MESSAGE FROM %0: %1}
 #action {%0 tells your clan %1} {#a #showme <149>CLAN MESSAGE FROM %0: %1}
 
 #highlight {Your victim's tracks lead %*} {cyan}
 
-#alias xxx {watch velox; order velox kill %0; order velox merc; a wildfire; a aim %0; a shoot auto;}
-#alias xxx2 {kill %0; a wildfire; a aim %0; a shoot auto;order horse assist; rally; reckoning;}
-#alias fff {order ironwood kill %0; a wildfire; a aim %0; a shoot auto;}
-
 #NOOBS
-#alias fight {a env dagger; a env flame; b env spear; b env sword; b back %0; #delay 1 {a assist; b throat; a throat;}}
 #action {Your hand is strong, and ready for some use.} {throat;}
 #action {Get in there and coup some chumps.} {coup;}
 #action {Maui gives you an ethereal ghost berry.} {eat berry}
-
-#nop alias cl {a cast 'cure light' vali}
-#nop alias cs {a cast 'cure ser' vali}
-#nop alias cc {a cast 'cure crit' vali}
-#nop alias heal {a cast 'heal' vali}
-#nop alias regen {a cast 'regen' vali}
-#nop alias wave {a cast 'wave'}
-#nop alias bless {a cast 'bless' vali}
-#nop alias prayer {a cast 'prayer'}
-#nop alias food {a cast 'create food'; a give bread vali; a eat bread;}
-#nop alias water {a drink all.water; b drink all.water;}
-#nop alias bli {a cast 'blind' %0;}
-#nop alias cur {a cast 'curse' %0;}
-#nop alias sil {a cast 'silence' %0;}
-#nop alias cas {a cast 'cause ser' %0;}
-#nop alias harm {a cast 'harm' %0;}
-#nop alias hp {a cast 'hold person' %0;}
-#nop alias flame {a cast 'flamestrike' %0;}
-
 #action {Baldr gives you a loaf of bread.} {eat bread}
 
-#alias kpk {a kick;a punch;a kick;b scrape;}
+#alias fight {kill %0; punch; kick; kick;}
+#alias kpk {kick;punch;kick;}
 #alias ra {a resc arcas;}
 #alias rc {b resc cilix;}
 
+#action {You feel up to using dart again.} {dart}
 #action {You feel up to using headbutt again.} {headbutt}
 #action {You feel up to using scrape again.} {scrape}
 #action {You feel up to using freeze again.} {freeze}
@@ -81,13 +55,8 @@
 #action {You feel up to using bite again.} {bite}
 #action {You feel up to using gather again.} {gather; put all.arrows quiver; put all.arrow quiver;}
 
-#action {disarms your weapon.} {get axe;wield axe;}
-#action {strike at} {strike;}
+#action {You suddenly notice that your body is in focus once again.} {#a #showme <119>-->BLUR GONE<--}
+#action {You feel weaker.} {#a #showme <119>-->STRENGTH GONE<--}
 
-#nop {You are hungry} {cast 'su el'; drink elixir;}
-
-#alias fight {aim %0; shoot auto;}
-#highlight {You %* plunk} {yellow}
-#highlight {You plunk %*} {yellow}
 
 

@@ -1,4 +1,4 @@
-#split 1
+#split 2
 
 #action {A large fountain sits in the middle of the road, taking up space.} {fill all fountain}
 #action {A white marble fountain spring is in the middle of the clearing.} {fill all fountain}
@@ -13,7 +13,7 @@
 #highlight {You feel enlightened.} {magenta}
 #highlight {You feel especially skillful today.} {magenta}
 
-#action {There were %0 coins} {split %0}
+#action {^There were %0 coins} {split %0}
 
 #highlight {Hastam %*} {cyan}
 #highlight {Hastam, %*} {cyan}
@@ -33,6 +33,7 @@
 #substitute {Hastam} {**HASTAM**}
 #substitute {Murus} {**MURUS**}
 #substitute {Drogon} {**DROGON**}
+#substitute {Dwight} {**DWIGHT**}
 
 #MACRO {\eOr} {s}
 #MACRO {\eOs} {d}
@@ -49,3 +50,69 @@
 
 #action {Sharg tells your group 'crawl hole'} {crawl hole}
 
+#nop PATHS
+#nop Kalaman --> Neraka
+#alias kal2ner {s;s;s;s;s;s;s;u;s;s;s;d;s;e;s;s;e;s;s;d;s;s;s;s;s;e;e;e;d;s;s;s;s;s;}
+#alias ner2kal {n;n;n;n;n;u;w;w;w;n;n;n;n;n;u;n;n;w;n;n;w;n;u;n;n;n;d;n;n;n;n;n;n;n;}
+
+#nop Solace --> Tollhouse
+#alias sol2toll {n;n;n;e;e;e;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;w;n;n;w;w;w;n;n;n;e;n;n;n;n;e;n;n;w;n;n;n;}
+#alias toll2sol {s;s;s;e;s;s;w;s;s;s;s;w;s;s;s;e;e;e;s;s;e;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;w;w;w;s;s;s;}
+
+#nop Tollhouse --> Kalaman             
+#alias toll2kal {e;n;n;e;e;e;e;e;e;e;e;n;e;e;e;n;e;e;s;s;s;s;e;e;s;s;s;s;s;e;e;e;e;}
+#alias kal2toll {w;w;w;w;n;n;n;n;n;w;w;n;n;n;n;w;w;s;w;w;w;s;w;w;w;w;w;w;w;w;s;s;w;}
+
+#nop Neraka --> Bard Tree
+#alias ner2tree {e;e;e;e;e;s;s;s;s;s;d;e;e;}
+#alias tree2ner {w;w;u;n;n;n;n;n;w;w;w;w;w;}
+
+#nop Tollhouse --> Palanthas
+#alias toll2pal {w;w;w;w;n;n;w;w;d;w;w;u;w;n;n;e;e;n;n;n;w;w;n;n;n;n;n;n;}
+#alias pal2toll {s;s;s;s;s;s;e;e;s;s;s;w;w;s;s;e;d;e;e;u;e;e;s;s;e;e;e;e;}
+
+#nop Solace --> Thorbardin "A Steep Pass in the Mountain"
+#alias sol2thorb {s;s;s;s;e;s;s;s;s;w;s;s;s;s;s;e;s;s;s;s;w;s;s;s;s;e;s;s;s;e;e;e;s;e;s;s;s;s;s;e;e;e;s;u;s;u;s;s;d;s;w;s;s;s;s;s;s;}
+#alias thorb2sol {n;n;n;n;n;n;e;n;u;n;n;d;n;d;n;w;w;w;n;n;n;n;n;w;n;w;w;w;n;n;n;w;n;n;n;n;e;n;n;n;n;w;n;n;n;n;n;e;n;n;n;n;w;n;n;n;n;}
+
+#nop SH --> Tollhouse
+#alias myth2toll {s;w;s;w;w;s;w;w;w;s;w;w;w;w;w;w;w;w;s;s;w;}
+#alias toll2myth {e;n;n;e;e;e;e;e;e;e;e;n;e;e;e;n;e;e;n;e;n;}
+
+#nop Kal --> DV
+#alias kal2dv {w;w;w;w;n;n;n;n;n;w;w;s;s;e;s;s;s;w;w;s;s;e;s;s;s;e;s;e;e;n;w;w;n;w;}
+
+#nop Solace --> West Winds
+#alias sol2west {n;n;w;w;n;n;n;n;n;n;w;w;w;w;w;s;s;s;s;s;w;w;n;n;n;n;n;e;n;n;w;w;s;}
+
+#nop West Winds --> Kagonesti Hinterlands
+#alias west2kag {n;n;n;n;w;w;n;n;n;n;n;n;e;e;e;e;s;e;s;s;s;w;s;s;}
+
+#nop Palanthas --> Gulfport
+#alias pal2gulf {w;w;w;w;w;w;w;w;u;w;w;d;w;w;d;n;w;s;s;s;s;s;s;w;s;s;s;w;w;s;s;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;w;w;s;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;}
+
+#nop Kender Bard --> Port Balifor
+#alias bard2bali {e;n;n;e;e;e;e;e;e;s;s;s;s;s;s;}
+#alias bali2bard {n;n;n;n;n;n;w;w;w;w;w;w;s;s;w;}
+
+#nop Kender Bard --> Dwarven Keep
+#alias bard2keep {s;s;w;w;n;w;n;n;n;n;n;n;n;e;e;n;n;n;u;e;u;e;u;u;u;n;}
+#alias keep2bard {s;d;d;d;w;d;w;d;s;s;s;w;w;s;s;s;s;s;s;s;e;s;e;e;n;n;}
+
+#nop Kender Bard --> Neraka
+#alias bard2ner {w;w;n;n;u;n;n;n;w;n;n;w;w;w;w;w;}
+#alias ner2bard {e;e;e;e;e;s;s;e;s;s;s;d;s;s;e;e;}
+
+#nop Kalaman --> Solamnic Ship
+#alias kal2ship {n;n;e;e;e;e;e;e;e;e;e;e;e;s;s;e;s;s;e;e;n;n;e;e;n;n;n;n;w;d;d;n;n;n;n;w;}
+#alias ship2kal {e;s;s;s;s;u;u;e;s;s;s;s;w;w;s;s;w;w;n;n;w;n;n;w;w;w;w;w;w;w;w;w;w;w;s;s;}
+
+#nop Kalaman --> Dargaard Keep
+#alias kal2soth {w;w;w;w;n;n;n;n;n;w;w;s;s;e;s;s;s;w;w;s;s;e;s;e;s;e;e;n;n;}
+#alias soth2kal {s;s;w;w;n;w;n;w;n;n;e;e;n;n;n;w;n;n;e;e;s;s;s;s;s;e;e;e;e;}
+
+#nop Palanthas --> Rayne's
+#alias pal2ray {s;s;w;s;s;w;s;s;e;s;u;s;e;s;s;s;e;s;u;w;s;u;e;}
+
+#nop Balifor --> CV
+#alias bali2cv {n;n;n;n;n;n;w;w;w;w;w;w;s;s;w;s;s;w;w;n;w;n;n;n;n;n;n;n;w;w;n;n;w;n;n;n;n;n;n;n;n;n;u;u;n;n;n;n;}
