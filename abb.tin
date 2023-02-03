@@ -1,4 +1,4 @@
-#read ./arctic/basics.tin
+#read c:/chrisdev/repo/arctic/basics.tin
 
 #alias a #a %0
 #alias b #b %0
@@ -34,7 +34,7 @@
 
 #highlight {Your victim's tracks lead %*} {cyan}
 
-#NOOBS
+#nop NOOBS
 #action {Your hand is strong, and ready for some use.} {throat;}
 #action {Get in there and coup some chumps.} {coup;}
 #action {Maui gives you an ethereal ghost berry.} {eat berry}

@@ -1,0 +1,16 @@
+#alias cl {cast 'cure light' %0}
+#alias cs {cast 'cure ser' %0}
+#alias cc {cast 'cure crit' %0}
+#alias heal {cast 'heal' %0}
+#alias hero {cast 'hero' %0}
+#alias pray {cast 'prayer'}
+#alias word {cast 'word of recall'}
+
+#alias dg {cast 'dispel good' %0}
+#alias de {cast 'dispel evil' %0}
+#alias flame {cast 'flamestrike' %0}
+#alias bolt {cast 'sunbolt' %0}
+#alias ray {cast 'sunray' %0}
+#alias steel {cast 'steelskin'}
+#alias gate {cast 'gate' %0}
+#alias sl {a cast 'so le' %0;}

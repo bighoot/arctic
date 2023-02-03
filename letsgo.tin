@@ -1,8 +1,9 @@
 #alias starta {#session a mud.arctic.org 2700}
 #alias startb {#session b mud.arctic.org 2700}
 
-#alias loadboth	{#a #read ./arctic/aab.tin;#b #read ./arctic/abb.tin}
+#alias loadboth	{#a #read C:/chrisdev/repo/arctic/aab.tin;#b #read C:/chrisdev/repo/arctic/abb.tin}
 
-#alias mage {read ./arctic/mage.tin}
-#alias druid {read ./arctic/druid.tin}
-#alias shaman {read ./arctic/shaman.tin}
+#alias mage {#read C:/chrisdev/repo/arctic/mage.tin}
+#alias druid {#read C:/chrisdev/repo/arctic/druid.tin}
+#alias shaman {#read C:/chrisdev/repo/arctic/shaman.tin}
+#alias cleric {#read C:/chrisdev/repo/arctic/cleric.tin}
