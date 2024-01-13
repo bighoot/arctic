@@ -1,0 +1,96 @@
+Id  Name                   Desc.                     Now Max | C     T  R
+1   Regenerative Cells     Each purchase increases   0   3   | 5000  0  2
+                                the chance that your
+                                newt's wounds will
+                                automatically clot.
+2   Salamander Sanguinity  Each purchase grants      0   2   | 6000  0  2
+                                your pet 1 charge of
+                                'sanguinity', which
+                                clots the wounds of all
+                                allies.
+    Requires    : Regenerative Cells     x3
+3   Toxic Mucosa           Melee attackers may       0   1   | 10000 0  5
+                                become paralyzed by
+                                striking your newt.
+4   Primordial Elixir      Your pet can use          0   1   | 6000  0  3
+                                'elixir' to conjure
+                                small globules of a
+                                nutritious draught.
+5   Dispersed Distortion   Your pet's 'blur' spell   0   1   | 5000  0  2
+                                will now affect extra
+                                friendly targets.
+6   Distributed Detection  Your pet's 'detect        0   1   | 5000  0  2
+                                magic' spell will now
+                                affect extra friendly
+                                targets.
+7   Proliferate Perception Your pet's                0   1   | 5000  0  2
+                                'invisibility' spell
+                                will now affect extra
+                                friendly targets.
+8   Varied Vanishing       Your pet's                0   1   | 5000  0  2
+                                'invisibility' spell
+                                will now affect extra
+                                friendly targets.
+9   Split Strength         Your pet's 'strength'     0   1   | 5000  0  2
+                                spell will now affect
+                                extra friendly targets.
+10  Bountiful Breath       Your pet's 'water         0   1   | 5000  0  2
+                                breath' spell will now
+                                affect extra friendly
+                                targets.
+11  Flame Lizard           Teaches your pet the      0   1   | 5000  0  1
+                                'continual light' spell.
+12  Flying Amphibian       Teaches your pet the      0   1   | 5000  0  2
+                                'fly' spell.
+13  Puffed Belly           Teaches your pet the      0   1   | 5000  0  3
+                                'gust of wind' spell.
+14  Calming Influence      Teaches your pet the      0   1   | 5000  0  3
+                                'calm' spell.
+15  Limb Loosening         Teaches your pet the      0   1   | 5000  0  3
+                                'free action' spell.
+16  Draconic Ward          Your newt radiates an     0   1   | 10000 0  7
+                                aura that offers allies
+                                strong protection from
+                                breath attacks.
+17  Scaly Armor            Your newt radiates an     0   1   | 10000 0  7
+                                aura that offers allies
+                                minor protection from
+                                all attacks.
+    Requires    : Draconic Ward          x1
+18  Salamander Aspect      Your newt radiates an     0   1   | 10000 0  7
+                                aura that offers allies
+                                increased recuperative
+                                powers.
+    Requires    : Draconic Ward          x1
+                                          Scaly Armor            x1
+19  Eye of the Newt        Your newt can 'eye' a     0   1   | 10000 0  5
+                                nearby target, revealing
+                                a magical path to it.
+    Requires minimum rank of : 20
+20  Repellent Field        Increases your pet's      0   2   | 4000  0  2
+                                ability to resist
+                                magical spell effects
+                                greatly.
+21  Lubricated Joints      Increases your pet's      0   2   | 4000  0  2
+                                ability to resist
+                                paralytic attacks
+                                greatly.
+22  Acrid Resilience       Increases your pet's      0   2   | 4000  0  2
+                                ability to resist breath
+                                attacks greatly.
+23  Telepathic Link        Allows you to order your  0   1   | 5000  0  2
+                                pet when silenced.
+24  Apprentice Arcanist    Increase your pet's       0   1   | 1500  0  1
+                                slots at circle 1 by 1.
+25  Adept Arcanist         Increase your pet's       0   1   | 2000  0  1
+                                slots at circle 2 by 1.
+    Requires    : Apprentice Arcanist    x1
+26  Adroit Arcanist        Increase your pet's       0   1   | 4000  0  2
+                                slots at circle 3 by 1.
+    Requires    : Adept Arcanist         x1
+27  Accomplished Arcanist  Increase your pet's       0   1   | 5000  0  2
+                                slots at circle 4 by 1.
+    Requires    : Adroit Arcanist        x1
+28  Lofty Arcana           Increase your pet's       0   3   | 5000  0  1
+                                effective casting level.
+    Requires    : Accomplished Arcanist  x1

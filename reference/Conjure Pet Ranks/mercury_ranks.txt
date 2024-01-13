@@ -1,0 +1,91 @@
+Id  Name                   Desc.                     Now Max | C     T  R
+1   Arcane Cohesion        Your golem strengthens    0   4   | 3500  0  1
+                                its bonds to absorb
+                                magical damage.
+2   Regenerative Reformation Your golem can 'reform'   0   1   | 3000  0  2
+                                to regenerate some of
+                                its hitpoints.
+    Requires    : Arcane Cohesion        x4
+3   Enduring Regeneration  Your golem's 'reform'     0   3   | 2000  0  1
+                                gains a heal-over-time
+                                component. Each purchase
+                                increases the duration.
+    Requires    : Regenerative Reformation x1
+4   Reflexive Division     Your golem can            0   1   | 4000  0  3
+                                instinctively divide to
+                                avoid melee attacks.
+5   Enhanced Fluidity      Your golem can use        0   1   | 7000  0  3
+                                'fluidity' to briefly
+                                gain immunity to effects
+                                that impair movement.
+    Requires    : Reflexive Division     x1
+6   Total Inversion        Your golem can 'invert'   0   1   | 6000  0  3
+                                to flip itself
+                                inside-out and remove
+                                most magical conditions.
+    Requires    : Enhanced Fluidity      x1
+7   Reactive Shield        Your golem reflects       0   1   | 4000  0  2
+                                damage to melee
+                                attackers.
+8   Reactive Volatility    Your golem's Reactive     0   1   | 6500  0  2
+                                Shield also affects
+                                ranged attackers.
+    Requires    : Reactive Shield        x1
+9   Mercury Poisoning      Grants your golem 1       0   1   | 4000  0  2
+                                charge of
+                                'mercuriation', a
+                                damaging attack
+                                deleterious to mental
+                                health.
+10  Wild Magic             Each purchase grants      0   3   | 4000  0  2
+                                your golem 1 charge of
+                                'wildstrike', an attack
+                                with variable effects.
+    Requires    : Mercury Poisoning      x1
+11  Arcane Detonation      Each purchase grants      0   2   | 7500  0  3
+                                your golem 1 charge of
+                                'detonation', which
+                                deals area of effect
+                                damage.
+    Requires    : Wild Magic             x3
+12  Devastating Barrage    Upgrades your golem's     0   1   | 8000  0  4
+                                standard attack to
+                                occasionally make a
+                                'force missile' assault.
+13  Minion Spawn           Your golem can use        0   1   | 10000 0  5
+                                'spawnlings' to split
+                                off a few drops of its
+                                own body and animate
+                                them into helpful
+                                followers.
+    Requires minimum rank of : 20
+14  Repellent Field        Increases your pet's      0   2   | 4000  0  2
+                                ability to resist
+                                magical spell effects
+                                greatly.
+15  Acrid Resilience       Increases your pet's      0   2   | 4000  0  2
+                                ability to resist breath
+                                attacks greatly.
+16  Telepathic Link        Allows you to order your  0   1   | 5000  0  2
+                                pet when silenced.
+17  Intense Focus          Increases your pet's      0   2   | 1000  0  1
+                                chance to avoid spell
+                                interruption.
+18  Indomitable Focus      Grants your pet immunity  0   1   | 8000  0  3
+                                to mind-affecting
+                                abilities.
+    Requires    : Intense Focus          x2
+19  Apprentice Arcanist    Increase your pet's       0   1   | 1500  0  1
+                                slots at circle 1 by 1.
+20  Adept Arcanist         Increase your pet's       0   1   | 2000  0  1
+                                slots at circle 2 by 1.
+    Requires    : Apprentice Arcanist    x1
+21  Adroit Arcanist        Increase your pet's       0   1   | 4000  0  2
+                                slots at circle 3 by 1.
+    Requires    : Adept Arcanist         x1
+22  Accomplished Arcanist  Increase your pet's       0   1   | 5000  0  2
+                                slots at circle 4 by 1.
+    Requires    : Adroit Arcanist        x1
+23  Lofty Arcana           Increase your pet's       0   3   | 5000  0  1
+                                effective casting level.
+    Requires    : Accomplished Arcanist  x1

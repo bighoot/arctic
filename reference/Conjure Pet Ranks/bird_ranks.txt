@@ -1,0 +1,110 @@
+Id  Name                   Desc.                     Now Max | C     T  R
+1   Missile Volley         Your pet's 'magic         0   1   | 10000 0  3
+                                missile' spell will now
+                                hit extra enemy targets.
+    Requires    : Lofty Arcana           x3
+2   Arc Lightning          Your pet's 'lightning     0   1   | 10000 0  3
+                                bolt' spell will now hit
+                                extra enemy targets.
+    Requires    : Lofty Arcana           x3
+3   Quelled Squawk         Teaches your pet the      0   1   | 10000 0  3
+                                'silence' spell.
+    Requires    : Lofty Arcana           x3
+4   Protective Molt        Your pet can 'molt' its   0   1   | 4000  0  2
+                                feathers over a target,
+                                reducing damage it takes
+                                whilst the feathers
+                                gradually blow away.
+5   Rejuvenating Bloodspatter When your pet takes       0   1   | 6000  0  2
+                                damage, a wounded ally
+                                will be healed for a
+                                small amount.
+    Requires    : Protective Molt        x1
+6   Instinctive Peck       Allows your pet to        0   1   | 8000  0  5
+                                occasionally interrupt
+                                an enemy's casting.
+    Requires    : Protective Molt        x1
+7   Altruistic Dive        Each purchase gives your  0   3   | 3000  0  2
+                                pet training in the
+                                'rescue' skill, allowing
+                                it to save an ally from
+                                combat.
+    Requires    : Protective Molt        x1
+8   Double Dive            Your pet can sometimes    0   1   | 6000  0  2
+                                rescue a target from up
+                                to 2 enemies at once.
+    Requires    : Altruistic Dive        x3
+9   Winged Guardian        Your pet can use 'orbit'  0   3   | 7000  0  2
+                                to start or stop
+                                automatically rescuing
+                                you. Each purchase
+                                increases the chance of
+                                this.
+    Requires    : Double Dive            x1
+10  Evasive Flying         Your pet is harder to     0   3   | 1000  0  1
+                                hit.
+11  Guard Feathers         Increases your pet's      0   3   | 5000  0  1
+                                damage resistance.
+    Requires    : Evasive Flying         x3
+12  Blood Clotters         Your pet gains automatic  0   1   | 10000 0  3
+                                regeneration.
+    Requires    : Guard Feathers         x3
+13  Resilient Talons       Your pet ignores damage   0   1   | 3000  0  1
+                                reflection shields, such
+                                as 'fireshield'.
+    Requires    : Evasive Flying         x3
+
+14  Nimble Talons          Your pet gains training   0   3   | 5000  0  2
+                                in the 'fence' skill.
+    Requires    : Resilient Talons       x1
+15  Warding Winds          Your pet will             0   1   | 8000  0  4
+                                occasionally reflect
+                                spells.
+    Requires    : Evasive Flying         x3
+16  Airborne Recoil        Your pet receives less    0   1   | 5000  0  2
+                                damage from area of
+                                effect spells.
+    Requires    : Warding Winds          x1
+17  Recuperative Tailspin  After an Airborne         0   1   | 7500  0  1
+                                Recoil, your pet will be
+                                cured of some damage.
+    Requires    : Airborne Recoil        x1
+18  Clever Bird            Your pet can use          0   1   | 10000 0  5
+                                'cunning' to briefly
+                                expand its mind and
+                                prowess with spells.
+    Requires minimum rank of : 20
+19  Repellent Field        Increases your pet's      0   2   | 4000  0  2
+                                ability to resist
+                                magical spell effects
+                                greatly.
+20  Lubricated Joints      Increases your pet's      0   2   | 4000  0  2
+                                ability to resist
+                                paralytic attacks
+                                greatly.
+21  Acrid Resilience       Increases your pet's      0   2   | 4000  0  2
+                                ability to resist breath
+                                attacks greatly.
+22  Telepathic Link        Allows you to order your  0   1   | 5000  0  2
+                                pet when silenced.
+23  Intense Focus          Increases your pet's      0   2   | 1000  0  1
+                                chance to avoid spell
+                                interruption.
+24  Indomitable Focus      Grants your pet immunity  0   1   | 8000  0  3
+                                to mind-affecting
+                                abilities.
+    Requires    : Intense Focus          x2
+25  Apprentice Arcanist    Increase your pet's       0   1   | 1500  0  1
+                                slots at circle 1 by 1.
+26  Adept Arcanist         Increase your pet's       0   1   | 2000  0  1
+                                slots at circle 2 by 1.
+    Requires    : Apprentice Arcanist    x1
+27  Adroit Arcanist        Increase your pet's       0   1   | 4000  0  2
+                                slots at circle 3 by 1.
+    Requires    : Adept Arcanist         x1
+28  Accomplished Arcanist  Increase your pet's       0   1   | 5000  0  2
+                                slots at circle 4 by 1.
+    Requires    : Adroit Arcanist        x1
+29  Lofty Arcana           Increase your pet's       0   3   | 5000  0  1
+                                effective casting level.
+    Requires    : Accomplished Arcanist  x1

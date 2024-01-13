@@ -1,6 +1,7 @@
 harbinger
 Spells left (level-number): 1-5 2-4 3-4 4-4 5-3
 
+Vrock
 1:  blur                   magic missile          shield
     weaken
 2:  detect invisibility    ray of enfeeblement    shocking grasp
@@ -9,7 +10,9 @@ Spells left (level-number): 1-5 2-4 3-4 4-4 5-3
     magic bolt             web
 4:  acid blast             cold snap              haste
     hold monster           magic blast
-5:  dark accord            mind mangle            tenebrous orb
+5:  dark accord            mind mangle            pain
+    tenebrous orb
+
 
 
 Hezrou
