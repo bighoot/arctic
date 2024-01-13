@@ -1,0 +1,3 @@
+#alias train1 {stand;come;mind;arcane;deep;gift;conjure wight;release dwight;rest;}
+#alias train2 {rest;brew 'strength';scribe 'strength';stand;#3{cast 'strength' me;}}
+#alias goback {e;s;s;d;n;n;n;n;n;n;n;w;w;n;n;w;s;rest;}

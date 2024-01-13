@@ -1,0 +1,706 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Thu Jan 05 15:32:00 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 84 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA small roll of bread lies here...it emits an arcane glow [13]
+A large iron key rests here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m14925759X 70.08% 7414C [0;37mT:22 Exits:D> clan who
+[0;37m[36mClan Members
+------------
+[36m[1m Juni             [     Elder ] (Thu Jan 05) Level 28R4 E Rank 34 Druid (L)
+[36m[1m Boone            [     Elder ] (Thu Jan 05) Level 30R3 G Rank 35 Paladin (L)
+[36m[1m Fir              [     Elder ] (Thu Jan 05) Level 28R4 E Rank 34 Barbarian (L)
+[36m[1m Grambo           [     Elder ] (Thu Jan 05) Level 30R1 N Rank 25 Barbarian
+[36m[1m Trinity          [     Elder ] (Thu Jan 05) Level 29R1 N Rank 24 Druid
+[36m[1m Pryor            [     Elder ] (Thu Jan 05) Level 30R2 G Rank 27 White Robe (L)
+[36m[1m Shooty           [  Clansman ] (Thu Jan 05) Level 30R5 G Rank 35 Sky Scout (L)
+[36m[1m Eredin           [  Clansman ] (Thu Jan 05) Level 30R3 E Rank 31 Dark Knight (L)
+[36m[1m Adda             [  Clansman ] (Thu Jan 05) Level 30R3 E Rank 31 Shaman
+[36m[1m Shmyaka          [  Clansman ] (Thu Jan 05) Level 30R2 G Rank 27 Barbarian
+[36m[1m Litto            [  Clansman ] (Thu Jan 05) Level 26   N Rank 7  Red Robe
+[36m[1m Zaxx             [  Clansman ] (Thu Jan 05) Level 27   E Rank 8  Dark Knight
+[36m[1m Maui             [  Clansman ] (Thu Jan 05) Level 30   E Rank 11 Cleric
+[1m[32m
+Total clan members online: 13   Total clan members: 92
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m14925759X 70.08% 7414C [0;37mT:20 Exits:D> 
+Hederick, the High Theocrat shouts "Help! Help! I can't defend myself!"
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m14925759X 70.08% 7414C [0;37mT:12 Exits:D> 
+Nosferatu appears in the middle of the room.
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m14925759X 70.08% 7414C [0;37mT:10 Exits:D> 
+Lugosi appears in the middle of the room.
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m14925759X 70.08% 7414C [0;37mT:8 Exits:D> 
+Hederick, the High Theocrat shouts "Help! Help! I can't defend myself!"
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m14925759X 70.08% 7414C [0;37mT:6 Exits:D> 
+Hederick, the High Theocrat shouts "Help! Help! I can't defend myself!"
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m14925759X 70.08% 7414C [0;37mT:5 Exits:D> d
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m110V [0;37m14925759X 70.08% 7414C [0;37mT:4 Exits:SWUD> d
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m432H [0;37m[32m109V [0;37m14925759X 70.08% 7414C [0;37mT:3 Exits:NEU> e
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m432H [0;37m[32m108V [0;37m14925759X 70.08% 7414C [0;37mT:3 Exits:NSWU> s
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+A glorious statue of Karnos stands here in a victory pose.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m432H [0;37m[32m107V [0;37m14925759X 70.08% 7414C [0;37mT:2 Exits:NESWU> ski
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (superb)            miscellaneous (bad)             
+
+     turn          (very poor)       
+     bandage       (good)            
+     divinity      (very good)         meditate      (superb)          
+     brew          (bad)               scribe        (bad)             
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:59 Exits:NESWU> d
+Alas, you cannot go that way...
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:58 Exits:NESWU> s
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA menacing rottweiler circles here barking at some shadows.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m14925759X 70.08% 7414C [0;37mT:56 Exits:NS> s
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+A Solace peacekeeper is here making his rounds.
+A plump housewife walks past carrying a basket full of groceries.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37mA small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m14925759X 70.08% 7414C [0;37mT:55 Exits:NES> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m14925759X 70.08% 7414C [0;37mT:54 Exits:NES> 
+A plump housewife leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m14925759X 70.08% 7414C [0;37mT:52 Exits:NES> list ring
+ 25. Ring                110 a gold and diamond wedding band
+ 58. Ring                132 a rodent skull ring
+ 68. Shirt                60 a shirt of white ringmail
+ 78. Ring                550 a small signet ring
+108. Ring                220 the ring of cruelty
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m14925759X 70.08% 7414C [0;37mT:52 Exits:NES> items
+tiers
+list
+  1. Bardiche            132 a bardiche with a silver half moon blade
+  2. Cloak               302 [38;5;225ma beast scale cloak (B2 BARBARIAN ABOUT) of ferocity[0;37m
+  3. Bardiche            110 a black adamantite bardiche (3d6 1/1 w21 mag/bls *19)
+  4. Breastplate         110 a black ice breast plate (apply7 or rescold12)
+  5. Shield              220 a black ice shield (rescold16 glow immcold)
+  6. Staff               551 a black wood staff (2d6 int-1 wis2 w6)
+  7. Tanto               110 a blackened tanto
+  8. Sword               275 a blood red short sword (3d5 hr2 w10)
+  9. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 10. Bracelet            275 a braided silver bracelet
+ 11. Helm                660 [38;5;117ma brass dragonscale helm (ac-10 wis1 det_ev/inv/infra imm_heat *set*)[0;37m
+ 12. Knife                22 a butcher's knife (3d5 w12 *19)
+ 13. Knife               269 [38;5;183ma charred serrated black knife[0;37m
+ 14. Helmet              385 a crested helmet
+ 15. Tome                236 [38;5;225ma cryptic couatl feathered tome (B1+ CASTER HELD)[0;37m
+ 16. Medallion           110 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 17. Pelt                 27 a dark owlbear pelt
+ 18. Longsword           220 [38;5;225ma darkened and polished longsword[0;37m
+ 19. Longsword           220 [38;5;183ma darkened serrated longsword[0;37m
+ 20. Cleaver             110 a dwarven meat cleaver
+ 21. Hammer              275 a dwarven smasher (2d7 hr1 dr2 mag/bless w18 *19)
+ 22. Guard                33 a filthy leather wrist guard (hr1)
+ 23. Javelin             165 [38;5;225ma forked javelin[0;37m
+ 24. Staff               396 [38;5;183ma fossilized carved battle staff[0;37m
+ 25. Ring                110 a gold and diamond wedding band (ac-2 regen1%)
+ 26. Naginata            132 a graceful naginata
+ 27. Robe                121 [38;5;214ma grey witch's robe (hide/bless)[0;37m
+ 28. Maul                253 a hardened steel maul (3d4 str1 dr3 w18)
+ 29. Lance               264 a heavy coral lance
+ 30. Mace                286 [38;5;183ma heavy flanged mace[0;37m
+ 31. Hammer               55 a heavy smithing hammer
+ 32. Warhammer           143 [38;5;183ma heavy warhammer[0;37m
+ 33. Cloak               132 [38;5;225ma holy cloak (A1 PALADIN ABOUT) of penance[0;37m
+ 34. Broadaxe            110 [38;5;225ma honed broadaxe[0;37m
+ 35. Pickaxe              88 a large copper pickaxe (2d10 w16 *19)
+ 36. Scale               330 a large crystal dragon scale
+ 37. Shillelagh          132 a leprechaun's shillelagh
+ 38. Staff               198 a long oak staff
+ 39. Bone                 55 a massive femur bone club
+ 40. Partisan           1100 [38;5;214ma mithril partisan (3d6 hr2 strike4 glow/mag w18 *19)[0;37m
+ 41. Ranseur             495 a mithril ranseur
+
+ [return for more, q to stop]
+ 42. Guard               165 a a mossy green wrist guard (dex1 wis-1, sense life)
+ 43. Gloves               99 a pair of black hunting gloves (savepara -1)
+ 44. Guard               132 a pair of black ice arm guards (rescold4 immcold)
+ 45. Legplates           110 a pair of ceremonial legplates (hit3 nosbarb/sham)
+ 46. Gauntlets           165 a pair of golden dwarven gauntlets (DR mag/bless *19)
+ 47. Glasses             132 a pair of reading glasses
+ 48. Trousers            330 a a pair of shadow trousers (ac-4 mv18 nomag/pal/dru/cle/scout/war/barb/sham)
+ 49. Boots                66 a pair of silver spurred boots (sneak-20 mv15 bls nodk *19)
+ 50. Armbands            132 a pair of spectacular hematite armbands (str1 int-2 )
+ 51. Boots               220 a pair of turquoise-trimmed, buckskin boots (kick2 *18)
+ 52. Gloves              110 a pair of workers gloves
+ 53. Hatchet             165 a plainsman's war hatchet (2d6 1/1 w8 *19)
+ 54. Apron                60 a protective leather apron (res_heat8 immheat)
+ 55. Longsword             9 a red longsword (2d4 HR w8 *19)
+ 56. Stiletto             55 a red thorn stiletto (2d7 DR env4 w12 no_offy *19)
+ 57. Staff               880 [38;5;208ma a red tinged staff wrapped in leather (3d6 w21 magic/bless nomag/thi/pal/dru/scout/dk/sham)[0;37m
+ 58. Ring                132 a rodent skull ring (regen2% mag *19)
+ 59. Dirk                165 a a rogue's dirk (2d6 dr1, BS 5, magic, anti_good, Theif only)
+ 60. Claw                165 [38;5;225ma rooster claw[0;37m
+ 61. Armour               99 a set of hard black leather armour
+ 62. Platemail           220 a set of sleek black platemail
+ 63. Sabre                33 a sharp sabre (2d4 w8 magic)
+ 64. Lance               165 [38;5;225ma sharpened lance[0;37m
+ 65. Shield              110 a shield of bone and flesh (w10 res_elec12 antiG)
+ 66. Sword               253 a shining silver sword (3d6 mag w15 *19)
+ 67. Shirt                60 a shirt of green chainmail (res_gas5 *18)
+ 68. Shirt                60 a shirt of white ringmail (rescold5)
+ 69. Javelin              12 a short-hafted javelin (2d6 dr2 bs5 w10 *19)
+ 70. Bracer               88 a a silver and platinum etched bracer (hr1, dex -1, Magic/Bless)
+ 71. Breastplate         440 a silver breast plate
+ 72. Club                825 a silver shod oaken club
+ 73. Lance               715 [38;5;214ma silver-shafted footman's lance[0;37m
+ 74. Helm                143 a silvery helm decorated with roses
+ 75. Breastplate          71 a skeletal breastplate (res_heat8 *19)
+ 76. Spear               330 a slender silver spear
+ 77. Pistol              396 a small flintlock pistol (nolore)
+ 78. Ring                550 a small signet ring (ac-2 immac/cold/gas/heat)
+ 79. Knife               550 a smuggler's knife
+ 80. Staff               165 a staff inscribed with runes (hr2 isflying norent)
+ 81. Kausin              682 [38;5;214ma steel kausin stained with blood (2d8 2/2 w22 mag/bless nothi/pal/dk/sham)[0;37m
+ 82. Hammer              231 a sterling handled forging hammer (2d9 dr1 hr3 nomag/thi)
+
+ [return for more, q to stop]
+ 83. Armor               110 a suit of padded red leather armor (hr1)
+ 84. Necklace            110 a thin gold necklace (det_E/G infra)
+ 85. Crown               132 [38;5;214ma tin crown[0;37m
+ 86. Pelt                110 a yeti pelt (rescold16)
+ 87. Dagger              132 an acid-etched steel dagger (2d7 hr2 dr1 w3 magic)
+ 88. Javelin              88 an adamantite javelin (2d6 hr1 Evil magic w6)
+ 89. Pike                 88 an awl pike (2d6 w15)
+ 90. Axe                  55 an axe with a vallenwood handle (4d3 HR axes3 mag w3 *19)
+ 91. Cord                132 [38;5;183man elk hide cord (A4 BARBARIAN WAIST) of mania[0;37m
+ 92. Kama                275 an insidious chain and dagger (3d4 2/2 -3ac w8 *19)
+ 93. Sword               198 an ivory sword
+ 94. Spear               385 an obsidian-tipped ironwood spear (6d4 hr NORENT w34 nothi *19)
+ 95. Cape                236 [38;5;225man onyx cape (B2 THIEF ABOUT) of subtlety[0;37m
+ 96. Garb                143 [38;5;225man onyx garb (A2 THIEF ABOUT) of guile[0;37m
+ 97. Cuisses             605 [38;5;171msome battle-scarred cuisses of war[0;37m
+ 98. Armplates           330 some black armplates of the Skull
+ 99. Legplates            55 some black legplates of the Skull (50c *18)
+100. Vambraces           236 [38;5;183msome cavalier's vambraces of virtue (B3+ PALADIN ARMS)[0;37m
+101. Stompers            302 [38;5;225msome padded stompers of brutality (B1+ WARRIOR FEET)[0;37m
+102. Robes                33 some sheer black robes
+103. Leggings            110 [38;5;225msome solid leggings of skirmish (A2+ WARRIOR LEGS)[0;37m
+104. Gauntlets           880 some spiked black gauntlets of the Lily (con1 antiG nobar/sha)
+105. Armor               220 some spiked gnomish armor (str1)
+106. Wraps               220 [38;5;225msome verdant hand wraps of accuracy (B2+ SCOUT HANDS)[0;37m
+107. Mask               1100 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+108. Ring                220 the ring of cruelty (1cl hit -4 CURSED)
+109. Staff               132 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+110. Sleeves              13 thick padded sleeves (apply4 *19)
+A Solace peacekeeper leaves east.
+A Solace peacekeeper leaves south.
+A small child points a thin wooden stick at you.
+You feel righteous.
+A Solace peacekeeper arrives from the east.
+Duvel arrives from the north.
+A small child points a thin wooden stick at Duvel.
+Duvel shines with a holy light.
+Duvel leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m14925759X 70.08% 7414C [0;37mT:30 Exits:NES> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m14925759X 70.08% 7414C [0;37mT:30 Exits:NES> 
+A small child leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m14925759X 70.08% 7414C [0;37mT:20 Exits:NES> l
+
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m14925759X 70.08% 7414C [0;37mT:18 Exits:NES> 
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m14925759X 70.08% 7414C [0;37mT:18 Exits:NES> n
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+A menacing rottweiler circles here barking at some shadows.
+[0;37mA small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m14925759X 70.08% 7414C [0;37mT:14 Exits:NS> n
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+A glorious statue of Karnos stands here in a victory pose.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m14925759X 70.08% 7414C [0;37mT:14 Exits:NESWU> n
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+<DAWN> Meon the Female Hill Dwarf is standing here. (flying) (invisible) (black aura)
+. . . is outlined by a dim aura.
+A fearsome blue dragon, Stom, is standing here, ignoring you. (black aura)
+<DAWN> Saur the Male Half Ogre is standing here. (flying) (invisible) (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m14925759X 70.08% 7414C [0;37mT:13 Exits:NSWU> w
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m14925759X 70.08% 7414C [0;37mT:13 Exits:NEU> u
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m14925759X 70.08% 7414C [0;37mT:12 Exits:SWUD> u
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA small roll of bread lies here...it emits an arcane glow [13]
+A large iron key rests here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m14925759X 70.08% 7414C [0;37mT:12 Exits:D> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m14925759X 70.08% 7414C [0;37mT:11 Exits:D> 
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:60 Exits:D> 
+[37mYour clanmate Litto has gained a rank.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:23 Exits:D> 
+The receptionist looks in your direction and says 'Are you ever going to rent?'
+Dolan, the guard, looks you over trying to determine if you will be
+trouble.
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:60 Exits:D> 
+[36mPryor tells your clan 'i got spanked 3 times'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:32 Exits:D> 
+[36mPryor tells your clan 'anyone wanna avenge my humiliation?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:24 Exits:D> 
+[36mJuni tells your clan 'eli need macabre boots?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:23 Exits:D> 
+[36mEredin tells your clan 'yep'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:18 Exits:D> 
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:60 Exits:D> 
+[36mGrambo tells your clan 'you want us to slay irda?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:53 Exits:D> 
+[36mEredin tells your clan 'yep ready to rit anytime'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:48 Exits:D> 
+[36mGrambo tells your clan 'oh ok'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:44 Exits:D> 
+[36mEredin tells your clan 'just trio'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:39 Exits:D> 
+[36mGrambo tells your clan 'sure rit uhh'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:36 Exits:D> 
+Dolan watches the receptionist out of the corner of his eye, trying not to
+get caught looking.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:20 Exits:D> 
+[36mGrambo tells your clan 'thanks grab you in sec man'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:7 Exits:D> 
+Nosferatu has entered the game.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:5 Exits:D> 
+You are hungry.
+You are thirsty.
+Lugosi has entered the game.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:60 Exits:D> 
+Lugosi lifts his arms towards the sky and gracefully floats upward.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:59 Exits:D> 
+[36mGrambo tells your clan 'ok rit richard mike and i'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:58 Exits:D> 
+Nosferatu now follows Lugosi.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:56 Exits:D> 
+Lugosi flies down.
+Nosferatu flies down.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:55 Exits:D> 
+[36mBoone tells your clan 'sleeping...'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:54 Exits:D> 
+[36mPryor tells your clan 'sleeping...'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:54 Exits:D> 
+[36mGrambo tells your clan 'we will reform with val shortly.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:52 Exits:D> 
+[36mFir tells your clan 'zzz'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:49 Exits:D> 
+[36mPryor tells your clan 'woke up'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:41 Exits:D> 
+The receptionist pulls out a broom and sweeps the floor of the inn.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:30 Exits:D> 
+You are hungry.
+You are thirsty.
+[37mYour clanmate Dancy has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:60 Exits:D> 
+Dolan cracks his knuckles and stretches.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:40 Exits:D> l
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA small roll of bread lies here...it emits an arcane glow [13]
+A large iron key rests here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:23 Exits:D> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Lefty has entered the game.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:15 Exits:D> 
+Lefty starts following you.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:13 Exits:D> [0;37mgroup form[0m
+Lefty is now a member of your group.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:9 Exits:D> [0;37mb plenty[0m
+
+Lefty scours the area for food.
+Lefty looks full.
+Your stomach fills up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:7 Exits:D> 
+You feel less righteous.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:60 Exits:D> 
+Jagaera appears in the middle of the room.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:39 Exits:D> 
+Mazamoto appears in the middle of the room.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:37 Exits:D> 
+Ijiachu appears in the middle of the room.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:36 Exits:D> 
+Tika Waylan arrives from below.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:35 Exits:D> 
+Jagaera lightly grasps a chunk of golden amber in her palm.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:28 Exits:D> 
+Mazamoto lights a glowing red ruby and holds it.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:25 Exits:D> 
+Ijiachu grabs a small green orb.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:22 Exits:D> 
+Ijiachu flies down.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:19 Exits:D> 
+The receptionist pulls out a broom and sweeps the floor of the inn.
+Dolan rests his hand on the hilt of his sword and looks around the inn.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:60 Exits:D> 
+Jagaera flies down.
+Mazamoto leaves down.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:59 Exits:D> 
+Tika Waylan leaves down.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:23 Exits:D> 
+Jagaera flies in from below.
+Mazamoto arrives from below.
+Kikaeha arrives from below.
+Ijiachu flies in from below.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:55 Exits:D> 
+The receptionist shows Jagaera to her room.
+Jagaera sinks gently to the ground.
+Mazamoto stops following Jagaera.
+Kikaeha stops following Jagaera.
+Ijiachu stops following Jagaera.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:54 Exits:D> 
+The receptionist shows Mazamoto to his room.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:52 Exits:D> 
+The receptionist shows Kikaeha to his room.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:50 Exits:D> 
+[36mEredin tells your clan 'storms and fc'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:49 Exits:D> 
+The receptionist shows Ijiachu to his room.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:47 Exits:D> 
+[36mPryor tells your clan 'and dairly'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:42 Exits:D> 
+[36mPryor tells your clan 'it loads last gaard of that tier'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:32 Exits:D> 
+[36mPryor tells your clan 'but eli has given up on that particular mob'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:21 Exits:D> 
+Dolan stares at the receptionist but quickly looks away when she looks up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:20 Exits:D> 
+[36mEredin tells your clan 'i do it when i hit brith for jay'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:7 Exits:D> 
+[36mJuni tells your clan 'val does mokey have rit'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:48 Exits:D> 
+Duvel appears in the middle of the room.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:48 Exits:D> 
+[36mLitto tells your clan 'yep'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:43 Exits:D> 
+[36mPryor tells your clan 'mokey has rit'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:41 Exits:D> 
+Duvel leaves down.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:39 Exits:D> 
+The receptionist sighs and starts flipping through a leather bound book.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:30 Exits:D> 
+[37mYour clanmate Pryor has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:8 Exits:D> 
+[37mYour clanmate Knaak has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:6 Exits:D> 
+Dolan stares at the receptionist but quickly looks away when she looks up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:40 Exits:D> 
+[37mYour clanmate Shooty has left the game.
+[0;37m[37mYour clanmate Shooty has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:22 Exits:D> 
+The receptionist holds up her hand and examines it, then resumes filing her nails.
+Dolan, the guard, looks you over trying to determine if you will be
+trouble.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:60 Exits:D> 
+Tika Waylan arrives from below.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:5 Exits:D> 
+Tika Waylan leaves down.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:47 Exits:D> 
+Dolan, the guard, looks you over trying to determine if you will be
+trouble.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:20 Exits:D> 
+The receptionist looks in your direction and says 'Are you ever going to rent?'
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:30 Exits:D> 
+Gerald flies in from below.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:5 Exits:D> 
+Gerald flies down.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:4 Exits:D> 
+Dolan cracks his knuckles and stretches.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m14925759X 70.08% 7414C [0;37mT:40 Exits:D> [0m#SESSION 'a' DIED.[0m

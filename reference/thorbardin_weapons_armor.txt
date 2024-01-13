@@ -1,0 +1,75 @@
+ Object 'dagger steel keen'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 10
+ Class    : dagger
+ Damage   : 2D5
+
+ Object 'battleaxe axe steel mighty'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 14           Value   : 25
+ Class    : battle_axe
+ Damage   : 4D3
+
+ Object 'warhammer hammer steel formidable'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 15           Value   : 25
+ Class    : warhammer
+ Damage   : 3D4
+
+ Object 'sword steel tempered'
+ Item Type: WEAPON
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 20
+ Class    : long_sword
+ Damage   : 2D6
+
+ Object 'shield steel round'
+ Item Type: ARMOR
+ Mat Class: metal        Material: steel
+ Weight   : 30           Value   : 20
+ Apply    : 6
+
+ Object 'plates arm steel'
+ Item Type: ARMOR
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 60
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 7
+
+ Object 'gauntlets steel'
+ Item Type: ARMOR
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 45
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 7
+
+ Object 'boots steel'
+ Item Type: ARMOR
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 45
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 7
+
+ Object 'plates leg steel'
+ Item Type: ARMOR
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 60
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 7
+
+ Object 'helmet steel'
+ Item Type: ARMOR
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 35
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 7
+
+ Object 'plate mail steel suit'
+ Item Type: ARMOR
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 70
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 7

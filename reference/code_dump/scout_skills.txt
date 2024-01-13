@@ -1,0 +1,44 @@
+Scout Skills
+
+Weapons - axes(95), blud(90), l.blades(85), misc(95), piercers(85), s.blades(85)
+
+Bandage(80) - No stat modifiers
+
+Hide(80) - No stat modifiers, the more people who pass through the room the higher your learn chance becomes, it takes 14 people to hit 50% learn chance
+
+Shoot(90) - Affected by bow stats, arrow stats, Int, and Dex
+  Accuracy - Min_chance = (bow_accuracy + arrow_accuracy + hitroll + Int + (skill / 5), Max_chance = (skill / 2) + 50, base_chance = (random number between min and max) + level, if the target is a Giant add half your level again
+  Power - Base_dam = 2d(((bow_power + arrow_power) / 2) + 3 + (skill / 15) + damroll), against NPCs the damage is lessened by class (-7 for warriors, for example), if the target is a giant add (level / 4) to the damage, there is a 1% chance that armor checks and limit_damage are skipped for full damage
+  Speed - Base_speed = (5 * Dex) + (skill / 5) + ((bow_speed + arrow_speed) * 2) + level, Haste adds +20 to base_speed, final_speed = (300 - base_speed) / 10, the lower the better with 4 being the minimum you can reach, it represents the number of 1/4 second pulses to lag the shooter, if you can get down to a final_speed of 4 or less that means you can shoot 4 times per turn
+
+Instinct(90) - No stat modifiers (see instinct breakdown)
+
+Hunt(90) - No stat modifiers
+
+Sneak(80) - No stat modifiers, the farther you travel the higher your learn chance becomes, backtracking does not help, it takes 25 rooms to hit 50% learn chance
+-
+Target(90) - Half of your Dex is added to the calculation, modified skill = ((skill + dex) / 2) + (45 - enemy dex or level whichever is greater), failure_mod = skill + 1d100, failure mod is checked to see if you fall or switch to the wrong target, failure < 41 attacks the wrong target, 41-70 falls out of combat
+
+Camp(90) - No stat modifiers, campfires always increases move regen by (skill / 3) + 10, if skill > 33 it also gives hps regen of (skill / 3) + 5, if skill > 66 then it gives mem_factor of (skill / 5)
+
+Scout(90) - Affected by Dex/Int/Wis, Scout requires a Dex check, Scout scan requires a Dex and Int check, Scout long requires all three checks - Dex/Int/Wis
+
+Fence(90) - Affected by Dex and Str like Parry, 25% less successful than Parry, the fencing roll is 1d105 instead of the usual 1d100, if fencing while sitting subrtract 50 from your skill, if either party is blind add/subtract 30 from your skill, each successive fencing attempt gets harder
+
+Fade(75) - No stat modifiers, makes sneak and hide checks
+
+Rescue(80) - No stat modifiers
+-
+Riposte(90) - Modified by weapon skill, combined_skill = riposte_skill + weapon_skill, a value called power is calculated randomly from 1-4 with 4 being the hardest to get, if power > 1 then weapon damage is doubled, each weapon type has a slightly different effect for each of the 3 types of ripostes: Thrust, Slash, and Bludgeon, most of these special effects need a power of 3 or more to activate
+  Axes - Thrust adds 5 damage and applies bash_mod, Slash adds 5 damage and applies silence, Bludgeon adds 0 damage and applies negative damage_factor
+  Bludgeons - Thrust adds 0 damage and worsens the victim's armor, Slash adds 5 damage and lowers the victim's strength (can also sit them), Bludgeon adds 5 damage and applies negative hitroll
+  L.Blades - Thrust adds 0 damage and applies negative regen_factor and damage_factor (can also cause a fumble), Slash adds 5 damage and applies negative health, Bludgeon adds 5 damage and increases your critical score (can also disorient victim)
+  Misc - Thrust adds 5 damage and worsens their spell_save (can also worsen para_save), Slash adds 0 damage and applies fumble_chance, Bludgeon adds 5 damage and applies negative concentration_factor
+  Piercers - Thrust adds 5 damage and blinds, Slash adds 0 damage lowers flee_chance, Bludgeon adds 5 damage and sits the target
+  S.Blades - Thrust adds 0 damage and limit_damage factor (can also paralyze), Slash adds 5 damage and applies negative Str (can also apply negative Dex), Bludgeon adds 0 damage and casts weariness on the victim (can also lower flee_chance
+-
+Evade(90) - No stat modifiers, unbalance cuts your skill in half, fighting also lowers your chance quite a bit, evade is triggered by: Freeze, Nightmare, Malevolent Tentacles, Sunray, Holy Word, Wave of Terror, Lightning Storm, Ice Storm, Entangle, Cloud spells, Fireball, Prismatic Spray, Color Spray, Power Word Stun, Glitterdust, Cold Snap, Blastwave, Breath Weapons, Traps, and Auraks exploding
+
+Wildfire(90) - No stat modifiers, applies resist_heat of (skill / 4) + 1 for a duration of (skill / 10) + 1, adds fire damage to your melee and shoot attacks for 5 rounds, melee damage = (skill / 4) + 1, shoot damage = (skill / 6) + 1
+
+*Burst(90) - No stat modifiers, duration = 15, easier to trigger in melee than shooting, does a flurry of attacks = 1 + (skill / 33)

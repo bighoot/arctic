@@ -1,0 +1,27 @@
+Dark Knight Skills
+
+Weapons - l.blades(95), s.blades(90/95), two-handed(85/90), piercers(85/90), polearms(85/90), axes(85/90), blud(85/90), misc(85/90)
+
+Drain(90) - No stat modifiers, if the victim makes a Dex check you miss, cooldown = 20 - (skill / 18), damage = (10d5 + 3d5), when damage is rolled another skill check is made and halves the damage if you fail, if victim fails a petri_save you apply black_mantle to them for (level / 10) duration that lessens their healing received by -50, healing for you is more than a cure critical, legendary adds 10% damage and shortens the cooldown to 11
+  Defensive Stance - if skill > 30, attempts to remove a negative spell from you
+  Offensive Stance - if skill > 30, drains Dex from your target: duration = 5, Dex stolen = skill / 30 
+
+Stance(90) - No stat modifiers, defensive stance applies limit_dam of: -(5 + skill / 10), legendary def add +2 Con, offensive stance applies damroll of: 1 + (skill / 50), legendary off adds +1str and +1dex, balanced stance applies: hitroll of 1 + (skill / 40), damroll of +1, and a limit_dam of: -(5 + skill / 12), legendary bal applies +1 to Con, Str
+
+Disarm(90) - Affected by Dex and Str, have to beat a regular skill check and a thaco check, thaco check = (thaco + 4 - dex_mod) compared against a d20 roll, target then gets a para_save to avoid the disarm, if in defensive stance you apply fumble chance to your target
+
+March(90) - No stat modifiers
+-
+Thrust(90) - No stat modifiers, being blind halves your skill, legendary lowers the target's extra attack chance by -25, defensive stance has a 50% chance to apply silence to the target for 4 rounds, legendary increases the success chance, offensive stance has a 50% chance to apply no_flee to the target for 3 rounds, legendary increases the success chance, damage for defensive = 8d2, damage for offensive = 8d4
+
+Gaze(80) - Cha modifies the spell effects cast by Gaze, offensive stance applies paralysis for (9 - skill / 12) rounds, defensive stance applies fear for (9 - skill /12) rounds, balanced stance applies daze for (9 - skill / 12) rounds, outside of combat gaze applies charm for (15 - skill / 8)
+
+Bandage(50) - No stat modifiers
+
+Rescue(80) - No stat modifiers
+
+Impair(90) - No stat modifiers, applies negative hitroll to the target, defensive stance applies a damage_factor of: -(5 + skill / 12), legendary def also applies a -10 fumble_chance, offensive stance applies a limit_damage of: 5 + (skill / 12), legendary off applies a concentraion_factor of -10, balanced stance applies a lesser damage_factor and limit_damage effect, legendary bal applies a lesser fumble and concentration effect, if you are affected by Unholy Wrath then you also weaken their critical_resist by (2 * skill)
+
+*Bladecurse(90) - Cha modifies the spell effects cast by Bladecurse, cooldown = 6 - (Cha / 8), duration = 1 + (skill / 10), the chance of casting the spell on each hit is: 25 + (skill / 4)
+
+*Nightfall - No stat modifiers

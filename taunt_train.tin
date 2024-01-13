@@ -1,4 +1,4 @@
-#action {until he becomes red in the face.} {b learn all; b resc maui;}
-#action {aid, but fails miserably.} {b resc maui;}
+#action {until he becomes red in the face.} {b resc cassidy;}
+#action {aid, but fails miserably.} {b resc cassidy;}
 #action {but he ignores you.} {taunt man}
-#action {You're thankful, but a bit dazed.} {learn all; taunt man;}
+#action {You're thankful, but a bit dazed.} {taunt man;}

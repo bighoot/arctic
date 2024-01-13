@@ -1,0 +1,62 @@
+ Object 'mail plate spiritual'
+ Item Type: ARMOR
+ Mat Class: other        Material: gas_vapour
+ Weight   : 0            Value   : 0
+ Affects  : ARMOR         by -6
+ Item is  : GLOW MAGIC BLESS ANTI_GOOD ANTI_EVIL
+ Apply    : 8
+ This object is part of a larger set.
+
+
+ Object 'helmet spiritual'
+ Item Type: ARMOR
+ Mat Class: other        Material: gas_vapour
+ Weight   : 0            Value   : 0
+ Affects  : ARMOR         by -4
+ Item is  : GLOW MAGIC BLESS ANTI_GOOD ANTI_EVIL
+ Apply    : 8
+ This object is part of a larger set.
+
+
+ Object 'greaves spiritual'
+ Item Type: ARMOR
+ Mat Class: other        Material: gas_vapour
+ Weight   : 0            Value   : 0
+ Affects  : ARMOR         by -4
+ Item is  : GLOW MAGIC BLESS ANTI_GOOD ANTI_EVIL
+ Apply    : 8
+ This object is part of a larger set.
+
+
+ Object 'boots spiritual'
+ Item Type: ARMOR
+ Mat Class: other        Material: gas_vapour
+ Weight   : 0            Value   : 0
+ Affects  : ARMOR         by -4
+ Item is  : GLOW MAGIC BLESS ANTI_GOOD ANTI_EVIL
+ Apply    : 8
+ This object is part of a larger set.
+
+
+ Object 'gauntlets spiritual'
+ Item Type: ARMOR
+ Mat Class: other        Material: gas_vapour
+ Weight   : 0            Value   : 0
+ Affects  : ARMOR         by -6
+ Item is  : GLOW MAGIC BLESS ANTI_GOOD ANTI_EVIL
+ Apply    : 8
+ This object is part of a larger set.
+
+
+ Object 'vambraces spiritual'
+ Item Type: ARMOR
+ Mat Class: other        Material: gas_vapour
+ Weight   : 0            Value   : 0
+ Affects  : ARMOR         by -4
+ Item is  : GLOW MAGIC BLESS ANTI_GOOD ANTI_EVIL
+ Apply    : 8
+ This object is part of a larger set.
+
+ Abilities: Str 22 Int 16 Wis 24 Dex 13 Con 18 Cha 17
+ vs
+ Abilities: Str 22 Int 16 Wis 26 Dex 13 Con 18 Cha 17

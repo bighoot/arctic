@@ -1,0 +1,4069 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+
+You were last connected Thu Jan 12 18:41:56 2023 UTC from 73.181.104.224.
+Reconnecting.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+A street illusionist leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> b
+Sorry, but you cannot do that here!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+[36mSomeone tells your clan 'what you doing mav'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+[37mYour clanmate Sprink has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+A bird with a brilliant orange lower belly lands nearby.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+Sprink flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+Sprink flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:25 Exits:NESWU> 
+[36mSomeone tells your clan 'hey chris'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:21 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'hey chris'[0m
+
+[36mIshvadsu tells your clan 'trying to remember raynes'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:20 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'trying to remember raynes'[0m
+
+[36mSprink tells your clan 'hey mike'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:18 Exits:NESWU> 
+An orange-breasted falcon takes flight and flies west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> 
+Dandrea arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+[36mSomeone tells your clan 'mike leads raynes like a champ'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'mike leads raynes like a champ'[0m
+
+[36mSomeone tells your clan 'can you hit up brian and see if he needs call light'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'can you hit up brian and see if he needs call light'[0m
+[0;37mct sure[0m
+You tell your clan 'sure'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Maui: 'sure'[0m
+
+[37mThe clouds block your view of Solinari.
+[31mThe clouds block your view of Lunitari.
+[34mThe clouds block your view of Nuitari.
+[0;37mYou are hungry.
+You are thirsty.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+Sir Kantar uth MacKan marches in from the west and looks you over.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> [0;37mboth eat bread[0m
+You can't seem to find it!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> [0;37mcast 'cr fo'[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+Sir Kantar uth MacKan utters some strange words.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> [0;37mcast 'cr fo'[0m
+You utter the words, 'create food'
+You create some food.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mMem:3 T:38 Exits:NESWU> [0;37meat bread[0m
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mMem:3 T:34 Exits:NESWU> [0;37mdrop bread[0m
+You drop a piece of sweet bread.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mMem:3 T:33 Exits:NESWU> 
+A Solace peacekeeper arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mMem:3 T:31 Exits:NESWU> [0;37mb get bread[0m
+
+Sprink gets a piece of sweet bread.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:3 T:31 Exits:NESWU> [0;37mb eat bread[0m
+[0;37mboth drink all.water[0m
+You drink the water.
+You are full.
+You drink the water.
+You do not feel thirsty.
+You are full.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:27 Exits:NESWU> [0;37mb[0m
+
+Dandrea leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:26 Exits:NESWU> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:25 Exits:NESWU> 
+Meru arrives from the west.
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:19 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:16 Exits:NESWU> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:14 Exits:NESWU> 
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:13 Exits:NESWU> [0;37mb hide[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:11 Exits:NESWU> 
+Sir Kantar uth MacKan marches off south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:8 Exits:NESWU> [0;37mb hide[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:6 Exits:NESWU> 
+A bird with a brilliant orange lower belly lands nearby.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:5 Exits:NESWU> [0;37mb hide[0m
+
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESWU> 
+Dandrea arrives from above.
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:56 Exits:NESWU> 
+Meru leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:55 Exits:NESWU> [0;37mb hide[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+[37mYour clanmate Boone has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+[37mYour clanmate Cunningham has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> 
+Dandrea leaves south.
+The janitor arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> 
+Meru arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> 
+The janitor arrives from above.
+An orange-breasted falcon takes flight and flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+[36mSomeone tells your clan 'zz'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Skar: 'zz'[0m
+
+The janitor leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+[37mYour clanmate Rasenth has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+Fir flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+Fir flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+[37mYour clanmate Xiojade has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+Davy flies in from the south.
+Jones flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+[37mYour clanmate Cunningham has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+Davy touches a finger to his forehead then waves it in a circle.
+A tiny glob of clay expands and contorts into Frankie the clay golem.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+[36mSomeone tells your clan 'what you need help with mav'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'what you need help with mav'[0m
+
+Davy focuses on Jones and utters some strange words.
+Jones slowly fades out of sight.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+Meru leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+[37mYour clanmate Pryor has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+Davy focuses on Frankie the clay golem and utters some strange words.
+Frankie the clay golem slowly fades out of sight.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+Davy utters some strange words.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+[36mIshvadsu tells your clan 'full , just explriong raynes'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'full , just explriong raynes'[0m
+
+[36mFir tells your clan 'ok i can answer any questions'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Fir: 'ok i can answer any questions'[0m
+
+[37mYour clanmate Xiojade has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+[37mYour clanmate Rasenth has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+A cagey elf arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+A cagey elf leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+A bird with a brilliant orange lower belly lands nearby.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+The janitor arrives from the east.
+An orange-breasted falcon takes flight and flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+The janitor leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> [0;37mb[0m
+
+[36mSomeone tells your clan 'anyone available to help me kill fordus'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'anyone available to help me kill fordus'[0m
+
+A Seeker priest arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+[36mSomeone tells your clan 'zz'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'zz'[0m
+
+A bird with a brilliant orange lower belly lands nearby.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+The beggar arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+Dandrea arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> [0;37mct mike brian texted me he has call lightning[0m
+You tell your clan 'mike brian texted me he has call lightning'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Maui: 'mike brian texted me he has call lightning'[0m
+
+[36mSomeone tells your clan 'tic val'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'tic val'[0m
+[0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA medallion glowing with a bright light is lying here...it emits an arcane glow..it glows dimly
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mDandrea, Noble Lady of Palanthas is standing here. (white aura)
+A beggar is here, begging you for a loaf of bread for supper.
+An orange-breasted falcon is perched here while feasting on a prey.
+A Seeker priest stands here trying to convert unbelievers.
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+You fill a waterskin from the stone fountain.
+You fill a waterskin from the stone fountain.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> [0;37mb[0m
+
+A Seeker priest leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+An orange-breasted falcon takes flight and flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+The janitor arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+The janitor leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+The beggar leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> [0;37msc[0m
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 12. You have completed 95.85% of your next rank.
+You are 19 years old.
+You have 441(441) hit and 132(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 1520(11472) steel coins.
+You have 1 rank point to spend.
+You have died 1 horrible death.
+You have been connected for 3 hour(s) and 47 minute(s).
+You have been playing for 4 day(s), 3 hour(s) and 14 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are watching someone.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:8 Exits:NESWU> 
+Dandrea leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+[36mSomeone tells your clan 'https://www.youtube.com/watch?v=w5MYbTbPF48'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'https://www.youtube.com/watch?v=w5MYbTbPF48'[0m
+
+[36mSomeone tells your clan 'mokey sleep'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'mokey sleep'[0m
+
+[36mSomeone tells your clan 'zz'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'zz'[0m
+[0;37mb[0m
+
+The beggar arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+[36mSomeone tells your clan 'what you doing'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'what you doing'[0m
+
+The beggar leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA medallion glowing with a bright light is lying here...it emits an arcane glow..it glows dimly
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+A Seeker priest arrives from the south.
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> [0;37msc[0m
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 12. You have completed 95.85% of your next rank.
+You are 19 years old.
+You have 441(441) hit and 132(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 1520(11472) steel coins.
+You have 1 rank point to spend.
+You have died 1 horrible death.
+You have been connected for 3 hour(s) and 49 minute(s).
+You have been playing for 4 day(s), 3 hour(s) and 16 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are watching someone.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+A small kitten arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> [0;37mgroup[0m
+Your group of 2 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  [0;37m[32mCL Maui             perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [31m  N [32m  Y  [31m   0   [0;37m 0
+  [0;37m[32mTH Sprink           perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [31m  N  [31m  N [32m  Y  [31m   0   [0;37m 0
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> [0;37min[0m
+You are carrying:
+a piece of sweet bread..it emits an arcane glow [9]
+the scroll of ancient power..it emits an arcane glow
+a glowing scroll of recall..it emits an arcane glow..it glows dimly [6]
+a pinch of powdered malachite
+a small diamond dagger
+a small wooden chest
+a sprig of pine
+a waterskin [4]
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> [0;37mb[0m
+
+A small kitten leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+A Seeker priest leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+The rising sun barely lights the dark and cloudy sky.
+The lightning has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+The janitor arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> 
+The janitor leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> 
+Sherman flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+Sherman flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+The rising sun proclaims a new day.
+The rain has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+You step aside just in time to avoid a young child running from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> 
+The janitor arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+The lightning has stopped.
+[37mYour clanmate Miriam has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+Bored with this area, a young child runs west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+[36mSomeone tells your clan 'guess i'll head to theiwars'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'guess i'll head to theiwars'[0m
+
+You step aside just in time to avoid a young child running from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:46 Exits:NESWU> 
+A small kitten arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+The janitor arrives from the south.
+A small kitten hunches down and hisses at something.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> 
+A small kitten chases a piece of dust around the room.
+A small kitten gets a light medallion.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+[36mSomeone tells your clan 'i just loaded new spear of the hunter'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'i just loaded new spear of the hunter'[0m
+
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+Bored with this area, a young child runs south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> 
+[36mSomeone tells your clan 'nice'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'nice'[0m
+
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+[36mSomeone tells your clan 'since Corey's decayed'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'since Corey's decayed'[0m
+
+A small kitten purrs contentedly.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+A small kitten chases a piece of dust around the room.
+A small kitten leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+Sir Kantar uth MacKan marches in from the north and looks you over.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+Rasenth flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+Rasenth flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+The lightning has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+There is lightning in the sky.
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+Rasenth flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> 
+Rasenth flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> 
+A small kitten arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+Sir Kantar uth MacKan dips some water out of the fountain with his hands.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+A small kitten leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+Sir Kantar uth MacKan says 'I don't see how people can drink from fountains, you never know what someone might have poured into it.'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+Sir Kantar uth MacKan utters some strange words.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+You step aside just in time to avoid a young child running from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything. (white aura)
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> [0;37myawn[0m
+You yawn.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+Sir Kantar uth MacKan marches off west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+The lightning has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+Bored with this area, a young child runs east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> 
+A Seeker priest arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+A Seeker priest leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> [0;37mb[0m
+
+A small kitten arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+A small kitten purrs contentedly.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+A small kitten purrs contentedly.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+A small kitten chases a piece of dust around the room.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+A small kitten chases a piece of dust around the room.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+Sprink flies in from above.
+A small kitten chases a piece of dust around the room.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:16 Exits:NESWU> 
+A small kitten rubs up against Sprink's leg.
+Sprink fills a waterskin from the stone fountain.
+Sprink fills a waterskin from the stone fountain.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:16 Exits:NESWU> 
+Sprink flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+A small kitten runs in circles chasing its tail.
+A small kitten leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+A Solace citizen arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> 
+Sprink flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:38 Exits:NESWU> 
+A small kitten arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+A small kitten leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> [0;37mb[0m
+
+A Solace citizen leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+The janitor arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+The janitor leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+[36mSomeone tells your clan 'i go one north towards delphon and track it'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'i go one north towards delphon and track it'[0m
+
+A Solace citizen arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+[36mSomeone tells your clan 'anyone need call lightning'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'anyone need call lightning'[0m
+
+A Solace citizen leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+A wiry young boy arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+[36mIshvadsu tells your clan 'what its level'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'what its level'[0m
+
+[36mSomeone tells your clan '6th circle'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: '6th circle'[0m
+
+[36mIshvadsu tells your clan 'badass id get'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'badass id get'[0m
+
+You step aside just in time to avoid a young child running from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+A wiry young boy leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+Bored with this area, a young child runs north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+Qfzua flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> 
+Qfzua fills a large hide waterskin from the stone fountain.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+Qfzua flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+Wembley flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Wembley flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+A wiry young boy arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> 
+[36mSomeone tells your clan 'you need it mav?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'you need it mav?'[0m
+
+[36mIshvadsu tells your clan 'ya my dru has 6'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'ya my dru has 6'[0m
+
+A Seeker priest arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+[36mSomeone tells your clan 'ok will hold '
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'ok will hold '[0m
+
+The janitor arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+[36mSomeone tells your clan 'or you can poof to get'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'or you can poof to get'[0m
+
+[36mIshvadsu tells your clan 'i can get now'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'i can get now'[0m
+
+A Seeker priest leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+A Solace citizen arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+The janitor leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+A wiry young boy leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+You step aside just in time to avoid a young child running from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+A Solace citizen leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> 
+Sir Kantar uth MacKan marches in from the west and looks you over.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+Bored with this area, a young child runs up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+Sabrina flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+Sabrina flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+A street illusionist arrives from the south.
+A street illusionist conjures up a pigeon and releases it. You watch as it flies away.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+Sir Kantar uth MacKan utters some strange words.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+A street illusionist leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+Sabrina flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> 
+Sabrina flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+Sir Kantar uth MacKan closes his prayerbook with a content look on his face.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Sir Kantar uth MacKan marches off south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+Sahib arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+Sahib leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Sahib arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> [0;37mb[0m
+
+Sahib leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+[37mYour clanmate Viq has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> 
+Qfzua flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> 
+Qfzua flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+[37mYour clanmate Pliq has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> 
+[36mFir tells your clan 'dave'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Fir: 'dave'[0m
+
+[36mViq tells your clan 'mike'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'mike'[0m
+
+[36mSomeone tells your clan 'dave and mike'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'dave and mike'[0m
+
+Aeniar flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+Aeniar flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> 
+You step aside just in time to avoid a young child running from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+[36mViq tells your clan 'on our way'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'on our way'[0m
+
+[36mSomeone tells your clan 'val meet sh'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'val meet sh'[0m
+
+Bored with this area, a young child runs east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+[36mSomeone tells your clan 'sec, was skilling wembley'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'sec, was skilling wembley'[0m
+
+Wembley flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+[36mViq tells your clan 'crap forgot to fly'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'crap forgot to fly'[0m
+
+Wembley flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+A street illusionist arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+[36mViq tells your clan 'cpl of tics'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'cpl of tics'[0m
+
+Aeniar flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> 
+Aeniar flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+A street illusionist leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+[36mSomeone tells your clan 'where you at'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'where you at'[0m
+
+[36mViq tells your clan 'near restglen'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'near restglen'[0m
+
+[36mViq tells your clan 'th'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'th'[0m
+
+[36mSomeone tells your clan 'rit me'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'rit me'[0m
+
+A street illusionist arrives from the east.
+A street illusionist walks up to you and reaches behind your ear and shows you a steel coin.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> 
+A street illusionist leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+The cloud-veiled sky becomes even darker as the sun sets.
+The rain has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+Sabrina flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+Sabrina flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+Onasou flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+Onasou flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+[36mSomeone tells your clan 'dave ready?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'dave ready?'[0m
+
+[36mViq tells your clan 'sure'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'sure'[0m
+
+[36mViq tells your clan 'rit?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'rit?'[0m
+
+[36mViq tells your clan 'or where at'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'or where at'[0m
+
+The janitor arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+[36mSomeone tells your clan 'be rittable'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'be rittable'[0m
+
+Bennett, the Solace constable arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+[36mViq tells your clan 'oh hold on'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'oh hold on'[0m
+
+A small kitten arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+Bennett, the Solace constable leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+A street illusionist arrives from the east.
+A small kitten pounces on a piece of dirt.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+A small kitten purrs contentedly.
+A small kitten leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+A street illusionist conjures up a pigeon and releases it. You watch as it flies away.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+The darkness marks the end of another day.
+With the setting of the sun, the torch starts to glow lighting the
+surrounding area.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+Qfzua flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+A street illusionist leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+Qfzua flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+Bennett, the Solace constable arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+Sahib arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+Sahib leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+Sabrina flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+Sabrina flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+A street illusionist arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+Sabrina flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+Bennett, the Solace constable leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+Sabrina flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+Sahib arrives from the east.
+A street illusionist walks up to you and reaches behind your ear and shows you a steel coin.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+Bennett, the Solace constable arrives from the south.
+A street illusionist conjures up a pigeon and releases it. You watch as it flies away.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Sahib leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+A street illusionist leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+[37mThe clouds block your view of Solinari.
+[31mThe clouds block your view of Lunitari.
+[34mThe clouds block your view of Nuitari.
+[0;37mYou are hungry.
+You are thirsty.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+Utena flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+Qfzua flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+Utena flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+Qfzua flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Tyrion arrives from the south.
+Arkaine arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+Bennett, the Solace constable leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+Tyrion leaves up.
+Arkaine leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+Onasou flies in from the south.
+Meraklis flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Bennett, the Solace constable arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+A Solace citizen arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Meraklis fills a large hide waterskin from the stone fountain.
+Meraklis fills a waterskin from the stone fountain.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+Onasou flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+Tyrion arrives from above.
+Arkaine arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+A Solace citizen leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+Tyrion leaves north.
+Arkaine leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+Olvaan flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+Olvaan flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+A cagey elf arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+Bennett, the Solace constable leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+A Solace citizen arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+A cagey elf leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+A Solace citizen leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+Tyrion arrives from the north.
+Arkaine arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+Tyrion leaves south.
+Arkaine leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+The janitor arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+A Solace citizen arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+A street illusionist arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+The janitor leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+Qfzua flies in from the north.
+A street illusionist conjures up a pigeon and releases it. You watch as it flies away.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+Qfzua flies west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+A street illusionist leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+Onasou flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+Onasou flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+Sprink flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+Sabrina flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Sabrina flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Sprink flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:48 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:47 Exits:NESWU> [0;37mboth drink all.water[0m
+You drink the water.
+You are hungry.
+You drink the water.
+You are hungry.
+You do not feel thirsty.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:44 Exits:NESWU> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0;37mboth eat bread[0m
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:42 Exits:NESWU> [0;37mb sc[0m
+[0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+A small child arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+A Solace citizen leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+A small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+A wiry young boy arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+A small child leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+A wiry young boy leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+Onasou flies in from the south.
+Meraklis flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> 
+Onasou flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+Utena flies in from the east.
+A griffon arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+Utena flies south.
+A griffon leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+[37mYour clanmate Vespa has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> 
+Onasou flies in from above.
+Meraklis flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+Onasou flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+[37mYour clanmate Miriam has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Sahib arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+A Solace peacekeeper leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+Sahib leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+A Solace peacekeeper arrives from the east.
+A street illusionist arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+A Solace peacekeeper leaves up.
+A street illusionist leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+Onasou flies in from the east.
+Meraklis flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+A street illusionist arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+Onasou flies south.
+Meraklis flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+Psof flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+Psof flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+A street illusionist leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Psof flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> 
+Psof flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> [0;37ma[0m
+
+Mandorallen flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+Mandorallen flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> [0;37mb[0m
+
+Qfzua flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+Qfzua flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> 
+[37mYour clanmate Hel has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+Hel flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+A small kitten arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+Eir flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+A small kitten rubs up against Eir's leg.
+Eir gives a putrid potion to Hel.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+Eir gives a putrid potion to Hel.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+Eir gives a putrid potion to Hel.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+A small kitten leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+Hel flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+You step aside just in time to avoid a young child running from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+Bored with this area, a young child runs west.
+Eir closes her spellbook with a content look on her face.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Eir utters some strange words.
+Eir disappears in a puff of smoke.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+A Solace peacekeeper arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You step aside just in time to avoid a young child running from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+A Solace peacekeeper leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+Bored with this area, a young child runs north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+Bennett, the Solace constable arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+The rising sun barely lights the dark and cloudy sky.
+With the rising sun, the torch flickers and goes out.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Bennett, the Solace constable leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+[36mIshvadsu tells your clan 'juni can answer discrd'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'juni can answer discrd'[0m
+
+A Seeker priest arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> 
+[36mViq tells your clan 'does Ish moc?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'does Ish moc?'[0m
+
+A small kitten arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+A small kitten runs in circles chasing its tail.
+A small kitten leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+[36mIshvadsu tells your clan 'ya'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'ya'[0m
+
+[36mViq tells your clan 'kk'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'kk'[0m
+
+The rising sun proclaims a new day.
+You feel less righteous.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Sir Kantar uth MacKan marches in from the north and looks you over.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+Onasou flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Onasou flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+[36mViq tells your clan 'mokey will need one '
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'mokey will need one '[0m
+
+A Seeker priest leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> 
+Sir Kantar uth MacKan dips some water out of the fountain with his hands.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+Sir Kantar uth MacKan says 'I don't see how people can drink from fountains, you never know what someone might have poured into it.'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+A Seeker priest arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+Tyrion flies in from the south.
+Arkaine flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+A small kitten arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+Tyrion flies west.
+Arkaine flies west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+A small kitten pounces on a piece of dirt.
+A small kitten leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+Sir Kantar uth MacKan utters some strange words.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+The lightning has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Seeker priest leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+[36mSomeone tells your clan 'you need ghostkin sill?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'you need ghostkin sill?'[0m
+
+[36mSomeone tells your clan 'yeah'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'yeah'[0m
+
+Sir Kantar uth MacKan marches off west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+[36mViq tells your clan 'you need gs for legend?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'you need gs for legend?'[0m
+
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+[36mSomeone tells your clan 'john are you in theiwar'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'john are you in theiwar'[0m
+
+Viq flies in from the north.
+Pliq flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+Viq flies south.
+Pliq flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+[36mSomeone tells your clan 'apparently!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'apparently!'[0m
+
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+[36mGromski tells your clan 'nah i did a pit stop in pyramids heh'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'nah i did a pit stop in pyramids heh'[0m
+
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+A Solace peacekeeper arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+[36mViq tells your clan 'im heading to theiwar'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'im heading to theiwar'[0m
+
+[36mViq tells your clan 'ahhaha lol'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'ahhaha lol'[0m
+
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+[36mViq tells your clan 'pop me mage book!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'pop me mage book!'[0m
+
+[36mViq tells your clan 'how far into pryamids?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'how far into pryamids?'[0m
+
+An old beggar arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> 
+Priph flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+[36mViq tells your clan 'i should come grab some guardian spirits'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'i should come grab some guardian spirits'[0m
+
+Priph flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+An old beggar leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+The lightning has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+An old beggar arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+The beggar says 'Spare some change? I need to ride the caravan to my new job.'
+Onasou flies in from above.
+Meraklis flies in from above.
+Psof flies in from above.
+Psofdio the fearsome blue dragon flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+The beggar picks his nose and examines what he finds.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+Onasou flies north.
+Psof flies north.
+Psofdio the fearsome blue dragon flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> 
+The beggar says 'Spare some change? I need to ride the caravan to my new job.'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> 
+An old beggar leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+[36mGromski tells your clan 'in priest area atm'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'in priest area atm'[0m
+
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+A loud voice is heard booming throughout the town, 'The caravan has
+arrived, we will be leaving in about four hours.'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+[36mViq tells your clan 'ill just run theiwar'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'ill just run theiwar'[0m
+
+A Seeker priest arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+Sprink flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+Sprink flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:50 Exits:NESWU> 
+Sprink fills a waterskin from the stone fountain.
+Sprink fills a waterskin from the stone fountain.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:50 Exits:NESWU> 
+[36mViq tells your clan 'fecking should start doing twisted fate'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:50 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'fecking should start doing twisted fate'[0m
+
+[36mSomeone tells your clan 'those spirits better anyhow'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:50 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'those spirits better anyhow'[0m
+
+A Seeker priest leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:49 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Sabrina stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+You fill a waterskin from the stone fountain.
+You fill a waterskin from the stone fountain.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+[36mViq tells your clan 'oh aye'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'oh aye'[0m
+
+A Seeker priest arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+Sahib arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+Sahib leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+Priph flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+Priph flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+A small kitten arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+A small kitten leaves south.
+A Solace citizen arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> 
+Utena flies in from the south.
+A griffon arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:46 Exits:NESWU> 
+Utena flies north.
+A griffon leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:46 Exits:NESWU> 
+Utena flies in from the north.
+A griffon arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+Utena flies east.
+A griffon leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+[36mViq tells your clan 'no'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'no'[0m
+
+[36mViq tells your clan 'get yourself mocced and learn last chance'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'get yourself mocced and learn last chance'[0m
+
+A Seeker priest leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+A Solace citizen leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+A loud voice is heard booming throughout the town, 'The caravan will be
+leaving in just under an hour,' it announces.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (superb)            miscellaneous (bad)             
+
+     turn          (very poor)       
+     bandage       (excellent)       
+     divinity      (very good)         meditate      (superb)          
+     brew          (very poor)         scribe        (poor)            
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> [0;37mb[0m
+
+An old beggar arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+A Solace citizen arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+An old beggar leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+An old beggar arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+Utena flies in from the east.
+A griffon arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+A Solace citizen leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+Utena flies south.
+A griffon leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+[36mViq tells your clan 'afk'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'afk'[0m
+
+[36mSomeone tells your clan 'mav?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'mav?'[0m
+
+A Solace citizen arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:46 Exits:NESWU> 
+A Solace citizen leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Sabrina stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mAn old beggar hobbles along here looking for handouts.
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+[36mEir tells your clan 'any mage need black rune white rune ams'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Eir: 'any mage need black rune white rune ams'[0m
+
+An old beggar leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+Utena flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+Utena flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+[36mEir tells your clan 'any mage need black rune white rune ams before i sell it'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Eir: 'any mage need black rune white rune ams before i sell it'[0m
+
+[36mSomeone tells your clan 'litto is my 4th char'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'litto is my 4th char'[0m
+
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+[36mSomeone tells your clan 'so might just sell it :)'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:8 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'so might just sell it :)'[0m
+
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+Sabrina flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> 
+Sabrina flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> 
+[36mEir shouts 'black rune/ams/white rune for sale'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+Sabrina flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+Sabrina flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> 
+Sabrina flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+[36mSomeone tells your clan 'did you do omen yet?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'did you do omen yet?'[0m
+
+Sabrina flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+[36mEir tells your clan 'doing in a couple hours'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Eir: 'doing in a couple hours'[0m
+
+[36mEir tells your clan 'have a job soon'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Eir: 'have a job soon'[0m
+
+[36mSomeone tells your clan 'nod'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'nod'[0m
+
+An old beggar arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+Sir Kantar uth MacKan marches in from the west and looks you over.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+The beggar says 'Spare some change? I need to ride the caravan to my new job.'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+A street illusionist arrives from the east.
+A street illusionist walks up to you and reaches behind your ear and shows you a steel coin.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+An old beggar leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+[36mSomeone tells your clan 'ishvadsu here?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'ishvadsu here?'[0m
+
+[36mIshvadsu tells your clan 'ya'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'ya'[0m
+
+Sir Kantar uth MacKan utters some strange words.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+A street illusionist leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+A street illusionist arrives from the east.
+A street illusionist conjures up a pigeon and releases it. You watch as it flies away.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+[36mSomeone tells your clan 'could you puff and moc me?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'could you puff and moc me?'[0m
+
+An old beggar arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+The beggar says 'Spare some change? I need to ride the caravan to my new job.'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> 
+[36mIshvadsu tells your clan 'tic'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Ishvadsu: 'tic'[0m
+
+[36mSomeone tells your clan 'cool, thanks'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'cool, thanks'[0m
+
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+A street illusionist leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+The janitor arrives from the west.
+A street illusionist arrives from above.
+A street illusionist demonstrates how he is able to levitate off the ground.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+The beggar picks his nose and examines what he finds.
+The beggar says 'Spare some change? I need to ride the caravan to my new job.'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+Sir Kantar uth MacKan marches off south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+A street illusionist leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+A small child arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> [0;37mb[0m
+
+The beggar picks his nose and examines what he finds.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+The janitor arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+A small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+Sprink flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+Sprink flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:8 Exits:NESWU> 
+[36mSomeone tells your clan 'we get MLK as a holiday but not presidents day'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:7 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'we get MLK as a holiday but not presidents
+[0;1;34;49mday'[0m
+
+An old beggar notices you looking at him and hobbles toward you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:7 Exits:NESWU> 
+The janitor leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:1 Exits:NESWU> 
+[37mYour clanmate Fir has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESWU> 
+A small child leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:58 Exits:NESWU> [0;37mb hide[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+[37mYour clanmate Fir has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> 
+The janitor leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+The janitor leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> 
+[36mFir tells your clan 'revici is still not superb'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Fir: 'revici is still not superb'[0m
+
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> 
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+An old beggar leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+A street illusionist arrives from above.
+A street illusionist conjures up a pigeon and releases it. You watch as it flies away.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+An old beggar arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+A street illusionist leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> 
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+A small child arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+Sabrina flies in from the south.
+A small child points a thin wooden stick at Sabrina.
+Sabrina shines with a holy light.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+Sabrina flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+An old beggar leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+[37mYour clanmate Ishvadsu has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> 
+Wembley flies in from the north.
+Fir flies in from the north.
+A small child points a thin wooden stick at Fir.
+Fir shines with a holy light.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+Wembley flies south.
+Fir flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+The janitor arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Sabrina flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sabrina flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+A small kitten arrives from the east.
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> [0;37mb[0m
+
+A small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:46 Exits:NESWU> 
+Sabrina flies in from above.
+A small kitten hunches down and hisses at something.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+Sabrina flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> 
+[36mHel tells your clan 'sarson robe lasts a while yeah?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Hel: 'sarson robe lasts a while yeah?'[0m
+
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+A Solace peacekeeper leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+A small kitten leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+A small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> 
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+[37mYour clanmate Ishvadsu has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+A small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+A small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+A small child leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+A Solace peacekeeper leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+The janitor arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+A Solace citizen arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> 
+Pousoidis flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+Pousoidis flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+A Solace peacekeeper arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+A Solace citizen leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+The rain has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+[37mYour clanmate Hel has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+Rasenth flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> 
+Rasenth flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> 
+Rasenth flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+Rasenth flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> 
+Onasou flies in from the north.
+The spirit of a Knight of the Crown arrives from the north.
+The spirit of a soldier of Tantallon Keep arrives from the north.
+The spirit of a soldier of Tantallon Keep arrives from the north.
+Psof flies in from the north.
+Psofdio the fearsome blue dragon flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Meraklis studies the room and its contents carefully.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:46 Exits:NESWU> 
+An old beggar arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+You step aside just in time to avoid a young child running from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+An old beggar notices you looking at him and hobbles toward you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+The beggar says 'I just lost my job, can you spare a few coins?'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> 
+Onasou flies east.
+The spirit of a Knight of the Crown leaves east.
+The spirit of a soldier of Tantallon Keep leaves east.
+The spirit of a soldier of Tantallon Keep leaves east.
+Meraklis flies east.
+Psof flies east.
+Psofdio the fearsome blue dragon flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> 
+A street illusionist arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+Bored with this area, a young child runs east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+A small kitten arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+A street illusionist walks up to you and reaches behind your ear and shows you a steel coin.
+A small kitten hunches down and hisses at something.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> 
+An old beggar leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+A street illusionist leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+A small kitten leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+Zam flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+Zam flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+You step aside just in time to avoid a young child running from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+Bored with this area, a young child runs up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+Zam flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+Zam flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+The cloud-veiled sky becomes even darker as the sun sets.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A small kitten arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+A small kitten purrs contentedly.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+A small kitten chases a piece of dust around the room.
+A small kitten leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+Zam flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+Zam flies west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+Pousoidis flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+Bennett, the Solace constable arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+Zam flies in from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+Zam flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+[37mYour clanmate Lena has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+Pousoidis says 'hide everyone hide!'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+The darkness marks the end of another day.
+With the setting of the sun, the torch starts to glow lighting the
+surrounding area.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Bennett, the Solace constable leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+[37mYour clanmate Mena has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+Bennett, the Solace constable arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+[36mPousoidis shouts 'hide party in solace!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+Zam flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+Pousoidis flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+Zam flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+Bennett, the Solace constable leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+Bennett, the Solace constable arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+Bennett, the Solace constable leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+An old beggar arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+Rhose flies in from the south.
+Blanche flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+Rhose flies north.
+Blanche flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+A Solace peacekeeper arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+[37mThe clouds block your view of Solinari.
+[31mThe clouds block your view of Lunitari.
+[34mThe clouds block your view of Nuitari.
+[0;37m[0;37mYou feel less righteous.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+An old beggar leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+Joker flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+Zam flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> 
+Zam flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> 
+Zam flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+Zam flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+Joker studies the room and its contents carefully.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+A Solace peacekeeper leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+A street illusionist arrives from the west.
+A street illusionist walks up to you and reaches behind your ear and shows you a steel coin.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+The lightning has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A street illusionist leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+A street illusionist arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> 
+An old beggar arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+An old beggar notices you looking at him and hobbles toward you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+The janitor arrives from the east.
+A street illusionist demonstrates how he is able to levitate off the ground.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> 
+An old beggar leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+A street illusionist leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+[36mViq tells your clan 'whee'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'whee'[0m
+
+[36mViq tells your clan 'back'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'back'[0m
+
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+[36mSomeone tells your clan 'wb'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'wb'[0m
+
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> 
+The rain has stopped.
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+The janitor leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+An old beggar arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+A Seeker priest arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+A Seeker priest arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> 
+A Seeker priest leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+An old beggar leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> [0;37mboth drink all.water[0m
+You drink the water.
+You are hungry.
+You do not feel thirsty.
+You drink the water.
+You are hungry.
+You do not feel thirsty.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0;37mboth eat bread[0m
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> [0;37min[0m
+You are carrying:
+a piece of sweet bread..it emits an arcane glow [7]
+the scroll of ancient power..it emits an arcane glow
+a glowing scroll of recall..it emits an arcane glow..it glows dimly [6]
+a pinch of powdered malachite
+a small diamond dagger
+a small wooden chest
+a sprig of pine
+a waterskin [4]
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> [0;37msc[0m
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 12. You have completed 95.85% of your next rank.
+You are 19 years old.
+You have 441(441) hit and 132(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 1520(11472) steel coins.
+You have 1 rank point to spend.
+You have died 1 horrible death.
+You have been connected for 4 hour(s) and 33 minute(s).
+You have been playing for 4 day(s), 4 hour(s) and 0 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are watching someone.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> [0;37mb[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+A Seeker priest leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> [0;37mgive bread sprink[0m
+No one by that name around here.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> [0;37mb[0m
+
+Sprink fills a waterskin from the stone fountain.
+Sprink fills a waterskin from the stone fountain.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:2 Exits:NESWU> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+[36mViq tells your clan 'hrrm gonna see if i can remeber mindflayers'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:58 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'hrrm gonna see if i can remeber
+[0;1;34;49mmindflayers'[0m
+
+Sprink utters the words, 'qf fo'.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:57 Exits:NESWU> 
+[36mViq tells your clan 'or should i bother'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:55 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'or should i bother'[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:50 Exits:NESWU> 
+A Seeker priest arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:49 Exits:NESWU> [0;37mcast 'cr fo'[0m
+You utter the words, 'create food'
+You create some food.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:47 Exits:NESWU> [0;37mdrop all.bread[0m
+[0;37mb get bread[0m
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+You drop a piece of sweet bread.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:43 Exits:NESWU> [0;37mb get bread[0m
+[0;37mb eat bread[0m
+[0;37mb get bread[0m
+[0;37mb eat bread[0m
+[0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA small roll of bread lies here...it emits an arcane glow [25]
+A glorious statue of Sabrina stands here in a victory pose.
+A long torch functions as a street lamp here...it glows dimly
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA Seeker priest stands here trying to convert unbelievers.
+You sense that you are not alone.
+You sense that you are not alone.
+<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:36 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+You fill a waterskin from the stone fountain.
+You fill a waterskin from the stone fountain.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:36 Exits:NESWU> 
+[36mSomeone tells your clan 'hunt otyugh, get bone key, go towards theiwar area, instead of going n, go 2s, or so, enter crack, follow
+[0;36mpath'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:27 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'hunt otyugh, get bone key, go
+[0;1;34;49mtowards theiwar area, instead of going n, go 2s, or so, enter crack, follow path'[0m
+
+Pousoidis flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:25 Exits:NESWU> 
+Pousoidis flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:23 Exits:NESWU> 
+[36mSomeone tells your clan 'then go down, w w, to master'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:20 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'then go down, w w, to master'[0m
+
+Dandrea arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:20 Exits:NESWU> 
+A Seeker priest leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:19 Exits:NESWU> 
+[36mViq tells your clan 'aye'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:19 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'aye'[0m
+
+A Seeker priest arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:13 Exits:NESWU> 
+[36mEir tells your clan 'gotta kill master before he pops'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:11 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Eir: 'gotta kill master before he pops'[0m
+
+A Seeker priest leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:7 Exits:NESWU> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESWU> 
+Dandrea leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:56 Exits:NESWU> 
+The janitor arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:56 Exits:NESWU> 
+Dandrea arrives from the north.
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:50 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:50 Exits:NESWU> 
+You step aside just in time to avoid a young child running from the east.
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:44 Exits:NESWU> 
+Bored with this area, a young child runs east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:40 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:38 Exits:NESWU> 
+The janitor picks up some trash.
+[36mFir tells your clan 'i dont have mage'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:32 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Fir: 'i dont have mage'[0m
+
+[36mFir tells your clan 'not doing that fight'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:31 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Fir: 'not doing that fight'[0m
+
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:26 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:20 Exits:NESWU> 
+[36mViq tells your clan 'which fight'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:19 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'which fight'[0m
+
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:14 Exits:NESWU> 
+[36mSomeone tells your clan 'master flayer'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:10 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'master flayer'[0m
+
+Dandrea leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:8 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:8 Exits:NESWU> 
+[36mPliq tells your clan 'oh'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:6 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Pliq: 'oh'[0m
+
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:2 Exits:NESWU> 
+[36mPliq tells your clan 'haha'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:2 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Pliq: 'haha'[0m
+
+A Seeker priest arrives from the east.
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:1 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Sabrina stands here in a victory pose.
+A small roll of bread lies here...it emits an arcane glow [13]
+A long torch functions as a street lamp here...it glows dimly
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA Seeker priest stands here trying to convert unbelievers.
+A janitor is walking around, cleaning up. (white aura)
+You sense that you are not alone.
+You sense that you are not alone.
+<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESWU> [0;37mb hide[0m
+
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> 
+A Seeker priest leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> 
+[36mViq tells your clan 'bleh someone in theiwar i think'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'bleh someone in theiwar i think'[0m
+
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+A Seeker priest arrives from the north.
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+[36mFir tells your clan 'maybe'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Fir: 'maybe'[0m
+
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+A Seeker priest leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:8 Exits:NESWU> 
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:8 Exits:NESWU> 
+Namaka flies in from the west.
+The janitor picks up some trash.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+Namaka flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+[36mSomeone tells your clan 'might be me'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'might be me'[0m
+
+[36mSomeone tells your clan 'finally, superb breach'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Vespa: 'finally, superb breach'[0m
+
+[36mViq tells your clan 'hahah'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'hahah'[0m
+
+The janitor arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> 
+Bennett, the Solace constable arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> 
+Bennett, the Solace constable leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> [0;37mb[0m
+
+You step aside just in time to avoid a young child running from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+Sir Kantar uth MacKan marches in from the north and looks you over.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> 
+Bored with this area, a young child runs south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+A wiry young boy arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+Sir Kantar uth MacKan dips some water out of the fountain with his hands.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:8 Exits:NESWU> 
+Bennett, the Solace constable arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+Sir Kantar uth MacKan says 'I don't see how people can drink from fountains, you never know what someone might have poured into it.'
+The rising sun barely lights the dark and cloudy sky.
+With the rising sun, the torch flickers and goes out.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Bennett, the Solace constable leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Seeker priest arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> [0;37mb[0m
+[0;37m[0m
+
+A Seeker priest leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Zam stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA fidgeting wiry young boy stands here looking suspicious.
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything. (white aura)
+You sense that you are not alone.
+You sense that you are not alone.
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+Sir Kantar uth MacKan utters some strange words.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+A wiry young boy leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> [0;37mb[0m
+
+Aleks flies in from the north.
+Aeniar flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Aleks flies south.
+Aeniar flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+Sprink flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> 
+[36mSomeone tells your clan 'anyone need call lit tab?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'anyone need call lit tab?'[0m
+
+Sprink flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:32 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:31 Exits:NESWU> 
+Sir Kantar uth MacKan marches off west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:30 Exits:NESWU> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:29 Exits:NESWU> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:25 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:24 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:23 Exits:NESWU> 
+[36mSomeone tells your clan 'keeps dropping instead of summon!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:21 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mena: 'keeps dropping instead of summon!'[0m
+[0;37mb hide[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+[36mSomeone tells your clan 'not i'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Vespa: 'not i'[0m
+
+The rising sun proclaims a new day.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Qfzua flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> 
+Qfzua flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> 
+Qfzua flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+Qfzua flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+Unver flies in from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+Unver flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> 
+Joker flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+Unver flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+Unver flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+Pousoidis flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:8 Exits:NESWU> 
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> 
+Qfzua flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+Pousoidis flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+A Solace peacekeeper arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+Qfzua flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+[36mSomeone shouts 'a tablet of compressed phaethon bones for sale 1k min bid'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> 
+A Solace peacekeeper leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> 
+A bird with a brilliant orange lower belly lands nearby.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Unver flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+Unver flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Zam stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+An orange-breasted falcon is perched here while feasting on a prey.
+You sense that you are not alone.
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> 
+Zam arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+Unver flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+Unver flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+Zam utters some strange words.
+Zam's stomach stops growling.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+A Seeker priest arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+Zam leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+Unver flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+Unver flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+Unver flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+Unver flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:21 Exits:NESWU> 
+A Seeker priest leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+An orange-breasted falcon takes flight and flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+The janitor arrives from the north.
+A bird with a brilliant orange lower belly lands nearby.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+A Solace peacekeeper arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> [0;37mb[0m
+
+An orange-breasted falcon takes flight and flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:41 Exits:NESWU> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:31 Exits:NESWU> 
+A Solace citizen arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+[36mViq tells your clan 'irda'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'irda'[0m
+
+[36mViq tells your clan 'hrrm'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'hrrm'[0m
+
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+[36mViq tells your clan 'i dont think thats right'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'i dont think thats right'[0m
+
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> 
+[36mViq tells your clan 'CV!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:22 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'CV!'[0m
+
+[36mViq tells your clan 'bleh'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'bleh'[0m
+
+[36mViq tells your clan 'yeah'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'yeah'[0m
+
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+[36mViq tells your clan 'ancient lab!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'ancient lab!'[0m
+
+[36mViq tells your clan 'hehe'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'hehe'[0m
+
+A street illusionist arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+A Solace citizen leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+Mifune flies in from the north.
+Toshiro flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+[37mYour clanmate Fir has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+Mifune flies up.
+Toshiro flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> 
+A Solace peacekeeper leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+A street illusionist leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+A Solace citizen arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+A Solace peacekeeper leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+A Solace peacekeeper leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+[37mYour clanmate Mena has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+A Solace citizen leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+[36mPliq tells your clan 'just blew 30k on repairs'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Pliq: 'just blew 30k on repairs'[0m
+
+[36mPliq tells your clan 'sweet'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Pliq: 'sweet'[0m
+
+A Solace peacekeeper arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+[36mSomeone tells your clan 'lol ouch'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'lol ouch'[0m
+
+A Solace citizen arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+A Solace peacekeeper leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+[36mPliq tells your clan 'aye'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Pliq: 'aye'[0m
+
+Pousoidis flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+Pousoidis scours the area for food.
+Pousoidis looks full.
+Your stomach fills up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+Pousoidis flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+[36mSomeone tells your clan 'save spell -1 save poinson -3 belt no restricts'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'save spell -1 save poinson -3 belt no restricts'[0m
+
+[36mPliq tells your clan 'yes'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Pliq: 'yes'[0m
+
+A Solace citizen leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+[36mSomeone tells your clan 'you want belt?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'you want belt?'[0m
+
+[36mViq tells your clan 'yes please'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'yes please'[0m
+
+Bennett, the Solace constable arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+Bennett, the Solace constable leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:NESWU> 
+[36mViq tells your clan 'gotta do some dread runs for wristbands'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'gotta do some dread runs for wristbands'[0m
+
+Joker flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+[36mViq tells your clan 'maybe a necklace '
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:8 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'maybe a necklace '[0m
+
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+Sir Kantar uth MacKan marches in from the west and looks you over.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+A Seeker priest arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Thorne flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:46 Exits:NESWU> 
+Thorne flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:46 Exits:NESWU> 
+[36mPriph shouts 'The Phaethon bone tablet still for sale?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> 
+Sir Kantar uth MacKan utters some strange words.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> 
+The janitor arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+[36mViq tells your clan 'afk a little bit'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Viq: 'afk a little bit'[0m
+
+The janitor arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+Priph flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+Priph flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:NESWU> 
+The janitor leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+Priph flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+Priph flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:15 Exits:NESWU> 
+A Seeker priest leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+A Solace peacekeeper arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+Sir Kantar uth MacKan marches off south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:8 Exits:NESWU> 
+The janitor arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+The janitor leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+[37mYour clanmate Miriam has left the game.
+[0;37m[37mYour clanmate Vespa has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:52 Exits:NESWU> 
+Priph flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> 
+Priph flies west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> 
+Priph flies in from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+Priph flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+The janitor arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+The janitor leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+A Seeker priest arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:7 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+It starts to rain.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+[36mSomeone tells your clan 'be back later'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'be back later'[0m
+
+A Seeker priest leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+[36mSomeone tells your clan 'congrats on last chance'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'congrats on last chance'[0m
+
+[36mSomeone tells your clan '10x!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: '10x!'[0m
+
+[36mSomeone tells your clan 'still need rotting?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'still need rotting?'[0m
+
+A long-tailed ground dove lands quietly on a branch nearby.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> 
+[36mSomeone tells your clan 'yea'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'yea'[0m
+
+A long-tailed ground dove stretches its wings and flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+You step aside just in time to avoid a young child running from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+[36mSomeone tells your clan 'so now it rot/ghost/something'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'so now it rot/ghost/something'[0m
+
+Pousoidis flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+Pousoidis flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> 
+[36mSomeone tells your clan 'nap?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'nap?'[0m
+
+A long-tailed ground dove lands quietly on a branch nearby.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+Bored with this area, a young child runs north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:53 Exits:NESWU> 
+[36mSomeone tells your clan '!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:51 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: '!'[0m
+
+Aidan arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+The janitor arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+Aidan leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:33 Exits:NESWU> 
+[36mSomeone tells your clan 'do you have nap?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'do you have nap?'[0m
+
+The janitor leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+[36mSomeone tells your clan 'nope'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'nope'[0m
+
+[36mSomeone tells your clan 'ghost and nap are same tier'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'ghost and nap are same tier'[0m
+
+A long-tailed ground dove stretches its wings and flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+[36mSomeone tells your clan 'ok be back in a bit'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:58 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'ok be back in a bit'[0m
+
+[37mYour clanmate Juni has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:55 Exits:NESWU> 
+[36mSomeone tells your clan 'anyways wembley gonna legend first'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Mokey: 'anyways wembley gonna legend first'[0m
+
+A Seeker priest arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> 
+[37mYour clanmate Juni has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+You step aside just in time to avoid a young child running from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+[37mYour clanmate Cabela has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+[37mYour clanmate Cabela has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+[37mYour clanmate Strix has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:19 Exits:NESWU> 
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+[37mYour clanmate Strix has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+A Seeker priest leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+There is lightning in the sky.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:13 Exits:NESWU> 
+[37mYour clanmate Anaya has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+Bored with this area, a young child runs west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+A Seeker priest arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> 
+The lightning has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Aidan arrives from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> 
+Meraklis studies the room and its contents carefully.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+A small kitten arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+A small kitten purrs contentedly.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:45 Exits:NESWU> 
+Aidan chirps happily as he greets other citizens of Solace.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> 
+A small kitten runs in circles chasing its tail.
+A small kitten leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:39 Exits:NESWU> 
+Psof flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+Psof flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:34 Exits:NESWU> 
+A Seeker priest arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:32 Exits:NESWU> 
+The janitor arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+Onasou flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:28 Exits:NESWU> 
+Onasou flies south.
+Meraklis flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+Aidan leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:27 Exits:NESWU> 
+The janitor leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+A small kitten arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:9 Exits:NESWU> 
+A small kitten leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+A Seeker priest leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+The rain has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Tyrion flies in from the west.
+Arkaine flies in from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+A Seeker priest leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Pousoidis flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:49 Exits:NESWU> 
+Tyrion flies north.
+Arkaine flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+Pousoidis flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+Tyrion flies in from the north.
+Arkaine flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:47 Exits:NESWU> 
+Onasou flies in from the south.
+Meraklis flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:44 Exits:NESWU> 
+Onasou flies up.
+Meraklis flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+A Seeker priest arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NESWU> 
+The janitor leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:23 Exits:NESWU> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:17 Exits:NESWU> 
+Onasou flies in from above.
+Meraklis flies in from above.
+Psof flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Tyrion flies north.
+Arkaine flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:14 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:NESWU> 
+The janitor arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+Tyrion flies in from the north.
+Arkaine flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+Aidan arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> 
+Tyrion flies north.
+Arkaine flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+A Seeker priest leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:1 Exits:NESWU> [0m#SESSION 'a' DIED.[0m

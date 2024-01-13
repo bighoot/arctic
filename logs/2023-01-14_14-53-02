@@ -1,0 +1,264 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+
+You were last connected Sat Jan 14 21:27:50 2023 UTC from 73.181.104.224.
+Reconnecting.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 15442C [0;37mT:49 Exits:E> 
+[36mSomeone tells your clan 'ha'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 15442C [0;37mT:49 Exits:E> l
+[35mThe Bank of Myth[0;37m
+    A polished wooden counter hangs on the west side of the area. Behind it,
+a mechanical accountant, obviously purchased from the gnomes of Mount
+Nevermind, sorts through coins and financial documents. It seems readily
+capable of handling both withdrawals from and deposits into the gleaming
+steel safe, tucked along the western wall.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 15442C [0;37mT:48 Exits:E> sc
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 13. You have completed 92.96% of your next rank.
+You are 19 years old.
+You are hungry.
+You are thirsty.
+You have 441(441) hit and 132(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,870,480 exp, and have 15442(9472) steel coins.
+You need 129,520 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 36 minute(s).
+You have been playing for 4 day(s), 14 hour(s) and 32 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are affected by the following:
+    blocked: moment of clarity
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 15442C [0;37mT:48 Exits:E> drink water
+You drink the water.
+You are hungry.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 15442C [0;37mT:42 Exits:E> 
+[36mSomeone tells your clan 'i can just give to some random too : p'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 15442C [0;37mT:41 Exits:E> eat bread
+You can't seem to find it!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 15442C [0;37mT:40 Exits:E> cast 'cr fo'
+You utter the words, 'create food'
+You create some food.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 15442C [0;37mMem:3 T:36 Exits:E> eat bread
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 15442C [0;37mMem:1 T:32 Exits:E> e
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m129520X 92.96% 15442C [0;37mMem:1 T:31 Exits:EWU> u
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA very valuable key has been left here.
+A leather helm has been dropped carelessly here.
+A pitch black strip of leather lies here...it emits an arcane glow
+A book with dark brown covers lies here...it emits an arcane glow
+A small roll of bread lies here...it emits an arcane glow [18]
+[0;37m[31m[1mYou see the outline of a life form here, carrying: a glowing scroll of recall; a glowing scroll of recall.
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m129520X 92.96% 15442C [0;37mMem:1 T:30 Exits:D> rent
+[33m[1m   a bishop's moonstone engraved seal : 153 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring : 135 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar : 153 coins/day
+[0;37m[33m[1m                a black and gold cape : 252 coins/day
+[0;37m[33m[1m      a devotee's chasuble of worship : 324 coins/day
+[0;37m[33m[1m a flawless onyx diadem of fanaticism : 378 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship : 297 coins/day
+[0;37m[33m[1m  some dignified hand wraps of fervor : 171 coins/day
+[0;37m[33m[1m    some sacred armwraps of sacrifice : 189 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 45 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 9 coins/day
+[0;37m[33m[1m                   a pineal gland [2] : 2 coins/day
+[0;37m[33m[1ma few strands of finely woven hemp [2] : 2 coins/day
+[0;37m[33m[1m              a magnetized needle [5] : 5 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [5] : 10 coins/day
+[0;37m[33m[1m            some rotten skunk cabbage : 0 coins/day
+[0;37m[33m[1m                      a sprig of pine : 1 coin/day
+[0;37m[33m[1m            a deformed crow's leg [5] : 5 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 2 coins/day
+[0;37m[33m[1m        a deep violet dragon tear [2] : 2 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 1 coin/day
+[0;37m[33m[1m                    a dead gypsy moth : 1 coin/day
+[0;37m[33m[1m     a lock of a siren's emerald hair : 2 coins/day
+[0;37m[33m[1m                        a myconid cap : 0 coins/day
+[0;37m[33m[1m            a gleaming silver die [2] : 2 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 4 coins/day
+[0;37m[33m[1m              a miniature golden lyre : 1 coin/day
+[0;37m[33m[1m                  a tuft of skunk fur : 2 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 2 coins/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 2 coins/day
+[0;37m[33m[1m              shimmering faerie wings : 4 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 4 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 2 coins/day
+[0;37m[33m[1m              some bitten fingernails : 1 coin/day
+[0;37m[33m[1m                      a bit of fleece : 2 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 2 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 0 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 0 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 1 coin/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 0 coins/day
+[0;37m[33m[1m            a tiny bronze weathervane : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m[1m                    some spruce seeds : 0 coins/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 2 coins/day
+[0;37m[33m[1m             a small block of granite : 1 coin/day
+[0;37m[33m[1m             a small flask of bitumen : 2 coins/day
+[0;37m[33m[1m               a small flask of smoke : 2 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 2 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 0 coins/day
+[0;37m[33m[1m                a flattened lead disc : 2 coins/day
+[0;37m[33m[1m                a glass lightning jar : 0 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 1 coin/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[33m[1m              a jar of dark red blood : 4 coins/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 2 coins/day
+[0;37m[33m[1m                   a bag of fluff [2] : 4 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 1 coin/day
+[0;37m[33m[1m                    a bottled firefly : 0 coins/day
+[0;37m[33m[1m                 a chipped stone dart : 0 coins/day
+[0;37m[33m[1m              a chiseled granite fist : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 1 coin/day
+[0;37m[33m[1m           a fiery red austere bracer : 108 coins/day
+[0;37m[33m[1m            an enormous scorched maul : 225 coins/day
+[0;37m[33m          a piece of sweet bread [12] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 65 coins/day
+[0;37m[33m           a glowing scroll of recall : 4 coins/day
+[0;37m[33m                  a hand-held sundial : 1 coin/day
+[0;37m[33m         a magnificent slender rapier : 270 coins/day
+[0;37m[33m  a milky potion of see invisible [3] : 39 coins/day
+[0;37m[33m     a pair of dwarven mason's gloves : 1728 coins/day
+[0;37m[33m        a pinch of powdered malachite : 72 coins/day
+[0;37m[33m               a small flask of smoke : 2 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m              a hand-held sundial [3] : 3 coins/day
+[0;37m[32m                   a basilisk eyelash : 2 coins/day
+[0;37m[32m                 a bit of blue litmus : 1 coin/day
+[0;37m[32m                a bit of brain tissue : 1 coin/day
+[0;37m[32m                    a bottled firefly : 0 coins/day
+[0;37m[32m             a broken gnomish compass : 4 coins/day
+[0;37m[32m           a broken piece of a mirror : 0 coins/day
+[0;37m[32m         a chromatic crystalline bead : 4 coins/day
+[0;37m[32ma dram of giant slug digestive acid [2] : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[32m            a featureless pewter doll : 0 coins/day
+[0;37m[32m                        a forked twig : 0 coins/day
+[0;37m[32m                       a garlic clove : 0 coins/day
+[0;37m[32m                  a golden nugget [2] : 2 coins/day
+[0;37m[32m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[32m  a leather pouch of vampire dust [3] : 3 coins/day
+[0;37m[32m                a meteor fragment [2] : 4 coins/day
+[0;37m[32m  a miniscule cedar picture frame [2] : 4 coins/day
+[0;37m[32m             a mummified bullfrog leg : 2 coins/day
+[0;37m[32m        a murky vial of squid ink [2] : 4 coins/day
+[0;37m[32m   a patch of phosphorescent moss [2] : 2 coins/day
+[0;37m[32m    a patch of poisonous crimson moss : 1 coin/day
+[0;37m[32m             a pearly white moonstone : 1 coin/day
+[0;37m[32m       a piece of broken pond ice [2] : 4 coins/day
+[0;37m[32m                       a pineal gland : 1 coin/day
+[0;37m[32m         a powerfully blessed bandage : 0 coins/day
+[0;37m[32m                           a rose bud : 0 coins/day
+[0;37m[32m       a small chunk of licorice root : 0 coins/day
+[0;37m[32m           a small flask of smoke [2] : 4 coins/day
+[0;37m[32m         a small spherical lode stone : 2 coins/day
+[0;37m[32m          a small vial of quicksilver : 4 coins/day
+[0;37m[32m                 a smear of green mud : 1 coin/day
+[0;37m[32m             a smooth blank runestone : 0 coins/day
+[0;37m[32m        a sparkling green emerald [2] : 4 coins/day
+[0;37m[32m           a sphagnum peat moss patch : 2 coins/day
+[0;37m[32m                 a sprig of spearmint : 2 coins/day
+[0;37m[32ma thin slate of polished obsidian [2] : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 4 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 2 coins/day
+[0;37m[32m           a vial of spinal fluid [3] : 6 coins/day
+[0;37m[32m                    a vial of vinegar : 1 coin/day
+[0;37m[32m               a wand of invisibility : 180 coins/day
+[0;37m[32m                         an aeolipile : 1 coin/day
+[0;37m[32mdirt from a long forgotten grave [20] : 0 coins/day
+[0;37m[32m             powdered bull's horn [2] : 2 coins/day
+[0;37m[32m       some coarsely ground fire ants : 1 coin/day
+[0;37m[32m               some leaves of hemlock : 1 coin/day
+[0;37m[32m                      some poison ivy : 1 coin/day
+[0;37m[32m                 some rose petals [3] : 3 coins/day
+[0;37m[33m                 a sprig of spearmint : 2 coins/day
+[0;37m[33m                      a waterskin [4] : 0 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m                         an ice spear : 900 coins/day
+[0;37m[33m          filaments of volcanic glass : 2 coins/day
+[0;37m[33m                the tail of a phoenix : 4 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 5888 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 12 days.'
+The stronghold receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+o.™a@ò
+0
+
+
+Thank you for playing.
+
+
+[0m#SESSION 'a' DIED.[0m

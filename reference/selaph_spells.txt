@@ -1,0 +1,33 @@
+Firestorm			Yes
+Paralysis			Yes
+Feast			
+
+Word				Yes
+Mass Ref			Yes
+Earthquake			Yes
+
+Ice Storm
+Iceskin
+Iceshield
+
+Primal Fury			Yes
+Summon				Yes
+Call Lightning		Yes
+
+Barrier				Yes
+Cure Crit			Yes
+Cloudkill			Yes
+
+Insect Swarm		Yes
+Enlarge
+Prevailing winds	Yes
+
+Veil of Ice
+Tornado				Yes
+Cure Massive
+
+Healing cloud		Yes
+Lightning Storm		Yes
+
+
+Legend Spells:

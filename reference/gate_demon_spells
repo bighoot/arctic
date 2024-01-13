@@ -1,4 +1,4 @@
-Vrock
+harbinger
 Spells left (level-number): 1-5 2-4 3-4 4-4 5-3
 
 1:  blur                   magic missile          shield
@@ -26,10 +26,12 @@ Spells left (level-number): 1-5 2-5 3-4 4-3
 Nalfeshnee - pick
 
 
-order vrock mem stop; order vrock forget all; order vrock mem 'ma mi';order vrock mem 'ma mi';order vrock mem 'ma mi';order vrock mem 'ma mi';order vrock mem 'ma mi'; order vrock mem 'ray of en';order vrock mem 'ray of en';order vrock mem 'ray of en';order vrock mem 'ray of en';order vrock mem 'ray of en';
+order harbinger mem stop; order harbinger forget all; order harbinger mem 'ma mi';order harbinger mem 'ma mi';order harbinger mem 'ma mi';order harbinger mem 'ma mi';order harbinger mem 'ma mi'; order harbinger mem 'ray of en';order harbinger mem 'ray of en';order harbinger mem 'ray of en';order harbinger mem 'ray of en';order harbinger mem 'ray of en';
 
 
-order vrock mem 'li bo';order vrock mem 'li bo';order vrock mem 'li bo';order vrock mem 'li bo';order vrock mem 'ma bl';order vrock mem 'ma bl';order vrock mem 'ma bl';order vrock mem 'ma bl';order vrock mem 'mind mangle';order vrock mem 'mind mangle';order vrock mem 'dark accord';
+order harbinger mem 'li bo';order harbinger mem 'li bo';order harbinger mem 'li bo';order harbinger mem 'li bo';order harbinger mem 'ma bl';order harbinger mem 'ma bl';order harbinger mem 'ma bl';order harbinger mem 'ma bl';order harbinger mem 'force bolt';order harbinger mem 'force bolt';order harbinger mem 'force bolt';
+
+order harbinger mem 'li bo';order harbinger mem 'li bo';order harbinger mem 'ray of en';order harbinger mem 'ma mi';order harbinger mem 'ma mi';
 
 
 

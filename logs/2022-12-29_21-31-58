@@ -1,0 +1,214 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Fri Dec 30 04:28:55 2022 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 67 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mReception[0;37m
+    At the top of the stairs from the inn's lobby is a small room serving
+as a room registry. Belle sits behind a pine counter, quietly reading,
+until a customer arrives. Behind her is a long rack of wooden cubbyholes
+and hooks holding room keys. Long halls with many closed doors stretch to
+either side. It's quiet and well-kept here, conducive to a good night's
+sleep.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+[0;37m[31m[1mA fearsome blue dragon, Shook, is standing here, ignoring you. (black aura)
+The fez atop this well muscled bouncer's head marks him a fierce adversary.
+Belle Hamson looks up from her book and beams at your approach.
+[0;37m
+[32m[0;37m[32m402H [0;37m[32m118V [0;37m6810592X 82.97% 6979C [0;37mMem:3 T:6 Exits:D> help area library
+LIBRARY OF KHRYSTAN
+============
+
+BACKGROUND:
+
+The ancient library of Khrystan was once a rival in grandeur to the library
+of Palanthas, and a center of academic nobility. This all changed when the
+edict of thought control was issued in 6 PC by the Kingpriest Beldinas of
+Istar which decreed that all written texts must be written to favor Paladine
+and the gods of good, and all others be destroyed. In order to protect the
+library the Aesthetics of Gilean and their guardians fought off all intruders,
+sealed the library, and destroyed the library's catalogue. The library is
+rumored to still contain centuries of wisdom, if one could find their way in.
+
+RECOMMENDED LEVELS:
+
+The library can be explored by anyone who is able to find it, though if one
+were to challenge the Aesthetics or their guardians they will need to be of
+mid-level (17+), and to solve some of the mysteries within the library may
+take a group of adventurers (20-25).
+
+LOCATION:
+
+The location of the library was lost to all but the Aesthetics,  but it is
+rumored to be hidden within the city of Tarsis.
+
+CREATED BY:
+
+Edwai, Kholos (2022)
+
+SPECIAL THANKS:
+
+Alecto, Attai, Gatir
+
+[32m[0;37m[32m402H [0;37m[32m118V [0;37m6810592X 82.97% 6979C [0;37mMem:3 T:3 Exits:D> rent
+[33m[1m      a braided lock of werewolf hair : 28 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring : 150 coins/day
+[0;37m[33m[1m           a necklace of silver chain : 14 coins/day
+[0;37m[33m[1m                a black and gold cape : 280 coins/day
+[0;37m[33m[1m      a devotee's chasuble of worship : 360 coins/day
+[0;37m[33m[1m a flawless onyx diadem of fanaticism : 420 coins/day
+[0;37m[33m[1m      a pair of ancient silk leggings : 180 coins/day
+[0;37m[33m[1m some sparkling slippers of atonement : 60 coins/day
+[0;37m[33m[1m      some stately gloves of devotion : 70 coins/day
+[0;37m[33m[1ma luxurious silvery drape of sanctity : 210 coins/day
+[0;37m[33m[1m      a village elder's belt of faith : 90 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 10 coins/day
+[0;37m[33m[1man ornate cup, containing a powerfully blessed healing salve : 1 coin/day
+[0;37m[33m[1m            a deadly scorpion stinger : 1 coin/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[33m[1m        a neatly folded parchment fan : 2 coins/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 1 coin/day
+[0;37m[33m[1m                       a glass sliver : 1 coin/day
+[0;37m[33m[1m             a short stick of incense : 1 coin/day
+[0;37m[33m[1ma torn page from an ancient calendar [2] : 6 coins/day
+[0;37m[33m[1m            a tiny bronze weathervane : 3 coins/day
+[0;37m[33m[1m           an intricately carved horn : 3 coins/day
+[0;37m[33m[1m                    some cat whiskers : 3 coins/day
+[0;37m[33m[1m                    some spruce seeds : 1 coin/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 4 coins/day
+[0;37m[33m[1m                       a pineal gland : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 4 coins/day
+[0;37m[33m[1m                     a scabbed potato : 1 coin/day
+[0;37m[33m[1m               a scratched glass lens : 1 coin/day
+[0;37m[33m[1m                     a short iron bar : 2 coins/day
+[0;37m[33m[1m             a small block of granite : 2 coins/day
+[0;37m[33m[1m             a small flask of bitumen : 3 coins/day
+[0;37m[33m[1m               a small flask of smoke : 3 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 3 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 1 coin/day
+[0;37m[33m[1m                a flattened lead disc : 3 coins/day
+[0;37m[33m[1m                        a forked twig : 1 coin/day
+[0;37m[33m[1m                       a garlic clove : 1 coin/day
+[0;37m[33m[1m                a glass lightning jar : 1 coin/day
+[0;37m[33m[1m                a gleaming silver die : 2 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m[1m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[33m[1m              a jar of dark red blood : 5 coins/day
+[0;37m[33m[1m      a leather pouch of vampire dust : 2 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 1 coin/day
+[0;37m[33m[1m                  a magnetized needle : 2 coins/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 4 coins/day
+[0;37m[33m[1m           a piece of royal honeycomb : 1 coin/day
+[0;37m[33m[1m            a pinch of chameleon dust : 1 coin/day
+[0;37m[33m[1m                   a bag of fluff [2] : 6 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 2 coins/day
+[0;37m[33m[1m                    a bottled firefly : 1 coin/day
+[0;37m[33m[1m                a brilliant blue bead : 2 coins/day
+[0;37m[33m[1m                 a chipped stone dart : 1 coin/day
+[0;37m[33m[1m              a chiseled granite fist : 3 coins/day
+[0;37m[33m[1m                a clump of damp mulch : 2 coins/day
+[0;37m[33m[1m            a deep violet dragon tear : 2 coins/day
+[0;37m[33m[1m                a deformed crow's leg : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[33m[1m        a few glittering snake scales : 2 coins/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[33m[1m   a few strands of sticky spider web : 1 coin/day
+[0;37m[33m[1m        a crystal ruby studded bracer : 270 coins/day
+[0;37m[33m[1m             an enormous charred maul : 170 coins/day
+[0;37m[33m          a piece of sweet bread [20] : 0 coins/day
+[0;37m[33m                     a long oak staff : 2160 coins/day
+[0;37m[33m           a bright ball of light [4] : 0 coins/day
+[0;37m[33m                         a camel pack : 20 coins/day
+[0;37m[33m       a glowing scroll of recall [3] : 45 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m                     some rose petals : 2 coins/day
+[0;37m[32m               a small flask of smoke : 3 coins/day
+[0;37m[32m             a pearly white moonstone : 2 coins/day
+[0;37m[32m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[32m         a powerfully blessed bandage : 1 coin/day
+[0;37m[32m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 4 coins/day
+[0;37m[32m               a vial of spinal fluid : 3 coins/day
+[0;37m[32m                    a vial of vinegar : 2 coins/day
+[0;37m[32m                 powdered bull's horn : 2 coins/day
+[0;37m[32m               some leaves of hemlock : 2 coins/day
+[0;37m[32m                      some poison ivy : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m               a wand of invisibility : 200 coins/day
+[0;37m[33m                  a wrist lantern [3] : 15 coins/day
+[0;37mBelle Hamson tells you 'You need at least 4886 coins to rent.'
+Belle Hamson tells you 'You will be able to rent for 31 days.'
+Belle Hamson stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 0
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

@@ -1,0 +1,764 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Mon Jan 02 05:08:08 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 44 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mAn old rusty key lies here...it emits an arcane glow
+A rusty knife lies on the ground.
+[0;37m[31m[1mZhabla Kva is standing here. (flying) (white aura)
+Zakat Bloody is standing here. (flying)
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m128V [0;37m25990949X 6.17% 7832C [0;37mT:50 Exits:D> loadboth
+[0;37m[0m
+
+[32m[0;37m[32m432H [0;37m[32m128V [0;37m25990949X 6.17% 7832C [0;37mT:49 Exits:D> [0;37ml[0m
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mAn old rusty key lies here...it emits an arcane glow
+A rusty knife lies on the ground.
+[0;37m[31m[1mZhabla Kva is standing here. (flying) (white aura)
+Zakat Bloody is standing here. (flying)
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m128V [0;37m25990949X 6.17% 7832C [0;37mT:48 Exits:D> [0;37meq[0m
+You are using:
+<worn on finger>           a braided lock of werewolf hair
+<worn on finger>           [38;5;183ma priestly amethyst encrusted ring[0;37m
+<worn around neck>         a necklace of silver chain..it emits an arcane glow
+<worn around neck>         a black and gold cape..it emits a sinister, arcane glow
+<worn on body>             [38;5;171ma devotee's chasuble of worship[0;37m
+<worn on head>             [38;5;171ma flawless onyx diadem of fanaticism[0;37m
+<worn on legs>             [38;5;171msome inscribed leggings of worship[0;37m
+<worn on feet>             [38;5;225msome sparkling slippers of atonement[0;37m
+<worn on hands>            [38;5;225msome stately gloves of devotion[0;37m
+<worn about body>          [38;5;177ma luxurious silvery drape of sanctity[0;37m
+<worn about waist>         [38;5;225ma village elder's belt of faith[0;37m
+<worn as pouch>            a pouch of goose feathers..it emits an arcane glow
+<worn around right wrist>  [38;5;177ma crystal ruby studded bracer[0;37m
+<used in both hands>       [38;5;177man enormous scorched maul[0;37m..it emits an arcane glow
+
+[32m[0;37m[32m432H [0;37m[32m128V [0;37m25990949X 6.17% 7832C [0;37mT:47 Exits:D> [0;37min[0m
+You are carrying:
+a bright ball of light..it glows dimly [4]
+a camel pack
+a glowing scroll of recall..it emits an arcane glow..it glows dimly [6]
+a small wooden chest
+a wand of invisibility..it emits an arcane glow
+a wrist lantern [3]
+
+[32m[0;37m[32m432H [0;37m[32m128V [0;37m25990949X 6.17% 7832C [0;37mT:46 Exits:D> [0;37md[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA red-haired young lady is wiping down a table here.
+A small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m127V [0;37m25990949X 6.17% 7832C [0;37mT:45 Exits:SWUD> [0;37md[0m
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA singing, happy dwarf stumbles along drunkenly.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m126V [0;37m25990949X 6.17% 7832C [0;37mT:44 Exits:NEU> [0;37me[0m
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m432H [0;37m[32m125V [0;37m25990949X 6.17% 7832C [0;37mT:44 Exits:NSWU> [0;37ms[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Olvaan stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA street illusionist drawing quite a crowd with his performance.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m124V [0;37m25990949X 6.17% 7832C [0;37mT:43 Exits:NESWU> 
+You can't put liquids in a braided lock of werewolf hair!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a necklace of silver chain!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in some sparkling slippers of atonement!
+You can't put liquids in some stately gloves of devotion!
+You can't put liquids in a luxurious silvery drape of sanctity!
+You can't put liquids in a village elder's belt of faith!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a crystal ruby studded bracer!
+You can't put liquids in an enormous scorched maul!
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+There is no room for more.
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a wand of invisibility!
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+
+[32m[0;37m[32m432H [0;37m[32m124V [0;37m25990949X 6.17% 7832C [0;37mT:43 Exits:NESWU> 
+Yazzi arrives from above.
+A street illusionist demonstrates how he is able to levitate off the ground.
+
+[32m[0;37m[32m432H [0;37m[32m124V [0;37m25990949X 6.17% 7832C [0;37mT:42 Exits:NESWU> [0;37ms[0m
+[0;37ms[0m
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+A wand has carelessly been left here...it emits an arcane glow
+A small, white shirt lies folded neatly on the ground.
+A green jerkin has been dropped here.
+A finely crafted longsword lies here...it emits an arcane glow
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m432H [0;37m[32m123V [0;37m25990949X 6.17% 7832C [0;37mT:42 Exits:NS> 
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAn old beggar hobbles along here looking for handouts.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m122V [0;37m25990949X 6.17% 7832C [0;37mT:41 Exits:NES> [0;37mlist[0m
+  1. Shield              220 a Kagonesti war shield
+  2. Blanket              27 a Silver Circle Guard saddle blanket
+  3. Jerkin              121 [38;5;225ma bandit's leather jerkin of trickery[0;37m
+  4. Bracelet            198 a black beaded bracelet
+  5. Breastplate         330 a black ice breast plate
+  6. Helm                137 a black morion helm
+  7. Pearl               110 a black pearl
+  8. Robe                110 a black silk robe of slinking
+  9. Robe                132 [38;5;214ma black witch's robe[0;37m
+ 10. Dagger               82 a blood stained black dagger
+ 11. Bullwhip            363 a bone spiked bullwhip
+ 12. Necklace            880 a brightly colored, beaded necklace
+ 13. Knife               253 [38;5;225ma charred curved knife[0;37m
+ 14. Knife               236 [38;5;177ma charred dragon spine knife[0;37m
+ 15. Knife               236 [38;5;183ma charred serrated black knife[0;37m
+ 16. Suit                236 [38;5;183ma commander's blood stained half suit of tenacity[0;37m
+ 17. Helmet               82 a copper helmet
+ 18. Vest                110 a copper ring mail vest
+ 19. Helmet              385 a crested helmet
+ 20. Lance               275 a crimson steel lance
+ 21. Crown               550 a crown of heliconia flowers
+ 22. Tome                269 [38;5;183ma cryptic mindflayer tentacled tome[0;37m
+ 23. Dagger              330 a dagger of death
+ 24. Shroud               82 a dark purple burial shroud
+ 25. Bracelet            253 [38;5;225ma decorated crystalline etched bracelet[0;37m
+ 26. Necklace            132 a delicate black opal necklace
+ 27. Cloak               242 a demon skin cloak
+ 28. Cudgel               33 a dented black cudgel
+ 29. Belt                143 [38;5;225ma devotee's belt of faith[0;37m
+ 30. Staff               165 a druidic staff
+ 31. Helm                110 a dwarven helm and visor
+ 32. Bracer              286 [38;5;225ma fiery red austere bracer[0;37m
+ 33. Breastplate         236 [38;5;225ma footman's breastplate of the Crown[0;37m
+ 34. Sword               220 [38;5;177ma formidable swordmaster's bastard sword[0;37m
+ 35. Staff               462 [38;5;177ma fossilized etched battle staff[0;37m
+ 36. Staff               352 [38;5;177ma fossilized rune-etched battle staff[0;37m
+ 37. Hammer              363 a giant's hammer
+ 38. Jerkin               27 [38;5;153ma green leather jerkin[0;37m
+ 39. Claw                236 [38;5;225ma hardened rooster claw[0;37m
+ 40. Glaive              132 a heavy glaive
+
+ [return for more, q to stop][0;37mq[0m
+
+[32m[0;37m[32m432H [0;37m[32m122V [0;37m25990949X 6.17% 7832C [0;37mT:38 Exits:NES> [0;37mbuy giant.hammer[0m
+[36mA wandering merchant tells you 'That'll cost you 363 coins.  Thank you.'
+[0;37mYou now have a giant's hammer.
+
+[32m[0;37m[32m432H [0;37m[32m122V [0;37m25990949X 6.17% 7469C [0;37mT:35 Exits:NES> 
+[36mKnaak tells your clan 'the khur and ghostpyre load rates dont seem any better'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m122V [0;37m25990949X 6.17% 7469C [0;37mT:34 Exits:NES> [0;37mlist claw[0m
+ 37. Claw                236 [38;5;225ma hardened rooster claw[0;37m
+
+[32m[0;37m[32m432H [0;37m[32m122V [0;37m25990949X 6.17% 7469C [0;37mT:27 Exits:NES> 
+[36mMao tells your clan 'khur is almost as easy'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m122V [0;37m25990949X 6.17% 7469C [0;37mT:23 Exits:NES> 
+[36mBrakus tells your clan 'idk. im 2/2 on charms from khur'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m122V [0;37m25990949X 6.17% 7469C [0;37mT:21 Exits:NES> [0;37me[0m
+Theros Ironfeld greets you in between solid blows to a red-hot sword.
+[36mThe Solace Weapon Shop[0;37m
+    A wave of heat blasts over your body as you enter the weapon shop and
+forge. The hearth is in the back of the shop and is filled with red hot
+coals. A well used anvil and various smith's tools hang from a rack on the
+wall. The front of the shop has display racks on the walls, holding many
+different kinds of swords and axes. Looking around, you are amazed at the
+collection of weapons you see. Surely one of every variety is here!
+
+There is a sign standing next to the display case.
+[33m[1m[0;37m[31m[1mTheros Ironfeld is here, waiting to sell you his fine wares. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m121V [0;37m25990949X 6.17% 7469C [0;37mT:20 Exits:W> 
+[36mGrambo tells your clan 'i got a charm there too'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m121V [0;37m25990949X 6.17% 7469C [0;37mT:6 Exits:W> 
+[36mMao tells your clan 'mist eats swarms'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m121V [0;37m25990949X 6.17% 7469C [0;37mT:5 Exits:W> 
+[36mMao tells your clan 'and everyting there nightmares'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m121V [0;37m25990949X 6.17% 7469C [0;37mT:1 Exits:W> 
+[36mMao tells your clan 'easy figght'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:59 Exits:W> 
+[36mBrakus tells your clan 'if you do khur, id like to come!'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:54 Exits:W> 
+[36mBrakus tells your clan 'did drac tower just now. and that wasn't to bad'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:45 Exits:W> 
+[36mMao tells your clan 'we're balls deep in quali'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:43 Exits:W> 
+[36mMao tells your clan 'almost everythign here is nightmare bait'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:14 Exits:W> 
+[36mMao tells your clan 'I think 1 mob repeatedly resisted'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:2 Exits:W> 
+Theros exhales as he finishes an axe and places it on a display rack.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:60 Exits:W> 
+[36mMao tells your clan 'some lady'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:57 Exits:W> 
+[36mBrakus tells your clan 'hrm'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:10 Exits:W> 
+[36mBrakus tells your clan 'i need some dam armor'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:4 Exits:W> 
+[36mPryor tells your clan 'lag'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:35 Exits:W> 
+[36mKnaak tells your clan 'lag'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:33 Exits:W> 
+Theros picks up a dagger and starts to polish the blade.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:20 Exits:W> 
+[36mPryor tells your clan 'u want flexible red brakus'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:17 Exits:W> 
+[36mBrakus tells your clan 'hrm'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:9 Exits:W> 
+[36mBrakus tells your clan 'yeah sure'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:6 Exits:W> 
+[37mYour clanmate Priya has entered the game.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:55 Exits:W> 
+[36mPriya tells your clan 'hi guys'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:45 Exits:W> 
+[36mYazzi tells your clan 'hi'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:42 Exits:W> 
+[36mBrakus tells your clan 'hello'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:40 Exits:W> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:37 Exits:W> 
+[36mGrambo tells your clan 'heya'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:32 Exits:W> 
+Sir Kantar uth MacKan marches in from the west and looks you over.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:25 Exits:W> 
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:13 Exits:W> 
+Sir Kantar uth MacKan snaps to attention and salutes Theros respectfully.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:55 Exits:W> 
+Sir Kantar uth MacKan says 'I hear you are one of the best weaponsmiths to ever live, do you think you would be able to repair
+this?'
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:48 Exits:W> 
+A cagey elf arrives from the west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:43 Exits:W> 
+Theros picks up a half-finished sword and starts to sharpen the edge with a grinding wheel.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:40 Exits:W> 
+Sir Kantar uth MacKan gives a cracked sword to Theros.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:40 Exits:W> 
+Theros says 'I should be able to repair this, but it will take me a few days.'
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:33 Exits:W> 
+[36mBrakus tells your clan 'i have suit of dragon power still but the regen is nice on rasenth'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:31 Exits:W> 
+Sir Kantar uth MacKan says 'I am on my way out of town, but I will pick it up next time I pass through. Do you have a sword I could
+buy to use in the mean time?'
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:25 Exits:W> 
+[36mPriya tells your clan 'ya it's nice'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:23 Exits:W> 
+A cagey elf leaves west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:19 Exits:W> 
+Theros says 'Any of the weapons I smithed should prove worthy of you, sir.'
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:18 Exits:W> 
+Sir Kantar uth MacKan says 'This sword is weighted just perfect, and has a nice edge. It should work nicely against goblins.'
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:3 Exits:W> 
+You are hungry.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:60 Exits:W> 
+Your blood freezes as you hear someone's death cry.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:48 Exits:W> 
+Sir Kantar uth MacKan marches off west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:48 Exits:W> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:22 Exits:W> 
+The janitor leaves west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:16 Exits:W> 
+[37mYour clanmate Skar has gained a level.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:8 Exits:W> 
+Theros says 'Is there a weapon I can interest you in? Perhaps a fine sword?'
+You are hungry.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:60 Exits:W> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:53 Exits:W> 
+[37mYour clanmate Dimian has gained a level.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:52 Exits:W> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:46 Exits:W> 
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:23 Exits:W> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:5 Exits:W> 
+You are hungry.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:60 Exits:W> [0;37ml[0m
+[36mThe Solace Weapon Shop[0;37m
+    A wave of heat blasts over your body as you enter the weapon shop and
+forge. The hearth is in the back of the shop and is filled with red hot
+coals. A well used anvil and various smith's tools hang from a rack on the
+wall. The front of the shop has display racks on the walls, holding many
+different kinds of swords and axes. Looking around, you are amazed at the
+collection of weapons you see. Surely one of every variety is here!
+
+There is a sign standing next to the display case.
+[33m[1m[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A janitor is walking around, cleaning up. (white aura)
+Theros Ironfeld is here, waiting to sell you his fine wares. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:52 Exits:W> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:32 Exits:W> [0;37ml[0m
+[36mThe Solace Weapon Shop[0;37m
+    A wave of heat blasts over your body as you enter the weapon shop and
+forge. The hearth is in the back of the shop and is filled with red hot
+coals. A well used anvil and various smith's tools hang from a rack on the
+wall. The front of the shop has display racks on the walls, holding many
+different kinds of swords and axes. Looking around, you are amazed at the
+collection of weapons you see. Surely one of every variety is here!
+
+There is a sign standing next to the display case.
+[33m[1m[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A janitor is walking around, cleaning up. (white aura)
+Theros Ironfeld is here, waiting to sell you his fine wares. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m25990949X 6.17% 7469C [0;37mT:30 Exits:W> [0;37mw[0m
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mThe corpse of a young child is lying here.
+A long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+An old beggar hobbles along here looking for handouts.
+Morgoth the Male Goblin is standing here. (black aura)
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m131V [0;37m25990949X 6.17% 7469C [0;37mT:29 Exits:NES> [0;37msell hammer[0m
+[36mA wandering merchant tells you 'Here's 297 coins for that.'
+[0;37mA wandering merchant now has a giant's hammer.
+
+[32m[0;37m[32m432H [0;37m[32m131V [0;37m25990949X 6.17% 7766C [0;37mT:27 Exits:NES> [0;37mb[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM A wandering merchant: 'That'll cost you 363 coins.  Thank you.'[0m
+
+The janitor arrives from the east.
+
+[32m[0;37m[32m432H [0;37m[32m131V [0;37m25990949X 6.17% 7766C [0;37mT:22 Exits:NES> [0;37m[0m
+
+[32m[0;37m[32m432H [0;37m[32m131V [0;37m25990949X 6.17% 7766C [0;37mT:15 Exits:NES> [0;37ml[0m
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mThe corpse of a young child is lying here.
+A long torch functions as a street lamp here.
+[0;37m[31m[1mA janitor is walking around, cleaning up. (white aura)
+A Solace peacekeeper is here making his rounds.
+An old beggar hobbles along here looking for handouts.
+Morgoth the Male Goblin is standing here. (black aura)
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m131V [0;37m25990949X 6.17% 7766C [0;37mT:14 Exits:NES> [0;37mn[0m
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA small, white shirt lies folded neatly on the ground.
+A long torch functions as a street lamp here.
+A finely crafted longsword lies here...it emits an arcane glow
+[0;37m[31m[1mA cagey elf is standing here, keeping to himself.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m130V [0;37m25990949X 6.17% 7766C [0;37mT:12 Exits:NS> [0;37mn[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Olvaan stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mAidan walks around here looking amazed with his surroundings.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m129V [0;37m25990949X 6.17% 7766C [0;37mT:12 Exits:NESWU> 
+You can't put liquids in a braided lock of werewolf hair!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a necklace of silver chain!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in some sparkling slippers of atonement!
+You can't put liquids in some stately gloves of devotion!
+You can't put liquids in a luxurious silvery drape of sanctity!
+You can't put liquids in a village elder's belt of faith!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a crystal ruby studded bracer!
+You can't put liquids in an enormous scorched maul!
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+There is no room for more.
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a wand of invisibility!
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+
+[32m[0;37m[32m432H [0;37m[32m129V [0;37m25990949X 6.17% 7766C [0;37mT:12 Exits:NESWU> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAn old beggar hobbles along here looking for handouts.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m128V [0;37m25990949X 6.17% 7766C [0;37mT:11 Exits:NSWU> [0;37mw[0m
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m127V [0;37m25990949X 6.17% 7766C [0;37mT:11 Exits:NEU> [0;37mu[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m126V [0;37m25990949X 6.17% 7766C [0;37mT:11 Exits:SWUD> [0;37mu[0m
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mAn old rusty key lies here...it emits an arcane glow
+A rusty knife lies on the ground.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m125V [0;37m25990949X 6.17% 7766C [0;37mT:10 Exits:D> [0;37mrent[0m
+[33m[1m      a braided lock of werewolf hair : 28 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring : 150 coins/day
+[0;37m[33m[1m           a necklace of silver chain : 14 coins/day
+[0;37m[33m[1m                a black and gold cape : 280 coins/day
+[0;37m[33m[1m      a devotee's chasuble of worship : 360 coins/day
+[0;37m[33m[1m a flawless onyx diadem of fanaticism : 420 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship : 330 coins/day
+[0;37m[33m[1m some sparkling slippers of atonement : 60 coins/day
+[0;37m[33m[1m      some stately gloves of devotion : 70 coins/day
+[0;37m[33m[1ma luxurious silvery drape of sanctity : 210 coins/day
+[0;37m[33m[1m      a village elder's belt of faith : 90 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 10 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 3 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 4 coins/day
+[0;37m[33m[1m               a ragged werewolf pelt : 1 coin/day
+[0;37m[33m[1m              a magnetized needle [4] : 8 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 12 coins/day
+[0;37m[33m[1m              some bitten fingernails : 2 coins/day
+[0;37m[33m[1m                      a bit of fleece : 3 coins/day
+[0;37m[33m[1m    a few glittering snake scales [2] : 4 coins/day
+[0;37m[33m[1m            a deformed crow's leg [2] : 4 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 3 coins/day
+[0;37m[33m[1m                        a forked twig : 1 coin/day
+[0;37m[33m[1m       a piece of royal honeycomb [2] : 2 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [20] : 20 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 140 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[33m[1m        a neatly folded parchment fan : 2 coins/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 1 coin/day
+[0;37m[33m[1m                       a glass sliver : 1 coin/day
+[0;37m[33m[1m            a tiny bronze weathervane : 3 coins/day
+[0;37m[33m[1m           an intricately carved horn : 3 coins/day
+[0;37m[33m[1m                    some cat whiskers : 3 coins/day
+[0;37m[33m[1m                    some spruce seeds : 1 coin/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 4 coins/day
+[0;37m[33m[1m                       a pineal gland : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 4 coins/day
+[0;37m[33m[1m                     a scabbed potato : 1 coin/day
+[0;37m[33m[1m               a scratched glass lens : 1 coin/day
+[0;37m[33m[1m                     a short iron bar : 2 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m[1m             a small block of granite : 2 coins/day
+[0;37m[33m[1m             a small flask of bitumen : 3 coins/day
+[0;37m[33m[1m               a small flask of smoke : 3 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 3 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 1 coin/day
+[0;37m[33m[1m                a flattened lead disc : 3 coins/day
+[0;37m[33m[1m                       a garlic clove : 1 coin/day
+[0;37m[33m[1m                a glass lightning jar : 1 coin/day
+[0;37m[33m[1m                a gleaming silver die : 2 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 2 coins/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[33m[1m              a jar of dark red blood : 5 coins/day
+[0;37m[33m[1m      a leather pouch of vampire dust : 2 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 1 coin/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 4 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 1 coin/day
+[0;37m[33m[1m                   a bag of fluff [2] : 6 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 2 coins/day
+[0;37m[33m[1m                    a bottled firefly : 1 coin/day
+[0;37m[33m[1m                 a chipped stone dart : 1 coin/day
+[0;37m[33m[1m              a chiseled granite fist : 3 coins/day
+[0;37m[33m[1m                a clump of damp mulch : 2 coins/day
+[0;37m[33m[1m            a deep violet dragon tear : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[33m[1m   a few strands of sticky spider web : 1 coin/day
+[0;37m[33m[1m        a crystal ruby studded bracer : 270 coins/day
+[0;37m[33m[1m            an enormous scorched maul : 250 coins/day
+[0;37m[33m           a bright ball of light [4] : 0 coins/day
+[0;37m[33m                         a camel pack : 20 coins/day
+[0;37m[33m           a glowing scroll of recall : 5 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 75 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m                a meteor fragment [2] : 6 coins/day
+[0;37m[32m            a murky vial of squid ink : 3 coins/day
+[0;37m[32m                    a bottled firefly : 1 coin/day
+[0;37m[32m      a broken piece of stained glass : 1 coin/day
+[0;37m[32m                 some rose petals [2] : 4 coins/day
+[0;37m[32m         a chromatic crystalline bead : 5 coins/day
+[0;37m[32m  a dram of giant slug digestive acid : 2 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m                       a garlic clove : 1 coin/day
+[0;37m[32m                      a golden nugget : 2 coins/day
+[0;37m[32m      a leather pouch of vampire dust : 2 coins/day
+[0;37m[32m             a pearly white moonstone : 2 coins/day
+[0;37m[32m           a piece of broken pond ice : 3 coins/day
+[0;37m[32m         a powerfully blessed bandage : 1 coin/day
+[0;37m[32m               a small flask of smoke : 3 coins/day
+[0;37m[32m         a small spherical lode stone : 3 coins/day
+[0;37m[32m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 6 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 4 coins/day
+[0;37m[32m               a vial of spinal fluid : 3 coins/day
+[0;37m[32m                    a vial of vinegar : 2 coins/day
+[0;37m[32mdirt from a long forgotten grave [19] : 19 coins/day
+[0;37m[32m             powdered bull's horn [2] : 4 coins/day
+[0;37m[32m               some leaves of hemlock : 2 coins/day
+[0;37m[32m                      some poison ivy : 2 coins/day
+[0;37m[33m               a wand of invisibility : 200 coins/day
+[0;37m[33m                  a wrist lantern [3] : 15 coins/day
+[0;37mThe receptionist tells you 'You need at least 3235 coins to rent.'
+The receptionist tells you 'You will be able to rent for 48 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

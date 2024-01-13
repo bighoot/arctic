@@ -1,0 +1,2328 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? ronas
+Password: 
+
+
+You were last connected Sat Jan 07 19:06:00 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 9 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A sextant lies here...it hums softly [2]
+A long piece of sturdy cloth lies here. [2]
+[0;37m[31m[1m<BROG> Snapnahh the Apple, Credible Brog Cutpurse is standing here. (flying)
+Moroz the Male Minotaur is standing here. (flying)
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1315370X 93.60% 3747C [0;37mT:7 Exits:D> startb
+[0m#THERE'S A SESSION WITH THAT NAME ALREADY.[0m
+
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1315370X 93.60% 3747C [0;37mT:1 Exits:D> b
+Sorry, but you cannot do that here!
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:60 Exits:D> 
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:60 Exits:D> 
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:59 Exits:D> 
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:59 Exits:D> b
+Sorry, but you cannot do that here!
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:58 Exits:D> 
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:58 Exits:D> 
+Snapnahh stops using an ivory tusk.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:57 Exits:D> startb
+[0m#THERE'S A SESSION WITH THAT NAME ALREADY.[0m
+
+Snapnahh wields a blackened tanto.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:54 Exits:D> loadboth
+[0;37ml[0m
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A sextant lies here...it hums softly [2]
+A long piece of sturdy cloth lies here. [2]
+[0;37m[31m[1m<BROG> Snapnahh the Apple, Credible Brog Cutpurse is standing here. (flying)
+Moroz the Male Minotaur is standing here. (flying)
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:52 Exits:D> [0;37mb[0m
+
+Ed gives Snapnahh an offer.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:50 Exits:D> [0m#SESSION 'a' ACTIVATED.[0m
+[0;37m[0m
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:49 Exits:D> [0;37mstartb[0m
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Ed shows Snapnahh to her room.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:45 Exits:D> 
+Sprink has entered the game.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:40 Exits:D> 
+Sprink starts following you.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:36 Exits:D> [0;37m[0m
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:35 Exits:D> [0;37mgroup form[0m
+Sprink is now a member of your group.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:33 Exits:D> [0;37msc[0m
+You are Ronas the Male Silvanesti, a level 19 Red Robe.
+You are casting at level 19.
+You are rank 1. You have completed 93.60% of your next rank.
+You are 17 years old.
+You have 221(221) hit and 136(136) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 5,684,630 exp, and have 3747(0) steel coins.
+You need 1,315,370 more experience to advance.
+You have never died.
+You have been connected for 0 minute(s).
+You have been playing for 0 day(s), 7 hour(s) and 5 minute(s).
+Your natural ability scores are:
+        Str: 11 Int: 22 Wis: 16 Dex: 18 Con: 13 Cha: 15
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:32 Exits:D> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:29 Exits:D> [0;37mbali2jail[0m
+Sprink arrives from above.
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1315370X 93.60% 3747C [0;37mT:25 Exits:NWU> 
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA glass key is lying here.
+A small leather purse lies on the floor.
+A small hoopak has been stuck in the ground...it hums softly
+[0;37m[31m[1mA merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m134V [0;37m1315370X 93.60% 3747C [0;37mT:25 Exits:NESW> 
+Sprink arrives from the west.
+[36mDeath Row[0;37m
+    Stepping onto the narrow and putrid lane that leads east to the
+executioners block and west to Tavern Square, you are aware of the dark and
+evil feeling that surrounds you. The tall houses and buildings are boarded
+up, save for a balcony which runs past the block itself. A good viewing
+point for the peasants. It is easy to understand why this lane is nicknamed
+'Death Row'.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m133V [0;37m1315370X 93.60% 3747C [0;37mT:24 Exits:EW> 
+Sprink arrives from the west.
+[36mThe Executioners Block[0;37m
+    You leave the claustrophobic surroundings of Death Row and step out
+into a small square that houses the executioners block on a wooden platform
+at its centre. Gazing around you notice there is plenty of space for
+onlookers, a small cart used to sell food and refreshments is propped up
+against a wall of a house. No doubt it has seen much service. The wooden
+platform is blood stained and emits the smell of salt-water, used as a poor
+cleaning fluid to remove the worst of the grime. Death row continues to the
+east and west. A faint smell of blood and the uncomfortable sensation of
+evil invades your soul from the passageway to the north.
+[33m[1m[0;37m[31m[1mA drunken sailor steadies himself as he tries to stagger back to his boat.
+The lord high executioner grins at you, fondling his axe lovingly.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m132V [0;37m1315370X 93.60% 3747C [0;37mT:24 Exits:NEW> 
+[36mDeath Row[0;37m
+    The road leads east to the city jail, the start of the journey for many
+of the prisoners on death row. It is also their last. The dank smell of
+rotting flesh and unwashed bodies is not very pleasant. You force yourself
+to continue.
+[33m[1m[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+[0;37mA feral cat runs in circles chasing its tail.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1315370X 93.60% 3747C [0;37mT:24 Exits:ESW> 
+Sprink arrives from the west.
+[36mAt the Balifor Jail[0;37m
+    A two story building built from blood red brick looms to the east. Wide
+stone steps, chipped and cracked from heavy traffic, lead up to the front
+double doors. A large sign swinging above the frame clearly tells you this
+is the Balifor City Jail. For many prisoners passage beyond those doors is
+the beginning of the end. From some of the yellow stains on the steps, a
+few didn't handle it well. Several guards linger around the entrance, added
+guards for something out of the ordinary.
+[33m[1m[0;37m[31m[1mA member of the Balifor town watch patrols the outside of the jailhouse.
+A member of the Balifor town watch patrols the outside of the jailhouse.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m130V [0;37m1315370X 93.60% 3747C [0;37mT:24 Exits:NEW> [0m[1;34;49mPRIVATE MESSAGE FROM double doors. A large sign swinging above the frame clearly:
+[0;1;34;49mthis[0m
+
+[36mThe Balifor Jail[0;37m
+    The front area of the Balifor jail is a large square room. A bare
+concrete floor heavily scuffed by the passage of countless thieves and
+criminals lies beneath your feet. The walls are thick and dull yellow with
+exposed wooden beams racing up to the rafters above. Hanging from the walls
+are large bulletin boards pinned with ragged wanted posters and bounties.
+Ahead of you lies a wooden desk with a hallway off to the right. To the
+north is a door.
+[33m[1m[0;37m[31m[1mThe jail clerk sits at the desk busying himself with reports and new files.
+A Balifor jail sentry stands watch at the front door.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m129V [0;37m1315370X 93.60% 3747C [0;37mT:23 Exits:NEW> 
+[36mA Corridor[0;37m
+    The corridor extends to the east, deeper into the Balifor jail. Back
+west lies the front area where new prisoners are registered before being
+thrown in their cells. Several torches hang from the opposite walls,
+lighting your way. In the south wall a flight of stairs ascends to the
+second floor.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1315370X 93.60% 3747C [0;37mT:23 Exits:EWU> 
+[36mThe Second Floor[0;37m
+    A hallway extends to the north from the stairway landing. The wooden
+floorboards creak as you make your way. Several doors leading to the
+guard's quarters flank you on both sides. Ahead to the north lies a door
+with a sign of rank above the frame.
+[33m[1mThe corpse of a Balifor jail guard is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m127V [0;37m1315370X 93.60% 3747C [0;37mT:23 Exits:NEWD> 
+It's already open!
+
+[32m[0;37m[32m221H [0;37m[32m127V [0;37m1315370X 93.60% 3747C [0;37mT:23 Exits:NEWD> 
+Sprink arrives from the south.
+[36mThe Captain's Office[0;37m
+    The room is neat and orderly, more spacious than the other rooms on
+this floor. A square green rug covers a large area in the center of the
+office. Atop the rug sits an ornate cedar desk neatly stacked with official
+looking papers. Behind that is a cushy chair and smaller wooden chairs
+arranged in front. Off to the west lies a small cot that doesn't appear to
+have been slept in much.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m126V [0;37m1315370X 93.60% 3747C [0;37mT:22 Exits:S> 
+You get a loop of jailer's keys from a wooden peg.
+
+[32m[0;37m[32m221H [0;37m[32m126V [0;37m1315370X 93.60% 3747C [0;37mT:22 Exits:S> 
+Sprink arrives from the north.
+[36mThe Second Floor[0;37m
+    A hallway extends to the north from the stairway landing. The wooden
+floorboards creak as you make your way. Several doors leading to the
+guard's quarters flank you on both sides. Ahead to the north lies a door
+with a sign of rank above the frame.
+[33m[1mThe corpse of a Balifor jail guard is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m125V [0;37m1315370X 93.60% 3747C [0;37mT:22 Exits:NEWD> 
+Sprink arrives from above.
+[36mA Corridor[0;37m
+    The corridor extends to the east, deeper into the Balifor jail. Back
+west lies the front area where new prisoners are registered before being
+thrown in their cells. Several torches hang from the opposite walls,
+lighting your way. In the south wall a flight of stairs ascends to the
+second floor.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:22 Exits:EWU> 
+[36mA Corridor[0;37m
+    The corridor leads to the east and west. Flickering torches set into
+the stone walls illuminate the area. The clomp of boot shod feet bound
+through the corridor as jail guards pass by. Two heavily reinforced oaken
+doors lie just to the east. Most likely they lead down to the prison cells.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m123V [0;37m1315370X 93.60% 3747C [0;37mT:21 Exits:(E)W> 
+*click* as you use a loop of jailer's keys.
+You try each key on the loop until you find the right one.
+*click*
+
+[32m[0;37m[32m221H [0;37m[32m123V [0;37m1315370X 93.60% 3747C [0;37mT:21 Exits:(E)W> 
+Ok.
+
+[32m[0;37m[32m221H [0;37m[32m123V [0;37m1315370X 93.60% 3747C [0;37mT:21 Exits:EW> 
+[36mStairwell to the Dungeons[0;37m
+    Your footfalls echo off the bare walls of the stairwell. The stone feels
+cold and damp to the touch only warming where flickering torches hang from
+iron sconces set in the walls. The steps lead you down to the dungeons
+where Balifor's criminals are locked away ... hopefully.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m122V [0;37m1315370X 93.60% 3747C [0;37mT:21 Exits:WD> 
+Sprink arrives from above.
+[36mBottom of the Stairwell[0;37m
+    The stone steps end near the bottom of a sturdy ironwood door to the
+south. A heavy wooden bar stretches across to both sides of the frame. This
+is the final gateway before prisoners enter the dungeons.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m121V [0;37m1315370X 93.60% 3747C [0;37mT:20 Exits:(S)U> 
+*click* as you use a loop of jailer's keys.
+You try each key on the loop until you find the right one.
+*click*
+
+[32m[0;37m[32m221H [0;37m[32m121V [0;37m1315370X 93.60% 3747C [0;37mT:20 Exits:(S)U> 
+Ok.
+
+[32m[0;37m[32m221H [0;37m[32m121V [0;37m1315370X 93.60% 3747C [0;37mT:20 Exits:SU> 
+[36mDungeon Corridor[0;37m
+    Flames flicker from torches set in the opposite walls casting eerie
+shadows along the length of the corridor. They give little warmth and
+barely any light for you to see your way. The air is cold and stale down
+here, the mood oppressive as barred dungeon cells stretch down the hall.
+The groans and mutterings of prisoners fill your ears. To the east and west
+lie two doors.
+[33m[1m[0;37m[31m[1mAn armour clad guard patrols the dungeons, ruthlessly taunting the inmates.
+Patrolling the hallway, a dungeon guard keeps the prisoners in line.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m120V [0;37m1315370X 93.60% 3747C [0;37mT:20 Exits:N(E)S(W)> 
+Sprink arrives from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mPatrolling the hallway, a dungeon guard keeps the prisoners in line.
+An armour clad guard patrols the dungeons, ruthlessly taunting the inmates.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m119V [0;37m1315370X 93.60% 3747C [0;37mT:19 Exits:N(E)S(W)> 
+Sprink arrives from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m118V [0;37m1315370X 93.60% 3747C [0;37mT:19 Exits:NE(SW)> 
+[36mAt the Last Cell[0;37m
+    The corridor is better lit here. Metal lanterns hang from hooks in the
+wall. They provide a bit of warmth to the cool stale air. At the far
+eastern end of the corridor lies a lone wooden door. The door looks to be
+heavily padlocked. Back north will take you toward the entrance of the
+dungeon cells.
+[33m[1m[0;37m[31m[1mPatrolling the hallway, a dungeon guard keeps the prisoners in line.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m117V [0;37m1315370X 93.60% 3747C [0;37mT:19 Exits:(E)SW> 
+Sprink arrives from the north.
+[36mDeath Row Waiting Cells[0;37m
+    The air here is deathly silent, even the rats tread lightly in this
+dismal cell block. North of here is the jail's main corridor, while to the
+east and west are two gloomy cells. Nailed into the grey stone of the
+southern wall is a list of some sort, which seems to be the only feature of
+notice.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m116V [0;37m1315370X 93.60% 3747C [0;37mT:19 Exits:NEW> [0;37me[0m
+[36mA Musty Cell[0;37m
+    Balifor's more vicious criminals are kept in these underground cells,
+cut off from society and sunlight. The walls are stained with foulness and
+the floor is worn in a line, likely from the only thing a prisoner has to
+pass the time here: pace. In a back corner of the cell a crude mattress is
+strewn out on the floor without a bed frame to rest upon, and across from
+it sits a bucket in which prisoners relieve themselves. Being underground,
+the air here is un-circulated and musty, mold grows freely on the walls and
+the iron cell bars are textured with rust.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m115V [0;37m1315370X 93.60% 3747C [0;37mT:15 Exits:W> [0;37mboth lift bed[0m
+You lift up the mattress, finding a hole underneath. With a bit of hesitation
+you descend into the hole, stepping onto a ladder below and into an
+underground tunnel.
+It is pitch black.
+[33m[1mA wooden ladder rises up to a hole in the ceiling.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m114V [0;37m1315370X 93.60% 3747C [0;37mT:1 Exits:E> 
+Sprink climbs in from above and hops off the ladder into a puddle.
+
+[32m[0;37m[32m221H [0;37m[32m114V [0;37m1315370X 93.60% 3747C [0;37mT:1 Exits:E> [0;37me[0m
+Sprink arrives from the west.
+It is pitch black.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m134V [0;37m1315370X 93.60% 3747C [0;37mT:60 Exits:SW> [0;37ms[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m132V [0;37m1315370X 93.60% 3747C [0;37mT:59 Exits:NE> [0;37me[0m
+Sprink arrives from the west.
+[36mBefore a Gate[0;37m
+    Standing at this end of the tunnel is a gateway that has been smoothly
+carved out of the surrounding rock. A small guard post has also been set up
+here to keep out unwanted visitors who happen to stumble across the tunnel,
+though security seems a bit lax. White-blue light given off by a curious
+luminescent moss keeps the tunnel fairly lit, though the ever present taste
+of damp air is especially choking here. Moisture gathered on the dirty
+floor has lain way to dozens of muddy puddles, making the floor quite
+slippery and navigation a filthy endeavor.
+[33m[1m[0;37m[31m[1mAn acolyte stands stationed at the gate, waiting to scrutinize new recruits.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m130V [0;37m1315370X 93.60% 3747C [0;37mT:59 Exits:EW> [0;37me[0m
+[36mThe End of a Hall[0;37m
+    Open doorways lead north and south from here, and a dark wood paneled
+hallway runs straight to the east. Taking up a majority of the western wall
+is a gate of light brown stone, set into a smooth archway that stands as
+tall as the ceiling. Directly south looks to be an office of sorts, north
+the entry to another section of the building, and far down the hall to the
+east is a wooden door. From here you can travel in any direction, though
+the safest path is anyone's guess.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m129V [0;37m1315370X 93.60% 3747C [0;37mT:58 Exits:NESW> [0;37me[0m
+Sprink arrives from the west.
+[36mIntersecting Halls[0;37m
+    Dark wooden panels make up the walls of the two hallways that converge
+here, and dirt trails the floor following them both. Down the western
+hallway you can hardly miss a large gate that stands directly at the end of
+it, while the southern hallway stops at a flight of stairs that lead up to
+a higher floor. The only thing of interest here appears to be a wooden door
+leading east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1315370X 93.60% 3747C [0;37mT:57 Exits:ESW> [0;37ms[0m
+[36mThe End of a Hall[0;37m
+    Oaken panels stained dark line the sides of the hall, and also end it
+in a solid wall to the south. From here you can access the floor above
+this, what would be ground level in this subterranean building, by a flight
+of stairs against the southern wall. Though you can't see into it very well
+from here, you can feel the breeze of freshly circulated air from the room
+above, a welcome change from the stagnant and stale air of these
+underground halls. To the north the hallway you are in, meets up with
+another hallway running east-west.
+[33m[1mA breastplate of darkened steel is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m127V [0;37m1315370X 93.60% 3747C [0;37mT:57 Exits:NU> [0;37mu[0m
+[36mThe Ground Floor[0;37m
+    Fresh air wafts in through an open window south, set within a stone
+wall. Leading back down to the basement floor is a flight of stairs, and to
+the north the hall continues on to a broad intersection. The east and west
+walls hold a leaking wax candle each, keeping this area lit throughout the
+night though they do little to heat the cold stone walls.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m126V [0;37m1315370X 93.60% 3747C [0;37mT:56 Exits:ND> [0;37mn[0m
+Sprink arrives from the south.
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1mA breastplate of darkened steel is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m125V [0;37m1315370X 93.60% 3747C [0;37mT:56 Exits:NESW> [0;37mn[0m
+Sprink arrives from the south.
+[36mWithin the Barracks[0;37m
+    Thrifty blankets cover the stacked beds here, occasionally rising and
+falling from the heavy breathing of a tired recruit. Cheap footlockers peek
+out from underneath the bottom bunks, their flimsy metal frames barely
+protecting the recruits' only belongings. The barrack continues westward,
+and to the south a stone archway leads into a twisting hall.
+[33m[1m[0;37m[31m[1mA soldier is lying here trying to get some much needed rest.
+A soldier is lying here trying to get some much needed rest.
+A soldier is lying here trying to get some much needed rest.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:55 Exits:SW> [0;37msettm[0m
+[0;37mpractice[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:47 Exits:SW> 
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:43 Exits:SW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:39 Exits:SW> 
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:35 Exits:SW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:34 Exits:SW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink fiddles with a footlocker.
+
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:34 Exits:SW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:5 Exits:SW> [0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:5 Exits:SW> [0;37mw[0m
+Sprink arrives from the east.
+[36mWithin the Barracks[0;37m
+    A few sleeping recruits pay little attention to your being here,
+fatigued from long hours of training in the lower floors. Lumpy bunks
+covered in wiry grey sheets stand stacked closed together, almost rising up
+to the ceiling. Small footlockers are wedged underneath the bottom bunks,
+containing the recruits' only worldly possessions. The line of cots runs
+east and south from here, where more recruits doze peacefully.
+[33m[1m[0;37m[31m[1mA soldier is lying here trying to get some much needed rest.
+A soldier is lying here trying to get some much needed rest.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m123V [0;37m1315370X 93.60% 3747C [0;37mT:3 Exits:ES> [0;37mpractice[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m221H [0;37m[32m123V [0;37m1315370X 93.60% 3747C [0;37mT:1 Exits:ES> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:57 Exits:ES> [0;37mboth eat pie[0m
+You eat a pork pie.
+There is nothing left now.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:56 Exits:ES> 
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:52 Exits:ES> 
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:48 Exits:ES> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:48 Exits:ES> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink fiddles with a footlocker.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:47 Exits:ES> [0;37mb[0m
+[0;37ms[0m
+[36mWithin the Barracks[0;37m
+    Rows of bunks are here stacked nearly up to the ceiling, the soldiers
+get very little personal space here, other thank their bunk their only
+possessions lie tucked away in small footlockers on the floor. Snores and
+coughs can be heard all around from soldiers too battle weary to care about
+you being here. The barrack continues north where more bunks are stacked
+tall in monotonous rows.
+[33m[1m[0;37m[31m[1mA soldier is lying here trying to get some much needed rest.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1315370X 93.60% 3747C [0;37mT:31 Exits:NE> [0;37mpractice[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1315370X 93.60% 3747C [0;37mT:26 Exits:NE> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1315370X 93.60% 3747C [0;37mT:22 Exits:NE> 
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1315370X 93.60% 3747C [0;37mT:17 Exits:NE> 
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1315370X 93.60% 3747C [0;37mT:13 Exits:NE> 
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1315370X 93.60% 3747C [0;37mT:13 Exits:NE> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+[0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+[0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1315370X 93.60% 3747C [0;37mT:56 Exits:NE> [0;37me[0m
+Sprink arrives from the west.
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1315370X 93.60% 3747C [0;37mT:56 Exits:NESW> [0;37mb detect[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1315370X 93.60% 3747C [0;37mT:54 Exits:NESW> [0;37me[0m
+[36mA Twisting Hallway[0;37m
+    The plain stone hallway curves toward the north and east, avoiding the
+corner of a mess hall directly east of here. Open windows in the building's
+outer wall north of here let in a cool breeze that flows freely through the
+cold stone hallway, kicking up the smell of cooking from the east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m134V [0;37m1315370X 93.60% 3747C [0;37mT:51 Exits:NEW> [0;37mn[0m
+Sprink arrives from the south.
+[36mA Twisting Hallway[0;37m
+    The hallway turns perpendicularly here, running in from the east and
+south to meet at a sharp corner. A mess hall to the southeast borders the
+hallway, accessible through two open archways to the east and south. Along
+the northern wall a few windows look out onto some other buildings on the
+edge of Balifor, and also allow for a refreshing wind to carry through the
+stone hallways.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m133V [0;37m1315370X 93.60% 3747C [0;37mT:50 Exits:ES> [0;37me[0m
+Sprink arrives from the west.
+[36mA Twisting Hallway[0;37m
+    A dark aura clouds the hallway east of here, where the black doors of a
+temple radiate wickedness. The stone wall opens up in an archway to the
+south, which leads into a sloppy mess hall, and to the west the hallway
+twists off heading south. Light breezes whisper in through slat-like
+windows in the northern wall, making the stench of rotten food from the
+south more bearable.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m132V [0;37m1315370X 93.60% 3747C [0;37mT:49 Exits:ESW> [0;37me[0m
+[36mBefore a Temple of Takhisis[0;37m
+    Standing before double doors carved with the two common visages of
+Takhisis, you are immediately struck by a powerful evil aura. Stone walls
+meet up with a curved ceiling, and lead westward through a twisting
+passage, while to the east the foreboding doors of a temple to the dark
+goddess lie before you. Clearly the coward's way is to flee west away from
+the danger within, though those who wish to follow in the footsteps of
+heroes would surely brave on to the dangers of the temple.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1315370X 93.60% 3747C [0;37mT:49 Exits:EW> [0;37mb detect[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1315370X 93.60% 3747C [0;37mT:46 Exits:EW> [0;37me[0m
+[36mAmongst Rows of Pews[0;37m
+    Narrow isles lead in between the wooden pews from north to south,
+heading up to the base of an altar dedicated to Takhisis, which takes up
+the entire southern wall of this wide room. Light tan pallets of woven hemp
+line the rows of pews from east to west, upon which Takhisis's acolytes
+kneel to offer her dark prayers. Leading west is an entryway into a
+hallway, occupied by two black wooden doors, one bearing a carving of a
+beautiful woman and the other a hideous dragon with five heads.
+[33m[1m[0;37m[31m[1mA devotee of Takhisis' kneels in silent prayer.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m130V [0;37m1315370X 93.60% 3747C [0;37mT:45 Exits:ESW> [0;37ms[0m
+[36mBefore an Altar of Takhisis[0;37m
+    Looming at ceiling's height at the southern wall is a lifelike statue
+of a dragon with five heads, standing upon a dais. Pews run across the room
+parallel to the altar of Takhisis, supplying clerics of the evil goddess
+with a place to worship. In between pews, hemp pallets stretch the length
+of the room for devotees to kneel in the presence of their deity.
+[33m[1mA garlic clove's odor alerts you to its presence.
+A yellow colored piece of glass lies on the ground here.
+[0;37m[31m[1mA devotee of Takhisis' kneels in silent prayer.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m129V [0;37m1315370X 93.60% 3747C [0;37mT:44 Exits:NES> [0;37mb detect[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m221H [0;37m[32m129V [0;37m1315370X 93.60% 3747C [0;37mT:42 Exits:NES> [0;37mscan[0m
+Looking north:
+The wooden pews continue on northward in straight rows.
+[31m[1mA devotee of Takhisis' kneels in silent prayer.
+[0;37mLooking east:
+Aisles run eastward in between the benches.
+[31m[1mA devotee of Takhisis' kneels in silent prayer.
+A devotee of Takhisis' kneels in silent prayer.
+[0;37mLooking south:
+A huge black statue rises up from a dais.
+The curtain is open.
+Looking west:
+An aisle runs along the western wall for easy access to the pews.
+Looking up:
+Inked murals have been drawn over the entire ceiling.
+Looking down:
+The floor between pews is lined with mats for kneeling worshippers.
+
+[32m[0;37m[32m221H [0;37m[32m129V [0;37m1315370X 93.60% 3747C [0;37mT:41 Exits:NES> [0;37mb[0m
+
+Sprink leaves south.
+
+[32m[0;37m[32m221H [0;37m[32m129V [0;37m1315370X 93.60% 3747C [0;37mT:37 Exits:NES> [0m[1;34;49mFOLLOWER GAINED XP: 30000[0m
+
+Sprink arrives from the south.
+
+[32m[0;37m[32m221H [0;37m[32m129V [0;37m1315370X 93.60% 3747C [0;37mT:30 Exits:NES> [0;37m[0m
+
+[32m[0;37m[32m221H [0;37m[32m129V [0;37m1315370X 93.60% 3747C [0;37mT:28 Exits:NES> [0;37ms[0m
+[36mA Sacrificial Chamber[0;37m
+    The stone walls here are obscured by black curtains that hang loosely
+from the ceiling. Rising up from the floor near the south wall is a
+sacrificial altar made of pure silver. Two arms ending in sharp claws
+branch out from it's base to hold the sacrifice, and a sharp blade
+protrudes in between their grip to thrust through the victim's chest. At
+the base of the altar a bowl rests in the gaping maw of a dragon's head
+crafted of the same silver, full of blood from the latest human sacrifice
+to the goddess Takhisis.
+[33m[1mA torn piece of cloth is lying here with an emblem etched onto it.
+A yellow colored piece of glass lies on the ground here.
+A sheared kender topknot is lying on the ground.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1315370X 93.60% 3747C [0;37mT:27 Exits:N> [0;37mb detect[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1315370X 93.60% 3747C [0;37mT:24 Exits:N> [0;37ma[0m
+[0;37m[0m
+
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1315370X 93.60% 3747C [0;37mT:23 Exits:N> [0;37mn[0m
+Sprink arrives from the south.
+[36mBefore an Altar of Takhisis[0;37m
+    Looming at ceiling's height at the southern wall is a lifelike statue
+of a dragon with five heads, standing upon a dais. Pews run across the room
+parallel to the altar of Takhisis, supplying clerics of the evil goddess
+with a place to worship. In between pews, hemp pallets stretch the length
+of the room for devotees to kneel in the presence of their deity.
+[33m[1mA garlic clove's odor alerts you to its presence.
+A yellow colored piece of glass lies on the ground here.
+[0;37m[31m[1mA devotee of Takhisis' kneels in silent prayer.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m127V [0;37m1315370X 93.60% 3747C [0;37mT:23 Exits:NES> [0;37mn[0m
+Sprink arrives from the south.
+[36mAmongst Rows of Pews[0;37m
+    Narrow isles lead in between the wooden pews from north to south,
+heading up to the base of an altar dedicated to Takhisis, which takes up
+the entire southern wall of this wide room. Light tan pallets of woven hemp
+line the rows of pews from east to west, upon which Takhisis's acolytes
+kneel to offer her dark prayers. Leading west is an entryway into a
+hallway, occupied by two black wooden doors, one bearing a carving of a
+beautiful woman and the other a hideous dragon with five heads.
+[33m[1m[0;37m[31m[1mA devotee of Takhisis' kneels in silent prayer.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m126V [0;37m1315370X 93.60% 3747C [0;37mT:23 Exits:ESW> [0;37mw[0m
+[36mBefore a Temple of Takhisis[0;37m
+    Standing before double doors carved with the two common visages of
+Takhisis, you are immediately struck by a powerful evil aura. Stone walls
+meet up with a curved ceiling, and lead westward through a twisting
+passage, while to the east the foreboding doors of a temple to the dark
+goddess lie before you. Clearly the coward's way is to flee west away from
+the danger within, though those who wish to follow in the footsteps of
+heroes would surely brave on to the dangers of the temple.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m125V [0;37m1315370X 93.60% 3747C [0;37mT:22 Exits:EW> [0;37mw[0m
+[36mA Twisting Hallway[0;37m
+    A dark aura clouds the hallway east of here, where the black doors of a
+temple radiate wickedness. The stone wall opens up in an archway to the
+south, which leads into a sloppy mess hall, and to the west the hallway
+twists off heading south. Light breezes whisper in through slat-like
+windows in the northern wall, making the stench of rotten food from the
+south more bearable.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m124V [0;37m1315370X 93.60% 3747C [0;37mT:22 Exits:ESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mIn a Mess Hall[0;37m
+    Bowls of slop lie steaming on the tables, waiting to be eaten by famished
+recruits on a break from training. The tables are slanted out of their rows
+from rushing soldiers bumping into them in their haste to eat, and the floor
+is covered in a soupy mess and dirty footprints. The mess hall continues on
+to the east and south, and to the north and west a stone hallway runs along
+it's corner.
+[33m[1m[0;37m[31m[1mA hungry recruit searches for a place to sit and eat his stew.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m123V [0;37m1315370X 93.60% 3747C [0;37mT:21 Exits:NESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mIn a Mess Hall[0;37m
+    Bowls of steaming slop dot the tables' surfaces, waiting to be eaten by
+famished recruits. In the southwest corner a pile of empty but unwashed
+wooden bowls lies in a mountainous heap, and a bit to the east the cook's
+oven swelters like a small volcano. Metal tables are pushed out of place
+all around, forcing you to weave in and out of them to move through the
+mess hall which continues on to the north and east.
+[33m[1m[0;37m[31m[1mA hungry recruit searches for a place to sit and eat her stew.
+A hungry recruit searches for a place to sit and eat his stew.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m122V [0;37m1315370X 93.60% 3747C [0;37mT:21 Exits:NE> [0;37mn[0m
+Sprink arrives from the south.
+[36mIn a Mess Hall[0;37m
+    Bowls of slop lie steaming on the tables, waiting to be eaten by famished
+recruits on a break from training. The tables are slanted out of their rows
+from rushing soldiers bumping into them in their haste to eat, and the floor
+is covered in a soupy mess and dirty footprints. The mess hall continues on
+to the east and south, and to the north and west a stone hallway runs along
+it's corner.
+[33m[1m[0;37m[31m[1mA hungry recruit searches for a place to sit and eat his stew.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m121V [0;37m1315370X 93.60% 3747C [0;37mT:20 Exits:NESW> [0;37mw[0m
+Sprink arrives from the east.
+[36mA Twisting Hallway[0;37m
+    The plain stone hallway curves toward the north and east, avoiding the
+corner of a mess hall directly east of here. Open windows in the building's
+outer wall north of here let in a cool breeze that flows freely through the
+cold stone hallway, kicking up the smell of cooking from the east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m120V [0;37m1315370X 93.60% 3747C [0;37mT:19 Exits:NEW> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m221H [0;37m[32m120V [0;37m1315370X 93.60% 3747C [0;37mT:19 Exits:NEW> [0;37mw[0m
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m119V [0;37m1315370X 93.60% 3747C [0;37mT:18 Exits:NESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mThe Ground Floor[0;37m
+    Fresh air wafts in through an open window south, set within a stone
+wall. Leading back down to the basement floor is a flight of stairs, and to
+the north the hall continues on to a broad intersection. The east and west
+walls hold a leaking wax candle each, keeping this area lit throughout the
+night though they do little to heat the cold stone walls.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m118V [0;37m1315370X 93.60% 3747C [0;37mT:18 Exits:ND> [0;37md[0m
+Sprink arrives from above.
+[36mThe End of a Hall[0;37m
+    Oaken panels stained dark line the sides of the hall, and also end it
+in a solid wall to the south. From here you can access the floor above
+this, what would be ground level in this subterranean building, by a flight
+of stairs against the southern wall. Though you can't see into it very well
+from here, you can feel the breeze of freshly circulated air from the room
+above, a welcome change from the stagnant and stale air of these
+underground halls. To the north the hallway you are in, meets up with
+another hallway running east-west.
+[33m[1mA breastplate of darkened steel is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m117V [0;37m1315370X 93.60% 3747C [0;37mT:17 Exits:NU> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m221H [0;37m[32m117V [0;37m1315370X 93.60% 3747C [0;37mT:11 Exits:NU> [0;37mn[0m
+[36mIntersecting Halls[0;37m
+    Dark wooden panels make up the walls of the two hallways that converge
+here, and dirt trails the floor following them both. Down the western
+hallway you can hardly miss a large gate that stands directly at the end of
+it, while the southern hallway stops at a flight of stairs that lead up to
+a higher floor. The only thing of interest here appears to be a wooden door
+leading east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m116V [0;37m1315370X 93.60% 3747C [0;37mT:10 Exits:ESW> [0;37me[0m
+[36mThe Top of a Stairwell[0;37m
+    A pillar of shaking iron stairs spirals down into darkness below, time
+to time letting off a stressed metallic groan. There is little of interest
+in this room, the walls are bare of decoration and the floor is of cold
+dull stone. Westward a creaky wooden door leads out onto the rest of this
+floor, the only other place to go would be down into the bowels of the
+building.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m115V [0;37m1315370X 93.60% 3747C [0;37mT:10 Exits:WD> [0;37mw[0m
+[36mIntersecting Halls[0;37m
+    Dark wooden panels make up the walls of the two hallways that converge
+here, and dirt trails the floor following them both. Down the western
+hallway you can hardly miss a large gate that stands directly at the end of
+it, while the southern hallway stops at a flight of stairs that lead up to
+a higher floor. The only thing of interest here appears to be a wooden door
+leading east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m114V [0;37m1315370X 93.60% 3747C [0;37mT:7 Exits:ESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mThe End of a Hall[0;37m
+    Oaken panels stained dark line the sides of the hall, and also end it
+in a solid wall to the south. From here you can access the floor above
+this, what would be ground level in this subterranean building, by a flight
+of stairs against the southern wall. Though you can't see into it very well
+from here, you can feel the breeze of freshly circulated air from the room
+above, a welcome change from the stagnant and stale air of these
+underground halls. To the north the hallway you are in, meets up with
+another hallway running east-west.
+[33m[1mA breastplate of darkened steel is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m113V [0;37m1315370X 93.60% 3747C [0;37mT:7 Exits:NU> [0;37mu[0m
+Sprink arrives from below.
+[36mThe Ground Floor[0;37m
+    Fresh air wafts in through an open window south, set within a stone
+wall. Leading back down to the basement floor is a flight of stairs, and to
+the north the hall continues on to a broad intersection. The east and west
+walls hold a leaking wax candle each, keeping this area lit throughout the
+night though they do little to heat the cold stone walls.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m112V [0;37m1315370X 93.60% 3747C [0;37mT:6 Exits:ND> [0;37mn[0m
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m111V [0;37m1315370X 93.60% 3747C [0;37mT:5 Exits:NESW> [0;37mn[0m
+[36mWithin the Barracks[0;37m
+    Thrifty blankets cover the stacked beds here, occasionally rising and
+falling from the heavy breathing of a tired recruit. Cheap footlockers peek
+out from underneath the bottom bunks, their flimsy metal frames barely
+protecting the recruits' only belongings. The barrack continues westward,
+and to the south a stone archway leads into a twisting hall.
+[33m[1m[0;37m[31m[1mA soldier is lying here trying to get some much needed rest.
+A soldier is lying here trying to get some much needed rest.
+A soldier is lying here trying to get some much needed rest.
+[0;37m
+[32m[0;37m[32m221H [0;37m[33m[1m110V [0;37m1315370X 93.60% 3747C [0;37mT:4 Exits:SW> [0;37ms[0m
+Sprink arrives from the north.
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[33m[1m109V [0;37m1315370X 93.60% 3747C [0;37mT:3 Exits:NESW> [0;37me[0m
+Sprink arrives from the west.
+[36mA Twisting Hallway[0;37m
+    The plain stone hallway curves toward the north and east, avoiding the
+corner of a mess hall directly east of here. Open windows in the building's
+outer wall north of here let in a cool breeze that flows freely through the
+cold stone hallway, kicking up the smell of cooking from the east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[33m[1m108V [0;37m1315370X 93.60% 3747C [0;37mT:3 Exits:NEW> [0;37mw[0m
+Sprink arrives from the east.
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[33m[1m107V [0;37m1315370X 93.60% 3747C [0;37mT:3 Exits:NESW> [0;37mn[0m
+[36mWithin the Barracks[0;37m
+    Thrifty blankets cover the stacked beds here, occasionally rising and
+falling from the heavy breathing of a tired recruit. Cheap footlockers peek
+out from underneath the bottom bunks, their flimsy metal frames barely
+protecting the recruits' only belongings. The barrack continues westward,
+and to the south a stone archway leads into a twisting hall.
+[33m[1m[0;37m[31m[1mA soldier is lying here trying to get some much needed rest.
+A soldier is lying here trying to get some much needed rest.
+A soldier is lying here trying to get some much needed rest.
+[0;37m
+[32m[0;37m[32m221H [0;37m[33m[1m106V [0;37m1315370X 93.60% 3747C [0;37mT:2 Exits:SW> [0m[1;31;49m-->STRENGTH GONE<--[0m
+[0m[1;31;49m-->BLUR GONE<--[0m
+[0;37mjack soldier[0m
+
+Sprink comes out of hiding.
+Sprink places an ice spear in a tired soldier's back, resulting in some strange noises and some blood.
+A tired soldier awakens.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1315370X 93.60% 3747C [0;37mT:60 Exits:SW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+-#-#-#-#-#-#-#-> A tired soldier <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1315370X 93.60% 3747C [0;37mT:59 Exits:SW> 
+You miss a tired soldier with your bludgeon.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1315370X 93.60% 3747C [Sprink:[0;37m[32mGood[0;37m] [a tired soldier:[0;37m[31mAwful[0;37m] [0;37mT:59 Exits:SW> 
+You miss a tired soldier with your bludgeon.
+Sprink pierces a tired soldier extremely hard.
+A tired soldier is incapacitated and will slowly die, if not aided.
+Sprink MASSACREs a tired soldier with her crush.
+You receive 25944 experience.
+A tired soldier is dead! R.I.P.
+The death cry of a tired soldier echoes from somewhere nearby...
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3747C [0;37mT:56 Exits:SW> [0m[1;34;49mFOLLOWER GAINED XP: 25944[0m
+
+You get a pile of coins from the corpse of a tired soldier.
+There were 18 coins.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3765C [0;37mT:54 Exits:SW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3765C [0;37mT:54 Exits:SW> 
+You can't find that container.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3765C [0;37mT:54 Exits:SW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3765C [0;37mT:53 Exits:SW> 
+corpse (here) : 
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3765C [0;37mT:53 Exits:SW> 
+You divide 18 coins equally among the group members present.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3756C [0;37mT:53 Exits:SW> [0;37ml[0m
+[36mWithin the Barracks[0;37m
+    Thrifty blankets cover the stacked beds here, occasionally rising and
+falling from the heavy breathing of a tired recruit. Cheap footlockers peek
+out from underneath the bottom bunks, their flimsy metal frames barely
+protecting the recruits' only belongings. The barrack continues westward,
+and to the south a stone archway leads into a twisting hall.
+[33m[1mThe corpse of a tired soldier is lying here.
+[0;37m[31m[1mA soldier is lying here trying to get some much needed rest.
+A soldier is lying here trying to get some much needed rest.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3756C [0;37mT:19 Exits:SW> [0;37mjack soldier[0m
+
+Sprink comes out of hiding.
+Sprink places an ice spear in a tired soldier's back, resulting in some strange noises and some blood.
+A tired soldier awakens.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3756C [0;37mT:13 Exits:SW> 
+Sprink MASSACREs a tired soldier with her pierce.
+Sprink crushes a tired soldier.
+A tired soldier misses Sprink with his hit.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289426X 93.60% 3756C [0;37mT:12 Exits:SW> 
+You bludgeon a tired soldier very hard.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289109X 93.60% 3756C [Sprink:[0;37m[32mGood[0;37m] [a tired soldier:[0;37m[31mAwful[0;37m] [0;37mT:12 Exits:SW> 
+-#-#-#-#-#-#-#-> A tired soldier <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1289109X 93.60% 3756C [Sprink:[0;37m[32mGood[0;37m] [a tired soldier:[0;37m[31mAwful[0;37m] [0;37mT:12 Exits:SW> 
+You bludgeon a tired soldier extremely hard.
+A tired soldier is stunned, but will likely regain consciousness again.
+Sprink **OBLITERATE**s a tired soldier with her pierce.
+You receive 25985 experience.
+A tired soldier is dead! R.I.P.
+The death cry of a tired soldier echoes from somewhere nearby...
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262769X 93.60% 3756C [0;37mT:8 Exits:SW> [0m[1;34;49mFOLLOWER GAINED XP: 25985[0m
+
+You get a small pile of coins from the corpse of a tired soldier.
+There were 8 coins.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262769X 93.60% 3764C [0;37mT:7 Exits:SW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262769X 93.60% 3764C [0;37mT:7 Exits:SW> 
+You can't find that container.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262769X 93.60% 3764C [0;37mT:7 Exits:SW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262769X 93.60% 3764C [0;37mT:6 Exits:SW> 
+corpse (here) : 
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262769X 93.60% 3764C [0;37mT:6 Exits:SW> 
+You divide 8 coins equally among the group members present.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262769X 93.60% 3760C [0;37mT:6 Exits:SW> [0;37ml[0m
+[36mWithin the Barracks[0;37m
+    Thrifty blankets cover the stacked beds here, occasionally rising and
+falling from the heavy breathing of a tired recruit. Cheap footlockers peek
+out from underneath the bottom bunks, their flimsy metal frames barely
+protecting the recruits' only belongings. The barrack continues westward,
+and to the south a stone archway leads into a twisting hall.
+[33m[1mThe corpse of a tired soldier is lying here. [2]
+[0;37m[31m[1mSprink the Female Kender is standing here.
+A soldier is lying here trying to get some much needed rest.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262769X 93.60% 3760C [0;37mT:5 Exits:SW> [0;37mjack soldier[0m
+
+Sprink comes out of hiding.
+Sprink places an ice spear in a tired soldier's back, resulting in some strange noises and some blood.
+A tired soldier awakens.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262769X 93.60% 3760C [0;37mT:3 Exits:SW> 
+You bludgeon a tired soldier extremely hard.
+
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1262377X 93.60% 3760C [Sprink:[0;37m[32mGood[0;37m] [a tired soldier:[0;37m[31mAwful[0;37m] [0;37mT:2 Exits:SW> 
+You bludgeon a tired soldier hard.
+Sprink MASSACREs a tired soldier with her pierce.
+You receive 25997 experience.
+A tired soldier is dead! R.I.P.
+The death cry of a tired soldier echoes from somewhere nearby...
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1236137X 93.60% 3760C [0;37mT:60 Exits:SW> [0m[1;34;49mFOLLOWER GAINED XP: 25997[0m
+
+You get a pile of coins from the corpse of a tired soldier.
+There were 11 coins.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1236137X 93.60% 3771C [0;37mT:57 Exits:SW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1236137X 93.60% 3771C [0;37mT:57 Exits:SW> 
+You can't find that container.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1236137X 93.60% 3771C [0;37mT:57 Exits:SW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1236137X 93.60% 3771C [0;37mT:57 Exits:SW> 
+corpse (here) : 
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1236137X 93.60% 3771C [0;37mT:56 Exits:SW> 
+You can't split 11 evenly among the people in the room; splitting 10 instead.
+You divide 10 coins equally among the group members present.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1236137X 93.60% 3766C [0;37mT:56 Exits:SW> [0;37ml[0m
+[36mWithin the Barracks[0;37m
+    Thrifty blankets cover the stacked beds here, occasionally rising and
+falling from the heavy breathing of a tired recruit. Cheap footlockers peek
+out from underneath the bottom bunks, their flimsy metal frames barely
+protecting the recruits' only belongings. The barrack continues westward,
+and to the south a stone archway leads into a twisting hall.
+[33m[1mThe corpse of a tired soldier is lying here. [3]
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1236137X 93.60% 3766C [0;37mT:11 Exits:SW> [0;37mw[0m
+[36mWithin the Barracks[0;37m
+    A few sleeping recruits pay little attention to your being here,
+fatigued from long hours of training in the lower floors. Lumpy bunks
+covered in wiry grey sheets stand stacked closed together, almost rising up
+to the ceiling. Small footlockers are wedged underneath the bottom bunks,
+containing the recruits' only worldly possessions. The line of cots runs
+east and south from here, where more recruits doze peacefully.
+[33m[1m[0;37m[31m[1mA soldier is lying here trying to get some much needed rest.
+A soldier is lying here trying to get some much needed rest.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1236137X 93.60% 3766C [0;37mT:11 Exits:ES> [0;37mjack soldier[0m
+
+Sprink comes out of hiding.
+Sprink gives her spear a quick thrust and twist, as she strikes a tired soldier in the back with it.
+A tired soldier awakens.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1236137X 93.60% 3766C [0;37mT:8 Exits:ES> 
+You bludgeon a tired soldier extremely hard.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1235745X 93.60% 3766C [Sprink:[0;37m[32mV.Good[0;37m] [a tired soldier:[0;37m[31mV.Bad[0;37m] [0;37mT:7 Exits:ES> 
+-#-#-#-#-#-#-#-> A tired soldier <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1235745X 93.60% 3766C [Sprink:[0;37m[32mV.Good[0;37m] [a tired soldier:[0;37m[31mV.Bad[0;37m] [0;37mT:5 Exits:ES> 
+You bludgeon a tired soldier extremely hard.
+A tired soldier gracefully steps aside as Sprink attacks!
+Sprink stumbles and attacks you!
+Sprink pierces YOU hard.
+Sprink misses a tired soldier with her crush.
+A tired soldier hits Sprink.
+
+[32m[0;37m[32m209H [0;37m[32m135V [0;37m1235409X 93.60% 3766C [Sprink:[0;37m[32mGood[0;37m] [a tired soldier:[0;37m[31mAwful[0;37m] [0;37mT:4 Exits:ES> 
+Sprink pierces a tired soldier hard.
+Sprink misses a tired soldier with her crush.
+You miss a tired soldier with your bludgeon.
+A tired soldier misses Sprink with his hit.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1235409X 93.60% 3766C [Sprink:[0;37m[32mV.Good[0;37m] [a tired soldier:[0;37m[31mAwful[0;37m] [0;37mT:60 Exits:ES> 
+Sprink pierces a tired soldier hard.
+Sprink crushes a tired soldier.
+You bludgeon a tired soldier very hard.
+You receive 25918 experience.
+A tired soldier is dead! R.I.P.
+The death cry of a tired soldier echoes from somewhere nearby...
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1209174X 93.60% 3766C [0;37mT:56 Exits:ES> [0m[1;34;49mFOLLOWER GAINED XP: 25918[0m
+
+You get a pile of coins from the corpse of a tired soldier.
+There were 20 coins.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1209174X 93.60% 3786C [0;37mT:56 Exits:ES> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1209174X 93.60% 3786C [0;37mT:56 Exits:ES> 
+You can't find that container.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1209174X 93.60% 3786C [0;37mT:56 Exits:ES> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1209174X 93.60% 3786C [0;37mT:56 Exits:ES> 
+corpse (here) : 
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1209174X 93.60% 3786C [0;37mT:55 Exits:ES> 
+You divide 20 coins equally among the group members present.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1209174X 93.60% 3776C [0;37mT:55 Exits:ES> [0;37mjack soldier[0m
+
+Sprink comes out of hiding.
+Sprink gives her spear a quick thrust and twist, as she strikes a tired soldier in the back with it.
+A tired soldier awakens.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1209174X 93.60% 3776C [0;37mT:54 Exits:ES> 
+You MASSACRE a tired soldier with your bludgeon.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1208707X 93.60% 3776C [Sprink:[0;37m[32mV.Good[0;37m] [a tired soldier:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:53 Exits:ES> 
+You bludgeon a tired soldier extremely hard.
+Sprink pierces a tired soldier hard.
+Sprink misses a tired soldier with her crush.
+A tired soldier hits Sprink hard.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1208371X 93.60% 3776C [Sprink:[0;37m[32mV.Good[0;37m] [a tired soldier:[0;37m[31mAwful[0;37m] [0;37mT:52 Exits:ES> 
+-#-#-#-#-#-#-#-> A tired soldier <-#-#-#-#-#-#-#-  stands up.
+You bludgeon a tired soldier very hard.
+Sprink pierces a tired soldier very hard.
+You receive 25850 experience.
+A tired soldier is dead! R.I.P.
+The death cry of a tired soldier echoes from somewhere nearby...
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1182204X 93.60% 3776C [0;37mT:48 Exits:ES> [0m[1;34;49mFOLLOWER GAINED XP: 25850[0m
+
+You get a pile of coins from the corpse of a tired soldier.
+There were 13 coins.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1182204X 93.60% 3789C [0;37mT:48 Exits:ES> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1182204X 93.60% 3789C [0;37mT:48 Exits:ES> 
+You can't find that container.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1182204X 93.60% 3789C [0;37mT:48 Exits:ES> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1182204X 93.60% 3789C [0;37mT:48 Exits:ES> 
+corpse (here) : 
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1182204X 93.60% 3789C [0;37mT:47 Exits:ES> 
+You can't split 13 evenly among the people in the room; splitting 12 instead.
+You divide 12 coins equally among the group members present.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1182204X 93.60% 3783C [0;37mT:47 Exits:ES> [0;37ml[0m
+[36mWithin the Barracks[0;37m
+    A few sleeping recruits pay little attention to your being here,
+fatigued from long hours of training in the lower floors. Lumpy bunks
+covered in wiry grey sheets stand stacked closed together, almost rising up
+to the ceiling. Small footlockers are wedged underneath the bottom bunks,
+containing the recruits' only worldly possessions. The line of cots runs
+east and south from here, where more recruits doze peacefully.
+[33m[1mThe corpse of a tired soldier is lying here. [2]
+[0;37m[31m[1mSprink the Female Kender is standing here.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1182204X 93.60% 3783C [0;37mT:33 Exits:ES> [0;37ms[0m
+Sprink arrives from the north.
+[36mWithin the Barracks[0;37m
+    Rows of bunks are here stacked nearly up to the ceiling, the soldiers
+get very little personal space here, other thank their bunk their only
+possessions lie tucked away in small footlockers on the floor. Snores and
+coughs can be heard all around from soldiers too battle weary to care about
+you being here. The barrack continues north where more bunks are stacked
+tall in monotonous rows.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here.
+A soldier is lying here trying to get some much needed rest.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1182204X 93.60% 3783C [0;37mT:32 Exits:NE> [0;37mjack soldier[0m
+
+Sprink comes out of hiding.
+Sprink gives her spear a quick thrust and twist, as she strikes a tired soldier in the back with it.
+A tired soldier awakens.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1182204X 93.60% 3783C [0;37mT:30 Exits:NE> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You MASSACRE a tired soldier with your bludgeon.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1181737X 93.60% 3783C [Sprink:[0;37m[32mV.Good[0;37m] [a tired soldier:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:29 Exits:NE> 
+You miss a tired soldier with your bludgeon.
+Sprink pierces a tired soldier extremely hard.
+Sprink crushes a tired soldier.
+A tired soldier misses Sprink with his hit.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1181737X 93.60% 3783C [Sprink:[0;37m[32mV.Good[0;37m] [a tired soldier:[0;37m[31mAwful[0;37m] [0;37mT:28 Exits:NE> 
+You bludgeon a tired soldier very hard.
+Sprink pierces a tired soldier very hard.
+A tired soldier is mortally wounded, and will die soon, if not aided.
+Sprink MASSACREs a tired soldier with her crush.
+You receive 25863 experience.
+A tired soldier is dead! R.I.P.
+The death cry of a tired soldier echoes from somewhere nearby...
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1155557X 93.60% 3783C [0;37mT:24 Exits:NE> [0m[1;34;49mFOLLOWER GAINED XP: 25863[0m
+
+You get a pile of coins from the corpse of a tired soldier.
+There were 20 coins.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1155557X 93.60% 3803C [0;37mT:24 Exits:NE> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1155557X 93.60% 3803C [0;37mT:24 Exits:NE> 
+You can't find that container.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1155557X 93.60% 3803C [0;37mT:23 Exits:NE> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1155557X 93.60% 3803C [0;37mT:23 Exits:NE> 
+corpse (here) : 
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1155557X 93.60% 3803C [0;37mT:23 Exits:NE> 
+You divide 20 coins equally among the group members present.
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1155557X 93.60% 3793C [0;37mT:23 Exits:NE> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1155557X 93.60% 3793C [0;37mT:17 Exits:NE> [0;37ml[0m
+[36mWithin the Barracks[0;37m
+    Rows of bunks are here stacked nearly up to the ceiling, the soldiers
+get very little personal space here, other thank their bunk their only
+possessions lie tucked away in small footlockers on the floor. Snores and
+coughs can be heard all around from soldiers too battle weary to care about
+you being here. The barrack continues north where more bunks are stacked
+tall in monotonous rows.
+[33m[1mThe corpse of a tired soldier is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m135V [0;37m1155557X 93.60% 3793C [0;37mT:16 Exits:NE> [0;37me[0m
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m134V [0;37m1155557X 93.60% 3793C [0;37mT:16 Exits:NESW> [0;37mn[0m
+[36mWithin the Barracks[0;37m
+    Thrifty blankets cover the stacked beds here, occasionally rising and
+falling from the heavy breathing of a tired recruit. Cheap footlockers peek
+out from underneath the bottom bunks, their flimsy metal frames barely
+protecting the recruits' only belongings. The barrack continues westward,
+and to the south a stone archway leads into a twisting hall.
+[33m[1mThe corpse of a tired soldier is lying here. [3]
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m133V [0;37m1155557X 93.60% 3793C [0;37mT:15 Exits:SW> [0;37me[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m221H [0;37m[32m133V [0;37m1155557X 93.60% 3793C [0;37mT:15 Exits:SW> [0;37ms[0m
+Sprink arrives from the north.
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m132V [0;37m1155557X 93.60% 3793C [0;37mT:14 Exits:NESW> [0;37me[0m
+Sprink arrives from the west.
+[36mA Twisting Hallway[0;37m
+    The plain stone hallway curves toward the north and east, avoiding the
+corner of a mess hall directly east of here. Open windows in the building's
+outer wall north of here let in a cool breeze that flows freely through the
+cold stone hallway, kicking up the smell of cooking from the east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m131V [0;37m1155557X 93.60% 3793C [0;37mT:14 Exits:NEW> [0;37mn[0m
+[36mA Twisting Hallway[0;37m
+    The hallway turns perpendicularly here, running in from the east and
+south to meet at a sharp corner. A mess hall to the southeast borders the
+hallway, accessible through two open archways to the east and south. Along
+the northern wall a few windows look out onto some other buildings on the
+edge of Balifor, and also allow for a refreshing wind to carry through the
+stone hallways.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m130V [0;37m1155557X 93.60% 3793C [0;37mT:13 Exits:ES> [0;37me[0m
+Sprink arrives from the west.
+[36mA Twisting Hallway[0;37m
+    A dark aura clouds the hallway east of here, where the black doors of a
+temple radiate wickedness. The stone wall opens up in an archway to the
+south, which leads into a sloppy mess hall, and to the west the hallway
+twists off heading south. Light breezes whisper in through slat-like
+windows in the northern wall, making the stench of rotten food from the
+south more bearable.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m221H [0;37m[32m129V [0;37m1155557X 93.60% 3793C [0;37mT:13 Exits:ESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mIn a Mess Hall[0;37m
+    Bowls of slop lie steaming on the tables, waiting to be eaten by famished
+recruits on a break from training. The tables are slanted out of their rows
+from rushing soldiers bumping into them in their haste to eat, and the floor
+is covered in a soupy mess and dirty footprints. The mess hall continues on
+to the east and south, and to the north and west a stone hallway runs along
+it's corner.
+[33m[1m[0;37m[31m[1mA hungry recruit searches for a place to sit and eat his stew.
+[0;37m
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1155557X 93.60% 3793C [0;37mT:12 Exits:NESW> [0;37mjack recruit[0m
+
+Sprink comes out of hiding.
+Sprink gives her spear a quick thrust and twist, as she strikes a dragonarmy recruit in the back with it.
+
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1155557X 93.60% 3793C [0;37mT:9 Exits:NESW> 
+Sprink pierces a dragonarmy recruit hard.
+Sprink barely crushes a dragonarmy recruit.
+Sprink gracefully steps aside as a dragonarmy recruit attacks!
+
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1155557X 93.60% 3793C [0;37mT:8 Exits:NESW> 
+You bludgeon a dragonarmy recruit very hard.
+
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1155314X 93.60% 3793C [Sprink:[0;37m[32mV.Good[0;37m] [a dragonarmy recruit:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:8 Exits:NESW> 
+A dragonarmy recruit tries to sweep Sprink's legs, but misses badly.
+You miss a dragonarmy recruit with your bludgeon.
+Sprink pierces a dragonarmy recruit very hard.
+Sprink crushes a dragonarmy recruit.
+A dragonarmy recruit misses Sprink with his hit.
+
+[32m[0;37m[32m221H [0;37m[32m128V [0;37m1155314X 93.60% 3793C [Sprink:[0;37m[32mV.Good[0;37m] [a dragonarmy recruit:[0;37m[31mAwful[0;37m] [0;37mT:4 Exits:NESW> 
+You bludgeon a dragonarmy recruit hard.
+A dragonarmy recruit is stunned, but will likely regain consciousness again.
+Sprink MASSACREs a dragonarmy recruit with her pierce.
+You receive 12014 experience.
+A dragonarmy recruit is dead! R.I.P.
+The death cry of a dragonarmy recruit echoes from somewhere nearby...
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1143143X 93.60% 3793C [0;37mT:60 Exits:NESW> [0m[1;34;49mFOLLOWER GAINED XP: 12014[0m
+
+You get a pile of coins from the corpse of a dragonarmy recruit.
+There were 16 coins.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1143143X 93.60% 3809C [0;37mT:60 Exits:NESW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1143143X 93.60% 3809C [0;37mT:60 Exits:NESW> 
+You can't find that container.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1143143X 93.60% 3809C [0;37mT:60 Exits:NESW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1143143X 93.60% 3809C [0;37mT:59 Exits:NESW> 
+corpse (here) : 
+a bowl of slop
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1143143X 93.60% 3809C [0;37mT:59 Exits:NESW> 
+You divide 16 coins equally among the group members present.
+
+[32m[0;37m[32m221H [0;37m[32m136V [0;37m1143143X 93.60% 3801C [0;37mT:59 Exits:NESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mIn a Mess Hall[0;37m
+    Bowls of steaming slop dot the tables' surfaces, waiting to be eaten by
+famished recruits. In the southwest corner a pile of empty but unwashed
+wooden bowls lies in a mountainous heap, and a bit to the east the cook's
+oven swelters like a small volcano. Metal tables are pushed out of place
+all around, forcing you to weave in and out of them to move through the
+mess hall which continues on to the north and east.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here.
+A fierce warrior of the dragonarmy patrols the building.
+A hungry recruit searches for a place to sit and eat her stew.
+A hungry recruit searches for a place to sit and eat his stew.
+[0;37mA dragonarmy warrior crushes YOU extremely hard.
+
+[32m[0;37m[32m203H [0;37m[32m135V [0;37m1143143X 93.60% 3801C [Ronas:[0;37m[32mV.Good[0;37m] [a dragonarmy warrior:[0;37m[32mPerfect[0;37m] [0;37mT:59 Exits:NE> 
+A dragonarmy warrior crushes YOU hard.
+You miss a dragonarmy warrior with your bludgeon.
+
+[32m[0;37m[32m193H [0;37m[32m135V [0;37m1143143X 93.60% 3801C [Ronas:[0;37m[32mGood[0;37m] [a dragonarmy warrior:[0;37m[32mPerfect[0;37m] [0;37mT:56 Exits:NE> [0;37mfight[0m
+
+Sprink pierces a dragonarmy warrior hard.
+
+[32m[0;37m[32m193H [0;37m[32m135V [0;37m1143143X 93.60% 3801C [Ronas:[0;37m[32mGood[0;37m] [a dragonarmy warrior:[0;37m[32mV.Good[0;37m] [0;37mT:55 Exits:NE> [0;37mfb[0m
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m193H [0;37m[32m135V [0;37m1143143X 93.60% 3801C [Ronas:[0;37m[32mGood[0;37m] [a dragonarmy warrior:[0;37m[32mV.Good[0;37m] [0;37mT:55 Exits:NE> 
+You can't do that while fighting.
+
+[32m[0;37m[32m193H [0;37m[32m135V [0;37m1143143X 93.60% 3801C [Ronas:[0;37m[32mGood[0;37m] [a dragonarmy warrior:[0;37m[32mV.Good[0;37m] [0;37mT:54 Exits:NE> 
+Huh?!
+
+[32m[0;37m[32m193H [0;37m[32m135V [0;37m1143143X 93.60% 3801C [Ronas:[0;37m[32mGood[0;37m] [a dragonarmy warrior:[0;37m[32mV.Good[0;37m] [0;37mT:54 Exits:NE> [0;37mmage[0m
+
+Sprink pierces a dragonarmy warrior very hard.
+Sprink misses a dragonarmy warrior with her crush.
+A dragonarmy warrior crushes YOU hard.
+You bludgeon a dragonarmy warrior very hard.
+
+[32m[0;37m[32m180H [0;37m[32m135V [0;37m1142827X 93.60% 3801C [Ronas:[0;37m[32mGood[0;37m] [a dragonarmy warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:52 Exits:NE> [0;37mfb[0m
+You utter the words, 'force bolt'
+You hear bones crack as your force bolt slams into a dragonarmy warrior.
+
+[32m[0;37m[32m180H [0;37m[32m135V [0;37m1141818X 93.60% 3801C [Ronas:[0;37m[32mGood[0;37m] [a dragonarmy warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:52 Exits:NE> 
+A dragonarmy warrior stumbles and falls while trying to bash you.
+
+[32m[0;37m[32m180H [0;37m[32m135V [0;37m1141818X 93.60% 3801C [Ronas:[0;37m[32mGood[0;37m] [a dragonarmy warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:50 Exits:NE> [0;37mab[0m
+
+Sprink pierces a dragonarmy warrior very hard.
+Sprink crushes a dragonarmy warrior hard.
+A dragonarmy warrior crushes YOU very hard.
+
+[32m[0;37m[33m[1m165H [0;37m[32m135V [0;37m1141818X 93.60% 3801C [Ronas:[0;37m[33m[1mFair[0;37m] [a dragonarmy warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:48 Exits:NE> 
+Your casting is disrupted by the fighting!
+
+[32m[0;37m[33m[1m165H [0;37m[32m135V [0;37m1141818X 93.60% 3801C [Ronas:[0;37m[33m[1mFair[0;37m] [a dragonarmy warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:48 Exits:NE> 
+Sprink pierces a dragonarmy warrior very hard.
+Sprink misses a dragonarmy warrior with her crush.
+A dragonarmy warrior crushes YOU very hard.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1141818X 93.60% 3801C [Ronas:[0;37m[33m[1mFair[0;37m] [a dragonarmy warrior:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:44 Exits:NE> [0;37mfb[0m
+You utter the words, 'force bolt'
+You hear bones crack as your force bolt slams into a dragonarmy warrior.
+A dragonarmy warrior is incapacitated and will slowly die, if not aided.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1141363X 93.60% 3801C [a dragonarmy warrior:[0;37m[31mDying[0;37m] [0;37mMem:2 T:43 Exits:NE> 
+Sprink **ANNIHILATE**s a dragonarmy warrior with her pierce.
+You receive 37958 experience.
+A dragonarmy warrior is dead! R.I.P.
+The death cry of a dragonarmy warrior echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3801C [0;37mMem:2 T:40 Exits:NE> [0m[1;34;49mFOLLOWER GAINED XP: 37958[0m
+
+You get a pile of coins from the corpse of a dragonarmy warrior.
+There were 14 coins.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3815C [0;37mMem:2 T:39 Exits:NE> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3815C [0;37mMem:2 T:38 Exits:NE> 
+You can't find that container.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3815C [0;37mMem:2 T:38 Exits:NE> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3815C [0;37mMem:2 T:38 Exits:NE> 
+corpse (here) : 
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3815C [0;37mMem:2 T:38 Exits:NE> 
+You divide 14 coins equally among the group members present.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3808C [0;37mMem:2 T:37 Exits:NE> [0;37ml[0m
+[36mIn a Mess Hall[0;37m
+    Bowls of steaming slop dot the tables' surfaces, waiting to be eaten by
+famished recruits. In the southwest corner a pile of empty but unwashed
+wooden bowls lies in a mountainous heap, and a bit to the east the cook's
+oven swelters like a small volcano. Metal tables are pushed out of place
+all around, forcing you to weave in and out of them to move through the
+mess hall which continues on to the north and east.
+[33m[1mThe corpse of a dragonarmy warrior is lying here.
+[0;37m[31m[1mSprink the Female Kender is standing here.
+A hungry recruit searches for a place to sit and eat her stew.
+A hungry recruit searches for a place to sit and eat his stew.
+[0;37m
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3808C [0;37mMem:2 T:32 Exits:NE> [0;37mjack recruit[0m
+
+Sprink comes out of hiding.
+Sprink quickly thrusts an ice spear at a dragonarmy recruit from behind, but somehow falls short of her target.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3808C [0;37mMem:2 T:29 Exits:NE> 
+Sprink pierces a dragonarmy recruit hard.
+Sprink crushes a dragonarmy recruit.
+Sprink gracefully steps aside as a dragonarmy recruit attacks!
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103405X 93.60% 3808C [0;37mMem:2 T:28 Exits:NE> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You bludgeon a dragonarmy recruit very hard.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1103174X 93.60% 3808C [Sprink:[0;37m[32mPerfect[0;37m] [a dragonarmy recruit:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:28 Exits:NE> 
+You bludgeon a dragonarmy recruit hard.
+Sprink pierces a dragonarmy recruit very hard.
+Sprink misses a dragonarmy recruit with her crush.
+A dragonarmy recruit misses Sprink with her hit.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1102990X 93.60% 3808C [Sprink:[0;37m[32mPerfect[0;37m] [a dragonarmy recruit:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:24 Exits:NE> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+A dragonarmy recruit tries to punch Sprink, but she deftly avoids the blow.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1102990X 93.60% 3808C [Sprink:[0;37m[32mPerfect[0;37m] [a dragonarmy recruit:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:21 Exits:NE> 
+You miss a dragonarmy recruit with your bludgeon.
+Sprink pierces a dragonarmy recruit hard.
+Sprink barely crushes a dragonarmy recruit.
+A dragonarmy recruit misses Sprink with her hit.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1102990X 93.60% 3808C [Sprink:[0;37m[32mPerfect[0;37m] [a dragonarmy recruit:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:20 Exits:NE> [0;37mb[0m
+
+You miss a dragonarmy recruit with your bludgeon.
+Sprink pierces a dragonarmy recruit hard.
+Sprink misses a dragonarmy recruit with her crush.
+Sprink gracefully steps aside as a dragonarmy recruit attacks!
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1102990X 93.60% 3808C [Sprink:[0;37m[32mPerfect[0;37m] [a dragonarmy recruit:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:16 Exits:NE> 
+You bludgeon a dragonarmy recruit very hard.
+Sprink pierces a dragonarmy recruit hard.
+Sprink misses a dragonarmy recruit with her crush.
+A dragonarmy recruit barely hits Sprink.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1102729X 93.60% 3808C [Sprink:[0;37m[32mV.Good[0;37m] [a dragonarmy recruit:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:12 Exits:NE> 
+A dragonarmy recruit spins and tries to kick Sprink, but Sprink dodges out of the way.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1102729X 93.60% 3808C [Sprink:[0;37m[32mV.Good[0;37m] [a dragonarmy recruit:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:9 Exits:NE> 
+You miss a dragonarmy recruit with your bludgeon.
+Sprink pierces a dragonarmy recruit very hard.
+Sprink misses a dragonarmy recruit with her crush.
+Sprink gracefully steps aside as a dragonarmy recruit attacks!
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1102729X 93.60% 3808C [Sprink:[0;37m[32mV.Good[0;37m] [a dragonarmy recruit:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:8 Exits:NE> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You bludgeon a dragonarmy recruit very hard.
+A dragonarmy recruit is mortally wounded, and will die soon, if not aided.
+Sprink **ANNIHILATE**s a dragonarmy recruit with her pierce.
+You receive 15011 experience.
+A dragonarmy recruit is dead! R.I.P.
+The death cry of a dragonarmy recruit echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1087487X 93.60% 3808C [0;37mMem:2 T:4 Exits:NE> [0m[1;34;49mFOLLOWER GAINED XP: 15011[0m
+
+You get a pile of coins from the corpse of a dragonarmy recruit.
+There were 27 coins.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1087487X 93.60% 3835C [0;37mMem:2 T:4 Exits:NE> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1087487X 93.60% 3835C [0;37mMem:2 T:4 Exits:NE> 
+You can't find that container.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1087487X 93.60% 3835C [0;37mMem:2 T:4 Exits:NE> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1087487X 93.60% 3835C [0;37mMem:2 T:4 Exits:NE> 
+corpse (here) : 
+a bowl of slop
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1087487X 93.60% 3835C [0;37mMem:2 T:3 Exits:NE> 
+You can't split 27 evenly among the people in the room; splitting 26 instead.
+You divide 26 coins equally among the group members present.
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1087487X 93.60% 3822C [0;37mMem:2 T:3 Exits:NE> [0;37m[0m
+
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1087487X 93.60% 3822C [0;37mMem:2 T:3 Exits:NE> [0;37ml[0m
+[36mIn a Mess Hall[0;37m
+    Bowls of steaming slop dot the tables' surfaces, waiting to be eaten by
+famished recruits. In the southwest corner a pile of empty but unwashed
+wooden bowls lies in a mountainous heap, and a bit to the east the cook's
+oven swelters like a small volcano. Metal tables are pushed out of place
+all around, forcing you to weave in and out of them to move through the
+mess hall which continues on to the north and east.
+[33m[1mThe corpse of a dragonarmy recruit is lying here.
+The corpse of a dragonarmy warrior is lying here.
+[0;37m[31m[1mA hungry recruit searches for a place to sit and eat his stew.
+[0;37m
+[32m[0;37m[33m[1m150H [0;37m[32m135V [0;37m1087487X 93.60% 3822C [0;37mMem:2 T:3 Exits:NE> [0;37mn[0m
+Sprink arrives from the south.
+[36mIn a Mess Hall[0;37m
+    Bowls of slop lie steaming on the tables, waiting to be eaten by famished
+recruits on a break from training. The tables are slanted out of their rows
+from rushing soldiers bumping into them in their haste to eat, and the floor
+is covered in a soupy mess and dirty footprints. The mess hall continues on
+to the east and south, and to the north and west a stone hallway runs along
+it's corner.
+[33m[1mThe corpse of a dragonarmy recruit is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m150H [0;37m[32m134V [0;37m1087487X 93.60% 3822C [0;37mMem:2 T:2 Exits:NESW> [0;37ma[0m
+[0;37m[0m
+
+[32m[0;37m[33m[1m150H [0;37m[32m134V [0;37m1087487X 93.60% 3822C [0;37mMem:2 T:1 Exits:NESW> [0;37mw[0m
+[36mA Twisting Hallway[0;37m
+    The plain stone hallway curves toward the north and east, avoiding the
+corner of a mess hall directly east of here. Open windows in the building's
+outer wall north of here let in a cool breeze that flows freely through the
+cold stone hallway, kicking up the smell of cooking from the east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m135V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:60 Exits:NEW> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[33m[1m175H [0;37m[32m135V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:60 Exits:NEW> [0;37mw[0m
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m134V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:59 Exits:NESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mThe Ground Floor[0;37m
+    Fresh air wafts in through an open window south, set within a stone
+wall. Leading back down to the basement floor is a flight of stairs, and to
+the north the hall continues on to a broad intersection. The east and west
+walls hold a leaking wax candle each, keeping this area lit throughout the
+night though they do little to heat the cold stone walls.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m133V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:59 Exits:ND> [0;37md[0m
+[36mThe End of a Hall[0;37m
+    Oaken panels stained dark line the sides of the hall, and also end it
+in a solid wall to the south. From here you can access the floor above
+this, what would be ground level in this subterranean building, by a flight
+of stairs against the southern wall. Though you can't see into it very well
+from here, you can feel the breeze of freshly circulated air from the room
+above, a welcome change from the stagnant and stale air of these
+underground halls. To the north the hallway you are in, meets up with
+another hallway running east-west.
+[33m[1mA breastplate of darkened steel is lying here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m132V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:58 Exits:NU> [0;37mn[0m
+[36mIntersecting Halls[0;37m
+    Dark wooden panels make up the walls of the two hallways that converge
+here, and dirt trails the floor following them both. Down the western
+hallway you can hardly miss a large gate that stands directly at the end of
+it, while the southern hallway stops at a flight of stairs that lead up to
+a higher floor. The only thing of interest here appears to be a wooden door
+leading east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m131V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:58 Exits:ESW> [0;37mw[0m
+[36mThe End of a Hall[0;37m
+    Open doorways lead north and south from here, and a dark wood paneled
+hallway runs straight to the east. Taking up a majority of the western wall
+is a gate of light brown stone, set into a smooth archway that stands as
+tall as the ceiling. Directly south looks to be an office of sorts, north
+the entry to another section of the building, and far down the hall to the
+east is a wooden door. From here you can travel in any direction, though
+the safest path is anyone's guess.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m130V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:58 Exits:NESW> [0;37mw[0m
+[36mBefore a Gate[0;37m
+    Standing at this end of the tunnel is a gateway that has been smoothly
+carved out of the surrounding rock. A small guard post has also been set up
+here to keep out unwanted visitors who happen to stumble across the tunnel,
+though security seems a bit lax. White-blue light given off by a curious
+luminescent moss keeps the tunnel fairly lit, though the ever present taste
+of damp air is especially choking here. Moisture gathered on the dirty
+floor has lain way to dozens of muddy puddles, making the floor quite
+slippery and navigation a filthy endeavor.
+[33m[1m[0;37m[31m[1mAn acolyte stands stationed at the gate, waiting to scrutinize new recruits.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m129V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:57 Exits:EW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m127V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:57 Exits:NE> [0;37mu[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[33m[1m175H [0;37m[32m127V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:56 Exits:NE> [0;37mw[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[33m[1m175H [0;37m[32m127V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:54 Exits:NE> [0;37mn[0m
+Sprink arrives from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m125V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:54 Exits:SW> [0;37mw[0m
+It is pitch black.
+[33m[1mA wooden ladder rises up to a hole in the ceiling.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m123V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:53 Exits:E> [0;37mw[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[33m[1m175H [0;37m[32m123V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:53 Exits:E> [0;37mboth climb ladder[0m
+Sprink climbs up the ladder and pushes aside something blocking
+the passage above, disappearing into the hole.
+You climb the ladder up to a hole in the ceiling and find it blocked, though
+with a hefty push you are able to open up the way and lift yourself into the
+room above.
+[36mA Musty Cell[0;37m
+    Balifor's more vicious criminals are kept in these underground cells,
+cut off from society and sunlight. The walls are stained with foulness and
+the floor is worn in a line, likely from the only thing a prisoner has to
+pass the time here: pace. In a back corner of the cell a crude mattress is
+strewn out on the floor without a bed frame to rest upon, and across from
+it sits a bucket in which prisoners relieve themselves. Being underground,
+the air here is un-circulated and musty, mold grows freely on the walls and
+the iron cell bars are textured with rust.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m122V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:50 Exits:W> [0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[33m[1m175H [0;37m[32m122V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:50 Exits:W> [0;37mw[0m
+Sprink arrives from the east.
+[36mDeath Row Waiting Cells[0;37m
+    The air here is deathly silent, even the rats tread lightly in this
+dismal cell block. North of here is the jail's main corridor, while to the
+east and west are two gloomy cells. Nailed into the grey stone of the
+southern wall is a list of some sort, which seems to be the only feature of
+notice.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m121V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:49 Exits:NEW> [0;37mn[0m
+[36mAt the Last Cell[0;37m
+    The corridor is better lit here. Metal lanterns hang from hooks in the
+wall. They provide a bit of warmth to the cool stale air. At the far
+eastern end of the corridor lies a lone wooden door. The door looks to be
+heavily padlocked. Back north will take you toward the entrance of the
+dungeon cells.
+[33m[1m[0;37m[31m[1mPatrolling the hallway, a dungeon guard keeps the prisoners in line.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m120V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:49 Exits:(E)SW> [0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[33m[1m175H [0;37m[32m120V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:48 Exits:(E)SW> [0;37mw[0m
+Sprink arrives from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mAn armour clad guard patrols the dungeons, ruthlessly taunting the inmates.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m119V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:48 Exits:NE(SW)> [0;37mn[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mAn armour clad guard patrols the dungeons, ruthlessly taunting the inmates.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m118V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:47 Exits:N(E)S(W)> [0;37mn[0m
+Sprink arrives from the south.
+[36mDungeon Corridor[0;37m
+    Flames flicker from torches set in the opposite walls casting eerie
+shadows along the length of the corridor. They give little warmth and
+barely any light for you to see your way. The air is cold and stale down
+here, the mood oppressive as barred dungeon cells stretch down the hall.
+The groans and mutterings of prisoners fill your ears. To the east and west
+lie two doors.
+[33m[1m[0;37m[31m[1mPatrolling the hallway, a dungeon guard keeps the prisoners in line.
+Patrolling the hallway, a dungeon guard keeps the prisoners in line.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m117V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:47 Exits:N(E)S(W)> [0;37mn[0m
+[36mBottom of the Stairwell[0;37m
+    The stone steps end near the bottom of a sturdy ironwood door to the
+south. A heavy wooden bar stretches across to both sides of the frame. This
+is the final gateway before prisoners enter the dungeons.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m116V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:47 Exits:SU> [0;37mu[0m
+Sprink arrives from below.
+[36mStairwell to the Dungeons[0;37m
+    Your footfalls echo off the bare walls of the stairwell. The stone feels
+cold and damp to the touch only warming where flickering torches hang from
+iron sconces set in the walls. The steps lead you down to the dungeons
+where Balifor's criminals are locked away ... hopefully.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m115V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:46 Exits:WD> [0;37mw[0m
+Sprink arrives from the east.
+[36mA Corridor[0;37m
+    The corridor leads to the east and west. Flickering torches set into
+the stone walls illuminate the area. The clomp of boot shod feet bound
+through the corridor as jail guards pass by. Two heavily reinforced oaken
+doors lie just to the east. Most likely they lead down to the prison cells.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m114V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:46 Exits:EW> [0;37mw[0m
+[36mA Corridor[0;37m
+    The corridor extends to the east, deeper into the Balifor jail. Back
+west lies the front area where new prisoners are registered before being
+thrown in their cells. Several torches hang from the opposite walls,
+lighting your way. In the south wall a flight of stairs ascends to the
+second floor.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m113V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:46 Exits:EWU> [0;37mw[0m
+[36mThe Balifor Jail[0;37m
+    The front area of the Balifor jail is a large square room. A bare
+concrete floor heavily scuffed by the passage of countless thieves and
+criminals lies beneath your feet. The walls are thick and dull yellow with
+exposed wooden beams racing up to the rafters above. Hanging from the walls
+are large bulletin boards pinned with ragged wanted posters and bounties.
+Ahead of you lies a wooden desk with a hallway off to the right. To the
+north is a door.
+[33m[1m[0;37m[31m[1mThe jail clerk sits at the desk busying himself with reports and new files.
+A Balifor jail sentry stands watch at the front door.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m112V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:45 Exits:NEW> [0;37mw[0m
+[36mAt the Balifor Jail[0;37m
+    A two story building built from blood red brick looms to the east. Wide
+stone steps, chipped and cracked from heavy traffic, lead up to the front
+double doors. A large sign swinging above the frame clearly tells you this
+is the Balifor City Jail. For many prisoners passage beyond those doors is
+the beginning of the end. From some of the yellow stains on the steps, a
+few didn't handle it well. Several guards linger around the entrance, added
+guards for something out of the ordinary.
+[33m[1m[0;37m[31m[1mA member of the Balifor town watch patrols the outside of the jailhouse.
+A member of the Balifor town watch patrols the outside of the jailhouse.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[32m111V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:45 Exits:NEW> [0m[1;34;49mPRIVATE MESSAGE FROM double doors. A large sign swinging above the frame
+[0;1;34;49mclearly: this[0m
+[0;37mw[0m
+[36mDeath Row[0;37m
+    The road leads east to the city jail, the start of the journey for many
+of the prisoners on death row. It is also their last. The dank smell of
+rotting flesh and unwashed bodies is not very pleasant. You force yourself
+to continue.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m110V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:44 Exits:ESW> [0;37mw[0m
+[36mThe Executioners Block[0;37m
+    You leave the claustrophobic surroundings of Death Row and step out
+into a small square that houses the executioners block on a wooden platform
+at its centre. Gazing around you notice there is plenty of space for
+onlookers, a small cart used to sell food and refreshments is propped up
+against a wall of a house. No doubt it has seen much service. The wooden
+platform is blood stained and emits the smell of salt-water, used as a poor
+cleaning fluid to remove the worst of the grime. Death row continues to the
+east and west. A faint smell of blood and the uncomfortable sensation of
+evil invades your soul from the passageway to the north.
+[33m[1m[0;37m[31m[1mThe lord high executioner grins at you, fondling his axe lovingly.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m109V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:43 Exits:NEW> [0;37mw[0m
+Sprink arrives from the east.
+[36mDeath Row[0;37m
+    Stepping onto the narrow and putrid lane that leads east to the
+executioners block and west to Tavern Square, you are aware of the dark and
+evil feeling that surrounds you. The tall houses and buildings are boarded
+up, save for a balcony which runs past the block itself. A good viewing
+point for the peasants. It is easy to understand why this lane is nicknamed
+'Death Row'.
+[33m[1m[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+A wandering preacher stands here, trying to convert the people to his faith.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m108V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:43 Exits:EW> [0;37mw[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA glass key is lying here.
+A small leather purse lies on the floor.
+A small hoopak has been stuck in the ground...it hums softly
+[0;37m[31m[1mA merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:43 Exits:NESW> [0;37mb[0m
+
+A priest of Hiddukel arrives from the west.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:34 Exits:NESW> 
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:30 Exits:NESW> 
+A priest of Hiddukel leaves east.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:28 Exits:NESW> 
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:26 Exits:NESW> 
+A feral cat arrives from the east.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:25 Exits:NESW> 
+A feral cat runs in circles chasing its tail.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:23 Exits:NESW> 
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:22 Exits:NESW> [0;37m[0m
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:13 Exits:NESW> 
+A feral cat hunches down and hisses at something.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:13 Exits:NESW> [0;37mn[0m
+Sprink arrives from the south.
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1mA wooden baton lies here. [2]
+[0;37m[31m[1mA mouse scampers about, scavenging for food and avoiding feral cats.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m106V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:13 Exits:NS> [0;37mn[0m
+Sprink arrives from the south.
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1mA mouse scampers about, scavenging for food and avoiding feral cats.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m105V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:12 Exits:NS> [0;37mn[0m
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m104V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:12 Exits:NSW> 
+A mouse arrives from the south.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m104V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:12 Exits:NSW> [0;37mw[0m
+[36mThe Seedy Lane[0;37m
+    A very dark and foggy lane, the smell of evil evades the once fresh air
+around you. In the distance to the west you can see a faint glow of light
+and hear much cackling and laughter. The occasional sound of breaking wood
+echoes around the damp walls that keep the cold from the hovels in this
+part of town.
+[33m[1m[0;37m[31m[1mA black-robed priest of Hiddukel is here, trying to find his temple.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m103V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:12 Exits:EW> [0;37mw[0m
+Sprink arrives from the east.
+[36mThe Seedy Lane[0;37m
+    The sounds of brawling and laughter are very prevelant on this part of
+the lane, and you can see the source of the noise. Directly to the west of
+you is a very dubious looking inn. A pile of broken benches lie stacked to
+one side, next to the big oak door that could withstand the brute force of
+ten men. You do not doubt that in such a place it would be very handy.
+[33m[1m[0;37m[31m[1mA black tabby cat, Blinky, stalks closely to the ground.
+Eiknom the Male Silvanesti is standing here. (flying)
+. . . is followed by a hovering ball of light.
+Repus the Male Hylar Dwarf is standing here. (flying)
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m102V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:11 Exits:NEW> 
+Repus flies east.
+Eiknom flies east.
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m102V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:11 Exits:NEW> [0;37ms[0m
+[36mThe Secret Thieves Guild[0;37m
+    It would be wise to keep a hand on your purse in this place. Certainly,
+there is no love lost between the filthy street urchins who are being
+taught how to relieve a dummy of a purse. The dummy is covered in small
+bells, the ring of a bell signals failure and back to a life of begging.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+The master thief hands you back a purse he has just taken from your pocket.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m101V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:11 Exits:N> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[33m[1m175H [0;37m[33m[1m101V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:2 Exits:N> [0;37mn[0m
+[36mThe Seedy Lane[0;37m
+    The sounds of brawling and laughter are very prevelant on this part of
+the lane, and you can see the source of the noise. Directly to the west of
+you is a very dubious looking inn. A pile of broken benches lie stacked to
+one side, next to the big oak door that could withstand the brute force of
+ten men. You do not doubt that in such a place it would be very handy.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m100V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:2 Exits:NEW> [0;37me[0m
+Sprink arrives from the west.
+[36mThe Seedy Lane[0;37m
+    A very dark and foggy lane, the smell of evil evades the once fresh air
+around you. In the distance to the west you can see a faint glow of light
+and hear much cackling and laughter. The occasional sound of breaking wood
+echoes around the damp walls that keep the cold from the hovels in this
+part of town.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m99V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:1 Exits:EW> [0;37me[0m
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1mA black-robed priest of Hiddukel is here, trying to find his temple.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m98V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:1 Exits:NSW> [0;37ms[0m
+Sprink arrives from the north.
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m97V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:1 Exits:NS> [0;37ms[0m
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1mA wooden baton lies here. [2]
+[0;37m[31m[1mA mouse scampers about, scavenging for food and avoiding feral cats.
+[0;37m
+[32m[0;37m[33m[1m175H [0;37m[33m[1m96V [0;37m1087487X 93.60% 3822C [0;37mMem:1 T:1 Exits:NS> [0;37ms[0m
+A wooden baton crumbles into dust and scatters in the wind.
+A wooden baton crumbles into dust and scatters in the wind.
+Your studies complete, you close your spellbook with a smile.
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA glass key is lying here.
+A small leather purse lies on the floor.
+A small hoopak has been stuck in the ground...it hums softly
+[0;37m[31m[1mA young kender stands here, looking about curiously.
+A black tabby cat, Blinky, stalks closely to the ground.
+Eiknom the Male Silvanesti is standing here. (flying)
+. . . is followed by a hovering ball of light.
+Repus the Male Hylar Dwarf is standing here. (flying)
+A feral cat parades her territory and sniffs your leg.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m200H [0;37m[32m120V [0;37m1087487X 93.60% 3822C [0;37mT:60 Exits:NESW> [0;37mw[0m
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A drunken sailor is attempting to walk back to his ship.
+[0;37m
+[32m[0;37m[32m200H [0;37m[32m119V [0;37m1087487X 93.60% 3822C [0;37mT:60 Exits:NEW> [0;37mw[0m
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[32m118V [0;37m1087487X 93.60% 3822C [0;37mT:60 Exits:EW> [0;37mw[0m
+Sprink arrives from the east.
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[32m117V [0;37m1087487X 93.60% 3822C [0;37mT:60 Exits:NESW> [0;37mn[0m
+Sprink arrives from the south.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[32m116V [0;37m1087487X 93.60% 3822C [0;37mT:59 Exits:NESW> [0;37mn[0m
+Sprink arrives from the south.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[32m115V [0;37m1087487X 93.60% 3822C [0;37mT:59 Exits:NSW> [0;37mw[0m
+[36mGuild Road[0;37m
+    The road leads both east and west, reaching the famed guild halls and
+also Traders Street. Many young guild members trudge miserably back to
+town, most of them ignoring the strange hut to the north.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[32m114V [0;37m1087487X 93.60% 3822C [0;37mT:58 Exits:NEW> [0;37mw[0m
+Sprink arrives from the east.
+[36mGuild Road[0;37m
+    The roads leads east and west between the buildings and halls. To the
+north is the warriors' arena, where sounds of clashing weapons can be
+heard. South of you, followers of Takhisis dressed in dark metal armor and
+wielding dangerous long swords train against one another. Sparks fly from
+bare metal in both directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[32m113V [0;37m1087487X 93.60% 3822C [0;37mT:58 Exits:NESW> [0;37mw[0m
+Sprink arrives from the east.
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[32m112V [0;37m1087487X 93.60% 3822C [0;37mT:58 Exits:NESW> [0;37mw[0m
+Sprink arrives from the east.
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the mages' laboratory, while to the south is the clerics' sanctum.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[32m111V [0;37m1087487X 93.60% 3822C [0;37mT:57 Exits:NESW> [0;37mn[0m
+[36mThe Master Mages Laboratory[0;37m
+    The laboratory is large and bright, quite unlike many others you have
+seen in your time. Two large stone tables occupy the centre of the room and
+carry literally hundreds of spell components. A large bookcase contains
+papers and notes on every magical subject.
+[33m[1mA magical sign floats in the air here...it glows dimly
+An orrery is mounted on a stand here.
+[0;37m[31m[1mA young kender stands here, looking about curiously.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+An attractive guild guard stands here, watching everyone warily.
+The master mage is standing here, making little balls of light dance around.
+. . . is cloaked with sparks of electricity.
+[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m110V [0;37m1087487X 93.60% 3822C [0;37mT:57 Exits:S> [0;37mlearn all[0m
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m200H [0;37m[33m[1m110V [0;37m1087487X 93.60% 3822C [0;37mT:56 Exits:S> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (fair)              short blades  (awful)           
+
+     arcana        (bad)               concentration (average)         
+     brew          (awful)             deep focus    (bad)             
+     scribe        (awful)           
+     spellcraft    (awful)           
+     bandage       (awful)             gift          (not learned)   **
+
+[32m[0;37m[32m200H [0;37m[33m[1m110V [0;37m1087487X 93.60% 3822C [0;37mT:53 Exits:S> [0;37ms[0m
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the mages' laboratory, while to the south is the clerics' sanctum.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m109V [0;37m1087487X 93.60% 3822C [0;37mT:52 Exits:NESW> [0;37me[0m
+Sprink arrives from the west.
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m108V [0;37m1087487X 93.60% 3822C [0;37mT:51 Exits:NESW> [0;37me[0m
+Sprink arrives from the west.
+[36mGuild Road[0;37m
+    The roads leads east and west between the buildings and halls. To the
+north is the warriors' arena, where sounds of clashing weapons can be
+heard. South of you, followers of Takhisis dressed in dark metal armor and
+wielding dangerous long swords train against one another. Sparks fly from
+bare metal in both directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m107V [0;37m1087487X 93.60% 3822C [0;37mT:51 Exits:NESW> [0;37me[0m
+[36mGuild Road[0;37m
+    The road leads both east and west, reaching the famed guild halls and
+also Traders Street. Many young guild members trudge miserably back to
+town, most of them ignoring the strange hut to the north.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m106V [0;37m1087487X 93.60% 3822C [0;37mT:51 Exits:NEW> [0;37me[0m
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m105V [0;37m1087487X 93.60% 3822C [0;37mT:50 Exits:NSW> [0;37ms[0m
+Sprink arrives from the north.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m104V [0;37m1087487X 93.60% 3822C [0;37mT:49 Exits:NESW> [0;37ms[0m
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m103V [0;37m1087487X 93.60% 3822C [0;37mT:49 Exits:NESW> [0;37me[0m
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m102V [0;37m1087487X 93.60% 3822C [0;37mT:49 Exits:EW> [0;37me[0m
+Sprink arrives from the west.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+A drunken sailor is attempting to walk back to his ship.
+[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m101V [0;37m1087487X 93.60% 3822C [0;37mT:49 Exits:NEW> [0;37me[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA glass key is lying here.
+A small leather purse lies on the floor.
+A small hoopak has been stuck in the ground...it hums softly
+[0;37m[31m[1mA young kender stands here, looking about curiously.
+A feral cat parades her territory and sniffs your leg.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37mA feral cat purrs contentedly.
+
+[32m[0;37m[32m200H [0;37m[33m[1m100V [0;37m1087487X 93.60% 3822C [0;37mT:48 Exits:NESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m99V [0;37m1087487X 93.60% 3822C [0;37mT:48 Exits:NWU> [0;37mu[0m
+Sprink arrives from below.
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A sextant lies here...it hums softly [2]
+A long piece of sturdy cloth lies here.
+[0;37m[31m[1mA beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m98V [0;37m1087487X 93.60% 3822C [0;37mT:48 Exits:D> [0;37moffer[0m
+[33m[1ma headband adorned with eagle's feathers : 30 coins/day
+[0;37m[33m[1m          a pair of black satin pants : 75 coins/day
+[0;37m[33m[1m some heavy red robes of the Conclave : 100 coins/day
+[0;37m[33m[1m               a staff of carved wood : 200 coins/day
+[0;37m[33m              a loop of jailer's keys : I refuse to store this!
+[0;37m[33m                       a pork pie [7] : 7 coins/day
+[0;37m[33m            an enormous scorched maul : 190 coins/day
+[0;37m[33m       a glowing scroll of recall [2] : 30 coins/day
+[0;37m[33m         a dried, discarded snakeskin : 1 coin/day
+[0;37m[33m                  a bit of phosphorus : 1 coin/day
+[0;37m[33m             a smooth blank runestone : 1 coin/day
+[0;37m[33m                 a withered tulip [2] : 2 coins/day
+[0;37m[33m                      a bit of tallow : 1 coin/day
+[0;37m[33m            a deadly scorpion stinger : 1 coin/day
+[0;37m[33m                a bit of brain tissue : 2 coins/day
+[0;37m[33m    a patch of poisonous crimson moss : 2 coins/day
+[0;37m[33m          a corked flask of swamp gas : 1 coin/day
+[0;37m[33m   a flower of Queen Christine's lace : 1 coin/day
+[0;37m[33m                   a maiden's eyelash : 1 coin/day
+[0;37m[33m                     a scabbed potato : 1 coin/day
+[0;37m[33m                      a waterskin [4] : 4 coins/day
+[0;37m
+[32m[0;37m[32m200H [0;37m[33m[1m98V [0;37m1087487X 93.60% 3822C [0;37mT:46 Exits:D> [0;37mdrop keys[0m
+You drop a loop of jailer's keys.
+
+[32m[0;37m[32m200H [0;37m[33m[1m98V [0;37m1087487X 93.60% 3822C [0;37mT:44 Exits:D> [0;37mrent[0m
+[33m[1ma headband adorned with eagle's feathers : 30 coins/day
+[0;37m[33m[1m          a pair of black satin pants : 75 coins/day
+[0;37m[33m[1m some heavy red robes of the Conclave : 100 coins/day
+[0;37m[33m[1m               a staff of carved wood : 200 coins/day
+[0;37m[33m                       a pork pie [7] : 7 coins/day
+[0;37m[33m            an enormous scorched maul : 190 coins/day
+[0;37m[33m       a glowing scroll of recall [2] : 30 coins/day
+[0;37m[33m         a dried, discarded snakeskin : 1 coin/day
+[0;37m[33m                  a bit of phosphorus : 1 coin/day
+[0;37m[33m             a smooth blank runestone : 1 coin/day
+[0;37m[33m                 a withered tulip [2] : 2 coins/day
+[0;37m[33m                      a bit of tallow : 1 coin/day
+[0;37m[33m            a deadly scorpion stinger : 1 coin/day
+[0;37m[33m                a bit of brain tissue : 2 coins/day
+[0;37m[33m    a patch of poisonous crimson moss : 2 coins/day
+[0;37m[33m          a corked flask of swamp gas : 1 coin/day
+[0;37m[33m   a flower of Queen Christine's lace : 1 coin/day
+[0;37m[33m                   a maiden's eyelash : 1 coin/day
+[0;37m[33m                     a scabbed potato : 1 coin/day
+[0;37m[33m                      a waterskin [4] : 4 coins/day
+[0;37mEd tells you 'You need at least 651 coins to rent.'
+Ed tells you 'You will be able to rent for 17 days.'
+Ed stores your stuff in the safe, and shows you to your room.
+Sprink stops following you.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

@@ -1,0 +1,23 @@
+from solsq 24e6s1e2s2e2s1e1s;cut grass;1e10s1w
+
+'scribe animate, cob, cure light, fort, heal, hero, npp, soul leech, str of one, summon'
+'brew cob, cure light, fort, heal, hero, npp'
+
+From Caergoth Western Gate to Physix - w,2n (climb cliff),d,n,3w (rem flys and WB),w,all d (be defensive, thrust kalothagh, no magic except for DK),stack directions w;w;s;u;e (ki Physix likes to charm)
+
+
+7en7e3n4e3n5e6ne2n3u3w3n2e4dne4n3e4n
+
+
+
+
+
+1: [ 1]blur                 [ 2]magic missile        [ 1]shield
+2: [ 1]invisibility         [ 2]shocking grasp
+3: [ 1]dispel magic         [ 1]lightning bolt
+4: [ 1]hold monster         [ 1]improved invisibilit
+
+1:  blur                   magic missile          shield
+2:  invisibility           shocking grasp
+3:  dispel magic           lightning bolt
+4:  hold monster           improved invisibility

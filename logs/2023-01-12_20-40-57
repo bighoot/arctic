@@ -1,0 +1,572 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? lanai
+Password: 
+
+
+You were last connected Thu Jan 12 06:40:48 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 681 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A bundle of arrows sits at your feet, blending into the ground. (101)
+A bundle of arrows sits at your feet, blending into the ground. (102)
+A bundle of arrows sits at your feet, blending into the ground. (103)
+A bundle of arrows sits at your feet, blending into the ground. (94)
+A bundle of arrows sits at your feet, blending into the ground. (97)
+A bundle of arrows sits at your feet, blending into the ground. (62)
+A bundle of arrows sits at your feet, blending into the ground. (79)
+A bundle of arrows sits at your feet, blending into the ground. (100)
+A bundle of arrows sits at your feet, blending into the ground. (76)
+A bundle of arrows sits at your feet, blending into the ground. (85)
+A bundle of arrows sits at your feet, blending into the ground. (81)
+A bundle of arrows sits at your feet, blending into the ground. (86)
+A bundle of arrows sits at your feet, blending into the ground. (59)
+A bundle of arrows sits at your feet, blending into the ground. (67)
+A bundle of arrows sits at your feet, blending into the ground. (70)
+A bundle of arrows sits at your feet, blending into the ground. (78)
+A bundle of arrows sits at your feet, blending into the ground. (99)
+A bundle of arrows sits at your feet, blending into the ground. (90)
+A bundle of arrows sits at your feet, blending into the ground. (98)
+A bundle of arrows sits at your feet, blending into the ground. (84)
+A bundle of arrows sits at your feet, blending into the ground. (89)
+A bundle of arrows sits at your feet, blending into the ground. (51)
+A bundle of arrows sits at your feet, blending into the ground. (50)
+A bundle of arrows sits at your feet, blending into the ground. (103)
+A bundle of arrows sits at your feet, blending into the ground. (64)
+A bundle of arrows sits at your feet, blending into the ground. (92)
+A bundle of arrows sits at your feet, blending into the ground. (102)
+A bundle of arrows sits at your feet, blending into the ground. (74)
+A bundle of arrows sits at your feet, blending into the ground. (86)
+A bundle of arrows sits at your feet, blending into the ground. (59)
+A bundle of arrows sits at your feet, blending into the ground. (72)
+A bundle of arrows sits at your feet, blending into the ground. (93)
+A bundle of arrows sits at your feet, blending into the ground. (48)
+A bundle of arrows sits at your feet, blending into the ground. (64)
+A bundle of arrows sits at your feet, blending into the ground. (48)
+A bundle of arrows sits at your feet, blending into the ground. (91)
+A bundle of arrows sits at your feet, blending into the ground. (74)
+A bundle of arrows sits at your feet, blending into the ground. (78)
+A bundle of arrows sits at your feet, blending into the ground. (71)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (86)
+A bundle of arrows sits at your feet, blending into the ground. (91)
+A bundle of arrows sits at your feet, blending into the ground. (95)
+A bundle of arrows sits at your feet, blending into the ground. (99)
+A bundle of arrows sits at your feet, blending into the ground. (97)
+A bundle of arrows sits at your feet, blending into the ground. (80)
+An ancient scroll of great knowledge has been placed here...it emits an arcane glow
+[0;37m[31m[1m<BROG> Mahku the Bayou Brog is standing here. (flying)
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m585H [0;37m[32m132V [0;37m29973673X 10.17% 2156C [0;37mT:44 Exits:D> loadboth
+[0;37m[0m
+
+[32m[0;37m[32m585H [0;37m[32m132V [0;37m29973673X 10.17% 2156C [0;37mT:42 Exits:D> [0;37m[0m
+
+[32m[0;37m[32m585H [0;37m[32m132V [0;37m29973673X 10.17% 2156C [0;37mT:42 Exits:D> [0;37m[0m
+
+[32m[0;37m[32m585H [0;37m[32m132V [0;37m29973673X 10.17% 2156C [0;37mT:42 Exits:D> [0;37msc[0m
+You are Lanai, Pineapple Prince, a level 30 Warrior.
+You are a Clansman in Myth.
+You are rank 11. You have completed 10.17% of your next rank.
+You are 19 years old.
+You have 585(603) hit and 132(155) movement points.
+Your behaviour has been Evil.
+You have scored 150,026,327 exp, and have 2156(20510) steel coins.
+You need 29,973,673 more experience to advance.
+You have died 2 horrible deaths.
+You have been connected for 0 minute(s).
+You have been playing for 2 day(s), 13 hour(s) and 0 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 13 Wis: 14 Dex: 18 Con: 16 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+
+[32m[0;37m[32m585H [0;37m[32m132V [0;37m29973673X 10.17% 2156C [0;37mT:42 Exits:D> [0;37md[0m
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m585H [0;37m[32m131V [0;37m29973673X 10.17% 2156C [0;37mT:40 Exits:NWU> [0;37md[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m585H [0;37m[32m131V [0;37m29973673X 10.17% 2156C [0;37mT:39 Exits:NWU> [0;37mn[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA plate bearing the insignia of the Green Dragonarmy is here.
+Almost obscured in the shadows you see a pair of leather boots.
+A beaded bracelet sits on the ground...it emits an arcane glow
+[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m585H [0;37m[32m130V [0;37m29973673X 10.17% 2156C [0;37mT:39 Exits:NESW> [0;37mw[0m
+[0m[1;34;49mCLAN MESSAGE FROM Sniferblin: 'zz'[0m
+
+[36mSniferblin tells your clan 'zz'
+[0;37m
+[32m[0;37m[32m585H [0;37m[32m130V [0;37m29973673X 10.17% 2156C [0;37mT:38 Exits:NESW> 
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m585H [0;37m[32m129V [0;37m29973673X 10.17% 2156C [0;37mT:38 Exits:NEW> [0;37mw[0m
+[0m[1;34;49mCLAN MESSAGE FROM Yaza: 'rit'[0m
+
+[36mYaza tells your clan 'rit'
+[0;37m
+[32m[0;37m[32m585H [0;37m[32m129V [0;37m29973673X 10.17% 2156C [0;37mT:38 Exits:NEW> 
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+A feral cat parades her territory and sniffs your leg.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m585H [0;37m[32m128V [0;37m29973673X 10.17% 2156C [0;37mT:38 Exits:EW> [0;37mw[0m
+A feral cat rubs up against your leg.
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1mA wooden baton lies here. [11]
+A sleek looking wooden wand has been dropped here...it emits an arcane glow
+A coin has been left here.
+A short sword lies here.
+[0;37m[31m[1mA pale woman wearing the armor of the Knights of the Skull lurks here.
+[0;37m
+[32m[0;37m[32m585H [0;37m[32m127V [0;37m29973673X 10.17% 2156C [0;37mT:38 Exits:NESW> [0;37mw[0m
+[36mHigh Street[0;37m
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+[33m[1m[0;37m[31m[1mA black-robed priest of Hiddukel is here, trying to find his temple.
+[0;37m
+[32m[0;37m[32m585H [0;37m[32m126V [0;37m29973673X 10.17% 2156C [0;37mT:37 Exits:NESW> [0;37ms[0m
+[36mThe Bank of Balifor[0;37m
+    The bank of Balifor looks fairly rundown. Not surprising, since the
+local populace doesn't earn enough money to bother putting it in banks.
+Still, the bank teller, shuttered up behind a reinforced glass window and
+door, looks enthusiastic enough. A small sign has been stuck to the desk.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m585H [0;37m[33m[1m125V [0;37m29973673X 10.17% 2156C [0;37mT:36 Exits:N> [0;37mlist[0m
+Vault of Lanai:
+Coins: 0
+  1. [38;5;153man armaboro hide gorget[0;37m  0d 11h 51m
+[0;37m
+Displayed: 1/1  Limit: 20
+
+[32m[0;37m[32m585H [0;37m[33m[1m125V [0;37m29973673X 10.17% 2156C [0;37mT:33 Exits:N> [0;37mmaintain 1[0m
+Done.
+
+[32m[0;37m[32m585H [0;37m[33m[1m125V [0;37m29973673X 10.17% 1346C [0;37mT:29 Exits:N> [0;37mn[0m
+[36mHigh Street[0;37m
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+[33m[1m[0;37m[31m[1mA black-robed priest of Hiddukel is here, trying to find his temple.
+[0;37m
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:18 Exits:NESW> [0;37msc[0m
+You are Lanai, Pineapple Prince, a level 30 Warrior.
+You are a Clansman in Myth.
+You are rank 11. You have completed 10.17% of your next rank.
+You are 19 years old.
+You have 585(603) hit and 124(155) movement points.
+Your behaviour has been Evil.
+You have scored 150,026,327 exp, and have 1346(20510) steel coins.
+You need 29,973,673 more experience to advance.
+You have died 2 horrible deaths.
+You have been connected for 0 minute(s).
+You have been playing for 2 day(s), 13 hour(s) and 0 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 13 Wis: 14 Dex: 18 Con: 16 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:17 Exits:NESW> [0;37meq[0m
+You are using:
+<worn on finger>           a ring of protection..it emits an arcane glow..it glows dimly
+<worn around neck>         [38;5;171man ornate ancient elven locket[0;37m
+<worn on body>             [38;5;177ma commander's blood stained chestguard of prowess[0;37m
+<worn on head>             [38;5;214ma sea serpent scale coif[0;37m..it emits an arcane glow
+<worn on legs>             a pair of ancient steel shin plates..it emits an arcane glow
+<worn on feet>             a pair of hardened leather boots
+<worn on hands>            [38;5;171msome talon spiked warfists of onslaught[0;37m
+<worn on arms>             [38;5;225msome solid vambraces of combat[0;37m
+<worn as shield>           a huge iron shield
+<worn about body>          [38;5;183ma red baldric of prowess[0;37m
+<worn around right wrist>  [38;5;183ma gleaming komodo tooth bracer[0;37m
+<used in primary hand>     a black steel longsword..it emits an arcane glow
+<held in secondary hand>   [38;5;177ma blessed opal inlaid jewel[0;37m
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:16 Exits:NESW> 
+A feral cat arrives from the west.
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:15 Exits:NESW> 
+Dimian arrives from the west.
+Skar arrives from the west.
+Skar studies the area intently.
+A feral cat pounces on a piece of dirt.
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:12 Exits:NESW> 
+Dimian leaves east.
+Skar leaves east.
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:11 Exits:NESW> 
+A feral cat runs in circles chasing its tail.
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:9 Exits:NESW> [0;37mexa coif[0m
+The coif's scaly surface is in fine shape. (97%)
+You feel informed:
+ Object 'coif scale serpent sea black sleek'
+ Item Type: WORN        
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 4            Value   : 240
+
+ Affects  : CON           by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC ANTI_GOOD
+ Restricts: --> TANK ONLY <--
+A sea serpent scale coif is wearable: head.
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:4 Exits:NESW> 
+A feral cat pounces on a piece of dirt.
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:3 Exits:NESW> 
+Dimian arrives from the east.
+Skar arrives from the east.
+Skar studies the area intently.
+A feral cat pounces on a piece of dirt.
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:2 Exits:NESW> 
+Dimian leaves west.
+Skar leaves west.
+
+[32m[0;37m[32m585H [0;37m[33m[1m124V [0;37m29973673X 10.17% 1346C [0;37mT:2 Exits:NESW> 
+The darkness marks the end of another day.
+You feel more vigorous.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:60 Exits:NESW> 
+A priest of Hiddukel leaves east.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:59 Exits:NESW> 
+A feral cat pounces on a piece of dirt.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:57 Exits:NESW> [0;37ml[0m
+[36mHigh Street[0;37m
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+[33m[1m[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+[0;37m
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:56 Exits:NESW> [0;37mx [0m
+Huh?!
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:56 Exits:NESW> [0;37msc[0m
+A feral cat rubs up against your leg.
+You are Lanai, Pineapple Prince, a level 30 Warrior.
+You are a Clansman in Myth.
+You are rank 11. You have completed 10.17% of your next rank.
+You are 19 years old.
+You have 603(603) hit and 155(155) movement points.
+Your behaviour has been Evil.
+You have scored 150,026,327 exp, and have 1346(20510) steel coins.
+You need 29,973,673 more experience to advance.
+You have died 2 horrible deaths.
+You have been connected for 0 minute(s).
+You have been playing for 2 day(s), 13 hour(s) and 1 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 13 Wis: 14 Dex: 18 Con: 16 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:54 Exits:NESW> 
+Dimian arrives from the west.
+Skar arrives from the west.
+Skar studies the area intently.
+A feral cat purrs contentedly.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:54 Exits:NESW> 
+Dimian leaves east.
+Skar leaves east.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:54 Exits:NESW> [0;37msc[0m
+A feral cat rubs up against your leg.
+You are Lanai, Pineapple Prince, a level 30 Warrior.
+You are a Clansman in Myth.
+You are rank 11. You have completed 10.17% of your next rank.
+You are 19 years old.
+You have 603(603) hit and 155(155) movement points.
+Your behaviour has been Evil.
+You have scored 150,026,327 exp, and have 1346(20510) steel coins.
+You need 29,973,673 more experience to advance.
+You have died 2 horrible deaths.
+You have been connected for 0 minute(s).
+You have been playing for 2 day(s), 13 hour(s) and 1 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 13 Wis: 14 Dex: 18 Con: 16 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:53 Exits:NESW> 
+A feral cat leaves east.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:51 Exits:NESW> 
+Dimian arrives from the east.
+Skar arrives from the east.
+Skar studies the area intently.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:47 Exits:NESW> 
+Dimian leaves west.
+Skar leaves west.
+
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:47 Exits:NESW> [0;37ml[0m
+[36mHigh Street[0;37m
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m603H [0;37m[32m155V [0;37m29973673X 10.17% 1346C [0;37mT:46 Exits:NESW> [0;37me[0m
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1mA wooden baton lies here. [11]
+A sleek looking wooden wand has been dropped here...it emits an arcane glow
+A coin has been left here.
+A short sword lies here.
+[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+A black-robed priest of Hiddukel is here, trying to find his temple.
+[0;37m
+[32m[0;37m[32m603H [0;37m[32m154V [0;37m29973673X 10.17% 1346C [0;37mT:44 Exits:NESW> [0;37me[0m
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m603H [0;37m[32m153V [0;37m29973673X 10.17% 1346C [0;37mT:43 Exits:EW> [0;37me[0m
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+A feral cat parades her territory and sniffs your leg.
+[0;37mA feral cat chases a piece of dust around the room.
+
+[32m[0;37m[32m603H [0;37m[32m152V [0;37m29973673X 10.17% 1346C [0;37mT:43 Exits:NEW> [0;37me[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA plate bearing the insignia of the Green Dragonarmy is here.
+Almost obscured in the shadows you see a pair of leather boots.
+A beaded bracelet sits on the ground...it emits an arcane glow
+[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m603H [0;37m[32m151V [0;37m29973673X 10.17% 1346C [0;37mT:42 Exits:NESW> [0;37ms[0m
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m603H [0;37m[32m150V [0;37m29973673X 10.17% 1346C [0;37mT:42 Exits:NWU> [0;37mu[0m
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A bundle of arrows sits at your feet, blending into the ground. (101)
+A bundle of arrows sits at your feet, blending into the ground. (102)
+A bundle of arrows sits at your feet, blending into the ground. (103)
+A bundle of arrows sits at your feet, blending into the ground. (94)
+A bundle of arrows sits at your feet, blending into the ground. (97)
+A bundle of arrows sits at your feet, blending into the ground. (62)
+A bundle of arrows sits at your feet, blending into the ground. (79)
+A bundle of arrows sits at your feet, blending into the ground. (100)
+A bundle of arrows sits at your feet, blending into the ground. (76)
+A bundle of arrows sits at your feet, blending into the ground. (85)
+A bundle of arrows sits at your feet, blending into the ground. (81)
+A bundle of arrows sits at your feet, blending into the ground. (86)
+A bundle of arrows sits at your feet, blending into the ground. (59)
+A bundle of arrows sits at your feet, blending into the ground. (67)
+A bundle of arrows sits at your feet, blending into the ground. (70)
+A bundle of arrows sits at your feet, blending into the ground. (78)
+A bundle of arrows sits at your feet, blending into the ground. (99)
+A bundle of arrows sits at your feet, blending into the ground. (90)
+A bundle of arrows sits at your feet, blending into the ground. (98)
+A bundle of arrows sits at your feet, blending into the ground. (84)
+A bundle of arrows sits at your feet, blending into the ground. (89)
+A bundle of arrows sits at your feet, blending into the ground. (51)
+A bundle of arrows sits at your feet, blending into the ground. (50)
+A bundle of arrows sits at your feet, blending into the ground. (103)
+A bundle of arrows sits at your feet, blending into the ground. (64)
+A bundle of arrows sits at your feet, blending into the ground. (92)
+A bundle of arrows sits at your feet, blending into the ground. (102)
+A bundle of arrows sits at your feet, blending into the ground. (74)
+A bundle of arrows sits at your feet, blending into the ground. (86)
+A bundle of arrows sits at your feet, blending into the ground. (59)
+A bundle of arrows sits at your feet, blending into the ground. (72)
+A bundle of arrows sits at your feet, blending into the ground. (93)
+A bundle of arrows sits at your feet, blending into the ground. (48)
+A bundle of arrows sits at your feet, blending into the ground. (64)
+A bundle of arrows sits at your feet, blending into the ground. (48)
+A bundle of arrows sits at your feet, blending into the ground. (91)
+A bundle of arrows sits at your feet, blending into the ground. (74)
+A bundle of arrows sits at your feet, blending into the ground. (78)
+A bundle of arrows sits at your feet, blending into the ground. (71)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (86)
+A bundle of arrows sits at your feet, blending into the ground. (91)
+A bundle of arrows sits at your feet, blending into the ground. (95)
+A bundle of arrows sits at your feet, blending into the ground. (99)
+A bundle of arrows sits at your feet, blending into the ground. (97)
+A bundle of arrows sits at your feet, blending into the ground. (80)
+An ancient scroll of great knowledge has been placed here...it emits an arcane glow
+[0;37m[31m[1m<BROG> Mahku the Bayou Brog is standing here. (flying)
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m603H [0;37m[32m149V [0;37m29973673X 10.17% 1346C [0;37mT:42 Exits:D> [0;37mrent[0m
+[33m[1m                 a ring of protection : 100 coins/day
+[0;37m[33m[1m       an ornate ancient elven locket : 420 coins/day
+[0;37m[33m[1ma commander's blood stained chestguard of prowess : 190 coins/day
+[0;37m[33m[1m             a sea serpent scale coif : 120 coins/day
+[0;37m[33m[1m  a pair of ancient steel shin plates : 120 coins/day
+[0;37m[33m[1m     a pair of hardened leather boots : 40 coins/day
+[0;37m[33m[1msome talon spiked warfists of onslaught : 360 coins/day
+[0;37m[33m[1m       some solid vambraces of combat : 150 coins/day
+[0;37m[33m[1m                   a huge iron shield : 150 coins/day
+[0;37m[33m[1m             a red baldric of prowess : 190 coins/day
+[0;37m[33m[1m       a gleaming komodo tooth bracer : 120 coins/day
+[0;37m[33m[1m              a black steel longsword : 120 coins/day
+[0;37m[33m[1m          a blessed opal inlaid jewel : 190 coins/day
+[0;37m[33m               a bright ball of light : 0 coins/day
+[0;37m[33m           a piece of sweet bread [2] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [4] : 60 coins/day
+[0;37m[33m                      a waterskin [3] : 3 coins/day
+[0;37m[33m                          a waterskin : 0 coins/day
+[0;37m[33m                      a wrist lantern : 5 coins/day
+[0;37mEd tells you 'You need at least 2338 coins to rent.'
+Ed tells you 'You will be able to rent for 28 days.'
+Ed stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

@@ -1,0 +1,46 @@
+#var tank_spells_list {ghostskin; ancestral shroud; ancestral blessing; tenacious heart; boiling blood; monstrous mantle; ancestral blessing; amplify spirits;};
+
+#alias tank_unset_spell_check #nop;
+#alias tank_do_spell_check #nop;
+
+#action {^You have been connected for} {
+    #action {^    %%1} {
+        #var tank_current_spells $tank_current_spells|%%1;
+
+    };
+    #alias tank_unset_spell_check {
+        #unaction {^    %%%1};
+        #alias tank_unset_spell_check #nop;
+        #alias tank_do_spell_check #nop;
+    };
+    #var tank_current_spells "";
+
+
+    #ali tank_do_spell_check {
+        #var tank_missing_spells 0;
+        #var tank_spell_index 0;
+        #foreach {$tank_spells_list} {spell} {
+            #regexp {{$tank_current_spells}} {$spell} {
+                #nop;
+            } {
+                #var tank_missing_spells[$tank_spell_index] $spell;
+                #math tank_spell_index {$tank_spell_index + 1};
+            };
+        };
+		#showme Need to cast:;
+        #foreach {$tank_missing_spells[]} {spell} {
+			#showme {  $spell};
+        };
+    };
+};
+
+#ali rebuf {
+    #foreach {$tank_missing_spells[]} {spell} {
+        cast '$spell' me;
+    };
+};
+
+#ACTION {^%1H %2V %3X %5C} {
+    tank_do_spell_check;
+    tank_unset_spell_check;
+};

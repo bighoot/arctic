@@ -1,0 +1,1924 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+
+You were last connected Mon Jan 09 16:32:12 2023 UTC from 73.181.104.224.
+Reconnecting.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10342536X 75.50% 57C [0;37mT:39 Exits:NS> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+A pigeon arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10342536X 75.50% 57C [0;37mT:36 Exits:NS> 
+Sprink has reconnected.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:30 Exits:NS> 
+Sprink quaffs a creamy potion of flight.
+Sprink rises up off the ground.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:20 Exits:NS> [0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:20 Exits:NS> [0;37mboth sta[0m
+You stand up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:19 Exits:NS> 
+-#-#-#-#-#-#-#-> Sprink <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:18 Exits:NS> [0;37ml[0m
+[36mSouthern City Gates[0;37m
+    You are inside the southern city gates. The gates are made of thick
+wood, reinforced with iron bars, and are very tough to break. The gateway
+is arched, and above you you can see steel bars that can slide down in case
+of siege or attack.
+[33m[1m[0;37m[31m[1mA large pigeon is here pecking at some bread crumbs.
+You sense that you are not alone.
+A cityguard of Kalaman stands here, guarding the southern gates. (white aura)
+A cityguard of Kalaman stands here, guarding the southern gates. (white aura)
+A cityguard of Kalaman stands here, guarding the southern gates. (white aura)
+A cityguard of Kalaman stands here, guarding the southern gates. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:18 Exits:NS> 
+A pigeon leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:18 Exits:NS> [0;37mkal2ner[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m10342536X 75.50% 57C [0;37mT:14 Exits:NESW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m10342536X 75.50% 57C [0;37mT:13 Exits:NES> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m10342536X 75.50% 57C [0;37mT:13 Exits:NES> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m10342536X 75.50% 57C [0;37mT:13 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m10342536X 75.50% 57C [0;37mT:13 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m10342536X 75.50% 57C [0;37mT:12 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m10342536X 75.50% 57C [0;37mT:12 Exits:NU> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m117V [0;37m10342536X 75.50% 57C [0;37mT:12 Exits:SD> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m115V [0;37m10342536X 75.50% 57C [0;37mT:12 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m113V [0;37m10342536X 75.50% 57C [0;37mT:11 Exits:NSW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m111V [0;37m10342536X 75.50% 57C [0;37mT:11 Exits:ND> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m109V [0;37m10342536X 75.50% 57C [0;37mT:11 Exits:SU> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m107V [0;37m10342536X 75.50% 57C [0;37mT:11 Exits:NE> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m105V [0;37m10342536X 75.50% 57C [0;37mT:10 Exits:ESW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m103V [0;37m10342536X 75.50% 57C [0;37mT:10 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m101V [0;37m10342536X 75.50% 57C [0;37mT:10 Exits:NE> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m99V [0;37m10342536X 75.50% 57C [0;37mT:10 Exits:SW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m97V [0;37m10342536X 75.50% 57C [0;37mT:9 Exits:NES> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m95V [0;37m10342536X 75.50% 57C [0;37mT:9 Exits:ND> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m93V [0;37m10342536X 75.50% 57C [0;37mT:9 Exits:SU> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m91V [0;37m10342536X 75.50% 57C [0;37mT:9 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37mSomeone tried to steal something from you!
+
+[32m[0;37m[32m438H [0;37m[33m[1m89V [0;37m10342536X 75.50% 57C [0;37mT:8 Exits:NES> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10342536X 75.50% 57C [0;37mT:8 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m85V [0;37m10342536X 75.50% 57C [0;37mT:8 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m83V [0;37m10342536X 75.50% 57C [0;37mT:8 Exits:NEW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m81V [0;37m10342536X 75.50% 57C [0;37mT:7 Exits:NEW> [0;37msettm[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m79V [0;37m10342536X 75.50% 57C [0;37mT:7 Exits:EW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m77V [0;37m10342536X 75.50% 57C [0;37mT:7 Exits:WD> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m75V [0;37m10342536X 75.50% 57C [0;37mT:7 Exits:SU> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m73V [0;37m10342536X 75.50% 57C [0;37mT:6 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m71V [0;37m10342536X 75.50% 57C [0;37mT:6 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m69V [0;37m10342536X 75.50% 57C [0;37mT:6 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m67V [0;37m10342536X 75.50% 57C [0;37mT:6 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m65V [0;37m10342536X 75.50% 57C [0;37mT:5 Exits:NESW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m63V [0;37m10342536X 75.50% 57C [0;37mT:2 Exits:EW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37mSomeone hunches down and hisses at something.
+
+[32m[0;37m[32m438H [0;37m[33m[1m61V [0;37m10342536X 75.50% 57C [0;37mT:2 Exits:E(S)W> 
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[33m[1m88V [0;37m10342536X 75.50% 57C [0;37mT:60 Exits:E(S)W> [0;37mopen curtain[0m
+Ok.
+
+[32m[0;37m[32m438H [0;37m[33m[1m88V [0;37m10342536X 75.50% 57C [0;37mT:58 Exits:ESW> [0;37mdrink all.water[0m
+You drink the water.
+
+[32m[0;37m[32m438H [0;37m[33m[1m88V [0;37m10342536X 75.50% 57C [0;37mT:56 Exits:ESW> [0;37ms[0m
+[36mThe Midnight Velvet[0;37m
+    The central area of this large chamber is filled with lounge chairs
+and sofas, looted from many different parts of the world. Each appears to
+be more inviting than the last. Tall midnight blue partitions separate the
+central lounge from the intimate areas near the shadowy edges of the vast
+chamber. Heavy drapes of crushed black velvet hang upon the walls, but the
+drapes do little to muffle the moaning sounds that hang in the air.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A scowling guard stands near the wall, keeping an eye on the clients. (black aura)
+A scantily-clad woman with fine features reclines in a lounge chair.
+A shirtless man with chiseled muscles lounges in a purple velvet sofa.
+A voluptuous woman dressed in velvet robes relaxes in a pink chaise. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:56 Exits:N> [0;37mjack guard[0m
+
+Sprink comes out of hiding.
+Sprink tried to backstab a gruff brothel guard, but nearly cut her own finger.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mPerfect[0;37m**] [**a gruff brothel guard:[0;37m[32mPerfect[0;37m**] [0;37mT:53 Exits:N> 
+Sprink barely pierces a gruff brothel guard.
+Sprink barely crushes a gruff brothel guard.
+A gruff brothel guard hits Sprink very hard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mV.Good[0;37m**] [**a gruff brothel guard:[0;37m[32mV.Good[0;37m**] [0;37mT:52 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10342536X 75.50% 57C [**Sprink:[0;37m[32mV.Good[0;37m**] [**a gruff brothel guard:[0;37m[32mV.Good[0;37m**] [0;37mT:52 Exits:N> 
+You crush a gruff brothel guard very hard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10342106X 75.50% 57C [Sprink:[0;37m[32mV.Good[0;37m] [a gruff brothel guard:[0;37m[32mV.Good[0;37m] [0;37mT:52 Exits:N> 
+You stop watching Sprink.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10342106X 75.50% 57C [Sprink:[0;37m[32mV.Good[0;37m] [a gruff brothel guard:[0;37m[32mV.Good[0;37m] [0;37mT:52 Exits:N> 
+You crush a gruff brothel guard very hard.
+Sprink pierces a gruff brothel guard.
+Sprink barely crushes a gruff brothel guard.
+A gruff brothel guard hits Sprink very hard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10341730X 75.50% 57C [Sprink:[0;37m[32mV.Good[0;37m] [a gruff brothel guard:[0;37m[32mGood[0;37m] [0;37mT:48 Exits:N> [0;37mass[0m
+You can't do that while fighting.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10341730X 75.50% 57C [Sprink:[0;37m[32mV.Good[0;37m] [a gruff brothel guard:[0;37m[32mGood[0;37m] [0;37mT:47 Exits:N> 
+A gruff brothel guard delivers a vicious kick to Sprink's face. Blood flies as her head snaps back.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10341730X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[32mGood[0;37m] [0;37mT:45 Exits:N> 
+You crush a gruff brothel guard hard.
+Sprink pierces a gruff brothel guard hard.
+Sprink crushes a gruff brothel guard.
+A gruff brothel guard MASSACREs Sprink with his hit.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10341381X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mGood[0;37m] [0;37mT:44 Exits:N> 
+You miss a gruff brothel guard with your crush.
+Sprink misses a gruff brothel guard with her pierce.
+Sprink misses a gruff brothel guard with her crush.
+A gruff brothel guard MASSACREs Sprink with his hit.
+A gruff brothel guard misses Sprink with his hit.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10341381X 75.50% 57C [Sprink:[0;37m[33m[1mFair[0;37m] [a gruff brothel guard:[0;37m[33m[1mGood[0;37m] [0;37mT:40 Exits:N> 
+A gruff brothel guard crashes into Sprink in a thundering collision, knocking her to the ground!
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10341381X 75.50% 57C [Sprink:[0;37m[33m[1mFair[0;37m] [a gruff brothel guard:[0;37m[33m[1mGood[0;37m] [0;37mT:39 Exits:N> 
+You crush a gruff brothel guard hard.
+Sprink misses a gruff brothel guard with her pierce.
+Sprink misses a gruff brothel guard with her crush.
+A gruff brothel guard **ANNIHILATE**s Sprink with his hit.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10341059X 75.50% 57C [Sprink:[0;37m[33m[1mFair[0;37m] [a gruff brothel guard:[0;37m[33m[1mGood[0;37m] [0;37mT:36 Exits:N> [0;37mflame[0m
+Huh?!
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10341059X 75.50% 57C [Sprink:[0;37m[33m[1mFair[0;37m] [a gruff brothel guard:[0;37m[33m[1mGood[0;37m] [0;37mT:36 Exits:N> [0;37mcleric[0m
+[0;37mflame[0m
+You utter the words, 'flamestrike'
+A column of fire comes down and sears a gruff brothel guard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10339202X 75.50% 57C [Sprink:[0;37m[33m[1mFair[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mT:33 Exits:N> 
+Sprink barely pierces a gruff brothel guard.
+Sprink bruises a gruff brothel guard with her crush.
+A gruff brothel guard MASSACREs Sprink with his hit.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10339202X 75.50% 57C [Sprink:[0;37m[33m[1mFair[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mT:32 Exits:N> [0;37mflame[0m
+
+-#-#-#-#-#-#-#-> Sprink extracts herself from a plush velvet sofa and <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10339202X 75.50% 57C [Sprink:[0;37m[33m[1mFair[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mT:31 Exits:N> 
+You utter the words, 'flamestrike'
+A column of fire comes down and sears a gruff brothel guard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[33m[1mFair[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:29 Exits:N> 
+Sprink pierces a gruff brothel guard.
+Sprink misses a gruff brothel guard with her crush.
+A gruff brothel guard hits Sprink extremely hard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[33m[1mBad[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:28 Exits:N> [0;37mheal sprink[0m
+
+A gruff brothel guard tries to sweep Sprink's legs, but misses badly.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[33m[1mBad[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:27 Exits:N> 
+You utter the words, 'heal'
+You heal Sprink.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[32mPerfect[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:25 Exits:N> 
+Sprink misses a gruff brothel guard with her pierce.
+Sprink barely crushes a gruff brothel guard.
+A gruff brothel guard hits Sprink very hard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[32mV.Good[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:24 Exits:N> [0;37mb throat[0m
+
+Sprink's rapid, unexpected knuckle thrust to a gruff brothel guard's throat does some damage.
+The squish of a gruff brothel guard's larynx was oddly loud.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[32mV.Good[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:22 Exits:N> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+A gruff brothel guard gives Sprink a solid punch in the face.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:21 Exits:N> [0;37mb coup[0m
+
+You miss a gruff brothel guard with your crush.
+Sprink misses a gruff brothel guard with her pierce.
+Sprink bruises a gruff brothel guard with her crush.
+A gruff brothel guard MASSACREs Sprink with his hit.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:20 Exits:N> 
+Sprink attempts to perform a coup on a gruff brothel guard, but fails terribly.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:18 Exits:N> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You miss a gruff brothel guard with your crush.
+Sprink pierces a gruff brothel guard.
+Sprink barely crushes a gruff brothel guard.
+Sprink gracefully steps aside as a gruff brothel guard attacks!
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:16 Exits:N> [0;37mmem[0m
+Spells currently memorized:
+1: [ 1]bless                [ 1]create food          [ 2]create water        
+   [ 1]cure light           [ 2]know alignment       [ 2]restore strength    
+2: [ 3]blindness            [ 3]cure blindness       [ 2]light               
+   [ 1]remove curse        
+3: [ 1]cure serious         [ 1]holy armor           [ 2]poison              
+   [ 1]protection from evil [ 3]remove poison       
+4: [ 5]flamestrike          [ 2]hold person         
+5: [ 3]cure critical        [ 2]dispel good          [ 1]holy aura           
+6: [ 1]animate dead         [ 4]darkness            
+8: [ 3]sunray              
+
+Spells being memorized:
+4: [ 1]flamestrike         
+6: [ 1]animate dead        
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-4 8-0
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10338314X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:13 Exits:N> 
+You crush a gruff brothel guard very hard.
+Sprink pierces a gruff brothel guard.
+Sprink misses a gruff brothel guard with her crush.
+Sprink gracefully steps aside as a gruff brothel guard attacks!
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10337884X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:12 Exits:N> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0;37mflame[0m
+You utter the words, 'flamestrike'
+A column of fire comes down and sears a gruff brothel guard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10335838X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:10 Exits:N> 
+[38;5;124mA gruff brothel guard disarms Sprink's weapon.[0m
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10335838X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:9 Exits:N> 
+Sprink fumbles and fails to swing at her target.
+Sprink barely crushes a gruff brothel guard.
+Sprink gracefully steps aside as a gruff brothel guard attacks!
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10335838X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:8 Exits:N> [0;37mflame[0m
+[0;37mb get spear[0m
+
+Sprink gets an ice spear.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10335838X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:6 Exits:N> 
+You utter the words, 'flamestrike'
+A column of fire comes down and sears a gruff brothel guard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10334304X 75.50% 57C [Sprink:[0;37m[32mGood[0;37m] [a gruff brothel guard:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:6 Exits:N> 
+Sprink misses a gruff brothel guard with her hit.
+Sprink misses a gruff brothel guard with her crush.
+A gruff brothel guard hits Sprink very hard.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10334304X 75.50% 57C [Sprink:[0;37m[33m[1mGood[0;37m] [a gruff brothel guard:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:4 Exits:N> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Sprink attempts to perform a coup on a gruff brothel guard, but fails terribly.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10334304X 75.50% 57C [Sprink:[0;37m[33m[1mGood[0;37m] [a gruff brothel guard:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:4 Exits:N> 
+[37mYour clanmate Nikson has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10334304X 75.50% 57C [Sprink:[0;37m[33m[1mGood[0;37m] [a gruff brothel guard:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:4 Exits:N> 
+A gruff brothel guard gives Sprink a solid punch in the face.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10334304X 75.50% 57C [Sprink:[0;37m[33m[1mFair[0;37m] [a gruff brothel guard:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:3 Exits:N> [0;37mb wield spear[0m
+[0;37mflame[0m
+You utter the words, 'flamestrike'
+A column of fire comes down and sears a gruff brothel guard.
+A gruff brothel guard is incapacitated and will slowly die, if not aided.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10332150X 75.50% 57C [a gruff brothel guard:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:2 Exits:N> 
+Sprink bruises a gruff brothel guard with her hit.
+A gruff brothel guard is mortally wounded, and will die soon, if not aided.
+Sprink crushes a gruff brothel guard very hard.
+You receive 25301 experience.
+A gruff brothel guard is dead! R.I.P.
+The death cry of a gruff brothel guard echoes from somewhere nearby...
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 57C [0;37mMem:2 T:60 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 39688[0m
+
+Sprink wields an ice spear.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 57C [0;37mMem:2 T:60 Exits:N> 
+You get a large pile of coins from the corpse of a gruff brothel guard.
+There were 126 coins.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 183C [0;37mMem:2 T:57 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 183C [0;37mMem:2 T:57 Exits:N> 
+A smear of green mud won't fit.
+A wooden splint won't fit.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 183C [0;37mMem:2 T:57 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 183C [0;37mMem:2 T:57 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 183C [0;37mMem:2 T:56 Exits:N> 
+You divide 126 coins equally among the group members present.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 120C [0;37mMem:2 T:56 Exits:N> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 120C [0;37mMem:1 T:22 Exits:N> [0;37ml[0m
+[36mThe Midnight Velvet[0;37m
+    The central area of this large chamber is filled with lounge chairs
+and sofas, looted from many different parts of the world. Each appears to
+be more inviting than the last. Tall midnight blue partitions separate the
+central lounge from the intimate areas near the shadowy edges of the vast
+chamber. Heavy drapes of crushed black velvet hang upon the walls, but the
+drapes do little to muffle the moaning sounds that hang in the air.
+[33m[1mThe corpse of a gruff brothel guard is lying here.
+[0;37m[31m[1mYou sense that you are not alone.
+A scantily-clad woman with fine features reclines in a lounge chair.
+A shirtless man with chiseled muscles lounges in a purple velvet sofa.
+A voluptuous woman dressed in velvet robes relaxes in a pink chaise. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 120C [0;37mMem:1 T:21 Exits:N> [0;37ma[0m
+[0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 120C [0;37mMem:1 T:18 Exits:N> [0;37mjack woman[0m
+
+Sprink comes out of hiding.
+Sprink places an ice spear in Denise's back, resulting in some strange noises and some blood.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 120C [0;37mMem:1 T:16 Exits:N> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306849X 76.42% 120C [0;37mMem:1 T:15 Exits:N> 
+You **ANNIHILATE** Denise with your crush.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10306443X 76.42% 120C [Sprink:[0;37m[32mGood[0;37m] [Denise:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:14 Exits:N> 
+You **ANNIHILATE** Denise with your crush.
+You receive 1285 experience.
+Denise is dead! R.I.P.
+The death cry of Denise echoes from somewhere nearby...
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 120C [0;37mMem:1 T:12 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 6728[0m
+
+You get a pile of coins from the corpse of Denise.
+There were 42 coins.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 162C [0;37mMem:1 T:10 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 162C [0;37mMem:1 T:9 Exits:N> 
+A smear of green mud won't fit.
+A wooden splint won't fit.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 162C [0;37mMem:1 T:9 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 162C [0;37mMem:1 T:9 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 162C [0;37mMem:1 T:9 Exits:N> 
+You divide 42 coins equally among the group members present.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 141C [0;37mMem:1 T:8 Exits:N> [0;37mcast 'an de' 2.corpse[0m
+You utter the words, 'animate dead'
+The corpse of a gruff brothel guard does not fall under your spell.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 141C [0;37mMem:2 T:6 Exits:N> [0;37mjack woman[0m
+
+Sprink comes out of hiding.
+Sprink gives her spear a quick thrust and twist, as she strikes Madame Nicolette in the back with it.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 141C [0;37mMem:2 T:1 Exits:N> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10304591X 77.33% 141C [0;37mMem:2 T:1 Exits:N> 
+Sprink pierces Madame Nicolette extremely hard.
+Sprink barely crushes Madame Nicolette.
+Sprink gracefully steps aside as Madame Nicolette attacks!
+The corpse of a gruff brothel guard transcends this world and enters another plane.
+Madame Nicolette looks really sick, and shivers uncomfortably.
+You **ANNIHILATE** Madame Nicolette with your crush.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10303728X 77.33% 141C [Sprink:[0;37m[32mV.Good[0;37m] [Madame Nicolette:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:60 Exits:N> 
+-#-#-#-#-#-#-#-> Madame Nicolette extracts herself from a plush velvet sofa and <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10303728X 77.33% 141C [Sprink:[0;37m[32mV.Good[0;37m] [Madame Nicolette:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:58 Exits:N> 
+You crush Madame Nicolette extremely hard.
+Madame Nicolette gracefully steps aside as Sprink attacks!
+Sprink stumbles and attacks you!
+Sprink pierces YOU hard.
+Sprink barely crushes Madame Nicolette.
+Madame Nicolette hits Sprink very hard.
+
+[32m[0;37m[32m426H [0;37m[32m132V [0;37m10303210X 77.33% 141C [Sprink:[0;37m[32mGood[0;37m] [Madame Nicolette:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:56 Exits:N> 
+Sprink pierces Madame Nicolette very hard.
+Madame Nicolette gracefully steps aside as Sprink attacks!
+Sprink stumbles and attacks you!
+Sprink pierces YOU.
+You MASSACRE Madame Nicolette with your crush.
+Madame Nicolette hits Sprink extremely hard.
+
+[32m[0;37m[32m417H [0;37m[32m132V [0;37m10302520X 77.33% 141C [Sprink:[0;37m[32mGood[0;37m] [Madame Nicolette:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:52 Exits:N> 
+Sprink pierces Madame Nicolette hard.
+Sprink misses Madame Nicolette with her crush.
+You MASSACRE Madame Nicolette with your crush.
+Madame Nicolette hits Sprink hard.
+
+[32m[0;37m[32m417H [0;37m[32m132V [0;37m10301953X 77.33% 141C [Sprink:[0;37m[33m[1mGood[0;37m] [Madame Nicolette:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:48 Exits:N> 
+Sprink pierces Madame Nicolette very hard.
+Madame Nicolette gracefully steps aside as Sprink attacks!
+Sprink stumbles and attacks you!
+Sprink pierces YOU.
+You MASSACRE Madame Nicolette with your crush.
+You receive 8250 experience.
+Madame Nicolette is dead! R.I.P.
+The death cry of Madame Nicolette echoes from somewhere nearby...
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292963X 78.25% 141C [0;37mMem:1 T:44 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 51774[0m
+
+You get a large pile of coins from the corpse of Madame Nicolette.
+There were 136 coins.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292963X 78.25% 277C [0;37mMem:1 T:44 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292963X 78.25% 277C [0;37mMem:1 T:44 Exits:N> 
+A smear of green mud won't fit.
+A wooden splint won't fit.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292963X 78.25% 277C [0;37mMem:1 T:44 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292963X 78.25% 277C [0;37mMem:1 T:44 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292963X 78.25% 277C [0;37mMem:1 T:43 Exits:N> 
+You divide 136 coins equally among the group members present.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292963X 78.25% 209C [0;37mMem:1 T:43 Exits:N> [0;37mjack man[0m
+
+Sprink comes out of hiding.
+Sprink places an ice spear in Pierre's back, resulting in some strange noises and some blood.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292963X 78.25% 209C [0;37mMem:1 T:39 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292963X 78.25% 209C [0;37mMem:1 T:38 Exits:N> 
+You **ANNIHILATE** Pierre with your crush.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10292433X 78.25% 209C [Sprink:[0;37m[33m[1mGood[0;37m] [Pierre:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:38 Exits:N> 
+You **ANNIHILATE** Pierre with your crush.
+Pierre is mortally wounded, and will die soon, if not aided.
+Sprink MASSACREs Pierre with her pierce.
+You receive 1318 experience.
+Pierre is dead! R.I.P.
+The death cry of Pierre echoes from somewhere nearby...
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10290672X 79.17% 209C [0;37mMem:1 T:36 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 6899[0m
+[0;37mb[0m
+You get a pile of coins from the corpse of Pierre.
+There were 40 coins.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10290672X 79.17% 249C [0;37mMem:1 T:33 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10290672X 79.17% 249C [0;37mMem:1 T:33 Exits:N> 
+A smear of green mud won't fit.
+A wooden splint won't fit.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10290672X 79.17% 249C [0;37mMem:1 T:33 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10290672X 79.17% 249C [0;37mMem:1 T:33 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10290672X 79.17% 249C [0;37mMem:1 T:32 Exits:N> 
+You divide 40 coins equally among the group members present.
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:32 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:32 Exits:N> [0;37ml[0m
+[36mThe Midnight Velvet[0;37m
+    The central area of this large chamber is filled with lounge chairs
+and sofas, looted from many different parts of the world. Each appears to
+be more inviting than the last. Tall midnight blue partitions separate the
+central lounge from the intimate areas near the shadowy edges of the vast
+chamber. Heavy drapes of crushed black velvet hang upon the walls, but the
+drapes do little to muffle the moaning sounds that hang in the air.
+[33m[1mThe corpse of Pierre is lying here.
+The corpse of Madame Nicolette is lying here.
+The corpse of Denise is lying here.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m132V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:31 Exits:N> [0;37mn[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m131V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:30 Exits:ESW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m129V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:29 Exits:ES> [0;37ms[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m127V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:29 Exits:NESW> [0;37ms[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m125V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:27 Exits:N(E)S> [0;37ms[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m123V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:27 Exits:NEW> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m408H [0;37m[32m123V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:26 Exits:NEW> [0;37me[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m121V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:26 Exits:SW> [0;37ms[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m119V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:25 Exits:NS> [0;37ms[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m117V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:25 Exits:NESW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m115V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:23 Exits:EW> [0;37me[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m113V [0;37m10290672X 79.17% 229C [0;37mMem:1 T:22 Exits:NESW> [0;37mcast 'light'[0m
+You utter the words, 'light'
+You twiddle your thumbs and a bright ball of light suddenly appears.
+
+[32m[0;37m[32m408H [0;37m[32m113V [0;37m10290672X 79.17% 229C [0;37mMem:2 T:14 Exits:NESW> [0;37mrem maul[0m
+[0;37mhold ball[0m
+You stop using an enormous scorched maul.
+
+[32m[0;37m[32m408H [0;37m[32m113V [0;37m10290672X 79.17% 229C [0;37mMem:2 T:10 Exits:NESW> [0;37ml[0m
+You light a bright ball of light and hold it.
+
+[32m[0;37m[32m408H [0;37m[32m113V [0;37m10290672X 79.17% 229C [0;37mMem:2 T:10 Exits:NESW> 
+[36mThe Outskirts of the Green Dragonarmy Camp[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dirty cobblestone path continues to the north and east, while a dilapidated
+old inn that lacks even a proper door squats just south of here. The tall
+pennants of the Green Dragonarmy stand on the west side of the path.
+[33m[1mA bulky shirt of white ringmail lies here.
+A long sword of tempered steel lies here.
+[0;37m[31m[1mYou sense that you are not alone.
+An ogre wearing black scale mail armor stomps around angrily. (black aura)
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m113V [0;37m10290672X 79.17% 229C [0;37mMem:2 T:9 Exits:NESW> [0;37ms[0m
+[36mHair of the Troll[0;37m
+    This ramshackle wooden building looks extremely unstable, and it looks
+like the slightest breeze would blow the whole thing down. An old signboard
+featuring a very hairy troll leans against the empty doorway and appears to
+be the only thing holding it up. There had once been a fireplace, but the
+chimney has fallen in, creating a dirty mound of bricks. A dirty wooden bar
+has been set up on the eastern side of the common room, and it looks as if
+someone has set up a makeshift reception in the large room to the west.
+[33m[1mA large bulletin board is mounted on a wall here.
+A huge battleaxe of tempered steel lies here.
+A flanged mace of tempered steel lies here.
+[0;37m[31m[1mYou sense that you are not alone.
+A huge minotaur barbarian is here, drinking himself into a stupor. (black aura)
+The massive half-ogre tavernkeeper stands behind the dirty bar. (black aura)
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m112V [0;37m10290672X 79.17% 229C [0;37mMem:2 T:6 Exits:NW> [0;37mn[0m
+Sprink flies in from the south.
+[36mThe Outskirts of the Green Dragonarmy Camp[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dirty cobblestone path continues to the north and east, while a dilapidated
+old inn that lacks even a proper door squats just south of here. The tall
+pennants of the Green Dragonarmy stand on the west side of the path.
+[33m[1mA bulky shirt of white ringmail lies here.
+A long sword of tempered steel lies here.
+[0;37m[31m[1mYou sense that you are not alone.
+An ogre wearing black scale mail armor stomps around angrily. (black aura)
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m111V [0;37m10290672X 79.17% 229C [0;37mMem:2 T:4 Exits:NESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mSentry Point to the Green Dragonarmy Encampment[0;37m
+    A large archway in Neraka's west wall provides the Green Dragonarmy
+encampment's only entry and exit. The strong stone walls of the arch are
+spaced far enough apart to allow for two-way wagon traffic. The main
+thoroughfare runs west into the camp or east to Neraka. A small wooden hut
+stands in the middle of the road.
+[33m[1mA poorly forged breastplate lies in the dirt.
+An unoccupied pair of steel boots gathers dust on the floor.
+A pair of metal gauntlets gather dust on the floor.
+[0;37m[31m[1mYou sense that you are not alone.
+A raw recruit to the Green Dragonarmy waits patiently to join. (black aura)
+A raw recruit to the Green Dragonarmy waits patiently to join. (black aura)
+A raw recruit to the Green Dragonarmy waits patiently to join. (black aura)
+A Green Dragonarmy officer intently watches passing traffic. (black aura)
+[0;37m
+[32m[0;37m[32m408H [0;37m[32m109V [0;37m10290672X 79.17% 229C [0;37mMem:2 T:4 Exits:EW> [0;37mjack officer[0m
+
+Sprink comes out of hiding.
+Sprink gives her spear a quick thrust and twist, as she strikes a Green Dragonarmy officer in the back with it.
+
+[32m[0;37m[32m408H [0;37m[32m109V [0;37m10290672X 79.17% 229C [0;37mMem:2 T:1 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m408H [0;37m[32m109V [0;37m10290672X 79.17% 229C [0;37mMem:2 T:1 Exits:EW> 
+Sprink pierces a Green Dragonarmy officer hard.
+Sprink crushes a Green Dragonarmy officer.
+Sprink gracefully steps aside as a Green Dragonarmy officer attacks!
+Your studies complete, you close your prayerbook with a smile.
+The rising sun barely lights the dark and cloudy sky.
+You miss a Green Dragonarmy officer with your hit.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10290672X 79.17% 229C [Sprink:[0;37m[32mGood[0;37m] [a Green Dragonarmy officer:[0;37m[33m[1mFair[0;37m] [0;37mT:60 Exits:EW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0;37mflame[0m
+
+A Green Dragonarmy officer stumbles and falls while trying to bash Sprink.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10290672X 79.17% 229C [Sprink:[0;37m[32mGood[0;37m] [a Green Dragonarmy officer:[0;37m[33m[1mFair[0;37m] [0;37mT:57 Exits:EW> 
+You miss a Green Dragonarmy officer with your hit.
+Sprink pierces a Green Dragonarmy officer extremely hard.
+Sprink barely crushes a Green Dragonarmy officer.
+A Green Dragonarmy officer hits Sprink hard.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10290672X 79.17% 229C [Sprink:[0;37m[32mGood[0;37m] [a Green Dragonarmy officer:[0;37m[33m[1mFair[0;37m] [0;37mT:56 Exits:EW> 
+You utter the words, 'flamestrike'
+A column of fire comes down and sears a Green Dragonarmy officer.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10289663X 79.17% 229C [Sprink:[0;37m[32mGood[0;37m] [a Green Dragonarmy officer:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:56 Exits:EW> [0;37mflame[0m
+
+Sprink pierces a Green Dragonarmy officer extremely hard.
+Sprink crushes a Green Dragonarmy officer.
+A Green Dragonarmy officer misses Sprink with his hit.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10289663X 79.17% 229C [Sprink:[0;37m[32mGood[0;37m] [a Green Dragonarmy officer:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:52 Exits:EW> 
+You utter the words, 'flamestrike'
+You raise your arms skyward and a column of flame toasts a Green Dragonarmy officer!
+You receive 8556 experience.
+A Green Dragonarmy officer is dead! R.I.P.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 229C [a Green Dragonarmy officer:[0;37m[31mDying[0;37m] [0;37mMem:2 T:51 Exits:EW> [0m[1;34;49mFOLLOWER GAINED XP: 30762[0m
+
+The death cry of a Green Dragonarmy officer echoes from somewhere nearby...
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 229C [0;37mMem:2 T:51 Exits:EW> 
+You get a small pile of coins from the corpse of a Green Dragonarmy officer.
+There were 6 coins.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 235C [0;37mMem:2 T:47 Exits:EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 235C [0;37mMem:2 T:47 Exits:EW> 
+A smear of green mud won't fit.
+A wooden splint won't fit.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 235C [0;37mMem:2 T:47 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 235C [0;37mMem:2 T:46 Exits:EW> 
+corpse (here) : 
+some thick metal gauntlets
+some thick metal boots
+a Green Dragonarmy breastplate
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 235C [0;37mMem:2 T:46 Exits:EW> 
+You divide 6 coins equally among the group members present.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 232C [0;37mMem:2 T:46 Exits:EW> 
+The rising sun proclaims a new day.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 232C [0;37mMem:1 T:60 Exits:EW> [0;37ml[0m
+[36mSentry Point to the Green Dragonarmy Encampment[0;37m
+    A large archway in Neraka's west wall provides the Green Dragonarmy
+encampment's only entry and exit. The strong stone walls of the arch are
+spaced far enough apart to allow for two-way wagon traffic. The main
+thoroughfare runs west into the camp or east to Neraka. A small wooden hut
+stands in the middle of the road.
+[33m[1mThe corpse of a Green Dragonarmy officer is lying here.
+A poorly forged breastplate lies in the dirt.
+An unoccupied pair of steel boots gathers dust on the floor.
+A pair of metal gauntlets gather dust on the floor.
+[0;37m[31m[1mYou sense that you are not alone.
+A raw recruit to the Green Dragonarmy waits patiently to join. (black aura)
+A raw recruit to the Green Dragonarmy waits patiently to join. (black aura)
+A raw recruit to the Green Dragonarmy waits patiently to join. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10278906X 79.25% 232C [0;37mMem:1 T:57 Exits:EW> [0;37mw[0m
+Sprink flies in from the east.
+[36mThe Central Square[0;37m
+     Nothing interesting marks this as the central hub of the Green
+Dragonarmy camp. A road heads south towards a collection of buildings and
+tents which serve the infrastructure needs of the Green Dragonarmy. Another
+road heads east towards Neraka. A small path leads west towards a stinking
+cesspool while a large field opens up to the north.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10278906X 79.25% 232C [0;37mMem:1 T:54 Exits:NESW> [0;37ms[0m
+Sprink flies in from the north.
+[36mRoad through the Green Dragonarmy Encampment[0;37m
+    Three of the camp's critical support buildings have their respective
+entrances from this square. The Green Dragonarmy barracks and mess hall are
+housed to the west while the Smith is located to the east and the infirmary
+is south. A road heads north away from here towards the main hub of the
+camp.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10278906X 79.25% 232C [0;37mMem:1 T:54 Exits:NESW> [0;37ms[0m
+[36mInfirmary[0;37m
+     A well lit but cramped tent serves as the Green Dragonarmy infirmary.
+The equipment has seen a lot of use but appears reasonably clean and in
+good repair. Three cots line the back wall of the tent and various
+instruments are stored in cabinets and on a table near the entrance. The
+only way to leave is through the opening to the north.
+[33m[1mA poorly forged breastplate lies in the dirt.
+Some dusty leather greaves lie in a heap.
+An unoccupied pair of steel boots gathers dust on the floor.
+A pair of metal gauntlets gather dust on the floor.
+Some leather sleeves lie crumpled in the corner.
+[0;37m[31m[1mYou sense that you are not alone.
+Nosfentor awaits injured recruits in his makeshift clinic. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10278906X 79.25% 232C [0;37mMem:1 T:53 Exits:N> [0;37mjack nosfentor[0m
+
+Sprink comes out of hiding.
+Sprink gives her spear a quick thrust and twist, as she strikes Nosfentor in the back with it.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10278906X 79.25% 232C [0;37mMem:1 T:50 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10278906X 79.25% 232C [0;37mMem:1 T:49 Exits:N> 
+You miss Nosfentor with your hit.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10278906X 79.25% 232C [Sprink:[0;37m[32mGood[0;37m] [Nosfentor:[0;37m[33m[1mGood[0;37m] [0;37mMem:1 T:49 Exits:N> 
+Nosfentor utters the words, 'prayer'.
+Nosfentor prays.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10278906X 79.25% 232C [Sprink:[0;37m[32mGood[0;37m] [Nosfentor:[0;37m[33m[1mGood[0;37m] [0;37mMem:1 T:49 Exits:N> 
+You miss Nosfentor with your hit.
+Sprink pierces Nosfentor hard.
+Sprink crushes Nosfentor.
+Nosfentor hits Sprink.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10278906X 79.25% 232C [Sprink:[0;37m[32mGood[0;37m] [Nosfentor:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:48 Exits:N> 
+You miss Nosfentor with your hit.
+Sprink pierces Nosfentor hard.
+Sprink barely crushes Nosfentor.
+Nosfentor hits Sprink.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10278906X 79.25% 232C [Sprink:[0;37m[32mGood[0;37m] [Nosfentor:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:44 Exits:N> [0;37mflame[0m
+
+Nosfentor utters the words, 'prayer'.
+Nosfentor prays.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10278906X 79.25% 232C [Sprink:[0;37m[32mGood[0;37m] [Nosfentor:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:43 Exits:N> 
+You utter the words, 'flamestrike'
+A column of fire comes down and sears Nosfentor.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10276326X 79.25% 232C [Sprink:[0;37m[32mGood[0;37m] [Nosfentor:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:43 Exits:N> [0;37mflame[0m
+
+Sprink pierces Nosfentor hard.
+Sprink crushes Nosfentor.
+Nosfentor hits Sprink.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10276326X 79.25% 232C [Sprink:[0;37m[32mGood[0;37m] [Nosfentor:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:40 Exits:N> 
+You utter the words, 'flamestrike'
+You raise your arms skyward and a column of flame toasts Nosfentor!
+You receive 8590 experience.
+Nosfentor is dead! R.I.P.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10266570X 79.33% 232C [Nosfentor:[0;37m[31mDying[0;37m] [0;37mMem:2 T:38 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 37438[0m
+
+The death cry of Nosfentor echoes from somewhere nearby...
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10266570X 79.33% 232C [0;37mMem:2 T:38 Exits:N> 
+You get a pile of coins from the corpse of Nosfentor.
+There were 63 coins.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10266570X 79.33% 295C [0;37mMem:2 T:34 Exits:N> 
+You get a glass sliver from the corpse of Nosfentor.
+You get a glass sliver from the corpse of Nosfentor.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10266570X 79.33% 295C [0;37mMem:2 T:34 Exits:N> 
+You put a glass sliver in a pouch of goose feathers.
+You put a glass sliver in a pouch of goose feathers.
+A smear of green mud won't fit.
+A wooden splint won't fit.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10266570X 79.33% 295C [0;37mMem:2 T:34 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10266570X 79.33% 295C [0;37mMem:2 T:33 Exits:N> 
+corpse (here) : 
+some leather sleeves
+some thick metal gauntlets
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10266570X 79.33% 295C [0;37mMem:2 T:33 Exits:N> 
+You can't split 63 evenly among the people in the room; splitting 62 instead.
+You divide 62 coins equally among the group members present.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:33 Exits:N> [0;37mn[0m
+[36mRoad through the Green Dragonarmy Encampment[0;37m
+    Three of the camp's critical support buildings have their respective
+entrances from this square. The Green Dragonarmy barracks and mess hall are
+housed to the west while the Smith is located to the east and the infirmary
+is south. A road heads north away from here towards the main hub of the
+camp.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:30 Exits:NESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mCommons[0;37m
+     Two long, rough-hewn wooden tables surrounded by hastily fabricated
+chairs obstruct passage throughout the mess hall. A pot belly stove
+provides heat and a tapped keg fuels some levity. Poorly placed canvas
+hardly covers the wooden construction of the tent and wind whistles through
+open joints. A small adjoining log structure to the west serves as the
+kitchen while cots line both sides of the lengthy, semi-private passage to
+the south. The main road through the camp is to the east.
+[33m[1mThe corpse of a hobgoblin is lying here.
+The corpse of Gorblum is lying here.
+The corpse of an ogre is lying here.
+An unoccupied pair of leather boots gathers dust.
+Some leather sleeves lie crumpled in the corner.
+A heap of leather armor has been left unattended.
+Some dusty leather greaves lie in a heap.
+An unoccupied pair of leather boots gathers dust.
+A discarded pair of leather gloves lies here.
+A spear of the Green Dragonarmy lies here.
+A poorly forged breastplate lies in the dirt.
+Some dusty leather greaves lie in a heap.
+An unoccupied pair of steel boots gathers dust on the floor.
+A pair of metal gauntlets gather dust on the floor.
+Some leather sleeves lie crumpled in the corner.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:30 Exits:ESW> [0;37mjack gorblum[0m
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:25 Exits:ESW> 
+But they're not fighting anyone!
+
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:24 Exits:ESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mKitchen[0;37m
+    The kitchen of the Green Dragonarmy is pretty organized. A pair of
+sinks filled with soaking dishes dominates the west wall. A wood fire oven
+with many boiling pots on it is set into the north wall. A stack of
+firewood and a bucket of ashes rest beside the stove awaiting some poor
+recruit's inevitable punishment. Mounted on the south wall are several
+cupboards of vegetables, meat and bread with a cutting table situated below
+them. Nothing looks very fresh. The only exit is to the east.
+[33m[1mThe corpse of the cook is lying here.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:24 Exits:E> [0;37me[0m
+[36mCommons[0;37m
+     Two long, rough-hewn wooden tables surrounded by hastily fabricated
+chairs obstruct passage throughout the mess hall. A pot belly stove
+provides heat and a tapped keg fuels some levity. Poorly placed canvas
+hardly covers the wooden construction of the tent and wind whistles through
+open joints. A small adjoining log structure to the west serves as the
+kitchen while cots line both sides of the lengthy, semi-private passage to
+the south. The main road through the camp is to the east.
+[33m[1mThe corpse of a hobgoblin is lying here.
+The corpse of Gorblum is lying here.
+The corpse of an ogre is lying here.
+An unoccupied pair of leather boots gathers dust.
+Some leather sleeves lie crumpled in the corner.
+A heap of leather armor has been left unattended.
+Some dusty leather greaves lie in a heap.
+An unoccupied pair of leather boots gathers dust.
+A discarded pair of leather gloves lies here.
+A spear of the Green Dragonarmy lies here.
+A poorly forged breastplate lies in the dirt.
+Some dusty leather greaves lie in a heap.
+An unoccupied pair of steel boots gathers dust on the floor.
+A pair of metal gauntlets gather dust on the floor.
+Some leather sleeves lie crumpled in the corner.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:23 Exits:ESW> 
+Your blood freezes as you hear someone's death cry.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:22 Exits:ESW> [0;37me[0m
+Sprink flies in from the west.
+[36mRoad through the Green Dragonarmy Encampment[0;37m
+    Three of the camp's critical support buildings have their respective
+entrances from this square. The Green Dragonarmy barracks and mess hall are
+housed to the west while the Smith is located to the east and the infirmary
+is south. A road heads north away from here towards the main hub of the
+camp.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:21 Exits:NESW> [0;37mn[0m
+Sprink flies in from the south.
+[36mThe Central Square[0;37m
+     Nothing interesting marks this as the central hub of the Green
+Dragonarmy camp. A road heads south towards a collection of buildings and
+tents which serve the infrastructure needs of the Green Dragonarmy. Another
+road heads east towards Neraka. A small path leads west towards a stinking
+cesspool while a large field opens up to the north.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:21 Exits:NESW> [0;37me[0m
+Sprink flies in from the west.
+[36mSentry Point to the Green Dragonarmy Encampment[0;37m
+    A large archway in Neraka's west wall provides the Green Dragonarmy
+encampment's only entry and exit. The strong stone walls of the arch are
+spaced far enough apart to allow for two-way wagon traffic. The main
+thoroughfare runs west into the camp or east to Neraka. A small wooden hut
+stands in the middle of the road.
+[33m[1mThe corpse of a Green Dragonarmy officer is lying here.
+A poorly forged breastplate lies in the dirt.
+An unoccupied pair of steel boots gathers dust on the floor.
+A pair of metal gauntlets gather dust on the floor.
+[0;37m[31m[1mYou sense that you are not alone.
+A raw recruit to the Green Dragonarmy waits patiently to join. (black aura)
+A raw recruit to the Green Dragonarmy waits patiently to join. (black aura)
+A raw recruit to the Green Dragonarmy waits patiently to join. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:20 Exits:EW> [0;37me[0m
+[36mThe Outskirts of the Green Dragonarmy Camp[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dirty cobblestone path continues to the north and east, while a dilapidated
+old inn that lacks even a proper door squats just south of here. The tall
+pennants of the Green Dragonarmy stand on the west side of the path.
+[33m[1mA bulky shirt of white ringmail lies here.
+A long sword of tempered steel lies here.
+[0;37m[31m[1mYou sense that you are not alone.
+An ogre wearing black scale mail armor stomps around angrily. (black aura)
+A crazed squirrel with bloodshot eyes scampers about in search of food.
+A mangy, wild-eyed dog pads nervously around, keeping to the shadows.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:19 Exits:NESW> [0;37ms[0m
+Sprink flies in from the north.
+[36mHair of the Troll[0;37m
+    This ramshackle wooden building looks extremely unstable, and it looks
+like the slightest breeze would blow the whole thing down. An old signboard
+featuring a very hairy troll leans against the empty doorway and appears to
+be the only thing holding it up. There had once been a fireplace, but the
+chimney has fallen in, creating a dirty mound of bricks. A dirty wooden bar
+has been set up on the eastern side of the common room, and it looks as if
+someone has set up a makeshift reception in the large room to the west.
+[33m[1mA large bulletin board is mounted on a wall here.
+A huge battleaxe of tempered steel lies here.
+A flanged mace of tempered steel lies here.
+[0;37m[31m[1mYou sense that you are not alone.
+A huge minotaur barbarian is here, drinking himself into a stupor. (black aura)
+The massive half-ogre tavernkeeper stands behind the dirty bar. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m111V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:18 Exits:NW> [0;37mn[0m
+[36mThe Outskirts of the Green Dragonarmy Camp[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dirty cobblestone path continues to the north and east, while a dilapidated
+old inn that lacks even a proper door squats just south of here. The tall
+pennants of the Green Dragonarmy stand on the west side of the path.
+[33m[1mA bulky shirt of white ringmail lies here.
+A long sword of tempered steel lies here.
+[0;37m[31m[1mYou sense that you are not alone.
+An ogre wearing black scale mail armor stomps around angrily. (black aura)
+A crazed squirrel with bloodshot eyes scampers about in search of food.
+A mangy, wild-eyed dog pads nervously around, keeping to the shadows.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:17 Exits:NESW> [0;37me[0m
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dismal cobblestone path continues to the south and west, while an ominously
+narrow passage between the looming walls leads to the north from here.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:17 Exits:NSW> [0;37ms[0m
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The rough cobbles are surprisingly free
+of filth and trash, unlike the rest of the path surrounding the city. Great
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing the city's prioritization of defense. A dreary gloom hangs
+over the area, and it would be unwise to linger here longer than necessary.
+The dismal cobblestone path continues to the north and east from here.
+[33m[1mA pile of steel coins.
+A sturdy shirt of red banded mail lies here.
+A sharp dagger of tempered steel lies here.
+[0;37m[31m[1mYou sense that you are not alone.
+A homeless tabby cat proudly walks along as if she owns the area.
+A little lizard with green scales darts across the cobblestones.
+[0;37mA stray cat pounces on a piece of dirt.
+
+[32m[0;37m[32m438H [0;37m[33m[1m106V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:17 Exits:NE> [0;37me[0m
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+cobblestone path continues to the east and west from here, while a dusty
+road leading through the rolling hills to the south, away from the city.
+[33m[1mA long sword of tempered steel lies here.
+[0;37m[31m[1mYou sense that you are not alone.
+A little lizard with green scales darts across the cobblestones.
+A lonely peasant boy walks by, looking for litter to clean up. (white aura)
+A hungry-looking black crow flies by, desperate for something to eat.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m104V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:16 Exits:ESW> [0;37me[0m
+[36mThe Outskirts of the Red Dragonarmy Camp[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dismal cobblestone path continues to the east and west, while an ominously
+narrow passage between the looming walls leads to the north from here. The
+tall pennants of the Red Dragonarmy stand on the south side of the path.
+[33m[1mA long sword of tempered steel lies here.
+[0;37m[31m[1mYou sense that you are not alone.
+A homeless tabby cat proudly walks along as if she owns the area.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m102V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:16 Exits:NESW> [0;37me[0m
+Sprink flies in from the west.
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dismal cobblestone path continues to the north and west from here. A craggy
+cliff stands opposite the wall, making the path feel dangerously narrow.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A mangy, wild-eyed dog pads nervously around, keeping to the shadows.
+A mangy, wild-eyed dog pads nervously around, keeping to the shadows.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m100V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:15 Exits:NW> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dismal cobblestone path continues to the south and east from here. A craggy
+cliff stands opposite the wall, making the path feel dangerously narrow.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A kapak draconian wearing blue armor steps carefully through the shadows. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m98V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:14 Exits:ES> [0;37me[0m
+Sprink flies in from the west.
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dismal cobblestone path continues to the north and west from here. A craggy
+cliff stands opposite the wall, making the path feel dangerously narrow.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A goblin in battered red leather armor darts around erratically. (black aura)
+A greasy raven is resting here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m96V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:12 Exits:NW> [0;37mn[0m
+[36mThe Outskirts of the Blue Dragonarmy Camp[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dirty cobblestone path continues to the north and south, while an ominously
+narrow passage between the looming walls leads to the west from here. The
+tall pennants of the Blue Dragonarmy stand on the east side of the path.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A human soldier wearing white ringmail armor walks around proudly. (black aura)
+A goblin wearing weathered green chainmail stumbles along the path. (black aura)
+A greasy raven is resting here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m94V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:12 Exits:NESW> [0;37mn[0m
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dismal cobblestone path continues to the north and south from here, and a
+small store for archery equipment has been carved into the city wall.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A little lizard with green scales darts across the cobblestones.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m92V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:10 Exits:NSW> [0;37mn[0m
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dirty cobblestone path continues to the north and south from here. Off to
+the east, an uneven path winds its way through a group of rocky hills.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A little lizard with green scales darts across the cobblestones.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m90V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:9 Exits:NES> [0;37me[0m
+Sprink flies in from the west.
+[36mA Rocky Path[0;37m
+    Leaving the east gate of Neraka, the trail becomes uneven and difficult
+to walk on. It leads to the east, where it can be seen in the distance
+passing through and over rocky hills and passes.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m88V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:8 Exits:EW> [0;37mw[0m
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dirty cobblestone path continues to the north and south from here. Off to
+the east, an uneven path winds its way through a group of rocky hills.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A little lizard with green scales darts across the cobblestones.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m86V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:8 Exits:NES> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[33m[1m86V [0;37m10266570X 79.33% 264C [0;37mMem:2 T:5 Exits:NES> [0;37mrecover[0m
+You now watch Sprink.
+
+[32m[0;37m[32m438H [0;37m[33m[1m86V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mGood[0;37m**] [0;37mMem:2 T:3 Exits:NES> 
+Sprink begins resting but stays aloft.
+
+[32m[0;37m[32m438H [0;37m[33m[1m86V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mGood[0;37m**] [0;37mMem:2 T:3 Exits:NES> 
+Sprink applies bandages to her wounds.
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m438H [0;37m[33m[1m86V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mMem:1 T:3 Exits:NES> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+They are not in need of your help.
+
+[32m[0;37m[32m438H [0;37m[33m[1m86V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mMem:1 T:3 Exits:NES> 
+Huh?!
+
+[32m[0;37m[32m438H [0;37m[33m[1m86V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mMem:1 T:3 Exits:NES> [0;37mmedi[0m
+
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NES> [0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+You try to ignore everything around you and focus upon your prayers.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NES> [0;37mboth sta[0m
+You stop meditating and stand up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:58 Exits:NES> [0;37ml[0m
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dirty cobblestone path continues to the north and south from here. Off to
+the east, an uneven path winds its way through a group of rocky hills.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A little lizard with green scales darts across the cobblestones.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:58 Exits:NES> [0;37mb[0m
+
+-#-#-#-#-#-#-#-> Sprink <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:55 Exits:NES> [0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+[0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:53 Exits:NES> [0;37ml[0m
+[36mA Cobbled Path[0;37m
+    Cowering in the shadows of the black city walls, this cobbled path is
+almost completely lost in shadow. The roughly hewn cobbles are covered with
+filth and trash, and the path probably hasn't been cleaned in months. More
+care has been taken in hewing the stones used to make the massive walls,
+clearly showing where the city's priorities lie. A dreary gloom hangs over
+the area, and it would be unwise to linger here longer than necessary. The
+dirty cobblestone path continues to the north and south from here. Off to
+the east, an uneven path winds its way through a group of rocky hills.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A little lizard with green scales darts across the cobblestones.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:53 Exits:NES> 
+[37mYour clanmate Lena has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:51 Exits:NES> [0;37mner2bard[0m
+Sprink flies in from the west.
+[36mA Rocky Path[0;37m
+    Leaving the east gate of Neraka, the trail becomes uneven and difficult
+to walk on. It leads to the east, where it can be seen in the distance
+passing through and over rocky hills and passes.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:49 Exits:EW> 
+Sprink flies in from the west.
+[36mA Rocky Path[0;37m
+    The rocky trail leads east and west, blocked on the sides by large
+ridges, unclimbable even by skilled kender. The ridges block out a lot of
+the sun, leaving an orange glow that reflects off fragments of quartz that
+are to be found in this range. Several disused mine shafts litter the area
+and are said to be very dangerous.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:48 Exits:EW> 
+[36mA Path Through Rocky Hills[0;37m
+    The hill sides around are covered in loose stones of all sizes, from
+pebbles to large boulders. Small slides of pebbles rain down on you, better
+stay wary in case a boulder follows them. The trail leads east, into a
+section that looks far more dangerous than the path west.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:48 Exits:EW> 
+Sprink flies in from the west.
+[36mA Path Through Rocky Hills[0;37m
+    Although the rocks on the hillsides appear much larger than before, you
+are relieved to see that some sort of netting covers most of them. Almost
+invisible to the eye, the netting keeps them all in place and makes passage
+safer for the traveller. The trail leads east onto a path or west through
+the rocky hills.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:48 Exits:EW> 
+[36mA Path Through the Khalkists[0;37m
+    The rocky bend in the mountains is a sort of valley as the taller
+mountain peaks all around slope downward. Loose boulders above give an
+uneasy feeling, as the mountains funnel to this portion of the road. The
+only directions you can travel are to the west and south, as the cliffs
+are unscalable. An indication of civilization comes in the form of a thin
+netting that sits along the sloped cliffside to the west, preventing much
+of the rock from falling on the path, however there appears to be no such
+netting to the south.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:48 Exits:SW> 
+Sprink flies in from the north.
+[36mA Path Through the Khalkists[0;37m
+    A sheer and impassable wall of stone lies directly to the west and
+east, which slants down into the path on which you walk. If ever there
+were a place for an ambush on a caravan, it would be here. The rocky path
+continues to the north and appears to level off, while it turns to loose
+gravel as it slopes downward just before a cliff ledge.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:47 Exits:NS> 
+[36mA Path Through the Khalkists[0;37m
+    The rocky road through the Khalkist mountain ranges widens and narrows,
+rises and falls. Sheer cliff faces of stone to the west, and a deep
+crevasse to the south, force a bend in the path. To the north the road
+continues to wind through the mountains, while not far to the east lies the
+edge of the mountains and the beginning of the Loft foothills.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:47 Exits:NE> 
+[36mEastern Edge of the Khalkist Mountains[0;37m
+    Bleak and deserted, this desolate road leads into the eastern edge of
+the mighty Khalkists. Craggy, jagged black foothills extend to the north,
+while to the east the greener, more rounded tops of the Loft Foothills can
+be seen.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A large, brown mountain lion prowls the foothills here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:47 Exits:NSW> 
+Sprink flies in from the north.
+[36mEastern Edge of the Khalkist Mountains[0;37m
+    Bleak and deserted, this desolate road leads into the eastern edge of
+the mighty Khalkists. Craggy, jagged black foothills extend to the north,
+while to the east the greener, more rounded tops of the Loft Foothills can
+be seen.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:47 Exits:NS> 
+[36mSkirting the Khalkist Mountains[0;37m
+    These craggy foothills which border the eastern edge of the Khalkist
+mountains continue here. A large, jagged, almost triangular rock formation
+springs from the ground here. Probably formed by a once active volcano, the
+rock appears to almost melt into the black granite which serves as the
+trail.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:NS> 
+Sprink flies in from the north.
+[36mFoothills of the Khalkists[0;37m
+    The foothills of the Khalkists are much like the mountains themselves:
+black, barren, craggy, and, above all, dangerous. Most of these trails that
+wind through the jagged ridges and steep inclines of the Khalkists were
+created by the Dragonarmies in their pursuit of world power.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:NWD> 
+[36mFoothills of the Khalkists[0;37m
+    The foothills of the Khalkists are much like the mountains themselves:
+black, barren, craggy, and, above all, dangerous. Most of these trails that
+wind through the jagged ridges and steep inclines of the Khalkists were
+created by the Dragonarmies in their pursuit of world power.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+The black-backed jackal buzzard soars in long exaggerated circles in the sky.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:SU> 
+[36mFoothills of the Khalkists[0;37m
+    The foothills of the Khalkists are much like the mountains themselves:
+black, barren, craggy, and, above all, dangerous. Most of these trails that
+wind through the jagged ridges and steep inclines of the Khalkists were
+created by the Dragonarmies in their pursuit of world power.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A traveling mercenary is here, seeking employment.
+A brown rattlesnake shakes rapidly, warning you to stay back.
+A human traveler walks along the road with a hickory walking stick in hand.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m106V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:NS> 
+Sprink flies in from the north.
+[36mFoothills of the Khalkists[0;37m
+    The foothills of the Khalkists are much like the mountains themselves:
+black, barren, craggy, and, above all, dangerous. Most of these trails that
+wind through the jagged ridges and steep inclines of the Khalkists were
+created by the Dragonarmies in their pursuit of world power.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m104V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:45 Exits:NE> 
+[36mFoothills of the Khalkists[0;37m
+    The foothills of the Khalkists are much like the mountains themselves:
+black, barren, craggy, and, above all, dangerous. Most of these trails that
+wind through the jagged ridges and steep inclines of the Khalkists were
+created by the Dragonarmies in their pursuit of world power.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A brown rattlesnake shakes rapidly, warning you to stay back.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m102V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:45 Exits:EW> 
+[36mApproaching the Hills of Khuri-Khan[0;37m
+    Amidst the cool breezes and verdant expanse of grasses is this cool
+road. Composed of mulch and dark black soil, the road curves east towards
+the Khurman Sea and west towards the Khalkist mountains. This seems to be a
+favored resting place of travelers, as there are several charred circles
+near the path where the grass grows shorter. A large apple tree provides
+shade over these campsites, as well as food and protection from the
+elements. The cool breeze continues, undaunted, rolling in off of the waves
+of the Khurman Sea, making you feel relaxed if but for a moment.
+[33m[1mA wooden sign nailed to a large tree of ripe apples is here.
+[0;37m[31m[1mYou sense that you are not alone.
+A kender bard rests in the shade of an apple tree here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m100V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:45 Exits:ESW> 
+[37mYour clanmate Mena has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m100V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:30 Exits:ESW> 
+You are hungry.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+You are hungry.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+The sky is now cloudless.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:48 Exits:ESW> 
+The sky is now cloudless.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:43 Exits:ESW> 
+A human traveler arrives from the west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:ESW> 
+A human traveler leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:31 Exits:ESW> 
+[36mGrambo tells your clan 'You are Grambo Firstblood, Mythical Massrip Extraordinaire, a level 30 Legendary Barbarian.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:6 Exits:ESW> 
+[36mGrambo tells your clan 'ftw!'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:3 Exits:ESW> 
+[36mFizl tells your clan 'WOOT'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:1 Exits:ESW> 
+You are hungry.
+[36mMena tells your clan 'NICE!'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+[36mHel tells your clan 'grats'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> 
+A brown rattlesnake arrives from the west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:59 Exits:ESW> 
+[36mAraya tells your clan 'gratz'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:58 Exits:ESW> 
+[36mGrambo tells your clan 'thanks boys for the help'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:58 Exits:ESW> 
+[36mFizl tells your clan 'perfect for galan dracos run'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:47 Exits:ESW> 
+A traveling mercenary arrives from the east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:42 Exits:ESW> 
+A brown rattlesnake leaves east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:41 Exits:ESW> 
+A human traveler arrives from the south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:ESW> 
+[36mGrambo tells your clan 'haha'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:36 Exits:ESW> 
+[36mShmyaka tells your clan 'massstrip in dracos?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:26 Exits:ESW> 
+A traveling mercenary leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:18 Exits:ESW> 
+There is lightning in the sky.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:17 Exits:ESW> 
+[36mGrambo tells your clan 'i am game for whatever.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:15 Exits:ESW> 
+[36mFizl tells your clan 'who rips at dracos?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:15 Exits:ESW> 
+[36mLena tells your clan 'sounds like a party'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:11 Exits:ESW> 
+[36mGrambo tells your clan 'i need enlarge and cash'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:10 Exits:ESW> 
+[36mGrambo tells your clan 'myself'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:9 Exits:ESW> 
+[36mGrambo tells your clan 'to legend druid basically as well'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:2 Exits:ESW> 
+You are hungry.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+A human traveler leaves west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:49 Exits:ESW> 
+A traveling mercenary arrives from the south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:48 Exits:ESW> 
+[36mGrambo tells your clan 'but i am game for whatever if its someones mains im spamming for : p'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:ESW> 
+A weary traveller arrives from the south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:45 Exits:ESW> 
+[36mAraya tells your clan 'got cloud?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:45 Exits:ESW> 
+[36mGrambo tells your clan 'nope'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:42 Exits:ESW> 
+A traveling mercenary leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:42 Exits:ESW> 
+[36mGrambo tells your clan 'not yet.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:36 Exits:ESW> 
+A traveling mercenary arrives from the south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:36 Exits:ESW> 
+A weary traveller leaves west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:27 Exits:ESW> 
+[36mAraya tells your clan 'should check s green dragon'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:12 Exits:ESW> 
+[36mGrambo tells your clan 'ah i dont wanna murder you all again for nothing'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:2 Exits:ESW> 
+The lightning has stopped.
+You are hungry.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+[36mGrambo tells your clan 'i bet someone else has it'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:58 Exits:ESW> 
+A weary traveller arrives from the west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:57 Exits:ESW> 
+[36mFizl tells your clan 'i have to murder illusionist also'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:53 Exits:ESW> 
+[36mAraya tells your clan 'we like it'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:53 Exits:ESW> 
+A brown rattlesnake arrives from the east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:47 Exits:ESW> 
+[36mNikson tells your clan 'yeah he wants to murder us for something, not nothing'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:40 Exits:ESW> 
+[36mGrambo tells your clan 'isnt fizl legend?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:39 Exits:ESW> 
+A brown rattlesnake leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:35 Exits:ESW> 
+[36mFizl tells your clan 'yeah'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:30 Exits:ESW> 
+[36mFizl tells your clan 'why?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:22 Exits:ESW> 
+[36mGrambo tells your clan 'just wondering whats loading at that mob'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:12 Exits:ESW> 
+[36mFizl tells your clan 'my robes'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:8 Exits:ESW> 
+[36mGrambo tells your clan 'that needs spammin'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:8 Exits:ESW> 
+[36mGrambo tells your clan 'ah they foomed or something?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:2 Exits:ESW> 
+You are hungry.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+A traveling mercenary leaves east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> 
+A weary traveller leaves east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:45 Exits:ESW> 
+[36mGrambo tells your clan 'i can help if you know they loading'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:41 Exits:ESW> 
+[36mFizl tells your clan 'i might have left them behind in the shard quest'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:39 Exits:ESW> 
+A weary traveller arrives from the east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:27 Exits:ESW> 
+[36mGrambo tells your clan 'ok long as you had em!  haha its same as my sword... im not gonna waste time i should be cashing and
+[0;36mchecking enlarge for gear : p'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:15 Exits:ESW> 
+A human traveler arrives from the west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:13 Exits:ESW> 
+[36mGrambo tells your clan 'but if you know its up ill help'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:11 Exits:ESW> 
+A weary traveller leaves west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:9 Exits:ESW> 
+You are hungry.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+[37mYour clanmate Shmyaka has gained a level.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:44 Exits:ESW> 
+A black-backed jackal buzzard flies in from the west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:43 Exits:ESW> 
+[36mGrambo tells your clan 'if you set it up you can like poof me inside and ill help smash that mob again brother'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:33 Exits:ESW> 
+[36mGrambo tells your clan 'heading shaydes!'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:27 Exits:ESW> 
+[37mYour clanmate Siya has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:21 Exits:ESW> 
+[36mSniferblin tells your clan 'good plan'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:12 Exits:ESW> 
+[36mGrambo tells your clan 'i just had an issue the other day with the amount of heckling jason was giving me to check siphon'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:12 Exits:ESW> 
+[36mGrambo tells your clan 'because i still am not legend'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:3 Exits:ESW> 
+A black-backed jackal buzzard flies south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:1 Exits:ESW> 
+You are hungry.
+[36mGrambo tells your clan 'but spamming glymmer lol'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+[36mGrambo tells your clan 'for his spell that is not legending him'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:52 Exits:ESW> 
+[36mGrambo tells your clan 'but you cant explain that to the man lol'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:32 Exits:ESW> 
+Nimou flies in from the south.
+Penny flies in from the south.
+Peso the bronze dragon flies in from the south.
+Wish flies in from the south.
+Erius flies in from the south.
+Transic flies in from the south.
+Psof flies in from the south.
+Psofdio the fearsome blue dragon flies in from the south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:29 Exits:ESW> 
+[36mGrambo tells your clan 'without having a 10 hour argument'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:28 Exits:ESW> 
+Erius sends a rejuvenating surge Nimou's way, Nimou appears rested.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:26 Exits:ESW> 
+Erius sends a rejuvenating surge Psof's way, Psof appears rested.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:22 Exits:ESW> 
+Erius sends a rejuvenating surge Erius's way, Erius appears rested.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:17 Exits:ESW> 
+Erius sends a rejuvenating surge Transic's way, Transic appears rested.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:13 Exits:ESW> 
+Erius sends a rejuvenating surge Wish's way, Wish appears rested.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:9 Exits:ESW> 
+Erius sends a rejuvenating surge Penny's way, Penny appears rested.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:5 Exits:ESW> 
+A human traveler leaves west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:1 Exits:ESW> 
+You are hungry.
+You are thirsty.
+Nimou flies west.
+Penny flies west.
+Peso the bronze dragon flies west.
+Wish flies west.
+Erius flies west.
+Transic flies west.
+Psof flies west.
+Psofdio the fearsome blue dragon flies west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+[36mGrambo tells your clan 'we need eli darkened osul too'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:47 Exits:ESW> 
+[37mYour clanmate Clara has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:38 Exits:ESW> 
+A brown rattlesnake arrives from the south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:35 Exits:ESW> 
+[36mSiya tells your clan 'me too!'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:31 Exits:ESW> 
+[36mGrambo tells your clan 'you too?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:28 Exits:ESW> 
+[36mCaine tells your clan 'druid wrist anyone'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:26 Exits:ESW> 
+[36mJuni tells your clan 'haha'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:26 Exits:ESW> 
+[36mGrambo tells your clan 'both of you then last spell?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:25 Exits:ESW> 
+[37mYour clanmate Mena has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:23 Exits:ESW> 
+[36mJuni tells your clan 'me'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:20 Exits:ESW> 
+[36mGrambo tells your clan 'so that oughta be getting some spam love then yea'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:19 Exits:ESW> 
+[36mSiya tells your clan 'ya'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:16 Exits:ESW> 
+[36mCaine tells your clan 'in the inn'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:12 Exits:ESW> 
+[36mSiya tells your clan 'ive been spamming'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:10 Exits:ESW> 
+A flash of lightning announces the storm's arrival.
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+[36mJuni tells your clan 'in quali'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:54 Exits:ESW> 
+[36mCaine tells your clan 'got any room'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:40 Exits:ESW> 
+[36mJuni tells your clan 'one spot'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:36 Exits:ESW> 
+[36mFizl tells your clan 'im still down 1 cl hm'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:36 Exits:ESW> 
+[36mGrambo tells your clan 'im game for whatever as long sa its getting some people legend as well. or jordans leading some dirty hidden
+[0;36mranks lol'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:36 Exits:ESW> 
+[36mJuni tells your clan 'ranks arent great'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:31 Exits:ESW> 
+[36mCaine tells your clan 'can summon if you want'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:22 Exits:ESW> 
+[36mSiya tells your clan 'going to be afkish and train brew. how many enlightens does it usually take from excel to superb?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:15 Exits:ESW> 
+[36mJuni tells your clan 'sleep'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:12 Exits:ESW> 
+[36mCaine tells your clan 'am'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10266570X 79.33% 264C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:6 Exits:ESW> [0m#SESSION 'a' DIED.[0m

@@ -1,0 +1,129 @@
+!!!SPOILERS AHEAD!!! If you don't want to see any game info, do not read past this point. Below is information from the game files. Please do not copy and paste this info into another public forum. It would be obvious where the info comes from if you passed it on in this format. Feel free to give your other friends hints though.
+
+I might make this read_only in the future but I suspect there will be comments and questions so I'll leave it open for now.
+
+The numbers under each mob are: vnum - identifies the mob, spell table - which I conveniently pasted at the top of each tier, load chance - this is out of 10000 so 2200 = 22%, and load_type - EQ means its held, INV in inventory, etc.
+#
+#----------------------------------------
+# SHAMAN LOAD SECTION
+#----------------------------------------
+# TIER 1 LOADS: Table 410
+#18003 30 sap strength - a bundle of baby chickens
+#18002 30 sanctify corpse - a skull caked with dirt
+#18000 30 protection from undead - a large dried peapod
+#----------------------------------------
+# A Tin Cabinet - Bandit Hideout 
+41731 410 2200 IN
+# An Eblis Shaman - Caergoth Bay
+42907 410 2500 INV
+# The Spirit of Terrapin - Haven Temple
+36284 410 2400 DEATH
+# A Native Shaman - Jungle
+801 410 2200 INV
+# The Spirit of Thaaraka - Sirrion Caverns
+9509 410 2000 DEATH
+# The Pigmy Shaman - Pigmy Forest
+25903 410 2100 INV
+#--------------------------------------
+# TIER 2 LOADS: Table 411
+#18009 22 evil eye - a shrunken demon's horn
+#18013 22 vile spirits - a blackened chunk of defiled flesh
+#18006 22 ghostmaster ritual - mummified head
+#18004 22 ethereal path - a dull red pumice stone
+#--------------------------------------
+# A Sadistic Troll - Sinia Tsaroth
+40702 411 2400 DEATH
+# A Unicorn - Darken Wood
+23299 411 2000 DEATH
+# The shattered remains of an effigy - Que Kul
+25024 411 2300 IN
+# A Frenzied Werewolf Evoker - Taeldeth
+30852 411 2000 INV
+# A Minotaur Mystic - Pirates' Island
+38808 411 2000 INV
+# A Large, Putrid Zombie - Boku
+2336 411 2800 DEATH
+# The Ghost of Dimoqe - Flying Citadel
+2729 411 2700 DEATH
+#--------------------------------------
+# TIER 3 LOADS: Table 412
+#18014 30 amplify spirits - a pink candle burning with a green flame
+#18015 30 tenacious heart - a bleached knuckle bone
+#18020 30 ghost berries - a twig covered in thorns
+#--------------------------------------
+# Squamata, the Jarak-Sinn Shaman - Dun Mir
+39100 412 2100 INV
+# A Dirt-Covered Chest - Dargaard Valley
+6898 412 2400 IN
+# An Ogre Shaman - Mortigoth
+4017 412 2000 INV
+# Lord Kaligath - Ancient Keep
+3727 412 2500 INV
+# A Psychotic Daergar Shaman - Caverns of the Daergar
+42488 412 2200 DEATH
+# Kuo-toa Shaman - Kharolis
+30952 412 2000 INV
+# A Small Panel - Bandit Swamp
+33448 412 2000 IN
+# Bakali Shaman - Caverns of Krynn
+6055 412 2000 DEATH
+# Xolotl - Sahuagin
+8344 412 1850 EQ
+#--------------------------------------
+# TIER 4 LOADS: Table 413
+#18007 22 darkened soul - a wispy black veil
+#18005 22 ritual voyage - a small piece of meteorite
+#18019 22 soul protection - an alabaster garlic clove
+#18008 22 destroy undead - a tiny jade effigy
+#--------------------------------------
+# The Gargoyle Chieftain - Celestial Temple
+31001 413 2100 EQ
+# Fat shaman - Ancient Labyrinth
+51567 413 2100 DEATH
+# Jaketh, the rakshasa leader - Last Gaard
+24062 413 2200 EQ
+# Daggoraath, the Massive Dragon Turtle - Newsea
+45001 413 2900 DEATH
+# Khita - Isle of Shadows
+35430 413 3333 DEATH
+# Loumar - Lemuria
+6127 413 2400 INV
+# The Demon - z422
+42284 413 2200 DEATH
+# A Massive Green Dragon - The Bog
+721 413 2100 EQ
+#--------------------------------------
+# TIER 5 LOADS: Table 414
+#18001 24 nap - a feathered dreamcatcher
+#18010 22 ghostskin - satiny layer of ectoplasm
+#18016 22 ethereal armor - lone, grey flame
+#18024 22 zombify - a gelatinous glob of purple, rotting brains
+#--------------------------------------
+# Smolder's Treasure Chest - Plains of Dust
+38165 414 2200 IN
+# A Spider Demon - Theiwar Caverns
+1861 414 2500 DEATH
+# Suban H'Lin - Castle Uth Wistan
+# 21062 414 2300 INV
+# The Spirit of Shandakar Obre - Cloud Kingdom
+9645 414 2100 INV
+# Ur-Ahgruhm - Dragon Chain Isles
+27839 414 2300 DEATH
+# HCT Vault Chest - z337
+33851 414 2500 IN
+#--------------------------------------
+# TIER 6 LOADS: Table 415
+#18018 33 rotting flesh - a gangrenous foot
+#18017 33 last chance - a shimmering cube of ethereal energy
+#18012 28 healing wave - a moist piece of sea sponge
+#--------------------------------------
+# The Stone Giant Shaman - The Spire of Gilean
+32645 415 2200 INV
+# Quest Box - Qualinesti
+# Spec loaded on obj 37870
+# Soth - Sanction
+29210 415 2733 EQ
+# Kith-Kanan - Pax
+26700 415 1250 EQ
+# Harmonium - Vingaard River West
+24866 415 2133 DEATH

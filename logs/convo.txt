@@ -1,0 +1,1888 @@
+[0m#LOG: LOGGING OUTPUT TO 'convo.txt' FILESIZE: 0[0m
+[0m#10 SECONDS TO TICK![0m
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 9> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 9> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 59> 
+[37mYour clanmate Eva has left the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 58> [0;37m[0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 25> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 10> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 59> [0;37mct I'm confusered.  What?[0m
+You tell your clan 'I'm confusered.  What?'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 58> [0m[1;34;49mCLAN MESSAGE FROM Hestaby: 'I'm confusered.  What?'[0m
+[0;37ml[0m
+[36mA Commoner's Dwelling[0;37m
+[33m[1mThe corpse of a ragged peasant is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A destitute woman looks sadly at her husband, comforting him.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 57> [0;37mfight woman[0m
+
+A destitute woman wavers under Glasgian's mighty slash!
+Glasgian slashes a destitute woman extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 54> 
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard hits a destitute woman extremely hard.
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14987764X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 53> 
+You **ANNIHILATE** a destitute woman with your crush.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14986854X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mPerfect[0;37m] [a destitute woman:[0;37m[33m[1mFair[0;37m] [0;37mExits:S 53> 
+You **ANNIHILATE** a destitute woman with your crush.
+The corpse of a cityguard misses a destitute woman with his hit.
+The corpse of a cityguard misses a destitute woman with his hit.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard hits a destitute woman extremely hard.
+Glasgian slashes a destitute woman extremely hard.
+Glasgian deflects part of a destitute woman's blow with his shield.
+A destitute woman hits Glasgian very hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14986070X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a destitute woman:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:S 52> 
+You **ANNIHILATE** a destitute woman with your crush.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+Glasgian slashes a destitute woman very hard.
+You receive 938 experience.
+A destitute woman is dead! R.I.P.
+The death cry of a destitute woman echoes from somewhere nearby...
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2275C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 48> [0m[1;34;49mFOLLOWER GAINED XP: 95029[0m
+
+You get a pile of coins from the corpse of a destitute woman.
+There were 74 coins.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2349C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 48> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2349C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 47> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2349C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 47> 
+You issue the order 'stand'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2349C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 47> 
+corpse (here) : 
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2349C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 47> 
+You divide 74 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2312C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 46> 
+[36mSomeone tells your clan 'study break over and wife needs help kids. bbl with evil chars if grouping'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2312C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 45> [0m[1;34;49mCLAN MESSAGE FROM Someone: 'study break over and wife needs help kids. bbl with evil chars if
+[0;1;34;49mgrouping'[0m
+[0;37mdobox[0m
+You get a small key from the corpse of a ragged peasant.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2312C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 37> 
+You quickly dust the ash away, revealing a box underneath.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2312C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 37> 
+You unlock a small metal box.
+The key turns to dust as you remove it from a small metal box.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2312C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 37> 
+Ok.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2312C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 37> 
+You get a meagre pile of steel coins from a small metal box.
+There were 75 coins.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2387C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 36> 
+You can't split 75 evenly among the people in the room; splitting 74 instead.
+You divide 74 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14984298X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:S 36> [0;37ms[0m
+The corpse of a cityguard arrives from the north.
+The corpse of a cityguard arrives from the north.
+The corpse of a cityguard arrives from the north.
+Glasgian flies in from the north.
+[36mChampion Street West[0;37m
+[33m[1mThe corpse of a dwarven blademaster is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A weary janitor moves through the city, picking up debris.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14984298X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 35> [0;37mw[0m
+The corpse of a cityguard arrives from the east.
+The corpse of a cityguard arrives from the east.
+The corpse of a cityguard arrives from the east.
+Glasgian flies in from the east.
+[36mChampion Street West[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A knight of the Sword patrols the town, keeping the residents calm.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14984298X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 34> [0;37mfight knight[0m
+
+Glasgian slashes a patrolling knight of the Sword very hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14984298X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 32> 
+A patrolling knight of the Sword utters the words, 'sanctuary'.
+A patrolling knight of the Sword is surrounded by a white aura.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14984298X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 32> 
+Glasgian slashes a patrolling knight of the Sword extremely hard.
+A patrolling knight of the Sword MASSACREs Glasgian with his stab.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14984298X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 32> 
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14984298X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 31> 
+You **ANNIHILATE** a patrolling knight of the Sword with your crush.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14983391X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[32mGood[0;37m] [0;37mExits:EW 30> 
+[36mSomeone tells your clan 'advise chatting disco'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14983391X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[32mGood[0;37m] [0;37mExits:EW 29> [0m[1;34;49mCLAN MESSAGE FROM Someone: 'advise
+[0;1;34;49mchatting disco'[0m
+
+You **ANNIHILATE** a patrolling knight of the Sword with your crush.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+Glasgian slashes a patrolling knight of the Sword very hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian hard.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14982484X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mExits:EW 27> 
+[37mYour clanmate Taboo has left the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14982484X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mExits:EW 27> 
+A patrolling knight of the Sword utters the words, 'cure light'.
+A few of a patrolling knight of the Sword's bruises disappear.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14982484X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mExits:EW 26> 
+You MASSACRE a patrolling knight of the Sword with your crush.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+A patrolling knight of the Sword gracefully steps aside as Glasgian attacks!
+Glasgian stumbles and accidentally attacks the corpse of a cityguard!
+Glasgian barely slashes the corpse of a cityguard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword MASSACREs Glasgian with his stab.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14981714X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mExits:EW 24> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+A patrolling knight of the Sword utters the words, 'cure serious'.
+A few of a patrolling knight of the Sword's nastier scrapes disappear.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14981714X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mExits:EW 20> 
+Glasgian slashes a patrolling knight of the Sword very hard.
+You **ANNIHILATE** a patrolling knight of the Sword with your crush.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+A patrolling knight of the Sword MASSACREs Glasgian with his stab.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14980642X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mExits:EW 19> 
+Glasgian slashes a patrolling knight of the Sword very hard.
+You **ANNIHILATE** a patrolling knight of the Sword with your crush.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14979652X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:EW 15> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Glasgian slashes a patrolling knight of the Sword very hard.
+You **ANNIHILATE** a patrolling knight of the Sword with your crush.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14978415X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mExits:EW 11> 
+[37mYour clanmate Wargrim has left the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14978415X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mExits:EW 11> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14978415X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mExits:EW 10> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14978415X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mExits:EW 9> [0;37mb kick low[0m
+
+Glasgian delivers a low kick to a patrolling knight of the Sword, knocking him off balance.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14978415X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mExits:EW 8> 
+A patrolling knight of the Sword utters the words, 'cure light'.
+A few of a patrolling knight of the Sword's bruises disappear.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14978415X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mExits:EW 8> [0;37mb bash[0m
+
+Glasgian slashes a patrolling knight of the Sword very hard.
+Glasgian slashes a patrolling knight of the Sword very hard.
+You **ANNIHILATE** a patrolling knight of the Sword with your crush.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+Glasgian gracefully steps aside as a patrolling knight of the Sword attacks!
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14977343X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mExits:EW 7> 
+Glasgian crashes into a patrolling knight of the Sword in a devastating bash, killing him mercilessly.
+You receive 1501 experience.
+A patrolling knight of the Sword is dead! R.I.P.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [a patrolling knight of the Sword:[0;37m[31mDying[0;37m] [0;37mExits:EW 4> [0m[1;32;49m** DEATH BY BASH!!! **[0m
+[0m[1;34;49mFOLLOWER GAINED XP: 134704[0m
+
+The death cry of a patrolling knight of the Sword echoes from somewhere nearby...
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2350C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 4> 
+You get a large pile of coins from the corpse of a patrolling knight of the Sword.
+There were 277 coins.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2627C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 4> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2627C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 4> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2627C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 3> 
+You issue the order 'stand'.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2627C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 3> 
+corpse (here) : 
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2627C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 3> 
+You can't split 277 evenly among the people in the room; splitting 276 instead.
+You divide 276 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 2> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 60> [0;37ml[0m
+[36mChampion Street West[0;37m
+[33m[1mThe corpse of a patrolling knight of the Sword is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 59> 
+It starts to rain.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 59> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 10> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 9> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 60> 
+The rising sun barely lights the dark and cloudy sky.
+The wrath abandons you.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 60> [0;37ml[0m
+[36mChampion Street West[0;37m
+[33m[1mThe corpse of a patrolling knight of the Sword is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 34> 
+[37mYour clanmate Cade has gained a level.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 34> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 32> [0;37mw[0m
+The corpse of a cityguard arrives from the east.
+The corpse of a cityguard arrives from the east.
+The corpse of a cityguard arrives from the east.
+Glasgian flies in from the east.
+[36mChampion Street West[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:ES 32> [0;37ms[0m
+The corpse of a cityguard arrives from the north.
+The corpse of a cityguard arrives from the north.
+The corpse of a cityguard arrives from the north.
+Glasgian flies in from the north.
+[36mChampion Street West[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS(W) 31> [0;37mopen door w[0m
+Ok.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NSW 28> [0;37mw[0m
+The corpse of a cityguard arrives from the east.
+The corpse of a cityguard arrives from the east.
+The corpse of a cityguard arrives from the east.
+Glasgian flies in from the east.
+[36mA Commoner's Dwelling[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A destitute woman looks sadly at her husband, comforting him.
+A man, clothed only in rags, rests by the ashes.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 28> [0;37mfight man[0m
+
+Glasgian MASSACREs a ragged peasant with his slash.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 27> 
+The corpse of a cityguard **ANNIHILATE**s a ragged peasant with his hit.
+The corpse of a cityguard misses a ragged peasant with his hit.
+The corpse of a cityguard **ANNIHILATE**s a ragged peasant with his hit.
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14975842X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 26> 
+You crush a ragged peasant extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14975265X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mPerfect[0;37m] [a ragged peasant:[0;37m[33m[1mGood[0;37m] [0;37mExits:E 26> 
+You crush a ragged peasant extremely hard.
+The corpse of a cityguard **ANNIHILATE**s a ragged peasant with his hit.
+The corpse of a cityguard **ANNIHILATE**s a ragged peasant with his hit.
+The corpse of a cityguard **ANNIHILATE**s a ragged peasant with his hit.
+The corpse of a cityguard **ANNIHILATE**s a ragged peasant with his hit.
+The corpse of a cityguard **ANNIHILATE**s a ragged peasant with his hit.
+Glasgian MASSACREs a ragged peasant with his slash.
+A ragged peasant misses Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14974688X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mPerfect[0;37m] [a ragged peasant:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:E 24> 
+-#-#-#-#-#-#-#-> A ragged peasant <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14974688X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mPerfect[0;37m] [a ragged peasant:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:E 24> 
+You crush a ragged peasant.
+The corpse of a cityguard hits a ragged peasant extremely hard.
+The corpse of a cityguard MASSACREs a ragged peasant with his hit.
+The corpse of a cityguard MASSACREs a ragged peasant with his hit.
+Glasgian slashes a ragged peasant extremely hard.
+A ragged peasant misses Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14974496X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mPerfect[0;37m] [a ragged peasant:[0;37m[31mAwful[0;37m] [0;37mExits:E 20> 
+You crush a ragged peasant.
+The corpse of a cityguard misses a ragged peasant with his hit.
+The corpse of a cityguard hits a ragged peasant extremely hard.
+The corpse of a cityguard misses a ragged peasant with his hit.
+The corpse of a cityguard MASSACREs a ragged peasant with his hit.
+Glasgian slashes a ragged peasant very hard.
+A ragged peasant's powerful hit makes Glasgian double over in pain.
+A ragged peasant hits Glasgian very hard.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14974249X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a ragged peasant:[0;37m[31mAwful[0;37m] [0;37mExits:E 16> 
+You crush a ragged peasant hard.
+The corpse of a cityguard hits a ragged peasant extremely hard.
+A ragged peasant is mortally wounded, and will die soon, if not aided.
+The corpse of a cityguard **OBLITERATE**s a ragged peasant with his hit.
+You receive 1200 experience.
+A ragged peasant is dead! R.I.P.
+The death cry of a ragged peasant echoes from somewhere nearby...
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14972747X 57.87% 2489C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 12> [0m[1;34;49mFOLLOWER GAINED XP: 126793[0m
+
+You get a large pile of coins from the corpse of a ragged peasant.
+There were 113 coins.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14972747X 57.87% 2602C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 12> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14972747X 57.87% 2602C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 12> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14972747X 57.87% 2602C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 12> 
+You issue the order 'stand'.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14972747X 57.87% 2602C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 11> 
+corpse (here) : 
+a small key
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14972747X 57.87% 2602C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 11> 
+You can't split 113 evenly among the people in the room; splitting 112 instead.
+You divide 112 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 11> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 10> 
+The rising sun proclaims a new day.
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 60> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+[0;37mfood[0m
+You utter the words, 'create food'
+You create some food.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:3 Exits:E 54> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+You utter the words, 'create water'
+You do not feel thirsty.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:4 Exits:E 49> [0;37mgive bread glasgian[0m
+[0;37mgive bread glasgian[0m
+[0;37mgive bread glasgian[0m
+[0;37mgive bread glasgian[0m
+You give a piece of sweet bread to Glasgian.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:4 Exits:E 45> 
+You give a piece of sweet bread to Glasgian.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:4 Exits:E 45> 
+You give a piece of sweet bread to Glasgian.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:4 Exits:E 45> 
+You give a piece of sweet bread to Glasgian.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:4 Exits:E 44> [0;37mboth eat bread[0m
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:1 Exits:E 41> [0;37ml[0m
+[36mA Commoner's Dwelling[0;37m
+[33m[1mThe corpse of a ragged peasant is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A destitute woman looks sadly at her husband, comforting him.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:1 Exits:E 41> [0m#TICK!!![0m
+
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 60> 
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 60> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 10> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 10> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 60> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 28> [0;37ml[0m
+[36mA Commoner's Dwelling[0;37m
+[33m[1mThe corpse of a ragged peasant is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A destitute woman looks sadly at her husband, comforting him.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 28> [0;37mfight woman[0m
+
+Glasgian slashes a destitute woman very hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 27> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard hits a destitute woman extremely hard.
+The corpse of a cityguard hits a destitute woman extremely hard.
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 25> 
+You miss a destitute woman with your crush.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972747X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mPerfect[0;37m] [a destitute woman:[0;37m[33m[1mGood[0;37m] [0;37mExits:E 25> 
+You crush a destitute woman hard.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard misses a destitute woman with his hit.
+Glasgian slashes a destitute woman very hard.
+Glasgian deflects part of a destitute woman's blow with his shield.
+A destitute woman hits Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972469X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a destitute woman:[0;37m[33m[1mFair[0;37m] [0;37mExits:E 25> 
+You crush a destitute woman hard.
+The corpse of a cityguard misses a destitute woman with his hit.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard hits a destitute woman extremely hard.
+Glasgian slashes a destitute woman very hard.
+A destitute woman misses Glasgian with her hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972166X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a destitute woman:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:E 21> 
+[36mKtoto tells your clan 'hi guys. zoning?'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14972166X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a destitute woman:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:E 17> [0m[1;34;49mCLAN MESSAGE FROM Ktoto: 'hi guys. zoning?'[0m
+
+You crush a destitute woman very hard.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard MASSACREs a destitute woman with his hit.
+The corpse of a cityguard hits a destitute woman extremely hard.
+Glasgian slashes a destitute woman very hard.
+A destitute woman misses Glasgian with her hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14971812X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a destitute woman:[0;37m[31mAwful[0;37m] [0;37mExits:E 17> 
+You crush a destitute woman very hard.
+A destitute woman is mortally wounded, and will die soon, if not aided.
+The corpse of a cityguard **OBLITERATE**s a destitute woman with his hit.
+You receive 926 experience.
+A destitute woman is dead! R.I.P.
+The death cry of a destitute woman echoes from somewhere nearby...
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2546C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 13> [0m[1;34;49mFOLLOWER GAINED XP: 95140[0m
+
+You get a large pile of coins from the corpse of a destitute woman.
+There were 125 coins.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2671C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 13> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2671C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 13> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2671C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 12> 
+You issue the order 'stand'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2671C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 12> 
+corpse (here) : 
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2671C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 12> 
+You can't split 125 evenly among the people in the room; splitting 124 instead.
+You divide 124 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2609C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 11> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2609C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 10> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2609C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 10> [0;37mdobox[0m
+You get a small key from the corpse of a ragged peasant.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2609C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 9> 
+You quickly dust the ash away, revealing a box underneath.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2609C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 8> 
+You unlock a small metal box.
+The key turns to dust as you remove it from a small metal box.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2609C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 8> 
+Ok.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2609C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 8> 
+You get a meagre pile of steel coins from a small metal box.
+There were 75 coins.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2684C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 8> 
+You can't split 75 evenly among the people in the room; splitting 74 instead.
+You divide 74 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14970532X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 8> [0;37me[0m
+[0m#TICK!!![0m
+The corpse of a cityguard arrives from the west.
+The corpse of a cityguard arrives from the west.
+The corpse of a cityguard arrives from the west.
+Glasgian flies in from the west.
+[36mChampion Street West[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14970532X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NSW 60> 
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14970532X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NSW 60> [0;37ms[0m
+The corpse of a cityguard arrives from the north.
+The corpse of a cityguard arrives from the north.
+The corpse of a cityguard arrives from the north.
+Glasgian flies in from the north.
+[36mChampion Street West[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A hylar dwarf passes by, brandishing a large axe.
+A knight of the Rose order patrols the city, scouring for invaders.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14970532X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 59> [0;37mfight hylar[0m
+
+Glasgian slashes a hylar dwarven soldier extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14970532X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 56> 
+Glasgian MASSACREs a hylar dwarven soldier with his slash.
+Glasgian deflects part of a hylar dwarven soldier's blow with his shield.
+A hylar dwarven soldier cleaves Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14970532X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 56> 
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+The corpse of a cityguard MASSACREs a hylar dwarven soldier with his hit.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14970532X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 55> 
+You crush a hylar dwarven soldier very hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14970103X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a hylar dwarven soldier:[0;37m[32mGood[0;37m] [0;37mExits:NS 55> 
+A hylar dwarven soldier delivers a quick snap kick to Glasgian. Glasgian staggers and tries to recover.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14970103X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a hylar dwarven soldier:[0;37m[32mGood[0;37m] [0;37mExits:NS 53> 
+You crush a hylar dwarven soldier very hard.
+The corpse of a cityguard hits a hylar dwarven soldier extremely hard.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+The corpse of a cityguard MASSACREs a hylar dwarven soldier with his hit.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+Glasgian slashes a hylar dwarven soldier extremely hard.
+Glasgian deflects part of a hylar dwarven soldier's blow with his shield.
+A hylar dwarven soldier cleaves Glasgian hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969703X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mGood[0;37m] [0;37mExits:NS 52> [0;37mb kick low[0m
+
+Glasgian tries to sweep a hylar dwarven soldier's legs, but misses badly.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969703X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mGood[0;37m] [0;37mExits:NS 49> 
+You crush a hylar dwarven soldier very hard.
+The corpse of a cityguard hits a hylar dwarven soldier extremely hard.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+The corpse of a cityguard hits a hylar dwarven soldier extremely hard.
+Glasgian slashes a hylar dwarven soldier hard.
+Glasgian deflects part of a hylar dwarven soldier's blow with his shield.
+A hylar dwarven soldier cleaves Glasgian extremely hard.
+Glasgian deflects part of a hylar dwarven soldier's blow with his shield.
+A hylar dwarven soldier cleaves Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969303X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 48> [0;37mb kick low[0m
+
+A hylar dwarven soldier delivers a quick snap kick to Glasgian. Glasgian staggers and tries to recover.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969303X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 47> 
+Glasgian spins and tries to kick a hylar dwarven soldier, but a hylar dwarven soldier dodges out of the way.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969303X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 45> 
+A patrolling knight of the Rose arrives from the south.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969303X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 45> 
+You miss a hylar dwarven soldier with your crush.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+Glasgian slashes a hylar dwarven soldier very hard.
+Glasgian deflects part of a hylar dwarven soldier's blow with his shield.
+A hylar dwarven soldier cleaves Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969303X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 44> [0;37mb kick low[0m
+
+A hylar dwarven soldier crashes into Glasgian in a thundering collision, knocking him to the ground!
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969303X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 41> 
+You crush a hylar dwarven soldier hard.
+The corpse of a cityguard hits a hylar dwarven soldier extremely hard.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+The corpse of a cityguard hits a hylar dwarven soldier extremely hard.
+Glasgian slashes a hylar dwarven soldier extremely hard.
+A hylar dwarven soldier misses Glasgian with his cleave.
+A hylar dwarven soldier misses Glasgian with his cleave.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969017X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 40> [0;37mrapt[0m
+Alas, you are not ready yet.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14969017X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 37> 
+You crush a hylar dwarven soldier hard.
+The corpse of a cityguard hits a hylar dwarven soldier extremely hard.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+The corpse of a cityguard MASSACREs a hylar dwarven soldier with his hit.
+Glasgian slashes a hylar dwarven soldier very hard.
+A hylar dwarven soldier **ANNIHILATE**s Glasgian with his cleave.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14968703X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mBad[0;37m] [0;37mExits:NS 36> [0;37mflame[0m
+You utter the words, 'flamestrike'
+A column of fire comes down and sears a hylar dwarven soldier.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14966987X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 Exits:NS 35> [0;37mflame[0m
+
+-#-#-#-#-#-#-#-> Glasgian <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14966987X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 Exits:NS 33> 
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+The corpse of a cityguard hits a hylar dwarven soldier extremely hard.
+The corpse of a cityguard hits a hylar dwarven soldier extremely hard.
+A hylar dwarven soldier wavers under Glasgian's mighty slash!
+Glasgian slashes a hylar dwarven soldier extremely hard.
+Glasgian deflects part of a hylar dwarven soldier's blow with his shield.
+A hylar dwarven soldier cleaves Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14966987X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 Exits:NS 32> 
+You utter the words, 'flamestrike'
+A column of fire comes down and sears a hylar dwarven soldier.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14965243X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 Exits:NS 31> 
+A hylar dwarven soldier stumbles and falls while trying to bash Glasgian.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14965243X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 Exits:NS 29> [0;37mb bash[0m
+
+Glasgian stumbles and falls while trying to bash a hylar dwarven soldier.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14965243X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a hylar dwarven soldier:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 Exits:NS 28> [0m[1;31;49m** OUCHIES, MISSED THE BASH!!! **[0m
+
+The corpse of a cityguard MASSACREs a hylar dwarven soldier with his hit.
+The corpse of a cityguard MASSACREs a hylar dwarven soldier with his hit.
+The corpse of a cityguard misses a hylar dwarven soldier with his hit.
+Glasgian slashes a hylar dwarven soldier extremely hard.
+A hylar dwarven soldier **ANNIHILATE**s Glasgian with his cleave.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14965243X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a hylar dwarven soldier:[0;37m[31mAwful[0;37m] [0;37mMem:2 Exits:NS 28> [0;37mflame[0m
+You utter the words, 'flamestrike'
+A column of fire comes down and sears a hylar dwarven soldier.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14963613X 57.87% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a hylar dwarven soldier:[0;37m[31mAwful[0;37m] [0;37mMem:2 Exits:NS 26> 
+The corpse of a cityguard MASSACREs a hylar dwarven soldier with his hit.
+A hylar dwarven soldier is mortally wounded, and will die soon, if not aided.
+The corpse of a cityguard **OBLITERATE**s a hylar dwarven soldier with his hit.
+You receive 102547 experience.
+A hylar dwarven soldier is dead! R.I.P.
+The death cry of a hylar dwarven soldier echoes from somewhere nearby...
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2647C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NS 24> [0m[1;34;49mFOLLOWER GAINED XP: 148351[0m
+
+You get a large pile of coins from the corpse of a hylar dwarven soldier.
+There were 255 coins.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2902C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NS 22> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2902C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NS 22> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2902C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NS 21> 
+You issue the order 'stand'.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2902C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NS 21> 
+corpse (here) : 
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2902C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NS 21> 
+You can't split 255 evenly among the people in the room; splitting 254 instead.
+You divide 254 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NS 21> 
+-#-#-#-#-#-#-#-> Glasgian <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NS 20> [0;37mrecover[0m
+Glasgian begins resting but stays aloft.
+You now watch Glasgian.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [**Glasgian:[0;37m[33m[1mFair[0;37m**] [0;37mMem:2 Exits:NS 20> 
+Glasgian applies bandages to his wounds.
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 Exits:NS 19> 
+They are not in need of your help.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 Exits:NS 19> 
+You try to ignore everything around you and focus upon your prayers.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 Exits:NS 19> 
+[37mYour clanmate Vidar has left the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 Exits:NS 13> 
+[36mCoveede tells your clan 'not me, but I'd be willing, especially on this'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 Exits:NS 12> [0m[1;34;49mCLAN MESSAGE FROM Coveede: 'not me, but I'd be willing, especially on
+[0;1;34;49mthis'[0m
+[0m#10 SECONDS TO TICK![0m
+
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37mYou tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 Exits:NS 9> [0m#TICK!!![0m
+
+Your studies complete, you close your prayerbook with a smile.
+You sense the call of the gods will be coming soon.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [0;37mExits:NS 60> 
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [0;37mExits:NS 60> 
+[36mCade tells your clan 'i've got to run to do some work.'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [0;37mExits:NS 52> [0m[1;34;49mCLAN MESSAGE FROM Cade: 'i've got to run to do some work.'[0m
+
+[37mYour clanmate Cade has left the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [0;37mExits:NS 36> 
+A patrolling knight of the Rose leaves south.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [0;37mExits:NS 27> [0;37ml[0m
+[36mChampion Street West[0;37m
+[33m[1mThe corpse of a hylar dwarven soldier is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is resting here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A knight of the Rose order patrols the city, scouring for invaders.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [0;37mExits:NS 22> [0;37mfight rose[0m
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [0;37mExits:NS 18> 
+Come on! I'm relaxing!
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [Pos:resting] [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [0;37mExits:NS 18> [0;37mboth sta[0m
+-#-#-#-#-#-#-#-> Glasgian <-#-#-#-#-#-#-#-  stands up.
+You stop meditating and stand up.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [0;37mExits:NS 16> [0;37mfight rose[0m
+
+Glasgian slashes a patrolling knight of the Rose very hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [**a patrolling knight of the Rose:[0;37m[32mV.Good[0;37m**] [0;37mExits:NS 15> 
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14861066X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [**Glasgian:[0;37m[32mGood[0;37m**] [**a patrolling knight of the Rose:[0;37m[32mV.Good[0;37m**] [0;37mExits:NS 14> 
+You crush a patrolling knight of the Rose hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14860703X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Rose:[0;37m[32mV.Good[0;37m] [0;37mExits:NS 14> 
+You stop watching Glasgian.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14860703X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Rose:[0;37m[32mV.Good[0;37m] [0;37mExits:NS 14> 
+You miss a patrolling knight of the Rose with your crush.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard hits a patrolling knight of the Rose extremely hard.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+Glasgian slashes a patrolling knight of the Rose very hard.
+Glasgian deflects part of a patrolling knight of the Rose's blow with his shield.
+A patrolling knight of the Rose **ANNIHILATE**s Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14860703X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a patrolling knight of the Rose:[0;37m[32mGood[0;37m] [0;37mExits:NS 13> [0;37mb kick low[0m
+[0m#10 SECONDS TO TICK![0m
+
+Glasgian delivers a low kick to a patrolling knight of the Rose, knocking him off balance.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14860703X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a patrolling knight of the Rose:[0;37m[32mGood[0;37m] [0;37mExits:NS 10> 
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14860703X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a patrolling knight of the Rose:[0;37m[32mGood[0;37m] [0;37mExits:NS 9> [0;37mb bash[0m
+
+You miss a patrolling knight of the Rose with your crush.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard hits a patrolling knight of the Rose extremely hard.
+Glasgian slashes a patrolling knight of the Rose very hard.
+Glasgian slashes a patrolling knight of the Rose very hard.
+Glasgian deflects part of a patrolling knight of the Rose's blow with his shield.
+A patrolling knight of the Rose **ANNIHILATE**s Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14860703X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mGood[0;37m] [0;37mExits:NS 9> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Glasgian crashes into a patrolling knight of the Rose in a thundering collision, knocking him to the ground!
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14860703X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 6> [0m[1;32;49m** IN THE FACE!!! **[0m
+[0;37mrapt[0m
+You call for the assistance of the Gods and your prayers are answered.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14860703X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 6> 
+You **ANNIHILATE** a patrolling knight of the Rose with your crush.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+Glasgian slashes a patrolling knight of the Rose extremely hard.
+Glasgian MASSACREs a patrolling knight of the Rose with his slash.
+Glasgian deflects part of a patrolling knight of the Rose's blow with his shield.
+A patrolling knight of the Rose **ANNIHILATE**s Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14859416X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 5> 
+You **OBLITERATE** a patrolling knight of the Rose with your crush.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+Glasgian MASSACREs a patrolling knight of the Rose with his slash.
+Glasgian MASSACREs a patrolling knight of the Rose with his slash.
+Glasgian deflects part of a patrolling knight of the Rose's blow with his shield.
+Glasgian swings his shield in an arc and smacks a patrolling knight of the Rose in the head.
+A patrolling knight of the Rose MASSACREs Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 0> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 60> [0;37mb kick low[0m
+
+Glasgian spins and tries to kick a patrolling knight of the Rose, but a patrolling knight of the Rose dodges out of the way.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mFair[0;37m] [0;37mExits:NS 58> 
+You miss a patrolling knight of the Rose with your crush.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+Glasgian slashes a patrolling knight of the Rose extremely hard.
+Glasgian deflects part of a patrolling knight of the Rose's blow with his shield.
+Glasgian leans through a patrolling knight of the Rose's blow and knocks him to the ground.
+A patrolling knight of the Rose **ANNIHILATE**s Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mBad[0;37m] [0;37mExits:NS 57> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0;37mb punch[0m
+
+Glasgian gives a patrolling knight of the Rose a solid punch in the face.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mBad[0;37m] [0;37mExits:NS 53> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You miss a patrolling knight of the Rose with your crush.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+Glasgian MASSACREs a patrolling knight of the Rose with his slash.
+Glasgian deflects part of a patrolling knight of the Rose's blow with his shield.
+A patrolling knight of the Rose **ANNIHILATE**s Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NS 53> 
+-#-#-#-#-#-#-#-> A patrolling knight of the Rose <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NS 51> [0;37mb kick low[0m
+
+Glasgian delivers a low kick to a patrolling knight of the Rose, knocking him off balance.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NS 50> 
+You miss a patrolling knight of the Rose with your crush.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+Glasgian slashes a patrolling knight of the Rose extremely hard.
+Glasgian deflects part of a patrolling knight of the Rose's blow with his shield.
+A patrolling knight of the Rose MASSACREs Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NS 49> [0;37mb bash[0m
+
+Glasgian stumbles and falls while trying to bash a patrolling knight of the Rose.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NS 46> [0m[1;31;49m** OUCHIES, MISSED THE BASH!!! **[0m
+
+A patrolling knight of the Rose tries to sweep Glasgian's legs, but misses badly.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14857568X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NS 45> 
+You MASSACRE a patrolling knight of the Rose with your crush.
+The corpse of a cityguard misses a patrolling knight of the Rose with his hit.
+The corpse of a cityguard hits a patrolling knight of the Rose extremely hard.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+Glasgian slashes a patrolling knight of the Rose very hard.
+A patrolling knight of the Rose **ANNIHILATE**s Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14856743X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NS 45> 
+[36mKtoto tells your clan 'let's hit something epic?'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14856743X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NS 43> [0m[1;34;49mCLAN MESSAGE FROM Ktoto: 'let's hit
+[0;1;34;49msomething epic?'[0m
+
+You miss a patrolling knight of the Rose with your crush.
+The corpse of a cityguard hits a patrolling knight of the Rose extremely hard.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard hits a patrolling knight of the Rose extremely hard.
+Glasgian slashes a patrolling knight of the Rose very hard.
+A patrolling knight of the Rose **ANNIHILATE**s Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14856743X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[31mAwful[0;37m] [0;37mExits:NS 41> 
+A patrolling knight of the Rose gives Glasgian a solid punch in the face.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14856743X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[31mAwful[0;37m] [0;37mExits:NS 39> 
+-#-#-#-#-#-#-#-> Glasgian <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14856743X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[31mAwful[0;37m] [0;37mExits:NS 38> [0;37mb kick low[0m
+
+Glasgian tries to sweep a patrolling knight of the Rose's legs, but misses badly.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14856743X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[31mAwful[0;37m] [0;37mExits:NS 37> 
+You MASSACRE a patrolling knight of the Rose with your crush.
+The corpse of a cityguard hits a patrolling knight of the Rose extremely hard.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Rose with his hit.
+Glasgian slashes a patrolling knight of the Rose hard.
+Glasgian deflects part of a patrolling knight of the Rose's blow with his shield.
+A patrolling knight of the Rose **ANNIHILATE**s Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14855819X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a patrolling knight of the Rose:[0;37m[31mAwful[0;37m] [0;37mExits:NS 37> [0;37mb kick low[0m
+
+You **ANNIHILATE** a patrolling knight of the Rose with your crush.
+The corpse of a cityguard hits a patrolling knight of the Rose extremely hard.
+A patrolling knight of the Rose is stunned, but will likely regain consciousness again.
+The corpse of a cityguard **ANNIHILATE**s a patrolling knight of the Rose with his hit.
+You receive 2796 experience.
+A patrolling knight of the Rose is dead! R.I.P.
+The death cry of a patrolling knight of the Rose echoes from somewhere nearby...
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2775C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 32> [0m[1;34;49mFOLLOWER GAINED XP: 234682[0m
+
+You get a large pile of coins from the corpse of a patrolling knight of the Rose.
+There were 311 coins.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 3086C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 32> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 3086C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 32> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 3086C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 32> 
+You issue the order 'stand'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 3086C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 32> 
+corpse (here) : 
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 3086C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 32> 
+You can't split 311 evenly among the people in the room; splitting 310 instead.
+You divide 310 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 31> [0;37ml[0m
+[36mChampion Street West[0;37m
+[33m[1mThe corpse of a patrolling knight of the Rose is lying here.
+The corpse of a hylar dwarven soldier is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 30> 
+[36mKtoto tells your clan 'like que-teh :)'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 30> [0m[1;34;49mCLAN MESSAGE FROM Ktoto: 'like que-teh :)'[0m
+[0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 10> [0;37ml[0m
+[36mChampion Street West[0;37m
+[33m[1mThe corpse of a patrolling knight of the Rose is lying here.
+The corpse of a hylar dwarven soldier is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 4> 
+[37mYour clanmate Malysh has entered the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NS 4> [0;37ms[0m
+The corpse of a cityguard arrives from the north.
+The corpse of a cityguard arrives from the north.
+The corpse of a cityguard arrives from the north.
+Glasgian flies in from the north.
+[36mIntersection of Huma and Champion Street West[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A female conscript strolls the street sullenly.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 3> 
+[36mCoveede tells your clan 'I can never remember which one that is'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 3> [0m[1;34;49mCLAN MESSAGE FROM Coveede: 'I can never remember which one that is'[0m
+
+The rain has stopped.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 0> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 60> [0;37mfight conscript[0m
+
+Glasgian slashes a conscripted female extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 53> 
+A conscripted female spins and tries to kick Glasgian, but Glasgian dodges out of the way.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 53> 
+Glasgian slashes a conscripted female hard.
+A conscripted female slashes Glasgian very hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 53> 
+The corpse of a cityguard misses a conscripted female with his hit.
+The corpse of a cityguard hits a conscripted female extremely hard.
+The corpse of a cityguard hits a conscripted female extremely hard.
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851736X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 52> 
+You MASSACRE a conscripted female with your crush.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14851186X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mGood[0;37m] [a conscripted female:[0;37m[33m[1mFair[0;37m] [0;37mExits:NEW 52> 
+You **ANNIHILATE** a conscripted female with your crush.
+The corpse of a cityguard misses a conscripted female with his hit.
+The corpse of a cityguard hits a conscripted female extremely hard.
+The corpse of a cityguard misses a conscripted female with his hit.
+Glasgian slashes a conscripted female extremely hard.
+A conscripted female misses Glasgian with her slash.
+Glasgian deflects part of a conscripted female's blow with his shield.
+A conscripted female slashes Glasgian hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14850262X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a conscripted female:[0;37m[33m[1mBad[0;37m] [0;37mExits:NEW 48> 
+A conscripted female gives Glasgian a solid punch in the face.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14850262X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a conscripted female:[0;37m[33m[1mBad[0;37m] [0;37mExits:NEW 47> [0;37mb kick low[0m
+
+Glasgian spins and tries to kick a conscripted female, but a conscripted female dodges out of the way.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14850262X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a conscripted female:[0;37m[33m[1mBad[0;37m] [0;37mExits:NEW 46> 
+You MASSACRE a conscripted female with your crush.
+The corpse of a cityguard hits a conscripted female extremely hard.
+The corpse of a cityguard misses a conscripted female with his hit.
+The corpse of a cityguard MASSACREs a conscripted female with his hit.
+Glasgian slashes a conscripted female extremely hard.
+Glasgian deflects part of a conscripted female's blow with his shield.
+A conscripted female slashes Glasgian.
+A conscripted female misses Glasgian with her slash.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14849646X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a conscripted female:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NEW 44> [0;37mb kick low[0m
+
+Glasgian tries to sweep a conscripted female's legs, but misses badly.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14849646X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a conscripted female:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NEW 42> 
+A conscripted female disarms Glasgian's weapon.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14849646X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a conscripted female:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:NEW 41> 
+You miss a conscripted female with your crush.
+The corpse of a cityguard MASSACREs a conscripted female with his hit.
+The corpse of a cityguard MASSACREs a conscripted female with his hit.
+The corpse of a cityguard hits a conscripted female extremely hard.
+The corpse of a cityguard hits a conscripted female extremely hard.
+Glasgian barely hits a conscripted female.
+A conscripted female misses Glasgian with her slash.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14849646X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[33m[1mFair[0;37m] [a conscripted female:[0;37m[31mAwful[0;37m] [0;37mExits:NEW 41> [0;37mb kick low[0m
+
+Glasgian delivers a low kick to a conscripted female, knocking her off balance.
+A conscripted female is mortally wounded, and will die soon, if not aided.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14849646X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [a conscripted female:[0;37m[31mDying[0;37m] [0;37mExits:NEW 37> 
+[36mKtoto tells your clan 'ok. how many we have? 3?'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14849646X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [a conscripted female:[0;37m[31mDying[0;37m] [0;37mExits:NEW 36> [0m[1;34;49mCLAN MESSAGE FROM Ktoto: 'ok. how many we have? 3?'[0m
+
+You **OBLITERATE** a conscripted female with your crush.
+You receive 697 experience.
+A conscripted female is dead! R.I.P.
+The death cry of a conscripted female echoes from somewhere nearby...
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2931C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 36> [0m[1;34;49mFOLLOWER GAINED XP: 66657[0m
+
+You get a pile of coins from the corpse of a conscripted female.
+There were 98 coins.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 3029C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 36> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 3029C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 36> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 3029C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 36> 
+You issue the order 'stand'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 3029C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 36> 
+corpse (here) : 
+a badly beaten bronze sword
+some heavily dinged armplates
+a pair of ripped leather boots
+some heavily dinged legplates
+a torn leather vest
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 3029C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 35> 
+You divide 98 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 35> [0;37mclan who[0m
+[0;37m[36mClan Members
+------------
+[36m[1m Coveede          [     Elder ] (Mon Sep 21) Level 30 N Rank 32 Cleric
+[36m[1m Ktoto            [     Elder ] (Mon Sep 21) Level 30 E Rank 28 Dark Knight
+[36m[1m Hestaby          [  Neophyte ] (Mon Sep 21) Level 30 N Rank 31 Cleric
+[36m[1m Glasgian         [  Neophyte ] (Mon Sep 21) Level 28 E Rank 18 Warrior
+[1m[32m
+Total clan members online: 4    Total clan members: 55
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 30> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 10> 
+[36mCoveede tells your clan 'I could bring the warrior, too, hough he's kinda crappy'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 1> [0m[1;34;49mCLAN MESSAGE FROM Coveede: 'I could bring the warrior, too, hough he's kinda crappy'[0m
+[0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 60> [0;37mct im teaching my kid school, so im not much good in a group[0m
+You tell your clan 'im teaching my kid school, so im not much good in a group'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 57> [0m[1;34;49mCLAN MESSAGE FROM Hestaby: 'im teaching my kid school, so im not much good in a group'[0m
+
+[37mYour clanmate Eyenine has entered the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 36> 
+[36mKtoto tells your clan '2*me+ 2* covedee'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 25> [0m[1;34;49mCLAN MESSAGE FROM Ktoto: '2*me+ 2* covedee'[0m
+[0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 10> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 10> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 60> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+[36mKtoto tells your clan 'I'm not really god in leading and tanking in the same time'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 26> [0m[1;34;49mCLAN MESSAGE FROM Ktoto: 'I'm not really god in leading and tanking in the same time'[0m
+[0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 10> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 60> 
+The wrath abandons you.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 60> 
+[36mKtoto tells your clan 'I would hit Gaard'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 43> [0m[1;34;49mCLAN MESSAGE FROM Ktoto: 'I would hit Gaard'[0m
+[0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 10> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 9> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 60> 
+[36mCoveede tells your clan 'meeting somewhere? we can go slow or I'll drive if I know it'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 39> [0m[1;34;49mCLAN MESSAGE FROM Coveede: 'meeting somewhere? we can go slow or I'll drive if I know it'[0m
+
+[36mKtoto tells your clan 'meet TH'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 16> [0m[1;34;49mCLAN MESSAGE FROM Ktoto: 'meet TH'[0m
+[0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 10> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 9> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 4> [0;37ml[0m
+[36mIntersection of Huma and Champion Street West[0;37m
+[33m[1mThe corpse of a conscripted female is lying here.
+A long sword forged from acid-etched steel lies here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 3> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 60> 
+The corpse of a conscripted female decays into dust and blows away.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 60> [0;37m[0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 57> [0;37mw[0m
+The corpse of a cityguard arrives from the east.
+The corpse of a cityguard arrives from the east.
+The corpse of a cityguard arrives from the east.
+Glasgian flies in from the east.
+[36mThe Western Gate of Lytburg[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A fat sentry leans up against the gate, yawning intensely.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 55> [0;37mfight fat[0m
+
+Glasgian misses a fat sentry with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 52> 
+Glasgian barely hits a fat sentry.
+Glasgian deflects part of a fat sentry's blow with his shield.
+A fat sentry hits Glasgian hard.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 52> 
+The corpse of a cityguard MASSACREs a fat sentry with his hit.
+The corpse of a cityguard MASSACREs a fat sentry with his hit.
+The corpse of a cityguard misses a fat sentry with his hit.
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848949X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 51> 
+You crush a fat sentry.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848780X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a fat sentry:[0;37m[32mGood[0;37m] [0;37mExits:E 51> 
+You crush a fat sentry hard.
+The corpse of a cityguard hits a fat sentry extremely hard.
+The corpse of a cityguard MASSACREs a fat sentry with his hit.
+The corpse of a cityguard MASSACREs a fat sentry with his hit.
+The corpse of a cityguard MASSACREs a fat sentry with his hit.
+Glasgian misses a fat sentry with his hit.
+A fat sentry hits Glasgian hard.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848490X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a fat sentry:[0;37m[33m[1mFair[0;37m] [0;37mExits:E 48> 
+A fat sentry spins and tries to kick Glasgian, but Glasgian dodges out of the way.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848490X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a fat sentry:[0;37m[33m[1mFair[0;37m] [0;37mExits:E 47> [0;37mb kick low[0m
+
+Glasgian tries to sweep a fat sentry's legs, but misses badly.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848490X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a fat sentry:[0;37m[33m[1mFair[0;37m] [0;37mExits:E 46> 
+You crush a fat sentry hard.
+The corpse of a cityguard hits a fat sentry extremely hard.
+The corpse of a cityguard MASSACREs a fat sentry with his hit.
+The corpse of a cityguard MASSACREs a fat sentry with his hit.
+The corpse of a cityguard hits a fat sentry extremely hard.
+Glasgian barely hits a fat sentry.
+Glasgian blocks a fat sentry's blow with a quick raise of his shield.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848224X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a fat sentry:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:E 44> [0;37mb kick low[0m
+
+Glasgian tries to sweep a fat sentry's legs, but misses badly.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848224X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a fat sentry:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:E 42> 
+A fat sentry gives Glasgian a solid punch in the face.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14848224X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a fat sentry:[0;37m[33m[1mV.Bad[0;37m] [0;37mExits:E 41> 
+You crush a fat sentry very hard.
+The corpse of a cityguard hits a fat sentry extremely hard.
+The corpse of a cityguard hits a fat sentry extremely hard.
+The corpse of a cityguard hits a fat sentry extremely hard.
+Glasgian misses a fat sentry with his hit.
+A fat sentry misses Glasgian with his hit.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14847837X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a fat sentry:[0;37m[31mAwful[0;37m] [0;37mExits:E 40> [0;37mb kick low[0m
+
+Glasgian delivers a low kick to a fat sentry, knocking him off balance.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14847837X 57.89% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a fat sentry:[0;37m[31mAwful[0;37m] [0;37mExits:E 37> 
+You crush a fat sentry.
+The corpse of a cityguard hits a fat sentry extremely hard.
+You receive 59156 experience.
+A fat sentry is dead! R.I.P.
+The death cry of a fat sentry echoes from somewhere nearby...
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14788464X 57.91% 2980C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 36> [0m[1;34;49mFOLLOWER GAINED XP: 85578[0m
+
+You get a large pile of coins from the corpse of a fat sentry.
+There were 331 coins.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14788464X 57.91% 3311C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 36> [0;37mb bash[0m
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14788464X 57.91% 3311C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 36> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14788464X 57.91% 3311C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 35> 
+You issue the order 'stand'.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14788464X 57.91% 3311C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 35> 
+corpse (here) : 
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14788464X 57.91% 3311C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 35> 
+You can't split 331 evenly among the people in the room; splitting 330 instead.
+You divide 330 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 35> [0;37ml[0m
+[36mThe Western Gate of Lytburg[0;37m
+[33m[1mThe corpse of a fat sentry is lying here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m177V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:E 34> [0;37me[0m
+The corpse of a cityguard arrives from the west.
+The corpse of a cityguard arrives from the west.
+The corpse of a cityguard arrives from the west.
+Glasgian flies in from the west.
+[36mIntersection of Huma and Champion Street West[0;37m
+[33m[1mA pile of leather rags has been discarded here.
+A pair of legplates, scarred heavily from battle, rest here.
+A pair of ill-treated boots has been left here to rot.
+A pair of armplates, scarred heavily from battle, rest here.
+A badly beaten bronze sword gathers dust in the corner.
+A long sword forged from acid-etched steel lies here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 33> [0;37mb get 2.sword[0m
+
+Glasgian gets an acid-etched steel sword.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 27> [0;37mb wield sword[0m
+
+Glasgian wields an acid-etched steel sword.
+
+[32m[0;37m[32m488H [0;37m[32m176V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NEW 25> [0;37me[0m
+The corpse of a cityguard arrives from the west.
+The corpse of a cityguard arrives from the west.
+The corpse of a cityguard arrives from the west.
+Glasgian flies in from the west.
+[36mHuma's Way West[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m175V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:EW 24> [0;37me[0m
+The corpse of a cityguard arrives from the west.
+The corpse of a cityguard arrives from the west.
+The corpse of a cityguard arrives from the west.
+Glasgian flies in from the west.
+[36mWestern Market Square[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+A man of high society strolls the town, proclaiming he is better than you.
+A knight of the Sword patrols the town, keeping the residents calm.
+A knight of the Sword patrols the town, keeping the residents calm.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 24> [0;37mfight knight[0m
+
+Glasgian slashes a patrolling knight of the Sword very hard.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 19> 
+A patrolling knight of the Sword utters the words, 'sanctuary'.
+A patrolling knight of the Sword is surrounded by a white aura.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 19> 
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+You issue the order 'assist glasgian'.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14788464X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 18> 
+You crush a patrolling knight of the Sword hard.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14788108X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[32mGood[0;37m] [0;37mExits:NESW 18> [0;37mmist[0m
+
+You crush a patrolling knight of the Sword hard.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+Glasgian slashes a patrolling knight of the Sword very hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787752X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mGood[0;37m] [0;37mExits:NESW 16> 
+You utter the words, 'healing mist'
+A sparkling mist forms in the air.
+The mist surrounds you and makes your skin tingle.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787752X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mGood[0;37m] [0;37mMem:2 Exits:NESW 13> 
+A patrolling knight of the Sword utters the words, 'cure serious'.
+A few of a patrolling knight of the Sword's nastier scrapes disappear.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787752X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[32mGood[0;37m] [0;37mMem:2 Exits:NESW 13> 
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+Glasgian slashes a patrolling knight of the Sword very hard.
+A patrolling knight of the Sword MASSACREs Glasgian with his stab.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787752X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:NESW 12> [0m#10 SECONDS TO TICK![0m
+
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787752X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:NESW 10> [0;37mrapt[0m
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787752X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:NESW 9> 
+Alas, you are not ready yet.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787752X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:NESW 9> 
+You miss a patrolling knight of the Sword with your crush.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+A patrolling knight of the Sword wavers under Glasgian's mighty slash!
+Glasgian slashes a patrolling knight of the Sword extremely hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+A patrolling knight of the Sword MASSACREs Glasgian with his stab.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787752X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:NESW 8> 
+A patrolling knight of the Sword utters some strange words.
+A look of moral outrage consumes a patrolling knight of the Sword.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787752X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 Exits:NESW 7> 
+You crush a patrolling knight of the Sword hard.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+Glasgian slashes a patrolling knight of the Sword extremely hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787455X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 Exits:NESW 4> 
+A patrolling knight of the Sword utters the words, 'cure light'.
+A few of a patrolling knight of the Sword's bruises disappear.
+
+[32m[0;37m[32m488H [0;37m[32m174V [0;37m14787455X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 Exits:NESW 1> 
+You crush a patrolling knight of the Sword hard.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+Glasgian slashes a patrolling knight of the Sword extremely hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian very hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+The noble looks at you in disgust and throws his head in the air.
+A snobby noble says 'Get out of my sight, peasant.'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14787158X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mPerfect[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 Exits:NESW 0> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14787158X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mPerfect[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 Exits:NESW 60> 
+You crush a patrolling knight of the Sword hard.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+Glasgian MASSACREs a patrolling knight of the Sword with his slash.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian extremely hard.
+A patrolling knight of the Sword stabs Glasgian hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14786861X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 Exits:NESW 56> 
+A patrolling knight of the Sword utters the words, 'cure light'.
+A few of a patrolling knight of the Sword's bruises disappear.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14786861X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 Exits:NESW 55> 
+You crush a patrolling knight of the Sword.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+Glasgian slashes a patrolling knight of the Sword extremely hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian very hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian very hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14786624X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mMem:2 Exits:NESW 52> 
+A patrolling knight of the Sword utters the words, 'cure light'.
+A few of a patrolling knight of the Sword's bruises disappear.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14786624X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mGood[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mMem:2 Exits:NESW 49> 
+You miss a patrolling knight of the Sword with your crush.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+Glasgian slashes a patrolling knight of the Sword very hard.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian very hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14786624X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mMem:2 Exits:NESW 48> 
+You miss a patrolling knight of the Sword with your crush.
+The corpse of a cityguard hits a patrolling knight of the Sword extremely hard.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+The corpse of a cityguard misses a patrolling knight of the Sword with his hit.
+Glasgian slashes a patrolling knight of the Sword extremely hard.
+Glasgian blocks a patrolling knight of the Sword's blow with a quick raise of his shield.
+Glasgian deflects part of a patrolling knight of the Sword's blow with his shield.
+A patrolling knight of the Sword stabs Glasgian very hard.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14786624X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mMem:2 Exits:NESW 44> 
+A patrolling knight of the Sword utters the words, 'cure light'.
+A few of a patrolling knight of the Sword's bruises disappear.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14786624X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [Glasgian:[0;37m[32mV.Good[0;37m] [a patrolling knight of the Sword:[0;37m[31mAwful[0;37m] [0;37mMem:2 Exits:NESW 42> 
+You crush a patrolling knight of the Sword.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+The corpse of a cityguard MASSACREs a patrolling knight of the Sword with his hit.
+You receive 114478 experience.
+A patrolling knight of the Sword is dead! R.I.P.
+The death cry of a patrolling knight of the Sword echoes from somewhere nearby...
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3146C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 40> [0m[1;34;49mFOLLOWER GAINED XP: 165609[0m
+
+You get a large pile of coins from the corpse of a patrolling knight of the Sword.
+There were 150 coins.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3296C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 40> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3296C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 40> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3296C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 39> 
+You issue the order 'stand'.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3296C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 39> 
+corpse (here) : 
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3296C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 39> 
+You divide 150 coins equally among the group members present.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 39> 
+The sparkling mist fades away from sight.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 36> 
+A snobby noble leaves south.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 33> 
+A patrolling knight of the Sword leaves south.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 32> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 10> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:1 Exits:NESW 60> 
+[37mYour clanmate Ktoto has left the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:1 Exits:NESW 36> 
+[37mYour clanmate Eva has entered the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:1 Exits:NESW 11> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:1 Exits:NESW 9> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:1 Exits:NESW 9> 
+Your studies complete, you close your prayerbook with a smile.
+The cloud-veiled sky becomes even darker as the sun sets.
+You sense the call of the gods will be coming soon.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 60> 
+[36mEva tells your clan 'a train to Last Gaard. Any1 wants to jump in?'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 45> [0m[1;34;49mCLAN MESSAGE FROM Eva: 'a train to Last Gaard. Any1 wants to jump in?'[0m
+
+[36mEva tells your clan 'bots are fine'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 39> [0m[1;34;49mCLAN MESSAGE FROM Eva: 'bots are fine'[0m
+[0m#TICK!!![0m
+
+The darkness marks the end of another day.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 60> [0m#10 SECONDS TO TICK![0m
+
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37mYou tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 10> 
+[37mThe clouds block your view of Solinari.
+[31mThe clouds block your view of Lunitari.
+[34m[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 0> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 60> 
+A weary janitor arrives from the east.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 15> [0m#10 SECONDS TO TICK![0m
+
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37mYou tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 10> 
+The corpse of a patrolling knight of the Sword decays into dust and blows away.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 60> 
+A weary janitor leaves south.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 57> 
+A patrolling knight of the Sword arrives from the east.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 43> 
+A weary janitor arrives from the east.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 32> 
+A weary janitor arrives from the south.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 27> 
+A weary janitor leaves west.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 15> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 60> 
+A weary janitor leaves east.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 51> 
+A patrolling knight of the Sword leaves west.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 37> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 10> 
+[36mGlasgian tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 10> [0m#TICK!!![0m
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 60> [0;37ml[0m
+[36mWestern Market Square[0;37m
+[33m[1m[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+The corpse of a cityguard is here, slowly animating.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 30> [0;37mrelease corpse[0m
+You release the corpse of a cityguard from your service.
+The corpse of a cityguard transcends this world and enters another plane.
+The corpse of a cityguard stops following you.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 27> [0;37mrelease corpse[0m
+You release the corpse of a cityguard from your service.
+The corpse of a cityguard transcends this world and enters another plane.
+The corpse of a cityguard stops following you.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 26> [0;37mrelease corpse[0m
+You release the corpse of a cityguard from your service.
+The corpse of a cityguard transcends this world and enters another plane.
+The corpse of a cityguard stops following you.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mExits:NESW 26> [0;37mcast 'word' glasgian[0m
+You utter the words, 'word of recall'
+Glasgian disappears.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:NESW 22> [0;37mcast 'word' me[0m
+You utter the words, 'word of recall'
+[36mThe Reception[0;37m
+[33m[1mAssorted keys dangle from an iron loop here.
+A white key that has been twisted awkwardly lies here.
+[0;37m[31m[1m<DAWN> Glasgian the Male Half Ogre is standing here. (flying)
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:D 18> [0;37mb[0m
+
+The receptionist shows Glasgian to his room.
+Glasgian stops following you.
+[37mYour clanmate Glasgian has left the game.
+[0;37m
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:D 10> [0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You need at least 834 coins to rent.'[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You will be able to rent for 368 days.'[0m
+[0m#10 SECONDS TO TICK![0m
+
+You are not a member of a group.
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m14671879X 57.91% 3221C [38;5;34m[Pos:standing][0m[0;37m [Att:71.39%] [0;37mMem:2 Exits:D 10> [0m#SESSION 'a' ACTIVATED.[0m
+[0;37mrent[0m
+[33m[1m               a bright ball of light : 0 coins/day
+[0;37m[33m[1m                         an iron mace : 110 coins/day
+[0;37m[33m[1m              a gleaming silver medal : 0 coins/day
+[0;37m[33m          a piece of sweet bread [31] : 0 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m           a pair of albino bat wings : 2 coins/day
+[0;37m[32m                    some cat whiskers : 3 coins/day
+[0;37m[32m               a pinch of golden dust : 160 coins/day
+[0;37m[32m           a piece of royal honeycomb : 1 coin/day
+[0;37m[32m       a patch of phosphorescent moss : 2 coins/day
+[0;37m[32m                         a cat's-tail : 1 coin/day
+[0;37m[32m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[32m                 a sprig of spearmint : 3 coins/day
+[0;37m[32m            a deep violet dragon tear : 2 coins/day
+[0;37m[32m                 a vial of golden sap : 3 coins/day
+[0;37m[32m                a dead gypsy moth [2] : 4 coins/day
+[0;37m[32m            a splintered demon's horn : 3 coins/day
+[0;37m[32m          an adder's tongue fern leaf : 3 coins/day
+[0;37m[32m              a miniature golden lyre : 2 coins/day
+[0;37m[32m            a deadly scorpion stinger : 1 coin/day
+[0;37m[32m                  a hand-held sundial : 2 coins/day
+[0;37m[32m                   some cracked amber : 1 coin/day
+[0;37m[32m           a newly spun chrysalis [2] : 4 coins/day
+[0;37m[32m             a small blue-green agate : 2 coins/day
+[0;37m[32m               a small flask of smoke : 3 coins/day
+[0;37m[32m                  a magnetized needle : 2 coins/day
+[0;37m[32m     some translucent crystal marbles : 2 coins/day
+[0;37m[32m                         a bone flute : 3 coins/day
+[0;37m[32m                   a stick of incense : 1 coin/day
+[0;37m[32m             a smooth blank runestone : 1 coin/day
+[0;37m[32m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[32m                     some rose petals : 2 coins/day
+[0;37m[32m                      a golden nugget : 2 coins/day
+[0;37m[32m                a deformed crow's leg : 2 coins/day
+[0;37m[32m       a small chunk of licorice root : 1 coin/day
+[0;37m[32m                          an owl beak : 2 coins/day
+[0;37m[32m                    a red silk ribbon : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m   a small silver sea serpent's scale : 2 coins/day
+[0;37m[32m                    a vial of vinegar : 2 coins/day
+[0;37m[32m        a few glittering snake scales : 2 coins/day
+[0;37m[32ma small pink and red swirled conch shell : 2 coins/day
+[0;37m[32m                some broken eggshells : 1 coin/day
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0;37mThe receptionist tells you 'You need at least 345 coins to rent.'
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+The receptionist tells you 'You will be able to rent for 1603 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+5) Create new character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

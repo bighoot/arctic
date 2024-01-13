@@ -1,4 +1,32 @@
 --------------------------
+Hestaby		
+0th																					439hp at 30
+1st		+2 to con	+1 to wis	Str: 18 Int: 17 Wis: 18 Dex: 13 Con: 19 Cha: 16		471hp at 30
+2nd		+2 to con	+1 to wis	Str: 19 Int: 16 Wis: 18 Dex: 13 Con: 19 Cha: 17		484hp at 30
+
+
+--------------------------
+Aina		
+0th								Str: 11 Int: 23 Wis: 17 Dex: 17 Con: 13 Cha: 16		338hp at 30
+1st		+2 to con				Str: 12 Int: 22 Wis: 17 Dex: 20 Con: 11 Cha: 15		366hp at 30
+2nd		+2 to con				Str: 13 Int: 22 Wis: 18 Dex: 19 Con: 12 Cha: 16		385hp at 30
+
+
+--------------------------
+Qem Dawnbringer, Vanguard of the Truth Seeker
+ Hylar Dwarf Paladin
+0th
+1st		+2 to con				Str: 19 Int: 11 Wis: 16 Dex: 11 Con: 21 Cha: 15		659hp at 30
+2nd		+2 to con				Str: 19 Int: 11 Wis: 16 Dex: 11 Con: 23 Cha: 15		709hp at 30
+3rd		+2 to con				Str: 20 Int: 12 Wis: 16 Dex: 11 Con: 22 Cha: 15				
+
+
+
+
+
+
+
+--------------------------
 Caimbeul   	523hp at 30?
 
 1st
@@ -7,12 +35,14 @@ Caimbeul   	523hp at 30?
 Str: 18 Int: 13 Wis: 15 Dex: 19 Con: 20 Cha: 17   <- does not include +2 to con from reincarnation
 
 
---------------------------
-Hestaby		
-0th																					439hp at 30
-1st		+2 to con	+1 to wis	Str: 18 Int: 17 Wis: 18 Dex: 13 Con: 19 Cha: 16		471hp at 30
-2nd		+2 to con	+1 to wis	Str: 19 Int: 16 Wis: 18 Dex: 13 Con: 19 Cha: 17		484hp at 30
 
+
+
+--------------------------
+Arar
+0th								Str: 23 Int: 14 Wis: 16 Dex: 13 Con: 20 Cha: 18		611hp at 30
+1st		+2 to con	+1 to str	Str: 23 Int: 14 Wis: 17 Dex: 13 Con: 20 Cha: 18
+	
 
 
 Richter
@@ -25,11 +55,7 @@ Pancho
 
 Lefty
 
---------------------------
-Aina		
-0th			338hp at 30
-Str: 11 Int: 23 Wis: 17 Dex: 17 Con: 13 Cha: 16
-Str: 12 Int: 22 Wis: 17 Dex: 20 Con: 11 Cha: 15
+
 
 --------------------------
 Glasgian	
@@ -37,14 +63,23 @@ Glasgian
 Str: 17 Int: 13 Wis: 12 Dex: 18 Con: 20 Cha: 19
 Str: 23 Int: 14 Wis: 14 Dex: 14 Con: 20 Cha: 17
 
---------------------------
-Qem Dawnbringer, Vanguard of the Truth Seekers
- Hylar Dwarf Paladin
+
  
- --------------------------
+--------------------------
 Zad Sunguard, Light of the Morning
  Kagonesti Shaman
+
+--------------------------
+Selaph
+ Irda Druid
+ 0th
  
+Ramiel
+ Irda Thief
+ 0th
+ 
+
+
 --------------------------
 Malsumis
  Half-Ogre Dark Knight

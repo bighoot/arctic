@@ -1,0 +1,2991 @@
+[0m#LOG: LOGGING OUTPUT TO 'steamus.txt' FILESIZE: 0[0m
+
+Bennet flies west.
+Deni flies west.
+You follow Deni west.
+Angus flies in from the east.
+Arik flies in from the east.
+Arb flies in from the east.
+[36mWithin the River Vingaard[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+A slender, brown trout swims up current seeking food.
+A slender, brown trout swims up current seeking food.
+[0;37m
+[32m[0;37m[32m369H [0;37m[33m[1m113V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:21 Exits:EWU> 
+Bennet flies west.
+Deni flies west.
+You follow Deni west.
+Angus flies in from the east.
+Arik flies in from the east.
+Arb flies in from the east.
+[36mSwimming With the Fishes[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+A large river sturgeon swims in the deep waters.
+A slender, brown trout swims up current seeking food.
+[0;37m
+[32m[0;37m[32m369H [0;37m[33m[1m112V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:21 Exits:EW> 
+Bennet flies west.
+Deni flies west.
+You follow Deni west.
+Angus flies in from the east.
+Arik flies in from the east.
+Arb flies in from the east.
+[36mDeep Within the Pool[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+A slender, brown trout swims up current seeking food.
+[0;37m
+[32m[0;37m[32m369H [0;37m[33m[1m111V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:21 Exits:EW> 
+Bennet flies west.
+Deni flies west.
+You follow Deni west.
+Angus flies in from the east.
+Arik flies in from the east.
+Arb flies in from the east.
+[36mDeep River Reach[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+A large river sturgeon swims in the deep waters.
+A bald goblin swims amongst the river currents. (black aura)
+[0;37mA goblin spiritualist utters some strange words.
+A goblin spiritualist misses Arik with her hit.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:20 Exits:E> 
+Arb slowly fades into existence.
+Arb cleaves a goblin spiritualist extremely hard.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:20 Exits:E> 
+A large river sturgeon leaves east.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:19 Exits:E> 
+Bennet heroically rescues Arik.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:18 Exits:E> 
+Deni crushes a goblin spiritualist very hard.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:17 Exits:E> 
+Deni crushes a goblin spiritualist very hard.
+A goblin spiritualist misses Bennet with her hit.
+Bennet MASSACREs a goblin spiritualist with his pierce.
+Arb cleaves a goblin spiritualist very hard.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:16 Exits:E> [0;37mjack goblin[0m
+
+Angus crashes into a goblin spiritualist in a thundering collision, knocking her to the ground!
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [**a goblin spiritualist:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:15 Exits:E> [0m[1;32;49m** IN THE FACE!!!
+[0;1;32;49m**[0m
+
+Arb lets out a mighty yell and fights like crazy!
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [**a goblin spiritualist:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:15 Exits:E> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [**a goblin spiritualist:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:14 Exits:E> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m269702X 12.76% 14216C [Att:0.00%] [**Angus:[0;37m[33m[1mFair[0;37m**] [**a goblin spiritualist:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:14 Exits:E> 
+You **ANNIHILATE** a goblin spiritualist with your crush.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m268904X 12.76% 14216C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a goblin spiritualist:[0;37m[33m[1mBad[0;37m] [0;37mMem:1 T:14 Exits:E> 
+You stop watching Angus.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m268904X 12.76% 14216C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a goblin spiritualist:[0;37m[33m[1mBad[0;37m] [0;37mMem:1 T:14 Exits:E> 
+A large river sturgeon arrives from the east.
+Arik MASSACREs a goblin spiritualist with her crush.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m268904X 12.76% 14216C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a goblin spiritualist:[0;37m[33m[1mBad[0;37m] [0;37mMem:1 T:13 Exits:E> 
+Arik MASSACREs a goblin spiritualist with her crush.
+Arik MASSACREs a goblin spiritualist with her pierce.
+You **ANNIHILATE** a goblin spiritualist with your crush.
+[38;5;127mYou feel especially skillful today.[0m
+Angus stabs a goblin spiritualist extremely hard.
+Deni MASSACREs a goblin spiritualist with her crush.
+A goblin spiritualist misses Bennet with her hit.
+Bennet **ANNIHILATE**s a goblin spiritualist with his pierce.
+You receive 34831 experience.
+A goblin spiritualist is dead! R.I.P.
+The death cry of a goblin spiritualist echoes from somewhere nearby...
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:12 Exits:E> [0m[1;34;49mFOLLOWER GAINED XP: 5825[0m
+
+Arb gets a pile of coins from the corpse of a goblin spiritualist.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:11 Exits:E> 
+You are not fighting anyone.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:9 Exits:E> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:9 Exits:E> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:9 Exits:E> 
+You can't find whatever you're trying to put into a plain component pouch.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:8 Exits:E> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:8 Exits:E> 
+corpse (here) : 
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:8 Exits:E> 
+Bennet halts his group.
+You take a deep breath and end your march.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:5 Exits:E> 
+Bennet utters some strange words.
+
+[32m[0;37m[32m369H [0;37m[33m[1m110V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:1 Exits:E> 
+Bennet closes his prayerbook with a content look on his face.
+Your meditation finished, you put away your charms with a smile.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mT:60 Exits:E> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+Arb utters the words, 'ancestral shroud'.
+Arb's skin shimmers for a moment.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mT:58 Exits:E> 
+Bennet utters some strange words.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mT:57 Exits:E> [0;37mcast 'ghost ber'[0m
+You utter the words, 'ghost berries'
+You summon some ghost berries.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:55 Exits:E> 
+Arb focuses on Arik and utters the words, 'ancestral shroud'.
+Arik's skin shimmers for a moment.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:54 Exits:E> 
+Deni utters some strange words.
+You feel stronger.
+You feel smoother.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:52 Exits:E> [0;37mgive berry angus[0m
+You give an ethereal ghost berry to Angus.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:50 Exits:E> [0;37mboth eat berry[0m
+You eat an ethereal ghost berry.
+There is nothing left now.
+You feel satiated.
+But he looks fine!
+You feel a very slight tingling sensation.
+You feel less tired.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:50 Exits:E> 
+Angus's stomach stops growling.
+A few of Angus's nastier scrapes disappear.
+Angus appears rejuvenated.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:50 Exits:E> [0;37ml[0m
+[36mDeep River Reach[0;37m
+[33m[1mThe corpse of a goblin spiritualist is lying here.
+[0;37m[31m[1mA large river sturgeon swims in the deep waters.
+<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:49 Exits:E> 
+Deni whispers words toward the heavens.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:44 Exits:E> 
+A large river sturgeon arrives from the east.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:37 Exits:E> 
+[36mBennet tells your group 'enter crevice after me'
+[0;37m
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:35 Exits:E> 
+Bennet suddenly dissapears during his search of the crevice.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:33 Exits:E> [0;37mnod[0m
+You nod solemnly.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:33 Exits:E> 
+Deni suddenly dissapears during his search of the crevice.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:30 Exits:E> 
+Arb suddenly dissapears during his search of the crevice.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:28 Exits:E> [0;37mdocommand enter crevice[0m
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:27 Exits:E> 
+Angus suddenly dissapears during his search of the crevice.
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:26 Exits:E> 
+You force yourself between the crack in the rocks.
+[36mA Subterranean Cavern[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Bennet the Male Dargonesti is standing here, fighting a diabolic cavern mutant. (flying) (white aura)
+A diabolic cavern mutant is standing here, fighting Bennet. (black aura)
+[0;37m
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:26 Exits:N> 
+You hear Arik gasping for breath, emerging from the pool.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:26 Exits:N> 
+Bennet utters some strange words.
+Oro the bronze dragon now follows Bennet.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:26 Exits:N> 
+Arik MASSACREs a diabolic cavern mutant with her crush.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:25 Exits:N> 
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arik pierces a diabolic cavern mutant very hard.
+A diabolic cavern mutant MASSACREs Bennet with its claw.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:24 Exits:N> [0;37mfight[0m
+
+Angus stabs a diabolic cavern mutant very hard.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:23 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:22 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:22 Exits:N> 
+You now watch Angus.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:22 Exits:N> 
+Bennet gives Oro the bronze dragon an order.
+Oro the bronze dragon spreads his wings and begins to fly.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:22 Exits:N> 
+Bennet gives Oro the bronze dragon an order.
+Oro the bronze dragon hits a diabolic cavern mutant.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:21 Exits:N> 
+Arik utters some strange words.
+Kiran the fearsome blue dragon now follows Arik.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:21 Exits:N> 
+Oro the bronze dragon misses a diabolic cavern mutant with his hit.
+Angus stabs a diabolic cavern mutant very hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arik pierces a diabolic cavern mutant very hard.
+A diabolic cavern mutant misses Bennet with its claw.
+Bennet MASSACREs a diabolic cavern mutant with his pierce.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:20 Exits:N> 
+Arik gives Kiran the fearsome blue dragon an order.
+Kiran the fearsome blue dragon claws a diabolic cavern mutant hard.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m**] [0;37mMem:1 T:20 Exits:N> 
+Angus gives out a mighty war cry!
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m**] [0;37mMem:1 T:19 Exits:N> 
+Kiran the fearsome blue dragon claws a diabolic cavern mutant very hard.
+Oro the bronze dragon barely hits a diabolic cavern mutant.
+Angus stabs a diabolic cavern mutant hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+A diabolic cavern mutant staggers as the monstrous mace of Hiddukel smashes into its skull.
+A diabolic cavern mutant grabs its head in pain and its eyes glaze over.
+Arik pierces a diabolic cavern mutant very hard.
+A diabolic cavern mutant misses Bennet with its claw.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m**] [0;37mMem:1 T:16 Exits:N> 
+Deni utters some strange words.
+Deni waves her hand, and the demon Marilith appears!
+The demon Marilith now follows Deni.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m**] [0;37mMem:1 T:16 Exits:N> 
+Arb slowly fades into existence.
+Arb cleaves a diabolic cavern mutant very hard.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m232960X 12.84% 14216C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m**] [0;37mMem:1 T:15 Exits:N> [0;37mass[0m
+You attempt to assist Arik.
+You **ANNIHILATE** a diabolic cavern mutant with your crush.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m231888X 12.84% 14216C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:15 Exits:N> 
+You stop watching Angus.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m231888X 12.84% 14216C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:15 Exits:N> 
+A diabolic cavern mutant seems a bit lost.
+You **ANNIHILATE** a diabolic cavern mutant with your crush.
+Arb cleaves a diabolic cavern mutant very hard.
+Kiran the fearsome blue dragon claws a diabolic cavern mutant very hard.
+Oro the bronze dragon hits a diabolic cavern mutant very hard.
+Angus stabs a diabolic cavern mutant extremely hard.
+Arik crushes a diabolic cavern mutant extremely hard.
+You receive 60238 experience.
+A diabolic cavern mutant is dead! R.I.P.
+The death cry of a diabolic cavern mutant echoes from somewhere nearby...
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:12 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 12214[0m
+
+Arik gets a large pile of coins from the corpse of a diabolic cavern mutant.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:12 Exits:N> 
+Deni gives the demon Marilith an order.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:11 Exits:N> 
+Deni gives the demon Marilith an order.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:10 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:10 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:10 Exits:N> 
+You can't find whatever you're trying to put into a plain component pouch.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:9 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:9 Exits:N> [0;37mghost me[0m
+corpse (here) : 
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:9 Exits:N> 
+Deni gives the demon Marilith an order.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:9 Exits:N> 
+Huh?!
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:9 Exits:N> 
+Deni gives the demon Marilith an order.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14216C [Att:0.00%] [0;37mMem:1 T:8 Exits:N> 
+Arik divides 180 coins equally among the group members present.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:1 T:7 Exits:N> 
+Deni gives the demon Marilith an order.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:1 T:7 Exits:N> [0;37mshaman[0m
+[0;37mghost me[0m
+You utter the words, 'ghostskin'
+Your skin takes a ghostly hue.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:2 T:4 Exits:N> 
+Bennet begins resting but stays aloft.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:2 T:2 Exits:N> 
+Deni closes her prayerbook with a content look on her face.
+Bennet closes his prayerbook with a content look on his face.
+Arb smiles as she finishes her meditation.
+An ethereal ghost berry decays in your hands.
+An ethereal ghost berry decays in your hands.
+An ethereal ghost berry decays in your hands.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:1 T:60 Exits:N> [0;37mghost angus[0m
+You utter the words, 'ghostskin'
+Angus's skin takes a ghostly hue.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:1 T:60 Exits:N> 
+-#-#-#-#-#-#-#-> Bennet <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:1 T:59 Exits:N> 
+Deni begins resting but stays aloft.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:1 T:55 Exits:N> 
+Bennet flies north.
+Oro the bronze dragon flies north.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:1 T:54 Exits:N> 
+-#-#-#-#-#-#-#-> Deni <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m170688X 12.84% 14246C [Att:0.00%] [0;37mMem:1 T:50 Exits:N> 
+Deni flies north.
+The demon Marilith leaves north.
+You follow Deni north.
+Angus flies in from the south.
+Arik flies in from the south.
+Kiran the fearsome blue dragon arrives from the south.
+Arb flies in from the south.
+[36mCavern Ledge[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, fighting a diabolic cavern mutant. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here, fighting a diabolic cavern mutant. (flying) (white aura)
+A diabolic cavern mutant is standing here, fighting Bennet. (black aura)
+A diabolic cavern mutant is standing here, fighting Bennet. (black aura)
+[0;37mA diabolic cavern mutant is hit by Oro the bronze dragon's lightning breath.
+A diabolic cavern mutant lashes out with a slimy tentacle (5d2 hr-3 dr2 w12) at Deni.
+A diabolic cavern mutant conjures a writhing mass of inky black tentacles!
+Arb grunts in agony as inky black tentacles smack her.
+Kiran the fearsome blue dragon grunts in agony as inky black tentacles smack him.
+Arik grunts in agony as inky black tentacles smack her.
+Angus grunts in agony as inky black tentacles smack him.
+You grunt in agony as inky black tentacles smack you.
+You manage to slip away from the tentacles.
+The demon Marilith grunts in agony as inky black tentacles smack it.
+Deni appears to grow stronger.
+Deni narrowly escapes the gruesome black tentacles!
+Oro the bronze dragon appears to grow stronger.
+Oro the bronze dragon narrowly escapes the gruesome black tentacles!
+Bennet grunts in agony as inky black tentacles smack him.
+
+[32m[0;37m[32m357H [0;37m[32m169V [0;37m170688X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[32mV.Good[0;37m] [0;37mMem:1 T:50 Exits:NSW> 
+Arb screams in pain as she is constricted by inky black tentacles.
+Deni MASSACREs a diabolic cavern mutant with her crush.
+The demon Marilith slashes a diabolic cavern mutant extremely hard.
+The demon Marilith pierces a diabolic cavern mutant extremely hard.
+You MASSACRE a diabolic cavern mutant with your crush.
+Angus stabs a diabolic cavern mutant hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+A diabolic cavern mutant stumbles as the monstrous mace of Hiddukel smashes into its skull.
+Arik pierces a diabolic cavern mutant extremely hard.
+Kiran the fearsome blue dragon claws a diabolic cavern mutant hard.
+Kiran the fearsome blue dragon claws a diabolic cavern mutant hard.
+A diabolic cavern mutant **OBLITERATE**s Bennet with its claw.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant **ANNIHILATE**s Bennet with its claw.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+Oro the bronze dragon barely hits a diabolic cavern mutant.
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m357H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:48 Exits:NSW> [0;37mregen bennet[0m
+[1;35;49m *******>>> BONUS CAST <<<*******
+You utter the words, 'regenerate'
+Bennet's wounds begin to heal.
+
+[32m[0;37m[32m357H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:46 Exits:NSW> 
+The demon Marilith utters some strange words.
+A darkness seems to flow within the demon Marilith.
+The mist tingles against your skin.
+Arb screams in pain as she is constricted by inky black tentacles.
+Deni **ANNIHILATE**s a diabolic cavern mutant with her crush.
+The demon Marilith misses a diabolic cavern mutant with its slash.
+The demon Marilith misses a diabolic cavern mutant with its pierce.
+Angus stabs a diabolic cavern mutant extremely hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arik pierces a diabolic cavern mutant extremely hard.
+Kiran the fearsome blue dragon claws a diabolic cavern mutant hard.
+Kiran the fearsome blue dragon claws a diabolic cavern mutant very hard.
+A diabolic cavern mutant **ANNIHILATE**s Bennet with its claw.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+Bennet gracefully steps aside as a diabolic cavern mutant attacks!
+A diabolic cavern mutant stumbles and accidentally attacks a diabolic cavern mutant!
+A diabolic cavern mutant **OBLITERATE**s a diabolic cavern mutant with its claw.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+Bennet's attack meticulously opens up a diabolic cavern mutant's defenses
+for a second, more devastating, attack.
+Bennet jams his spear into a diabolic cavern mutant delivering a hellish wound.
+Oro the bronze dragon hits a diabolic cavern mutant hard.
+Oro the bronze dragon barely hits a diabolic cavern mutant.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:44 Exits:NSW> [0;37mfight[0m
+
+Arb attempts to break free of the black tentacles, but fails!
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:43 Exits:NSW> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:43 Exits:NSW> 
+A diabolic cavern mutant is hit by Kiran the fearsome blue dragon's lightning breath.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:43 Exits:NSW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:41 Exits:NSW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:41 Exits:NSW> 
+Bennet yells and leaps into the fray.
+You fight much faster.
+You fight with more precision.
+You fight with more accuracy.
+You now watch Angus.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:41 Exits:NSW> 
+You stop watching Angus.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m169891X 12.84% 14246C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:41 Exits:NSW> 
+Arb screams in pain as she is constricted by inky black tentacles.
+A diabolic cavern mutant misses Bennet with its claw.
+Deni MASSACREs a diabolic cavern mutant with her crush.
+The demon Marilith misses a diabolic cavern mutant with its slash.
+The demon Marilith misses a diabolic cavern mutant with its pierce.
+The demon Marilith misses a diabolic cavern mutant with its slash.
+You MASSACRE a diabolic cavern mutant with your crush.
+You **ANNIHILATE** a diabolic cavern mutant with your crush.
+You receive 60302 experience.
+A diabolic cavern mutant is dead! R.I.P.
+A diabolic cavern mutant **ANNIHILATE**s Bennet with its claw.
+Oro the bronze dragon hits a diabolic cavern mutant.
+The death cry of a diabolic cavern mutant echoes from somewhere nearby...
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14246C [Att:0.00%] [0;37mMem:1 T:40 Exits:NSW> [0m[1;34;49mFOLLOWER GAINED XP: 61145[0m
+
+You get a large pile of coins from the corpse of a diabolic cavern mutant.
+There were 226 coins.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14472C [Att:0.00%] [0;37mMem:1 T:40 Exits:NSW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14472C [Att:0.00%] [0;37mMem:1 T:40 Exits:NSW> 
+You can't find whatever you're trying to put into a plain component pouch.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14472C [Att:0.00%] [0;37mMem:1 T:40 Exits:NSW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14472C [Att:0.00%] [0;37mMem:1 T:40 Exits:NSW> 
+corpse (here) : 
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14472C [Att:0.00%] [0;37mMem:1 T:39 Exits:NSW> 
+You can't split 226 evenly among the people in the room; splitting 222 instead.
+You divide 222 coins equally among the group members present.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [0;37mMem:1 T:39 Exits:NSW> 
+Arb slowly fades into existence.
+Arb cleaves a diabolic cavern mutant very hard.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [0;37mMem:1 T:39 Exits:NSW> [0;37mfight[0m
+
+Angus stabs a diabolic cavern mutant extremely hard.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [0;37mMem:1 T:38 Exits:NSW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [0;37mMem:1 T:38 Exits:NSW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [0;37mMem:1 T:37 Exits:NSW> 
+You now watch Angus.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:37 Exits:NSW> 
+Angus MASSACREs a diabolic cavern mutant with his stab.
+Angus stabs a diabolic cavern mutant extremely hard.
+Arb cleaves a diabolic cavern mutant extremely hard.
+A diabolic cavern mutant flesh crawls as Arb's axe drains it.
+Arb cleaves a diabolic cavern mutant very hard.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant MASSACREs Bennet with its claw.
+Oro the bronze dragon hits a diabolic cavern mutant hard.
+Oro the bronze dragon hits a diabolic cavern mutant.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m**] [0;37mMem:1 T:36 Exits:NSW> 
+Deni gives the demon Marilith an order.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m**] [0;37mMem:1 T:35 Exits:NSW> 
+A diabolic cavern mutant lashes out with a slimy tentacle (5d2 hr-3 dr2 w12) at Arb.
+A diabolic cavern mutant conjures a writhing mass of inky black tentacles!
+Arb grunts in agony as inky black tentacles smack her.
+Kiran the fearsome blue dragon grunts in agony as inky black tentacles smack him.
+Arik grunts in agony as inky black tentacles smack her.
+Angus grunts in agony as inky black tentacles smack him.
+You grunt in agony as inky black tentacles smack you.
+You manage to slip away from the tentacles.
+The demon Marilith grunts in agony as inky black tentacles smack it.
+Deni appears to grow stronger.
+Deni narrowly escapes the gruesome black tentacles!
+Oro the bronze dragon appears to grow stronger.
+Oro the bronze dragon narrowly escapes the gruesome black tentacles!
+Bennet grunts in agony as inky black tentacles smack him.
+
+[32m[0;37m[32m356H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m] [0;37mMem:1 T:33 Exits:NSW> 
+You stop watching Angus.
+
+[32m[0;37m[32m356H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m] [0;37mMem:1 T:33 Exits:NSW> 
+Arb attempts to break free of the black tentacles, but fails!
+
+[32m[0;37m[32m356H [0;37m[32m169V [0;37m107995X 12.84% 14287C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m] [0;37mMem:1 T:33 Exits:NSW> 
+The mist tingles against your skin.
+The demon Marilith screams in pain as it is constricted by inky black tentacles.
+Kiran the fearsome blue dragon screams in pain as he is constricted by inky black tentacles.
+Arb screams in pain as she is constricted by inky black tentacles.
+Bennet screams in pain as he is constricted by inky black tentacles.
+Deni MASSACREs a diabolic cavern mutant with her crush.
+You MASSACRE a diabolic cavern mutant with your crush.
+You **ANNIHILATE** a diabolic cavern mutant with your crush.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+A diabolic cavern mutant stumbles as the monstrous mace of Hiddukel smashes into its skull.
+Arik MASSACREs a diabolic cavern mutant with her pierce.
+Angus stabs a diabolic cavern mutant very hard.
+Angus stabs a diabolic cavern mutant extremely hard.
+A diabolic cavern mutant **ANNIHILATE**s Bennet with its claw.
+Oro the bronze dragon barely hits a diabolic cavern mutant.
+Oro the bronze dragon hits a diabolic cavern mutant.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m106235X 12.84% 14287C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:32 Exits:NSW> 
+Deni gives the demon Marilith an order.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m106235X 12.84% 14287C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:32 Exits:NSW> 
+Arb attempts to break free of the black tentacles, but fails!
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m106235X 12.84% 14287C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:30 Exits:NSW> 
+The demon Marilith screams in pain as it is constricted by inky black tentacles.
+Kiran the fearsome blue dragon screams in pain as he is constricted by inky black tentacles.
+Arb screams in pain as she is constricted by inky black tentacles.
+Bennet screams in pain as he is constricted by inky black tentacles.
+Deni MASSACREs a diabolic cavern mutant with her crush.
+You **ANNIHILATE** a diabolic cavern mutant with your crush.
+You receive 59875 experience.
+A diabolic cavern mutant is dead! R.I.P.
+[38;5;127mYou feel especially skillful today.[0m
+The death cry of a diabolic cavern mutant echoes from somewhere nearby...
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14287C [Att:0.00%] [0;37mMem:1 T:28 Exits:NSW> [0m[1;34;49mFOLLOWER GAINED XP: 12141[0m
+
+[36mBennet tells your group '********REGEN DOWN ************'
+[0;37m
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14287C [Att:0.00%] [0;37mMem:1 T:28 Exits:NSW> 
+You get a large pile of coins from the corpse of a diabolic cavern mutant.
+There were 117 coins.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14404C [Att:0.00%] [0;37mMem:1 T:28 Exits:NSW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14404C [Att:0.00%] [0;37mMem:1 T:28 Exits:NSW> 
+You can't find whatever you're trying to put into a plain component pouch.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14404C [Att:0.00%] [0;37mMem:1 T:28 Exits:NSW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14404C [Att:0.00%] [0;37mMem:1 T:28 Exits:NSW> [0;37mgroup[0m
+corpse (here) : 
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14404C [Att:0.00%] [0;37mMem:1 T:27 Exits:NSW> 
+You can't split 117 evenly among the people in the room; splitting 114 instead.
+You divide 114 coins equally among the group members present.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:27 Exits:NSW> 
+Your group of 6 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  [0;37m[32mPA Bennet           v.good   [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [32m   1   [0;37m 0
+  [0;37m[32mCL Deni             perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [31m  N [32m  Y  [31m   0   [0;37m 1
+  [0;37m[32mSH Alea             perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [31m  N [32m  Y  [32m   1   [0;37m 1
+  [0;37m[32mWA Angus            perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [31m   0   [0;37m 0
+  [0;37m[32mDA Arik             perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [31m   0   [0;37m 0
+  [0;37m[32mSH Arb              v.good   [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [32m   1   [0;37m 0
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:27 Exits:NSW> [0;37ml[0m
+[36mCavern Ledge[0;37m
+[33m[1mThe corpse of a diabolic cavern mutant is lying here. [2]
+A sparkling mist fills the area. [2]
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+. . . is overwhelmed by inky black tentacles.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+. . . is overwhelmed by inky black tentacles.
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:26 Exits:NSW> 
+Arb falls into a trance and begins moaning.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:25 Exits:NSW> 
+Arb utters the words, 'sublime resistance'.
+Arb shudders slightly and begins to shine from within.
+Kiran the fearsome blue dragon shudders slightly and begins to shine from within.
+Arik shudders slightly and begins to shine from within.
+Angus shudders slightly and begins to shine from within.
+You shudder slightly and begin to shine from within.
+The demon Marilith shudders slightly and begins to shine from within.
+Deni shudders slightly and begins to shine from within.
+Oro the bronze dragon shudders slightly and begins to shine from within.
+Bennet shudders slightly and begins to shine from within.
+
+[32m[0;37m[32m369H [0;37m[32m169V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:23 Exits:NSW> 
+Bennet flies south.
+Oro the bronze dragon flies south.
+Deni flies south.
+The demon Marilith attempts to break free of the black tentacles, but fails!
+You follow Deni south.
+Angus flies in from the north.
+Arik flies in from the north.
+Arb flies in from the north.
+[36mA Subterranean Cavern[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+The corpse of a diabolic cavern mutant is lying here.
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m369H [0;37m[32m167V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:21 Exits:N> 
+Bennet flies north.
+Oro the bronze dragon flies north.
+Deni flies north.
+You follow Deni north.
+Angus flies in from the south.
+Arik flies in from the south.
+Arb flies in from the south.
+[36mCavern Ledge[0;37m
+[33m[1mThe corpse of a diabolic cavern mutant is lying here. [2]
+A sparkling mist fills the area. [2]
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+. . . is overwhelmed by inky black tentacles.
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+. . . is overwhelmed by inky black tentacles.
+[0;37m
+[32m[0;37m[32m369H [0;37m[32m165V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:18 Exits:NSW> 
+Deni begins resting but stays aloft.
+
+[32m[0;37m[32m369H [0;37m[32m165V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:15 Exits:NSW> 
+Bennet flies north.
+Oro the bronze dragon flies north.
+
+[32m[0;37m[32m369H [0;37m[32m165V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:14 Exits:NSW> 
+-#-#-#-#-#-#-#-> Deni <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m369H [0;37m[32m165V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:13 Exits:NSW> 
+Deni flies north.
+The demon Marilith attempts to break free of the black tentacles, but fails!
+You follow Deni north.
+Angus flies in from the south.
+Arik flies in from the south.
+Arb flies in from the south.
+[36mDamp Cavern[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m369H [0;37m[32m163V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:12 Exits:SW> 
+Deni begins resting but stays aloft.
+
+[32m[0;37m[32m369H [0;37m[32m163V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:11 Exits:SW> 
+Bennet flies west.
+Oro the bronze dragon flies west.
+
+[32m[0;37m[32m369H [0;37m[32m163V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:10 Exits:SW> 
+-#-#-#-#-#-#-#-> Deni <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m369H [0;37m[32m163V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:9 Exits:SW> 
+Deni flies west.
+You follow Deni west.
+Angus flies in from the east.
+Arik flies in from the east.
+Arb flies in from the east.
+[36mA Secluded Corner[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here, fighting a diabolic cavern mutant. (flying) (white aura)
+A diabolic cavern mutant is standing here, fighting Bennet. (black aura)
+[0;37m
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:8 Exits:ES> 
+Arb slowly fades into existence.
+Arb cleaves a diabolic cavern mutant very hard.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:7 Exits:ES> 
+Deni MASSACREs a diabolic cavern mutant with her crush.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:7 Exits:ES> [0;37mfight mutant[0m
+
+Angus stabs a diabolic cavern mutant extremely hard.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:5 Exits:ES> 
+Angus stabs a diabolic cavern mutant very hard.
+Angus stabs a diabolic cavern mutant extremely hard.
+Deni MASSACREs a diabolic cavern mutant with her crush.
+Arb MASSACREs a diabolic cavern mutant with her cleave.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Bennet deflects part of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant MASSACREs Bennet with its claw.
+Bennet MASSACREs a diabolic cavern mutant with his pierce.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:4 Exits:ES> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:4 Exits:ES> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:4 Exits:ES> 
+Arik MASSACREs a diabolic cavern mutant with her crush.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [0;37mMem:1 T:4 Exits:ES> 
+You now watch Angus.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:4 Exits:ES> 
+A diabolic cavern mutant arrives from the south.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:2 Exits:ES> 
+Arb lets out a mighty yell and fights like crazy!
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:2 Exits:ES> 
+Bennet focuses his purity on a diabolic cavern mutant's leg!
+Bennet focuses on a diabolic cavern mutant's legs, but is thwarted.
+Bennet faith burns a diabolic cavern mutant.
+
+[32m[0;37m[32m369H [0;37m[32m161V [0;37m45453X 12.84% 14309C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:2 Exits:ES> 
+The sparkling mist fades away from sight.
+Arik **ANNIHILATE**s a diabolic cavern mutant with her crush.
+Arik pierces a diabolic cavern mutant extremely hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Angus stabs a diabolic cavern mutant extremely hard.
+Angus stabs a diabolic cavern mutant extremely hard.
+Deni MASSACREs a diabolic cavern mutant with her crush.
+Arb MASSACREs a diabolic cavern mutant with her cleave.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant MASSACREs Bennet with its claw.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+Deni closes her prayerbook with a content look on her face.
+Your meditation finished, you put away your charms with a smile.
+An ethereal ghost berry decays in your hands.
+An ethereal ghost berry decays in your hands.
+Angus gives out a mighty war cry!
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m45453X 12.84% 14309C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m**] [0;37mT:60 Exits:ES> 
+Bennet attempts to strike at a diabolic cavern mutant with his spear.
+Bennet **OBLITERATE**s a diabolic cavern mutant with his pierce.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m45453X 12.84% 14309C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m**] [0;37mT:58 Exits:ES> 
+The sparkling mist fades away from sight.
+A diabolic cavern mutant misses Bennet with its claw.
+A diabolic cavern mutant **ANNIHILATE**s Bennet with its claw.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arik pierces a diabolic cavern mutant very hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Angus stabs a diabolic cavern mutant extremely hard.
+Angus MASSACREs a diabolic cavern mutant with his stab.
+Deni MASSACREs a diabolic cavern mutant with her crush.
+Arb's mighty cleave almost cuts a diabolic cavern mutant in two.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant MASSACREs Bennet with its claw.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant claws Bennet.
+Bennet MASSACREs a diabolic cavern mutant with his pierce.
+
+[32m[0;37m[32m369H [0;37m[32m171V [0;37m45453X 12.84% 14309C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[31mAwful[0;37m**] [0;37mT:56 Exits:ES> [0m[1;31;49m-->FOLLOWER
+[0;1;31;49mSKILLFUL<--[0m
+
+A diabolic cavern mutant lashes out with a slimy tentacle (5d2 hr-3 dr2 w12) at Arb.
+A diabolic cavern mutant conjures a writhing mass of inky black tentacles!
+Arb grunts in agony as inky black tentacles smack her.
+Arik grunts in agony as inky black tentacles smack her.
+Angus grunts in agony as inky black tentacles smack him.
+You grunt in agony as inky black tentacles smack you.
+Deni appears to grow stronger.
+Deni narrowly escapes the gruesome black tentacles!
+Oro the bronze dragon appears to grow stronger.
+Oro the bronze dragon narrowly escapes the gruesome black tentacles!
+Bennet grunts in agony as inky black tentacles smack him.
+
+[32m[0;37m[32m317H [0;37m[32m171V [0;37m45453X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mT:56 Exits:ES> 
+You stop watching Angus.
+
+[32m[0;37m[32m317H [0;37m[32m171V [0;37m45453X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mT:56 Exits:ES> 
+Arik attacks a diabolic cavern mutant with lightning fast series of attacks that leaves it defenseless.
+
+[32m[0;37m[32m317H [0;37m[32m171V [0;37m45453X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mT:56 Exits:ES> 
+A diabolic cavern mutant is hit by Oro the bronze dragon's lightning breath.
+
+[32m[0;37m[32m317H [0;37m[32m171V [0;37m45453X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mT:55 Exits:ES> 
+Bennet attempts to break free of the black tentacles, but fails!
+
+[32m[0;37m[32m317H [0;37m[32m171V [0;37m45453X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mT:53 Exits:ES> 
+You scream in pain as inky black tentacles constrict you.
+Angus screams in pain as he is constricted by inky black tentacles.
+Bennet screams in pain as he is constricted by inky black tentacles.
+Oro the bronze dragon hits a diabolic cavern mutant hard.
+A diabolic cavern mutant **ANNIHILATE**s Bennet with its claw.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+A diabolic cavern mutant stumbles as the monstrous mace of Hiddukel smashes into its skull.
+Arik pierces a diabolic cavern mutant extremely hard.
+Arik crushes a diabolic cavern mutant extremely hard.
+A diabolic cavern mutant is stunned, but will likely regain consciousness again.
+Deni **OBLITERATE**s a diabolic cavern mutant with her crush.
+[38;5;37mYou raise a level![0m
+You receive 66463 experience.
+A diabolic cavern mutant is dead! R.I.P.
+The death cry of a diabolic cavern mutant echoes from somewhere nearby...
+
+[32m[0;37m[32m310H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [0;37mT:52 Exits:ES> [0m[1;34;49mFOLLOWER GAINED XP: 13478[0m
+
+The tentacles constricting you make that impossible!
+
+[32m[0;37m[32m310H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [0;37mT:52 Exits:ES> 
+The tentacles constricting you make that impossible!
+
+[32m[0;37m[32m310H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [0;37mT:52 Exits:ES> 
+The tentacles constricting you make that impossible!
+
+[32m[0;37m[32m310H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [0;37mT:52 Exits:ES> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m310H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [0;37mT:52 Exits:ES> 
+corpse (here) : 
+a pile of coins
+
+[32m[0;37m[32m310H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [0;37mT:51 Exits:ES> 
+A diabolic cavern mutant lashes out with a slimy tentacle (5d2 hr-3 dr2 w12) at Arik.
+A diabolic cavern mutant conjures a writhing mass of inky black tentacles!
+Arb grunts in agony as inky black tentacles smack her.
+Arik grunts in agony as inky black tentacles smack her.
+Angus grunts in agony as inky black tentacles smack him.
+You grunt in agony as inky black tentacles smack you.
+You manage to slip away from the tentacles.
+Deni appears to grow stronger.
+Deni narrowly escapes the gruesome black tentacles!
+Oro the bronze dragon appears to grow stronger.
+Oro the bronze dragon narrowly escapes the gruesome black tentacles!
+Bennet grunts in agony as inky black tentacles smack him.
+
+[32m[0;37m[33m[1m298H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[32mV.Good[0;37m] [0;37mT:50 Exits:ES> 
+Arik attacks a diabolic cavern mutant with lightning fast series of attacks that leaves it defenseless.
+
+[32m[0;37m[33m[1m298H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[32mV.Good[0;37m] [0;37mT:49 Exits:ES> 
+You scream in pain as inky black tentacles constrict you.
+Angus screams in pain as he is constricted by inky black tentacles.
+Bennet screams in pain as he is constricted by inky black tentacles.
+Oro the bronze dragon hits a diabolic cavern mutant.
+Oro the bronze dragon hits a diabolic cavern mutant.
+Deni MASSACREs a diabolic cavern mutant with her crush.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arik pierces a diabolic cavern mutant very hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+A diabolic cavern mutant stumbles as the monstrous mace of Hiddukel smashes into its skull.
+Arb slowly fades into existence.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Arb cleaves a diabolic cavern mutant hard.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+Bennet's attack meticulously opens up a diabolic cavern mutant's defenses
+for a second, more devastating, attack.
+Bennet jams his spear into a diabolic cavern mutant delivering a hellish wound.
+Bennet deflects part of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant claws Bennet extremely hard.
+A diabolic cavern mutant misses Bennet with its claw.
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:48 Exits:ES> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:47 Exits:ES> [0;37mcc me[0m
+The tentacles constricting you make that impossible!
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:47 Exits:ES> [0;37mfight[0m
+
+Angus attempts to break free of the black tentacles, but fails!
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:46 Exits:ES> 
+Angus attempts to break free of the black tentacles, but fails!
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:46 Exits:ES> 
+Angus attempts to break free of the black tentacles, but fails!
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:46 Exits:ES> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:45 Exits:ES> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:45 Exits:ES> 
+Arb lets out a mighty yell and fights like crazy!
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:45 Exits:ES> 
+The tentacles constricting you make that impossible!
+
+[32m[0;37m[33m[1m293H [0;37m[32m171V [0;37m23978990X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m] [0;37mT:45 Exits:ES> 
+The mist tingles against your skin.
+You scream in pain as inky black tentacles constrict you.
+The tentacles constricting you weaken and drop away.
+Angus screams in pain as he is constricted by inky black tentacles.
+Oro the bronze dragon hits a diabolic cavern mutant hard.
+Deni crushes a diabolic cavern mutant extremely hard.
+You **ANNIHILATE** a diabolic cavern mutant with your crush.
+You MASSACRE a diabolic cavern mutant with your crush.
+[38;5;127mYou feel especially skillful today.[0m
+Angus stabs a diabolic cavern mutant very hard.
+Angus stabs a diabolic cavern mutant extremely hard.
+Arik crushes a diabolic cavern mutant very hard.
+Arik pierces a diabolic cavern mutant very hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arb's mighty cleave almost cuts a diabolic cavern mutant in two.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Bennet MASSACREs a diabolic cavern mutant with his pierce.
+Bennet blocks a diabolic cavern mutant's blow with a quick raise of his shield.
+
+[32m[0;37m[32m346H [0;37m[32m171V [0;37m23977313X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:44 Exits:ES> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m346H [0;37m[32m171V [0;37m23977313X 12.84% 14309C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:43 Exits:ES> 
+The mist tingles against your skin.
+Oro the bronze dragon hits a diabolic cavern mutant.
+Deni **ANNIHILATE**s a diabolic cavern mutant with her crush.
+You MASSACRE a diabolic cavern mutant with your crush.
+You MASSACRE a diabolic cavern mutant with your crush.
+Angus stabs a diabolic cavern mutant extremely hard.
+Angus stabs a diabolic cavern mutant very hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arik MASSACREs a diabolic cavern mutant with her pierce.
+Arik crushes a diabolic cavern mutant extremely hard.
+Arb MASSACREs a diabolic cavern mutant with her cleave.
+Arb cleaves a diabolic cavern mutant very hard.
+A diabolic cavern mutant is stunned, but will likely regain consciousness again.
+Bennet **OBLITERATE**s a diabolic cavern mutant with his pierce.
+You receive 57011 experience.
+A diabolic cavern mutant is dead! R.I.P.
+The death cry of a diabolic cavern mutant echoes from somewhere nearby...
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14309C [Att:0.00%] [0;37mT:40 Exits:ES> [0m[1;34;49mFOLLOWER GAINED XP: 55668[0m
+
+You get a pile of coins from the corpse of a diabolic cavern mutant.
+There were 54 coins.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14363C [Att:0.00%] [0;37mT:40 Exits:ES> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14363C [Att:0.00%] [0;37mT:40 Exits:ES> 
+You can't find whatever you're trying to put into a plain component pouch.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14363C [Att:0.00%] [0;37mT:40 Exits:ES> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14363C [Att:0.00%] [0;37mT:40 Exits:ES> 
+corpse (here) : 
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14363C [Att:0.00%] [0;37mT:39 Exits:ES> 
+You divide 54 coins equally among the group members present.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mT:39 Exits:ES> [0;37msc[0m
+You are Alea ia'Est, the Cast Die, a level 27 Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Myth.
+You are rank 23. You have completed 12.84% of your next rank.
+You are 17 years old.
+You have 382(382) hit and 171(171) movement points.
+Your behaviour has been Neutral.
+You have scored 45,681,182 exp, and have 14318(91531) steel coins.
+You need 23,918,818 more experience to advance.
+You have died 6 horrible deaths.
+You have been connected for 48 minute(s).
+You have been playing for 6 day(s), 8 hour(s) and 54 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 17 Wis: 16 Dex: 13 Con: 19 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are following Deni.
+You are affected by the following:
+    crusade
+    high prayer
+    resist magic
+    ghostskin            [6 hrs]
+    tenacious heart
+    strength of one
+    spectral sight       [21 hrs]
+    spectral glow        [17 hrs]
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mT:35 Exits:ES> 
+Deni focuses on you and utters some strange words.
+Your soul shudders for a moment.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mT:34 Exits:ES> [0;37mb[0m
+
+[37mYour clanmate Urtzlok has gained a level.
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mT:28 Exits:ES> [0;37m[0m
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mT:28 Exits:ES> [0;37ml[0m
+[36mA Secluded Corner[0;37m
+[33m[1mThe corpse of a diabolic cavern mutant is lying here.
+A sparkling mist fills the area. [2]
+The corpse of a diabolic cavern mutant is lying here.
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mT:27 Exits:ES> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mT:25 Exits:ES> 
+Bennet flies east.
+Oro the bronze dragon flies east.
+Deni flies east.
+You follow Deni east.
+Angus flies in from the west.
+Arik flies in from the west.
+Arb flies in from the west.
+[36mDamp Cavern[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mT:23 Exits:SW> [0;37mboost me[0m
+You utter the words, 'heal boost'
+A protective presence envelops you.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:21 Exits:SW> 
+Bennet flies south.
+Oro the bronze dragon flies south.
+Deni flies south.
+You follow Deni south.
+Angus flies in from the north.
+Arik flies in from the north.
+Arb flies in from the north.
+[36mCavern Ledge[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+The corpse of a diabolic cavern mutant is lying here. [2]
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m167V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:18 Exits:NSW> 
+Bennet flies south.
+Oro the bronze dragon flies south.
+Deni flies south.
+The demon Marilith leaves south.
+You follow Deni south.
+Angus flies in from the north.
+Arik flies in from the north.
+Kiran the fearsome blue dragon arrives from the north.
+Arb flies in from the north.
+[36mA Subterranean Cavern[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+The corpse of a diabolic cavern mutant is lying here.
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m165V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:18 Exits:N> 
+Arb utters the words, 'heal boost'.
+A protective presence envelops Arb.
+
+[32m[0;37m[32m382H [0;37m[32m165V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:17 Exits:N> [0;37mboost angus[0m
+You utter the words, 'heal boost'
+A protective presence envelops Angus.
+
+[32m[0;37m[32m382H [0;37m[32m165V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:16 Exits:N> 
+Bennet flies north.
+Oro the bronze dragon flies north.
+Deni flies north.
+The demon Marilith leaves north.
+You follow Deni north.
+Angus flies in from the south.
+Arik flies in from the south.
+Kiran the fearsome blue dragon arrives from the south.
+Arb flies in from the south.
+[36mCavern Ledge[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+The corpse of a diabolic cavern mutant is lying here. [2]
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m163V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:14 Exits:NSW> 
+Arb focuses on Arik and utters the words, 'heal boost'.
+A protective presence envelops Arik.
+
+[32m[0;37m[32m382H [0;37m[32m163V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:13 Exits:NSW> 
+Bennet flies north.
+Oro the bronze dragon flies north.
+Deni flies north.
+The demon Marilith leaves north.
+You follow Deni north.
+Angus flies in from the south.
+Arik flies in from the south.
+Kiran the fearsome blue dragon arrives from the south.
+Arb flies in from the south.
+[36mDamp Cavern[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m161V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:13 Exits:SW> 
+Bennet flies west.
+Oro the bronze dragon flies west.
+Deni flies west.
+The demon Marilith leaves west.
+You follow Deni west.
+Angus flies in from the east.
+Arik flies in from the east.
+Kiran the fearsome blue dragon arrives from the east.
+Arb flies in from the east.
+[36mA Secluded Corner[0;37m
+[33m[1mThe corpse of a diabolic cavern mutant is lying here.
+A sparkling mist fills the area. [2]
+The corpse of a diabolic cavern mutant is lying here.
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m159V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:11 Exits:ES> 
+Deni begins resting but stays aloft.
+
+[32m[0;37m[32m382H [0;37m[32m159V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:9 Exits:ES> 
+Bennet flies south.
+Oro the bronze dragon flies south.
+
+[32m[0;37m[32m382H [0;37m[32m159V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:9 Exits:ES> 
+-#-#-#-#-#-#-#-> Deni <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m382H [0;37m[32m159V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:6 Exits:ES> 
+Deni flies south.
+The demon Marilith leaves south.
+You follow Deni south.
+Angus flies in from the north.
+Arik flies in from the north.
+Kiran the fearsome blue dragon arrives from the north.
+Arb flies in from the north.
+[36mDamp Cavern[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m157V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:6 Exits:NEW> [0;37mscan[0m
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+[32m[0;37m[32m382H [0;37m[32m157V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:2 T:4 Exits:NEW> 
+The sparkling mist fades away from sight.
+Deni closes her prayerbook with a content look on her face.
+The demon Marilith closes its prayerbook with a content look on its face.
+An ethereal ghost berry decays in your hands.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:60 Exits:NEW> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:57 Exits:NEW> 
+The sparkling mist fades away from sight.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:56 Exits:NEW> 
+Arik utters some strange words.
+The room is suddenly enveloped in darkness.
+You feel an eery chill in your bones as the darkness encompasses you.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:55 Exits:NEW> 
+[36mBrea tells your clan 'will just found the chipped long sword in wm'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:53 Exits:NEW> [0m[1;34;49mCLAN MESSAGE FROM Brea: 'will just found the chipped long sword
+[0;1;34;49min wm'[0m
+
+Arik says 'woops'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:51 Exits:NEW> 
+Bennet flies west.
+Oro the bronze dragon flies west.
+Deni flies west.
+The demon Marilith leaves west.
+You follow Deni west.
+Angus flies in from the east.
+Arik flies in from the east.
+Kiran the fearsome blue dragon arrives from the east.
+Arb flies in from the east.
+[36mA Slippery Tunnel[0;37m
+[33m[1mInky darkness flows into the room, chilling your bones.
+A sparkling mist fills the area.
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+. . . has a ghostly hue.
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+A massive cavern mutant drags itself along. (black aura)
+A massive cavern mutant drags itself along. (black aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:45 Exits:EW> [0;37mgig[0m
+You giggle.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:45 Exits:EW> 
+A diabolic cavern mutant leaves west.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:45 Exits:EW> 
+Arik utters some strange words.
+Arik's eyes glow red.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:43 Exits:EW> 
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:43 Exits:EW> [0;37mfight[0m
+
+Angus MASSACREs a diabolic cavern mutant with his stab.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:41 Exits:EW> 
+Angus MASSACREs a diabolic cavern mutant with his stab.
+Angus MASSACREs a diabolic cavern mutant with his stab.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant MASSACREs Bennet with its claw.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:40 Exits:EW> 
+Arb slowly fades into existence.
+Arb cleaves a diabolic cavern mutant extremely hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:40 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:40 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [0;37mMem:1 T:40 Exits:EW> 
+You now watch Angus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mGood[0;37m**] [0;37mMem:1 T:39 Exits:EW> 
+Bennet attempts to strike at a diabolic cavern mutant with his spear.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:37 Exits:EW> 
+Arb MASSACREs a diabolic cavern mutant with her cleave.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Angus stabs a diabolic cavern mutant very hard.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant claws Bennet extremely hard.
+A diabolic cavern mutant misses Bennet with its claw.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:36 Exits:EW> [0m[1;35;49m
+[0;1;35;49m*******>>> FOLLOWER GHOSTSKIN IS GONE <<<*******[0m
+
+Angus gives out a mighty war cry!
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:36 Exits:EW> 
+Arik MASSACREs a diabolic cavern mutant with her crush.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:35 Exits:EW> 
+Deni MASSACREs a diabolic cavern mutant with her crush.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mFair[0;37m**] [0;37mMem:1 T:33 Exits:EW> 
+Deni **ANNIHILATE**s a diabolic cavern mutant with her crush.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arik MASSACREs a diabolic cavern mutant with her pierce.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Angus stabs a diabolic cavern mutant very hard.
+Angus stabs a diabolic cavern mutant extremely hard.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant MASSACREs Bennet with its claw.
+Bennet deflects a good chunk of a diabolic cavern mutant's blow with his shield.
+A diabolic cavern mutant claws Bennet extremely hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m**] [0;37mMem:1 T:32 Exits:EW> 
+Bennet focuses his purity on a diabolic cavern mutant's leg!
+Bennet faith burns a diabolic cavern mutant.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23918818X 12.84% 14318C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[31mAwful[0;37m**] [0;37mMem:1 T:30 Exits:EW> 
+Deni **ANNIHILATE**s a diabolic cavern mutant with her crush.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arik pierces a diabolic cavern mutant extremely hard.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+Arb cleaves a diabolic cavern mutant extremely hard.
+Arb cleaves a diabolic cavern mutant extremely hard.
+You receive 56800 experience.
+A diabolic cavern mutant is dead! R.I.P.
+The death cry of a diabolic cavern mutant echoes from somewhere nearby...
+Deni gives the demon Marilith an order.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14318C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:28 Exits:EW> [0m[1;34;49mFOLLOWER GAINED XP: 11092[0m
+
+You get a pile of coins from the corpse of a diabolic cavern mutant.
+There were 82 coins.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14400C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:28 Exits:EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14400C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:28 Exits:EW> 
+You can't find whatever you're trying to put into a plain component pouch.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14400C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:28 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14400C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:28 Exits:EW> 
+corpse (here) : 
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14400C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:27 Exits:EW> 
+You can't split 82 evenly among the people in the room; splitting 78 instead.
+You divide 78 coins equally among the group members present.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:27 Exits:EW> [0;37ml[0m
+[36mA Slippery Tunnel[0;37m
+[33m[1mThe corpse of a diabolic cavern mutant is lying here.
+Inky darkness flows into the room, chilling your bones.
+A sparkling mist fills the area.
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:25 Exits:EW> 
+A diabolic cavern mutant arrives from the west.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:21 Exits:EW> 
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+Bennet's attack meticulously opens up a diabolic cavern mutant's defenses
+for a second, more devastating, attack.
+Bennet jams his spear into a diabolic cavern mutant delivering a hellish wound.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:19 Exits:EW> 
+Arik MASSACREs a diabolic cavern mutant with her crush.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:18 Exits:EW> [0;37mfight mutant[0m
+
+Angus stabs a diabolic cavern mutant extremely hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mGood[0;37m**] [0;37mMem:1 T:17 Exits:EW> 
+Angus stabs a diabolic cavern mutant very hard.
+Angus MASSACREs a diabolic cavern mutant with his stab.
+Arik MASSACREs a diabolic cavern mutant with her crush.
+A diabolic cavern mutant stumbles as the monstrous mace of Hiddukel smashes into its skull.
+A diabolic cavern mutant's body slumps and seems less energetic.
+Arik pierces a diabolic cavern mutant extremely hard.
+Arik **ANNIHILATE**s a diabolic cavern mutant with her crush.
+Bennet drives his spear to an opening in a diabolic cavern mutant's armor.
+Bennet **ANNIHILATE**s a diabolic cavern mutant with his pierce.
+A diabolic cavern mutant misses Bennet with its claw.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m**] [0;37mMem:1 T:16 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m**] [0;37mMem:1 T:16 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m**] [0;37mMem:1 T:16 Exits:EW> 
+You are already watching them.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mBad[0;37m**] [0;37mMem:1 T:16 Exits:EW> 
+Deni gives the demon Marilith an order.
+The demon Marilith connects with a precision thrust, wounding a diabolic cavern mutant severely.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m**] [0;37mMem:1 T:15 Exits:EW> 
+Arb cleaves a diabolic cavern mutant extremely hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m**] [0;37mMem:1 T:15 Exits:EW> 
+Deni **ANNIHILATE**s a diabolic cavern mutant with her crush.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23862018X 12.84% 14335C [Att:0.00%] [**Angus:[0;37m[32mPerfect[0;37m**] [**a diabolic cavern mutant:[0;37m[33m[1mV.Bad[0;37m**] [0;37mMem:1 T:15 Exits:EW> [0;37mass[0m
+You attempt to assist Arb.
+You **ANNIHILATE** a diabolic cavern mutant with your crush.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23861138X 12.84% 14335C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:14 Exits:EW> 
+You stop watching Angus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23861138X 12.84% 14335C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [a diabolic cavern mutant:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:14 Exits:EW> 
+The sparkling mist fades away from sight.
+You **ANNIHILATE** a diabolic cavern mutant with your crush.
+Deni MASSACREs a diabolic cavern mutant with her crush.
+Arb MASSACREs a diabolic cavern mutant with her cleave.
+Arb cleaves a diabolic cavern mutant extremely hard.
+A diabolic cavern mutant is incapacitated and will slowly die, if not aided.
+The demon Marilith **ANNIHILATE**s a diabolic cavern mutant with its slash.
+You receive 51553 experience.
+A diabolic cavern mutant is dead! R.I.P.
+The death cry of a diabolic cavern mutant echoes from somewhere nearby...
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14335C [Att:0.00%] [0;37mMem:1 T:12 Exits:EW> [0m[1;34;49mFOLLOWER GAINED XP: 10067[0m
+
+You get a large pile of coins from the corpse of a diabolic cavern mutant.
+There were 147 coins.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14482C [Att:0.00%] [0;37mMem:1 T:9 Exits:EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14482C [Att:0.00%] [0;37mMem:1 T:9 Exits:EW> 
+You can't find whatever you're trying to put into a plain component pouch.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14482C [Att:0.00%] [0;37mMem:1 T:9 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14482C [Att:0.00%] [0;37mMem:1 T:9 Exits:EW> 
+corpse (here) : 
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14482C [Att:0.00%] [0;37mMem:1 T:8 Exits:EW> 
+You can't split 147 evenly among the people in the room; splitting 144 instead.
+You divide 144 coins equally among the group members present.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14362C [Att:0.00%] [0;37mMem:1 T:8 Exits:EW> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14362C [Att:0.00%] [0;37mMem:1 T:8 Exits:EW> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14362C [Att:0.00%] [0;37mMem:1 T:3 Exits:EW> 
+Deni closes her prayerbook with a content look on her face.
+Your meditation finished, you put away your charms with a smile.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23808540X 12.84% 14362C [Att:0.00%] [0;37mT:60 Exits:EW> 
+Bennet flies west.
+Oro the bronze dragon flies west.
+Deni flies west.
+The demon Marilith leaves west.
+You follow Deni west.
+Angus flies in from the east.
+Arik flies in from the east.
+Kiran the fearsome blue dragon arrives from the east.
+Arb flies in from the east.
+[36mA Moist Cavern[0;37m
+[33m[1mA sparkling mist fills the area. [2]
+Inky darkness flows into the room, chilling your bones.
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+The Demon Marilith is here, writhing its snake-like tail. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is standing here, awaiting a rider. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+A massive cavern mutant drags itself along. (black aura)
+A long and slender beast eyes you threateningly. (black aura)
+[0;37mEgreckl Steamus utters some strange words.
+Arb is stunned momentarily, recovering quickly.
+Kiran the fearsome blue dragon is stunned momentarily, recovering quickly.
+Arik is stunned momentarily, recovering quickly.
+Angus is stunned!
+You are stunned for a moment, but recover immediately.
+The demon Marilith is stunned!
+Deni is stunned momentarily, recovering quickly.
+Oro the bronze dragon is stunned!
+Bennet is stunned momentarily, recovering quickly.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23808540X 12.84% 14362C [Att:0.00%] [Arb:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[32mPerfect[0;37m] [0;37mT:60 Exits:E> 
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus hard.
+You crush Egreckl Steamus extremely hard.
+You MASSACRE Egreckl Steamus with your crush.
+Arik crushes Egreckl Steamus extremely hard.
+Arik pierces Egreckl Steamus hard.
+Arik crushes Egreckl Steamus extremely hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+Egreckl Steamus mutilates Arb with his claw.
+Egreckl Steamus mutilates Arb with his claw.
+Arb slowly fades into existence.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus very hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23807154X 12.84% 14362C [Att:0.00%] [Arb:[0;37m[33m[1mBad[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:56 Exits:E> 
+Bennet heroically rescues Arb.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23807154X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:56 Exits:E> [0;37mfight[0m
+
+Egreckl Steamus is hit by Kiran the fearsome blue dragon's lightning breath.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23807154X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:55 Exits:E> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23807154X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:54 Exits:E> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23807154X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:54 Exits:E> 
+You now watch Angus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23807154X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:54 Exits:E> 
+You stop watching Angus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23807154X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:54 Exits:E> 
+Deni focuses on Arb and utters some strange words.
+Deni heals Arb.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23807154X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:54 Exits:E> 
+Arb utters the words, 'regenerate'.
+Arb's wounds begin to heal.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23807154X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:54 Exits:E> 
+Egreckl Steamus mutilates Bennet with his claw.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus very hard.
+You crush Egreckl Steamus extremely hard.
+You crush Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus very hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23805966X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:52 Exits:E> 
+Bennet trembles and falters as Egreckl Steamus lets out a frightening roar.
+Arb trembles and falters as Egreckl Steamus lets out a frightening roar.
+Kiran the fearsome blue dragon trembles and falters as Egreckl Steamus lets out a frightening roar.
+Arik trembles and falters as Egreckl Steamus lets out a frightening roar.
+You tremble as you hear Egreckl Steamus roar frightfully.
+You feel a slight chill.
+Deni trembles and falters as Egreckl Steamus lets out a frightening roar.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23805966X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:51 Exits:E> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+Arb utters the words, 'sublime resistance'.
+Arb shudders slightly and begins to glow orange.
+Kiran the fearsome blue dragon shudders slightly and begins to glow orange.
+Arik shudders slightly and begins to glow orange.
+Angus shudders slightly and begins to glow orange.
+You shudder slightly and begin to glow orange.
+The demon Marilith shudders slightly and begins to glow orange.
+Deni shudders slightly and begins to glow orange.
+Oro the bronze dragon shudders slightly and begins to glow orange.
+Bennet shudders slightly and begins to glow orange.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23805966X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:49 Exits:E> [0;37mb bash[0m
+
+Arik attacks Egreckl Steamus with lightning fast series of attacks that leaves him defenseless.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23805966X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:49 Exits:E> 
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Deni crushes Egreckl Steamus hard.
+You MASSACRE Egreckl Steamus with your crush.
+You MASSACRE Egreckl Steamus with your crush.
+[38;5;127mYou feel especially skillful today.[0m
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus extremely hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23804283X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:48 Exits:E> 
+Bennet is gassed by Egreckl Steamus.
+Arb is gassed by Egreckl Steamus.
+Kiran the fearsome blue dragon is gassed by Egreckl Steamus.
+Arik is gassed by Egreckl Steamus.
+Angus is gassed by Egreckl Steamus.
+Bennet is gassed by Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23804283X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[32mV.Good[0;37m] [0;37mT:45 Exits:E> 
+[0m[1;35;49m *******>>> YOUR GHOSTSKIN IS GONE <<<*******[0m
+The ghostly hue vanishes from your flesh.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Deni MASSACREs Egreckl Steamus with her crush.
+You crush Egreckl Steamus extremely hard.
+[38;5;127mYou feel especially skillful today.[0m
+You crush Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus extremely hard.
+Egreckl Steamus stumbles as the monstrous mace of Hiddukel smashes into his skull.
+Arik pierces Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus very hard.
+Egreckl Steamus stumbles as the monstrous mace of Hiddukel smashes into his skull.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23803128X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:44 Exits:E> 
+Arb utters the words, 'sublime resistance'.
+Arb shudders slightly and begins to glow green.
+Kiran the fearsome blue dragon shudders slightly and begins to glow green.
+Arik shudders slightly and begins to glow green.
+Angus shudders slightly and begins to glow green.
+You shudder slightly and begin to glow green.
+The demon Marilith shudders slightly and begins to glow green.
+Deni shudders slightly and begins to glow green.
+Oro the bronze dragon shudders slightly and begins to glow green.
+Bennet shudders slightly and begins to glow green.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23803128X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:42 Exits:E> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23803128X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:42 Exits:E> [0;37mb bash[0m
+
+Egreckl Steamus misses Bennet with his claw.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus very hard.
+You crush Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23802567X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:40 Exits:E> 
+A diabolic cavern mutant leaves east.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23802567X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:39 Exits:E> 
+Bennet is gassed by Egreckl Steamus.
+Deni is gassed by Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23802567X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:39 Exits:E> 
+Angus stabs Egreckl Steamus.
+Arb cleaves Egreckl Steamus very hard.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Deni MASSACREs Egreckl Steamus with her crush.
+You crush Egreckl Steamus extremely hard.
+You MASSACRE Egreckl Steamus with your crush.
+Arik crushes Egreckl Steamus hard.
+Arik pierces Egreckl Steamus very hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+Arb utters the words, 'pzaruio xazz'.
+Your skin begins to tingle as a rejuvenating wave of magic washes over you.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23801049X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:36 Exits:E> 
+-#-#-#-#-#-#-#-> Angus <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23801049X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:36 Exits:E> [0;37mb ass[0m
+
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23801049X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:35 Exits:E> 
+Arik attacks Egreckl Steamus with lightning fast series of attacks that leaves him defenseless.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23801049X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[32mGood[0;37m] [0;37mT:34 Exits:E> [0;37mb bash[0m
+
+The inky blackness thins out.
+Angus stabs Egreckl Steamus.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus extremely hard.
+Bennet's attack meticulously opens up Egreckl Steamus's defenses
+for a second, more devastating, attack.
+Bennet jams his spear into Egreckl Steamus delivering a hellish wound.
+Deni crushes Egreckl Steamus very hard.
+You crush Egreckl Steamus extremely hard.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23799729X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mGood[0;37m] [0;37mT:32 Exits:E> [0m[1;31;49m** OUCHIES, MISSED THE BASH!!! **[0m
+
+Angus stumbles and falls while trying to bash Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23799729X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mGood[0;37m] [0;37mT:32 Exits:E> 
+Deni focuses on Bennet and utters some strange words.
+Deni heals Bennet.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23799729X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[33m[1mGood[0;37m] [0;37mT:31 Exits:E> 
+Arik connects with a precision thrust, wounding Egreckl Steamus severely.
+Arik's thrust hits Egreckl Steamus right in the throat.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23799729X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[33m[1mGood[0;37m] [0;37mT:30 Exits:E> 
+Angus stabs Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus extremely hard.
+Deni MASSACREs Egreckl Steamus with her crush.
+You MASSACRE Egreckl Steamus with your crush.
+[38;5;127mYou feel especially skillful today.[0m
+You crush Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23798376X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mGood[0;37m] [0;37mT:28 Exits:E> [0;37mkpk[0m
+
+Egreckl Steamus lashes out, ripping flesh from Bennet's face!
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23798376X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mGood[0;37m] [0;37mT:27 Exits:E> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23798376X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mGood[0;37m] [0;37mT:26 Exits:E> [0;37mfrenz[0m
+[1;35;49m *******>>> FRENZY STARTED <<<*******
+[38;5;127mYou feel especially skillful today.[0m
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23798376X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mGood[0;37m] [0;37mT:26 Exits:E> 
+Angus stabs Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Deni MASSACREs Egreckl Steamus with her crush.
+You **ANNIHILATE** Egreckl Steamus with your crush.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23796660X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:24 Exits:E> 
+Bennet yells and leaps into the fray.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23796660X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:24 Exits:E> 
+-#-#-#-#-#-#-#-> Angus <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23796660X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:24 Exits:E> 
+Angus spins and tries to kick Egreckl Steamus, but Egreckl Steamus dodges out of the way.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23796660X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:24 Exits:E> 
+Arb lets out a mighty yell and fights like crazy!
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23796660X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:22 Exits:E> 
+Egreckl Steamus lashes out, ripping flesh from Bennet's face!
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23796660X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:21 Exits:E> 
+The sparkling mist fades away from sight.
+The rally cry fades.
+Angus stabs Egreckl Steamus hard.
+Angus stabs Egreckl Steamus hard.
+[37mYour clanmate Brea has gained a level.
+[0;37mArb cleaves Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Deni crushes Egreckl Steamus very hard.
+You MASSACRE Egreckl Steamus with your crush.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus extremely hard.
+Egreckl Steamus staggers as the monstrous mace of Hiddukel smashes into his skull.
+Arik pierces Egreckl Steamus very hard.
+Arik MASSACREs Egreckl Steamus with her crush.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23795043X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:20 Exits:E> 
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet pierces Egreckl Steamus extremely hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23795043X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:20 Exits:E> 
+Angus gives Egreckl Steamus a solid punch in the face.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23795043X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:20 Exits:E> 
+Angus spins and tries to kick Egreckl Steamus, but Egreckl Steamus dodges out of the way.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23795043X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:19 Exits:E> 
+The sparkling mist fades away from sight.
+Angus stabs Egreckl Steamus hard.
+Angus stabs Egreckl Steamus.
+Arb cleaves Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Bennet gracefully steps aside as Egreckl Steamus attacks!
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus extremely hard.
+You crush Egreckl Steamus very hard.
+You MASSACRE Egreckl Steamus with your crush.
+Arik crushes Egreckl Steamus hard.
+Arik pierces Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus hard.
+Egreckl Steamus stumbles as the monstrous mace of Hiddukel smashes into his skull.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23793525X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:16 Exits:E> 
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet pierces Egreckl Steamus extremely hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23793525X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mPerfect[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:16 Exits:E> 
+Bennet is gassed by Egreckl Steamus.
+Kiran the fearsome blue dragon is gassed by Egreckl Steamus.
+Angus is gassed by Egreckl Steamus.
+Egreckl Steamus gasses you.
+
+[32m[0;37m[32m346H [0;37m[32m169V [0;37m23793525X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:15 Exits:E> 
+The mist tingles against your skin.
+The mist tingles against your skin.
+Angus stabs Egreckl Steamus.
+Angus stabs Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus very hard.
+You crush Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus hard.
+Arik crushes Egreckl Steamus very hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23793063X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:12 Exits:E> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet pierces Egreckl Steamus extremely hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23793063X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:12 Exits:E> [0;37mgt he bashable?[0m
+You tell your group 'he bashable?'
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23793063X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:12 Exits:E> [0;37mkpk[0m
+
+Angus tries to sweep Egreckl Steamus's legs, but misses badly.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23793063X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:10 Exits:E> 
+Arik connects with a precision thrust, wounding Egreckl Steamus severely.
+Arik's thrust hits Egreckl Steamus right in the throat.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23793063X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:10 Exits:E> 
+Bennet trembles and falters as Egreckl Steamus lets out a frightening roar.
+Angus trembles and falters as Egreckl Steamus lets out a frightening roar.
+You tremble as you hear Egreckl Steamus roar frightfully.
+You feel a slight chill.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23793063X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:9 Exits:E> 
+Angus stabs Egreckl Steamus.
+Angus stabs Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus very hard.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus very hard.
+Deni crushes Egreckl Steamus extremely hard.
+You MASSACRE Egreckl Steamus with your crush.
+Arik crushes Egreckl Steamus hard.
+Arik pierces Egreckl Steamus hard.
+Arik crushes Egreckl Steamus very hard.
+Egreckl Steamus stumbles as the monstrous mace of Hiddukel smashes into his skull.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23792271X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:8 Exits:E> 
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23792271X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:7 Exits:E> 
+Egreckl Steamus is hit by Kiran the fearsome blue dragon's lightning breath.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23792271X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:7 Exits:E> 
+Angus tries to sweep Egreckl Steamus's legs, but misses badly.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23792271X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:6 Exits:E> 
+Arik attacks Egreckl Steamus with lightning fast series of attacks that leaves him defenseless.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23792271X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:5 Exits:E> 
+The sparkling mist fades away from sight.
+[1;35;49m *******>>> FRENZY OVER <<<*******
+Angus stabs Egreckl Steamus very hard.
+Angus stabs Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus very hard.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Egreckl Steamus claws madly at Bennet.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus hard.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus.
+Arik crushes Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23791611X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:4 Exits:E> 
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23791611X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:3 Exits:E> [0;37mhex[0m
+You scream wildly and cuss at Egreckl Steamus.
+Egreckl Steamus seems totally unaffected by your curse.
+The magic fails!
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23791611X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:3 Exits:E> 
+Egreckl sweeps his tail through the pool and sends a crushing wave of water
+throughout the cavern.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23791611X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:3 Exits:E> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23791611X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mFair[0;37m] [0;37mT:2 Exits:E> [0;37mhex[0m
+
+Angus stabs Egreckl Steamus extremely hard.
+Angus stabs Egreckl Steamus.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet blocks Egreckl Steamus's blow with a quick raise of his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus very hard.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus extremely hard.
+Egreckl Steamus stumbles as the monstrous mace of Hiddukel smashes into his skull.
+Arik pierces Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+Deni closes her prayerbook with a content look on her face.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23790984X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:60 Exits:E> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+You scream wildly and cuss at Egreckl Steamus.
+Egreckl Steamus seems totally unaffected by your curse.
+The magic fails!
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23790984X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:59 Exits:E> [0;37mboth sta[0m
+[0;37mb bash[0m
+
+Angus stumbles and falls while trying to bash Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23790984X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:58 Exits:E> [0m[1;31;49m** OUCHIES, MISSED THE BASH!!! **[0m
+
+Bennet trembles and falters as Egreckl Steamus lets out a frightening roar.
+Arb trembles and falters as Egreckl Steamus lets out a frightening roar.
+Kiran the fearsome blue dragon trembles and falters as Egreckl Steamus lets out a frightening roar.
+Angus trembles and falters as Egreckl Steamus lets out a frightening roar.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23790984X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:57 Exits:E> 
+Angus stabs Egreckl Steamus very hard.
+Angus stabs Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Egreckl Steamus mutilates Bennet with his claw.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Deni crushes Egreckl Steamus very hard.
+You MASSACRE Egreckl Steamus with your crush.
+Arik crushes Egreckl Steamus extremely hard.
+Arik pierces Egreckl Steamus hard.
+Arik crushes Egreckl Steamus very hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23790159X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:56 Exits:E> 
+You are already standing.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23790159X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:55 Exits:E> [0;37mgroup[0m
+Your group of 6 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  [0;37m[33m[1mPA Bennet           good     [0;37m[32m rested   [0;37m fighting  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [32m   1   [0;37m 0
+  [0;37m[32mCL Deni             perfect  [0;37m[32m rested   [0;37m fighting  [32m Y  [31m N  [32m  Y  [31m  N [32m  Y  [31m   0   [0;37m 0
+  [0;37m[32mSH Alea             perfect  [0;37m[32m rested   [0;37m fighting  [32m Y  [31m N  [32m  Y  [31m  N [32m  Y  [32m   1   [0;37m 0
+  [0;37m[32mWA Angus            perfect  [0;37m[32m rested   [0;37m fighting  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [31m   0   [0;37m 0
+  [0;37m[32mDA Arik             perfect  [0;37m[32m rested   [0;37m fighting  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [31m   0   [0;37m 1
+  [0;37m[32mSH Arb              perfect  [0;37m[32m rested   [0;37m fighting  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [32m   1   [0;37m 2
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23790159X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:54 Exits:E> 
+-#-#-#-#-#-#-#-> Bennet <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23790159X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:54 Exits:E> 
+Arik connects with a precision thrust, wounding Egreckl Steamus severely.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23790159X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:54 Exits:E> 
+Angus stabs Egreckl Steamus hard.
+Angus stabs Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus very hard.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet gracefully steps aside as Egreckl Steamus attacks!
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus very hard.
+You MASSACRE Egreckl Steamus with your crush.
+Arik crushes Egreckl Steamus hard.
+Arik pierces Egreckl Steamus hard.
+Arik crushes Egreckl Steamus very hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23789400X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:52 Exits:E> 
+Bennet utters some strange words.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23789400X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:52 Exits:E> 
+Egreckl Steamus lashes out, ripping flesh from Bennet's face!
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23789400X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:51 Exits:E> 
+-#-#-#-#-#-#-#-> Angus <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23789400X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:50 Exits:E> 
+Arik looks at Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23789400X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mBad[0;37m] [0;37mT:49 Exits:E> 
+The sparkling mist fades away from sight.
+Angus stabs Egreckl Steamus hard.
+Angus stabs Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus very hard.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus extremely hard.
+Egreckl Steamus staggers as the monstrous mace of Hiddukel smashes into his skull.
+Arik pierces Egreckl Steamus hard.
+Arik crushes Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23788707X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:48 Exits:E> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23788707X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:48 Exits:E> 
+Arik attacks Egreckl Steamus with lightning fast series of attacks that leaves him defenseless.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23788707X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:47 Exits:E> 
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet pierces Egreckl Steamus extremely hard.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23788707X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:45 Exits:E> 
+Egreckl sweeps his tail through the pool and sends a crushing wave of water
+throughout the cavern.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23788707X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:45 Exits:E> 
+Angus stabs Egreckl Steamus hard.
+Angus stabs Egreckl Steamus.
+Arb cleaves Egreckl Steamus.
+Arb cleaves Egreckl Steamus hard.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus very hard.
+You crush Egreckl Steamus extremely hard.
+[38;5;127mYou feel especially skillful today.[0m
+Arik crushes Egreckl Steamus hard.
+Arik pierces Egreckl Steamus very hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23788014X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:44 Exits:E> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+The sparkling mist fades away from sight.
+Angus stabs Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet pierces Egreckl Steamus extremely hard.
+Deni crushes Egreckl Steamus hard.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus extremely hard.
+Egreckl Steamus stumbles as the monstrous mace of Hiddukel smashes into his skull.
+Arik pierces Egreckl Steamus hard.
+Arik crushes Egreckl Steamus extremely hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23787387X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:40 Exits:E> 
+Egreckl sweeps his tail through the pool and sends a crushing wave of water
+throughout the cavern.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23787387X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:39 Exits:E> 
+Angus stabs Egreckl Steamus hard.
+Angus stabs Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Bennet's attack meticulously opens up Egreckl Steamus's defenses
+for a second, more devastating, attack.
+Bennet jams his spear into Egreckl Steamus delivering a hellish wound.
+Deni crushes Egreckl Steamus hard.
+You MASSACRE Egreckl Steamus with your crush.
+[38;5;127mYou feel especially skillful today.[0m
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus.
+Arik crushes Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23786529X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:36 Exits:E> 
+Arik connects with a precision thrust, wounding Egreckl Steamus severely.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23786529X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:36 Exits:E> 
+-#-#-#-#-#-#-#-> Bennet <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23786529X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:34 Exits:E> 
+Bennet focuses harshly on Egreckl Steamus and utters some strange words.
+Egreckl Steamus screams in agony as Bennet makes his evil soul suffer.
+Bennet's faith devastates Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23786529X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:34 Exits:E> 
+Egreckl sweeps his tail through the pool and sends a crushing wave of water
+throughout the cavern.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23786529X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:33 Exits:E> 
+Angus stabs Egreckl Steamus extremely hard.
+Angus stabs Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus.
+Egreckl Steamus mutilates Bennet with his claw.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Egreckl Steamus gracefully steps aside as Bennet attacks!
+Bennet stumbles and accidentally attacks Deni!
+Bennet pierces Deni extremely hard.
+Deni crushes Egreckl Steamus very hard.
+You crush Egreckl Steamus extremely hard.
+[38;5;127mYou feel especially skillful today.[0m
+Arik crushes Egreckl Steamus hard.
+Arik pierces Egreckl Steamus.
+Kiran the fearsome blue dragon barely claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785836X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:32 Exits:E> [0;37mkpk[0m
+
+Angus spins and tries to kick Egreckl Steamus, but Egreckl Steamus dodges out of the way.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785836X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:31 Exits:E> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785836X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:31 Exits:E> 
+Arik attacks Egreckl Steamus with lightning fast series of attacks that leaves him defenseless.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785836X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:30 Exits:E> 
+Bennet pierces Egreckl Steamus extremely hard.
+Angus stabs Egreckl Steamus very hard.
+Angus stabs Egreckl Steamus.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus very hard.
+Egreckl Steamus staggers as the monstrous mace of Hiddukel smashes into his skull.
+Arik pierces Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus very hard.
+Egreckl Steamus staggers as the monstrous mace of Hiddukel smashes into his skull.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785242X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:28 Exits:E> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+[0;37mregen bennet[0m
+You utter the words, 'regenerate'
+Bennet's wounds begin to heal.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785242X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:27 Exits:E> 
+Angus gives Egreckl Steamus a solid punch in the face.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785242X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:27 Exits:E> 
+Egreckl Steamus lashes out, ripping flesh from Bennet's face!
+Angus delivers a quick snap kick to Egreckl Steamus. Egreckl Steamus staggers and tries to recover.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785242X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:27 Exits:E> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+-#-#-#-#-#-#-#-> Bennet <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785242X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:26 Exits:E> 
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet pierces Egreckl Steamus extremely hard.
+Bennet's attack meticulously opens up Egreckl Steamus's defenses
+for a second, more devastating, attack.
+Bennet jams his spear into Egreckl Steamus delivering a hellish wound.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785242X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mFair[0;37m] [Egreckl Steamus:[0;37m[31mV.Bad[0;37m] [0;37mMem:2 T:25 Exits:E> 
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Angus stabs Egreckl Steamus very hard.
+Angus stabs Egreckl Steamus.
+Arb cleaves Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus very hard.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Egreckl Steamus misses Bennet with his claw.
+Deni crushes Egreckl Steamus hard.
+Arik crushes Egreckl Steamus very hard.
+Egreckl Steamus staggers as the monstrous mace of Hiddukel smashes into his skull.
+Arik pierces Egreckl Steamus hard.
+Arik crushes Egreckl Steamus extremely hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785242X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:24 Exits:E> 
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785242X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:21 Exits:E> 
+Bennet is gassed by Egreckl Steamus.
+Angus is gassed by Egreckl Steamus.
+Deni is gassed by Egreckl Steamus.
+Bennet is gassed by Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23785242X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[33m[1mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:21 Exits:E> 
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Angus stabs Egreckl Steamus.
+Angus stabs Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Egreckl Steamus **OBLITERATE**s Bennet with his claw.
+Deni crushes Egreckl Steamus very hard.
+You MASSACRE Egreckl Steamus with your crush.
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus.
+Arik crushes Egreckl Steamus very hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23784516X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:20 Exits:E> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet **ANNIHILATE**s Egreckl Steamus with his pierce.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23784516X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:17 Exits:E> [0;37mkpk[0m
+
+Angus spins and tries to kick Egreckl Steamus, but Egreckl Steamus dodges out of the way.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23784516X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:17 Exits:E> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+The sparkling mist fades away from sight.
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Angus stabs Egreckl Steamus.
+Angus stabs Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Deni crushes Egreckl Steamus very hard.
+You MASSACRE Egreckl Steamus with your crush.
+Arik crushes Egreckl Steamus extremely hard.
+Arik pierces Egreckl Steamus very hard.
+Arik crushes Egreckl Steamus very hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23783559X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:16 Exits:E> 
+Arb utters the words, 'pzaruio xazz'.
+Your skin begins to tingle as a rejuvenating wave of magic washes over you.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23783559X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:15 Exits:E> [0;37mfrenz[0m
+[1;35;49m *******>>> FRENZY STARTED <<<*******
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23783559X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:15 Exits:E> 
+Bennet avoids Egreckl Steamus's gas.
+Kiran the fearsome blue dragon is gassed by Egreckl Steamus.
+Arik is gassed by Egreckl Steamus.
+Deni is gassed by Egreckl Steamus.
+Bennet is gassed by Egreckl Steamus.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23783559X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:15 Exits:E> [0;37mhex[0m
+
+Arik connects with a precision thrust, wounding Egreckl Steamus severely.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23783559X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:13 Exits:E> 
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Bennet pierces Egreckl Steamus extremely hard.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23783559X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mGood[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:13 Exits:E> 
+Bennet MASSACREs Egreckl Steamus with his pierce.
+Angus stabs Egreckl Steamus hard.
+Angus stabs Egreckl Steamus.
+Bennet deflects a good chunk of Egreckl Steamus's blow with his shield.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+Egreckl Steamus misses Bennet with his claw.
+Deni crushes Egreckl Steamus extremely hard.
+You MASSACRE Egreckl Steamus with your crush.
+You MASSACRE Egreckl Steamus with your crush.
+Arik crushes Egreckl Steamus very hard.
+Arik pierces Egreckl Steamus hard.
+Arik crushes Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Angus gives Egreckl Steamus a solid punch in the face.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23781711X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:12 Exits:E> 
+Angus spins and tries to kick Egreckl Steamus, but Egreckl Steamus dodges out of the way.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23781711X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:12 Exits:E> 
+You scream wildly and cuss at Egreckl Steamus.
+Egreckl Steamus seems totally unaffected by your curse.
+The magic fails!
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23781711X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:11 Exits:E> 
+Deni utters some strange words.
+A sparkling mist forms in the air.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23781711X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:10 Exits:E> 
+Arik attacks Egreckl Steamus with lightning fast series of attacks that leaves him defenseless.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23781711X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:9 Exits:E> 
+Bennet pierces Egreckl Steamus extremely hard.
+Angus stabs Egreckl Steamus hard.
+Angus stabs Egreckl Steamus very hard.
+Arb cleaves Egreckl Steamus.
+Arb cleaves Egreckl Steamus hard.
+Bennet deflects part of Egreckl Steamus's blow with his shield.
+Bennet swings his shield in an arc and smacks Egreckl Steamus in the head.
+Egreckl Steamus **ANNIHILATE**s Bennet with his claw.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus very hard.
+Egreckl Steamus stumbles as the monstrous mace of Hiddukel smashes into his skull.
+Arik pierces Egreckl Steamus.
+Arik crushes Egreckl Steamus hard.
+Kiran the fearsome blue dragon claws Egreckl Steamus.
+Kiran the fearsome blue dragon claws Egreckl Steamus hard.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23781051X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:8 Exits:E> 
+[36mBennet tells your group '********REGEN DOWN ************'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23781051X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:8 Exits:E> 
+Egreckl Steamus is hit by Kiran the fearsome blue dragon's lightning breath.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23781051X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:7 Exits:E> 
+Bennet attempts to strike at Egreckl Steamus with his spear.
+Egreckl Steamus gracefully steps aside as Bennet attacks!
+Bennet stumbles and accidentally attacks Arik!
+Bennet pierces Arik hard.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23781051X 12.84% 14362C [Att:0.00%] [Bennet:[0;37m[32mV.Good[0;37m] [Egreckl Steamus:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:7 Exits:E> 
+Bennet pierces Egreckl Steamus extremely hard.
+Angus stabs Egreckl Steamus hard.
+Arb cleaves Egreckl Steamus hard.
+Egreckl Steamus misses Bennet with his claw.
+Deni crushes Egreckl Steamus hard.
+You crush Egreckl Steamus extremely hard.
+Arik crushes Egreckl Steamus hard.
+Egreckl Steamus is mortally wounded, and will die soon, if not aided.
+Arik **ANNIHILATE**s Egreckl Steamus with her pierce.
+You receive 431123 experience.
+Egreckl Steamus is dead! R.I.P.
+The death cry of Egreckl Steamus echoes from somewhere nearby...
+A great burst of steam emits from Egreckl as he dies.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14362C [Att:0.00%] [0;37mMem:2 T:4 Exits:E> [0m[1;34;49mFOLLOWER GAINED XP: 261228[0m
+
+You get a large pile of coins from Egreckl Steamus' corpse.
+There were 241 coins.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14603C [Att:0.00%] [0;37mMem:2 T:4 Exits:E> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14603C [Att:0.00%] [0;37mMem:2 T:4 Exits:E> 
+You can't find whatever you're trying to put into a plain component pouch.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14603C [Att:0.00%] [0;37mMem:2 T:4 Exits:E> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14603C [Att:0.00%] [0;37mMem:2 T:4 Exits:E> 
+corpse (here) : 
+a chunk of malachite
+an alabaster garlic clove charm..it glows blue
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14603C [Att:0.00%] [0;37mMem:2 T:3 Exits:E> 
+You can't split 241 evenly among the people in the room; splitting 240 instead.
+You divide 240 coins equally among the group members present.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:2 T:3 Exits:E> 
+Deni gets a chunk of malachite from Egreckl Steamus' corpse.
+Deni gets an alabaster garlic clove charm from Egreckl Steamus' corpse.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:2 T:2 Exits:E> [0;37mooh[0m
+You ooh and ahh, as if extremely impressed.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:2 T:1 Exits:E> 
+The sparkling mist fades away from sight.
+Bennet closes his prayerbook with a content look on his face.
+Arik closes her prayerbook with a content look on her face.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:60 Exits:E> 
+Deni says 'holy shit'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:58 Exits:E> 
+[37mYour clanmate Kiara has entered the game.
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:57 Exits:E> 
+[36mKiara tells your clan 'am i to late?'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:50 Exits:E> [0m[1;34;49mCLAN MESSAGE FROM Kiara: 'am i to late?'[0m
+
+Deni says 'i am selling this'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:50 Exits:E> 
+The sparkling mist fades away from sight.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:44 Exits:E> 
+Arik says 'kiara needs it'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:42 Exits:E> [0;37mlaugh[0m
+
+Deni says 'dont you'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:38 Exits:E> 
+You laugh heartily.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:38 Exits:E> 
+[36mArik tells your clan 'i still have it'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:36 Exits:E> [0m[1;34;49mCLAN MESSAGE FROM Arik: 'i still have it'[0m
+[0;37mgt last chance[0m
+You tell your group 'last chance'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:35 Exits:E> 
+Arik says 'we popped this two hours ago'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:31 Exits:E> 
+The sparkling mist fades away from sight.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:24 Exits:E> 
+Arik says 'i need rotting flesh now'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:24 Exits:E> [0;37m[0m
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:23 Exits:E> 
+Deni says 'oh i thought it was different'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:22 Exits:E> 
+Arik says 'sadly no'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:18 Exits:E> [0;37mmem[0m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]satiate              [ 2]spectral glow       
+   [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 3]blindness            [ 4]cure blindness      
+   [ 1]cure light           [ 1]remove curse        
+3: [ 4]cure serious         [ 2]remove poison        [ 1]restore strength    
+   [ 1]sap strength         [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]ghost berries        [ 6]soul leech          
+5: [ 1]boiling blood        [ 3]cure critical        [ 1]ghostmaster ritual  
+   [ 1]tenacious heart     
+6: [ 2]darkened soul        [ 1]ritual voyage       
+7: [ 2]ghostskin           
+
+Spells being memorized:
+6: [ 1]ritual voyage       
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-1 2-1 3-1 4-1 5-0 6-2 7-0
+You may use your divine powers.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:18 Exits:E> [0;37mspells[0m
+Your spells
+-----------
+1:  ancestral shroud       bone shape             clot                 
+    detect poison          satiate                slow poison          
+    spectral glow          spiritual guidance   
+2:  ancestral blessing     blindness              cure blindness       
+    cure light             curse                  endurance            
+    remove curse           sanctify corpse      
+3:  cure serious           delay death            remove poison        
+    restore strength       sap strength           spectral sight       
+4:  amplify spirits        cure disease           devouring spirits    
+    ghost berries          monstrous mantle       soul leech           
+    sublime resistance   
+5:  boiling blood          cure critical          ghostmaster ritual   
+    sanctuary              tenacious heart      
+6:  ancestral spirit       darkened soul          heal boost           
+    regenerate             ritual voyage        
+7:  ethereal armor         ghostskin              last chance          
+D:  nap                  
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:16 Exits:E> 
+Deni drops a chunk of malachite.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:15 Exits:E> [0;37ml[0m
+[36mA Moist Cavern[0;37m
+[33m[1mA chunk of a dark green stone glitters here.
+The corpse of Egreckl Steamus lays here.
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+A fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+The demon Marilith is sitting here. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is sitting here. (white aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:13 Exits:E> 
+Deni focuses on Arb and utters some strange words.
+Arb disappears.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:11 Exits:E> 
+[36mBrea tells your clan 'will wants to know if anyone wants a decapper axe'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:9 Exits:E> [0m[1;34;49mCLAN MESSAGE FROM Brea: 'will wants to know if anyone wants a
+[0;1;34;49mdecapper axe'[0m
+
+Deni focuses on Arik and utters some strange words.
+Arik disappears.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:6 Exits:E> 
+Deni focuses on Bennet and utters some strange words.
+Bennet disappears.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mMem:1 T:2 Exits:E> 
+Your meditation finished, you put away your charms with a smile.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:60 Exits:E> [0;37mct 1 hand or 2?[0m
+You tell your clan '1 hand or 2?'
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:58 Exits:E> [0m[1;34;49mCLAN MESSAGE FROM Alea: '1 hand or 2?'[0m
+
+[36mKiara tells your clan 'better than bloodstained battleaxe?'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:54 Exits:E> [0m[1;34;49mCLAN MESSAGE FROM Kiara: 'better than bloodstained battleaxe?'[0m
+
+[36mBrea tells your clan '2'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:52 Exits:E> [0m[1;34;49mCLAN MESSAGE FROM Brea: '2'[0m
+[0;37ml[0m
+[36mA Moist Cavern[0;37m
+[33m[1mA chunk of a dark green stone glitters here.
+The corpse of Egreckl Steamus lays here.
+[0;37m[31m[1mA fearsome blue dragon, Kiran, is standing here, ignoring you. (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+The demon Marilith is sitting here. (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+Oro the bronze dragon is sitting here. (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:51 Exits:E> 
+Deni focuses on Angus and utters some strange words.
+Angus disappears.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:50 Exits:E> 
+Deni focuses on you and utters some strange words.
+You disappear.
+[35mThe Inn of Myth[0;37m
+[33m[1mA potion is lying here. [5]
+[0;37m[31m[1m<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Kiara the Female Minotaur is standing here. (invisible)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:42 Exits:NSWUD> 
+[36mKiara tells your clan 'tagg do you mock'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:40 Exits:NSWUD> [0m[1;34;49mCLAN MESSAGE FROM Kiara: 'tagg do you mock'[0m
+
+Deni appears in the middle of the room.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:38 Exits:NSWUD> 
+Kiara leaves down.
+
+[32m[0;37m[32m382H [0;37m[32m171V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:35 Exits:NSWUD> 
+Deni flies down.
+You follow Deni down.
+Angus flies in from above.
+Arik flies in from above.
+Arb flies in from above.
+[35mThe Halls of Myth[0;37m
+[33m[1mA rough leather breech cloth lies here.
+A clan fountain is here.
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m170V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:33 Exits:EWU> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (very good)     **  bludgeons     (very good)     **
+     miscellaneous (awful)             piercers      (awful)           
+     short blades  (awful)           
+
+     bandage       (superb)            hex           (very good)     **
+     banish        (poor)              brew          (very good)       
+     control       (excellent)     **
+     bind          (fair)              frenzy        (very good)     **
+     spook         (very good)       
+     call spirits  (very good)     **  stupefy       (very good)     **
+     taunt         (awful)           
+     field medic   (fair)              seance        (good)          **
+
+[32m[0;37m[32m382H [0;37m[32m170V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:33 Exits:EWU> 
+Deni flies east.
+You follow Deni east.
+Angus flies in from the west.
+Arik flies in from the west.
+Arb flies in from the west.
+[35mThe City Portal of Myth[0;37m
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m<Myth> Arb Itrary is standing here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Tagg the Male Gnome is standing here. (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:33 Exits:NESW> 
+Arb flies west.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:30 Exits:NESW> [0;37mfol me[0m
+You stop following Deni.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:30 Exits:NESW> [0;37mb fol alea[0m
+
+Angus stops following Deni.
+Angus starts following you.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:28 Exits:NESW> 
+Deni flies south.
+Arik flies south.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:28 Exits:NESW> [0;37mgroup form[0m
+Angus is now a member of your group.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:26 Exits:NESW> [0;37ml[0m
+[35mThe City Portal of Myth[0;37m
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Tagg the Male Gnome is standing here. (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:26 Exits:NESW> [0;37min[0m
+You are carrying:
+a glowing scroll of recall..it glows blue..it glows dimly [3]
+a small wooden chest
+a brewed potion of satiate..it glows blue
+an elemental ring (shatter ring for charmie)..it glows blue
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:25 Exits:NESW> 
+Deni flies in from the south.
+Arik flies in from the south.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:25 Exits:NESW> 
+Deni flies west.
+Arik flies west.
+
+[32m[0;37m[32m382H [0;37m[32m169V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:23 Exits:NESW> [0;37mw[0m
+Angus flies in from the east.
+[35mThe Halls of Myth[0;37m
+[33m[1mA rough leather breech cloth lies here.
+A clan fountain is here.
+[0;37m[31m[1m<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m168V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:22 Exits:EWU> 
+[36mArb tells your clan 'he can learn two spells with moc'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m168V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:22 Exits:EWU> [0m[1;34;49mCLAN MESSAGE FROM Arb: 'he can learn two spells with moc'[0m
+[0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m382H [0;37m[32m168V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:19 Exits:EWU> [0;37me[0m
+Angus flies in from the west.
+[35mThe City Portal of Myth[0;37m
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Tagg the Male Gnome is standing here. (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m167V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:18 Exits:NESW> [0;37mn[0m
+Angus flies in from the south.
+[35mThe Forge of Myth[0;37m
+[33m[1mA wispy shroud of decay is lying here.
+Some grim bracers of destiny is lying here.
+[0;37m[31m[1m<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+The clan blacksmith is standing here.
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m166V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:18 Exits:SW> [0;37min[0m
+You are carrying:
+a glowing scroll of recall..it glows blue..it glows dimly [3]
+a small wooden chest
+a brewed potion of satiate..it glows blue
+an elemental ring (shatter ring for charmie)..it glows blue
+
+[32m[0;37m[32m382H [0;37m[32m166V [0;37m23349235X 14.42% 14403C [Att:0.00%] [0;37mT:17 Exits:SW> [0;37msell ring[0m
+[36mThe clan blacksmith tells you '1000 coins for that! Nice doing business with you.'
+[0;37mThe clan blacksmith now has an elemental ring (shatter ring for charmie).
+
+[32m[0;37m[32m382H [0;37m[32m166V [0;37m23349235X 14.42% 15403C [Att:0.00%] [0;37mT:14 Exits:SW> [0;37ms[0m
+Angus flies in from the north.
+[35mThe City Portal of Myth[0;37m
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Tagg the Male Gnome is standing here. (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m165V [0;37m23349235X 14.42% 15403C [Att:0.00%] [0;37mT:14 Exits:NESW> 
+[36mDeni tells your clan 'where you go andy'
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m165V [0;37m23349235X 14.42% 15403C [Att:0.00%] [0;37mT:14 Exits:NESW> [0m[1;34;49mCLAN MESSAGE FROM Deni: 'where you go andy'[0m
+[0;37mw[0m
+Angus flies in from the east.
+[35mThe Halls of Myth[0;37m
+[33m[1mA rough leather breech cloth lies here.
+A clan fountain is here.
+[0;37m[31m[1m<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m164V [0;37m23349235X 14.42% 15403C [Att:0.00%] [0;37mT:13 Exits:EWU> [0;37mu[0m
+Angus flies in from below.
+[35mThe Inn of Myth[0;37m
+[33m[1mA potion is lying here. [5]
+[0;37m[31m[1m<Myth> Angus the Male Minotaur is standing here. (flying) (black aura)
+<Myth> Arik the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Deni the Female Half Ogre is standing here. (flying) (black aura)
+<Myth> Arb Itrary is resting here. (flying) (invisible) (black aura)
+. . . emits an eerie glow.
+<Myth> Bennet the Male Dargonesti is standing here. (flying) (white aura)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m382H [0;37m[32m163V [0;37m23349235X 14.42% 15403C [Att:0.00%] [0;37mT:13 Exits:NSWUD> 
+Deni begins resting but stays aloft.
+
+[32m[0;37m[32m382H [0;37m[32m163V [0;37m23349235X 14.42% 15403C [Att:0.00%] [0;37mT:13 Exits:NSWUD> [0;37mrent[0m
+[33m[1m                an ancient ivory ring (cha1 *set*) : 76 coins/day
+[0;37m[33m[1m             a bone and rock necklace (cha mag *19) : 49 coins/day
+[0;37m[33m[1m    an ornate black arachnid necklace (B4+ CASTER NECK) : 114 coins/day
+[0;37m[33m[1m           a shirt of coral chainmail (ac-8 HR WB m/b *19) : 34 coins/day
+[0;37m[33m[1m   a gaudy veil of dangling gemstones (dr1 det_mag sham only) : 114 coins/day
+[0;37m[33m[1m   some faded stockings of necromancy (B2+ SHAMAN LEGS) : 122 coins/day
+[0;37m[33m[1m    some banshee's slippers of hexing (A4+ SHAMAN FEET) : 61 coins/day
+[0;37m[33m[1ma pair of enchanted elven battle gauntlets(dr2 Scout*19) : 382 coins/day
+[0;37m[33m[1m            some runed elven armbands (str1) : 306 coins/day
+[0;37m[33m[1ma flowing translucent drape (C3 SHAMAN ABOUT) of contagion : 145 coins/day
+[0;37m[33m[1m      a macabre elf ear sash of omens (D3+ SHAMAN WAIST) : 344 coins/day
+[0;37m[33m[1m              a plain component pouch : 3 coins/day
+[0;37m[33m[1m                    some cat whiskers : 2 coins/day
+[0;37m[33m[1m   a small silver sea serpent's scale : 1 coin/day
+[0;37m[33m[1m a murky black dragonscale wristguard (B3+ CASTER WRIST) : 84 coins/day
+[0;37m[33m[1man obscured chromatic dragonscale wristband (C4+ CASTER WRIST) : 175 coins/day
+[0;37m[33m[1m        an ancient lemurian warhammer : 382 coins/day
+[0;37m[33m       a glowing scroll of recall [3] : 33 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m             some cured ape sinew [2] : 2 coins/day
+[0;37m[32m                         a bloodstone : 2 coins/day
+[0;37m[32ma pair of enchanted elven battle gauntlets(dr2 Scout*19) : 382 coins/day
+[0;37m[32m      a brewed potion of satiate [13] : 78 coins/day
+[0;37m[32m                   a basilisk eyelash : 2 coins/day
+[0;37m[32m               a newly spun chrysalis : 1 coin/day
+[0;37m[32ma small pinch of human gray matter [2] : 6 coins/day
+[0;37m[32m           an eye of the beholder [2] : 6 coins/day
+[0;37m[32m               a vial of spinal fluid : 2 coins/day
+[0;37m[32m    an iridescent hummingbird feather : 2 coins/day
+[0;37m[33m           a brewed potion of satiate : 5 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 2915 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 110 days.'
+The stronghold receptionist stores your stuff in the safe, and shows you to your room.
+Angus stops following you.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

@@ -1,0 +1,37 @@
+Black Mage Skills
+
+Weapons - Blud(65), s.blades(65)
+
+Arcana(90) - No stat modifiers, skill levels up easily due to -15 being added to the chance
+
+Concentration(90) - Int and Cha affect out of combat concentration
+  In combat - When you take damage or get hit in the head (aveng faith/shield block) you get AFF_LOSECAST applied, your next cast in combat will be disrupted if you fail a bunch of checks: concentration check, spell_lvl check, saving_spell check, etc
+  Out of combat - failure = about 2-3%, being mounted adds 50% to your failure chance, feeblemind adds a ton of failure chance (75-99%), if you are affected by Spook you have to make another concentration check based on the enemy's Spook skill and spell_lvl which averages out to about 6-10%
+
+Brew(90) - No stat modifiers
+
+Scribe(90) - No stat modifiers
+
+Deep Focus(90) - No stat modifiers, duration = 1d4 + (level /10), applies mem_factor of (skill / 2), applies concentration_factor of (skill / 6), if skill > 50 then apply mental_acuity chance of ((skill - 30) / 5), if skill > 60 then apply spell_penetration of (skill / 6), if skill >= 90 then apply spell_saves_mod of +1
+
+Spellcraft(90) - No stat modifiers, affected by the moons
+
+Gift(90) - No stat modifiers, affected by the moons, duration = level / 3, applies spell_critical of (10 + moon(0/10/15/20)), if your moon is waxing/high/full then you also get a spell_saves_mod of 1/2/3
+-
+Bandage(50) - No stat modifiers
+
+Comeuppance(90) - No stat modifiers, cooldown = 12 - (skill / 40), legendary cooldown = 8 - (skill / 40), duration = 2 + (skill / 30), legendary duration = 3 + (skill / 30), applies SPELL_SAVES_MOD of 1 + (skill / 35), legendary applies SPELL_SAVES_MOD of 3 + (skill / 35), also applies a penalty to all of your own saves of: 5 - (skill / 25)
+
+Mind Inversion(90) - No stat modifiers, duration = 1 + (skill / 12), applies INVERTED_MIND affect
+
+Conjure(90) - Affected by level, success chance = (skill + level), each pet has a passive bonus listed below
+  "ogre" - LIMIT_DAMAGE_FACTOR = (skill / 5) * -1
+  "spectre" - BASH_MOD = (skill / 15) * -1
+  "gargoyle" - DAMAGE_FACTOR = (skill / 6)
+  "imp" - DAMAGE_FACTOR = (skill / 6)
+  "wight" - DAMAGE_FACTOR = (skill / 6)
+
+Arcane Barrier(90) - No stat modifiers, cooldown = 11 tics, duration = 2 tics, dam_absorbtion = (skill * 5 / 2), lasts until 2 tics expire or all the dam_absorbtion is gone
+  Black Robe - Blocks 33% of damage 100% of the time
+  Red Robe - 50%/50% chance to act like black/white
+  White Robe - Blocks 100% of the damage 33% of the time

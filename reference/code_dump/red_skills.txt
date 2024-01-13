@@ -1,0 +1,37 @@
+Red Mage Skills
+
+Weapons - Blud(65), s.blades(65)
+
+Arcana(90) - No stat modifiers, skill levels up easily due to -15 being added to the chance
+
+Concentration(90) - Int and Cha affect out of combat concentration
+  In combat - When you take damage or get hit in the head (aveng faith/shield block) you get AFF_LOSECAST applied, your next cast in combat will be disrupted if you fail a bunch of checks: concentration check, spell_lvl check, saving_spell check, etc
+  Out of combat - failure = about 2-3%, being mounted adds 50% to your failure chance, feeblemind adds a ton of failure chance (75-99%), if you are affected by Spook you have to make another concentration check based on the enemy's Spook skill and spell_lvl which averages out to about 6-10%
+
+Brew(90) - No stat modifiers
+
+Scribe(90) - No stat modifiers
+
+Deep Focus(90) - No stat modifiers, duration = 1d4 + (level /10), applies mem_factor of (skill / 2), applies concentration_factor of (skill / 6), if skill > 50 then apply mental_acuity chance of ((skill - 30) / 5), if skill > 60 then apply spell_penetration of (skill / 6), if skill >= 90 then apply spell_saves_mod of +1
+
+Spellcraft(90) - No stat modifiers, affected by the moons
+
+Gift(90) - No stat modifiers, affected by the moons, duration = level / 3, applies spell_critical of (10 + moon(0/10/15/20)), if your moon is waxing/high/full then you also get a spell_saves_mod of 1/2/3
+-
+Bandage(50) - No stat modifiers
+
+Magical Anchor(90) - No stat modifiers, duration = 15 + (skill / 10)
+
+Temporal Vision(90) - No stat modifiers, duration = 2, number of spells = (skill / 20) + 2, legendary number of spells = (skill / 15) + 3, if legendary you also have a 2% chance to get all spells back
+
+Conjure(90) - Affected by level, success chance = (skill + level), each pet has a passive bonus listed below
+  "mercury" - SPELL_SAVES_MOD = (skill / 20)
+  "lead" - SAVING_SPELL = (skill / 15) * -1
+  "clay" - RESIST_MAGIC = (skill / 3)
+  "ironwood" - RESIST_MAGIC = (skill / 3)
+  "bone" - RESIST_MAGIC = (skill / 3)
+
+Arcane Barrier(90) - No stat modifiers, cooldown = 11 tics, duration = 2 tics, dam_absorbtion = (skill * 5 / 2), lasts until 2 tics expire or all the dam_absorbtion is gone
+  Black Robe - Blocks 33% of damage 100% of the time
+  Red Robe - 50%/50% chance to act like black/white
+  White Robe - Blocks 100% of the damage 33% of the time

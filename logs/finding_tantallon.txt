@@ -1,0 +1,670 @@
+[0m#LOG: LOGGING OUTPUT TO 'finding_tantallon.txt' FILESIZE: 0[0m
+[0;37mii[0m
+You utter the words, 'improved invisibility'
+You vanish.
+
+[32m[0;37m[32m323H [0;37m[33m[1m118V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:24 Exits:EW> [0;37me[0m
+
+A cagey elf arrives from the west.
+
+[32m[0;37m[32m323H [0;37m[33m[1m118V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:21 Exits:EW> [0;37me[0m
+[36mThe Eastern Road[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m116V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:20 Exits:EW> 
+[36mThe Eastern Road[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m114V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:20 Exits:EW> [0;37mopt brief[0m
+BRIEF turned off.
+
+[32m[0;37m[32m323H [0;37m[33m[1m114V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:17 Exits:EW> [0;37me[0m
+[36mSageway West[0;37m
+    This road has no over-growth on it, indicating that it is fairly well
+travelled. However, you don't notice much traffic along it. To either side
+of the road stretches a vast forest of huge vallenwood trees. The road runs
+east-west, and to the west, the forest opens up. A large poster can be seen
+nailed to a nearby tree.
+[33m[1m[0;37m[31m[1mA deer is here looking at you warily.
+[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m112V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:17 Exits:NESW> [0;37me[0m
+[36mSageway West[0;37m
+    This road has no over-growth on it, indicating that it is fairly well
+travelled. However, you don't notice much traffic along it. To either side
+of the road stretches a vast forest of huge vallenwood trees. The road
+itself runs east-west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m110V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:15 Exits:NESW> [0;37mm[0m
+Spells currently memorized:
+1: [ 1]blur                 [ 3]detect magic         [ 8]magic missile       
+   [ 1]repose              
+2: [ 2]continual light      [ 1]detect invisibility  [ 2]invisibility        
+   [ 4]shocking grasp       [ 2]strength            
+3: [ 4]gust of wind         [ 4]lightning bolt       [ 1]rot                 
+4: [ 7]acid blast           [ 1]improved invisibilit
+5: [ 7]arcane spear         [ 1]epiphany            
+6: [ 1]fireshield           [ 2]locate object        [ 1]relocate            
+   [ 3]scorch              
+7: [ 5]arcane lash          [ 1]mental acuity        [ 1]moment of clarity   
+8: [ 4]ignite              
+9: [ 2]shards of arcana    
+
+Spells being memorized:
+3: [ 1]fly                 
+4: [ 1]improved invisibilit
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+[32m[0;37m[32m323H [0;37m[33m[1m110V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:14 Exits:NESW> [0;37mn[0m
+[36mAt the Edge of the Forest[0;37m
+    Stepping off the path into the forest, the trees become more densely
+packed. There are several types of bushes and plants growing on the forest
+floor. On a large tree to the east you notice moss has begun to make a
+home on withering bark. Mushrooms dominate the forest floor, offering
+critters a hallucinogenic food source. To the north a loud hum is audible.
+[33m[1m[0;37m[31m[1mA cute little bunny is here, munching on some alfalfa.
+A prickly grey porcupine saunters through the forest here.
+[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m108V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:13 Exits:NESW> [0;37mn[0m
+[36mAbove a Buzzing Hive[0;37m
+    The trees thin out to some degree here, letting plenty of sunshine
+rain down upon the forest floor. A grist of bees has made this sunny patch
+of ground its home. Many flowers bloom in the area, a product of the
+pollination of the bees. Some flowering bushes are also present. The
+entrance to the hive is large enough for a human to slip through. The
+forest extends in all directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m106V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:13 Exits:NESWD> [0;37mn[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m104V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:12 Exits:ESW> [0;37mcast 'cont lig'[0m
+You utter the words, 'continual light'
+You make a sweeping gesture, creating a small ball of light.
+The ball of light begins following you, hovering nearby.
+
+[32m[0;37m[32m323H [0;37m[33m[1m104V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:8 Exits:ESW> [0;37ml[0m
+[36mDeep in the Vallenwood Forest[0;37m
+    The trees here totally block out the sky, requiring travelers to
+provide their own light. The forest is spooky, with long shadows being
+cast from unknown sources in every direction. The trees themselves seem to
+be reaching out for passersby. An audible hum emanates from the south.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m104V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:4 Exits:ESW> [0;37me[0m
+[36mDeep in the Vallenwood Forest[0;37m
+    The trees here totally block out all light, making it necessary for you
+to provide your own illumination. Every now and then you think you feel
+someone (or something) watching you. This place is creepy.
+[33m[1m[0;37m[31m[1mA big lazy dog walks slowly through the forest.
+[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m102V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:3 Exits:ESW> [0;37me[0m
+[36mDeep in the Vallenwood Forest[0;37m
+    The trees here totally block out all light, making it necessary for you
+to provide your own illumination. Every now and then you think you feel
+someone (or something) watching you. This place is creepy. On the ground is
+a clump of mushrooms and toadstools.
+[33m[1mA fresh dryad corpse is lying here.
+[0;37m[31m[1mA short fat muskrat waddles lazily through the forest.
+A big lazy dog walks slowly through the forest.
+A prickly grey porcupine saunters through the forest here.
+[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m100V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:3 Exits:ESW> [0;37me[0m
+[36mEdge of a Pond[0;37m
+    The forest gives way to the muddy banks of a small body of water. Many
+strange tall grasses grow in the shallows. Muddy footprints lead through a
+break in the grasses and into the water, seeming to indicate that this is
+a popular swimming spot. The forest continues to the south and west, while
+the bulk of the pond lies to the east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m98V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:2 Exits:ESW> [0;37me[0m
+[36mOn the Pond[0;37m
+    The wind whistles slightly here as it blows across the water. In the
+water hundreds of tiny fish swim together in an attempt to avoid being
+eaten by the larger fish. The water is clear and very deep. You question
+as to whether or not you could swim down far enough to touch the bottom.
+The vast open pond continues to the north and east. Drier land exists to
+the south and west.
+[33m[1m[0;37m[31m[1mAn ornate box turtle swims its way through the water here.
+A juvenile northern pintail duck swims along the shoreline.
+An ornate box turtle swims its way through the water here.
+A juvenile northern pintail duck swims along the shoreline.
+[0;37m
+[32m[0;37m[32m323H [0;37m[33m[1m96V [0;37m37682165X 71.76% 6314C [0;37mMem:1 T:1 Exits:NESW> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m350H [0;37m[33m[1m132V [0;37m37682165X 71.76% 6314C [0;37mT:60 Exits:NESW> [0;37mn[0m
+[36mOn the Pond[0;37m
+    Ripples radiate from a focal point as a fish leaps into the air,
+breaking the surface tension of the glassy mirror which is the surface of
+the lake. Passage to the west and north of here is blocked by a tangled
+mass of long grasses. The pond extends to the south and east. The waters
+seem unnaturally deep to the east.
+[33m[1m[0;37m[31m[1mA large green bullfrog sits on a lily pad here.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m130V [0;37m37682165X 71.76% 6314C [0;37mT:59 Exits:ES> [0;37me[0m
+[36mOn the Pond[0;37m
+    Shadows obscure the floor of the lake making an accurate estimate of
+depth impossible. Even though the waters are seemingly calm there is an
+ominous aura from the darkness below. Occasionally, reflections of scales
+shimmer and then fade as a school of fish swims down to the point where
+the darkness takes hold.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m128V [0;37m37682165X 71.76% 6314C [0;37mT:58 Exits:SWD> [0;37ms[0m
+[36mOn the Pond[0;37m
+    A plethora of waterlilies spring up from the water, surrounded by a
+sea of lilypads. One particularly large lilypad drifts aimlessly upon the
+mirrorlike surface of the pond. Passage to the south and east is blocked
+by a tangled mass of long water grasses. The pond extends to the north and
+west.
+[33m[1m[0;37m[31m[1mA juvenile northern pintail duck swims along the shoreline.
+A large green bullfrog sits on a lily pad here.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m126V [0;37m37682165X 71.76% 6314C [0;37mT:57 Exits:NW> [0;37mw[0m
+[36mOn the Pond[0;37m
+    The wind whistles slightly here as it blows across the water. In the
+water hundreds of tiny fish swim together in an attempt to avoid being
+eaten by the larger fish. The water is clear and very deep. You question
+as to whether or not you could swim down far enough to touch the bottom.
+The vast open pond continues to the north and east. Drier land exists to
+the south and west.
+[33m[1m[0;37m[31m[1mAn ornate box turtle swims its way through the water here.
+A juvenile northern pintail duck swims along the shoreline.
+An ornate box turtle swims its way through the water here.
+A juvenile northern pintail duck swims along the shoreline.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m124V [0;37m37682165X 71.76% 6314C [0;37mT:57 Exits:NESW> [0;37ms[0m
+[36mEdge of a Pond[0;37m
+    The forest gives way to the muddy banks of a small body of water. Many
+strange tall grasses grow in the shallows. Muddy footprints lead through a
+break in the grasses directly into the water, seeming to indicate that
+this is a popular swimming spot. The forest continues to the south and
+east, while the bulk of the pond lies to the north.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m122V [0;37m37682165X 71.76% 6314C [0;37mT:56 Exits:NSW> [0;37ms[0m
+[36mAt the Edge of the Forest[0;37m
+    As you step off the road into the forest, the trees are somewhat sparse
+here. There is a little underbrush here, but not enough to impede your
+progress. You can go deeper into the forest or return to the road.
+[33m[1m[0;37m[31m[1mA wild brown turkey looks at you and gobbles loudly.
+A quick brown fox paws at the ground as he looks at you.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m120V [0;37m37682165X 71.76% 6314C [0;37mT:56 Exits:NESW> [0;37me[0m
+[36mA Trail Alongside a Forest[0;37m
+    Tall, lush green vallenwood trees surround you, towering high above.
+The air is filled with the sound of chirping birds and the crunching of
+footsteps on crisp vallenwood leaves. Through the branches of the
+vallenwoods, you can barely see the town of Solace nearby to the southwest.
+A narrow trail leads east through the trees, and you can also continue
+west deeper into the forest.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m118V [0;37m37682165X 71.76% 6314C [0;37mT:55 Exits:EW> [0;37me[0m
+[36mA Forested Road[0;37m
+    These are the outskirts of the massive forest of vallenwood trees that
+surrounds the town of Solace. The town is nestled comfortably within the
+forest, its buildings carved from the very trees surrounding it. The
+chirping of birds and the crunching of footsteps on fallen leaves fills
+your ears, and the pleasant smell of crisp vallenwood leaves invades your
+nostrils. To the north is a vast plain, and the forest grows thicker to the
+south.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m116V [0;37m37682165X 71.76% 6314C [0;37mT:54 Exits:NW> [0;37mn[0m
+[36mOn a Dirt Road Through the Plains[0;37m
+    This is a large dirt road that winds through the plains, connecting the
+township of Solace and the village of Ravensvale. The area is fairly
+deserted, with very few signs of animal or humanoid life here. Besides the
+road, the only things to be seen are endless waves of yellowish-brown grass
+extending in all directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m114V [0;37m37682165X 71.76% 6314C [0;37mT:53 Exits:NS> [0;37mn[0m
+[36mOn a Dirt Road Through the Plains[0;37m
+    This is a large dirt road that winds through the plains, connecting the
+township of Solace and the village of Ravensvale. The area is fairly
+deserted, with very few signs of animal or humanoid life here. Besides the
+road, the only things to be seen are endless waves of yellowish-brown grass
+extending in all directions.
+[33m[1m[0;37m[31m[1mYou quickly clasp your belongings as you notice a grinning kender.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m112V [0;37m37682165X 71.76% 6314C [0;37mT:52 Exits:NS> [0;37mn[0m
+[36mOn a Dirt Road Through the Plains[0;37m
+    This is a large dirt road that winds through the plains, connecting the
+township of Solace and the village of Ravensvale. The area is fairly
+deserted, with very few signs of animal or humanoid life here. Besides the
+road, the only things to be seen are endless waves of yellowish-brown grass
+extending in all directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m110V [0;37m37682165X 71.76% 6314C [0;37mT:50 Exits:ES> [0;37me[0m
+[36mOn a Dirt Road Through the Plains[0;37m
+    This is a large dirt road that winds through the plains, connecting the
+township of Solace and the village of Ravensvale. The area is fairly
+deserted, with very few signs of animal or humanoid life here. Besides the
+road, the only things to be seen are endless waves of yellowish-brown grass
+extending in all directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m108V [0;37m37682165X 71.76% 6314C [0;37mT:50 Exits:EW> [0;37me[0m
+[36mOn a Dirt Road Through the Plains[0;37m
+    This is a large dirt road that winds through the plains, connecting the
+township of Solace and the village of Ravensvale. The area is fairly
+deserted, with very few signs of animal or humanoid life here. Besides the
+road, the only things to be seen are endless waves of yellowish-brown grass
+extending in all directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m106V [0;37m37682165X 71.76% 6314C [0;37mT:49 Exits:EW> [0;37me[0m
+[36mOn a Dirt Road Through the Plains[0;37m
+    This is a large dirt road that winds through the plains, connecting the
+township of Solace and the village of Ravensvale. The area is fairly
+deserted, with very few signs of animal or humanoid life here. Besides the
+road, the only things to be seen are endless waves of yellowish-brown grass
+extending in all directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m104V [0;37m37682165X 71.76% 6314C [0;37mT:48 Exits:EW> [0;37me[0m
+[36mOn a Dirt Road Through the Plains[0;37m
+    This is a large dirt road that winds through the plains, connecting the
+township of Solace and the village of Ravensvale. The area is fairly
+deserted, with very few signs of animal or humanoid life here. Besides the
+road, the only things to be seen are endless waves of yellowish-brown grass
+extending in all directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m102V [0;37m37682165X 71.76% 6314C [0;37mT:47 Exits:NW> [0;37mn[0m
+[36mOn a Dirt Road Through the Plains[0;37m
+    This is a large dirt road that winds through the plains, connecting the
+township of Solace and the village of Ravensvale. The area is fairly
+deserted, with very few signs of animal or humanoid life here. Besides the
+road, the only things to be seen are endless waves of yellowish-brown grass
+extending in all directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m100V [0;37m37682165X 71.76% 6314C [0;37mT:46 Exits:NS> [0;37mn[0m
+[36mOn a Dirt Road Through the Plains[0;37m
+    This is a large dirt road that winds through the plains, connecting the
+township of Solace and the village of Ravensvale. The area is fairly
+deserted, with very few signs of animal or humanoid life here. Besides the
+road, the only things to be seen are endless waves of yellowish-brown grass
+extending in all directions.
+[33m[1m[0;37m[31m[1mYou quickly clasp your belongings as you notice a grinning kender.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m98V [0;37m37682165X 71.76% 6314C [0;37mT:45 Exits:NS> [0;37mn[0m
+[36mNearing a Village[0;37m
+    You stand just a few steps from a tiny village whose population could
+probably be counted using less than the number of fingers on two hands.
+However, its inhabitants don't seem to mind, as you can see them bustling
+about with content, and sometimes flustered expressions on their faces. A
+few carts trundle through, laden with fresh fruits and vegetables. The
+village seems to be a popular stopping point for farmers to sell their
+produce.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m96V [0;37m37682165X 71.76% 6314C [0;37mT:44 Exits:ES> [0;37me[0m
+[36mThe Village of Ravensvale[0;37m
+    Several small buildings border the road, which stretches off west
+through the plains, as well as east through the village. A few peasants and
+farmers bustle about, engaging in various day-to-day activities, such as
+fetching water or hawking their wares. Ravensvale seems to have a
+relatively small population, since the number of buildings is fairly low
+and the number of people is not much higher.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m95V [0;37m37682165X 71.76% 6314C [0;37mT:43 Exits:EW> [0;37me[0m
+[36mA Small Path Through Ravensvale[0;37m
+    Leading east-west through the village, the hard-packed dirt path is
+frequented by the villagers who dwell here in Ravensvale as well as the
+farmers who come here to sell their products to the town grocer and the
+village populace. The building to the south houses the grocery store, while
+to the north you can see a typical peasant home.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m94V [0;37m37682165X 71.76% 6314C [0;37mT:42 Exits:NESW> [0;37me[0m
+[36mThe Village Commons[0;37m
+    The dirt path leads both east and west from here. There appears to be
+an equal number of buildings in both directions, from which you conclude
+that this must be the center of the village. Additionally, there are more
+people in this area, many of them gathered around the water pump in the
+center of the commons.
+[33m[1mSitting in the middle of the commons is a large metal pump.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m93V [0;37m37682165X 71.76% 6314C [0;37mT:38 Exits:EW> [0;37me[0m
+[36mA Small Path Through Ravensvale[0;37m
+    Leading east-west through the village, the hard-packed dirt path is
+frequented by the villagers who dwell here in Ravensvale as well as the
+farmers who come here to sell their produce to the town grocer and the
+village populace. The building to the north houses the local tavern and
+inn, while to the south lies a typical peasant home.
+[33m[1m[0;37m[31m[1mA happy child is sitting in the dirt, playing with some of his toys.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m92V [0;37m37682165X 71.76% 6314C [0;37mT:37 Exits:NESW> [0;37me[0m
+[36mThe Village of Ravensvale[0;37m
+    Several small buildings border the road, which stretches off north
+towards a sparse forest as well as west through the village. A few peasants
+and farmers bustle about, engaging in various day-to-day activities, such
+as fetching water or hawking their wares. Ravensvale seems to have a
+relatively small population, since the number of buildings is fairly low
+and the number of people is not much higher.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m91V [0;37m37682165X 71.76% 6314C [0;37mT:36 Exits:NW> [0;37mn[0m
+[36mNearing a Village[0;37m
+    You stand just a few steps from a tiny village whose population could
+probably be counted using less than the number of fingers on two hands.
+However, its inhabitants don't seem to mind, as you can see them bustling
+about with content, and sometimes flustered expressions on their faces. A
+few carts trundle through, laden with fresh fruits and vegetables. The
+village seems to be a popular stopping point for farmers to sell their
+produce.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m90V [0;37m37682165X 71.76% 6314C [0;37mT:35 Exits:NS> [0;37mn[0m
+[36mOutskirts of a Small Forest[0;37m
+    The forest that lies to the northeast is quite small and sparse, with
+relatively little foliage. A small dirt path leads between the trees and
+through the woods to the north, as well as south towards a village of
+minute proportions visible very close by. To the east you can see a small
+hovel that has no doubt been place there as a resting spot for travelers
+weary from many days on the road.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m88V [0;37m37682165X 71.76% 6314C [0;37mT:34 Exits:N(E)S> [0;37mn[0m
+[36mIn a Small Sparse Forest[0;37m
+    The greenery here is sparse, yet you consider it to be beautiful all
+the same. Lush plant life comprised mainly of bushes and flowers lines the
+dirt road on both of its sides, while a few small evergreens stretch up a
+short distance into the sky.
+[33m[1m[0;37m[31m[1mA weasel slinks about in the shadows of the forest, looking for prey.
+Sitting in the branches of a nearby tree is a beautiful robin.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m86V [0;37m37682165X 71.76% 6314C [0;37mT:33 Exits:NS> [0;37mn[0m
+[36mIn a Small Sparse Forest[0;37m
+    The greenery here is sparse, yet you consider it to be beautiful all
+the same. Lush plant life comprised mainly of bushes and flowers lines the
+dirt road on both of its sides, while a few small evergreens stretch up a
+short distance into the sky.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m84V [0;37m37682165X 71.76% 6314C [0;37mT:31 Exits:NS> [0;37mn[0m
+[36mOutskirts of a Small Forest[0;37m
+    The trees and brush are very thin and light here, marking this as the
+outskirts of the forest. The small forest stretches off to the southwest,
+covering a minute area of this region. The foliage is so light that it
+allows you to see the lights of a tiny village on the other side of the
+forest.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m82V [0;37m37682165X 71.76% 6314C [0;37mT:30 Exits:NS> [0;37mn[0m
+[36mDirt Road Through the Flatlands[0;37m
+    Winding its way through the small flatland area here that is uncovered
+by trees of any kind, the dirt path connects the mountains looming up above
+to the north and the small, lightly-wooded forest that lies close by in the
+southwestern distance.
+[33m[1m[0;37m[31m[1mA young minotaur strolls by, seeking adventure.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m80V [0;37m37682165X 71.76% 6314C [0;37mT:29 Exits:ES> [0;37me[0m
+[36mDirt Road Through the Flatlands[0;37m
+    Winding its way through the small flatland area here that is uncovered
+by trees of any kind, the dirt path connects the mountains looming up above
+to the north and the small, lightly-wooded forest that lies close by in the
+southwestern distance.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m78V [0;37m37682165X 71.76% 6314C [0;37mT:28 Exits:NW> [0;37mn[0m
+[36mDirt Road Through the Flatlands[0;37m
+    Winding its way through the small flatland area here that is uncovered
+by trees of any kind, the dirt path connects the mountains looming up above
+to the north and the small, lightly-wooded forest that lies close by in the
+southwestern distance.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m76V [0;37m37682165X 71.76% 6314C [0;37mT:27 Exits:NS> [0;37mn[0m
+[36mThe Base of a Mountain[0;37m
+    You stand at the base of an enormous mountain whose snowcapped peaks
+stretch up far into the sky, barely visible as a result of the distance
+between you and them. A narrow gravel path winds up the mountainside, while
+to the south the path turns to dirt and leads off across the flatlands that
+lie as far as even a kender could see.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m74V [0;37m37682165X 71.76% 6314C [0;37mT:26 Exits:SU> [0;37mu[0m
+[36mClimbing the Mountain[0;37m
+    A small gravel path leads up and down the mountain face, which would
+otherwise be impossible to traverse. High up in the sky, the peak of the
+mountain is barely visible. For fear of losing what little balance you
+have, you decide it would be better not to risk a glance downwards. Based
+on the maps you've seen, you hazard a guess that what lies below are
+lightly forested flatlands.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m72V [0;37m37682165X 71.76% 6314C [0;37mT:25 Exits:UD> [0;37mu[0m
+[36mClimbing the Mountain[0;37m
+    A small gravel path leads up and down the mountain face, which would
+otherwise be impossible to traverse. High up in the sky, the peak of the
+mountain is barely visible. For fear of losing what little balance you
+have, you decide it would be better not to risk a glance downwards. Based
+on the maps you've seen, you hazard a guess that what lies below are
+lightly forested flatlands.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m70V [0;37m37682165X 71.76% 6314C [0;37mT:24 Exits:UD> [0;37mu[0m
+[36mTop of the Path[0;37m
+    This is the absolute top of the gravel path. The only ways it leads are
+down and west. Looking upwards, you can see the peak of the mountain far
+off in the sky, but since no path leads up there, travel in that direction
+would be too risky.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m68V [0;37m37682165X 71.76% 6314C [0;37mT:23 Exits:WD> [0;37mw[0m
+[36mMountainside Path[0;37m
+    Leading both east and west, the gravel path below your feet is slippery
+and does not provide a very good grip for your feet. Travel is risky to say
+the least, as your balance could be described as precarious at best.
+Keeping it is a constant struggle, but a struggle that must be won at all
+costs, since the alternative is death.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m66V [0;37m37682165X 71.76% 6314C [0;37mT:22 Exits:EW> [0;37mw[0m
+[36mMountainside Path[0;37m
+    Leading both east and west, the gravel path below your feet is slippery
+and does not provide a very good grip for your feet. Travel is risky to say
+the least, as your balance could be described as precarious at best.
+Keeping it is a constant struggle, but a struggle that must be won at all
+costs, since the alternative is death.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m64V [0;37m37682165X 71.76% 6314C [0;37mT:21 Exits:EW> [0;37mw[0m
+[36mTurning a Corner[0;37m
+    The path winds around the mountain, changing to reflect the geography
+and surface content. Here it branches both east along the mountainside as
+well as north, leading around to the other side. Risking a quick glance
+down below, you feel your stomach leap into your throat as the reality hits
+you of just how high up you are.
+[33m[1m[0;37m[31m[1mFrom out of a mountainside crevice, a goblin leaps out and attacks!
+From out of a mountainside crevice, a goblin leaps out and attacks!
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m62V [0;37m37682165X 71.76% 6314C [0;37mT:20 Exits:NE> [0;37mn[0m
+[36mPath Around the Mountain[0;37m
+    Winding around the mountainside, the gravel path leads both north and
+south. The landscape cannot be described as anything except bleak, as all
+that you can see is the gray rocky surface of the mountain. That is, all
+that you can see besides what lies below.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m60V [0;37m37682165X 71.76% 6314C [0;37mT:18 Exits:NS> [0;37mn[0m
+[36mPath Around the Mountain[0;37m
+    Winding around the mountainside, the gravel path leads both north and
+south. The landscape cannot be described as anything except bleak, as all
+that you can see is the gray rocky surface of the mountain. That is, all
+that you can see besides what lies below.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m58V [0;37m37682165X 71.76% 6314C [0;37mT:17 Exits:NS> [0;37mn[0m
+[36mTurning a Corner[0;37m
+    The path winds around the mountain, changing to reflect the geography
+and surface content. Here it branches both east along the mountainside as
+well as south, leading around to the other side. Risking a quick glance
+down below, you feel your stomach leap into your throat as the reality hits
+you of just how high up you are.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m56V [0;37m37682165X 71.76% 6314C [0;37mT:16 Exits:ES> [0;37me[0m
+[36mGravel Path on the Mountain Face[0;37m
+    You can barely keep your balance on the narrow gravel path. Of course,
+there isn't much of a choice, seeing as the only alternative is plunging
+down hundreds if not thousands of feet into the distance below. The air is
+thin this high in the atmosphere, and you find yourself growing tired very
+quickly. The path leads both east and west along the mountainside.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m54V [0;37m37682165X 71.76% 6314C [0;37mT:15 Exits:EW> [0;37me[0m
+[36mGravel Path on the Mountain Face[0;37m
+    You can barely keep your balance on the narrow gravel path. Of course,
+there isn't much of a choice, seeing as the only alternative is plunging
+down hundreds if not thousands of feet into the distance below. The air is
+thin this high in the atmosphere, and you find yourself growing tired very
+quickly. The path leads down the mountain face as well as west along the
+mountainside.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m52V [0;37m37682165X 71.76% 6314C [0;37mT:14 Exits:WD> [0;37md[0m
+[36mClimbing the Mountain[0;37m
+    The narrow gravel path leaves you balancing precariously on the
+mountain face, mere inches from a drop-off measuring in the hundreds of
+feet. Below you, a small valley is visible, and in its center are what
+appear to be a town and a castle. The path continues both up and down.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m50V [0;37m37682165X 71.76% 6314C [0;37mT:13 Exits:UD> [0;37md[0m
+[36mClimbing the Mountain[0;37m
+    The narrow gravel path leaves you balancing precariously on the
+mountain face, mere inches from a drop-off measuring in the hundreds of
+feet. Below you, a small valley is visible, and in its center are what
+appear to be a town and a castle. The path continues both up and down.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m48V [0;37m37682165X 71.76% 6314C [0;37mT:12 Exits:UD> [0;37md[0m
+[36mClimbing the Mountain[0;37m
+    The narrow gravel path leaves you balancing precariously on the
+mountain face, mere inches from a drop-off measuring in the hundreds of
+feet. Below you, a small valley is visible, and in its center are what
+appear to be a town and a castle. The path continues both up and down.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m46V [0;37m37682165X 71.76% 6314C [0;37mT:11 Exits:UD> [0;37md[0m
+[36mThe Base of a Mountain[0;37m
+    Looming up above high into the sky are the magnificent gray peaks of a
+gargantuan mountain. You notice a small gravel path leading up and along
+the mountain face, eventually making its way around the mountain and down
+to the other side. That is to the south, though what lies north contrasts
+quite severely. A bleak dirt road winds through a small valley, eventually
+reaching a lush, plant-filled area.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m44V [0;37m37682165X 71.76% 6314C [0;37mT:10 Exits:NU> [0;37mn[0m
+[36mA Winding Valley Road[0;37m
+    Here, the dirt road winds through a small valley tucked inside a range
+of tall, grim mountains. The landscape is a bit bleak in this area, with
+nothing but the dirt on the path and the rock of the mountains. As you look
+to the north, however, you can see that there is more plant life to be
+found. You can't see very far to the south, as your view is impaired by the
+huge mountains to be found there.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m42V [0;37m37682165X 71.76% 6314C [0;37mT:10 Exits:ES> [0;37me[0m
+[36mA Winding Valley Road[0;37m
+    Here, the dirt road winds through a small valley tucked inside a range
+of tall, grim mountains. The landscape is a bit bleak in this area, with
+nothing but the dirt on the path and the rock of the mountains. As you look
+to the north, however, you can see that there is more plant life to be
+found. You can't see very far to the south, as your view is impaired by the
+huge mountains to be found there.
+[33m[1m[0;37m[31m[1mA Que-Shu tribal travels the road with a stoic expression on his face.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m40V [0;37m37682165X 71.76% 6314C [0;37mT:9 Exits:NW> [0;37mn[0m
+[36mA Winding Valley Road[0;37m
+    Here, the dirt road winds through a small valley tucked inside a range
+of tall, grim mountains. The landscape is a bit bleak in this area, with
+nothing but the dirt on the path and the rock of the mountains. As you look
+to the north, however, you can see that there is more plant life to be
+found. You can't see very far to the south, as your view is impaired by the
+huge mountains to be found there.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m38V [0;37m37682165X 71.76% 6314C [0;37mT:7 Exits:NS> [0;37mn[0m
+[36mThe Road to Tantallon[0;37m
+    This hard-packed dirt road leads along the floor of the valley towards
+the town of Tantallon not far off in a northerly direction. Lush green
+plant life borders the road on both sides, and the sound of animals drifts
+out of the brush. The crisp, fresh air is a pleasure to breathe, and the
+beautiful wildlife is a pleasure to watch and hear.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[31m36V [0;37m37682165X 71.76% 6314C [0;37mT:6 Exits:NS> [0;37mn[0m
+[36mThe Road to Tantallon[0;37m
+    This hard-packed dirt road leads along the floor of the valley towards
+the town of Tantallon not far off in a northerly direction. Lush green
+plant life borders the road on both sides, and the sound of animals drifts
+out of the brush. The crisp, fresh air is a pleasure to breathe, and the
+beautiful wildlife is a pleasure to watch and hear.
+[33m[1m[0;37m[31m[1mTiredly plodding along the road, a dwarven adventurer is here.
+[0;37m
+[32m[0;37m[32m350H [0;37m[31m34V [0;37m37682165X 71.76% 6314C [0;37mT:4 Exits:NS> [0;37mn[0m
+[36mThe Road to Tantallon[0;37m
+    This hard-packed dirt road leads along the floor of the valley towards
+the town of Tantallon not far off in a northerly direction. Lush green
+plant life borders the road on both sides, and the sound of animals drifts
+out of the brush. The crisp, fresh air is a pleasure to breathe, and the
+beautiful wildlife is a pleasure to watch and hear.
+[33m[1m[0;37m[31m[1mA Que-Shu tribal travels the road with a stoic expression on his face.
+A Que-Shu tribal travels the road with a stoic expression on his face.
+[0;37m
+[32m[0;37m[32m350H [0;37m[31m32V [0;37m37682165X 71.76% 6314C [0;37mT:3 Exits:ES> [0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m350H [0;37m[31m32V [0;37m37682165X 71.76% 6314C [0;37mT:2 Exits:ES> [0;37me[0m
+[36mThe Road to Tantallon[0;37m
+    This hard-packed dirt road leads along the floor of the valley towards
+the town of Tantallon not far off in a northerly direction. Lush green
+plant life borders the road on both sides, and the sound of animals drifts
+out of the brush. The crisp, fresh air is a pleasure to breathe, and the
+beautiful wildlife is a pleasure to watch and hear.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[31m30V [0;37m37682165X 71.76% 6314C [0;37mT:1 Exits:EW> 
+The cloud-veiled sky becomes even darker as the sun sets.
+
+[32m[0;37m[32m350H [0;37m[33m[1m66V [0;37m37682165X 71.76% 6314C [0;37mT:60 Exits:EW> [0;37me[0m
+[36mThe Road to Tantallon[0;37m
+    This hard-packed dirt road leads along the floor of the valley towards
+the town of Tantallon not far off in a northerly direction. Lush green
+plant life borders the road on both sides, and the sound of animals drifts
+out of the brush. The crisp, fresh air is a pleasure to breathe, and the
+beautiful wildlife is a pleasure to watch and hear.
+[33m[1m[0;37m[31m[1mA Que-Shu tribal travels the road with a stoic expression on his face.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m64V [0;37m37682165X 71.76% 6314C [0;37mT:59 Exits:EW> [0;37me[0m
+[36mThe Road to Tantallon[0;37m
+    This hard-packed dirt road leads along the floor of the valley towards
+the town of Tantallon not far off in a northerly direction. Lush green
+plant life borders the road on both sides, and the sound of animals drifts
+out of the brush. The crisp, fresh air is a pleasure to breathe, and the
+beautiful wildlife is a pleasure to watch and hear.
+[33m[1m[0;37m[31m[1mA Que-Shu tribal travels the road with a stoic expression on his face.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m62V [0;37m37682165X 71.76% 6314C [0;37mT:58 Exits:NW> [0;37mn[0m
+[36mThe Road to Tantallon[0;37m
+    This hard-packed dirt road leads along the floor of the valley towards
+the town of Tantallon not far off in a northerly direction. Lush green
+plant life borders the road on both sides, and the sound of animals drifts
+out of the brush. The crisp, fresh air is a pleasure to breathe, and the
+beautiful wildlife is a pleasure to watch and hear.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m60V [0;37m37682165X 71.76% 6314C [0;37mT:57 Exits:NS> [0;37mn[0m
+[36mWithin View of a Town[0;37m
+    Trudging down the dirt road, you come within view of a small town. This
+must be Tantallon, a quaint settlement ruled by a Solamnic lord whose
+family has resided here for generations. The scenery is beautiful in this
+area; lush green plants border the road as far as the eye can see, and
+aromatic flowers all around you lend a pleasant smell to the air. The road
+leads north to the town, as well as south into the wilderness.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m58V [0;37m37682165X 71.76% 6314C [0;37mT:56 Exits:NS> [0;37mn[0m
+[36mOutside the Southern Gates[0;37m
+    The smooth dirt road widens slightly here to accommodate the increased
+traffic. Visible close by to the north is the quiet town of Tantallon.
+Popular rumor indicates that the town is ruled by a Solamnic Knight by the
+name of Lord Curston, whose family fled Solamnia generations ago during the
+persecution of the Knights. Due to its remote location, the town remains
+unknown to much of Krynn's population. Its residents consider this a good
+thing, as they have remained forgotten by the evil dragonarmies during the
+many wars that have occurred.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m56V [0;37m37682165X 71.76% 6314C [0;37mT:55 Exits:NS> [0;37mn[0m
+[36mSouthern Gates of Tantallon[0;37m
+    The huge bronze gates marking the southern entrance to Tantallon make
+you feel impish, as they would to anyone. Stretching up far into the sky,
+the gates would do an excellent job of deterring most any foe in the event
+of a siege. A large stone wall runs east and west, ensuring that nobody can
+enter the city without using the gates. There appears to be a copper plaque
+set into the walls near the gates. The actual town lies to the north, while
+south is a dirt path leading away from Tantallon, eventually joining up
+with Sageway West and Solace.
+[33m[1m[0;37m[31m[1mA Tantallon peacekeeper strolls through, making sure all is well.
+A Tantallon gateguard stands here proudly at attention.
+A Tantallon gateguard stands here proudly at attention.
+[0;37m
+[32m[0;37m[32m350H [0;37m[33m[1m54V [0;37m37682165X 71.76% 6314C [0;37mT:54 Exits:NESW> 
+A Tantallon peacekeeper leaves west.
+
+[32m[0;37m[32m350H [0;37m[33m[1m54V [0;37m37682165X 71.76% 6314C [0;37mT:53 Exits:NESW> 
+A citizen of Tantallon arrives from the north.
+
+[32m[0;37m[32m350H [0;37m[33m[1m54V [0;37m37682165X 71.76% 6314C [0;37mT:51 Exits:NESW> [0;37m#log stop[0m
+[0m############################################################################### LOG OPTIONS ################################################################################[0m
+[0m  [APPEND       ] Start logging, apending to give file.[0m
+[0m  [OFF          ] Stop logging.[0m
+[0m  [OVERWRITE    ] Start logging, overwriting the given file.[0m
+[0;37m#log off[0m

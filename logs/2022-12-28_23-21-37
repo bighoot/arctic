@@ -1,0 +1,102 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+
+You were last connected Thu Dec 29 06:14:14 2022 UTC from 73.181.104.224.
+Reconnecting.
+
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [0;37mT:32 Exits:W> l
+[36mA Checkpoint in the Meadow[0;37m
+    A beaten path winding to the west of you opens to a wide, grassy field,
+ringed by stands of trees. The path also runs eastward, into a light, misty
+wood. Scattered about the grassy field to the west, you see large tents of
+various colors have been raised.
+[33m[1mA white tunic with the heraldic symbols of Solamnia on it has been left here. [2]
+A lantern-mounted post has been driven into the ground here...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [0;37mT:31 Exits:W> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Lanai has reconnected.
+[37mYour clanmate Lanai has entered the game.
+[0;37m
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mT:25 Exits:W> 
+[37mYour clanmate Eir has gained a level.
+[0;37m
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mT:2 Exits:W> 
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:W> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+[0;37m[0m
+
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mT:38 Exits:W> [0;37mboth sta[0m
+-#-#-#-#-#-#-#-> Lanai <-#-#-#-#-#-#-#-  stands up.
+You stand up.
+
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:W> [0;37mfood[0m
+Huh?!
+
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mT:36 Exits:W> [0;37mset24[0m
+[0;37mfood[0m
+You utter the words, 'create food'
+You create some food.
+
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mMem:3 T:33 Exits:W> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mMem:3 T:29 Exits:W> 
+You give a piece of sweet bread to Lanai.
+
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mMem:3 T:29 Exits:W> 
+You drink the water.
+You are full.
+You drink the water.
+You do not feel thirsty.
+You are full.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:28 Exits:W> [0;37ml[0m
+[36mA Checkpoint in the Meadow[0;37m
+    A beaten path winding to the west of you opens to a wide, grassy field,
+ringed by stands of trees. The path also runs eastward, into a light, misty
+wood. Scattered about the grassy field to the west, you see large tents of
+various colors have been raised.
+[33m[1mA white tunic with the heraldic symbols of Solamnia on it has been left here. [2]
+A lantern-mounted post has been driven into the ground here...it glows dimly
+[0;37m[31m[1m<Myth> Lanai, Pineapple Prince is standing here. (flying) (black aura)
+. . . has a tough exterior.
+[0;37m
+[32m[0;37m[32m426H [0;37m[32m131V [0;37m13204761X 60.46% 9246C [**Lanai:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:28 Exits:W> [0;37m#zap[0m
+[0m[0m
+[0m#ZZZZZZZAAAAAAAAPPPP!!!!!!!!! LET'S GET OUTTA HERE!!!!!!!![0m
+[0m#SESSION 'a' DIED.[0m

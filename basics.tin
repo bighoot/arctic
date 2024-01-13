@@ -1,4 +1,6 @@
-#split 2
+#split 1
+
+#ac {%1 decays in your hands.} {#format {decaytime} {%t} {%Y-%m-%d %T};#line log c:\users\cjrja\onedrive\desktop\decays.log {$decaytime %1}};
 
 #action {A large fountain sits in the middle of the road, taking up space.} {fill all fountain}
 #action {A white marble fountain spring is in the middle of the clearing.} {fill all fountain}
@@ -14,10 +16,10 @@
 #highlight {You feel especially skillful today.} {magenta}
 
 #action {^There were %0 coins} {split %0}
+#highlight {^You are *, a level *.$} {cyan} 
+#highlight {^You raise a level!$} {cyan} 
 
-#highlight {Hastam %*} {cyan}
-#highlight {Hastam, %*} {cyan}
-#highlight {%* Hastam, %*} {cyan}
+#substitute {^You gain a rank.$} {<149>***YOU GAIN A RANK***}
 
 #substitute {massacres} {MASSACRES}
 #substitute {massacre} {MASSACRE}
@@ -30,10 +32,21 @@
 
 #substitute {You feel up to using %0 again.} {##!##!##!##>  %0  <##!##!##!##}
 
-#substitute {Hastam} {**HASTAM**}
-#substitute {Murus} {**MURUS**}
-#substitute {Drogon} {**DROGON**}
-#substitute {Dwight} {**DWIGHT**}
+#NOP Random Gear Stuff
+#substitute {NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> PALADIN ONLY <--}
+#substitute {NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE} {--> SHAMAN ONLY <--}
+#substitute {NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> WARRIOR ONLY <--}
+#substitute {NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> WARRIOR ONLY <--}
+#substitute {NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> SCOUT ONLY <--}
+#substitute {NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> SCOUT ONLY <--}
+#substitute {NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> CLERIC ONLY <--}
+#substitute {NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> DARK KNIGHT ONLY <--}
+#substitute {NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> BARBARIAN ONLY <--}
+#substitute {NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> THIEF ONLY <--}
+#substitute {NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> DRUID ONLY <--}
+
+#substitute {NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN} {--> TANK ONLY <--}
+#substitute {NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT} {--> CASTER ONLY <--}
 
 #MACRO {\eOr} {s}
 #MACRO {\eOs} {d}
@@ -41,57 +54,53 @@
 #MACRO {\eOv} {e}
 #MACRO {\eOx} {n}
 #MACRO {\eOy} {u}
+#macro {\eOu} {assist;fight;combat;frenz;}
 
-#substitute {You feel that Velox the mercury golem is up to using detonation I again.} {****CAUSE I'M TNT!  I'M  DYNAMITE!****}
-
-#action {Sharg rears his head back and lets out a mighty roar!} {stand;}
-
-#action {Your wounds stop healing.} {#a #showme <159> *******>>> REGENERATION GONE <<<*******; #b #showme <159> *******>>> REGENERATION GONE <<<*******; gt Regeration gone!}
-
-#action {Sharg tells your group 'crawl hole'} {crawl hole}
 
 #nop PATHS
-#nop Kalaman --> Neraka
+#nop Kalaman South Gate --> Neraka North Side
 #alias kal2ner {s;s;s;s;s;s;s;u;s;s;s;d;s;e;s;s;e;s;s;d;s;s;s;s;s;e;e;e;d;s;s;s;s;s;}
 #alias ner2kal {n;n;n;n;n;u;w;w;w;n;n;n;n;n;u;n;n;w;n;n;w;n;u;n;n;n;d;n;n;n;n;n;n;n;}
 
-#nop Solace --> Tollhouse
+#nop Solace North Gate --> Tollhouse
 #alias sol2toll {n;n;n;e;e;e;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;w;n;n;w;w;w;n;n;n;e;n;n;n;n;e;n;n;w;n;n;n;}
 #alias toll2sol {s;s;s;e;s;s;w;s;s;s;s;w;s;s;s;e;e;e;s;s;e;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;w;w;w;s;s;s;}
 
-#nop Tollhouse --> Kalaman             
+#nop Tollhouse --> Kalaman East Gate             
 #alias toll2kal {e;n;n;e;e;e;e;e;e;e;e;n;e;e;e;n;e;e;s;s;s;s;e;e;s;s;s;s;s;e;e;e;e;}
 #alias kal2toll {w;w;w;w;n;n;n;n;n;w;w;n;n;n;n;w;w;s;w;w;w;s;w;w;w;w;w;w;w;w;s;s;w;}
 
-#nop Neraka --> Bard Tree
+#nop Neraka East Side --> Bard Tree
 #alias ner2tree {e;e;e;e;e;s;s;s;s;s;d;e;e;}
 #alias tree2ner {w;w;u;n;n;n;n;n;w;w;w;w;w;}
 
-#nop Tollhouse --> Palanthas
+#nop Tollhouse --> Palanthas Cemetary Side
 #alias toll2pal {w;w;w;w;n;n;w;w;d;w;w;u;w;n;n;e;e;n;n;n;w;w;n;n;n;n;n;n;}
 #alias pal2toll {s;s;s;s;s;s;e;e;s;s;s;w;w;s;s;e;d;e;e;u;e;e;s;s;e;e;e;e;}
 
-#nop Solace --> Thorbardin "A Steep Pass in the Mountain"
+#nop Solace South Gate --> Thorbardin "A Steep Pass in the Mountain"
 #alias sol2thorb {s;s;s;s;e;s;s;s;s;w;s;s;s;s;s;e;s;s;s;s;w;s;s;s;s;e;s;s;s;e;e;e;s;e;s;s;s;s;s;e;e;e;s;u;s;u;s;s;d;s;w;s;s;s;s;s;s;}
 #alias thorb2sol {n;n;n;n;n;n;e;n;u;n;n;d;n;d;n;w;w;w;n;n;n;n;n;w;n;w;w;w;n;n;n;w;n;n;n;n;e;n;n;n;n;w;n;n;n;n;n;e;n;n;n;n;w;n;n;n;n;}
 
-#nop SH --> Tollhouse
-#alias myth2toll {s;w;s;w;w;s;w;w;w;s;w;w;w;w;w;w;w;w;s;s;w;}
-#alias toll2myth {e;n;n;e;e;e;e;e;e;e;e;n;e;e;e;n;e;e;n;e;n;}
+#nop Solace South Gate --> The Bog
+#alias sol2bog {s;s;s;s;e;s;s;s;s;w;s;s;s;s;s;e;s;s;s;s;w;s;s;s;s;e;s;s;s;e;e;e;s;e;}
 
-#nop Kal --> DV
+#nop Kal West Gate --> DV
 #alias kal2dv {w;w;w;w;n;n;n;n;n;w;w;s;s;e;s;s;s;w;w;s;s;e;s;s;s;e;s;e;e;n;w;w;n;w;}
+#alias dv2kal {e;s;e;e;s;w;w;n;w;n;n;n;w;n;n;e;e;n;n;n;w;n;n;e;e;s;s;s;s;s;e;e;e;e;}
 
-#nop Solace --> West Winds
-#alias sol2west {n;n;w;w;n;n;n;n;n;n;w;w;w;w;w;s;s;s;s;s;w;w;n;n;n;n;n;e;n;n;w;w;s;}
-
-#nop West Winds --> Kagonesti Hinterlands
+#nop Solace North Gate --> West Winds
+#alias sol2west {n;n;w;w;n;n;n;n;n;n;w;w;w;w;w;w;n;n;n;n;w;w;w;w;w;w;w;s;w;s;s;s;e;e;e;e;e;e;n;n;e;e;e;e;s;}
+#alias west2sol {n;w;w;w;w;s;s;w;w;w;w;w;w;n;n;n;e;n;e;e;e;e;e;e;e;s;s;s;s;e;e;e;e;e;e;s;s;s;s;s;s;e;e;s;s;}
+ 
+#nop West Winds --> Kagonesti Hinterlands (A Turn Along the Ridge  NW)
 #alias west2kag {n;n;n;n;w;w;n;n;n;n;n;n;e;e;e;e;s;e;s;s;s;w;s;s;}
+#alias kag2west {n;n;e;n;n;n;w;n;w;w;w;w;s;s;s;s;s;s;e;e;s;s;s;s;}
 
-#nop Palanthas --> Gulfport
+#nop Palanthas West Gate --> Gulfport
 #alias pal2gulf {w;w;w;w;w;w;w;w;u;w;w;d;w;w;d;n;w;s;s;s;s;s;s;w;s;s;s;w;w;s;s;w;w;w;w;w;w;w;w;w;w;w;s;w;w;w;w;w;s;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;}
 
-#nop Kender Bard --> Port Balifor
+#nop Kender Bard --> Port Balifor North Gate
 #alias bard2bali {e;n;n;e;e;e;e;e;e;s;s;s;s;s;s;}
 #alias bali2bard {n;n;n;n;n;n;w;w;w;w;w;w;s;s;w;}
 
@@ -99,20 +108,149 @@
 #alias bard2keep {s;s;w;w;n;w;n;n;n;n;n;n;n;e;e;n;n;n;u;e;u;e;u;u;u;n;}
 #alias keep2bard {s;d;d;d;w;d;w;d;s;s;s;w;w;s;s;s;s;s;s;s;e;s;e;e;n;n;}
 
-#nop Kender Bard --> Neraka
+#nop Kender Bard --> Neraka East Side
 #alias bard2ner {w;w;n;n;u;n;n;n;w;n;n;w;w;w;w;w;}
 #alias ner2bard {e;e;e;e;e;s;s;e;s;s;s;d;s;s;e;e;}
 
-#nop Kalaman --> Solamnic Ship
+#nop Kalaman North Gate --> Solamnic Ship
 #alias kal2ship {n;n;e;e;e;e;e;e;e;e;e;e;e;s;s;e;s;s;e;e;n;n;e;e;n;n;n;n;w;d;d;n;n;n;n;w;}
 #alias ship2kal {e;s;s;s;s;u;u;e;s;s;s;s;w;w;s;s;w;w;n;n;w;n;n;w;w;w;w;w;w;w;w;w;w;w;s;s;}
 
-#nop Kalaman --> Dargaard Keep
+#nop Kalaman West Gate --> Dargaard Keep
 #alias kal2soth {w;w;w;w;n;n;n;n;n;w;w;s;s;e;s;s;s;w;w;s;s;e;s;e;s;e;e;n;n;}
 #alias soth2kal {s;s;w;w;n;w;n;w;n;n;e;e;n;n;n;w;n;n;e;e;s;s;s;s;s;e;e;e;e;}
 
-#nop Palanthas --> Rayne's
+#nop Palanthas South Gate --> Rayne's
 #alias pal2ray {s;s;w;s;s;w;s;s;e;s;u;s;e;s;s;s;e;s;u;w;s;u;e;}
 
-#nop Balifor --> CV
+#nop Balifor North Gate --> CV
 #alias bali2cv {n;n;n;n;n;n;w;w;w;w;w;w;s;s;w;s;s;w;w;n;w;n;n;n;n;n;n;n;w;w;n;n;w;n;n;n;n;n;n;n;n;n;u;u;n;n;n;n;}
+
+#nop kalaman East Gate -> woods
+#alias kal2woods {e;e;s;s;s;s;e;e;e;e;u;e;e;e;n;u;e;e;e;n;n;e;s;e;d;}
+#alias woods2kal {u;w;n;w;s;s;w;w;w;d;s;w;w;w;d;w;w;w;w;n;n;n;n;w;w;}
+
+#nop kalaman West Gate -> QK
+#alias kal2qk {w;w;w;w;n;n;n;n;n;w;w;n;n;n;n;w;w;s;w;w;n;n;n;n;w;n;n;w;n;}
+#alias qk2kal {s;e;s;s;e;s;s;s;s;e;e;n;e;e;s;s;s;s;e;e;s;s;s;s;s;e;e;e;e;}
+
+#nop kalaman South Gate -> Boku
+#alias kal2boku {s;s;s;s;s;s;s;u;s;s;w;d;w;d;w;w;w;d;w;d;s;d;s;s;s;w;d;w;n;n;w;n;e;n;e;e;e;}
+
+#nop tollhouse -> Lemish
+#alias toll2lem {s;s;s;e;s;s;w;s;s;e;e;e;n;e;e;e;e;e;e;s;e;e;s;e;e;s;e;e;s;e;e;e;s;s;w;s;s;s;}
+#alias lem2toll {n;n;n;e;n;n;w;w;w;n;w;w;n;w;w;n;w;w;n;w;w;w;w;w;w;s;w;w;w;n;n;e;n;n;w;n;n;n;}
+
+#nop palanthas West Gate -> Illyoc
+#alias pal2swamp {w;s;w;s;s;s;s;s;e;s;e;u;s;e;d;e;s;s;e;}
+
+#nop Balifor North Gate -> Flotsam
+#alias bali2flot {n;n;n;n;n;n;e;e;e;n;n;n;n;}
+#alias flot2bali {s;s;s;s;w;w;w;s;s;s;s;s;s;}
+
+#nop Flotsam -> Mearia
+#alias flot2mearia {s;s;s;s;w;s;e;e;e;e;e;n;}
+#alias mearia2flot {s;w;w;w;w;w;n;e;n;n;n;n;}
+
+#nop Tollhouse -> HCT
+#alias toll2hct {w;w;w;w;n;n;w;w;d;w;w;u;w;n;n;}
+
+#nop Tarsis[] -> Tarsis Hermit
+#alias tar2herm {w;w;w;w;w;w;w;s;w;w;w;s;w;w;w;w;s;u;w;u;s;u;e;}
+
+#nop Solace North Gate -> Whitestone
+#alias sol2glade {n;n;w;w;n;n;n;n;n;n;w;w;w;w;w;w;n;n;n;n;w;w;w;w;w;w;w;s;w;w;w;w;w;w;n;n;n;n;e;e;e;e;e;e;s;e;e;}
+#alias glade2sol {w;w;n;w;w;w;w;w;w;s;s;s;s;e;e;e;e;e;e;n;e;e;e;e;e;e;e;s;s;s;s;e;e;e;e;e;e;s;s;s;s;s;s;e;e;s;s;}
+
+#nop glade whitestone -> startft: 2wn2wn2w5ne2n2unw3un
+
+
+#nop Tarsis East Gate -> Bard
+#alias tar2bard {e;e;e;e;e;s;e;e;e;e;n;n;e;u;e;e;e;e;n;n;n;e;e;e;e;e;e;n;n;e;u;n;n;n;n;e;e;n;e;e;e;e;n;n;n;u;n;n;n;n;n;}
+#alias bard2tar {s;s;s;s;s;d;s;s;s;w;w;w;w;s;w;w;s;s;s;s;d;w;s;s;w;w;w;w;w;w;s;s;s;w;w;w;w;d;w;s;s;w;w;w;w;n;w;w;w;w;w;}
+
+#nop Tollhouse -> Qualm
+#alias toll2qualm {s;s;s;e;s;s;w;s;s;e;e;e;n;e;e;e;e;e;e;s;e;e;s;e;e;s;e;e;s;e;e;e;s;s;w;s;s;s;s;s;s;e;s;s;w;s;s;s;s;s;s;w;s;s;s;e;e;e;n;n;u;w;n;n;u;}
+
+#nop Solace East Gate -> Rainsong
+#alias sol2ambush {e;e;e;e;e;e;e;e;e;e;e;e;e;}
+#alias ambush2rain {e;e;e;e;e;s;s;e;s;s;e;e;e;e;s;s;e;s;e;s;e;s;s;cut grass;e;s;e;s;s;}
+#alias rain2sol {n;n;w;n;w;n;n;w;n;w;n;w;n;n;w;w;w;w;n;n;w;n;n;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;w;}
+
+#nop Solace North Gate -> Lost Valley
+#nop 8n 3e 15n w 2n 3w 3n e 2n 3e n 2e 2s e 5s w s u 3n w d (enter crack/w) e s 6e d
+#alias sol2val {n;n;n;e;e;e;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;w;n;n;w;w;w;n;n;n;e;n;n;e;e;e;n;e;e;s;s;e;s;s;s;s;s;w;s;u;n;n;n;w;d;enter crack;e;s;e;e;e;e;e;e;d}
+
+#nop Tarsis East Gate -> Cloud Kingdom
+#alias tar2troll {e;e;e;e;e;s;e;s;s;s;s;s;e;e;e;e;e;e;e;e;e;e;e;s;s;s;s;e;e;e;s;s;e;n;n;e;n;e;e;n;n;n;e;e;n;}
+#alias troll2cloud {e;u;s;u;s;e;u;e;u;n;}
+
+#nop Tarsis North Gate -> Thorbardin
+#alias tar2thorb {n;w;n;n;w;n;n;n;w;w;n;n;n;n;n;n;n;n;n;n;n;u;n;n;n;u;n;n;n;w;w;n;w;u;n;}
+#alias thorb2tar {s;d;e;s;e;e;s;s;s;d;s;s;s;d;s;s;s;s;s;s;s;s;s;s;s;e;e;s;s;s;e;s;s;e;s;}
+
+#nop Darkenwood
+#alias sol2roots {s;w;s;w;w;s;s;s;e;e;e;e;e;s;s;s;w;w;s;s;e;e;}
+#alias roots2sol {w;w;n;n;e;e;n;n;n;w;w;w;w;w;n;n;n;e;e;n;e;n;}
+#alias roots2uni {e;e;e;e;e;e;e;n;n;w;s;w;n;w;n;w;w;w;n;n;e;s;e;n;n;n;e;e;n;n;}
+#alias uni2roots {s;s;w;w;s;s;s;w;n;w;s;s;e;e;e;s;e;s;e;n;e;s;s;w;w;w;w;w;w;w;}
+
+#alias sol2ansabar {#14 east; #6 north; #3 west; #4 north; e; n; e; #4 north; e; #8 north; #2 west; n; e; roll boulder; e; d; #3 east; n; open door e;}
+#nop 14, 5, 1, 
+
+#nop Kender Bard -> Back Gate of Dwarf Keep
+#alias bard2gate {s;s;w;w;n;w;n;n;n;n;n;n;n;e;e;n;n;n;u;e;u;e;u;u;u;w;w;n;u;n;d;n;e;n;}
+
+#nop Balifor Inn -> Lemuria Cleric Bookshelf
+#alias bali2lemu {d;n;w;w;w;w;w;w;w;s;s;w;w;s;e;e;s;e;s;e;e;n;n;d;d;d;e;n;n;n;}
+
+#nop Solace -> Tantallon 
+#alias sol2gobs {e;e;e;e;e;e;e;e;n;e;e;n;n;n;e;e;e;e;n;n;n;e;e;e;e;e;n;n;n;n;n;n;e;n;n;u;u;u;w;w;w;}
+#alias gobs2tant {n;n;n;e;e;d;d;d;d;n;e;n;n;n;n;e;e;e;n;n;n;n;}
+
+#nop Balifor Inn -> 
+#alias bali2jail {d;n;e;e;e;e;e;e;u;open door n;n;get all peg;s;d;e;unlock door e; open door e;e;d;unlock door s;open door s;s;s;s;e;s;}
+#alias jail2bali {n;w;n;n;n;u;w;w;w;w;w;w;w;w;s;u;}
+
+#nop Pal West Gate -> Celestial Temple Entrance
+#alias pal2ct {w;w;s;s;s;s;s;w;w;s;w;w;s;w;s;w;n;n;n;w;n;n;}
+#alias ct2guard {n;d;n;n;w;n;n;n;w;w;w;}
+#alias guard2gate {e;e;e;e;e;n;e;n;e;e;s;e;s;s;s;}
+
+#nop Locate Spots
+#alias ner2sanc {open door;w;s;w;s;s;open gate;w;s;s;e;s;s;s;e;s;s;d;d;w;w;w;d;s;w;w;s;s;w;d;s;s;e;u;n;u;e;}
+
+#nop Celestial Temple Key Path
+#alias dokeys {s;w;s;s;w;unlock chest in room;open chest in room;get all chest in room;e;n;n;e;n;w;w;w;w;n;e;n;e;e;n;w;unlock chest in room;open chest in room;get all chest in room;e;s;w;w;s;w;s;e;e;e;e;e;e;s;e;unlock chest in room;open chest in room;get all chest in room;w;n;w;w;n;n;e;e;n;w;n;unlock chest in room;open chest in room;get all chest in room;s;e;s;w;w;s;s;}
+
+#nop  solsquare -> startwda: 21e2swswsws5esws2e2swnw2se3se2sw2s3e
+
+#nop Thorbadin -> Kua-Toa Scouts
+#alias thorb2kua {#11 west; #3 south; #3 west; #2 down; south; get axe; south; dig; #3 west; down; north; west;}
+
+#nop Tarsis East Gate -> Ruins of Elial
+#alias tar2ruins {#5 east; south; #4 east; #2 north; east; up; #4 east; #3 north; #6 east; #2 north; east; north; #3 west;}
+
+#nop Bard -> Ruins of Elial
+#alias bard2ruins {#5 south; down; #3 south; #4 west; south; #2 west; #3 south; down; #3 west;}
+
+#nop Solace North Gate -> Kender Bard
+#alias sol2bard {#3 n; #3 e; #7 n; #4 e; n; #9 e; #5 s; e; #2 s; e; #8 s; #5 e; n; #5 e; n; #4 e; #3 n; u; #5 n;}
+
+#nop Solace South Gate -> Pasal
+#alias sol2pas {#4 south; east; #4 south; west; #5 south; east; south; east; open gates; east; south; open door south; south;}
+
+#nop Thorbardin First Cart -> Daergar Prison
+#alias t1c2jail {ride cart;n;ride ferry;n;ride lift 22;w;s;}
+#alias jail2dig {n;e;ride lift 0;s;ride ferry; s; ride cart;s;e;e;e;s;}
+#alias dig2shop {n;w;w;w;n;ride cart;n;ride ferry;n;ride lift 8;n;n;}
+#alias shop2melt {s;s;ride lift up;w;s;}
+
+#nop Kender Bard -> Transmog Trainer
+#alias bard2transmo {#5 s; d; #3 s; #4 w; s; #2 w; #4 s; d; w; #2 s; #6 w; #3 s; #4 w; s; e;}
+
+#nop Neraka Loop
+#alias loop {w;w;w;s;s;s;e;s;s;e;s;e;e;e;n;e;n;n;n;n;w;n;w;w;}
+
+#nop Solace North Gate --> Lytburg
+#alias sol2lyt {n;n;n;e;e;e;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;w;n;n;w;w;w;n;n;n;e;n;n;e;e;e;n;e;s;s;s;w;w;w;w;s;e;s;s;s;s;}

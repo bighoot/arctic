@@ -1,0 +1,542 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? start
+
+We reserve the right to delete or force a player to change his name if we feel
+that it is inappropriate. Character names should be chosen in light of the world
+in which Dragonlance stories take place. Compound nouns (such as Darkshadow or
+Flamesword), anachronistic character names (such as Superman or Judgedredd), and
+silly names (such as Mrboffo and Iamanewbie)are inappropriate. Characters with
+such names will very likely be deleted. In the event you are asked to change
+names (gods are not required to ask), please remember to be polite and
+courteous: Staff members are here to help maintain a pleasant gaming
+environment, not make your personal experience difficult.
+
+What name will your new character have? Pancho
+Did I get that right, Pancho (Y/N)? y
+
+New character.
+
+WARNING:
+     By default you can connect to Arctic from any computer. To protect
+     your character you can choose to limit the number of domains you can
+     connect to Arctic from. Use 'opt domain <number of domains>' when your
+     character is created to enable this.
+
+What will your password be, Pancho? 
+
+Please repeat your password: 
+
+Are you new to Arctic? (Y/N) : n
+
+Choose a gender (Male/Female): m
+
+(1) Cleric       (2) Druid        (3) Warrior      (4) Paladin      
+(5) Thief        (6) Dark Knight  (7) Barbarian    (8) Magic User   
+(9) Scout        (10) Shaman       
+
+Please select a guild ("help" for help): 9
+(1) Sky       (2) Ocean     (3) Mountain  
+
+Please select a path ("help" for help): 3
+
+(1) Human          (2) Half Elf       (3) Kender         (4) Silvanesti     
+(5) Qualinesti     (6) Kagonesti      (7) Hill Dwarf     (8) Minotaur       
+(9) Goblin         
+
+Please select a race ("help" for help): 8
+
+A Minotaur Scout can naturally roll the following stats:
+
+Str: 23-24 Int: 13-14 Wis: 13-14 Dex: 13-14 Con: 16-17 Cha: 13-14
+
+Choosing a primary stat will give you an additional bonus.
+
+Do you want to keep this guild / race combination? (Y/N) y
+
+(1) Strength          (2) Intelligence      (3) Wisdom           
+(4) Dexterity         (5) Constitution     (6) Charisma         
+
+Please select a primary stat ("help" for help): 1
+
+( 1) Neutral Chaotic  ( 2) Evil Chaotic     ( 3) Evil Lawful      
+( 4) Evil Neutral     ( 5) Neutral Evil     ( 6) Neutral Lawful   
+( 7) Neutral Good     ( 8) Good Neutral     ( 9) Good Lawful      
+(10) Good Chaotic     
+
+Please select an alignment ("help" for help): 6
+
+[38;5;202mIs this line orange [0m(Y/N) : y
+
+    We require characters to be registered to an active e-mail account. We
+    will not sell this information, or share it with others. This will allow
+    us to help you if there is ever a problem with your character.
+    Do not use a free email site.  These are unacceptable due to abuse.
+    (Characters without valid email addresses may be deleted.)
+
+Please enter your email address: cjr.jab8910roberton@gmail.com
+                  -- ArcticMUD General Information --
+
+These are pieces of information that we suggest you research before you
+begin game play.  You can read this page at the game prompt by typing 'info'.
+
+1.  All the basic information we think you need to play the game is 
+    available through the HELP command. Type HELP by itself to see a list
+    of topics which can then be read with the HELP command.
+
+2.  You must read the disclaimer by typing HELP DISCLAIMER. You should
+    also read the rules by typing HELP RULES.
+    ***WARNING:  IGNORANCE IS NO DEFENSE ***
+
+3.  New players should read HELP NEWBIE. Then read all the topics it points
+    you to. Even old players can probably learn a few things here.
+
+The roads are long and tiring, be prepared.  The game is designed for
+experienced MUD players; it is full of subtle dangers, so keep your
+eyes open.  Inexperienced players are welcomed to try to conquer the
+game -- we have done our best to accommodate you as well.
+
+"Life is dangerous, Caramon. Just stepping out that door is dangerous! You
+
+ [return for more, q to stop]
+cannot hide from danger. Death floats on the air, creeps through the
+window, comes with the handshake of a stranger. If we stop living because
+we fear death, then we have already died."
+-Raistlin Majere "The Soulforge"
+
+Enjoy your stay at Arctic.
+
+ALSO SEE HELP ON: DISCLAIMER, RULES, NEWBIE, FAQ
+
+The roads are long and tiring, be prepared.  The game is designed for
+experienced MUD players; it is full of subtle dangers, so keep your:
+eyes open.
+
+Enjoy your stay at Arctic.
+
+    'You will be yet another pawn on this chessboard you call
+     life.  I bind your soul to the mortal realm so you may
+     play your part in the continual struggle.  This is not
+     a gift.  As you will see, it can be your curse.'
+
+*** Press Enter: 
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 0 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mNowhere[0;37m
+    You stand in the void between the heavens above and the green sphere of
+Krynn below. From here, you can see three pillars reaching up from the
+depths below, holding up the universe. These three pillars are colored
+black, red and white and form a triangle. As you peer closer, you notice a
+fourth, almost invisible pillar in the middle of them, separate, yet still
+a part of the whole. A multitude of silvery strings range out from here,
+heading earthward towards various points upon Krynn. Several of the thicker
+strings are so close at hand that you feel a simple thought would be
+required to make contact with them.
+
+You may choose your starting point by simply typing it or speaking the
+location's name.
+
+New players should start in:
+                    SOLACE
+
+More experienced players may elect to start in:
+TARSIS    BALIFOR    KALAMAN    HAVEN    PALANTHAS    NERAKA
+[33m[1mA stack of maps floats in the void here.
+A bulletin board hangs motionlessly in the void around you.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:13> solace
+Your body tingles as the string touches you and then you suddenly feel
+a rush of wind as you are transported!
+
+[36mFalling From the Heavens[0;37m
+     Air whips past your face as you fall towards your intended location
+to begin a new life of adventure within the lands of Ansalon.  You have
+no time to view the landscape as more than a blurred blob before you find
+yourself at your new destination.
+[33m[1m[0;37m[31m[1m[0;37m[36mA Tourist Office Overlooking Solace[0;37m
+    On a platform at the top of this huge vallenwood tree is a splendid
+panoramic view of the entire village of Solace. The amazing sight of houses
+built on top of vallenwood trees surrounding Solace and connected by a
+series of canopy walks leaves a sense of awe and wonderment. Unique images
+like smoke piping from Theros' chimney and clusters of people chewing on
+spiced potatoes near the Inn of the Last Home offer a taste of all the
+different facets of life in Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m130V [0;37m1499X 0.00% 0C [0;37mT:11 Exits:D> d
+[36mClimbing a Huge Vallenwood Tree[0;37m
+    The trunk of this vallenwood tree is rough and provides ample foothold
+for whoever decides to climb the tree for a better vantage point. Looking
+below, the many huts and buildings arrayed around the large boughs of the
+tree are visible. Above, the top of the vallenwood tree, covered by a thick
+crown of golden vallenwood leaves, is visible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA plump housewife walks past carrying a basket full of groceries.
+A plump housewife walks past carrying a basket full of groceries.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m128V [0;37m1499X 0.00% 0C [0;37mT:10 Exits:UD> d
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A lively young child freely romps around the area.
+A long-tailed ground dove sits here on a low branch.
+A cagey elf is standing here, keeping to himself.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m126V [0;37m1499X 0.00% 0C [0;37mT:9 Exits:NESWUD> 
+Bored with this area, a young child runs west.
+
+[32m[0;37m[32m48H [0;37m[32m126V [0;37m1499X 0.00% 0C [0;37mT:9 Exits:NESWUD> s
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m48H [0;37m[32m124V [0;37m1499X 0.00% 0C [0;37mT:7 Exits:NEWU> u
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood narrows as it extends further south. A
+school for budding warriors lies to the west while a clearing on a junction
+of boughs can be seen to the east. You have a strange feeling that you are
+being watched especially since the thick vallenwood canopy provides
+excellent hiding spots for those skilled in being unseen. The trunk of this
+massive vallenwood lies back to the north, and can be reached easily by the
+footholds and handholds in the bough leading down.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA fidgeting wiry young boy stands here looking suspicious.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m122V [0;37m1499X 0.00% 0C [0;37mT:7 Exits:ESWD> e
+[36mA Clearing at the Junction of Boughs[0;37m
+    Branches here interconnect with those from neighboring vallenwood
+trees. You can hear birds singing and the gentle sounds of animals rustling
+through the foliage. You feel you are being watched by scores of men
+blended entirely into the surroundings, arrows cocked and ready.
+[33m[1m[0;37m[31m[1mYou see the outline of a life form here, carrying: a pair of ancient silk leggings; a bracelet of threaded lizard teeth.
+A well traveled scout sits in meditation, attuned to the spirits of nature.
+Elrax the master scout is here, blending into his surroundings.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m120V [0;37m1499X 0.00% 0C [0;37mT:6 Exits:W> learn all
+Elrax gives you basic knowledge in the skill 'hide'
+Elrax gives you basic knowledge in the skill 'bandage'
+Elrax gives you basic knowledge in the skill 'short blades'
+Elrax gives you basic knowledge in the skill 'long blades'
+Elrax gives you basic knowledge in the skill 'axes'
+Elrax gives you basic knowledge in the skill 'piercers'
+Elrax gives you basic knowledge in the skill 'bludgeons'
+Elrax gives you basic knowledge in the skill 'miscellaneous'
+Elrax gives you basic knowledge in the skill 'shoot'
+
+[32m[0;37m[32m48H [0;37m[32m120V [0;37m1499X 0.00% 0C [0;37mT:4 Exits:W> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m48H [0;37m[32m120V [0;37m1499X 0.00% 0C [0;37mT:4 Exits:W> b
+Sorry, but you cannot do that here!
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:53 Exits:W> 
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:53 Exits:W> loadboth
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0;37mb[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0;37m[0m
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:50 Exits:W> [0;37ml[0m
+[36mA Clearing at the Junction of Boughs[0;37m
+    Branches here interconnect with those from neighboring vallenwood
+trees. You can hear birds singing and the gentle sounds of animals rustling
+through the foliage. You feel you are being watched by scores of men
+blended entirely into the surroundings, arrows cocked and ready.
+[33m[1m[0;37m[31m[1mYou see the outline of a life form here, carrying: a pair of ancient silk leggings; a bracelet of threaded lizard teeth.
+A well traveled scout sits in meditation, attuned to the spirits of nature.
+Elrax the master scout is here, blending into his surroundings.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:49 Exits:W> [0;37ma[0m
+[0;37m[0m
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:48 Exits:W> [0;37mb[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0;37m[0m
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:47 Exits:W> [0;37mstartb[0m
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+[0m#SESSION 'a' ACTIVATED.[0m
+
+Elrax kneels down and studies the ground for a second.
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:40 Exits:W> [0;37mstartb[0m
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Maui arrives from the west.
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:26 Exits:W> [0m[1;34;49mCLAN MESSAGE FROM Priya: 'she is accusing me of throwing a box away that had jewelry in it'[0m
+
+Maui leaves west.
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:13 Exits:W> [0m[1;34;49mCLAN MESSAGE FROM Priya: 'if she wasnt being suck a little bitch i'd offer to replace it but
+[0;1;34;49mfuck that'[0m
+[0m[1;34;49mCLAN MESSAGE FROM Priya: 'and i called her an ungrateful little brat'[0m
+[0;37m[0m
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:55 Exits:W> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m48H [0;37m[32m131V [0;37m1499X 0.00% 0C [0;37mT:54 Exits:W> [0;37mw[0m
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood narrows as it extends further south. A
+school for budding warriors lies to the west while a clearing on a junction
+of boughs can be seen to the east. You have a strange feeling that you are
+being watched especially since the thick vallenwood canopy provides
+excellent hiding spots for those skilled in being unseen. The trunk of this
+massive vallenwood lies back to the north, and can be reached easily by the
+footholds and handholds in the bough leading down.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA fidgeting wiry young boy stands here looking suspicious.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m129V [0;37m1499X 0.00% 0C [0;37mT:54 Exits:ESWD> [0;37md[0m
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA cagey elf is standing here, keeping to himself.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m127V [0;37m1499X 0.00% 0C [0;37mT:52 Exits:NEWU> [0;37mn[0m
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A lively young child freely romps around the area.
+A lively young child freely romps around the area.
+A lively young child freely romps around the area.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m125V [0;37m1499X 0.00% 0C [0;37mT:52 Exits:NESWUD> [0;37md[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA small kitten rummages through a pile of vallenwood leaves.
+A janitor is walking around, cleaning up.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m124V [0;37m1499X 0.00% 0C [0;37mT:52 Exits:NESWU> 
+You can't put liquids in some leather training armor!
+You can't put liquids in a leather training cap!
+You can't put liquids in a pair of leather training boots!
+The stone fountain doesn't have oil.
+You can't put liquids in a training axe!
+You can't put liquids in a training whip!
+You can't put liquids in a map of Solace!
+You can't put liquids in a training bow!
+You can't put liquids in a small leather bag!
+The stone fountain doesn't have oil.
+You can't put liquids in a complimentary stable note!
+You can't put liquids in a loaf of bread!
+You can't put liquids in a loaf of bread!
+There is no room for more.
+
+[32m[0;37m[32m48H [0;37m[32m124V [0;37m1499X 0.00% 0C [0;37mT:51 Exits:NESWU> [0;37mn[0m
+The janitor leaves up.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m48H [0;37m[32m123V [0;37m1499X 0.00% 0C [0;37mT:51 Exits:NSWU> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA lively young child freely romps around the area.
+A lovely young lady is excited by the array of activities around her.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m122V [0;37m1499X 0.00% 0C [0;37mT:51 Exits:NSW> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA fidgeting wiry young boy stands here looking suspicious.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m121V [0;37m1499X 0.00% 0C [0;37mT:51 Exits:NES> [0;37me[0m
+[36mA Small Clearing[0;37m
+    This clearing is set off from the main road. The lush undergrowth of
+the forest forms a living boundary around its edges. In the center of the
+clearing is a huge vallenwood. Looking up into the vallenwood, you spy what
+looks like a small shop. A stairway spirals down around the trunk, reaching
+the ground right before you. Northern Avenue is visible to your west. A
+small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA janitor is walking around, cleaning up.
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything.
+. . . is outlined by a dim aura.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m120V [0;37m1499X 0.00% 0C [0;37mT:50 Exits:WU> [0;37mu[0m
+Baluston wrinkles his nose and sneers as you enter his shop.
+[36mThe Solace Magic Shop[0;37m
+    This magic shop is an old and dusty place. Shelves and cases line the
+walls and fill the room. Scrolls, books, wands, staves, and all sorts of
+magical paraphernalia is on display. The shades on the windows let in stray
+rays of light which streak through the dust filled air, making slashes
+across the dim room. A faint smell of incense fills the air and you hear
+chimes tinkling in the distance. A set of spiral staircase carved into the
+tree leads down. The center of the tree can be accessed through a door to
+the west.
+[33m[1m[0;37m[31m[1mBaluston, the wizard, is sitting on a stool, watching an animated broom clean.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m119V [0;37m1499X 0.00% 0C [0;37mT:50 Exits:WD> [0;37mw[0m
+[36mAbove a Vallenwood Tree[0;37m
+    This vallenwood tree rises above the surrounding trees. Thick strong
+branches extend both east and west of the tree, supporting structures on
+both flanks. Occasionally a Solace citizen walks in from the west,
+clutching a bag close to their chest while looking around suspiciously.
+From the east the infrequent explosion can be heard.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m48H [0;37m[32m118V [0;37m1499X 0.00% 0C [0;37mT:50 Exits:ESW> [0;37mw[0m
+[36mThe Solace Savings and Loan Bank[0;37m
+    This small building has been built in among the huge vallenwood limbs.
+Built into the trunk of the vallenwood, you see a large vault and
+transaction window that is used by the bankers of Solace. A few tables and
+other pieces of simple furniture also fill the room. A small sign posted
+next to the transaction window identifies possible actions.
+[33m[1m[0;37m[31m[1m<Myth> Maui, Master of the Wind and the Sea is standing here.
+[0;37m
+[32m[0;37m[32m48H [0;37m[32m117V [0;37m1499X 0.00% 0C [0;37mT:50 Exits:E> [0;37mb[0m
+
+Maui gives you an enormous charred maul.
+
+[32m[0;37m[32m48H [0;37m[32m117V [0;37m1499X 0.00% 0C [0;37mT:43 Exits:E> 
+Maui gives you 5000 steel coins.
+
+[32m[0;37m[32m48H [0;37m[32m117V [0;37m1499X 0.00% 5000C [0;37mT:38 Exits:E> 
+Maui leaves east.
+
+[32m[0;37m[32m48H [0;37m[32m117V [0;37m1499X 0.00% 5000C [0;37mT:32 Exits:E> [0m[1;34;49mPRIVATE MESSAGE FROM Huntis: 'hows it goin maui wowy?'[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You need at least 3506 coins to rent.'[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You will be able to rent for 42 days.'[0m
+[0m#SESSION 'a' ACTIVATED.[0m
+[0;37mstarta[0m
+[0m#THERE'S A SESSION WITH THAT NAME ALREADY.[0m

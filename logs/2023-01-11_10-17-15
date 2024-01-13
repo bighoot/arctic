@@ -1,0 +1,2254 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? sprink
+Password: 
+
+
+You were last connected Wed Jan 11 07:54:13 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 226 steel in rent.
+
+Welcome to the land of Krynn.
+
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mMade from one of the hardest substances, a diamond tablet lies on the ground.
+A small metal key is lying here.
+[0;37m[31m[1m<Myth> Knaak the Female Irda is standing here. (flying) (white aura)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m420H [0;37m[32m112V [0;37m11040182X 1.96% 5950C [0;37mT:19 Exits:D> d
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m420H [0;37m[32m111V [0;37m11040182X 1.96% 5950C [0;37mT:16 Exits:EWU> e
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA scrap of paper is crumpled up on the floor.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m420H [0;37m[32m110V [0;37m11040182X 1.96% 5950C [0;37mT:15 Exits:NESW> n
+[35mThe Forge of Myth[0;37m
+    Incessant hammering of iron on anvil brings a sharp ringing to this
+furnace of a smithy. While most of the work done here seems to be toward the
+making of horseshoes and repairing minor dents in weapons and armor, the
+master smith has been known to craft some new items from time to time.
+Cooling buckets surround the anvil and the occasional hiss released from
+the cooling process indicates that they are often put to good use.
+[33m[1mSomeone left a sad eyelet ring here...it glows dimly
+A small yellow stone glows with an inner light...it glows dimly
+[0;37m[31m[1m<Myth> Captain Yimbo Slice is standing here. (flying) (white aura)
+<Myth> Yim The Great is standing here. (flying) (invisible) (white aura)
+The clan blacksmith is standing here.
+[0;37m
+[32m[0;37m[32m420H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:15 Exits:S> list ring
+  9. Ring                250 a blue nephaline ring
+ 22. Ring                200 a dolphin bone ring
+ 63. Ring                100 a silver signet ring
+ 65. Ring                500 a small signet ring
+ 68. Sword               300 a steel finger ring sword
+ 70. Beads                75 a string of illusionist's beads
+ 76. Ring                180 a woodsman's ring
+
+[32m[0;37m[32m420H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:13 Exits:S> case yim
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m420H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:11 Exits:S> case yimbo
+You see nothing special about him.
+<Myth> Yimbo the young adult male dargonesti has a few scratches.
+Elder of Myth.
+
+Yimbo is using:
+<used as light>            a clear sphere..it glows dimly
+<worn on finger>           a solamnic insignia..it glows dimly
+<worn on finger>           [38;5;214ma nickel dwarven ring[0;37m
+<worn around neck>         [38;5;214ma sapphire inlaid choker[0;37m
+<worn around neck>         an arena champion's medal
+<worn on body>             [38;5;214man ancient suit of Solamnic armor[0;37m
+<worn on chest>            [38;5;138ma gleaming silver medal[0;37m
+<worn on legs>             [38;5;177msome grooved shinguards of battle[0;37m
+<worn on feet>             [38;5;214ma pair of lion skin boots[0;37m
+<worn on arms>             [38;5;225msome solid vambraces of combat[0;37m
+<worn as shield>           a Kagonesti war shield
+<worn about body>          an eel skin cape
+<worn about waist>         [38;5;177ma polished fauld of bloodshed[0;37m
+<worn around right wrist>  [38;5;214ma bracelet of broken lich horns[0;37m
+<worn around left wrist>   [38;5;183ma pronged plain bracer[0;37m
+<used in primary hand>     [38;5;214ma heavily charred blacksmith's hammer[0;37m..it hums softly
+You attempt to peek at his inventory:
+a glowing scroll of recall..it glows dimly
+[38;5;214ma scaled belt[0;37m
+[38;5;214ma sunburst engraved longsword[0;37m
+an ebony shield
+[38;5;208ma chain of dragon's teeth[0;37m
+a petrified cannabis clavariaceae
+There appears to be no coins in the money pouch.
+
+[32m[0;37m[32m420H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:8 Exits:S> ooh
+You ooh and ahh, as if extremely impressed.
+
+[32m[0;37m[32m420H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:4 Exits:S> case yim
+You see nothing special about him.
+<Myth> Yim the young adult male dargonesti has a few scratches (invisible).
+Elder of Myth.
+
+Yim is using:
+<worn on finger>           [38;5;214ma crimson dragon insignia[0;37m
+<worn around neck>         [38;5;117ma dragontooth necklace[0;37m
+<worn around neck>         a long black stole, lined with red
+<worn on body>             [38;5;113ma macabre human bone breastplate[0;37m
+<worn on chest>            [38;5;138ma gleaming silver medal[0;37m
+<worn on head>             [38;5;113ma macabre mask of human bone[0;37m
+<worn on legs>             [38;5;113msome macabre human bone leggings[0;37m
+<worn on feet>             [38;5;113ma pair of macabre human bone boots[0;37m
+<worn about body>          a black dragonhide cloak
+<worn about waist>         a belt of seashells..it glows dimly
+<worn as pouch>            a pouch of goose feathers
+<worn around right wrist>  [38;5;214ma frosted tin bracer[0;37m..it glows dimly
+<worn around left wrist>   [38;5;225ma glistening elk bone inlaid wristband[0;37m
+<used in both hands>       a savage red war maul
+You attempt to peek at his inventory:
+a twisted vine wand
+a twisted vine wand
+a field scythe
+a glowing scroll of recall..it glows dimly
+[38;5;117ma dragontooth necklace[0;37m
+a sharp filleting knife
+a clear potion of invisibility
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+There appears to be no coins in the money pouch.
+
+[32m[0;37m[32m420H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:2 Exits:S> gig
+s
+You giggle.
+
+[32m[0;37m[32m425H [0;37m[32m131V [0;37m11040182X 1.96% 5950C [0;37mT:57 Exits:S> 
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA scrap of paper is crumpled up on the floor.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m130V [0;37m11040182X 1.96% 5950C [0;37mT:57 Exits:NESW> sc
+You are Sprink Uls, a level 27 Thief.
+You are a Neophyte in Myth.
+You are rank 6. You have completed 1.96% of your next rank.
+You are 17 years old.
+You have 425(425) hit and 130(131) movement points.
+Your behaviour has been Neutral.
+You have scored 46,959,818 exp, and have 5950(15760) steel coins.
+You need 11,040,182 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 0 minute(s).
+You have been playing for 1 day(s), 5 hour(s) and 21 minute(s).
+Your natural ability scores are:
+        Str: 16 Int: 13 Wis: 16 Dex: 23 Con: 16 Cha: 15
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+
+[32m[0;37m[32m425H [0;37m[32m130V [0;37m11040182X 1.96% 5950C [0;37mT:54 Exits:NESW> 
+Knaak flies in from the south.
+
+[32m[0;37m[32m425H [0;37m[32m130V [0;37m11040182X 1.96% 5950C [0;37mT:47 Exits:NESW> 
+Knaak flies west.
+
+[32m[0;37m[32m425H [0;37m[32m130V [0;37m11040182X 1.96% 5950C [0;37mT:46 Exits:NESW> e
+[36mAmongst Some Grain Fields[0;37m
+    The path leads through some grain fields to the north and south heads
+into a pine forest. Far off to the west you see some high, jagged cliffs.
+The breeze from the north brings the smell of salt and is damp. The grain
+fields spread out to the east as far as you can see.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m129V [0;37m11040182X 1.96% 5950C [0;37mT:46 Exits:NSW> s
+[36mThe Thinning Forest[0;37m
+    The pine forest around you thins out to nothing to the north and you
+can see large fields of grain. The forest grows thicker to the south and
+the path leads into it. You can see a large lake off in the south and high
+jagged cliffs off to the west.
+[33m[1m[0;37m[31m[1mA fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m127V [0;37m11040182X 1.96% 5950C [0;37mT:45 Exits:NS> ss
+Huh?!
+
+[32m[0;37m[32m425H [0;37m[32m127V [0;37m11040182X 1.96% 5950C [0;37mT:44 Exits:NS> e
+Alas, you cannot go that way...
+
+[32m[0;37m[32m425H [0;37m[32m127V [0;37m11040182X 1.96% 5950C [0;37mT:44 Exits:NS> s
+[36mAlong the Shore of Crystalmir[0;37m
+    You are at the corner of a large lake, which fills your vision far to
+the west before ending at high, jagged cliffs. The forest of pine that this
+trail winds through thins out to the north and east, where large fields of
+grain can be seen. The pine-covered trail follows the shoreline to the
+south into thicker woods and north.
+[33m[1m[0;37m[31m[1mA fellow traveller is here, weary from many days on the road. (white aura)
+A cuddly bunny hops around here looking for something.
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m125V [0;37m11040182X 1.96% 5950C [0;37mT:43 Exits:NES> e
+[36mAt the Edge of Nearfields[0;37m
+    You are on a narrow trail that cuts between large fields of grain and
+the huge vallenwood trees that cover the Solace Vale. Stretching out to the
+north, these fields are known as Nearfields to the citizens of Solace
+because of their proximity to the small town. A thick forest of pine trees
+lies to the west, beyond which the Crystalmir Lake can be seen. To the east
+this dirt trail merges with a wide road.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m123V [0;37m11040182X 1.96% 5950C [0;37mT:42 Exits:EW> e
+[36mA Narrow Road[0;37m
+    A narrow road leads deep into a thick forest of very tall trees and
+north it leads through the plains of Abanasinia. Around you are many trees
+but not as many as to the south. The road runs in the near shadows of the
+Kharolis mountains which can be seen off to the west, beyond a great lake.
+The mountains appear to run north for some distance before ending. The
+plains spread out to the north from here for many leagues.
+[33m[1m[0;37m[31m[1mA fellow traveller is here, weary from many days on the road. (white aura)
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m121V [0;37m11040182X 1.96% 5950C [0;37mT:42 Exits:NSW> s
+[36mA Narrow Road[0;37m
+    This narrow, dirt road winds its way through the great forest, curving
+around large trees and rocks. You can hear the chattering of hundreds of
+animals all around you, and a few of the trees seem to have large claw
+marks. To the south, lies the northern gate of Solace, and to the north,
+the road continues. Large bushes block your view to the east and west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m119V [0;37m11040182X 1.96% 5950C [0;37mT:42 Exits:NS> s
+[36mThe Northern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the north. Two huge
+vallenwoods stand on either side of the road and it is between these, that
+the gate is built. The forest north of the gate looks much like the forest
+that Solace is a part of. You know, however, that it is much wilder and
+dangerous. Northern Avenue leads south into the heart of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA menacing rottweiler circles here barking at some shadows.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m118V [0;37m11040182X 1.96% 5950C [0;37mT:42 Exits:NS> s
+[36mIntersection of Northern Avenue and Perimeter Street[0;37m
+    Northern Avenue intersects Perimeter Street here. The avenue leads
+north and south, while Perimeter Street appears to loop to the east,
+circling above the region Solace is built in. What appears to be a gate is
+to the north, while you see signs of Solace to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAn old beggar hobbles along here looking for handouts.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m117V [0;37m11040182X 1.96% 5950C [0;37mT:41 Exits:NES> s
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA fidgeting wiry young boy stands here looking suspicious.
+A small kitten rummages through a pile of vallenwood leaves.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m116V [0;37m11040182X 1.96% 5950C [0;37mT:40 Exits:NES> s
+A small kitten rubs up against your leg.
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA citizen of Solace moves quickly about.
+A janitor is walking around, cleaning up. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m115V [0;37m11040182X 1.96% 5950C [0;37mT:40 Exits:NSW> s
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m114V [0;37m11040182X 1.96% 5950C [0;37mT:40 Exits:NSWU> s
+Sir Kantar uth MacKan frowns and says, 'You are faltering in your faith, do not
+sway from the path.'
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA young barbarian clad in soft white rabbit fur stands here.
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything. (white
+aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m113V [0;37m11040182X 1.96% 5950C [0;37mT:40 Exits:NESWU> s
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAn old beggar hobbles along here looking for handouts.
+A small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m112V [0;37m11040182X 1.96% 5950C [0;37mT:39 Exits:NS> s
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+An old beggar hobbles along here looking for handouts.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m111V [0;37m11040182X 1.96% 5950C [0;37mT:39 Exits:NES> s
+[36mThe Intersection[0;37m
+    You are at a huge intersection in the forest. Southern Avenue meets
+with Park Road and Forest Lane here. There is a small opening in the trees
+above that allows a view of the sky above. A small breeze blows through
+here and you inhale deeply. Southern Avenue leads north and south from the
+intersection, while Forest Lane leads off west and Park Road exits to the
+east.
+[33m[1m[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m110V [0;37m11040182X 1.96% 5950C [0;37mT:39 Exits:NESW> s
+[36mSouthern Avenue[0;37m
+    You are on a rather wide road. This avenue leads south and north
+through the town. To the north, you see buildings built up in the limbs of
+the huge vallenwoods. This view of Solace shows you how much the village
+depends on the ancient trees for life and sustenance. The avenue leads
+north and south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:39 Exits:NS> s
+[36mSouthern Avenue[0;37m
+    The avenue leads north and south through the huge vallenwoods. The
+trees loom high above you. Their limbs form a canopy that protects you from
+the harsh outside world. The forest here teems with life. You notice a
+smaller road leading east into what appears to be a park.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAidan walks around here looking amazed with his surroundings.
+A street illusionist drawing quite a crowd with his performance.
+A small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m108V [0;37m11040182X 1.96% 5950C [0;37mT:38 Exits:NES> s
+[36mThe Southern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the south. Two huge
+vallenwoods stand on either side of the road and the gate is placed
+between them. The forest to the south looks much wilder and more dangerous
+than the forest that houses Solace. Southern Avenue leads north into
+Solace itself.
+[33m[1mA long torch functions as a street lamp here.
+A large notice demanding your attention is posted on the city gates.
+[0;37m[31m[1mA Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m107V [0;37m11040182X 1.96% 5950C [0;37mT:38 Exits:NS> ski
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (very good)     **  long blades   (awful)           
+     miscellaneous (awful)             piercers      (very good)     **
+     short blades  (awful)           
+
+     backstab      (very good)     **  hide          (poor)            
+     sneak         (poor)            
+     pick          (fair)            
+     steal         (very good)       
+     case          (excellent)         dodge         (excellent)     **
+     plant         (very good)         throat punch  (fair)            
+     bandage       (superb)            detect        (fair)            
+     disable       (average)           envenom       (very good)     **
+     unbalance     (very poor)       
+     fade          (average)         
+     coup          (below average)     evade         (bad)             
+
+[32m[0;37m[32m425H [0;37m[32m107V [0;37m11040182X 1.96% 5950C [0;37mT:37 Exits:NS> loadboth
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0;37msol2pas[0m
+[36mThe Road to Solace[0;37m
+    The trees that line the route give a
+good indication of the ways to
+travel. To the north the huge vallenwood
+trees of Solace are visible,
+clearly marking the southern entrance to
+the town. The road to the south
+becomes wild and rocky as it leads
+through a wilder section of forest.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m106V [0;37m11040182X 1.96% 5950C [0;37mT:32
+[0;37mExits:NES> 
+[36mOn a Long Road[0;37m
+    The dense forest around you
+occasionally places obstacles in your
+path,
+you cannot help but trip and fall.
+Fortunately the soft cushion of dead
+leaves offers much help. Weak sounds of
+the hustle and bustle of town life
+can be heard from the north. The road
+continues to the south, it seems as
+if it could go on forever.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m104V [0;37m11040182X 1.96% 5950C [0;37mT:32
+[0;37mExits:NS> 
+[36mOn a Road[0;37m
+    The road continues, snaking through
+the rocky wilderness. It makes a
+large curve to avoid a big boulder,
+jutting out from the surrounding hills.
+You have heard tales of bandits
+surviving off of travellers on the
+roadways
+of Krynn, and it occurs to you that this
+would be an excellent spot for an
+ambush. The road continues to the north
+and south.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m102V [0;37m11040182X 1.96% 5950C [0;37mT:32
+[0;37mExits:NS> 
+[36mBy a Small Hovel[0;37m
+    Wearily, you come to stop outside a
+small hovel. It looks like it has
+been built as a rest stop to provide a
+safe haven for travellers. The hovel
+sits off to the west of the main road
+here. The road itself stretches out
+to the north and east. The terrain to
+the east becomes dry and dusty,
+while you can see what appears to be a
+forest on the edge of the plains to
+the north.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m100V [0;37m11040182X 1.96% 5950C [0;37mT:32
+[0;37mExits:NE(W)> 
+[36mOn a Road[0;37m
+    The road continues, now heading to
+the south. The general terrain seems
+to be getting drier and dustier, and
+there are fewer trees. In addition,
+the air seems to be getting somewhat
+colder. From a nearby hill, a deer
+notices you, and bolts into the woods.
+From here, the road continues to the
+south and west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m98V [0;37m11040182X 1.96% 5950C [0;37mT:31
+[0;37mExits:ESW> 
+[36mA Bend in the Road[0;37m
+    To the north the plains turn into
+forested lands. Northwest of here is
+the Darkenwood forest and the village of
+Gateway. Travelling south will take
+you through the plains of Abanasinia and
+further on to the port town of
+Newport. The plains continue onward
+south from this point.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m96V [0;37m11040182X 1.96% 5950C [0;37mT:31
+[0;37mExits:NS> 
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of
+Abanasinia. The land is very flat and
+you
+can see for miles and miles around. A
+few trees are growing here and there,
+along with other kinds of short
+vegetation bushes, brush and other
+assorted
+plants. In the distant west you can see
+a mountain range and a cool breeze
+is blowing in from the east. Looking to
+the east you can see the lands of
+the Que-teh tribe, their cooking fires
+trailing smoke up into the sky.
+[33m[1mA small sign has been hammered into the
+[0;1;33mground here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m94V [0;37m11040182X 1.96% 5950C [0;37mT:31
+[0;37mExits:NES> 
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of
+Abanasinia. The land is very flat and
+you
+can see for miles and miles around. A
+few trees are growing here and there,
+along with other kinds of short
+vegetation bushes, brush and other
+assorted
+plants. Small animals scavenge for food
+around you and farther away you can
+see larger animals doing likewise. In
+the distant west you can see a
+mountain range and a cool breeze is
+blowing in from the east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m92V [0;37m11040182X 1.96% 5950C [0;37mT:31
+[0;37mExits:NES> 
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of
+Abanasinia. The land is very flat and
+you
+can see for miles and miles around. A
+few trees are growing here and there,
+along with other kinds of short
+vegetation bushes, brush and other
+assorted
+plants. Small animals scavenge for food
+around you and farther away you can
+see larger animals doing likewise.
+[33m[1m[0;37m[31m[1mA cheerful kender wanders about,
+[0;1;31menjoying the sights.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m90V [0;37m11040182X 1.96% 5950C [0;37mT:30
+[0;37mExits:NW> 
+[36mA Road on the Plains of Abanasinia[0;37m
+    The land around you is very flat,
+the plains of Abanasinia stretch for
+miles around you. To the south you hear
+a low rumbling noise, to the east
+the road leads into the plains. Looking
+south you can see forested
+foothills, and a smell of salt is
+carried on a breeze blowing in from the
+southeast.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m88V [0;37m11040182X 1.96% 5950C [0;37mT:30
+[0;37mExits:ES> 
+[36mApproaching a Major River[0;37m
+    You hear the sound of rushing water
+to the south of you, through the
+trees you can see the mighty River
+White-Rage. The road leads north through
+the plains to the towns of Haven and
+Solace. The road you are travelling on
+is made of cobblestones in spots but in
+other spots it is just plain dirt.
+Growing on the sides of the road are
+trees and the landscape is dotted with
+hills.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m86V [0;37m11040182X 1.96% 5950C [0;37mT:30
+[0;37mExits:NS> 
+[36mNorth Bank of the River White-Rage[0;37m
+     You stand at the south end of a
+mighty stone bridge.  Below, a very
+large and swift flowing river roars down
+towards the New Sea.  The river
+is quite dangerous and only the largest
+of ferries are capable of being
+able to properly navigate it.  The
+bridge itself is wide and is one of
+the most impressive feats of dwarven
+craftsmanship that you have ever
+seen.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m84V [0;37m11040182X 1.96% 5950C [0;37mT:30 Exits:NS> 
+[36mCrossing the River White-Rage[0;37m
+    Looking around as you cross the immense stone bridge, you gaze in awe
+at a pair of huge pillars of stone. The pillars seem to be the main
+foundation of the structure, keeping it a safe distance from the raging
+waters below. Even from here, you can hear the roar from the river below as
+it crashes into the pillars and is forced around them. The stone bridge
+stretches northward, high above the river, but the southern bank is still
+reassuringly nearby.
+[33m[1mA large torch lies here.
+A bright pile of cloth lies on the ground.
+A large torch lies here.
+A bright pile of cloth lies on the ground.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m82V [0;37m11040182X 1.96% 5950C [0;37mT:29 Exits:NS> 
+[36mSouth Bank of the River White-Rage[0;37m
+     You stand at the south end of a mighty stone bridge.  Below, a very
+large and swift flowing river roars down towards the New Sea.  The river
+is quite dangerous and only the largest of ferries are capable of being
+able to properly navigate it.  The bridge itself is wide and is one of
+the most impressive feats of dwarven craftsmanship that you have ever
+seen.  You can also just make out a path that leads down to a stone dock
+from here.
+[33m[1mA heavy wooden sign has been firmly planted into the soil here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m80V [0;37m11040182X 1.96% 5950C [0;37mT:29 Exits:NSD> 
+[36mA Cobbled Road[0;37m
+    The road is wide here and paved with cobblestone in spots. You see the
+marks of a wagon in the dirt spots of the road, left by the increasing
+number of merchants travelling between Newport and the towns of Solace and
+Haven. Around you the landscape is dotted with trees and the area is hilly.
+In the air you can faintly smell salt, carried by a breeze blowing from the
+northeast. The road leads to the north and east from here. Southeast you can
+hear the sounds of a bustling town and to the north you hear a low rumbling.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m78V [0;37m11040182X 1.96% 5950C [0;37mT:29 Exits:NE> 
+[36mA Road to the Bay[0;37m
+    The smell of salty air is carried by a warming breeze to the north and
+east. To the southeast, the fishing community of Newport can be clearly
+seen, surrounded on three sides by a bay of the New Sea. Fishing boats dot
+the waters of the bay, as Newport citizens toil away in their trade. The
+forested hills grow west of the bay, filling the view with tall oaks and
+maples. Far to the south, the peace of the Kharolis Mountains rise in
+majestic shadow.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m76V [0;37m11040182X 1.96% 5950C [0;37mT:29 Exits:SW> 
+[36mThe Outskirts of Newport[0;37m
+    The Old Road is intersected here by the cobblestone road leading to the
+small fishing community, Newport. Beyond Newport is a bay of the New Sea,
+its waters stretching out across the horizon. The cobblestone continues to
+the north, signifying the beginnings of a major trade route to the towns of
+Solace and Haven further to the north. The majestic forests of the fabled
+elven capitol of Qualinost deepen to the southwest. If you travel south you
+can also come upon Pax Tharkas. If you travel north, you will hit the River
+White Rage.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m74V [0;37m11040182X 1.96% 5950C [0;37mT:28 Exits:NES> 
+[36mWestern Gates of Newport[0;37m
+    The gates of this village are constructed of mighty vallenwoods imported
+from the northern forests. A pair of lanterns hang from each side and are
+continually maintained by the local guards for continuous light. The danger
+of attack from the dragon armies is always a threat in these parts. A sea
+breeze blows softly from the east and the smells and sounds of Newport
+invite you in.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m72V [0;37m11040182X 1.96% 5950C [0;37mT:28 Exits:(E)SW> 
+You signal to the guards and a few seconds later the gates swing open.
+
+[32m[0;37m[32m425H [0;37m[33m[1m72V [0;37m11040182X 1.96% 5950C [0;37mT:28 Exits:ESW> 
+[36mRapid's Drive at Bubbling Brook[0;37m
+    The street curves out to align itself north-south here. The gates to
+your west are constructed of mighty vallenwoods imported from the northern
+forests. A pair of small lookouts have been contructed on each side of the
+gate to provide an early warning to any attack that may arise. The road
+curves off to the northeast and southwest of here.
+[33m[1m[0;37m[31m[1mA sailor walks quickly, hurrying to get supplies for his ship. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m71V [0;37m11040182X 1.96% 5950C [0;37mT:28 Exits:NESW> 
+[36mRapid's Drive South[0;37m
+    The street gently curves as it follows the strong vallenwood wall that
+marks the town's western border. A sturdy guard tower stands above you with
+constant lookouts maintained at all hours of the day. To the south, a small
+chapel has been built from the finest oak timbers in the land and it stands
+majestically above the other buildings in this town. The street swings north
+to the west gate and curves gently to the southeast.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m70V [0;37m11040182X 1.96% 5950C [0;37mT:27 Exits:NESU> 
+It's already open!
+
+[32m[0;37m[32m425H [0;37m[33m[1m70V [0;37m11040182X 1.96% 5950C [0;37mT:27 Exits:NESU> 
+[36mNewport Chapel[0;37m
+    The chapel is one of the largest and most majestic buildings in Newport.
+It is built of fine oak timber and has a few rows of fine wooden pews.
+Looking around you see a few statues of some of the gods of the good
+pantheon. You recognize Paladine and his sons Kiri-Jolith and Habbakuk.
+Placed near Paladine is a statue of Mishakal, the goddess of healing.
+Looking to the east you see the lush chapel garden.
+[33m[1m[0;37m[31m[1mPasal is preaching to his acolytes about the necessity of faith. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m69V [0;37m11040182X 1.96% 5950C [0;37mT:27 Exits:NE> [0;37mlook pasal[0m
+Pasal is standing before a small altar, preaching of the magnificent
+benevolence of the gods of Good. He stands before his acolytes in
+a white silk robe, trimmed with small gold scales. In his palm, he
+holds a glowing white prayerbook, reading out passages of the deeds
+of paladins and the clerics of Mishakal.
+Pasal the cleric guildmaster is in an excellent condition.
+
+Pasal the cleric guildmaster is using:
+<worn about body>          a white silk robe trimmed in gold
+<held in secondary hand>   a glowing white prayerbook..it glows dimly
+You attempt to peek at his inventory, but you see nothing.
+
+[32m[0;37m[32m425H [0;37m[33m[1m69V [0;37m11040182X 1.96% 5950C [0;37mT:24 Exits:NE> [0;37mlook pasal[0m
+Pasal is standing before a small altar, preaching of the magnificent
+benevolence of the gods of Good. He stands before his acolytes in
+a white silk robe, trimmed with small gold scales. In his palm, he
+holds a glowing white prayerbook, reading out passages of the deeds
+of paladins and the clerics of Mishakal.
+Pasal the cleric guildmaster is in an excellent condition.
+
+Pasal the cleric guildmaster is using:
+<worn about body>          a white silk robe trimmed in gold
+<held in secondary hand>   a glowing white prayerbook..it glows dimly
+You attempt to peek at his inventory, but you see nothing.
+
+[32m[0;37m[32m425H [0;37m[33m[1m69V [0;37m11040182X 1.96% 5950C [0;37mT:23 Exits:NE> [0;37mlook pasal[0m
+Pasal is standing before a small altar, preaching of the magnificent
+benevolence of the gods of Good. He stands before his acolytes in
+a white silk robe, trimmed with small gold scales. In his palm, he
+holds a glowing white prayerbook, reading out passages of the deeds
+of paladins and the clerics of Mishakal.
+Pasal the cleric guildmaster is in an excellent condition.
+
+Pasal the cleric guildmaster is using:
+<worn about body>          a white silk robe trimmed in gold
+<held in secondary hand>   a glowing white prayerbook..it glows dimly
+You attempt to peek at his inventory, but you see nothing.
+
+[32m[0;37m[32m425H [0;37m[33m[1m69V [0;37m11040182X 1.96% 5950C [0;37mT:22 Exits:NE> [0;37mlook pasal[0m
+Pasal is standing before a small altar, preaching of the magnificent
+benevolence of the gods of Good. He stands before his acolytes in
+a white silk robe, trimmed with small gold scales. In his palm, he
+holds a glowing white prayerbook, reading out passages of the deeds
+of paladins and the clerics of Mishakal.
+Pasal the cleric guildmaster is in an excellent condition.
+
+Pasal the cleric guildmaster is using:
+<worn about body>          a white silk robe trimmed in gold
+<held in secondary hand>   a glowing white prayerbook..it glows dimly
+You attempt to peek at his inventory, but you see nothing.
+
+[32m[0;37m[32m425H [0;37m[33m[1m69V [0;37m11040182X 1.96% 5950C [0;37mT:22 Exits:NE> [0;37mcase pasal[0m
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m425H [0;37m[33m[1m69V [0;37m11040182X 1.96% 5950C [0;37mT:19 Exits:NE> [0;37mn[0m
+[36mRapid's Drive South[0;37m
+    The street gently curves as it follows the strong vallenwood wall that
+marks the town's western border. A sturdy guard tower stands above you with
+constant lookouts maintained at all hours of the day. To the south, a small
+chapel has been built from the finest oak timbers in the land and it stands
+majestically above the other buildings in this town. The street swings north
+to the west gate and curves gently to the southeast.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m68V [0;37m11040182X 1.96% 5950C [0;37mT:19 Exits:NESU> [0;37mw[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m425H [0;37m[33m[1m68V [0;37m11040182X 1.96% 5950C [0;37mT:18 Exits:NESU> [0;37mn[0m
+[36mRapid's Drive at Bubbling Brook[0;37m
+    The street curves out to align itself north-south here. The gates to
+your west are constructed of mighty vallenwoods imported from the northern
+forests. A pair of small lookouts have been contructed on each side of the
+gate to provide an early warning to any attack that may arise. The road
+curves off to the northeast and southwest of here.
+[33m[1m[0;37m[31m[1mA sailor walks quickly, hurrying to get supplies for his ship. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:18 Exits:NESW> 
+A sailor leaves south.
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:17 Exits:NESW> [0;37mw[0m
+[36mWestern Gates of Newport[0;37m
+    The gates of this village are constructed of mighty vallenwoods imported
+from the northern forests. A pair of lanterns hang from each side and are
+continually maintained by the local guards for continuous light. The danger
+of attack from the dragon armies is always a threat in these parts. A sea
+breeze blows softly from the east and the smells and sounds of Newport
+invite you in.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m66V [0;37m11040182X 1.96% 5950C [0;37mT:17 Exits:ESW> [0;37mw[0m
+[36mThe Outskirts of Newport[0;37m
+    The Old Road is intersected here by the cobblestone road leading to the
+small fishing community, Newport. Beyond Newport is a bay of the New Sea,
+its waters stretching out across the horizon. The cobblestone continues to
+the north, signifying the beginnings of a major trade route to the towns of
+Solace and Haven further to the north. The majestic forests of the fabled
+elven capitol of Qualinost deepen to the southwest. If you travel south you
+can also come upon Pax Tharkas. If you travel north, you will hit the River
+White Rage.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m64V [0;37m11040182X 1.96% 5950C [0;37mT:17 Exits:NES> [0;37mn[0m
+[36mA Road to the Bay[0;37m
+    The smell of salty air is carried by a warming breeze to the north and
+east. To the southeast, the fishing community of Newport can be clearly
+seen, surrounded on three sides by a bay of the New Sea. Fishing boats dot
+the waters of the bay, as Newport citizens toil away in their trade. The
+forested hills grow west of the bay, filling the view with tall oaks and
+maples. Far to the south, the peace of the Kharolis Mountains rise in
+majestic shadow.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m62V [0;37m11040182X 1.96% 5950C [0;37mT:16 Exits:SW> [0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m425H [0;37m[33m[1m62V [0;37m11040182X 1.96% 5950C [0;37mT:16 Exits:SW> [0;37mw[0m
+[36mA Cobbled Road[0;37m
+    The road is wide here and paved with cobblestone in spots. You see the
+marks of a wagon in the dirt spots of the road, left by the increasing
+number of merchants travelling between Newport and the towns of Solace and
+Haven. Around you the landscape is dotted with trees and the area is hilly.
+In the air you can faintly smell salt, carried by a breeze blowing from the
+northeast. The road leads to the north and east from here. Southeast you can
+hear the sounds of a bustling town and to the north you hear a low rumbling.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m60V [0;37m11040182X 1.96% 5950C [0;37mT:15 Exits:NE> [0;37mn[0m
+[36mSouth Bank of the River White-Rage[0;37m
+     You stand at the south end of a mighty stone bridge.  Below, a very
+large and swift flowing river roars down towards the New Sea.  The river
+is quite dangerous and only the largest of ferries are capable of being
+able to properly navigate it.  The bridge itself is wide and is one of
+the most impressive feats of dwarven craftsmanship that you have ever
+seen.  You can also just make out a path that leads down to a stone dock
+from here.
+[33m[1mA heavy wooden sign has been firmly planted into the soil here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m58V [0;37m11040182X 1.96% 5950C [0;37mT:15 Exits:NSD> [0;37mn[0m
+[36mCrossing the River White-Rage[0;37m
+    Looking around as you cross the immense stone bridge, you gaze in awe
+at a pair of huge pillars of stone. The pillars seem to be the main
+foundation of the structure, keeping it a safe distance from the raging
+waters below. Even from here, you can hear the roar from the river below as
+it crashes into the pillars and is forced around them. The stone bridge
+stretches northward, high above the river, but the southern bank is still
+reassuringly nearby.
+[33m[1mA large torch lies here.
+A bright pile of cloth lies on the ground.
+A large torch lies here.
+A bright pile of cloth lies on the ground.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m56V [0;37m11040182X 1.96% 5950C [0;37mT:15 Exits:NS> [0;37mn[0m
+[36mNorth Bank of the River White-Rage[0;37m
+     You stand at the south end of a mighty stone bridge.  Below, a very
+large and swift flowing river roars down towards the New Sea.  The river
+is quite dangerous and only the largest of ferries are capable of being
+able to properly navigate it.  The bridge itself is wide and is one of
+the most impressive feats of dwarven craftsmanship that you have ever
+seen.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m54V [0;37m11040182X 1.96% 5950C [0;37mT:14 Exits:NS> [0;37mn[0m
+[36mApproaching a Major River[0;37m
+    You hear the sound of rushing water to the south of you, through the
+trees you can see the mighty River White-Rage. The road leads north through
+the plains to the towns of Haven and Solace. The road you are travelling on
+is made of cobblestones in spots but in other spots it is just plain dirt.
+Growing on the sides of the road are trees and the landscape is dotted with
+hills.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m52V [0;37m11040182X 1.96% 5950C [0;37mT:14 Exits:NS> [0;37mn[0m
+[36mA Road on the Plains of Abanasinia[0;37m
+    The land around you is very flat, the plains of Abanasinia stretch for
+miles around you. To the south you hear a low rumbling noise, to the east
+the road leads into the plains. Looking south you can see forested
+foothills, and a smell of salt is carried on a breeze blowing in from the
+southeast.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m50V [0;37m11040182X 1.96% 5950C [0;37mT:13 Exits:ES> [0;37me[0m
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of Abanasinia. The land is very flat and you
+can see for miles and miles around. A few trees are growing here and there,
+along with other kinds of short vegetation bushes, brush and other assorted
+plants. Small animals scavenge for food around you and farther away you can
+see larger animals doing likewise.
+[33m[1m[0;37m[31m[1mA cheerful kender wanders about, enjoying the sights.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m48V [0;37m11040182X 1.96% 5950C [0;37mT:12 Exits:NW> [0;37mn[0m
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of Abanasinia. The land is very flat and you
+can see for miles and miles around. A few trees are growing here and there,
+along with other kinds of short vegetation bushes, brush and other assorted
+plants. Small animals scavenge for food around you and farther away you can
+see larger animals doing likewise. In the distant west you can see a
+mountain range and a cool breeze is blowing in from the east.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m46V [0;37m11040182X 1.96% 5950C [0;37mT:12 Exits:NES> [0;37mn[0m
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of Abanasinia. The land is very flat and you
+can see for miles and miles around. A few trees are growing here and there,
+along with other kinds of short vegetation bushes, brush and other assorted
+plants. In the distant west you can see a mountain range and a cool breeze
+is blowing in from the east. Looking to the east you can see the lands of
+the Que-teh tribe, their cooking fires trailing smoke up into the sky.
+[33m[1mA small sign has been hammered into the ground here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m44V [0;37m11040182X 1.96% 5950C [0;37mT:12 Exits:NES> [0;37mn[0m
+[36mA Bend in the Road[0;37m
+    To the north the plains turn into forested lands. Northwest of here is
+the Darkenwood forest and the village of Gateway. Travelling south will take
+you through the plains of Abanasinia and further on to the port town of
+Newport. The plains continue onward south from this point.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m42V [0;37m11040182X 1.96% 5950C [0;37mT:12 Exits:NS> [0;37mn[0m
+[36mOn a Road[0;37m
+    The road continues, now heading to the south. The general terrain seems
+to be getting drier and dustier, and there are fewer trees. In addition,
+the air seems to be getting somewhat colder. From a nearby hill, a deer
+notices you, and bolts into the woods. From here, the road continues to the
+south and west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m40V [0;37m11040182X 1.96% 5950C [0;37mT:11 Exits:ESW> [0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m425H [0;37m[33m[1m40V [0;37m11040182X 1.96% 5950C [0;37mT:11 Exits:ESW> [0;37mw[0m
+[36mBy a Small Hovel[0;37m
+    Wearily, you come to stop outside a small hovel. It looks like it has
+been built as a rest stop to provide a safe haven for travellers. The hovel
+sits off to the west of the main road here. The road itself stretches out
+to the north and east. The terrain to the east becomes dry and dusty,
+while you can see what appears to be a forest on the edge of the plains to
+the north.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m38V [0;37m11040182X 1.96% 5950C [0;37mT:10 Exits:NE(W)> [0;37mn[0m
+[36mOn a Road[0;37m
+    The road continues, snaking through the rocky wilderness. It makes a
+large curve to avoid a big boulder, jutting out from the surrounding hills.
+You have heard tales of bandits surviving off of travellers on the roadways
+of Krynn, and it occurs to you that this would be an excellent spot for an
+ambush. The road continues to the north and south.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m36V [0;37m11040182X 1.96% 5950C [0;37mT:10 Exits:NS> [0;37mn[0m
+[36mOn a Long Road[0;37m
+    The dense forest around you occasionally places obstacles in your path,
+you cannot help but trip and fall. Fortunately the soft cushion of dead
+leaves offers much help. Weak sounds of the hustle and bustle of town life
+can be heard from the north. The road continues to the south, it seems as
+if it could go on forever.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m34V [0;37m11040182X 1.96% 5950C [0;37mT:10 Exits:NS> [0;37mn[0m
+[36mThe Road to Solace[0;37m
+    The trees that line the route give a good indication of the ways to
+travel. To the north the huge vallenwood trees of Solace are visible,
+clearly marking the southern entrance to the town. The road to the south
+becomes wild and rocky as it leads through a wilder section of forest.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m32V [0;37m11040182X 1.96% 5950C [0;37mT:9 Exits:NES> [0;37mn[0m
+[36mThe Southern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the south. Two huge
+vallenwoods stand on either side of the road and the gate is placed
+between them. The forest to the south looks much wilder and more dangerous
+than the forest that houses Solace. Southern Avenue leads north into
+Solace itself.
+[33m[1mA long torch functions as a street lamp here.
+A large notice demanding your attention is posted on the city gates.
+[0;37m[31m[1mA Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m31V [0;37m11040182X 1.96% 5950C [0;37mT:9 Exits:NS> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m425H [0;37m[33m[1m31V [0;37m11040182X 1.96% 5950C [0;37mT:4 Exits:NS> [0;37msc[0m
+You are Sprink Uls, a level 27 Thief.
+You are a Neophyte in Myth.
+You are rank 6. You have completed 1.96% of your next rank.
+You are 17 years old.
+You have 425(425) hit and 31(131) movement points.
+Your behaviour has been Neutral.
+You have scored 46,959,818 exp, and have 5950(15760) steel coins.
+You need 11,040,182 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 1 minute(s).
+You have been playing for 1 day(s), 5 hour(s) and 22 minute(s).
+Your natural ability scores are:
+        Str: 16 Int: 13 Wis: 16 Dex: 23 Con: 16 Cha: 15
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are resting.
+You are flying.
+
+[32m[0;37m[32m425H [0;37m[33m[1m31V [0;37m11040182X 1.96% 5950C [0;37mT:4 Exits:NS> [0;37mrank[0m
+You are rank 6. You have 6 Rank Points to spend.
+
+Your current rank affects:
+
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:58 Exits:NS> [0;37mct anyone ranking?[0m
+You tell your clan 'anyone ranking?'
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:51 Exits:NS> [0;37mclan who[0m
+[0;37m[36mClan Members
+------------
+[36m[1m Yim              [     Elder ] (Wed Jan 11) Level 30R4 G Rank 36 Shaman (L)
+[36m[1m Knaak            [     Elder ] (Wed Jan 11) Level 30R1 G Rank 30 Cleric (L)
+[36m[1m Juni             [     Elder ] (Wed Jan 11) Level 30R4 E Rank 36 Druid (L)
+[36m[1m Yimbo            [     Elder ] (Wed Jan 11) Level 30R4 G Rank 36 Warrior (L)
+[36m[1m Fir              [     Elder ] (Wed Jan 11) Level 30R4 E Rank 36 Barbarian (L)
+[36m[1m Gathzar          [  Clansman ] (Wed Jan 11) Level 30R3 G Rank 31 White Robe (L)
+[36m[1m Vidar            [  Clansman ] (Wed Jan 11) Level 30R2 E Rank 31 Warrior (L)
+[36m[1m Mokey            [  Clansman ] (Wed Jan 11) Level 29R2 E Rank 26 Shaman
+[36m[1m Hel              [  Clansman ] (Wed Jan 11) Level 30R4 E Rank 38 Shaman (L)
+[36m[1m Wembley          [  Clansman ] (Wed Jan 11) Level 29R2 E Rank 25 Barbarian
+[36m[1m Elbereth         [  Clansman ] (Wed Jan 11) Level 30R3 G Rank 31 Paladin
+ [return for more, q to stop][0;37m[0m
+ (L)
+[36m[1m Araya            [  Clansman ] (Wed Jan 11) Level 25R2 N Rank 28 Barbarian (L)
+[36m[1m Bostaph          [  Clansman ] (Wed Jan 11) Level 25R2 N Rank 27 Cleric (L)
+[36m[1m Shmyaka          [  Clansman ] (Wed Jan 11) Level 30R3 G Rank 32 Barbarian (L)
+[36m[1m Ishvadsu         [  Clansman ] (Wed Jan 11) Level 30R1 G Rank 21 White Robe
+[36m[1m Yazzi            [  Clansman ] (Wed Jan 11) Level 30R5 G Rank 44 Paladin (L)
+[36m[1m Yaza             [  Clansman ] (Wed Jan 11) Level 30R5 G Rank 44 Cleric (L)
+[36m[1m Sprink           [  Neophyte ] (Wed Jan 11) Level 27   N Rank 6  Thief
+[1m[32m
+Total clan members online: 18   Total clan members: 96
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:49 Exits:NS> [0;37m[0m
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:34 Exits:NS> [0;37msc[0m
+You are Sprink Uls, a level 27 Thief.
+You are a Neophyte in Myth.
+You are rank 6. You have completed 1.96% of your next rank.
+You are 17 years old.
+You have 425(425) hit and 67(131) movement points.
+Your behaviour has been Neutral.
+You have scored 46,959,818 exp, and have 5950(15760) steel coins.
+You need 11,040,182 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 1 minute(s).
+You have been playing for 1 day(s), 5 hour(s) and 22 minute(s).
+Your natural ability scores are:
+        Str: 16 Int: 13 Wis: 16 Dex: 23 Con: 16 Cha: 15
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are resting.
+You are flying.
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:33 Exits:NS> 
+There is lightning in the sky.
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:29 Exits:NS> [0;37m[0m
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:17 Exits:NS> [0;37msc[0m
+You are Sprink Uls, a level 27 Thief.
+You are a Neophyte in Myth.
+You are rank 6. You have completed 1.96% of your next rank.
+You are 17 years old.
+You have 425(425) hit and 67(131) movement points.
+Your behaviour has been Neutral.
+You have scored 46,959,818 exp, and have 5950(15760) steel coins.
+You need 11,040,182 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 2 minute(s).
+You have been playing for 1 day(s), 5 hour(s) and 22 minute(s).
+Your natural ability scores are:
+        Str: 16 Int: 13 Wis: 16 Dex: 23 Con: 16 Cha: 15
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are resting.
+You are flying.
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:15 Exits:NS> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (very good)     **  long blades   (awful)           
+     miscellaneous (awful)             piercers      (very good)     **
+     short blades  (awful)           
+
+     backstab      (very good)     **  hide          (poor)            
+     sneak         (poor)            
+     pick          (fair)            
+     steal         (very good)       
+     case          (excellent)         dodge         (excellent)     **
+     plant         (very good)         throat punch  (fair)            
+     bandage       (superb)            detect        (fair)            
+     disable       (average)           envenom       (very good)     **
+     unbalance     (very poor)       
+     fade          (average)         
+     coup          (below average)     evade         (bad)             
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:13 Exits:NS> [0;37msc[0m
+You are Sprink Uls, a level 27 Thief.
+You are a Neophyte in Myth.
+You are rank 6. You have completed 1.96% of your next rank.
+You are 17 years old.
+You have 425(425) hit and 67(131) movement points.
+Your behaviour has been Neutral.
+You have scored 46,959,818 exp, and have 5950(15760) steel coins.
+You need 11,040,182 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 2 minute(s).
+You have been playing for 1 day(s), 5 hour(s) and 22 minute(s).
+Your natural ability scores are:
+        Str: 16 Int: 13 Wis: 16 Dex: 23 Con: 16 Cha: 15
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are resting.
+You are flying.
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:8 Exits:NS> [0;37mn[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m425H [0;37m[33m[1m67V [0;37m11040182X 1.96% 5950C [0;37mT:1 Exits:NS> 
+The lightning has stopped.
+
+[32m[0;37m[32m425H [0;37m[33m[1m103V [0;37m11040182X 1.96% 5950C [0;37mT:60 Exits:NS> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m425H [0;37m[33m[1m103V [0;37m11040182X 1.96% 5950C [0;37mT:60 Exits:NS> [0;37mn[0m
+[36mSouthern Avenue[0;37m
+    The avenue leads north and south through the huge vallenwoods. The
+trees loom high above you. Their limbs form a canopy that protects you from
+the harsh outside world. The forest here teems with life. You notice a
+smaller road leading east into what appears to be a park.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAidan walks around here looking amazed with his surroundings.
+A small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m102V [0;37m11040182X 1.96% 5950C [0;37mT:59 Exits:NES> [0;37mn[0m
+[36mSouthern Avenue[0;37m
+    You are on a rather wide road. This avenue leads south and north
+through the town. To the north, you see buildings built up in the limbs of
+the huge vallenwoods. This view of Solace shows you how much the village
+depends on the ancient trees for life and sustenance. The avenue leads
+north and south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA long-tailed ground dove sits here on a low branch.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m101V [0;37m11040182X 1.96% 5950C [0;37mT:59 Exits:NS> [0;37mn[0m
+[36mThe Intersection[0;37m
+    You are at a huge intersection in the forest. Southern Avenue meets
+with Park Road and Forest Lane here. There is a small opening in the trees
+above that allows a view of the sky above. A small breeze blows through
+here and you inhale deeply. Southern Avenue leads north and south from the
+intersection, while Forest Lane leads off west and Park Road exits to the
+east.
+[33m[1m[0;37m[31m[1mA street illusionist drawing quite a crowd with his performance.
+Dandrea, Noble Lady of Palanthas is standing here. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m100V [0;37m11040182X 1.96% 5950C [0;37mT:58 Exits:NESW> [0;37mn[0m
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m99V [0;37m11040182X 1.96% 5950C [0;37mT:58 Exits:NES> [0;37mn[0m
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A Seeker priest stands here trying to convert unbelievers.
+An old beggar hobbles along here looking for handouts.
+A small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m98V [0;37m11040182X 1.96% 5950C [0;37mT:56 Exits:NS> [0;37mn[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m97V [0;37m11040182X 1.96% 5950C [0;37mT:52 Exits:NESWU> 
+You can't put liquids in a forest forester's band!
+You can't put liquids in a red steel signet ring!
+You can't put liquids in a sensational hand-stitched collar!
+You can't put liquids in a suit of silent leather armor!
+You can't put liquids in a headband adorned with eagle's feathers!
+You can't put liquids in a pair of shadow sleeves!
+You can't put liquids in a sivak's cloak!
+You can't put liquids in a polished red bone belt of larceny!
+You can't put liquids in a pronged ruby lined bracer!
+You can't put liquids in a grooved dragonspine brassard!
+You can't put liquids in an ice spear!
+You can't put liquids in a heavy spiked mace!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a gargoyle ring!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+There is no room for more.
+
+[32m[0;37m[32m425H [0;37m[33m[1m97V [0;37m11040182X 1.96% 5950C [0;37mT:52 Exits:NESWU> 
+[37mYour clanmate Ishvadsu has left the game.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m97V [0;37m11040182X 1.96% 5950C [0;37mT:52 Exits:NESWU> 
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m425H [0;37m[33m[1m97V [0;37m11040182X 1.96% 5950C [0;37mT:51 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m425H [0;37m[33m[1m97V [0;37m11040182X 1.96% 5950C [0;37mT:48 Exits:NESWU> [0;37ms[0m
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Seeker priest stands here trying to convert unbelievers.
+An old beggar hobbles along here looking for handouts.
+A small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m96V [0;37m11040182X 1.96% 5950C [0;37mT:47 Exits:NS> [0;37ms[0m
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m95V [0;37m11040182X 1.96% 5950C [0;37mT:47 Exits:NES> [0;37mitems[0m
+
+[37mYour clanmate Ishbahar has entered the game.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m95V [0;37m11040182X 1.96% 5950C [0;37mT:46 Exits:NES> [0;37mtiers[0m
+[0;37mlist[0m
+  1. Breastplate         330 a Solamnic breastplate
+  2. Sword               110 a Solamnic longsword
+  3. Helmet               77 [38;5;214ma barbute helm[0;37m
+  4. Headband            220 a black cloth headband (learn5 hr1 sense_life Theief)
+  5. Blade               550 [38;5;214ma black ice blade (3d5 3/3 w15 *18)[0;37m
+  6. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+  7. Broadsword          154 a blackened broadsword (2d8 -1-1 evil)
+  8. Dagger              132 [38;5;183ma blood-grooved dagger[0;37m
+  9. Ring                275 a blue nephaline ring (age-3 para-1)
+ 10. Vest                 66 a bone vest (sense_life)
+ 11. Bracelet            275 a braided silver bracelet
+ 12. Axe                 550 a brightly hafted axe (3d4 1/1 Offy*19)
+ 13. Cap                 143 [38;5;225ma brown bark cap (A1 DRUID HEAD) of lightning[0;37m
+ 14. Helmet               88 a coral helmet (resgas8 SL/infra)
+ 15. Staff               132 a coral quarterstaff (5d4 hr1 w14)
+ 16. Crown               550 a crown of heliconia flowers (2nd +2 druid)
+ 17. Crown               440 a crown of living blue coral
+ 18. Knife               132 [38;5;225ma curved knife[0;37m
+ 19. Robe                 55 a a dark blue robe (imm fire/cold nolore)
+ 20. Charm               286 [38;5;225ma decorated simple gold charm (B1+ CASTER NECK)[0;37m
+ 21. Necklace            165 a dinosaur tooth necklace (ac-4 ss-1)
+ 22. Ring                220 a dolphin bone ring (ac-4 *19)
+
+ [return for more, q to stop][0;37mq[0m
+Ishbahar tells your clan 'rit'
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m95V [0;37m11040182X 1.96% 5950C [0;37mT:39 Exits:NES> [0;37meq[0m
+You are using:
+<worn on finger>           [38;5;183ma forest forester's band (C1+ SCOUT FINGER)[0;37m
+<worn on finger>           a red steel signet ring
+<worn around neck>         [38;5;177ma sensational hand-stitched collar (C2+ MELEE NECK)[0;37m
+<worn on body>             a suit of silent leather armor (hide nomag/pal/dru/cle/war/dk/sham)
+<worn on head>             a headband adorned with eagle's feathers (det_invis)
+<worn on arms>             a a pair of shadow sleeves (ac-3 score crit .5% nomag/pal/dru/cle/scout/war/barb/sham)
+<worn about body>          a sivak's cloak
+<worn about waist>         [38;5;177ma polished red bone belt (B5 THIEF WAIST) of larceny[0;37m
+<worn around right wrist>  [38;5;177ma pronged ruby lined bracer (C2+ MELEE WRIST)[0;37m
+<worn around left wrist>   [38;5;177ma grooved dragonspine brassard (C4+ MELEE WRIST)[0;37m
+<used in primary hand>     an ice spear
+<used in secondary hand>   [38;5;183ma heavy spiked mace[0;37m
+
+[32m[0;37m[32m425H [0;37m[33m[1m95V [0;37m11040182X 1.96% 5950C [0;37mT:39 Exits:NES> [0;37mlist[0m
+  1. Breastplate         330 a Solamnic breastplate
+  2. Sword               110 a Solamnic longsword
+  3. Helmet               77 [38;5;214ma barbute helm[0;37m
+  4. Headband            220 a black cloth headband (learn5 hr1 sense_life Theief)
+  5. Blade               550 [38;5;214ma black ice blade (3d5 3/3 w15 *18)[0;37m
+  6. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+  7. Broadsword          154 a blackened broadsword (2d8 -1-1 evil)
+  8. Dagger              132 [38;5;183ma blood-grooved dagger[0;37m
+  9. Ring                275 a blue nephaline ring (age-3 para-1)
+ 10. Vest                 66 a bone vest (sense_life)
+ 11. Bracelet            275 a braided silver bracelet
+ 12. Axe                 550 a brightly hafted axe (3d4 1/1 Offy*19)
+ 13. Cap                 143 [38;5;225ma brown bark cap (A1 DRUID HEAD) of lightning[0;37m
+ 14. Helmet               88 a coral helmet (resgas8 SL/infra)
+ 15. Staff               132 a coral quarterstaff (5d4 hr1 w14)
+ 16. Crown               550 a crown of heliconia flowers (2nd +2 druid)
+ 17. Crown               440 a crown of living blue coral
+ 18. Knife               132 [38;5;225ma curved knife[0;37m
+ 19. Robe                 55 a a dark blue robe (imm fire/cold nolore)
+ 20. Charm               286 [38;5;225ma decorated simple gold charm (B1+ CASTER NECK)[0;37m
+ 21. Necklace            165 a dinosaur tooth necklace (ac-4 ss-1)
+ 22. Ring                220 a dolphin bone ring (ac-4 *19)
+
+ [return for more, q to stop][0;37m[0m
+ 23. Hammer              275 a dwarven smasher (2d7 hr1 dr2 mag/bless w18 *19)
+ 24. Spear               110 [38;5;225ma feathered spear[0;37m
+ 25. Bracelet            165 a fish-scale bracelet
+ 26. Cap                 132 a flat black velvet cap (sneak3 hide5 infra)
+ 27. Mask                275 a ghastly voodoo mask (cha3 spook/gase+10 det_astral NORENT *19)
+ 28. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 29. Belt                264 a a glowing crystal belt (learn5 dex1 glow/selfdestruct/magic)
+ 30. Brooch                1 a harlot's brooch
+ 31. Sword               302 a heavy steel broadsword (4d4 1/1 w22 nothi/dru/sham)
+ 32. Battleaxe           220 [38;5;183ma honed double-bladed black battleaxe[0;37m
+ 33. Kama                220 a kama and chain
+ 34. Drape               374 [38;5;177ma lavish embroidered drape (C3 CLERIC ABOUT) of sanctity[0;37m
+ 35. Belt                176 a leather belt with a copper buckle (ac-2 health6)
+ 36. Javelin             121 [38;5;225ma long-bladed javelin[0;37m
+ 37. Breastplate         236 [38;5;183ma lord's breastplate (B3 PALADIN BODY) of the Crown[0;37m
+ 38. Medallion            93 a medallion of the earth (Bless *19)
+ 39. Plates              330 a pair of Solamnic leg plates
+ 40. Gloves              385 a pair of bone knuckle gloves
+ 41. Armplates           165 a pair of ceremonial armplates (hr1 nomag/dru/sha/barb)
+ 42. Legplates           110 a pair of ceremonial legplates (hit3 nosbarb/sham)
+
+ [return for more, q to stop][0;37mq[0m
+
+[32m[0;37m[32m425H [0;37m[33m[1m95V [0;37m11040182X 1.96% 5950C [0;37mT:28 Exits:NES> [0;37mbrowse drape[0m
+You browse through the merchandise and notice:
+The drape appears oiled and in perfect condition. (100%)
+You feel informed:
+ Object 'drape lavish embroidered sanctity'
+ Item Type: WORN        
+ Mat Class: leather      Material: fine_leather
+ Weight   : 6            Value   : 340
+
+ Affects  : RESIST_COLD   by 10
+ Affects  : healing received by  2%
+ Effects  : WATERBREATH
+ Restricts: --> CLERIC ONLY <--
+A lavish embroidered drape of sanctity is wearable: about.
+
+[32m[0;37m[32m425H [0;37m[33m[1m95V [0;37m11040182X 1.96% 5950C [0;37mT:26 Exits:NES> [0;37mlist[0m
+  1. Breastplate         330 a Solamnic breastplate
+  2. Sword               110 a Solamnic longsword
+  3. Helmet               77 [38;5;214ma barbute helm[0;37m
+  4. Headband            220 a black cloth headband (learn5 hr1 sense_life Theief)
+  5. Blade               550 [38;5;214ma black ice blade (3d5 3/3 w15 *18)[0;37m
+  6. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+  7. Broadsword          154 a blackened broadsword (2d8 -1-1 evil)
+  8. Dagger              132 [38;5;183ma blood-grooved dagger[0;37m
+  9. Ring                275 a blue nephaline ring (age-3 para-1)
+ 10. Vest                 66 a bone vest (sense_life)
+ 11. Bracelet            275 a braided silver bracelet
+ 12. Axe                 550 a brightly hafted axe (3d4 1/1 Offy*19)
+ 13. Cap                 143 [38;5;225ma brown bark cap (A1 DRUID HEAD) of lightning[0;37m
+ 14. Helmet               88 a coral helmet (resgas8 SL/infra)
+ 15. Staff               132 a coral quarterstaff (5d4 hr1 w14)
+ 16. Crown               550 a crown of heliconia flowers (2nd +2 druid)
+ 17. Crown               440 a crown of living blue coral
+ 18. Knife               132 [38;5;225ma curved knife[0;37m
+ 19. Robe                 55 a a dark blue robe (imm fire/cold nolore)
+ 20. Charm               286 [38;5;225ma decorated simple gold charm (B1+ CASTER NECK)[0;37m
+ 21. Necklace            165 a dinosaur tooth necklace (ac-4 ss-1)
+ 22. Ring                220 a dolphin bone ring (ac-4 *19)
+
+ [return for more, q to stop][0;37m[0m
+ 23. Hammer              275 a dwarven smasher (2d7 hr1 dr2 mag/bless w18 *19)
+ 24. Spear               110 [38;5;225ma feathered spear[0;37m
+ 25. Bracelet            165 a fish-scale bracelet
+ 26. Cap                 132 a flat black velvet cap (sneak3 hide5 infra)
+ 27. Mask                275 a ghastly voodoo mask (cha3 spook/gase+10 det_astral NORENT *19)
+ 28. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 29. Belt                264 a a glowing crystal belt (learn5 dex1 glow/selfdestruct/magic)
+ 30. Brooch                1 a harlot's brooch
+ 31. Sword               302 a heavy steel broadsword (4d4 1/1 w22 nothi/dru/sham)
+ 32. Battleaxe           220 [38;5;183ma honed double-bladed black battleaxe[0;37m
+ 33. Kama                220 a kama and chain
+ 34. Drape               374 [38;5;177ma lavish embroidered drape (C3 CLERIC ABOUT) of sanctity[0;37m
+ 35. Belt                176 a leather belt with a copper buckle (ac-2 health6)
+ 36. Javelin             121 [38;5;225ma long-bladed javelin[0;37m
+ 37. Breastplate         236 [38;5;183ma lord's breastplate (B3 PALADIN BODY) of the Crown[0;37m
+ 38. Medallion            93 a medallion of the earth (Bless *19)
+ 39. Plates              330 a pair of Solamnic leg plates
+ 40. Gloves              385 a pair of bone knuckle gloves
+ 41. Armplates           165 a pair of ceremonial armplates (hr1 nomag/dru/sha/barb)
+ 42. Legplates           110 a pair of ceremonial legplates (hit3 nosbarb/sham)
+
+ [return for more, q to stop][0;37m[0m
+ 43. Legplates           137 a pair of charred platemail legplates (STR hit5 ac-5 *19)
+ 44. Greaves              82 a pair of coral greaves (res_elec8 *19)
+ 45. Vambraces            82 a pair of coral vambraces (res_heat nodru/mag/thi/sham *19)
+ 46. Sandals             110 a pair of cord sandals (move10)
+ 47. Boots               132 a pair of ergothian battle boots
+ 48. Sleeves             330 a a pair of shadow sleeves (ac-3 score crit .5% nomag/pal/dru/cle/scout/war/barb/sham)
+ 49. Boots                66 a pair of silver spurred boots (sneak-20 mv15 bls nodk *19)
+ 50. Armbands            132 a pair of spectacular hematite armbands (str1 int-2 )
+ 51. Pants               176 a pair of tanned leather pants
+ 52. Cross               165 a papal cross
+ 53. Bodice               49 a pirate wench bodice
+ 54. Hatchet             165 a plainsman's war hatchet (2d6 1/1 w8 *19)
+ 55. Plate                99 a plate of vallenwood (apply6)
+ 56. Gorget              176 a platinum gilt gorget (apply5 *19)
+ 57. Gown                330 a pretty pink satin gown (nocharm)
+ 58. Bands                88 a ragged pair of leather arm bands (hr1 ac-3)
+ 59. Cloak               220 a rainbow cloak (ac-7 hide7)
+ 60. Sword                16 a sahuagin short sword (1d6 w5)
+ 61. Claymore             44 a serrated claymore
+ 62. Hood                330 a a shadow hood (sense_life/infra nomag/pal/dru/cle/scout/war/barb/sham)
+ 63. Shard               660 a a shard of bone (5d3 nomage/dru/cle/sham w12)
+ 64. Knife               110 [38;5;225ma sharp knife[0;37m
+
+ [return for more, q to stop][0;37mq[0m
+Your clanmate Ishbahar has left the game.
+[0;37m[37mYour clanmate Shmyaka has left the game.
+[0;37m[37mYour clanmate Shmyaka has entered the game.
+[0;37mZentri flies in from the north.
+Zensh flies in from the north.
+The spirit of a cityguard arrives from the north.
+The spirit of a cityguard arrives from the north.
+[37mYour clanmate Ishbahar has entered the game.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m95V [0;37m11040182X 1.96% 5950C [0;37mT:6 Exits:NES> [0;37meq[0m
+You are using:
+<worn on finger>           [38;5;183ma forest forester's band (C1+ SCOUT FINGER)[0;37m
+<worn on finger>           a red steel signet ring
+<worn around neck>         [38;5;177ma sensational hand-stitched collar (C2+ MELEE NECK)[0;37m
+<worn on body>             a suit of silent leather armor (hide nomag/pal/dru/cle/war/dk/sham)
+<worn on head>             a headband adorned with eagle's feathers (det_invis)
+<worn on arms>             a a pair of shadow sleeves (ac-3 score crit .5% nomag/pal/dru/cle/scout/war/barb/sham)
+<worn about body>          a sivak's cloak
+<worn about waist>         [38;5;177ma polished red bone belt (B5 THIEF WAIST) of larceny[0;37m
+<worn around right wrist>  [38;5;177ma pronged ruby lined bracer (C2+ MELEE WRIST)[0;37m
+<worn around left wrist>   [38;5;177ma grooved dragonspine brassard (C4+ MELEE WRIST)[0;37m
+<used in primary hand>     an ice spear
+<used in secondary hand>   [38;5;183ma heavy spiked mace[0;37m
+
+[32m[0;37m[32m425H [0;37m[33m[1m95V [0;37m11040182X 1.96% 5950C [0;37mT:5 Exits:NES> 
+Zensh smiles as he finishes his meditation.
+
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:60 Exits:NES> [0;37mbrowse knife[0m
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (100%)
+A curved knife is of poor quality.
+A curved knife requires knowledge of the skill 'short blades'.
+
+The knife's metallic surface is shiny and new. (100%)
+A sharp knife is of poor quality.
+A sharp knife requires knowledge of the skill 'short blades'.
+
+The knife's metallic surface is shiny and new. (100%)
+A smuggler's knife is of very good quality.
+You feel informed:
+ Object 'knife smuggler's'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 16           Value   : 500
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Class    : knife
+ Damage   : 3D4
+
+ [return for more, q to stop][0;37m[0m
+A smuggler's knife requires knowledge of the skill 'short blades'.
+
+The knife's metallic surface is shiny and new. (100%)
+An enchanted serrated knife is of very good quality.
+You feel informed:
+ Object 'knife enchanted serrated'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 320
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 1
+ Affects  : casting level by 2
+ Effects  : DETECT_MAGIC
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : knife
+ Damage   : 3D5
+An enchanted serrated knife requires knowledge of the skill 'short blades'.
+
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:56 Exits:NES> [0;37mlist[0m
+  1. Breastplate         330 a Solamnic breastplate
+  2. Sword               110 a Solamnic longsword
+  3. Helmet               77 [38;5;214ma barbute helm[0;37m
+  4. Headband            220 a black cloth headband (learn5 hr1 sense_life Theief)
+  5. Blade               550 [38;5;214ma black ice blade (3d5 3/3 w15 *18)[0;37m
+  6. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+  7. Broadsword          154 a blackened broadsword (2d8 -1-1 evil)
+  8. Dagger              132 [38;5;183ma blood-grooved dagger[0;37m
+  9. Ring                275 a blue nephaline ring (age-3 para-1)
+ 10. Vest                 66 a bone vest (sense_life)
+ 11. Bracelet            275 a braided silver bracelet
+ 12. Axe                 550 a brightly hafted axe (3d4 1/1 Offy*19)
+ 13. Cap                 143 [38;5;225ma brown bark cap (A1 DRUID HEAD) of lightning[0;37m
+ 14. Helmet               88 a coral helmet (resgas8 SL/infra)
+ 15. Staff               132 a coral quarterstaff (5d4 hr1 w14)
+ 16. Crown               550 a crown of heliconia flowers (2nd +2 druid)
+ 17. Crown               440 a crown of living blue coral
+ 18. Knife               132 [38;5;225ma curved knife[0;37m
+ 19. Robe                 55 a a dark blue robe (imm fire/cold nolore)
+ 20. Charm               286 [38;5;225ma decorated simple gold charm (B1+ CASTER NECK)[0;37m
+ 21. Necklace            165 a dinosaur tooth necklace (ac-4 ss-1)
+ 22. Ring                220 a dolphin bone ring (ac-4 *19)
+
+ [return for more, q to stop][0;37m[0m
+ 23. Hammer              275 a dwarven smasher (2d7 hr1 dr2 mag/bless w18 *19)
+ 24. Spear               110 [38;5;225ma feathered spear[0;37m
+ 25. Bracelet            165 a fish-scale bracelet
+ 26. Cap                 132 a flat black velvet cap (sneak3 hide5 infra)
+ 27. Mask                275 a ghastly voodoo mask (cha3 spook/gase+10 det_astral NORENT *19)
+ 28. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 29. Belt                264 a a glowing crystal belt (learn5 dex1 glow/selfdestruct/magic)
+ 30. Brooch                1 a harlot's brooch
+ 31. Sword               302 a heavy steel broadsword (4d4 1/1 w22 nothi/dru/sham)
+ 32. Battleaxe           220 [38;5;183ma honed double-bladed black battleaxe[0;37m
+ 33. Kama                220 a kama and chain
+ 34. Drape               374 [38;5;177ma lavish embroidered drape (C3 CLERIC ABOUT) of sanctity[0;37m
+ 35. Belt                176 a leather belt with a copper buckle (ac-2 health6)
+ 36. Javelin             121 [38;5;225ma long-bladed javelin[0;37m
+ 37. Breastplate         236 [38;5;183ma lord's breastplate (B3 PALADIN BODY) of the Crown[0;37m
+ 38. Medallion            93 a medallion of the earth (Bless *19)
+ 39. Plates              330 a pair of Solamnic leg plates
+ 40. Gloves              385 a pair of bone knuckle gloves
+ 41. Armplates           165 a pair of ceremonial armplates (hr1 nomag/dru/sha/barb)
+ 42. Legplates           110 a pair of ceremonial legplates (hit3 nosbarb/sham)
+
+ [return for more, q to stop][0;37m[0m
+ 43. Legplates           137 a pair of charred platemail legplates (STR hit5 ac-5 *19)
+ 44. Greaves              82 a pair of coral greaves (res_elec8 *19)
+ 45. Vambraces            82 a pair of coral vambraces (res_heat nodru/mag/thi/sham *19)
+ 46. Sandals             110 a pair of cord sandals (move10)
+ 47. Boots               132 a pair of ergothian battle boots
+ 48. Sleeves             330 a a pair of shadow sleeves (ac-3 score crit .5% nomag/pal/dru/cle/scout/war/barb/sham)
+ 49. Boots                66 a pair of silver spurred boots (sneak-20 mv15 bls nodk *19)
+ 50. Armbands            132 a pair of spectacular hematite armbands (str1 int-2 )
+ 51. Pants               176 a pair of tanned leather pants
+ 52. Cross               165 a papal cross
+ 53. Bodice               49 a pirate wench bodice
+ 54. Hatchet             165 a plainsman's war hatchet (2d6 1/1 w8 *19)
+ 55. Plate                99 a plate of vallenwood (apply6)
+ 56. Gorget              176 a platinum gilt gorget (apply5 *19)
+ 57. Gown                330 a pretty pink satin gown (nocharm)
+ 58. Bands                88 a ragged pair of leather arm bands (hr1 ac-3)
+ 59. Cloak               220 a rainbow cloak (ac-7 hide7)
+ 60. Sword                16 a sahuagin short sword (1d6 w5)
+ 61. Claymore             44 a serrated claymore
+ 62. Hood                330 a a shadow hood (sense_life/infra nomag/pal/dru/cle/scout/war/barb/sham)
+ 63. Shard               660 a a shard of bone (5d3 nomage/dru/cle/sham w12)
+ 64. Knife               110 [38;5;225ma sharp knife[0;37m
+
+ [return for more, q to stop][0;37m[0m
+ 65. Ring                110 a silver signet ring
+ 66. Spear               330 a slender silver spear
+ 67. Ring                550 a small signet ring (ac-2 immac/cold/gas/heat)
+ 68. Thimble              99 a small silver thimble (dex1 savepois-2 nopal/ran/war/dk/bar/sha)
+ 69. Knife               550 a smuggler's knife
+ 70. Sword               330 a steel finger ring sword
+ 71. Cord                132 [38;5;225ma stitched saber hide cord (A2 BARBARIAN WAIST) of mania[0;37m
+ 72. Beads                82 a string of illusionist's beads
+ 73. Armor               132 a suit of coral armor (rescold8 WB)
+ 74. Armor               137 a suit of silent leather armor (hide nomag/pal/dru/cle/war/dk/sham)
+ 75. Thimble             231 a thimble of quicksilver
+ 76. Truncheon            33 a truncheon
+ 77. Vest                330 a white solamnic vest
+ 78. Ring                198 a woodsman's ring (ss-1 nomage)
+ 79. Bow                 242 an ancient yew bow
+ 80. Cape                110 an eel skin cape
+ 81. Cuirass             154 an an embossed dragonarmy cuirass (age-3 ac-4 magic)
+ 82. Scarf               165 an embroidered purple scarf (det_inv *19)
+ 83. Cloak               418 [38;5;177man enchanted cloak of wizardry[0;37m
+ 84. Knife               352 [38;5;177man enchanted serrated knife[0;37m
+ 85. Helmet              132 an ergothian battle helmet (con1 detinv/infra)
+
+ [return for more, q to stop][0;37m[0m
+ 86. Mantle              220 [38;5;183man exorcist's mantle (B3 CLERIC BODY) of reverence[0;37m
+ 87. Spear               385 an obsidian-tipped ironwood spear (6d4 hr NORENT w34 nothi *19)
+ 88. Helm                165 an open-faced horned helm
+ 89. Headdress           220 an ornate headdress (int1 cl2 det_inv)
+ 90. Gloves              110 [38;5;183msome blood-coated gloves of cruelty (A4+ WARRIOR HANDS)[0;37m
+ 91. Mask               1100 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+ 92. Staff               132 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:45 Exits:NES> 
+Zentri flies north.
+Zensh flies north.
+The spirit of a cityguard leaves north.
+The spirit of a cityguard leaves north.
+
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:45 Exits:NES> 
+Zentri flies in from the north.
+Zensh flies in from the north.
+The spirit of a cityguard arrives from the north.
+The spirit of a cityguard arrives from the north.
+
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:42 Exits:NES> [0;37mbrowse spear[0m
+You browse through the merchandise and notice:
+The hard wooden surface of the spear is in perfect condition. (100%)
+A feathered spear is of poor quality.
+You feel informed:
+ Object 'spear feathered'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: ironwood
+ Weight   : 12           Value   : 100
+
+ Item is  : MAGIC
+ Class    : spear
+ Damage   : 3D3
+A feathered spear requires knowledge of the skill 'piercers'.
+
+The surface of the spear gleams brightly. (100%)
+A slender silver spear is of good quality.
+A slender silver spear requires knowledge of the skill 'piercers'.
+
+The hard wooden surface of the spear is in perfect condition. (100%)
+An obsidian-tipped ironwood spear (6d4 hr NORENT w34 nothi *19) is of average quality.
+An obsidian-tipped ironwood spear (6d4 hr NORENT w34 nothi *19) requires knowledge of the skill 'piercers'.
+
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:30 Exits:NES> [0;37mbrowse javelin[0m
+You browse through the merchandise and notice:
+The hard wooden surface of the javelin is in perfect condition. (100%)
+A long-bladed javelin is of poor quality.
+A long-bladed javelin requires knowledge of the skill 'piercers'.
+
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:25 Exits:NES> 
+Zentri flies north.
+Zensh flies north.
+The spirit of a cityguard leaves north.
+The spirit of a cityguard leaves north.
+
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:22 Exits:NES> [0;37mlist javelin[0m
+ 36. Javelin             121 [38;5;225ma long-bladed javelin[0;37m
+
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:22 Exits:NES> [0;37mn[0m
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Seeker priest stands here trying to convert unbelievers.
+A small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m121V [0;37m11040182X 1.96% 5950C [0;37mT:19 Exits:NS> [0;37mn[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m120V [0;37m11040182X 1.96% 5950C [0;37mT:19 Exits:NESWU> 
+You can't put liquids in a forest forester's band (C1+ SCOUT FINGER)!
+You can't put liquids in a red steel signet ring!
+You can't put liquids in a sensational hand-stitched collar (C2+ MELEE NECK)!
+You can't put liquids in a suit of silent leather armor (hide nomag/pal/dru/cle/war/dk/sham)!
+You can't put liquids in a headband adorned with eagle's feathers (det_invis)!
+You can't put liquids in a a pair of shadow sleeves (ac-3 score crit .5% nomag/pal/dru/cle/scout/war/barb/sham)!
+You can't put liquids in a sivak's cloak!
+You can't put liquids in a polished red bone belt (B5 THIEF WAIST) of larceny!
+You can't put liquids in a pronged ruby lined bracer (C2+ MELEE WRIST)!
+You can't put liquids in a grooved dragonspine brassard (C4+ MELEE WRIST)!
+You can't put liquids in an ice spear!
+You can't put liquids in a heavy spiked mace!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a gargoyle ring (str antiG)!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+There is no room for more.
+
+[32m[0;37m[32m425H [0;37m[32m120V [0;37m11040182X 1.96% 5950C [0;37mT:19 Exits:NESWU> [0;37mu[0m
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+A Solace peacekeeper is here making his rounds.
+A Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m119V [0;37m11040182X 1.96% 5950C [0;37mT:17 Exits:NESWUD> [0;37mn[0m
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m117V [0;37m11040182X 1.96% 5950C [0;37mT:17 Exits:NES> [0;37me[0m
+The patrons pay you no heed and continue with their banter.
+[36mThe Muddy Waters[0;37m
+    This is a small tavern but filled to the brim with rowdy customers that
+are both loud and drunk. Stale ale and bowls of musty broth are served by a
+couple of wenches, occasionally having to fend off a few wandering hands. A
+small fireplace lies in the north wall providing little light as most of
+the corners of the tavern are shrouded in darkness.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Aldur A'Kul the master thief sits in a corner watching every movement.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m116V [0;37m11040182X 1.96% 5950C [0;37mT:17 Exits:W> [0;37mlearn all[0m
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m425H [0;37m[32m116V [0;37m11040182X 1.96% 5950C [0;37mT:15 Exits:W> [0;37ml[0m
+[36mThe Muddy Waters[0;37m
+    This is a small tavern but filled to the brim with rowdy customers that
+are both loud and drunk. Stale ale and bowls of musty broth are served by a
+couple of wenches, occasionally having to fend off a few wandering hands. A
+small fireplace lies in the north wall providing little light as most of
+the corners of the tavern are shrouded in darkness.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Aldur A'Kul the master thief sits in a corner watching every movement.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m116V [0;37m11040182X 1.96% 5950C [0;37mT:14 Exits:W> [0;37ml[0m
+[36mThe Muddy Waters[0;37m
+    This is a small tavern but filled to the brim with rowdy customers that
+are both loud and drunk. Stale ale and bowls of musty broth are served by a
+couple of wenches, occasionally having to fend off a few wandering hands. A
+small fireplace lies in the north wall providing little light as most of
+the corners of the tavern are shrouded in darkness.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Aldur A'Kul the master thief sits in a corner watching every movement.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m116V [0;37m11040182X 1.96% 5950C [0;37mT:13 Exits:W> [0;37mw[0m
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m115V [0;37m11040182X 1.96% 5950C [0;37mT:13 Exits:NES> [0;37me[0m
+The patrons pay you no heed and continue with their banter.
+[36mThe Muddy Waters[0;37m
+    This is a small tavern but filled to the brim with rowdy customers that
+are both loud and drunk. Stale ale and bowls of musty broth are served by a
+couple of wenches, occasionally having to fend off a few wandering hands. A
+small fireplace lies in the north wall providing little light as most of
+the corners of the tavern are shrouded in darkness.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Aldur A'Kul the master thief sits in a corner watching every movement.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m114V [0;37m11040182X 1.96% 5950C [0;37mT:12 Exits:W> [0;37mdetect[0m
+After carefully studying the room's contents, you discover nothing unusual.
+
+[32m[0;37m[32m425H [0;37m[32m114V [0;37m11040182X 1.96% 5950C [0;37mT:11 Exits:W> [0;37mdetect[0m
+You attempt to study the room again, but find nothing new.
+
+[32m[0;37m[32m425H [0;37m[32m114V [0;37m11040182X 1.96% 5950C [0;37mT:6 Exits:W> [0;37mdetect[0m
+You attempt to study the room again, but find nothing new.
+
+[32m[0;37m[32m425H [0;37m[32m114V [0;37m11040182X 1.96% 5950C [0;37mT:2 Exits:W> [0;37ml[0m
+
+With a quick flick of his wrist, Aldur tosses some coins onto a table,
+much to the surprise of a serving wench.
+
+[32m[0;37m[32m425H [0;37m[32m131V [0;37m11040182X 1.96% 5950C [0;37mT:60 Exits:W> 
+[36mThe Muddy Waters[0;37m
+    This is a small tavern but filled to the brim with rowdy customers that
+are both loud and drunk. Stale ale and bowls of musty broth are served by a
+couple of wenches, occasionally having to fend off a few wandering hands. A
+small fireplace lies in the north wall providing little light as most of
+the corners of the tavern are shrouded in darkness.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Aldur A'Kul the master thief sits in a corner watching every movement.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m131V [0;37m11040182X 1.96% 5950C [0;37mT:58 Exits:W> [0;37mw[0m
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA cagey elf is standing here, keeping to himself.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m130V [0;37m11040182X 1.96% 5950C [0;37mT:57 Exits:NES> [0;37ms[0m
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m128V [0;37m11040182X 1.96% 5950C [0;37mT:56 Exits:NESWUD> [0;37md[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+A man wrapped in a brown cloak wanders around the city of Solace. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m127V [0;37m11040182X 1.96% 5950C [0;37mT:56 Exits:NESWU> 
+You can't put liquids in a forest forester's band (C1+ SCOUT FINGER)!
+You can't put liquids in a red steel signet ring!
+You can't put liquids in a sensational hand-stitched collar (C2+ MELEE NECK)!
+You can't put liquids in a suit of silent leather armor (hide nomag/pal/dru/cle/war/dk/sham)!
+You can't put liquids in a headband adorned with eagle's feathers (det_invis)!
+You can't put liquids in a a pair of shadow sleeves (ac-3 score crit .5% nomag/pal/dru/cle/scout/war/barb/sham)!
+You can't put liquids in a sivak's cloak!
+You can't put liquids in a polished red bone belt (B5 THIEF WAIST) of larceny!
+You can't put liquids in a pronged ruby lined bracer (C2+ MELEE WRIST)!
+You can't put liquids in a grooved dragonspine brassard (C4+ MELEE WRIST)!
+You can't put liquids in an ice spear!
+You can't put liquids in a heavy spiked mace!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a gargoyle ring (str antiG)!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+There is no room for more.
+
+[32m[0;37m[32m425H [0;37m[32m127V [0;37m11040182X 1.96% 5950C [0;37mT:56 Exits:NESWU> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m126V [0;37m11040182X 1.96% 5950C [0;37mT:55 Exits:NSWU> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m<Myth> Captain Yimbo Slice is standing here. (flying) (white aura)
+<Myth> Yim The Great is standing here. (flying) (invisible) (white aura)
+A Solace peacekeeper is here making his rounds.
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m125V [0;37m11040182X 1.96% 5950C [0;37mT:55 Exits:NSW> 
+Yim flies south.
+Yimbo flies south.
+
+[32m[0;37m[32m425H [0;37m[32m125V [0;37m11040182X 1.96% 5950C [0;37mT:55 Exits:NSW> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m124V [0;37m11040182X 1.96% 5950C [0;37mT:55 Exits:NES> [0;37mn[0m
+[36mIntersection of Northern Avenue and Perimeter Street[0;37m
+    Northern Avenue intersects Perimeter Street here. The avenue leads
+north and south, while Perimeter Street appears to loop to the east,
+circling above the region Solace is built in. What appears to be a gate is
+to the north, while you see signs of Solace to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m123V [0;37m11040182X 1.96% 5950C [0;37mT:55 Exits:NES> [0;37mn[0m
+[36mThe Northern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the north. Two huge
+vallenwoods stand on either side of the road and it is between these, that
+the gate is built. The forest north of the gate looks much like the forest
+that Solace is a part of. You know, however, that it is much wilder and
+dangerous. Northern Avenue leads south into the heart of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA menacing rottweiler circles here barking at some shadows.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m122V [0;37m11040182X 1.96% 5950C [0;37mT:54 Exits:NS> [0;37mn[0m
+[36mA Narrow Road[0;37m
+    This narrow, dirt road winds its way through the great forest, curving
+around large trees and rocks. You can hear the chattering of hundreds of
+animals all around you, and a few of the trees seem to have large claw
+marks. To the south, lies the northern gate of Solace, and to the north,
+the road continues. Large bushes block your view to the east and west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m121V [0;37m11040182X 1.96% 5950C [0;37mT:54 Exits:NS> [0;37mn[0m
+[36mA Narrow Road[0;37m
+    A narrow road leads deep into a thick forest of very tall trees and
+north it leads through the plains of Abanasinia. Around you are many trees
+but not as many as to the south. The road runs in the near shadows of the
+Kharolis mountains which can be seen off to the west, beyond a great lake.
+The mountains appear to run north for some distance before ending. The
+plains spread out to the north from here for many leagues.
+[33m[1m[0;37m[31m[1mA fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m119V [0;37m11040182X 1.96% 5950C [0;37mT:54 Exits:NSW> [0;37m[0m
+
+[32m[0;37m[32m425H [0;37m[32m119V [0;37m11040182X 1.96% 5950C [0;37mT:52 Exits:NSW> [0;37mw[0m
+[36mAt the Edge of Nearfields[0;37m
+    You are on a narrow trail that cuts between large fields of grain and
+the huge vallenwood trees that cover the Solace Vale. Stretching out to the
+north, these fields are known as Nearfields to the citizens of Solace
+because of their proximity to the small town. A thick forest of pine trees
+lies to the west, beyond which the Crystalmir Lake can be seen. To the east
+this dirt trail merges with a wide road.
+[33m[1m[0;37m[31m[1mA fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m117V [0;37m11040182X 1.96% 5950C [0;37mT:51 Exits:EW> [0;37mw[0m
+[36mAlong the Shore of Crystalmir[0;37m
+    You are at the corner of a large lake, which fills your vision far to
+the west before ending at high, jagged cliffs. The forest of pine that this
+trail winds through thins out to the north and east, where large fields of
+grain can be seen. The pine-covered trail follows the shoreline to the
+south into thicker woods and north.
+[33m[1m[0;37m[31m[1mA cuddly bunny hops around here looking for something.
+A cuddly bunny hops around here looking for something.
+A fellow traveller is here, weary from many days on the road. (white aura)
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m115V [0;37m11040182X 1.96% 5950C [0;37mT:50 Exits:NES> [0;37mn[0m
+[36mThe Thinning Forest[0;37m
+    The pine forest around you thins out to nothing to the north and you
+can see large fields of grain. The forest grows thicker to the south and
+the path leads into it. You can see a large lake off in the south and high
+jagged cliffs off to the west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m113V [0;37m11040182X 1.96% 5950C [0;37mT:49 Exits:NS> [0;37mn[0m
+[36mAmongst Some Grain Fields[0;37m
+    The path leads through some grain fields to the north and south heads
+into a pine forest. Far off to the west you see some high, jagged cliffs.
+The breeze from the north brings the smell of salt and is damp. The grain
+fields spread out to the east as far as you can see.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m111V [0;37m11040182X 1.96% 5950C [0;37mT:49 Exits:NSW> [0;37mw[0m
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA scrap of paper is crumpled up on the floor.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m110V [0;37m11040182X 1.96% 5950C [0;37mT:48 Exits:NESW> [0;37ms[0m
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1m[0;37m[31m[1m<Myth> Knaak the Female Irda is resting here. (flying) (white aura)
+The clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:47 Exits:N> 
+-#-#-#-#-#-#-#-> Knaak <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m425H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:47 Exits:N> 
+Knaak flies north.
+
+[32m[0;37m[32m425H [0;37m[32m109V [0;37m11040182X 1.96% 5950C [0;37mT:47 Exits:N> [0;37mn[0m
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA scrap of paper is crumpled up on the floor.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[32m108V [0;37m11040182X 1.96% 5950C [0;37mT:45 Exits:NESW> [0;37mn[0m
+[35mThe Forge of Myth[0;37m
+    Incessant hammering of iron on anvil brings a sharp ringing to this
+furnace of a smithy. While most of the work done here seems to be toward the
+making of horseshoes and repairing minor dents in weapons and armor, the
+master smith has been known to craft some new items from time to time.
+Cooling buckets surround the anvil and the occasional hiss released from
+the cooling process indicates that they are often put to good use.
+[33m[1mSomeone left a sad eyelet ring here...it glows dimly
+A small yellow stone glows with an inner light...it glows dimly
+[0;37m[31m[1mThe clan blacksmith is standing here.
+[0;37m
+[32m[0;37m[32m425H [0;37m[32m107V [0;37m11040182X 1.96% 5950C [0;37mT:45 Exits:S> [0;37ms[0m
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA scrap of paper is crumpled up on the floor.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m106V [0;37m11040182X 1.96% 5950C [0;37mT:44 Exits:NESW> [0;37mw[0m
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m105V [0;37m11040182X 1.96% 5950C [0;37mT:43 Exits:EWU> [0;37mu[0m
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mMade from one of the hardest substances, a diamond tablet lies on the ground.
+A small metal key is lying here.
+[0;37m[31m[1m<Myth> Knaak the Female Irda is standing here. (flying) (white aura)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m425H [0;37m[33m[1m104V [0;37m11040182X 1.96% 5950C [0;37mT:43 Exits:D> [0;37moffer[0m
+[33m[1m             a forest forester's band (C1+ SCOUT FINGER) : 207 coins/day
+[0;37m[33m[1m              a red steel signet ring : 180 coins/day
+[0;37m[33m[1m   a sensational hand-stitched collar (C2+ MELEE NECK) : 243 coins/day
+[0;37m[33m[1m       a suit of silent leather armor (hide nomag/pal/dru/cle/war/dk/sham) : 58 coins/day
+[0;37m[33m[1ma headband adorned with eagle's feathers (det_invis) : 27 coins/day
+[0;37m[33m[1m             a a pair of shadow sleeves (ac-3 score crit .5% nomag/pal/dru/cle/scout/war/barb/sham) : 135 coins/day
+[0;37m[33m[1m                      a sivak's cloak : 85 coins/day
+[0;37m[33m[1m  a polished red bone belt (B5 THIEF WAIST) of larceny : 144 coins/day
+[0;37m[33m[1m          a pronged ruby lined bracer (C2+ MELEE WRIST) : 243 coins/day
+[0;37m[33m[1m       a grooved dragonspine brassard (C4+ MELEE WRIST) : 189 coins/day
+[0;37m[33m[1m                         an ice spear : 90 coins/day
+[0;37m[33m[1m                  a heavy spiked mace : 108 coins/day
+[0;37m[33m          a piece of sweet bread [31] : 0 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m           a glowing scroll of recall : 13 coins/day
+[0;37m[32m             a tall, wide-brimmed hat : 9 coins/day
+[0;37m[33m                      a gargoyle ring (str antiG) : 81 coins/day
+[0;37m[33m                          a waterskin : 0 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 1812 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 35 days.'
+
+[32m[0;37m[32m425H [0;37m[33m[1m104V [0;37m11040182X 1.96% 5950C [0;37mT:39 Exits:D> [0;37mrent[0m
+[33m[1m             a forest forester's band (C1+ SCOUT FINGER) : 207 coins/day
+[0;37m[33m[1m              a red steel signet ring : 180 coins/day
+[0;37m[33m[1m   a sensational hand-stitched collar (C2+ MELEE NECK) : 243 coins/day
+[0;37m[33m[1m       a suit of silent leather armor (hide nomag/pal/dru/cle/war/dk/sham) : 58 coins/day
+[0;37m[33m[1ma headband adorned with eagle's feathers (det_invis) : 27 coins/day
+[0;37m[33m[1m             a a pair of shadow sleeves (ac-3 score crit .5% nomag/pal/dru/cle/scout/war/barb/sham) : 135 coins/day
+[0;37m[33m[1m                      a sivak's cloak : 85 coins/day
+[0;37m[33m[1m  a polished red bone belt (B5 THIEF WAIST) of larceny : 144 coins/day
+[0;37m[33m[1m          a pronged ruby lined bracer (C2+ MELEE WRIST) : 243 coins/day
+[0;37m[33m[1m       a grooved dragonspine brassard (C4+ MELEE WRIST) : 189 coins/day
+[0;37m[33m[1m                         an ice spear : 90 coins/day
+[0;37m[33m[1m                  a heavy spiked mace : 108 coins/day
+[0;37m[33m          a piece of sweet bread [31] : 0 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m           a glowing scroll of recall : 13 coins/day
+[0;37m[32m             a tall, wide-brimmed hat : 9 coins/day
+[0;37m[33m                      a gargoyle ring (str antiG) : 81 coins/day
+[0;37m[33m                          a waterskin : 0 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 1812 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 35 days.'
+The stronghold receptionist stores your stuff in the safe, and shows you to your room.
+You sink gently to the ground.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

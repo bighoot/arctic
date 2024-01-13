@@ -1,0 +1,3605 @@
+[0m#LOG: LOGGING OUTPUT TO 'more_thorb.txt' FILESIZE: 0[0m
+
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mAt the Foot of a Mountain[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m116V [0;37m8165229X 92.43% 7647C [0;37mT:6 Exits:SW> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mBeside a Massive Boulder[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m114V [0;37m8165229X 92.43% 7647C [0;37mT:5 Exits:NE> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mA Hidden Path Among Boulders[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m112V [0;37m8165229X 92.43% 7647C [0;37mT:5 Exits:SW> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mPath Around the Mountain[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m110V [0;37m8165229X 92.43% 7647C [0;37mT:4 Exits:NEW> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mPath Around the Mountain[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m8165229X 92.43% 7647C [0;37mT:59 Exits:EW> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mA Steep Pass in the Mountain[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m127V [0;37m8165229X 92.43% 7647C [0;37mT:58 Exits:NSW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mPath Around the Mountain[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m125V [0;37m8165229X 92.43% 7647C [0;37mT:57 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mPath Around the Mountain[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m123V [0;37m8165229X 92.43% 7647C [0;37mT:57 Exits:NEW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mPath Around the Mountain[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m121V [0;37m8165229X 92.43% 7647C [0;37mT:57 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mPath Around the Mountain[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m119V [0;37m8165229X 92.43% 7647C [0;37mT:56 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mWinding Through a Narrow Path[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m117V [0;37m8165229X 92.43% 7647C [0;37mT:56 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mWinding Through a Narrow Path[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m115V [0;37m8165229X 92.43% 7647C [0;37mT:56 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mIn a Small Canyon[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m113V [0;37m8165229X 92.43% 7647C [0;37mT:55 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mIn a Small Canyon[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m111V [0;37m8165229X 92.43% 7647C [0;37mT:55 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mEast Side of a Dry Gully[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m109V [0;37m8165229X 92.43% 7647C [0;37mT:55 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mOn a Sturdy Bridge[0;37m
+[33m[1mA pair of large lamps burn here, at each end of the bridge...it glows dimly
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+An armed dwarf is here, protecting the shipment of ore.
+An armed dwarf is here, protecting the shipment of ore.
+A very tough looking dwarf is here, taking no flak. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m107V [0;37m8165229X 92.43% 7647C [0;37mT:54 Exits:NESW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mWest Side of a Dry Gully[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m105V [0;37m8165229X 92.43% 7647C [0;37mT:53 Exits:ES> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mThe Mouth of a Canyon[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m103V [0;37m8165229X 92.43% 7647C [0;37mT:51 Exits:NS> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mA Small Valley[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m101V [0;37m8165229X 92.43% 7647C [0;37mT:50 Exits:NES> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mThe Kharolis Mine[0;37m
+[33m[1mA small oil lamp hangs from a small post here...it glows dimly
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m99V [0;37m8165229X 92.43% 7647C [0;37mT:49 Exits:NW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mThe Kharolis Mine[0;37m
+[33m[1mA small oil lamp hangs from a small post here...it glows dimly
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m97V [0;37m8165229X 92.43% 7647C [0;37mT:49 Exits:NESW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mThe Entrance to the Mines[0;37m
+[33m[1mA small oil lamp hangs from a small post here...it glows dimly
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m96V [0;37m8165229X 92.43% 7647C [0;37mT:48 Exits:NEW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mInside a Dwarven Mine[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m94V [0;37m8165229X 92.43% 7647C [0;37mT:47 Exits:ESD> 
+Lena flies down.
+You follow Lena down.
+Adanac flies in from above.
+Maui flies in from above.
+[36mThe Mine Decline[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m92V [0;37m8165229X 92.43% 7647C [0;37mT:46 Exits:WUD> 
+Lena flies down.
+You follow Lena down.
+Adanac flies in from above.
+Maui flies in from above.
+[36mIn the Dwarven Mine[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A huge dwarf is here, inspecting all that pass by. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m90V [0;37m8165229X 92.43% 7647C [0;37mT:45 Exits:NSU> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mIn an Abandoned Section of Tunnel[0;37m
+[33m[1mAn old pickaxe rests with its handle leaning against a wall here.
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m88V [0;37m8165229X 92.43% 7647C [0;37mT:45 Exits:NS> 
+Lena gets a sturdy pickaxe.
+
+[32m[0;37m[32m399H [0;37m[33m[1m88V [0;37m8165229X 92.43% 7647C [0;37mT:43 Exits:NS> 
+[36mLena tells your group 'you know here, right?'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m88V [0;37m8165229X 92.43% 7647C [0;37mT:40 Exits:NS> [0;37mgt a little bit[0m
+You tell your group 'a little bit'
+
+[32m[0;37m[32m399H [0;37m[33m[1m88V [0;37m8165229X 92.43% 7647C [0;37mT:33 Exits:NS> 
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Maui flies in from the south.
+[36mIn the Dwarven Mine[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A huge dwarf is here, inspecting all that pass by. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m86V [0;37m8165229X 92.43% 7647C [0;37mT:31 Exits:NSU> 
+Lena flies up.
+You follow Lena up.
+Adanac flies in from below.
+Maui flies in from below.
+[36mThe Mine Decline[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m84V [0;37m8165229X 92.43% 7647C [0;37mT:30 Exits:WUD> 
+Lena flies up.
+You follow Lena up.
+Adanac flies in from below.
+Maui flies in from below.
+[36mInside a Dwarven Mine[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m82V [0;37m8165229X 92.43% 7647C [0;37mT:30 Exits:ESD> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mThe Entrance to the Mines[0;37m
+[33m[1mA small oil lamp hangs from a small post here...it glows dimly
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m80V [0;37m8165229X 92.43% 7647C [0;37mT:29 Exits:NEW> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mThe Kharolis Mine[0;37m
+[33m[1mA small oil lamp hangs from a small post here...it glows dimly
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m79V [0;37m8165229X 92.43% 7647C [0;37mT:28 Exits:NESW> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mThe Kharolis Mine[0;37m
+[33m[1mA small oil lamp hangs from a small post here...it glows dimly
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m77V [0;37m8165229X 92.43% 7647C [0;37mT:26 Exits:NW> 
+[36mLena tells your group 'ok we enter kharolis mine'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m77V [0;37m8165229X 92.43% 7647C [0;37mT:21 Exits:NW> 
+[36mLena tells your group 'here'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m77V [0;37m8165229X 92.43% 7647C [0;37mT:19 Exits:NW> [0;37mnod[0m
+You nod solemnly.
+
+[32m[0;37m[32m399H [0;37m[33m[1m77V [0;37m8165229X 92.43% 7647C [0;37mT:18 Exits:NW> 
+[36mLena tells your group 'start of grap is up here'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m77V [0;37m8165229X 92.43% 7647C [0;37mT:10 Exits:NW> 
+[36mLena tells your group 'to get the dynamite'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m77V [0;37m8165229X 92.43% 7647C [0;37mT:4 Exits:NW> 
+[36mLena tells your group 'you go all w'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m114V [0;37m8165229X 92.43% 7647C [0;37mT:59 Exits:NW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mThe Kharolis Mine[0;37m
+[33m[1mA small oil lamp hangs from a small post here...it glows dimly
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m112V [0;37m8165229X 92.43% 7647C [0;37mT:58 Exits:NESW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mThe Entrance to the Mines[0;37m
+[33m[1mA small oil lamp hangs from a small post here...it glows dimly
+[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m111V [0;37m8165229X 92.43% 7647C [0;37mT:58 Exits:NEW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mInside a Dwarven Mine[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m109V [0;37m8165229X 92.43% 7647C [0;37mT:57 Exits:ESD> 
+[36mLena tells your group 'dd'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m109V [0;37m8165229X 92.43% 7647C [0;37mT:56 Exits:ESD> 
+Lena flies down.
+You follow Lena down.
+Adanac flies in from above.
+Maui flies in from above.
+[36mThe Mine Decline[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m107V [0;37m8165229X 92.43% 7647C [0;37mT:55 Exits:WUD> 
+Lena flies down.
+You follow Lena down.
+Adanac flies in from above.
+Maui flies in from above.
+[36mIn the Dwarven Mine[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A huge dwarf is here, inspecting all that pass by. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m105V [0;37m8165229X 92.43% 7647C [0;37mT:55 Exits:NSU> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mIn an Abandoned Section of Tunnel[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m103V [0;37m8165229X 92.43% 7647C [0;37mT:53 Exits:NS> 
+[36mLena tells your group 'get axe'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m103V [0;37m8165229X 92.43% 7647C [0;37mT:49 Exits:NS> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mIn an Abandoned Section of Tunnel[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m101V [0;37m8165229X 92.43% 7647C [0;37mT:48 Exits:N> 
+[36mLena tells your group 'clear rubble'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m101V [0;37m8165229X 92.43% 7647C [0;37mT:44 Exits:N> 
+Lena begins to dig at the rubble, striking blow after blow at the rubble,
+each stroke pulling rocks and dirt back: clearing the rubble. Soon after
+you hear a loud crack, and the shattered pieces of Lena's pickaxe
+disappears into the rubble.
+
+[32m[0;37m[32m399H [0;37m[33m[1m101V [0;37m8165229X 92.43% 7647C [0;37mT:42 Exits:NW> 
+[36mLena tells your group 'easy keywords'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m101V [0;37m8165229X 92.43% 7647C [0;37mT:37 Exits:NW> [0;37magree[0m
+You nod your head in agreement.
+
+[32m[0;37m[32m399H [0;37m[33m[1m101V [0;37m8165229X 92.43% 7647C [0;37mT:34 Exits:NW> 
+[36mLena tells your group 'follow path'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m101V [0;37m8165229X 92.43% 7647C [0;37mT:30 Exits:NW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mA Moist Abandonned Tunnel[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m99V [0;37m8165229X 92.43% 7647C [0;37mT:27 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mA Moist Abandonned Tunnel[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m97V [0;37m8165229X 92.43% 7647C [0;37mT:26 Exits:EW> [0;37min[0m
+You are carrying:
+a mahogany wand..it glows dimly
+a shimmering scroll..it glows dimly
+a pinch of powdered azurite
+a tablet engraved with emeralds
+a juicy piece of steak
+a pair of steel-rimmed spectacles
+a ring of fire..it glows red
+a mask of writhing vines (int/wis1 druid)
+a piece of sweet bread [8]
+a scribed scroll of create water
+a foremans belt with a large buckle (str health5 *19)
+a scribed scroll of silence
+a scribed scroll of detect evil
+a glowing scroll of recall..it glows dimly [2]
+a portable keg
+a small wooden chest
+
+[32m[0;37m[32m399H [0;37m[33m[1m97V [0;37m8165229X 92.43% 7647C [0;37mT:25 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mIn a Moist Abandoned Tunnel[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m95V [0;37m8165229X 92.43% 7647C [0;37mT:25 Exits:ED> 
+Lena flies down.
+You follow Lena down.
+Adanac flies in from above.
+Maui flies in from above.
+[36mIn a Moist Abandoned Tunnel[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m93V [0;37m8165229X 92.43% 7647C [0;37mT:24 Exits:NU> 
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Maui flies in from the south.
+[36mAt the Edge of a Small Cliff[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m91V [0;37m8165229X 92.43% 7647C [0;37mT:24 Exits:SW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mIn a Dark Fog[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m89V [0;37m8165229X 92.43% 7647C [0;37mT:23 Exits:NESWUD> 
+[36mLena tells your group 'to here'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m89V [0;37m8165229X 92.43% 7647C [0;37mT:21 Exits:NESWUD> 
+Aspasia disappears into the fog below.
+
+[32m[0;37m[32m399H [0;37m[33m[1m89V [0;37m8165229X 92.43% 7647C [0;37mT:20 Exits:NESWUD> [0;37mgig[0m
+You giggle.
+
+[32m[0;37m[32m399H [0;37m[33m[1m89V [0;37m8165229X 92.43% 7647C [0;37mT:17 Exits:NESWUD> 
+[36mLena tells your group 'd for stabbers'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m89V [0;37m8165229X 92.43% 7647C [0;37mT:16 Exits:NESWUD> 
+[36mLena tells your group 'tank d'
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m89V [0;37m8165229X 92.43% 7647C [0;37mT:14 Exits:NESWUD> [0;37mb d[0m
+
+Maui flies down.
+
+[32m[0;37m[32m399H [0;37m[33m[1m89V [0;37m8165229X 92.43% 7647C [0;37mT:12 Exits:NESWUD> 
+Lena flies down.
+You follow Lena down.
+Adanac flies in from above.
+[36mOn a Dark Lake[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here, fighting a Kuo-toa scout. (flying) (white aura)
+You sense a life form.
+A Kuo-toa scout is standing here, fighting Maui.
+A Kuo-toa scout is standing here, fighting Maui.
+A Kuo-toa scout is standing here, fighting Maui.
+A Kuo-toa scout is standing here, fighting Maui.
+[0;37mA Kuo-toa scout attempts to unbalance Maui, but he quickly avoids it.
+A Kuo-toa scout attempts to unbalance Maui, but he quickly avoids it.
+A Kuo-toa scout attempts to unbalance Maui, but he quickly avoids it.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8165229X 92.43% 7647C [0;37mT:11 Exits:NESWU> [0;37mfight[0m
+
+Adanac gives a Kuo-toa scout a solid punch in the face.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8165229X 92.43% 7647C [0;37mT:9 Exits:NESWU> 
+Maui gives a Kuo-toa scout a solid punch in the face.
+Adanac stumbles and falls while trying to bash a Kuo-toa scout.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8165229X 92.43% 7647C [0;37mT:9 Exits:NESWU> 
+Adanac cleaves a Kuo-toa scout very hard.
+A Kuo-toa scout misses Maui with its pierce.
+A Kuo-toa scout pierces Maui extremely hard.
+A Kuo-toa scout misses Maui with its pierce.
+A Kuo-toa scout pierces Maui hard.
+Maui stabs a Kuo-toa scout hard.
+Maui crashes into a Kuo-toa scout in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8165229X 92.43% 7647C [0;37mT:8 Exits:NESWU> [0m[1;32;49m** IN THE FACE!!! **[0m
+
+You crush a Kuo-toa scout extremely hard.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8164853X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[31mAwful[0;37m] [0;37mT:8 Exits:NESWU> 
+Lena gives Aspasia an order.
+Aspasia tries to throat punch a Kuo-toa scout, but misses horribly.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8164853X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[31mAwful[0;37m] [0;37mT:7 Exits:NESWU> 
+With blinding speed, Aspasia manages to unbalance a Kuo-toa scout.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8164853X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[31mAwful[0;37m] [0;37mT:6 Exits:NESWU> 
+Lena slowly fades into existence.
+Lena crushes a Kuo-toa scout hard.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8164853X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[31mAwful[0;37m] [0;37mT:5 Exits:NESWU> 
+Lena crushes a Kuo-toa scout extremely hard.
+You receive 45947 experience.
+A Kuo-toa scout is dead! R.I.P.
+A Kuo-toa scout MASSACREs Maui with its pierce.
+A Kuo-toa scout misses Maui with its pierce.
+A Kuo-toa scout pierces Maui extremely hard.
+The death cry of a Kuo-toa scout echoes from somewhere nearby...
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8118906X 92.43% 7647C [0;37mT:4 Exits:NESWU> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+With blinding speed, a Kuo-toa scout manages to unbalance Maui.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8118906X 92.43% 7647C [0;37mT:4 Exits:NESWU> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8118906X 92.43% 7647C [0;37mT:3 Exits:NESWU> [0;37mfight[0m
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8118906X 92.43% 7647C [0;37mT:3 Exits:NESWU> 
+A Kuo-toa scout attempts to unbalance Maui, but he quickly avoids it.
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8118906X 92.43% 7647C [0;37mT:3 Exits:NESWU> 
+corpse (here) : 
+a transparent bone spear (2d6 dr2 sneak7 magic w14 *18)
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8118906X 92.43% 7647C [0;37mT:2 Exits:NESWU> 
+You crush a Kuo-toa scout very hard.
+
+[32m[0;37m[32m399H [0;37m[33m[1m87V [0;37m8118629X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[32mV.Good[0;37m] [0;37mT:2 Exits:NESWU> 
+You crush a Kuo-toa scout hard.
+[38;5;127mYou feel especially skillful today.[0m
+A Kuo-toa scout misses Maui with its pierce.
+A Kuo-toa scout misses Maui with its pierce.
+A Kuo-toa scout pierces Maui extremely hard.
+-#-#-#-#-#-#-#-> Adanac <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118372X 92.43% 7647C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa scout:[0;37m[32mV.Good[0;37m] [0;37mT:60 Exits:NESWU> 
+Maui begins to assault a Kuo-toa scout!
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118372X 92.43% 7647C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa scout:[0;37m[32mV.Good[0;37m] [0;37mT:60 Exits:NESWU> 
+Adanac cleaves a Kuo-toa scout hard.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118372X 92.43% 7647C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa scout:[0;37m[32mGood[0;37m] [0;37mT:59 Exits:NESWU> 
+Lena slowly fades into existence.
+Lena crushes a Kuo-toa scout.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118372X 92.43% 7647C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa scout:[0;37m[32mGood[0;37m] [0;37mT:59 Exits:NESWU> 
+A Kuo-toa scout's rapid, unexpected knuckle thrust to Maui's throat does some damage.
+The squish of Maui's larynx was oddly loud.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118372X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[32mGood[0;37m] [0;37mT:58 Exits:NESWU> 
+A Kuo-toa scout's rapid, unexpected knuckle thrust to Maui's throat does some damage.
+The squish of Maui's larynx was oddly loud.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118372X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[32mGood[0;37m] [0;37mT:58 Exits:NESWU> 
+A Kuo-toa scout's rapid, unexpected knuckle thrust to Maui's throat does some damage.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118372X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[32mGood[0;37m] [0;37mT:57 Exits:NESWU> 
+Lena crushes a Kuo-toa scout hard.
+Adanac cleaves a Kuo-toa scout very hard.
+You crush a Kuo-toa scout very hard.
+Maui stabs a Kuo-toa scout.
+Maui stabs a Kuo-toa scout hard.
+Maui stabs a Kuo-toa scout hard.
+Maui barely stabs a Kuo-toa scout.
+A Kuo-toa scout pierces Maui very hard.
+A Kuo-toa scout misses Maui with its pierce.
+A Kuo-toa scout misses Maui with its pierce.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118075X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:56 Exits:NESWU> 
+Maui gives a Kuo-toa scout a solid punch in the face.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118075X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:56 Exits:NESWU> 
+Maui crashes into a Kuo-toa scout in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118075X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[31mAwful[0;37m] [0;37mT:55 Exits:NESWU> [0m[1;32;49m** IN THE FACE!!! **[0m
+
+Lena gets a transparent bone spear (2d6 dr2 sneak7 magic w14 *18) from the corpse of a Kuo-toa scout.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118075X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[31mAwful[0;37m] [0;37mT:54 Exits:NESWU> 
+Lena gives a transparent bone spear (2d6 dr2 sneak7 magic w14 *18) to Aspasia.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8118075X 92.43% 7647C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa scout:[0;37m[31mAwful[0;37m] [0;37mT:54 Exits:NESWU> 
+Lena crushes a Kuo-toa scout.
+A Kuo-toa scout is incapacitated and will slowly die, if not aided.
+Adanac **ANNIHILATE**s a Kuo-toa scout with his cleave.
+You receive 38428 experience.
+A Kuo-toa scout is dead! R.I.P.
+A Kuo-toa scout MASSACREs Maui with its pierce.
+A Kuo-toa scout misses Maui with its pierce.
+A Kuo-toa scout misses Maui with its pierce.
+The death cry of a Kuo-toa scout echoes from somewhere nearby...
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079647X 92.43% 7647C [0;37mT:52 Exits:NESWU> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079647X 92.43% 7647C [0;37mT:52 Exits:NESWU> 
+A Kuo-toa scout attempts to unbalance Maui, but he quickly avoids it.
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079647X 92.43% 7647C [0;37mT:52 Exits:NESWU> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079647X 92.43% 7647C [0;37mT:52 Exits:NESWU> 
+corpse (here) : 
+a transparent bone spear (2d6 dr2 sneak7 magic w14 *18)
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079647X 92.43% 7647C [0;37mT:52 Exits:NESWU> [0;37mfight[0m
+You crush a Kuo-toa scout very hard.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079311X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[32mV.Good[0;37m] [0;37mT:50 Exits:NESWU> 
+Lena gives Aspasia an order.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079311X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[32mV.Good[0;37m] [0;37mT:49 Exits:NESWU> 
+You crush a Kuo-toa scout hard.
+[38;5;127mYou feel especially skillful today.[0m
+Maui stabs a Kuo-toa scout.
+A Kuo-toa scout misses Maui with its pierce.
+A Kuo-toa scout misses Maui with its pierce.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079074X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mGood[0;37m] [0;37mT:48 Exits:NESWU> 
+Lena gives Aspasia an order.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079074X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mGood[0;37m] [0;37mT:48 Exits:NESWU> 
+Lena gives Aspasia an order.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079074X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mGood[0;37m] [0;37mT:48 Exits:NESWU> 
+Lena gives Aspasia an order.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079074X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mGood[0;37m] [0;37mT:47 Exits:NESWU> 
+Lena gives Aspasia an order.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079074X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mGood[0;37m] [0;37mT:47 Exits:NESWU> 
+Maui crashes into a Kuo-toa scout in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079074X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mFair[0;37m] [0;37mT:46 Exits:NESWU> [0m[1;32;49m** IN THE FACE!!! **[0m
+
+With blinding speed, a Kuo-toa scout manages to unbalance Maui.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079074X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mFair[0;37m] [0;37mT:46 Exits:NESWU> 
+Lena gives Aspasia an order.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8079074X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mFair[0;37m] [0;37mT:45 Exits:NESWU> 
+You MASSACRE a Kuo-toa scout with your crush.
+Maui stabs a Kuo-toa scout.
+A Kuo-toa scout misses Maui with its pierce.
+A Kuo-toa scout misses Maui with its pierce.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8078520X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:44 Exits:NESWU> 
+Adanac MASSACREs a Kuo-toa scout with his cleave.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8078520X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:44 Exits:NESWU> 
+Lena slowly fades into existence.
+Lena crushes a Kuo-toa scout hard.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8078520X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[31mAwful[0;37m] [0;37mT:43 Exits:NESWU> 
+Lena crushes a Kuo-toa scout very hard.
+Adanac MASSACREs a Kuo-toa scout with his cleave.
+A Kuo-toa scout is incapacitated and will slowly die, if not aided.
+You **ANNIHILATE** a Kuo-toa scout with your crush.
+You receive 38517 experience.
+A Kuo-toa scout is dead! R.I.P.
+A Kuo-toa scout misses Maui with its pierce.
+The death cry of a Kuo-toa scout echoes from somewhere nearby...
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8040003X 92.43% 7647C [0;37mT:40 Exits:NESWU> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8040003X 92.43% 7647C [0;37mT:40 Exits:NESWU> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8040003X 92.43% 7647C [0;37mT:40 Exits:NESWU> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8040003X 92.43% 7647C [0;37mT:40 Exits:NESWU> 
+corpse (here) : 
+a transparent bone spear (2d6 dr2 sneak7 magic w14 *18)
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8040003X 92.43% 7647C [0;37mT:40 Exits:NESWU> [0;37mfight[0m
+
+Maui gives a Kuo-toa scout a solid punch in the face.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8040003X 92.43% 7647C [0;37mT:38 Exits:NESWU> 
+You crush a Kuo-toa scout very hard.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8039687X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mGood[0;37m] [0;37mT:38 Exits:NESWU> [0;37ml[0m
+
+Maui crashes into a Kuo-toa scout in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8039687X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mFair[0;37m] [0;37mT:37 Exits:NESWU> [0m[1;32;49m** IN THE FACE!!! **[0m
+
+[36mLena tells your group 'spin in here now'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8039687X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mFair[0;37m] [0;37mT:37 Exits:NESWU> 
+You **ANNIHILATE** a Kuo-toa scout with your crush.
+Maui stabs a Kuo-toa scout hard.
+A Kuo-toa scout misses Maui with its pierce.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8039054X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:36 Exits:NESWU> 
+Lena slowly fades into existence.
+Lena crushes a Kuo-toa scout hard.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8039054X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:36 Exits:NESWU> 
+[36mOn a Dark Lake[0;37m
+[33m[1mThe corpse of a Kuo-toa scout is lying here. [3]
+[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here, fighting a Kuo-toa scout. (flying) (white aura)
+. . . has a metallic luster.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here, fighting a Kuo-toa scout. (flying) (white aura)
+You sense a life form.
+A Kuo-toa scout is sitting here, fighting Maui.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8039054X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:33 Exits:NESWU> [0;37mnod[0m
+You nod solemnly.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8039054X 92.43% 7647C [Maui:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:33 Exits:NESWU> 
+Lena crushes a Kuo-toa scout hard.
+You MASSACRE a Kuo-toa scout with your crush.
+Maui stabs a Kuo-toa scout very hard.
+A Kuo-toa scout is stunned, but will likely regain consciousness again.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8038619X 92.43% 7647C [a Kuo-toa scout:[0;37m[31mAwful[0;37m] [0;37mT:32 Exits:NESWU> 
+Adanac MASSACREs a Kuo-toa scout with his cleave.
+You receive 38467 experience.
+A Kuo-toa scout is dead! R.I.P.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [a Kuo-toa scout:[0;37m[31mDying[0;37m] [0;37mT:31 Exits:NESWU> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+The death cry of a Kuo-toa scout echoes from somewhere nearby...
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:31 Exits:NESWU> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:31 Exits:NESWU> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:31 Exits:NESWU> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:30 Exits:NESWU> 
+corpse (here) : 
+a transparent bone spear (2d6 dr2 sneak7 magic w14 *18)
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:30 Exits:NESWU> 
+[36mLena tells your group 'move mostly w for quest'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:25 Exits:NESWU> 
+A vicious piranha arrives from the north.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:24 Exits:NESWU> [0;37ml[0m
+[36mOn a Dark Lake[0;37m
+[33m[1m[0;37m[31m[1mA vicious piranha swims through the waters looking for blood.
+. . . has an ethereal shimmer
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+You see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+You sense a life form.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:22 Exits:NESWU> [0;37mgt ooh[0m
+You tell your group 'ooh'
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:20 Exits:NESWU> 
+A vicious piranha leaves north.
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:18 Exits:NESWU> 
+[36mLena tells your group 'move mostly south for theiwars'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:16 Exits:NESWU> [0;37mct ocean scouts need piranha?[0m
+You tell your clan 'ocean scouts need piranha?'
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:12 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Baldr: 'ocean scouts need piranha?'[0m
+[0;37mct its up[0m
+You tell your clan 'its up'
+
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:10 Exits:NESWU> [0m[1;34;49mCLAN MESSAGE FROM Baldr: 'its up'[0m
+
+[36mLena tells your group 'i think so'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m8000152X 92.43% 7647C [0;37mT:8 Exits:NESWU> [0m[1;35;49m *******>>> ASSAULT READY <<<*******[0m
+
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mOn a Dark Lake[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m8000152X 92.43% 7647C [0;37mT:60 Exits:NESW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mOn a Dark Lake[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m127V [0;37m8000152X 92.43% 7647C [0;37mT:59 Exits:NESW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mA Slippery Bank[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m125V [0;37m8000152X 92.43% 7647C [0;37mT:59 Exits:NESU> 
+[36mLena tells your group 'here'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m125V [0;37m8000152X 92.43% 7647C [0;37mT:56 Exits:NESU> [0;37mnod[0m
+You nod solemnly.
+
+[32m[0;37m[32m399H [0;37m[32m125V [0;37m8000152X 92.43% 7647C [0;37mT:54 Exits:NESU> 
+[36mLena tells your group 'slippery bank'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m125V [0;37m8000152X 92.43% 7647C [0;37mT:53 Exits:NESU> 
+[36mLena tells your group 'u all south kill shaman'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m125V [0;37m8000152X 92.43% 7647C [0;37mT:44 Exits:NESU> 
+Lena flies up.
+You follow Lena up.
+Adanac flies in from below.
+Maui flies in from below.
+[36mVillage of the Kuo-toa[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m123V [0;37m8000152X 92.43% 7647C [0;37mT:43 Exits:NSWD> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mA Path Away from the Village[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m121V [0;37m8000152X 92.43% 7647C [0;37mT:42 Exits:NS> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mOverlooking the Lake[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A fish-like man is here, cloaked in a simple robe and uttering archaic words. (black aura)
+[0;37mA Kuo-toa shaman focuses harshly on you and utters some strange words.
+Your strength is drawn away by a Kuo-toa shaman.
+Baldr seems to grow weaker as a Kuo-toa shaman grows stronger.
+A colossal blackened maul is suddenly too heavy for you to wield.
+A Kuo-toa shaman claws YOU extremely hard.
+
+[32m[0;37m[32m379H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Baldr:[0;37m[32mV.Good[0;37m] [a Kuo-toa shaman:[0;37m[32mPerfect[0;37m] [0;37mT:41 Exits:N> 
+A Kuo-toa shaman claws YOU extremely hard.
+A Kuo-toa shaman claws YOU very hard.
+You miss a Kuo-toa shaman with your hit.
+
+[32m[0;37m[32m343H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa shaman:[0;37m[32mPerfect[0;37m] [0;37mT:40 Exits:N> [0;37mfight[0m
+
+Maui stabs a Kuo-toa shaman.
+
+[32m[0;37m[32m343H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa shaman:[0;37m[32mV.Good[0;37m] [0;37mT:40 Exits:N> 
+Adanac gives a Kuo-toa shaman a solid punch in the face.
+
+[32m[0;37m[32m343H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa shaman:[0;37m[32mGood[0;37m] [0;37mT:39 Exits:N> 
+Adanac crashes into a Kuo-toa shaman in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[32m343H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa shaman:[0;37m[33m[1mFair[0;37m] [0;37mT:39 Exits:N> [0;37mrb[0m
+You can't do that while fighting.
+
+[32m[0;37m[32m343H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa shaman:[0;37m[33m[1mFair[0;37m] [0;37mT:39 Exits:N> 
+Lena slowly fades into existence.
+Lena crushes a Kuo-toa shaman.
+
+[32m[0;37m[32m343H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa shaman:[0;37m[33m[1mFair[0;37m] [0;37mT:38 Exits:N> 
+Lena crushes a Kuo-toa shaman extremely hard.
+Adanac cleaves a Kuo-toa shaman extremely hard.
+Maui stabs a Kuo-toa shaman.
+A Kuo-toa shaman claws YOU very hard.
+You miss a Kuo-toa shaman with your hit.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa shaman:[0;37m[33m[1mFair[0;37m] [0;37mT:36 Exits:N> [0;37mrb[0m
+
+Maui comes to your rescue! You're thankful, but a bit dazed.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [0;37mT:35 Exits:N> [0;37mass[0m
+You attempt to assist Lena.
+You miss a Kuo-toa shaman with your hit.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa shaman:[0;37m[33m[1mFair[0;37m] [0;37mT:33 Exits:N> 
+You miss a Kuo-toa shaman with your hit.
+A Kuo-toa shaman misses Maui with its claw.
+Maui stabs a Kuo-toa shaman very hard.
+Lena crushes a Kuo-toa shaman extremely hard.
+Adanac MASSACREs a Kuo-toa shaman with his cleave.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m8000152X 92.43% 7647C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa shaman:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:32 Exits:N> 
+You bruise a Kuo-toa shaman with your hit.
+Maui deflects part of a Kuo-toa shaman's blow with his shield.
+Maui gracefully steps aside as a Kuo-toa shaman attacks!
+Maui stabs a Kuo-toa shaman hard.
+Lena crushes a Kuo-toa shaman very hard.
+Adanac cleaves a Kuo-toa shaman extremely hard.
+Adanac's mighty cleave almost cuts a Kuo-toa shaman in two.
+Adanac cleaves a Kuo-toa shaman extremely hard.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m8000073X 92.43% 7647C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa shaman:[0;37m[31mAwful[0;37m] [0;37mT:28 Exits:N> 
+-#-#-#-#-#-#-#-> A Kuo-toa shaman <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m8000073X 92.43% 7647C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa shaman:[0;37m[31mAwful[0;37m] [0;37mT:28 Exits:N> 
+Adanac crashes into a Kuo-toa shaman in a devastating bash, killing it mercilessly.
+You receive 85275 experience.
+A Kuo-toa shaman is dead! R.I.P.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7647C [a Kuo-toa shaman:[0;37m[31mDying[0;37m] [0;37mT:27 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+The death cry of a Kuo-toa shaman echoes from somewhere nearby...
+Lena gets a small pile of coins from the corpse of a Kuo-toa shaman.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7647C [0;37mT:27 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7647C [0;37mT:27 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7647C [0;37mT:27 Exits:N> 
+You can't find whatever you're trying to put into a small wooden chest.
+Lena divides 8 coins equally among the group members present.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7649C [0;37mT:27 Exits:N> 
+corpse (here) : 
+a flowing translucent gown (A3 SHAMAN ABOUT) of rot
+a transparent fishscale bracelet (invisible)
+a glowing spider's web
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7649C [0;37mT:26 Exits:N> [0;37mfight[0m
+But they're not fighting anyone!
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7649C [0;37mT:25 Exits:N> [0;37ml[0m
+[36mOverlooking the Lake[0;37m
+[33m[1mThe corpse of a Kuo-toa shaman is lying here.
+[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+You see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+[0;37m
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7649C [0;37mT:24 Exits:N> 
+Lena gets a flowing translucent gown (A3 SHAMAN ABOUT) of rot from the corpse of a Kuo-toa shaman.
+Lena gets a transparent fishscale bracelet from the corpse of a Kuo-toa shaman.
+Lena gets a glowing spider's web from the corpse of a Kuo-toa shaman.
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7649C [0;37mT:23 Exits:N> 
+[36mLena tells your clan 'loaded shaman relearn'
+[0;37m
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7649C [0;37mT:10 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'loaded shaman relearn'[0m
+
+[36mLena tells your group 'wis bracelet'
+[0;37m
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7649C [0;37mT:5 Exits:N> [0;37mgt oh cool[0m
+You tell your group 'oh cool'
+
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7649C [0;37mT:4 Exits:N> 
+[36mLena tells your group 'you need?'
+[0;37m
+[32m[0;37m[32m326H [0;37m[32m119V [0;37m7914798X 93.14% 7649C [0;37mT:2 Exits:N> 
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Maui flies in from the south.
+[36mA Path Away from the Village[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m355H [0;37m[32m129V [0;37m7914798X 93.14% 7649C [0;37mT:60 Exits:NS> 
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Maui flies in from the south.
+[36mVillage of the Kuo-toa[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A Kuo-toa warrior walks briskly here. (black aura)
+[0m[1;31;49m** YOU WERE BASHED!!! **[0m
+[0;37mYou are sent sprawling as a Kuo-toa warrior crashes into you.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7914798X 93.14% 7649C [Baldr:[0;37m[33m[1mGood[0;37m] [a Kuo-toa warrior:[0;37m[32mPerfect[0;37m] [0;37mT:59 Exits:NSWD> 
+There are no queued commands.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7914798X 93.14% 7649C [Baldr:[0;37m[33m[1mGood[0;37m] [a Kuo-toa warrior:[0;37m[32mPerfect[0;37m] [0;37mT:59 Exits:NSWD> [0;37meq[0m
+[0;37mrb[0m
+
+Maui comes to your rescue! You're thankful, but a bit dazed.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7914798X 93.14% 7649C [0;37mT:58 Exits:NSWD> 
+A Kuo-toa warrior misses Maui with its claw.
+Maui stabs a Kuo-toa warrior.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7914798X 93.14% 7649C [0;37mT:56 Exits:NSWD> 
+Adanac gives a Kuo-toa warrior a solid punch in the face.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7914798X 93.14% 7649C [0;37mT:56 Exits:NSWD> 
+Adanac crashes into a Kuo-toa warrior in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7914798X 93.14% 7649C [0;37mT:56 Exits:NSWD> [0;37msta[0m
+[0;37meq[0m
+
+Lena slowly fades into existence.
+Lena MASSACREs a Kuo-toa warrior with her crush.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7914798X 93.14% 7649C [0;37mT:54 Exits:NSWD> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+Lena crushes a Kuo-toa warrior hard.
+Adanac MASSACREs a Kuo-toa warrior with his cleave.
+You receive 29727 experience.
+A Kuo-toa warrior is dead! R.I.P.
+The death cry of a Kuo-toa warrior echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7649C [0;37mT:52 Exits:NSWD> 
+You stand up.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7649C [0;37mT:51 Exits:NSWD> 
+You are using:
+<worn around neck>         a spiderweb necklace (B2 CASTER NECK)
+<worn on body>             a hooded red chasuble (cleric 1@6 antiE 18*)
+<worn on head>             a pair of steel-rimmed spectacles
+<worn on legs>             brass dragonscale leggings (ac-10 str1 imm_heat *set*)
+<worn on feet>             a pair of dwarven boots
+<worn on hands>            a pair of dwarven mason's gloves
+<worn on arms>             spun silver sleeves (dex1 ac-9 antiE)
+<worn about body>          an ancient tattered cloak
+<worn about waist>         an iron dwarven girdle
+<worn as pouch>            a pouch of goose feathers
+<worn around left wrist>   a time-lost mist enshrouded watch (D4+ CASTER WRIST)
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7649C [0;37mT:51 Exits:NSWD> 
+You are already standing.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7649C [0;37mT:51 Exits:NSWD> 
+You are using:
+<worn around neck>         a spiderweb necklace (B2 CASTER NECK)
+<worn on body>             a hooded red chasuble (cleric 1@6 antiE 18*)
+<worn on head>             a pair of steel-rimmed spectacles
+<worn on legs>             brass dragonscale leggings (ac-10 str1 imm_heat *set*)
+<worn on feet>             a pair of dwarven boots
+<worn on hands>            a pair of dwarven mason's gloves
+<worn on arms>             spun silver sleeves (dex1 ac-9 antiE)
+<worn about body>          an ancient tattered cloak
+<worn about waist>         an iron dwarven girdle
+<worn as pouch>            a pouch of goose feathers
+<worn around left wrist>   a time-lost mist enshrouded watch (D4+ CASTER WRIST)
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7649C [0;37mT:51 Exits:NSWD> 
+You get a pile of coins from the corpse of a Kuo-toa warrior.
+There were 76 coins.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7725C [0;37mT:50 Exits:NSWD> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7725C [0;37mT:50 Exits:NSWD> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7725C [0;37mT:50 Exits:NSWD> 
+corpse (here) : 
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7725C [0;37mT:50 Exits:NSWD> 
+You divide 76 coins equally among the group members present.
+
+[32m[0;37m[33m[1m320H [0;37m[32m127V [0;37m7885071X 93.14% 7668C [0;37mT:49 Exits:NSWD> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mVillage of the Kuo-toa[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m125V [0;37m7885071X 93.14% 7668C [0;37mT:49 Exits:NE> 
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Maui flies in from the south.
+[36mA Path in the Kuo-toa Village[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A large fish-like creature stands guard here. (black aura)
+A large fish-like creature stands guard here. (black aura)
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7885071X 93.14% 7668C [0;37mT:47 Exits:NS(W)> [0;37meq[0m
+You are using:
+<worn around neck>         a spiderweb necklace (B2 CASTER NECK)
+<worn on body>             a hooded red chasuble (cleric 1@6 antiE 18*)
+<worn on head>             a pair of steel-rimmed spectacles
+<worn on legs>             brass dragonscale leggings (ac-10 str1 imm_heat *set*)
+<worn on feet>             a pair of dwarven boots
+<worn on hands>            a pair of dwarven mason's gloves
+<worn on arms>             spun silver sleeves (dex1 ac-9 antiE)
+<worn about body>          an ancient tattered cloak
+<worn about waist>         an iron dwarven girdle
+<worn as pouch>            a pouch of goose feathers
+<worn around left wrist>   a time-lost mist enshrouded watch (D4+ CASTER WRIST)
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7885071X 93.14% 7668C [0;37mT:45 Exits:NS(W)> 
+Adanac crashes into a Kuo-toa sentry in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7885071X 93.14% 7668C [0;37mT:45 Exits:NS(W)> 
+Adanac's mighty cleave almost cuts a Kuo-toa sentry in two.
+Adanac cleaves a Kuo-toa sentry extremely hard.
+Adanac's mighty cleave almost cuts a Kuo-toa sentry in two.
+Adanac MASSACREs a Kuo-toa sentry with his cleave.
+A Kuo-toa sentry misses Adanac with its claw.
+Adanac deflects part of a Kuo-toa sentry's blow with his shield.
+Adanac gracefully steps aside as a Kuo-toa sentry attacks!
+A Kuo-toa sentry crashes into Adanac in a thundering collision, knocking him to the ground!
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7885071X 93.14% 7668C [0;37mT:44 Exits:NS(W)> 
+Lena slowly fades into existence.
+Lena crushes a Kuo-toa sentry very hard.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7885071X 93.14% 7668C [0;37mT:44 Exits:NS(W)> [0;37mwield maul[0m
+A colossal blackened maul is too heavy for you to wield in one hand.
+A colossal blackened maul is too heavy for you to wield in two hands.
+A colossal blackened maul is too heavy for you to wield in two hands.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7885071X 93.14% 7668C [0;37mT:42 Exits:NS(W)> 
+[37mYour clanmate Pitli has entered the game.
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7885071X 93.14% 7668C [0;37mT:41 Exits:NS(W)> 
+Lena crushes a Kuo-toa sentry.
+A Kuo-toa sentry claws Adanac hard.
+A Kuo-toa sentry claws Adanac very hard.
+Adanac MASSACREs a Kuo-toa sentry with his cleave.
+A Kuo-toa sentry misses Adanac with its claw.
+A Kuo-toa sentry misses Adanac with its claw.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7885071X 93.14% 7668C [0;37mT:40 Exits:NS(W)> 
+Lena crushes a Kuo-toa sentry extremely hard.
+A Kuo-toa sentry claws Adanac very hard.
+Adanac MASSACREs a Kuo-toa sentry with his cleave.
+You receive 39498 experience.
+A Kuo-toa sentry is dead! R.I.P.
+The death cry of a Kuo-toa sentry echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7668C [0;37mT:36 Exits:NS(W)> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+You get a pile of coins from the corpse of a Kuo-toa sentry.
+There were 12 coins.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7680C [0;37mT:36 Exits:NS(W)> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7680C [0;37mT:36 Exits:NS(W)> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7680C [0;37mT:36 Exits:NS(W)> 
+corpse (here) : 
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7680C [0;37mT:36 Exits:NS(W)> 
+You divide 12 coins equally among the group members present.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [0;37mT:35 Exits:NS(W)> 
+[36mLena tells your clan 'chip'
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [0;37mT:35 Exits:NS(W)> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'chip'[0m
+
+A Kuo-toa sentry gives Adanac a solid punch in the face.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [0;37mT:34 Exits:NS(W)> [0;37mgt sure i can take some wisdom[0m
+You tell your group 'sure i can take some wisdom'
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [0;37mT:33 Exits:NS(W)> 
+Adanac MASSACREs a Kuo-toa sentry with his cleave.
+A Kuo-toa sentry misses Adanac with its claw.
+-#-#-#-#-#-#-#-> Adanac <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [0;37mT:32 Exits:NS(W)> 
+Adanac gives a Kuo-toa sentry a solid punch in the face.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [0;37mT:32 Exits:NS(W)> 
+[36mPitli tells your clan 'hiya greg'
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [0;37mT:32 Exits:NS(W)> [0m[1;34;49mCLAN MESSAGE FROM Pitli: 'hiya greg'[0m
+[0;37mfight[0m
+
+Maui stabs a Kuo-toa sentry very hard.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [0;37mT:32 Exits:NS(W)> 
+You miss a Kuo-toa sentry with your hit.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [Adanac:[0;37m[32mGood[0;37m] [a Kuo-toa sentry:[0;37m[33m[1mFair[0;37m] [0;37mT:31 Exits:NS(W)> 
+[36mLena tells your clan 'your druid have word?'
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [Adanac:[0;37m[32mGood[0;37m] [a Kuo-toa sentry:[0;37m[33m[1mFair[0;37m] [0;37mT:31 Exits:NS(W)> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'your druid have word?'[0m
+
+You miss a Kuo-toa sentry with your hit.
+Maui stabs a Kuo-toa sentry hard.
+Adanac cleaves a Kuo-toa sentry extremely hard.
+A Kuo-toa sentry misses Adanac with its claw.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [Adanac:[0;37m[32mGood[0;37m] [a Kuo-toa sentry:[0;37m[33m[1mBad[0;37m] [0;37mT:28 Exits:NS(W)> 
+Maui gives a Kuo-toa sentry a solid punch in the face.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7845573X 93.14% 7671C [Adanac:[0;37m[32mGood[0;37m] [a Kuo-toa sentry:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:27 Exits:NS(W)> 
+Maui crashes into a Kuo-toa sentry in a devastating bash, killing it mercilessly.
+You receive 32905 experience.
+A Kuo-toa sentry is dead! R.I.P.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7671C [a Kuo-toa sentry:[0;37m[31mDying[0;37m] [0;37mT:27 Exits:NS(W)> [0m[1;32;49m** DEATH BY BASH!!! **[0m
+[0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+The death cry of a Kuo-toa sentry echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7671C [0;37mT:27 Exits:NS(W)> 
+You get a pile of coins from the corpse of a Kuo-toa sentry.
+There were 10 coins.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7681C [0;37mT:26 Exits:NS(W)> 
+Lena gives you a transparent fishscale bracelet.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7681C [0;37mT:26 Exits:NS(W)> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7681C [0;37mT:26 Exits:NS(W)> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7681C [0;37mT:26 Exits:NS(W)> 
+corpse (here) : 
+a serrated green crystal
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7681C [0;37mT:25 Exits:NS(W)> 
+Lena gets a serrated green crystal from the corpse of a Kuo-toa sentry.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7681C [0;37mT:25 Exits:NS(W)> [0m[1;34;49mCLAN MESSAGE FROM Pitli: 'think so'[0m
+
+[36mPitli tells your clan 'think so'
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7681C [0;37mT:25 Exits:NS(W)> 
+You can't split 10 evenly among the people in the room; splitting 8 instead.
+You divide 8 coins equally among the group members present.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7675C [0;37mT:25 Exits:NS(W)> 
+[36mPitli tells your clan 'let me check'
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7675C [0;37mT:23 Exits:NS(W)> [0m[1;34;49mCLAN MESSAGE FROM Pitli: 'let me check'[0m
+[0;37ml[0m
+
+[36mLena tells your clan 'ok'
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7675C [0;37mT:23 Exits:NS(W)> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'ok'[0m
+
+[36mA Path in the Kuo-toa Village[0;37m
+[33m[1mThe corpse of a Kuo-toa sentry is lying here. [2]
+[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7675C [0;37mT:23 Exits:NS(W)> 
+[36mLena tells your clan 'how about gloves?'
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7675C [0;37mT:20 Exits:NS(W)> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'how about gloves?'[0m
+
+[36mLena tells your clan 'i got imm poi druid only'
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7675C [0;37mT:16 Exits:NS(W)> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'i got imm poi druid only'[0m
+
+[36mLena tells your clan '1 wis'
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7675C [0;37mT:12 Exits:NS(W)> [0m[1;34;49mCLAN MESSAGE FROM Lena: '1 wis'[0m
+
+Lena unlocks the door.
+The crystal turns to dust in Lena's hands.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7675C [0;37mT:9 Exits:NS(W)> 
+Lena opens the door.
+
+[32m[0;37m[33m[1m320H [0;37m[32m123V [0;37m7812668X 93.14% 7675C [0;37mT:7 Exits:NSW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Maui flies in from the east.
+[36mA Crude Holding Cell[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A dwarven miner is here, tied at all 4 appendages with braided plant stalks. (white aura)
+[0;37m
+[32m[0;37m[33m[1m320H [0;37m[32m121V [0;37m7812668X 93.14% 7675C [0;37mT:3 Exits:E> 
+Lena takes a long swig from a large waterskin.
+
+[32m[0;37m[32m349H [0;37m[32m131V [0;37m7812668X 93.14% 7675C [0;37mT:60 Exits:E> 
+[36mLena tells your group 'free miner here for small exp'
+[0;37m
+[32m[0;37m[32m349H [0;37m[32m131V [0;37m7812668X 93.14% 7675C [0;37mT:57 Exits:E> 
+Using her weapon, Lena releases the dwarven miner. With a sudden
+burst of strength and speed, he leaps outside and breaks the neck of the
+first Kuo-toa he sees. You later hear his death cry and you know some
+Kuo-toa are coming to investigate!.
+
+Although the dwarf died in the end, he died for the sake of good.
+Paladine appreciates what you have done and rewards you
+11864 experience points.
+[32m[0;37m[32m349H [0;37m[32m131V [0;37m7800804X 93.14% 7675C [0;37mT:55 Exits:E> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mA Path in the Kuo-toa Village[0;37m
+[33m[1mThe corpse of a Kuo-toa sentry is lying here. [2]
+[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A villager lies here, its neck broken by the escaped dwarf. (black aura)
+[0;37m
+[32m[0;37m[32m349H [0;37m[32m129V [0;37m7800804X 93.14% 7675C [0;37mT:54 Exits:NSW> 
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Maui flies in from the south.
+[36mBelow a Large Stone Hut[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m349H [0;37m[32m127V [0;37m7800804X 93.14% 7675C [0;37mT:53 Exits:NSU> 
+Lena flies up.
+You follow Lena up.
+Adanac flies in from below.
+Maui flies in from below.
+[36mThe Chieftain's Hut[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+The chieftain of the Kuo-toa is sitting on its throne. (black aura)
+[0;37m
+[32m[0;37m[32m349H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mT:52 Exits:D> 
+Adanac gives Xintoinaphxous a solid punch in the face.
+Xintoinaphxous's eyes cross and it stumbles back.
+
+[32m[0;37m[32m349H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mT:49 Exits:D> 
+Adanac crashes into Xintoinaphxous in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[32m349H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mT:49 Exits:D> 
+Adanac cleaves Xintoinaphxous extremely hard.
+Adanac deflects part of Xintoinaphxous's blow with his shield.
+Xintoinaphxous claws Adanac very hard.
+
+[32m[0;37m[32m349H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mT:48 Exits:D> [0;37mfight[0m
+
+Maui stabs Xintoinaphxous very hard.
+
+[32m[0;37m[32m349H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mT:47 Exits:D> 
+You miss Xintoinaphxous with your hit.
+
+[32m[0;37m[32m349H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mV.Good[0;37m] [Xintoinaphxous:[0;37m[32mGood[0;37m] [0;37mT:46 Exits:D> 
+You miss Xintoinaphxous with your hit.
+Maui stabs Xintoinaphxous hard.
+Adanac cleaves Xintoinaphxous very hard.
+Adanac cleaves Xintoinaphxous very hard.
+Xintoinaphxous misses Adanac with its claw.
+Xintoinaphxous misses Adanac with its claw.
+
+[32m[0;37m[32m349H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mV.Good[0;37m] [Xintoinaphxous:[0;37m[33m[1mFair[0;37m] [0;37mT:44 Exits:D> 
+Lena slowly fades into existence.
+Lena crushes Xintoinaphxous hard.
+
+[32m[0;37m[32m349H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mV.Good[0;37m] [Xintoinaphxous:[0;37m[33m[1mFair[0;37m] [0;37mT:43 Exits:D> 
+Maui gives Xintoinaphxous a solid punch in the face.
+
+[32m[0;37m[32m349H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mV.Good[0;37m] [Xintoinaphxous:[0;37m[33m[1mFair[0;37m] [0;37mT:42 Exits:D> 
+Xintoinaphxous throws a pile of colourful shells in the air.
+Xintoinaphxous's hands issue a spray of prismatic color!
+Maui is caught in a spray of radiant yellow!
+Adanac is blasted by a spray of scintillating blue!
+You are struck by a spray of vibrant green!
+Lena is struck by a spray of murky violet!
+Maui stumbles and falls while trying to bash Xintoinaphxous.
+
+[32m[0;37m[32m325H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mV.Good[0;37m] [Xintoinaphxous:[0;37m[33m[1mFair[0;37m] [0;37mT:42 Exits:D> [0m[1;31;49m** OUCHIES, MISSED THE BASH!!! **[0m
+
+Lena crushes Xintoinaphxous hard.
+You miss Xintoinaphxous with your hit.
+Maui stabs Xintoinaphxous very hard.
+Adanac MASSACREs Xintoinaphxous with his cleave.
+Adanac gracefully steps aside as Xintoinaphxous attacks!
+Xintoinaphxous misses Adanac with its claw.
+
+[32m[0;37m[32m325H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mV.Good[0;37m] [Xintoinaphxous:[0;37m[33m[1mFair[0;37m] [0;37mT:40 Exits:D> 
+[36mPitli tells your clan 'have word.. don't have gloves'
+[0;37m
+[32m[0;37m[32m325H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mV.Good[0;37m] [Xintoinaphxous:[0;37m[33m[1mFair[0;37m] [0;37mT:37 Exits:D> [0m[1;34;49mCLAN MESSAGE FROM Pitli: 'have word.. don't have gloves'[0m
+
+Lena crushes Xintoinaphxous hard.
+You miss Xintoinaphxous with your hit.
+Maui stabs Xintoinaphxous extremely hard.
+Maui stabs Xintoinaphxous.
+Adanac cleaves Xintoinaphxous very hard.
+Adanac deflects part of Xintoinaphxous's blow with his shield.
+Xintoinaphxous claws Adanac.
+
+[32m[0;37m[32m325H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mV.Good[0;37m] [Xintoinaphxous:[0;37m[33m[1mFair[0;37m] [0;37mT:36 Exits:D> 
+Xintoinaphxous throws a pile of colourful shells in the air.
+Xintoinaphxous's hands issue a spray of prismatic color!
+Maui is caught in a spray of bright orange!
+Adanac is hit by a spray of gleaming indigo!
+Adanac's face goes blank and he begins to drool.
+You are hit by a spray of gleaming indigo!
+You forgot something!
+You feel your mind slip away.
+Lena is caught in a spray of radiant yellow!
+
+[32m[0;37m[33m[1m296H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mGood[0;37m] [Xintoinaphxous:[0;37m[33m[1mFair[0;37m] [0;37mMem:19 T:36 Exits:D> 
+-#-#-#-#-#-#-#-> Maui <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[33m[1m296H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mGood[0;37m] [Xintoinaphxous:[0;37m[33m[1mFair[0;37m] [0;37mMem:19 T:34 Exits:D> 
+Adanac gives Xintoinaphxous a solid punch in the face.
+Xintoinaphxous's eyes cross and it stumbles back.
+
+[32m[0;37m[33m[1m296H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mGood[0;37m] [Xintoinaphxous:[0;37m[33m[1mBad[0;37m] [0;37mMem:19 T:34 Exits:D> 
+Lena crushes Xintoinaphxous hard.
+You miss Xintoinaphxous with your hit.
+Maui stabs Xintoinaphxous hard.
+Adanac cleaves Xintoinaphxous extremely hard.
+Xintoinaphxous misses Adanac with its claw.
+Xintoinaphxous misses Adanac with its claw.
+
+[32m[0;37m[33m[1m296H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [Adanac:[0;37m[32mGood[0;37m] [Xintoinaphxous:[0;37m[33m[1mBad[0;37m] [0;37mMem:19 T:32 Exits:D> 
+Xintoinaphxous throws a pile of colourful shells in the air.
+Xintoinaphxous's hands issue a spray of prismatic color!
+Maui is caught in a spray of shimmering red!
+Adanac is hit by a spray of gleaming indigo!
+You are caught in a spray of bright orange!
+[38;5;130mYou have been blinded![0m
+You are hit by a spray of gleaming indigo!
+Someone is struck by a spray of vibrant green!
+
+[32m[0;37m[33m[1m190H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:19 T:30> 
+Someone crushes someone.
+You miss someone with your hit.
+Someone stabs someone very hard.
+Someone cleaves someone very hard.
+Someone cleaves someone extremely hard.
+Someone misses someone with their claw.
+
+[32m[0;37m[33m[1m190H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:19 T:28> [0;37mcry[0m
+Waaaaah...
+
+[32m[0;37m[33m[1m190H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:19 T:27> [0;37mcc me[0m
+You lost your concentration!
+
+[32m[0;37m[33m[1m190H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:22 T:26> 
+[36mSomeone tells your clan 'ok ill be recalling in like 5 minutes'
+[0;37m
+[32m[0;37m[33m[1m190H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:22 T:25> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'ok ill be recalling in like 5 minutes'[0m
+
+Someone crushes someone.
+Someone stabs someone hard.
+Someone stabs someone hard.
+Someone cleaves someone extremely hard.
+Someone gracefully steps aside as someone attacks!
+Someone deflects part of someone's blow with their shield.
+Someone claws someone hard.
+
+[32m[0;37m[33m[1m190H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:22 T:24> 
+Someone's hands issue a spray of prismatic color!
+Someone is caught in a spray of shimmering red!
+Someone is blasted by a spray of scintillating blue!
+You are hit by a spray of gleaming indigo!
+Someone is blasted by a spray of scintillating blue!
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:22 T:24> 
+Someone crashes into someone in a thundering collision, knocking them to the ground!
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:22 T:24> [0;37mb[0m
+
+Someone crashes into someone in a thundering collision, knocking them to the ground!
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:22 T:21> [0m[1;32;49m** IN THE FACE!!! **[0m
+
+Someone crushes someone hard.
+You miss someone with your hit.
+Someone stabs someone hard.
+Someone cleaves someone very hard.
+Someone misses someone with their claw.
+Someone deflects part of someone's blow with their shield.
+Someone claws someone very hard.
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:22 T:20> [0;37m[0m
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:22 T:18> [0;37mheal me[0m
+You lost your concentration!
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7800804X 93.14% 7675C [0;37mMem:25 T:18> 
+Someone misses someone with their crush.
+Someone stabs someone very hard.
+Someone stabs someone hard.
+You receive 111652 experience.
+The death cry of someone echoes from somewhere nearby...
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7689152X 93.57% 7675C [0;37mMem:25 T:16> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+Someone utters the words, 'cure critical'.
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7689152X 93.57% 7675C [0;37mMem:25 T:14> 
+What are you trying to get from?
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7689152X 93.57% 7675C [0;37mMem:25 T:13> 
+What are you trying to get from?
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7689152X 93.57% 7675C [0;37mMem:25 T:13> 
+Someone crashes into someone in a thundering collision, knocking them to the ground!
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7689152X 93.57% 7675C [0;37mMem:25 T:13> 
+You can't see a damn thing, you're blinded!
+
+[32m[0;37m[33m[1m156H [0;37m[32m126V [0;37m7689152X 93.57% 7675C [Baldr:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:25 T:13> [0;37mgt damn feebled[0m
+
+Someone MASSACREs YOU with their claw.
+Someone claws YOU extremely hard.
+You bruise someone with your hit.
+Someone misses someone with their claw.
+Someone deflects part of someone's blow with their shield.
+Someone claws someone very hard.
+Someone stabs someone hard.
+
+[32m[0;37m[33m[1m113H [0;37m[32m126V [0;37m7689108X 93.57% 7675C [Baldr:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:25 T:12> 
+You tell your group 'damn feebled'
+
+[32m[0;37m[33m[1m113H [0;37m[32m126V [0;37m7689108X 93.57% 7675C [Baldr:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:25 T:12> 
+[36mSomeone tells your clan 'what is gloves?'
+[0;37m
+[32m[0;37m[33m[1m113H [0;37m[32m126V [0;37m7689108X 93.57% 7675C [Baldr:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:25 T:11> [0m[1;34;49mCLAN MESSAGE FROM Pitli: 'what is gloves?'[0m
+
+Someone divides 956 coins equally among the group members present.
+
+[32m[0;37m[33m[1m113H [0;37m[32m126V [0;37m7689108X 93.57% 7914C [Baldr:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:25 T:9> [0;37mb[0m
+
+Someone MASSACREs YOU with their claw.
+You bruise someone with your hit.
+Someone claws someone.
+Someone claws someone very hard.
+Someone stabs someone very hard.
+
+[32m[0;37m[33m[1m89H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:25 T:8> 
+Someone kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+[32m[0;37m[31m83H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[31mV.Bad[0;37m] [0;37mMem:25 T:7> 
+Someone focuses on you and utters the words, 'heal'.
+[38;5;55mYou feel a cloak of blindness dissolve.[0m
+Your entire body tingles for a few seconds.
+
+[32m[0;37m[32m399H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[32mV.Good[0;37m] [0;37mMem:7 T:7 Exits:D> 
+-#-#-#-#-#-#-#-> Maui <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m399H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[32mV.Good[0;37m] [0;37mMem:7 T:5 Exits:D> [0;37m[0m
+
+[32m[0;37m[32m399H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[32mV.Good[0;37m] [0;37mMem:7 T:5 Exits:D> 
+Some of your lighter wounds disappear.
+A Kuo-toa elite claws YOU extremely hard.
+A Kuo-toa elite claws YOU extremely hard.
+You miss a Kuo-toa elite with your hit.
+A Kuo-toa elite misses Maui with its claw.
+Maui deflects part of a Kuo-toa elite's blow with his shield.
+Maui gracefully steps aside as a Kuo-toa elite attacks!
+Maui stabs a Kuo-toa elite very hard.
+
+[32m[0;37m[32m361H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[32mV.Good[0;37m] [0;37mMem:7 T:4 Exits:D> 
+Maui stumbles and falls while trying to bash a Kuo-toa elite.
+
+[32m[0;37m[32m361H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[32mV.Good[0;37m] [0;37mMem:7 T:4 Exits:D> [0m[1;31;49m** OUCHIES, MISSED THE BASH!!! **[0m
+[0;37msc[0m
+You are Baldr the Male Minotaur, a level 28 Cleric.
+You are a Neophyte in Myth.
+You are rank 13. You have completed 93.57% of your next rank.
+You are 17 years old.
+You have 361(399) hit and 126(131) movement points.
+Your behaviour has been Neutral.
+You have scored 82,310,958 exp, and have 7914(45000) steel coins.
+You need 7,689,042 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 1 hour(s) and 4 minute(s).
+You have been playing for 1 day(s), 7 hour(s) and 15 minute(s).
+Your natural ability scores are:
+        Str: 20 Int: 15 Wis: 17 Dex: 11 Con: 16 Cha: 15
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are flying.
+You are fighting a Kuo-toa elite.
+You are following Lena.
+You are affected by the following:
+    heal
+    sap strength
+
+[32m[0;37m[32m361H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[32mV.Good[0;37m] [0;37mMem:7 T:1 Exits:D> 
+A Kuo-toa elite tries to punch Maui, but he deftly avoids the blow.
+
+[32m[0;37m[32m361H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[32mV.Good[0;37m] [0;37mMem:7 T:1 Exits:D> 
+You dodge out of the way of a Kuo-toa elite's mistargeted kick.
+
+[32m[0;37m[32m361H [0;37m[32m126V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[32mV.Good[0;37m] [0;37mMem:7 T:1 Exits:D> 
+Some of your lighter wounds disappear.
+A Kuo-toa elite MASSACREs YOU with its claw.
+You miss a Kuo-toa elite with your hit.
+A Kuo-toa elite misses Maui with its claw.
+A Kuo-toa elite claws Maui extremely hard.
+Maui stabs a Kuo-toa elite hard.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Baldr:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[32mPerfect[0;37m] [0;37mMem:7 T:60 Exits:D> 
+Adanac comes to your rescue! You're thankful, but a bit dazed.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [0;37mMem:7 T:60 Exits:D> [0;37mgt thanks[0m
+You tell your group 'thanks'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [0;37mMem:7 T:58 Exits:D> [0;37mfight[0m
+Some of your lighter wounds disappear.
+A Kuo-toa elite misses Adanac with its claw.
+Adanac cleaves a Kuo-toa elite extremely hard.
+Maui deflects part of a Kuo-toa elite's blow with his shield.
+A Kuo-toa elite claws Maui very hard.
+Maui deflects part of a Kuo-toa elite's blow with his shield.
+A Kuo-toa elite claws Maui hard.
+Maui stabs a Kuo-toa elite extremely hard.
+You miss a Kuo-toa elite with your hit.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[33m[1mFair[0;37m] [a Kuo-toa elite:[0;37m[33m[1mGood[0;37m] [0;37mMem:7 T:56 Exits:D> 
+-#-#-#-#-#-#-#-> Maui <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[33m[1mFair[0;37m] [a Kuo-toa elite:[0;37m[33m[1mGood[0;37m] [0;37mMem:7 T:56 Exits:D> 
+Lena focuses on Maui and utters the words, 'heal'.
+Lena heals Maui.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[33m[1mGood[0;37m] [0;37mMem:7 T:56 Exits:D> 
+Maui gives a Kuo-toa elite a solid punch in the face.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 T:55 Exits:D> 
+A Kuo-toa elite crashes into Maui in a thundering collision, knocking him to the ground!
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 T:55 Exits:D> 
+A Kuo-toa elite crashes into Adanac in a thundering collision, knocking him to the ground!
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 T:55 Exits:D> 
+Some of your lighter wounds disappear.
+You miss a Kuo-toa elite with your hit.
+A Kuo-toa elite MASSACREs Adanac with its claw.
+Adanac cleaves a Kuo-toa elite extremely hard.
+A Kuo-toa elite claws Maui extremely hard.
+Maui MASSACREs a Kuo-toa elite with his stab.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 T:52 Exits:D> [0;37ml[0m
+[36mThe Chieftain's Hut[0;37m
+[33m[1mThe corpse of Xintoinaphxous is lying here.
+[0;37m[31m[1mA Kuo-toa elite is standing here, fighting Adanac. (black aura)
+A Kuo-toa elite is standing here, fighting Maui. (black aura)
+<Myth> Maui, Demigod of the Wind and the Sea is sitting here, fighting a Kuo-toa elite. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is sitting here, fighting a Kuo-toa elite. (flying) (white aura)
+You see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 T:52 Exits:D> 
+Lena slowly fades into existence.
+Lena crushes a Kuo-toa elite extremely hard.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[33m[1mBad[0;37m] [0;37mMem:7 T:50 Exits:D> 
+A Kuo-toa elite tries to punch Maui, but he deftly avoids the blow.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[33m[1mBad[0;37m] [0;37mMem:7 T:49 Exits:D> 
+Some of your lighter wounds disappear.
+Lena crushes a Kuo-toa elite hard.
+You miss a Kuo-toa elite with your hit.
+A Kuo-toa elite misses Adanac with its claw.
+Adanac deflects part of a Kuo-toa elite's blow with his shield.
+A Kuo-toa elite claws Adanac extremely hard.
+Adanac MASSACREs a Kuo-toa elite with his cleave.
+Maui deflects part of a Kuo-toa elite's blow with his shield.
+A Kuo-toa elite claws Maui hard.
+Maui stabs a Kuo-toa elite extremely hard.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 T:48 Exits:D> 
+-#-#-#-#-#-#-#-> Maui <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 T:47 Exits:D> 
+-#-#-#-#-#-#-#-> Adanac <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mV.Good[0;37m] [a Kuo-toa elite:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 T:47 Exits:D> 
+Lena crushes a Kuo-toa elite very hard.
+You miss a Kuo-toa elite with your hit.
+Adanac blocks a Kuo-toa elite's blow with a quick raise of his shield.
+Adanac deflects part of a Kuo-toa elite's blow with his shield.
+A Kuo-toa elite claws Adanac hard.
+Adanac's mighty cleave almost cuts a Kuo-toa elite in two.
+Adanac MASSACREs a Kuo-toa elite with his cleave.
+A Kuo-toa elite misses Maui with its claw.
+Maui stabs a Kuo-toa elite very hard.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 T:44 Exits:D> 
+[36mPitli tells your clan 'granite hands?'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:7 T:44 Exits:D> [0m[1;34;49mCLAN MESSAGE FROM Pitli: 'granite hands?'[0m
+[0;37mb bash[0m
+
+Maui crashes into a Kuo-toa elite in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[31mAwful[0;37m] [0;37mMem:7 T:43 Exits:D> [0m[1;32;49m** IN THE FACE!!! **[0m
+
+A Kuo-toa elite tries to punch Adanac, but he deftly avoids the blow.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[31mAwful[0;37m] [0;37mMem:7 T:43 Exits:D> 
+[36mLena tells your clan 'imm poi/wis/hr'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7689042X 93.57% 7914C [Maui:[0;37m[32mPerfect[0;37m] [a Kuo-toa elite:[0;37m[31mAwful[0;37m] [0;37mMem:7 T:42 Exits:D> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'imm poi/wis/hr'[0m
+
+Lena crushes a Kuo-toa elite extremely hard.
+You receive 43358 experience.
+A Kuo-toa elite is dead! R.I.P.
+A Kuo-toa elite misses Adanac with its claw.
+Adanac MASSACREs a Kuo-toa elite with his cleave.
+The death cry of a Kuo-toa elite echoes from somewhere nearby...
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7914C [0;37mMem:7 T:40 Exits:D> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+Lena gets a pile of coins from the corpse of a Kuo-toa elite.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7914C [0;37mMem:7 T:40 Exits:D> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7914C [0;37mMem:7 T:40 Exits:D> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7914C [0;37mMem:7 T:40 Exits:D> 
+You can't find whatever you're trying to put into a small wooden chest.
+Lena divides 32 coins equally among the group members present.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:40 Exits:D> 
+corpse (here) : 
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:40 Exits:D> [0;37mfight[0m
+But they're not fighting anyone!
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:38 Exits:D> 
+A Kuo-toa elite spins and tries to kick Adanac, but Adanac dodges out of the way.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:37 Exits:D> 
+A Kuo-toa elite misses Adanac with its claw.
+A Kuo-toa elite misses Adanac with its claw.
+Adanac cleaves a Kuo-toa elite extremely hard.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:36 Exits:D> [0;37ml[0m
+[36mThe Chieftain's Hut[0;37m
+[33m[1mThe corpse of a Kuo-toa elite is lying here.
+The corpse of Xintoinaphxous is lying here.
+[0;37m[31m[1mA Kuo-toa elite is standing here, fighting Adanac. (black aura)
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here, fighting a Kuo-toa elite. (flying) (white aura)
+You see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:36 Exits:D> 
+Maui stabs a Kuo-toa elite very hard.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:35 Exits:D> 
+Maui stabs a Kuo-toa elite very hard.
+A Kuo-toa elite claws Adanac very hard.
+Adanac MASSACREs a Kuo-toa elite with his cleave.
+Adanac cleaves a Kuo-toa elite extremely hard.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:32 Exits:D> 
+[36mLena tells your clan 'pair of shaggy brown gloves'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:32 Exits:D> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'pair of shaggy brown gloves'[0m
+
+A Kuo-toa elite spins and tries to kick Adanac, but Adanac dodges out of the way.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:31 Exits:D> 
+Maui tries to punch a Kuo-toa elite, but it deftly avoids the blow.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:30 Exits:D> 
+Adanac gives a Kuo-toa elite a solid punch in the face.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7645684X 93.57% 7922C [0;37mMem:7 T:30 Exits:D> 
+Maui stumbles and falls while trying to bash a Kuo-toa elite.
+Adanac crashes into a Kuo-toa elite in a devastating bash, killing it mercilessly.
+You receive 36132 experience.
+A Kuo-toa elite is dead! R.I.P.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7922C [0;37mMem:7 T:30 Exits:D> [0m[1;31;49m** OUCHIES, MISSED THE BASH!!! **[0m
+[0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+The death cry of a Kuo-toa elite echoes from somewhere nearby...
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7922C [0;37mMem:7 T:30 Exits:D> 
+You get a pile of coins from the corpse of a Kuo-toa elite.
+There were 30 coins.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7952C [0;37mMem:7 T:30 Exits:D> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7952C [0;37mMem:7 T:29 Exits:D> [0;37mfight[0m
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7952C [0;37mMem:7 T:29 Exits:D> 
+corpse (here) : 
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7952C [0;37mMem:7 T:29 Exits:D> 
+You can't split 30 evenly among the people in the room; splitting 28 instead.
+You divide 28 coins equally among the group members present.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:29 Exits:D> 
+But they're not fighting anyone!
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:28 Exits:D> [0;37ml[0m
+[36mThe Chieftain's Hut[0;37m
+[33m[1mThe corpse of a Kuo-toa elite is lying here. [2]
+The corpse of Xintoinaphxous is lying here.
+[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is sitting here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+You see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:27 Exits:D> 
+[36mLena tells your group 'ok take chieftain's crown'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:24 Exits:D> 
+-#-#-#-#-#-#-#-> Maui <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:22 Exits:D> [0;37mgroup[0m
+Your group of 4 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  [0;37m[32mCL Lena             perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [32m Y  [32m  Y  [32m  Y [32m  Y  [32m   1   [0;37m 1
+  [0;37m[32mCL Baldr            perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [31m   0   [0;37m 7
+  [0;37m[33m[1mWA Adanac           good     [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [32m   1   [0;37m 0
+  [0;37m[32mWA Maui             perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [32m  Y [32m  Y  [31m   0   [0;37m 0
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:21 Exits:D> [0;37mmem[0m
+Spells currently memorized:
+1: [ 1]aid                  [ 1]create food          [ 1]know alignment      
+   [ 2]restore strength    
+2: [ 1]blindness            [ 2]cure blindness       [ 1]detect evil         
+   [ 1]detect good          [ 2]light                [ 1]silence             
+3: [ 3]cure serious         [ 2]gust of wind         [ 2]protection from evil
+   [ 2]remove poison       
+4: [ 3]flamestrike          [ 1]prayer              
+5: [ 5]cure critical       
+6: [ 5]sunbolt             
+7: [ 2]soul leech          
+
+Spells being memorized:
+1: [ 1]bless                [ 1]cause light          [ 1]create food         
+   [ 2]create water        
+2: [ 1]cure blindness       [ 1]silence             
+4: [ 1]cloak of bravery     [ 2]flamestrike          [ 1]sanctuary           
+5: [ 1]cure critical       
+6: [ 1]sunbolt             
+7: [ 1]negative plane prote
+
+You estimate your studies will complete in 7 (game) hours.
+
+ [return for more, q to stop][0;37m[0m
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-1
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:16 Exits:D> 
+[36mLena tells your group 'head back to the enterence area'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:16 Exits:D> 
+Lena flies down.
+You follow Lena down.
+Adanac flies in from above.
+Maui flies in from above.
+[36mBelow a Large Stone Hut[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m130V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:14 Exits:NSU> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mA Path in the Kuo-toa Village[0;37m
+[33m[1mThe corpse of a Kuo-toa sentry is lying here. [2]
+[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A villager lies here, its neck broken by the escaped dwarf. (black aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m128V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:14 Exits:NSW> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mVillage of the Kuo-toa[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m126V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:12 Exits:NE> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mVillage of the Kuo-toa[0;37m
+[33m[1mThe corpse of a Kuo-toa warrior is lying here.
+[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:12 Exits:NSWD> 
+Lena flies down.
+You follow Lena down.
+Adanac flies in from above.
+Maui flies in from above.
+[36mA Slippery Bank[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m122V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:11 Exits:NESU> [0;37mmem[0m
+Spells currently memorized:
+1: [ 1]aid                  [ 1]create food          [ 1]know alignment      
+   [ 2]restore strength    
+2: [ 1]blindness            [ 2]cure blindness       [ 1]detect evil         
+   [ 1]detect good          [ 2]light                [ 1]silence             
+3: [ 3]cure serious         [ 2]gust of wind         [ 2]protection from evil
+   [ 2]remove poison       
+4: [ 3]flamestrike          [ 1]prayer              
+5: [ 5]cure critical       
+6: [ 5]sunbolt             
+7: [ 2]soul leech          
+
+Spells being memorized:
+1: [ 1]bless                [ 1]cause light          [ 1]create food         
+   [ 2]create water        
+2: [ 1]cure blindness       [ 1]silence             
+4: [ 1]cloak of bravery     [ 2]flamestrike          [ 1]sanctuary           
+5: [ 1]cure critical       
+6: [ 1]sunbolt             
+7: [ 1]negative plane prote
+
+You estimate your studies will complete in 7 (game) hours.
+
+ [return for more, q to stop][0;37mspells[0m
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mOn a Dark Lake[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37mLena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mOn a Dark Lake[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m118V [0;37m7609552X 93.57% 7931C [0;37mMem:7 T:8 Exits:NESW> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mOn a Dark Lake[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+. . . has a metallic luster.
+A vicious piranha swims through the waters looking for blood.
+. . . has an ethereal shimmer
+You sense a life form.
+[0;37mA Kuo-toa scout comes out of hiding.
+Suddenly a Kuo-toa scout stabs you in the back.
+
+[32m[0;37m[32m327H [0;37m[32m116V [0;37m7609552X 93.57% 7931C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[32mPerfect[0;37m] [0;37mMem:7 T:7 Exits:NESW> [0;37mspells[0m
+Your spells
+-----------
+1:  aid                    bless                  cause light          
+    create food            create water           cure light           
+    know alignment         restore strength       spiritual hammer     
+2:  blindness              cure blindness         curse                
+    detect evil            detect good            detect magic         
+    light                  remove curse           silence              
+3:  cause serious          cure serious           fear                 
+    gust of wind           holy armor             poison               
+    protection from evil   remove fear            remove poison        
+4:  cloak of bravery       cure disease           dispel magic         
+    flamestrike            free action            hold person          
+    prayer                 sanctuary            
+5:  atonement              cause critical         cure critical        
+    dispel evil            dispel good            fortify self         
+    word of recall       
+6:  harm                   heal                   summon               
+    sunbolt              
+7:  negative plane protection  soul leech           
+
+[32m[0;37m[32m327H [0;37m[32m116V [0;37m7609552X 93.57% 7931C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[32mPerfect[0;37m] [0;37mMem:7 T:6 Exits:NESW> [0;37mfight[0m
+
+Maui stabs a Kuo-toa scout hard.
+
+[32m[0;37m[32m327H [0;37m[32m116V [0;37m7609552X 93.57% 7931C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[32mV.Good[0;37m] [0;37mMem:7 T:5 Exits:NESW> 
+Maui stabs a Kuo-toa scout.
+A Kuo-toa scout pierces YOU extremely hard.
+You miss a Kuo-toa scout with your hit.
+
+[32m[0;37m[33m[1m309H [0;37m[32m116V [0;37m7609552X 93.57% 7931C [Baldr:[0;37m[33m[1mGood[0;37m] [a Kuo-toa scout:[0;37m[32mGood[0;37m] [0;37mMem:7 T:4 Exits:NESW> 
+You can't do that while fighting.
+
+[32m[0;37m[33m[1m309H [0;37m[32m116V [0;37m7609552X 93.57% 7931C [Baldr:[0;37m[33m[1mGood[0;37m] [a Kuo-toa scout:[0;37m[32mGood[0;37m] [0;37mMem:7 T:4 Exits:NESW> 
+Adanac gives a Kuo-toa scout a solid punch in the face.
+
+[32m[0;37m[33m[1m309H [0;37m[32m116V [0;37m7609552X 93.57% 7931C [Baldr:[0;37m[33m[1mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mFair[0;37m] [0;37mMem:7 T:3 Exits:NESW> 
+Adanac crashes into a Kuo-toa scout in a thundering collision, knocking it to the ground!
+
+[32m[0;37m[33m[1m309H [0;37m[32m116V [0;37m7609552X 93.57% 7931C [Baldr:[0;37m[33m[1mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mBad[0;37m] [0;37mMem:7 T:3 Exits:NESW> [0;37msl[0m
+Your casting is disrupted by the fighting!
+
+[32m[0;37m[33m[1m309H [0;37m[32m116V [0;37m7609552X 93.57% 7931C [Baldr:[0;37m[33m[1mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mBad[0;37m] [0;37mMem:7 T:2 Exits:NESW> [0;37msl[0m
+You utter the words, 'soul leech'
+The wrath of your god rains down upon a Kuo-toa scout, clamping to its soul.
+You feel a new life flow through you.
+
+[32m[0;37m[32m352H [0;37m[32m116V [0;37m7608760X 93.57% 7931C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:8 T:1 Exits:NESW> 
+Lena slowly fades into existence.
+Lena barely crushes a Kuo-toa scout.
+
+[32m[0;37m[32m352H [0;37m[32m116V [0;37m7608760X 93.57% 7931C [Baldr:[0;37m[32mGood[0;37m] [a Kuo-toa scout:[0;37m[31mV.Bad[0;37m] [0;37mMem:8 T:1 Exits:NESW> 
+A Kuo-toa scout falls back as Lena crushes it on the head.
+Lena crushes a Kuo-toa scout very hard.
+Adanac MASSACREs a Kuo-toa scout with his cleave.
+Maui stabs a Kuo-toa scout very hard.
+You receive 38453 experience.
+A Kuo-toa scout is dead! R.I.P.
+The death cry of a Kuo-toa scout echoes from somewhere nearby...
+Lena closes her prayerbook with a content look on her face.
+Your strength returns to normal.
+
+[32m[0;37m[32m381H [0;37m[32m131V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:60 Exits:NESW> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m381H [0;37m[32m131V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:57 Exits:NESW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m381H [0;37m[32m131V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:57 Exits:NESW> 
+You can't find whatever you're trying to put into a small wooden chest.
+
+[32m[0;37m[32m381H [0;37m[32m131V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:56 Exits:NESW> [0;37mwield maul[0m
+corpse (here) : 
+a transparent bone spear (2d6 dr2 sneak7 magic w14 *18)
+
+[32m[0;37m[32m381H [0;37m[32m131V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:56 Exits:NESW> 
+A colossal blackened maul is too heavy for you to wield in one hand.
+You grab the maul with both hands.
+
+[32m[0;37m[32m381H [0;37m[32m131V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:56 Exits:NESW> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mOn a Dark Lake[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+You sense a life form.
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m129V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:54 Exits:NESWU> 
+Lena flies up.
+You follow Lena up.
+Adanac flies in from below.
+Maui flies in from below.
+[36mIn a Dark Fog[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m127V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:53 Exits:NESWUD> 
+Aspasia disappears into the fog below.
+
+[32m[0;37m[32m381H [0;37m[32m127V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:52 Exits:NESWUD> [0;37ml[0m
+
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mAt the Edge of a Small Cliff[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m125V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:49 Exits:SW> 
+Lena flies south.
+You follow Lena south.
+Adanac flies in from the north.
+Maui flies in from the north.
+[36mIn a Moist Abandoned Tunnel[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m123V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:49 Exits:NU> [0;37msad[0m
+[36mIn a Moist Abandoned Tunnel[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+You see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m123V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:48 Exits:NU> 
+Lena flies up.
+You follow Lena up.
+Adanac flies in from below.
+Maui flies in from below.
+[36mIn a Moist Abandoned Tunnel[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m121V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:48 Exits:ED> 
+Awwww! Don't give up hope. I'm sure your mother loves you...
+
+[32m[0;37m[32m381H [0;37m[32m121V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:47 Exits:ED> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mA Moist Abandonned Tunnel[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m119V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:46 Exits:EW> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mA Moist Abandonned Tunnel[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m117V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:46 Exits:EW> 
+Lena flies east.
+You follow Lena east.
+Adanac flies in from the west.
+Maui flies in from the west.
+[36mIn an Abandoned Section of Tunnel[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m115V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:45 Exits:NW> 
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Maui flies in from the south.
+[36mIn an Abandoned Section of Tunnel[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m113V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:35 Exits:NS> 
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Maui flies in from the south.
+[36mIn the Dwarven Mine[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+A huge dwarf is here, inspecting all that pass by. (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m111V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:35 Exits:NSU> 
+[36mLena tells your group 'now track foreman'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m111V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:30 Exits:NSU> 
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Maui flies in from the south.
+[36mInside a Dwarven Mine[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m109V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:29 Exits:NSW> 
+[36mLena tells your group 'he is in the lower section'
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m109V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:23 Exits:NSW> [0;37mb track foreman[0m
+
+Maui kneels down and studies the ground.
+
+[32m[0;37m[32m381H [0;37m[32m109V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:22 Exits:NSW> [0m[1;35;49m *******>>> TRACKS LEAD west. <<<*******[0m
+
+Adanac kneels down and studies the ground.
+
+[32m[0;37m[32m381H [0;37m[32m109V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:21 Exits:NSW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Adanac kneels down and studies the ground.
+Maui flies in from the east.
+Maui kneels down and studies the ground.
+[36mThe Main Drift[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[32m107V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:19 Exits:EW> [0m[1;35;49m *******>>> TRACKS LEAD west. <<<*******[0m
+[0;37mgt w[0m
+You tell your group 'w'
+
+[32m[0;37m[32m381H [0;37m[32m107V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:19 Exits:EW> 
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Adanac kneels down and studies the ground.
+Maui flies in from the east.
+Maui kneels down and studies the ground.
+[36mThe Main Drift[0;37m
+[33m[1mA large tram on a pulley system slowly floats towards a hole in the ceiling.
+[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+A dwarven miner is here, carrying an armful of ore.
+[0;37mA dwarven miner shoves you aside, anxious to get to the tram.
+
+[32m[0;37m[32m381H [0;37m[33m[1m105V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:18 Exits:NES> [0m[1;35;49m *******>>> TRACKS LEAD north. <<<*******[0m
+
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Adanac kneels down and studies the ground.
+Maui flies in from the south.
+Maui kneels down and studies the ground.
+[36mThe North Shaft[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[33m[1m103V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:16 Exits:SW> [0m[1;35;49m *******>>> TRACKS LEAD west. <<<*******[0m
+
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Adanac kneels down and studies the ground.
+Maui flies in from the east.
+Maui kneels down and studies the ground.
+[36mThe North Shaft[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+A dwarven miner is here, carrying an armful of ore.
+[0;37mA dwarven miner shoves you aside, anxious to get to the tram.
+
+[32m[0;37m[32m381H [0;37m[33m[1m101V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:15 Exits:NEW> [0m[1;35;49m *******>>> TRACKS LEAD west. <<<*******[0m
+
+Lena flies west.
+You follow Lena west.
+Adanac flies in from the east.
+Adanac kneels down and studies the ground.
+Maui flies in from the east.
+Maui kneels down and studies the ground.
+[36mThe North Shaft[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+[0;37m
+[32m[0;37m[32m381H [0;37m[33m[1m99V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:14 Exits:NE> [0m[1;35;49m *******>>> TRACKS LEAD north. <<<*******[0m
+
+Lena flies north.
+You follow Lena north.
+Adanac flies in from the south.
+Adanac kneels down and studies the ground.
+Maui flies in from the south.
+Maui kneels down and studies the ground.
+[36mThe North Shaft[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+A dwarven foreman is here, barking out orders.
+[0;37m
+[32m[0;37m[32m381H [0;37m[33m[1m97V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:13 Exits:SW> 
+[36mPitli tells your clan 'thanks'
+[0;37m
+[32m[0;37m[32m381H [0;37m[33m[1m97V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:11 Exits:SW> [0m[1;34;49mCLAN MESSAGE FROM Pitli: 'thanks'[0m
+
+Lena holds the crown of the kuo-toa chieftain high so everyone can see it.
+
+[32m[0;37m[32m381H [0;37m[33m[1m97V [0;37m7570307X 93.57% 7931C [0;37mMem:7 T:9 Exits:SW> 
+Lena presents the crown of the Kuo-toa to the dwarven foreman.
+The dwarf smiles and then says sharply,
+   'Good! Now this mine will see some serious production knowing that
+    those ugly fish things are gone! Well done lads! Go to my office
+    and use this key I give you for my chest. It's a small reward that
+    King Hornfel has authorized me to give to those who help the mine.'
+
+The dwarven mine foreman hands Lena a key.
+You receive 94915 experience.
+
+[32m[0;37m[32m381H [0;37m[33m[1m97V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:5 Exits:SW> [0m[1;34;49mFOLLOWER GAINED XP: 0[0m
+
+[37mYour clanmate Pitli has left the game.
+[0;37m
+[32m[0;37m[32m381H [0;37m[33m[1m97V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:5 Exits:SW> 
+[36mLena tells your group 'present crown foreman'
+[0;37m
+[32m[0;37m[32m381H [0;37m[33m[1m97V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:1 Exits:SW> 
+You are hungry.
+A ring of fire decays in your hands.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:17 T:60 Exits:SW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+[36mLena tells your group 'nice exp'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:17 T:58 Exits:SW> [0;37mgive bread maui[0m
+You give a piece of sweet bread to Maui.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:17 T:55 Exits:SW> [0;37magree[0m
+You nod your head in agreement.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:17 T:54 Exits:SW> 
+[36mLena tells your group '5 minutes to solo that'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:17 T:52 Exits:SW> [0;37mboth eat bread[0m
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:52 Exits:SW> [0;37mnod[0m
+You nod solemnly.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:50 Exits:SW> 
+Lena focuses on Adanac and utters the words, 'word of recall'.
+Adanac disappears.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:43 Exits:SW> [0;37ml[0m
+[36mThe North Shaft[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+You see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+A dwarven foreman is here, barking out orders.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:37 Exits:SW> 
+Lena says 'recalling'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:35 Exits:SW> [0;37mword maui[0m
+You utter the words, 'word of recall'
+Maui disappears.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:31 Exits:SW> 
+Lena utters the words, 'word of recall'.
+Lena disappears.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:30 Exits:SW> [0;37mword me[0m
+You utter the words, 'word of recall'
+[35mThe Inn of Myth[0;37m
+[33m[1m[0;37m[31m[1mYou see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:27 Exits:NESWUD> 
+[36mLena tells your clan 'chip, we in inn'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:26 Exits:NESWUD> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'chip, we in inn'[0m
+
+[37mYour clanmate Phynn has entered the game.
+[0;37mPhynn has entered the game.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:25 Exits:NESWUD> 
+[36mLena tells your clan 'with gloves'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:23 Exits:NESWUD> [0m[1;34;49mCLAN MESSAGE FROM Lena: 'with gloves'[0m
+[0;37mgt i think im gonna head to bed now. thanks for the group,.[0m
+You tell your group 'i think im gonna head to bed now. thanks for the group,.'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:14 Exits:NESWUD> [0;37ml[0m
+
+[36mLena tells your group 'oh, lol forgot to do the chest'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:13 Exits:NESWUD> 
+[35mThe Inn of Myth[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Phynn the Male Kagonesti is standing here.
+You see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+<Myth> Maui, Demigod of the Wind and the Sea is standing here. (flying) (white aura)
+<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:13 Exits:NESWUD> [0;37min[0m
+You are carrying:
+a transparent fishscale bracelet (invisible)
+a mahogany wand..it glows dimly
+a shimmering scroll..it glows dimly
+a pinch of powdered azurite
+a tablet engraved with emeralds
+a juicy piece of steak
+a pair of steel-rimmed spectacles
+a mask of writhing vines (int/wis1 druid)
+a piece of sweet bread [6]
+a scribed scroll of create water
+a foremans belt with a large buckle (str health5 *19)
+a scribed scroll of silence
+a scribed scroll of detect evil
+a glowing scroll of recall..it glows dimly [2]
+a portable keg
+a small wooden chest
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:12 Exits:NESWUD> 
+[36mLena tells your group 'oh well'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:11 Exits:NESWUD> 
+Flaura flies in from below.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:11 Exits:NESWUD> 
+[36mLena tells your group 'ok, '
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:8 Exits:NESWUD> [0;37mgive wand lena[0m
+You give a mahogany wand to Lena.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:8 Exits:NESWUD> [0;37mgive scroll lena[0m
+You give a shimmering scroll to Lena.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:4 Exits:NESWUD> [0;37min[0m
+You are carrying:
+a transparent fishscale bracelet (invisible)
+a pinch of powdered azurite
+a tablet engraved with emeralds
+a juicy piece of steak
+a pair of steel-rimmed spectacles
+a mask of writhing vines (int/wis1 druid)
+a piece of sweet bread [6]
+a scribed scroll of create water
+a foremans belt with a large buckle (str health5 *19)
+a scribed scroll of silence
+a scribed scroll of detect evil
+a glowing scroll of recall..it glows dimly [2]
+a portable keg
+a small wooden chest
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:3 Exits:NESWUD> 
+[36mLena tells your group 'laters baldr!'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:3 Exits:NESWUD> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0;37mgive tablet lena[0m
+You give a tablet engraved with emeralds to Lena.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:58 Exits:NESWUD> 
+Lena gives a pair of shaggy brown gloves to Flaura.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:57 Exits:NESWUD> 
+Flaura wears a pair of shaggy brown gloves on her hands.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:49 Exits:NESWUD> [0;37mlook flaura[0m
+You see nothing special about her.
+Flaura the adult female qualinesti is in an excellent condition (invisible).
+
+Flaura is using:
+<worn around neck>         a dragontooth necklace (ac-5 hr1 invis/detinvis *set*)
+<worn around neck>         a beaded leather necklace (+1@4/6 antiE mag/bls/glow Druid *19)..it glows dimly
+<worn on head>             a mask of writhing vines (int/wis1 druid)
+<worn as shield>           a green heater shield (B2 CASTER SHIELD)
+<worn about body>          some luxurious black velvet robes
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:47 Exits:NESWUD> [0;37min[0m
+You are carrying:
+a transparent fishscale bracelet (invisible)
+a pinch of powdered azurite
+a juicy piece of steak
+a pair of steel-rimmed spectacles
+a mask of writhing vines (int/wis1 druid)
+a piece of sweet bread [6]
+a scribed scroll of create water
+a foremans belt with a large buckle (str health5 *19)
+a scribed scroll of silence
+a scribed scroll of detect evil
+a glowing scroll of recall..it glows dimly [2]
+a portable keg
+a small wooden chest
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:44 Exits:NESWUD> 
+Lena stops using a white globe and chain.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:44 Exits:NESWUD> 
+Lena stops using a silver and red necklace (regen1%).
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:42 Exits:NESWUD> 
+Lena wears a white globe and chain around her neck.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:39 Exits:NESWUD> [0;37mwear bracelet[0m
+You wear the bracelet around your right wrist.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:38 Exits:NESWUD> [0;37mmem[0m
+Spells currently memorized:
+1: [ 1]aid                  [ 1]create food          [ 1]know alignment      
+   [ 2]restore strength    
+2: [ 1]blindness            [ 2]cure blindness       [ 1]detect evil         
+   [ 1]detect good          [ 2]light                [ 1]silence             
+3: [ 3]cure serious         [ 2]gust of wind         [ 2]protection from evil
+   [ 2]remove poison       
+4: [ 3]flamestrike          [ 1]prayer              
+5: [ 3]cure critical       
+6: [ 5]sunbolt             
+
+Spells being memorized:
+1: [ 1]bless                [ 1]cause light          [ 1]create food         
+   [ 2]create water        
+2: [ 1]cure blindness       [ 1]silence             
+4: [ 1]cloak of bravery     [ 2]flamestrike          [ 1]sanctuary           
+5: [ 3]cure critical       
+6: [ 1]sunbolt             
+7: [ 1]negative plane prote [ 2]soul leech          
+
+You estimate your studies will complete in 6 (game) hours.
+
+
+ [return for more, q to stop][0;37m[0m
+Spells left (level-number): 1-0 2-0 3-1 4-0 5-0 6-0 7-0 8-1
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:36 Exits:NESWUD> 
+Lena gives a tablet engraved with emeralds to Flaura.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:6 T:32 Exits:NESWUD> [0;37mmem 'gust'[0m
+gust of wind: added to your list
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:28 Exits:NESWUD> [0;37min[0m
+You are carrying:
+a pinch of powdered azurite
+a juicy piece of steak
+a pair of steel-rimmed spectacles
+a mask of writhing vines (int/wis1 druid)
+a piece of sweet bread [6]
+a scribed scroll of create water
+a foremans belt with a large buckle (str health5 *19)
+a scribed scroll of silence
+a scribed scroll of detect evil
+a glowing scroll of recall..it glows dimly [2]
+a portable keg
+a small wooden chest
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:26 Exits:NESWUD> 
+Lena wears a scaly blue-green cape (det_inv/mag res_acid9 breath-1 *18) around her neck.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:25 Exits:NESWUD> 
+Lena looks at Adanac.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:21 Exits:NESWUD> [0;37mput belt chest[0m
+You put a foremans belt with a large buckle (str health5 *19) in a small wooden chest.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:20 Exits:NESWUD> 
+Lena looks at Adanac.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:19 Exits:NESWUD> [0;37min[0m
+You are carrying:
+a pinch of powdered azurite
+a juicy piece of steak
+a pair of steel-rimmed spectacles
+a mask of writhing vines (int/wis1 druid)
+a piece of sweet bread [6]
+a scribed scroll of create water
+a scribed scroll of silence
+a scribed scroll of detect evil
+a glowing scroll of recall..it glows dimly [2]
+a portable keg
+a small wooden chest
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:19 Exits:NESWUD> [0;37mdrop all.scribed[0m
+You drop a scribed scroll of create water.
+You drop a scribed scroll of silence.
+You drop a scribed scroll of detect evil.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:15 Exits:NESWUD> [0;37min[0m
+You are carrying:
+a pinch of powdered azurite
+a juicy piece of steak
+a pair of steel-rimmed spectacles
+a mask of writhing vines (int/wis1 druid)
+a piece of sweet bread [6]
+a glowing scroll of recall..it glows dimly [2]
+a portable keg
+a small wooden chest
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:8 Exits:NESWUD> 
+Flaura says 'I have word already greg'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:6 Exits:NESWUD> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (excellent)     **  miscellaneous (awful)           
+
+     turn          (bad)             
+     divinity      (below average)     meditate      (good)            
+     bandage       (below average)     brew          (very poor)       
+     scribe        (poor)            
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:6 Exits:NESWUD> 
+Lena snickers softly.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:7 T:2 Exits:NESWUD> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:3 T:1 Exits:NESWUD> [0;37mb[0m
+
+Lena closes her prayerbook with a content look on her face.
+Lena drops the personal key of the foreman.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:60 Exits:NESWUD> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+Maui flies east.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:59 Exits:NESWUD> 
+Maui flies in from the east.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:58 Exits:NESWUD> 
+Maui flies down.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:58 Exits:NESWUD> 
+Lena says 'chip want to zone a bit?'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:49 Exits:NESWUD> 
+Lena drops a glowing spider's web.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:41 Exits:NESWUD> 
+Maui flies in from below.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:38 Exits:NESWUD> 
+Lena says 'shaman relearn'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:36 Exits:NESWUD> 
+The stronghold receptionist gives Maui an offer.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:34 Exits:NESWUD> [0m[1;34;49mPRIVATE MESSAGE FROM The stronghold receptionist: 'You need at least 4885 coins to rent.'[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM The stronghold receptionist: 'You will be able to rent for 31 days.'[0m
+
+Flaura gets a glowing spider's web.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:29 Exits:NESWUD> 
+The stronghold receptionist shows Maui to his room.
+Maui stops following you.
+[37mYour clanmate Maui has left the game.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:28 Exits:NESWUD> [0m[1;34;49mPRIVATE MESSAGE FROM The stronghold receptionist: 'You need at least 4885 coins to rent.'[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM The stronghold receptionist: 'You will be able to rent for 31 days.'[0m
+
+Flaura says 'where does it pop?'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:26 Exits:NESWUD> [0m#SESSION 'a' ACTIVATED.[0m
+[0;37m[0m
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:24 Exits:NESWUD> [0;37moffer[0m
+[33m[1m                 a spiderweb necklace (B2 CASTER NECK) : 450 coins/day
+[0;37m[33m[1m                a hooded red chasuble (cleric 1@6 antiE 18*) : 225 coins/day
+[0;37m[33m[1m    a pair of steel-rimmed spectacles : 36 coins/day
+[0;37m[33m[1m           brass dragonscale leggings (ac-10 str1 imm_heat *set*) : 270 coins/day
+[0;37m[33m[1m              a pair of dwarven boots : 27 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 108 coins/day
+[0;37m[33m[1m                  spun silver sleeves (dex1 ac-9 antiE) : 63 coins/day
+[0;37m[33m[1m            an ancient tattered cloak : 540 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 45 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 9 coins/day
+[0;37m[33m[1m           a sphagnum peat moss patch : 2 coins/day
+[0;37m[33m[1m the tooth of a dragon encased in ice : 4 coins/day
+[0;37m[33m[1m                    a meteor fragment : 2 coins/day
+[0;37m[33m[1m          a handful of ogre teeth [2] : 4 coins/day
+[0;37m[33m[1m                      some poison ivy : 1 coin/day
+[0;37m[33m[1m              a jar of smelling salts : 1 coin/day
+[0;37m[33m[1m           an intricately carved horn : 2 coins/day
+[0;37m[33m[1m                a light-bending prism : 2 coins/day
+[0;37m[33m[1m     some translucent crystal marbles : 1 coin/day
+[0;37m[33m[1m                 a sample of cinnabar : 1 coin/day
+[0;37m[33m[1m             a small block of granite : 1 coin/day
+[0;37m[33m[1m              some bitten fingernails : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m[1m           a forest green dragon tear : 1 coin/day
+[0;37m[33m[1m      a miniscule cedar picture frame : 2 coins/day
+[0;37m[33m[1m                         a bloodstone : 2 coins/day
+[0;37m[33m[1m                a clump of damp mulch : 1 coin/day
+[0;37m[33m[1m                      an owl beak [2] : 2 coins/day
+[0;37m[33m[1m              a magnetized needle [2] : 2 coins/day
+[0;37m[33m[1m                a brilliant blue bead : 1 coin/day
+[0;37m[33m[1m        a neatly folded parchment fan : 1 coin/day
+[0;37m[33m[1m         a delicate honeysuckle bloom : 0 coins/day
+[0;37m[33m[1m                a drop of human sweat : 0 coins/day
+[0;37m[33m[1m         a powerfully blessed bandage : 0 coins/day
+[0;37m[33m[1m     a transparent fishscale bracelet : 45 coins/day
+[0;37m[33m[1m    a time-lost mist enshrouded watch (D4+ CASTER WRIST) : 1485 coins/day
+[0;37m[33m[1m            a colossal blackened maul : 1552 coins/day
+[0;37m[33m          a pinch of powdered azurite : 18 coins/day
+[0;37m[33m               a juicy piece of steak : 1 coin/day
+[0;37m[33m    a pair of steel-rimmed spectacles : 360 coins/day
+[0;37m[33m             a mask of writhing vines (int/wis1 druid) : 540 coins/day
+[0;37m[33m           a piece of sweet bread [6] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [2] : 26 coins/day
+[0;37m[33m                       a portable keg : 5 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m  a foremans belt with a large buckle (str health5 *19) : 810 coins/day
+[0;37m[32ma thinly pressed, round platinum wafer : 4 coins/day
+[0;37m[32m                  a magnetized needle : 1 coin/day
+[0;37m[32m           a pair of albino bat wings : 1 coin/day
+[0;37m[32m        a few glittering snake scales : 1 coin/day
+[0;37m[32m            a murky vial of squid ink : 2 coins/day
+[0;37m[32m               a scratched glass lens : 0 coins/day
+[0;37m[32m               a newly spun chrysalis : 1 coin/day
+[0;37m[32m             the tears of a saint [2] : 8 coins/day
+[0;37m[32m               a vial of spinal fluid : 2 coins/day
+[0;37m[32m           a small flask of smoke [2] : 4 coins/day
+[0;37m[32m                a vial of vinegar [2] : 2 coins/day
+[0;37m[32m         a drop of black dragon blood : 2 coins/day
+[0;37m[32m             a smooth blank runestone : 0 coins/day
+[0;37m[32m          a pinch of white talcum [2] : 2 coins/day
+[0;37m[32m                 a sample of cinnabar : 1 coin/day
+[0;37m[32m                 powdered bull's horn : 1 coin/day
+[0;37m[32m              a jar of smelling salts : 1 coin/day
+[0;37m[32m                some moldy bone chips : 0 coins/day
+[0;37m[32m                 a bleached bone disc : 2 coins/day
+[0;37m[32m         a thimble of human blood [2] : 4 coins/day
+[0;37m[32m               a length of kudzu vine : 2 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32ma torn page from an ancient calendar [4] : 8 coins/day
+[0;37m[32m         a small blue-green agate [2] : 2 coins/day
+[0;37m[32m           a broken piece of a mirror : 0 coins/day
+[0;37m[32m                   a pineal gland [4] : 4 coins/day
+[0;37m[32m                          an owl beak : 1 coin/day
+[0;37m[32m                 some dried bat guano : 0 coins/day
+[0;37m[32m      a leather pouch of vampire dust : 1 coin/day
+[0;37m[32m           a piece of broken pond ice : 2 coins/day
+[0;37m[32m             a mummified bullfrog leg : 2 coins/day
+[0;37m[32m          a lump of blood red mud [3] : 3 coins/day
+[0;37m[32m     dirt from a long forgotten grave : 0 coins/day
+[0;37m[32m               a tiny hearing trumpet : 0 coins/day
+[0;37m[32m                an indigo dragon tear : 1 coin/day
+[0;37m[32m    a neatly folded parchment fan [2] : 2 coins/day
+[0;37m[32m         a section of a hornet's nest : 2 coins/day
+[0;37m[32m                     a short iron bar : 1 coin/day
+[0;37m[32ma small pink and red swirled conch shell : 1 coin/day
+[0;37m[32m          a small vial of quicksilver : 4 coins/day
+[0;37m[32m               some leaves of hemlock : 1 coin/day
+[0;37m[32m       a patch of phosphorescent moss : 1 coin/day
+[0;37m[32m                  a tuft of skunk fur : 2 coins/day
+[0;37m[32m                a flattened lead disc : 2 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m            a splintered demon's horn : 2 coins/day
+[0;37m[32m              some bitten fingernails : 1 coin/day
+[0;37m[32m               flakes of leprous skin : 2 coins/day
+[0;37m[32m                 a sprig of spearmint : 2 coins/day
+[0;37m[32m           an intricately carved horn : 2 coins/day
+[0;37m[32m                     a miniature bell : 0 coins/day
+[0;37m[32m         a sprig of festive mistletoe : 0 coins/day
+[0;37m[32m                           a rose bud : 0 coins/day
+[0;37m[32m                     a fulgurite tube : 0 coins/day
+[0;37m[32m               a glowing yellow stone (res_elec20) : 45 coins/day
+[0;37m[32m             a smear of green mud [2] : 2 coins/day
+[0;37m[32m        the hind leg of a grasshopper : 0 coins/day
+[0;37m[32m                a deformed crow's leg : 1 coin/day
+[0;37m[32m              a drop of glacial water : 2 coins/day
+[0;37m[32m            a tiny bronze weathervane : 2 coins/day
+[0;37m[32m          an armaboro hide wristguard : 54 coins/day
+[0;37m[32ma pink and black mottled snake tongue : 1 coin/day
+[0;37m[32m   a few strands of finely woven hemp : 1 coin/day
+[0;37m[32m                       a garlic clove : 0 coins/day
+[0;37m[32m                     a hooded lantern : 0 coins/day
+[0;37m[32m                      a wrist lantern : 0 coins/day
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0;37mThe stronghold receptionist tells you 'You need at least 6847 coins to rent.'
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+The stronghold receptionist tells you 'You will be able to rent for 23 days.'
+Flaura drops a tablet engraved with emeralds.
+Lena says 'the gloves?'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:15 Exits:NESWUD> [0;37min[0m
+You are carrying:
+a pinch of powdered azurite
+a juicy piece of steak
+a pair of steel-rimmed spectacles
+a mask of writhing vines (int/wis1 druid)
+a piece of sweet bread [6]
+a glowing scroll of recall..it glows dimly [2]
+a portable keg
+a small wooden chest
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:14 Exits:NESWUD> 
+Flaura says 'the web'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:13 Exits:NESWUD> [0;37msc[0m
+You are Baldr the Male Minotaur, a level 28 Cleric.
+You are a Neophyte in Myth.
+You are rank 13. You have completed 93.57% of your next rank.
+You are 17 years old.
+You have 399(399) hit and 131(131) movement points.
+Your behaviour has been Neutral.
+You have scored 82,524,608 exp, and have 7931(45000) steel coins.
+You need 7,475,392 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 1 hour(s) and 9 minute(s).
+You have been playing for 1 day(s), 7 hour(s) and 20 minute(s).
+Your natural ability scores are:
+        Str: 20 Int: 15 Wis: 17 Dex: 11 Con: 16 Cha: 15
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are resting.
+You are flying.
+You are following Lena.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:9 Exits:NESWUD> 
+Flaura says 'and yes sure the gloves'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:8 Exits:NESWUD> 
+Lena says 'any shjaman mob can drop it'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:5 Exits:NESWUD> 
+Lena says 'gloves are from upper thorb'
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:60 Exits:NESWUD> [0;37md[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:58 Exits:NESWUD> [0;37ms[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:58 Exits:NESWUD> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:57 Exits:NESWUD> [0;37md[0m
+Adanac flies in from above.
+[35mThe City Portal of Myth[0;37m
+[33m[1mA magical ward protects the stronghold.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m130V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:57 Exits:NESWU> [0;37ms[0m
+Adanac flies in from the north.
+[35mThe Alchemy Lab of Myth[0;37m
+[33m[1mA magical ward protects the stronghold.
+[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+The clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:56 Exits:NW> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:54 Exits:NW> [0;37mbrew recipes[0m
+You know the recipes to brew the following spells:
+
+ aid
+   1 Low Protection
+
+ bless
+   1 Low Combat
+
+*cure light
+   1 Low Healing
+
+*detect evil
+   1 Low Divination
+
+*silence
+   1 Mid Alteration
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:51 Exits:NW> [0;37mbrew 'cure li'[0m
+You can't remember how to cast that spell!
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:47 Exits:NW> [0;37mbrew 'det ev'[0m
+The broken piece of mirror reflects its last image before shattering.
+You get an empty potion bottle from a cabinet.
+You lose concentration while brewing to an empty potion bottle.
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:43 Exits:NW> [0;37mscribe 'sil'[0m
+The snake scales glitter brightly as you sprinkle them on your work.
+You get a blank scroll from a shelf.
+You exhaust yourself while scribing the spell to a blank scroll.
+[38;5;127mYou feel enlightened.[0m
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:39 Exits:NW> [0;37mski[0m
+[0;37mdrop all.scribed[0m
+[0;37mdrop all.brewed[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (excellent)     **  miscellaneous (awful)           
+
+     turn          (bad)             
+     divinity      (below average)     meditate      (good)            
+     bandage       (below average)     brew          (very poor)       
+     scribe        (poor)          **
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:27 Exits:NW> 
+You drop a scribed scroll of silence.
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:27 Exits:NW> 
+You can't seem to find that!
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:26 Exits:NW> 
+Lena flies in from the north.
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:25 Exits:NW> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m399H [0;37m[32m129V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:25 Exits:NW> [0;37mn[0m
+Adanac flies in from the south.
+[35mThe City Portal of Myth[0;37m
+[33m[1mA magical ward protects the stronghold.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m128V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:24 Exits:NESWU> 
+Lena flies in from the south.
+
+[32m[0;37m[32m399H [0;37m[32m128V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:18 Exits:NESWU> 
+Lena flies up.
+You follow Lena up.
+Adanac flies in from below.
+[35mThe Inn of Myth[0;37m
+[33m[1mA tablet engraved with emeralds lies here, forgotten.
+A key of dwarven nature is here, glittering in the dust.
+A scribed scroll lies here discarded. [3]
+[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+<Myth> Lena the Female Irda is standing here. (flying) (invisible) (white aura)
+Flaura the Female Qualinesti is standing here. (flying) (invisible)
+<Myth> Phynn the Male Kagonesti is standing here.
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m127V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:18 Exits:NESWUD> [0;37mfol me[0m
+You stop following Lena.
+
+[32m[0;37m[32m399H [0;37m[32m127V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:15 Exits:NESWUD> [0;37me[0m
+Adanac flies in from the west.
+[35mThe Library of Myth[0;37m
+[33m[1m[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m126V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:14 Exits:W> [0;37mw[0m
+Adanac flies in from the east.
+[35mThe Inn of Myth[0;37m
+[33m[1mA tablet engraved with emeralds lies here, forgotten.
+A key of dwarven nature is here, glittering in the dust.
+A scribed scroll lies here discarded. [3]
+[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+You see the outline of a life form here, carrying: a glowing ball of fire; a fire-blasted shield.
+Flaura the Female Qualinesti is standing here. (flying) (invisible)
+<Myth> Phynn the Male Kagonesti is standing here.
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m125V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:13 Exits:NESWUD> [0;37md[0m
+Adanac flies in from above.
+[35mThe City Portal of Myth[0;37m
+[33m[1mA magical ward protects the stronghold.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:13 Exits:NESWU> [0;37me[0m
+Adanac flies in from the west.
+[36mAmongst Some Grain Fields[0;37m
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1m<Myth> Adanac the Male Dargonesti is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m123V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:12 Exits:NSW> [0;37mgroup form[0m
+Nobody found to form a group with.
+
+[32m[0;37m[32m399H [0;37m[32m123V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:9 Exits:NSW> 
+Adanac stops following you.
+
+[32m[0;37m[32m399H [0;37m[32m123V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:8 Exits:NSW> [0;37me[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m399H [0;37m[32m123V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:6 Exits:NSW> 
+Flaura flies in from the west.
+
+[32m[0;37m[32m399H [0;37m[32m123V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:6 Exits:NSW> [0;37ms[0m
+
+Flaura flies south.
+
+[32m[0;37m[32m399H [0;37m[32m123V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:6 Exits:NSW> 
+[36mThe Thinning Forest[0;37m
+[33m[1m[0;37m[31m[1mFlaura the Female Qualinesti is standing here. (flying) (invisible)
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m121V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:6 Exits:NS> [0;37ms[0m
+[36mAlong the Shore of Crystalmir[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m119V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:5 Exits:NES> 
+Flaura flies in from the north.
+
+[32m[0;37m[32m399H [0;37m[32m119V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:5 Exits:NES> [0;37me[0m
+[36mAt the Edge of Nearfields[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m117V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:4 Exits:EW> [0;37me[0m
+[36mA Narrow Road[0;37m
+[33m[1m[0;37m[31m[1mA fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m115V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:4 Exits:NSW> [0;37ms[0m
+[36mA Narrow Road[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m113V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:4 Exits:NS> [0;37ms[0m
+[36mThe Northern Gate of Solace[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA menacing rottweiler circles here barking at some shadows.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m112V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:4 Exits:NS> [0;37ms[0m
+[36mIntersection of Northern Avenue and Perimeter Street[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA janitor is walking around, cleaning up. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m111V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:3 Exits:NES> [0;37ms[0m
+[36mNorthern Avenue[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m110V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:3 Exits:NES> [0;37ms[0m
+[36mNorthern Avenue[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA long-tailed ground dove sits here on a low branch.
+A plump housewife walks past carrying a basket full of groceries.
+A Seeker priest stands here trying to convert unbelievers.
+A small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m109V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:3 Exits:NSW> [0;37ms[0m
+[36mNorthern Avenue[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA small kitten rummages through a pile of vallenwood leaves.
+A stray dog slowly moves about the area, sniffing the nearby trees.
+[0;37mA small kitten pounces on a piece of dirt.
+
+[32m[0;37m[32m399H [0;37m[32m108V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:3 Exits:NSWU> [0;37ms[0m
+[36mSolace Square[0;37m
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m107V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:2 Exits:NESWU> 
+You can't put liquids in a spiderweb necklace (B2 CASTER NECK)!
+You can't put liquids in a hooded red chasuble (cleric 1@6 antiE 18*)!
+You can't put liquids in a pair of steel-rimmed spectacles!
+You can't put liquids in brass dragonscale leggings (ac-10 str1 imm_heat *set*)!
+You can't put liquids in a pair of dwarven boots!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in spun silver sleeves (dex1 ac-9 antiE)!
+You can't put liquids in an ancient tattered cloak!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a transparent fishscale bracelet!
+You can't put liquids in a time-lost mist enshrouded watch (D4+ CASTER WRIST)!
+You can't put liquids in a colossal blackened maul!
+You can't put liquids in a pinch of powdered azurite!
+You can't put liquids in a juicy piece of steak!
+You can't put liquids in a pair of steel-rimmed spectacles!
+You can't put liquids in a mask of writhing vines (int/wis1 druid)!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You fill a portable keg from the stone fountain.
+You can't put liquids in a small wooden chest!
+
+[32m[0;37m[32m399H [0;37m[32m107V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:2 Exits:NESWU> [0;37mu[0m
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+A Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m106V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:2 Exits:NESWUD> [0;37ms[0m
+[36mOn a Vallenwood Bough[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m104V [0;37m7475392X 93.57% 7931C [0;37mMem:2 T:2 Exits:NEWU> [0;37me[0m
+[36mThe Temple of Healing Arts[0;37m
+[33m[1m[0;37m[31m[1mLady Camilla walks around gracefully as she blesses the congregation.
+[0;37m
+[32m[0;37m[32m399H [0;37m[33m[1m103V [0;37m7475392X 93.57% 7931C [0;37mMem:1 T:1 Exits:W> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mT:60 Exits:W> [0;37mlearn all[0m
+Lady Camilla instructs you in the skill 'scribe'.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mT:60 Exits:W> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (excellent)     **  miscellaneous (awful)           
+
+     turn          (bad)             
+     divinity      (below average)     meditate      (good)            
+     bandage       (below average)     brew          (very poor)       
+     scribe        (poor)            
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mT:59 Exits:W> [0;37msc[0m
+You are Baldr the Male Minotaur, a level 28 Cleric.
+You are a Neophyte in Myth.
+You are rank 13. You have completed 93.57% of your next rank.
+You are 17 years old.
+You have 399(399) hit and 131(131) movement points.
+Your behaviour has been Neutral.
+You have scored 82,524,608 exp, and have 7931(45000) steel coins.
+You need 7,475,392 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 1 hour(s) and 10 minute(s).
+You have been playing for 1 day(s), 7 hour(s) and 21 minute(s).
+Your natural ability scores are:
+        Str: 20 Int: 15 Wis: 17 Dex: 11 Con: 16 Cha: 15
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are flying.
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mT:57 Exits:W> [0;37mrank[0m
+You are rank 13. You have 7 Rank Points to spend.
+
+Your current rank affects:
+
+1  Sea & Air              WATERBREATH CAN_FLY           
+2  Soul Armor             NOCHARM IMMUNE_CURSE          
+
+[32m[0;37m[32m399H [0;37m[32m131V [0;37m7475392X 93.57% 7931C [0;37mT:54 Exits:W> [0;37mw[0m
+[36mOn a Vallenwood Bough[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m130V [0;37m7475392X 93.57% 7931C [0;37mT:51 Exits:NEWU> [0;37md[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m399H [0;37m[32m130V [0;37m7475392X 93.57% 7931C [0;37mT:50 Exits:NEWU> [0;37mn[0m
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+A Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m128V [0;37m7475392X 93.57% 7931C [0;37mT:50 Exits:NESWUD> 
+Bored with this area, a young child runs south.
+
+[32m[0;37m[32m399H [0;37m[32m128V [0;37m7475392X 93.57% 7931C [0;37mT:50 Exits:NESWUD> [0;37md[0m
+[36mSolace Square[0;37m
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m127V [0;37m7475392X 93.57% 7931C [0;37mT:50 Exits:NESWU> 
+You can't put liquids in a spiderweb necklace (B2 CASTER NECK)!
+You can't put liquids in a hooded red chasuble (cleric 1@6 antiE 18*)!
+You can't put liquids in a pair of steel-rimmed spectacles!
+You can't put liquids in brass dragonscale leggings (ac-10 str1 imm_heat *set*)!
+You can't put liquids in a pair of dwarven boots!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in spun silver sleeves (dex1 ac-9 antiE)!
+You can't put liquids in an ancient tattered cloak!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a transparent fishscale bracelet!
+You can't put liquids in a time-lost mist enshrouded watch (D4+ CASTER WRIST)!
+You can't put liquids in a colossal blackened maul!
+You can't put liquids in a pinch of powdered azurite!
+You can't put liquids in a juicy piece of steak!
+You can't put liquids in a pair of steel-rimmed spectacles!
+You can't put liquids in a mask of writhing vines (int/wis1 druid)!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+There is no room for more.
+You can't put liquids in a small wooden chest!
+
+[32m[0;37m[32m399H [0;37m[32m127V [0;37m7475392X 93.57% 7931C [0;37mT:49 Exits:NESWU> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A small kitten rummages through a pile of vallenwood leaves.
+A stray dog slowly moves about the area, sniffing the nearby trees.
+[0;37mA small kitten purrs contentedly.
+
+[32m[0;37m[32m399H [0;37m[32m126V [0;37m7475392X 93.57% 7931C [0;37mT:49 Exits:NSWU> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA long-tailed ground dove sits here on a low branch.
+A plump housewife walks past carrying a basket full of groceries.
+A Seeker priest stands here trying to convert unbelievers.
+A small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m125V [0;37m7475392X 93.57% 7931C [0;37mT:49 Exits:NSW> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m124V [0;37m7475392X 93.57% 7931C [0;37mT:49 Exits:NES> [0;37mn[0m
+[36mIntersection of Northern Avenue and Perimeter Street[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m123V [0;37m7475392X 93.57% 7931C [0;37mT:48 Exits:NES> [0;37mn[0m
+[36mThe Northern Gate of Solace[0;37m
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA menacing rottweiler circles here barking at some shadows.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m122V [0;37m7475392X 93.57% 7931C [0;37mT:48 Exits:NS> [0;37mn[0m
+[36mA Narrow Road[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m121V [0;37m7475392X 93.57% 7931C [0;37mT:47 Exits:NS> [0;37mn[0m
+[36mA Narrow Road[0;37m
+[33m[1m[0;37m[31m[1mA fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m119V [0;37m7475392X 93.57% 7931C [0;37mT:46 Exits:NSW> [0;37mw[0m
+[36mAt the Edge of Nearfields[0;37m
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m117V [0;37m7475392X 93.57% 7931C [0;37mT:46 Exits:EW> [0;37mw[0m
+[36mAlong the Shore of Crystalmir[0;37m
+[33m[1m[0;37m[31m[1mYou sense a life form.
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m115V [0;37m7475392X 93.57% 7931C [0;37mT:46 Exits:NES> [0;37mn[0m
+[36mThe Thinning Forest[0;37m
+[33m[1m[0;37m[31m[1mA fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m113V [0;37m7475392X 93.57% 7931C [0;37mT:45 Exits:NS> [0;37mn[0m
+[36mAmongst Some Grain Fields[0;37m
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m111V [0;37m7475392X 93.57% 7931C [0;37mT:45 Exits:NSW> [0;37mw[0m
+[35mThe City Portal of Myth[0;37m
+[33m[1mA magical ward protects the stronghold.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m399H [0;37m[32m110V [0;37m7475392X 93.57% 7931C [0;37mT:44 Exits:NESWU> [0;37mu[0m
+[35mThe Inn of Myth[0;37m
+[33m[1mA tablet engraved with emeralds lies here, forgotten.
+A key of dwarven nature is here, glittering in the dust.
+A scribed scroll lies here discarded. [3]
+[0;37m[31m[1m<Myth> Phynn the Male Kagonesti is standing here.
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m109V [0;37m7475392X 93.57% 7931C [0;37mT:44 Exits:NESWUD> 
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[36mLena tells your clan 'kk'
+[0;37m
+[32m[0;37m[32m399H [0;37m[32m109V [0;37m7475392X 93.57% 7931C [0;37mT:38 Exits:NESWUD> [0;37mrent[0m
+[33m[1m                 a spiderweb necklace (B2 CASTER NECK) : 450 coins/day
+[0;37m[33m[1m                a hooded red chasuble (cleric 1@6 antiE 18*) : 225 coins/day
+[0;37m[33m[1m    a pair of steel-rimmed spectacles : 36 coins/day
+[0;37m[33m[1m           brass dragonscale leggings (ac-10 str1 imm_heat *set*) : 270 coins/day
+[0;37m[33m[1m              a pair of dwarven boots : 27 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 108 coins/day
+[0;37m[33m[1m                  spun silver sleeves (dex1 ac-9 antiE) : 63 coins/day
+[0;37m[33m[1m            an ancient tattered cloak : 540 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 45 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 9 coins/day
+[0;37m[33m[1m           a sphagnum peat moss patch : 2 coins/day
+[0;37m[33m[1m the tooth of a dragon encased in ice : 4 coins/day
+[0;37m[33m[1m                    a meteor fragment : 2 coins/day
+[0;37m[33m[1m          a handful of ogre teeth [2] : 4 coins/day
+[0;37m[33m[1m                      some poison ivy : 1 coin/day
+[0;37m[33m[1m              a jar of smelling salts : 1 coin/day
+[0;37m[33m[1m           an intricately carved horn : 2 coins/day
+[0;37m[33m[1m                a light-bending prism : 2 coins/day
+[0;37m[33m[1m     some translucent crystal marbles : 1 coin/day
+[0;37m[33m[1m                 a sample of cinnabar : 1 coin/day
+[0;37m[33m[1m             a small block of granite : 1 coin/day
+[0;37m[33m[1m              some bitten fingernails : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m[1m           a forest green dragon tear : 1 coin/day
+[0;37m[33m[1m      a miniscule cedar picture frame : 2 coins/day
+[0;37m[33m[1m                         a bloodstone : 2 coins/day
+[0;37m[33m[1m                a clump of damp mulch : 1 coin/day
+[0;37m[33m[1m                      an owl beak [2] : 2 coins/day
+[0;37m[33m[1m              a magnetized needle [2] : 2 coins/day
+[0;37m[33m[1m                a brilliant blue bead : 1 coin/day
+[0;37m[33m[1m        a neatly folded parchment fan : 1 coin/day
+[0;37m[33m[1m         a delicate honeysuckle bloom : 0 coins/day
+[0;37m[33m[1m                a drop of human sweat : 0 coins/day
+[0;37m[33m[1m         a powerfully blessed bandage : 0 coins/day
+[0;37m[33m[1m     a transparent fishscale bracelet : 45 coins/day
+[0;37m[33m[1m    a time-lost mist enshrouded watch (D4+ CASTER WRIST) : 1485 coins/day
+[0;37m[33m[1m            a colossal blackened maul : 1552 coins/day
+[0;37m[33m          a pinch of powdered azurite : 18 coins/day
+[0;37m[33m               a juicy piece of steak : 1 coin/day
+[0;37m[33m    a pair of steel-rimmed spectacles : 360 coins/day
+[0;37m[33m             a mask of writhing vines (int/wis1 druid) : 540 coins/day
+[0;37m[33m           a piece of sweet bread [6] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [2] : 26 coins/day
+[0;37m[33m                       a portable keg : 5 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m  a foremans belt with a large buckle (str health5 *19) : 810 coins/day
+[0;37m[32ma thinly pressed, round platinum wafer : 4 coins/day
+[0;37m[32m                  a magnetized needle : 1 coin/day
+[0;37m[32m           a pair of albino bat wings : 1 coin/day
+[0;37m[32m            a murky vial of squid ink : 2 coins/day
+[0;37m[32m               a scratched glass lens : 0 coins/day
+[0;37m[32m               a newly spun chrysalis : 1 coin/day
+[0;37m[32m             the tears of a saint [2] : 8 coins/day
+[0;37m[32m               a vial of spinal fluid : 2 coins/day
+[0;37m[32m           a small flask of smoke [2] : 4 coins/day
+[0;37m[32m                a vial of vinegar [2] : 2 coins/day
+[0;37m[32m         a drop of black dragon blood : 2 coins/day
+[0;37m[32m             a smooth blank runestone : 0 coins/day
+[0;37m[32m          a pinch of white talcum [2] : 2 coins/day
+[0;37m[32m                 a sample of cinnabar : 1 coin/day
+[0;37m[32m                 powdered bull's horn : 1 coin/day
+[0;37m[32m              a jar of smelling salts : 1 coin/day
+[0;37m[32m                some moldy bone chips : 0 coins/day
+[0;37m[32m                 a bleached bone disc : 2 coins/day
+[0;37m[32m         a thimble of human blood [2] : 4 coins/day
+[0;37m[32m               a length of kudzu vine : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [4] : 8 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m         a small blue-green agate [2] : 2 coins/day
+[0;37m[32m                   a pineal gland [4] : 4 coins/day
+[0;37m[32m                          an owl beak : 1 coin/day
+[0;37m[32m                 some dried bat guano : 0 coins/day
+[0;37m[32m      a leather pouch of vampire dust : 1 coin/day
+[0;37m[32m           a piece of broken pond ice : 2 coins/day
+[0;37m[32m             a mummified bullfrog leg : 2 coins/day
+[0;37m[32m          a lump of blood red mud [3] : 3 coins/day
+[0;37m[32m     dirt from a long forgotten grave : 0 coins/day
+[0;37m[32m               a tiny hearing trumpet : 0 coins/day
+[0;37m[32m                an indigo dragon tear : 1 coin/day
+[0;37m[32m    a neatly folded parchment fan [2] : 2 coins/day
+[0;37m[32m         a section of a hornet's nest : 2 coins/day
+[0;37m[32m                     a short iron bar : 1 coin/day
+[0;37m[32ma small pink and red swirled conch shell : 1 coin/day
+[0;37m[32m          a small vial of quicksilver : 4 coins/day
+[0;37m[32m               some leaves of hemlock : 1 coin/day
+[0;37m[32m       a patch of phosphorescent moss : 1 coin/day
+[0;37m[32m                  a tuft of skunk fur : 2 coins/day
+[0;37m[32m                a flattened lead disc : 2 coins/day
+[0;37m[32m            a splintered demon's horn : 2 coins/day
+[0;37m[32m              some bitten fingernails : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m               flakes of leprous skin : 2 coins/day
+[0;37m[32m                 a sprig of spearmint : 2 coins/day
+[0;37m[32m           an intricately carved horn : 2 coins/day
+[0;37m[32m                     a miniature bell : 0 coins/day
+[0;37m[32m         a sprig of festive mistletoe : 0 coins/day
+[0;37m[32m                           a rose bud : 0 coins/day
+[0;37m[32m                     a fulgurite tube : 0 coins/day
+[0;37m[32m               a glowing yellow stone (res_elec20) : 45 coins/day
+[0;37m[32m             a smear of green mud [2] : 2 coins/day
+[0;37m[32m        the hind leg of a grasshopper : 0 coins/day
+[0;37m[32m                a deformed crow's leg : 1 coin/day
+[0;37m[32m              a drop of glacial water : 2 coins/day
+[0;37m[32m            a tiny bronze weathervane : 2 coins/day
+[0;37m[32m          an armaboro hide wristguard : 54 coins/day
+[0;37m[32ma pink and black mottled snake tongue : 1 coin/day
+[0;37m[32m   a few strands of finely woven hemp : 1 coin/day
+[0;37m[32m                       a garlic clove : 0 coins/day
+[0;37m[32m                     a hooded lantern : 0 coins/day
+[0;37m[32m                      a wrist lantern : 0 coins/day
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+[0;37mThe stronghold receptionist tells you 'You need at least 6846 coins to rent.'
+[0m#ERROR: #UNKNOWN TINTIN-COMMAND 'b'.[0m
+The stronghold receptionist tells you 'You will be able to rent for 23 days.'
+The stronghold receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

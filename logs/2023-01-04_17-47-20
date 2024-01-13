@@ -1,0 +1,176 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+
+You were last connected Thu Jan 05 00:35:03 2023 UTC from 73.181.104.224.
+Reconnecting.
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m23298985X 10.92% 2094C [0;37mT:42 Exits:D> l
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA pair of bracers the color of night lie here unscathed...it emits an arcane glow
+A slender platinum key lies here.
+There is a large golden key in the drawer.
+A potion is lying here. [8]
+A small roll of bread lies here...it emits an arcane glow [21]
+A brewed potion lies discarded here...it emits an arcane glow [4]
+A blue infinity symbol lies at your feet...it emits an arcane glow
+An old looking key with a chain has been dropped here.
+[0;37m[31m[1mThe stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m23298985X 10.92% 2094C [0;37mT:41 Exits:D> study book
+You slowly open the shimmering prayerbook, trembling with anticipation.
+As you lay eyes upon the pages within the book, the shimmering quickly
+threatens to blind you and you squint your eyes as best you can so that you
+may continue reading on. Your eyes blur from the strain but your focus
+holds long enough for you to begin to understand the intricate patters of
+runes on the pages. The blinding light suddenly fades away and you find
+yourself with the knowledge of the spell 'steelskin' written into your prayerbook.
+As you close the cover of the book it disappears in a violent flash of
+light!
+
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m23298985X 10.92% 2094C [0;37mT:38 Exits:D> rent
+[33m[1m   a priestly amethyst encrusted ring : 135 coins/day
+[0;37m[33m[1m                a black and gold cape : 252 coins/day
+[0;37m[33m[1m      a devotee's chasuble of worship : 324 coins/day
+[0;37m[33m[1m a flawless onyx diadem of fanaticism : 378 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship : 297 coins/day
+[0;37m[33m[1m some sparkling slippers of atonement : 54 coins/day
+[0;37m[33m[1m      some stately gloves of devotion : 63 coins/day
+[0;37m[33m[1ma luxurious silvery drape of sanctity : 189 coins/day
+[0;37m[33m[1m      a village elder's belt of faith : 81 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 9 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 2 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 2 coins/day
+[0;37m[33m[1m              a magnetized needle [4] : 4 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 8 coins/day
+[0;37m[33m[1m              some bitten fingernails : 1 coin/day
+[0;37m[33m[1m                      a bit of fleece : 2 coins/day
+[0;37m[33m[1m    a few glittering snake scales [2] : 2 coins/day
+[0;37m[33m[1m            a deformed crow's leg [2] : 2 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 2 coins/day
+[0;37m[33m[1m                        a forked twig : 0 coins/day
+[0;37m[33m[1m       a piece of royal honeycomb [2] : 0 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 0 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 0 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 1 coin/day
+[0;37m[33m[1m        a neatly folded parchment fan : 1 coin/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 0 coins/day
+[0;37m[33m[1m                       a glass sliver : 0 coins/day
+[0;37m[33m[1m            a tiny bronze weathervane : 2 coins/day
+[0;37m[33m[1m           an intricately carved horn : 2 coins/day
+[0;37m[33m[1m                    some cat whiskers : 2 coins/day
+[0;37m[33m[1m                    some spruce seeds : 0 coins/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 2 coins/day
+[0;37m[33m[1m                       a pineal gland : 1 coin/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 2 coins/day
+[0;37m[33m[1m                     a scabbed potato : 0 coins/day
+[0;37m[33m[1m               a scratched glass lens : 0 coins/day
+[0;37m[33m[1m                     a short iron bar : 1 coin/day
+[0;37m[33m[1m             a small block of granite : 1 coin/day
+[0;37m[33m[1m             a small flask of bitumen : 2 coins/day
+[0;37m[33m[1m               a small flask of smoke : 2 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m[1m                 a snapdragon blossom : 0 coins/day
+[0;37m[33m[1m                a flattened lead disc : 2 coins/day
+[0;37m[33m[1m                a glass lightning jar : 0 coins/day
+[0;37m[33m[1m                a gleaming silver die : 1 coin/day
+[0;37m[33m[1m                  a hand-held sundial : 1 coin/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[33m[1m              a jar of dark red blood : 4 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 0 coins/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 2 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 0 coins/day
+[0;37m[33m[1m                   a bag of fluff [2] : 4 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 1 coin/day
+[0;37m[33m[1m                    a bottled firefly : 0 coins/day
+[0;37m[33m[1m                 a chipped stone dart : 0 coins/day
+[0;37m[33m[1m              a chiseled granite fist : 2 coins/day
+[0;37m[33m[1m                a clump of damp mulch : 1 coin/day
+[0;37m[33m[1m            a deep violet dragon tear : 1 coin/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 1 coin/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 1 coin/day
+[0;37m[33m[1m   a few strands of sticky spider web : 0 coins/day
+[0;37m[33m[1m        a crystal ruby studded bracer : 243 coins/day
+[0;37m[33m[1m           a fiery red austere bracer : 108 coins/day
+[0;37m[33m[1m            an enormous scorched maul : 225 coins/day
+[0;37m[33m           a glowing scroll of recall : 4 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 65 coins/day
+[0;37m[33m           a bright ball of light [3] : 0 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m                a meteor fragment [2] : 4 coins/day
+[0;37m[32m            a murky vial of squid ink : 2 coins/day
+[0;37m[32m                    a bottled firefly : 0 coins/day
+[0;37m[32m      a broken piece of stained glass : 0 coins/day
+[0;37m[32m                 some rose petals [2] : 2 coins/day
+[0;37m[32m         a chromatic crystalline bead : 4 coins/day
+[0;37m[32m  a dram of giant slug digestive acid : 1 coin/day
+[0;37m[32m                       a garlic clove : 0 coins/day
+[0;37m[32m                      a golden nugget : 1 coin/day
+[0;37m[32m      a leather pouch of vampire dust : 1 coin/day
+[0;37m[32m             a pearly white moonstone : 1 coin/day
+[0;37m[32m           a piece of broken pond ice : 2 coins/day
+[0;37m[32m               a small flask of smoke : 2 coins/day
+[0;37m[32m         a small spherical lode stone : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[32m    a thin slate of polished obsidian : 1 coin/day
+[0;37m[32ma torn page from an ancient calendar [2] : 4 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 2 coins/day
+[0;37m[32m               a vial of spinal fluid : 2 coins/day
+[0;37m[32m                    a vial of vinegar : 1 coin/day
+[0;37m[32mdirt from a long forgotten grave [19] : 0 coins/day
+[0;37m[32m             powdered bull's horn [2] : 2 coins/day
+[0;37m[32m               some leaves of hemlock : 1 coin/day
+[0;37m[32m                      some poison ivy : 1 coin/day
+[0;37m[33m               a wand of invisibility : 180 coins/day
+[0;37m[33m                  a wrist lantern [3] : 12 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 2722 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 51 days.'
+The stronghold receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 0
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

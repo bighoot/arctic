@@ -1,0 +1,27 @@
+perform_skill_gain - this function gets called to determine if you get a skill gain or not. However, is it not called every time you perform a skill. Each skill determines in its own way when you are eligible for a chance at a skill gain. Once that call is made, this function determines whether you get one or not. This function can be called whether you were successful in executing your skill or not and that affects the result of the skill gain.
+
+percent_failure = max_skill * 35 / 100 (this is used to allow you to get a skill gain on skill failures if you are still under 35% of the max skill, after your skill level exceeds the 35% level you will only get gains on skill successes)
+
+1. if (skill success) or (curr_skill < percent_failure), continue
+     chance_to_learn = 100 - curr_skill (at low skill values it is much easier to learn)
+
+2. if (curr_skill > wis_skill_cap) then you can still learn but you will get two penlties
+     subtract (curr_skill - wis_skill_cap) from your chance_to_learn
+     subtract wis_bonus from your chance_to_learn
+     (for example, a 16 wis has a wis_skill_cap of 77 and a wis_bonus of 2)
+
+3. if (chance_to_learn < 5) then set your chance_to_learn to 5 (this means you should      always have at least a 5% chance_to_learn regardless of Wis)
+
+4. add half your learn_mod to your chance_to_learn
+
+5. if your curr_Int is higher than your guild/race max, add the extra amount to your      chance_to_learn (wearing +int should increase your chance to learn)
+
+6. if skill is on train_cooldown then subtract the duration from your chance_to_learn
+
+7. if you have reincarnated then multiply your chance_to_learn by 4
+
+8. Roll a 1d100 and if it is equal to or less than your chance_to_learn, success!
+     You gain 1 skill point!
+
+9. Next, set the train_cooldown to (curr_skill / skill_max * 30)
+- 

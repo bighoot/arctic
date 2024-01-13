@@ -1,0 +1,15 @@
+Fanto - Red
+	Mass Invis		Yes
+	Spheres			_Low, Astinus
+	Read Magic		Yes
+	Blink			Yes
+	AMS				_Astinus
+	Relocate		_Astinus
+
+Strat - White
+	Relocate		_Physix
+	Ignite			_Physix
+	Juke			Yes
+	Fold Space		Yes
+	Cleanse			Yes
+	White Rune		Yes

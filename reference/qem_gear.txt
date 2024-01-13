@@ -1,0 +1,15 @@
+<worn on finger>           a rune etched mithril ring								Theiwar Priest?
+<worn on finger>           a ring of protection..it glows dimly						Cervos
+<worn on body>             a platinum gilt breast plate								?
+<worn on chest>            a gleaming silver medal (attuned)						-
+<worn on head>             a bronze dragon skull..it glows dimly					Incubator
+<worn on legs>             a pair of Solamnic leg plates							Pax
+<worn on feet>             a pair of black soldier boots							?
+<worn on hands>            a pair of finely crafted Solamnic gauntlets				Pax
+<worn on arms>             a set of pitch black vambraces							Soth
+<worn as shield>           a bright brass dragonscale shield..it glows dimly		Tarsis Quest
+<worn about body>          an ivory-colored leather backpack..it glows dimly		Dont Remember
+<worn about waist>         an iron dwarven girdle									Thorb
+<worn around right wrist>  an intricate black bracelet								Shoal
+<worn around left wrist>   an ergothian battle bracer								N Ergoth
+<used in primary hand>     a dwarven shatang										Bluff

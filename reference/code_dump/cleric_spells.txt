@@ -1,0 +1,291 @@
+!!!SPOILERS AHEAD!!! If you don't want to see any game info, do not read past this point. Below is information from the game files. Please do not copy and paste this info into another public forum. It would be obvious where the info comes from if you passed it on in this format. Feel free to give your other friends hints though.
+
+I might make this read_only in the future but I suspect there will be comments and questions so I'll leave it open for now.
+
+The numbers under each mob are: vnum - identifies the mob, spell table - which I conveniently pasted at the top of each tier, load chance - this is out of 10000 so 2200 = 22%, and load_type - EQ means its held, INV in inventory, etc.
+#----------------------------------------------
+#---- New Cleric Prayerbooks 12/2016 - Kam ----
+#----------------------------------------------
+#
+#---- TABLE:12801 CLERIC PRAYERBOOKS ONE ------
+# flamestrike        [12963] a golden book of prayer
+# holy aura          [12986] a vallenwood-hinged prayerbook
+# cure disease       [12961] a small prayerbook with carved wooden covers
+# circle 1-5 relearn [11916] a modest priestly sceptre
+#----------------------------------------------
+# Saeran - Patience/Haunting
+2820 12801 2000 EQ
+# Boldskar - Que-Teh
+25807 12801 3000 DEATH
+# Lady Argand - Argand Keep
+29902 12801 2500 DEATH
+# Wysteria - Newport
+20655 12801 2000 INV
+# Injara - Dragonarmy Outpost
+23424 12801 3000 EQ
+# dwarven cleric - Dwarven Keep
+7707 12801 2500 EQ
+# Kamithe - The Bog
+708 12801 3000 EQ
+# stingworm chest - Slaith Swamp
+5827 12801 3000 IN
+# priest of Morgion - Northern Ergoth
+24426 12801 3000 EQ
+# high priest - Haven Temple
+36208 12801 2000 EQ
+#----------------------------------------------
+#
+#---- TABLE:12802 CLERIC PRAYERBOOKS TWO ------
+# cloak of bravery   [12987] a vallenwood-hinged prayerbook
+# cause critical     [12962] a golden book of prayer
+# gust of wind       [12960] a small prayerbook with carved wooden covers
+# circle 1-5 relearn [11916] a modest priestly sceptre
+#----------------------------------------------
+# Wallran Heartfellow - Plains of Dust
+38202 12802 2000 EQ
+# Shuba - Deep Mine
+46200 12802 2000 EQ
+# Lemuria bookshelf - Great Western Ocean
+6116 12802 3000 IN
+# Terrapin - Haven Temple
+36284 12802 2000 EQ
+# Bobert - Northern Ergoth
+30610 12802 2000 EQ
+# priestess of Mishakal - Que-Kiri
+22013 12802 2500 DEATH
+# Grak - Temple of Grak
+25612 12802 2000 DEATH
+# high priest - Mystic Isles
+20005 12802 2500 EQ
+# Leylia - Kalaman Graveyard
+2205 12802 2000 EQ
+# an elderly cleric - Solamnic Encampment
+5622 12802 2000 INV
+#----------------------------------------------
+#
+#---- TABLE:12803 CLERIC PRAYERBOOKS THREE ----
+# npp                [12969] a frail prayerbook bound with gossamer
+# ancient curse      [12964] a little prayerbook with red pages
+# circle 1-8 relearn [11917] a radiant golden sceptre
+#----------------------------------------------
+# Illrigger priest - Northern Ergoth
+30636 12803 2000 INV
+# elder priest - Que Kul
+25012 12803 2000 DEATH
+# Alannah - Solamnic Outpost
+22712 12803 2000 EQ
+# powerful undead cleric - Ruined City
+31703 12803 2000 DEATH
+# high priestess of Reorx - Thorbardin
+8548 12803 2000 EQ
+# green high priest - Largus Sararian
+4501 12803 2000 EQ
+# crystal chest - Crystal Quest
+5710 12803 2000 IN
+#----------------------------------------------
+#
+#---- TABLE:12804 CLERIC PRAYERBOOKS FOUR -----
+# restoration        [12966] a brilliant platinum prayerbook
+# soul leech         [12968] a frail prayerbook bound with gossamer
+# circle 1-8 relearn [11917] a radiant golden sceptre
+#----------------------------------------------
+# Matilya - Lost Village (Pyramid)
+32499 12804 2000 DEATH
+# Pasal - Newport
+20730 12804 2000 INV
+# high priest - Dragonarmy Training
+24907 12804 2000 EQ
+# theiwar priest - Caverns of Theiwar
+1756 12804 2000 EQ
+# high priest - Cloud Kingdom
+9620 12804 2000 EQ
+# Aurinite King - Celestial Temple
+31000 12804 2000 DEATH
+# Forgotten Temple - Ombra
+37229 12804 2000 DEATH
+#----------------------------------------------
+#
+#---- TABLE:12805 CLERIC PRAYERBOOKS FIVE -----
+# word of recall     [12967] a brilliant platinum prayerbook
+# fortify self       [12965] a little prayerbook with red pages
+# gate               [12975] a prayerbook with gleaming pearl covers
+# circle 1-8 relearn [11917] a radiant golden sceptre
+#----------------------------------------------
+# L'Thanas - Dargaard Valley
+6730 12805 2000 EQ
+# Theiwar ambassador - Ancient Labyrinth
+51491 12805 1800 DEATH
+# Raple Dawn - Temple of Hiddukel
+2596 12805 2000 DEATH
+# elven king - Sorinthalas
+41616 12805 2000 DEATH
+# minotaur mystic cleric - Pirate's Island
+38808 12805 2000 EQ
+# high priestess - Storms
+22548 12805 2000 EQ
+# Priest of Branchala - Qualinesti
+37710 12805 2000 INV
+# Brith'nea - Last Gaard
+24053 12805 2000 DEATH
+#----------------------------------------------
+#
+#---- TABLE:12806 CLERIC PRAYERBOOKS SIX ------
+# sunbolt            [12971] a shimmering prayerbook with silver pages
+# summon             [12974] a prayerbook with gleaming pearl covers
+# circle 1-8 relearn [11917] a radiant golden sceptre
+#----------------------------------------------
+# Leet - Dragonarmy Refuge
+26517 12806 2000 EQ
+# Towering lich - Ancient Labyrinth
+51545 12806 1800 DEATH
+# high priestess - DKO
+32920 12806 2000 EQ
+# Miranda - Citadel of Dracos
+40132 12806 2000 DEATH
+# Yurak's handmaid - Ancient Keep
+3738 12806 2000 EQ
+# Walcanar - Isle of Shadows
+35510 12806 2000 EQ
+35538 12806 2000 EQ
+# Kingpriest - Istar
+35034 12806 2000 DEATH
+#----------------------------------------------
+#
+#---- TABLE:12807 CLERIC PRAYERBOOKS SEVEN ----
+# sacred ward        [12972] a sky blue prayerbook with sapphire runes
+# darkness           [12976] a burned black prayerbook
+# gate               [12975] a prayerbook with gleaming pearl covers
+#----------------------------------------------
+# Spauld - Temple of Takhisis
+5533 12807 2000 EQ
+# Brother James - High Clerist Tower
+33810 12807 2000 EQ
+# Frostbyte - Tarsis Wastelands
+21210 12807 2500 DEATH
+# Obsydian - Dun Mir
+40501 12807 2500 DEATH
+#----------------------------------------------
+#
+#---- TABLE:12808 CLERIC PRAYERBOOKS EIGHT ----
+# strength of one    [12973] a sky blue prayerbook with sapphire runes
+# heroism            [12970] a shimmering prayerbook with silver pages
+# gate               [12975] a prayerbook with gleaming pearl covers
+#----------------------------------------------
+# Lesath - Neraka
+1002 12808 1800 INV
+# Argentine - Vingaard Keep
+42731 12808 2500 DEATH
+# gaunt cleric - Silvanesti Secrets
+24251 12808 2500 EQ
+# En'gla, the master of maces - Bay of Balifor
+32740 12808 2500 EQ
+#----------------------------------------------
+#
+#---- TABLE:12809 CLERIC PRAYERBOOKS NINE -----
+# animate dead       [12977] a burned black prayerbook
+# wave of terror     [12988] an opal and onyx prayerbook
+#----------------------------------------------
+# Caiaphus - Silvanesti
+37422 12809 2500 EQ
+# priest of Paladine - Ravenshadow
+36454 12809 2500 EQ
+# Saint Phil - Celestial Valley
+41429 12809 2500 EQ
+# Lady Rayne - Rayne's Mansion
+37001 12809 2000 EQ
+#----------------------------------------------
+#
+#---- TABLE:12810 CLERIC PRAYERBOOKS TEN ------
+# steelskin          [12981] a radiant white prayerbook
+# healing mist       [12979] a delicate prayerbook wrapped with silk 
+#----------------------------------------------
+# Jeilo - Dragon Isle Chain (Irda)
+27552 12810 2000 EQ
+# Mummy Emperor - Deserts of Khur
+26175 12810 2000 EQ
+# vault - Uth Wistan
+20392 12810 3000 IN
+# Verminaard - Pax Tharkas
+26661 12810 3000 DEATH
+# Oracle - Lunitari
+28610 12810 1500 EQ
+#----------------------------------------------
+#
+#---- TABLE:12811 CLERIC PRAYERBOOKS ELEVEN ---
+# holy word          [12989] an opal and onyx prayerbook
+# summoning circle   [12978] a delicate prayerbook wrapped with silk
+# Glymmer - Pax Tharkas
+26840 12811 2000 DEATH
+# Sturz - Mithas
+39699 12811 2000 DEATH
+# Amity - Ancient Keep
+3717 12811 2000 DEATH
+# Death's Head Scorpion - Plains of Dust
+38300 12811 2000 DEATH
+#----------------------------------------------
+#
+#---- TABLE:12812 CLERIC PRAYERBOOKS TWELVE ---
+# sunray             [12980] a radiant white prayerbook
+# summoning circle   [12978] a delicate prayerbook wrapped with silk
+# Kraken - Blood Shoal
+47042 12812 3500 DEATH
+# Golden Whale - Dargonesti
+21869 12812 2000 DEATH
+# silver box (#2) - Sanction
+29229 12812 1500 IN
+# gold-banded chest (Peorx) - Caverns of Thorbardin
+2027 12812 1500 IN
+# Ochre - The Mound
+31590 12812 1200 DEATH
+#----------------------------------------------
+#
+#---- TABLE:12813 CLERIC PRAYERBOOKS THIRTEEN -
+# heal               [12984] the disks of Mishakal
+# Mishakal - Xak Tsaroth spec load
+#----------------------------------------------
+#
+#---- TABLE:12814 CLERIC PRAYERBOOKS FOURTEEN -
+# ancient charred chest (Soth) - Dargaard Keep (animate dead)
+3498 12814 3000 IN
+#----------------------------------------------
+#
+#---- TABLE:12815 CLERIC PRAYERBOOKS CHAOS ----
+# sunray             [12980] a radiant white prayerbook
+# summoning circle   [12978] a delicate prayerbook wrapped with silk
+# holy word          [12989] an opal and onyx prayerbook
+# steelskin          [12981] a radiant white prayerbook
+# animate dead       [12977] a burned black prayerbook
+# wave of terror     [12988] an opal and onyx prayerbook
+# strength of one    [12973] a sky blue prayerbook with sapphire runes
+# heroism            [12970] a shimmering prayerbook with silver pages
+# gate               [12975] a prayerbook with gleaming pearl covers
+# sacred ward        [12972] a sky blue prayerbook with sapphire runes
+# darkness           [12976] a burned black prayerbook
+# sunbolt            [12971] a shimmering prayerbook with silver pages
+# summon             [12974] a prayerbook with gleaming pearl covers
+# word of recall     [12967] a brilliant platinum prayerbook
+# fortify self       [12965] a little prayerbook with red pages
+# Wysteria - Newport
+20655 12815 50 DEATH
+# crystal chest - Crystal Quest
+5710 12815 100 IN
+# Raple Dawn - Temple of Hiddukel
+2596 12815 100 DEATH
+# a green dragon - Last Gaard
+24014 12815 100 DEATH
+# a marble chest (Queen Helenda) - Caverns of Thorbardin
+42403 12815 500 IN
+# Kraken - Blood Shoal
+47042 12815 100 DEATH
+# Ember - Pax Tharkas
+26656 12815 333 DEATH
+# Izmerelda - Mystic Village
+20095 12815 100 DEATH
+# Lady Rayne - Rayne's Mansion
+37001 12815 100 DEATH
+# Wormskin - Plains of Dust (Emil Quest)
+3355 12815 100 DEATH
+# Glackan - Quath's Zonelets
+44759 12815 100 DEATH
+# En'gla, the master of maces - Bay of Balifor
+32740 12815 100 EQ

@@ -1,0 +1,174 @@
+[0m#LOG: LOGGING OUTPUT TO 'tr ying_shit.txt' FILESIZE: 0[0m
+nod
+You nod solemnly.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+A voice fills your mind 'Perhaps you seek forgiveness, or even refuge.' 
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+[36mWayne tells your group 'if you get attacked by something that looks scary, feel free to recall'
+[0;37m
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> bow
+You bow deeply.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+An undead philosopher arrives from the south.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+[36mWayne tells your group 'i'm not expecting anything though'
+[0;37m
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+A voice fills your mind 'What is it you think I can offer you?'
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> cast 'steel' me
+You utter the words, 'steelskin'
+Your skin tightens and begins to shine like steel.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> 
+Wayne gives you a coin of Zivilyn.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> cast 's o o'
+You utter the words, 'strength of one'
+You feel smoother.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+Wayne focuses on you and utters some strange words.
+Your skin takes a ghostly hue.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+An undead mediator arrives from the south.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+A voice fills your mind 'Pride entails the folly of ingratitude... of disgrace... of disaster.'
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> look coin
+A green and gold tree relief rests on the coin of Zivilyn.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+[36mWayne tells your group 'donate coin'
+[0;37m
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+[37mYour clanmate Abra has entered the game.
+[0;37m
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> donate coin
+You toss the coin of Zivilyn into the collection plate.
+The coin glows a brilliant white and suddenly disappears!
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+A voice fills your mind 'Humility is the antidote to pride. With humility comes wisdom.'
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> sc
+You are Hestaby Aeris, Mother on the Mountain, a level 30 Legendary Cleric.
+You have reincarnated 2 times.
+You are a Clansman in Myth.
+You are rank 30. You have completed 72.15% of your next rank.
+You are 24 years old.
+You have 486(507) hit and 176(176) movement points.
+Your behaviour has been Neutral.
+The chill of evil pervades your soul.
+You have scored 239,999,999 exp, and have 6590(228720) steel coins.
+You have 3 rank points to spend.
+You have died 11 horrible deaths.
+You have been connected for 1 minute(s).
+You have been playing for 18 day(s), 5 hour(s) and 13 minute(s).
+Your natural ability scores are:
+        Str: 19 Int: 16 Wis: 18 Dex: 13 Con: 19 Cha: 17
+Your equipment is currently being concealed.
+You can barely stand carrying all your items!
+You are standing.
+You are following Wayne.
+You are affected by the following:
+    ghostskin
+    strength of one
+    steelskin
+    tenacious heart
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+An undead mediator leaves east.
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+A voice fills your mind 'So swept in his own righteousness, Beldinas Pilofiro chose the former.'
+
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+[36mWayne tells your group 'did anything happen?'
+[0;37m
+[32m[0;37m[32m486H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:2 Exits:ES> 
+A voice fills your mind 'I shall ask you again cleric. What, above all else, do you seek?'
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> 
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> gt The coin glows a brilliant white and suddenly disappears!
+You tell your group 'The coin glows a brilliant white and suddenly disappears!'
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> 
+[36mWayne tells your group 'cool'
+[0;37m
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> gt i assume youre getting these "a voice fills your mind..."
+You tell your group 'i assume youre getting these "a voice fills your mind..."'
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> 
+[36mWayne tells your group 'any other messages?'
+[0;37m
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> 
+[36mWayne tells your group 'i am not!'
+[0;37m
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> laugh
+You laugh heartily.
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> 
+An undead servant arrives from the east.
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> 
+[36mWayne tells your group 'what's it telling you?'
+[0;37m
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> gt im logging it
+You tell your group 'im logging it'
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> 
+[36mWayne tells your group 'hell yeah thanks man'
+[0;37m
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> wiggle
+You wiggle your bottom.
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mMem:1 Exits:ES> 
+Wayne smiles as he finishes his meditation.
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+An undead servant leaves east.
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+An undead mediator arrives from the south.
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+[36mWayne tells your group 'the coin fooms for me because i'm not a believer'
+[0;37m
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> gt ok i think it might be done
+You tell your group 'ok i think it might be done'
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+[36mWayne tells your group 'can you discord it to me or something?'
+[0;37m
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> gt let me clean up log and send to you in DM
+You tell your group 'let me clean up log and send to you in DM'
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> gt yes
+You tell your group 'yes'
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+[36mWayne tells your group 'you rule, thank you'
+[0;37m
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> 
+An undead philosopher arrives from the east.
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> #log
+[0m######################################################################################## LOG OPTIONS ########################################################################################[0m
+[0m  [APPEND       ] Start logging, apending to give file.[0m
+[0m  [OFF          ] Stop logging.[0m
+[0m  [OVERWRITE    ] Start logging, overwriting the given file.[0m
+
+A gleaming silver medal whispers in your mind: 'Vanquish the denizens of The Lost Cemetery.'
+A gleaming silver medal whispers in your mind: 'Slay the followers of the Ranger discipline.'
+A gleaming silver medal whispers in your mind: 'Vanquish the denizens of White Caverns of Largus Sararian.'
+
+[32m[0;37m[32m507H [0;37m[32m176V [0;37m1X 72.15% 6590C [Pos:standing] [Att:0.92%] [0;37mExits:ES> #log off

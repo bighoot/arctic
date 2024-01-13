@@ -1,0 +1,286 @@
+602H 149V 30472409X 36.80% 5904C [Att:80.38%] Exits:NS>
+The Base of a Cliff
+    The dirt trail leads the forest to meet the base of a cliff here,
+abruptly halting the woodlands' progress southward. The trees seem little
+discouraged by this however, and grow just as determined and tightly
+together as they can. The path changes from dirt to loose stone and shale
+as it continues where the trees cannot, traversing over several large
+boulders and between wiry scrub-bushes before leading into a narrow crack
+in the rock-face. From within the heart of the cliff a hidden slope is
+revealed where thousands of rocks and pebbles from above have partially
+filled the fracture. The trail steeply ascends the rocky slope and finally
+emerges to meet the open sky above.
+A massive boulder lies across the trail.
+An elven archer scans the ridge below for enemies.
+A young whitetail brave guards the pass.
+A whitetail archer shoots YOU.
+A young whitetail brave shoots YOU very hard.
+
+578H 147V 30472409X 36.80% 5904C [Att:80.38%] [Angus:V.Good] [a whitetail archer:Perfect] Exits:N>
+Alea flies in from the north.
+An elemental golem arrives from the north.
+An elemental golem arrives from the north.
+
+578H 147V 30472409X 36.80% 5904C [Att:80.38%] [Angus:V.Good] [a whitetail archer:Perfect] Exits:N>
+Several elves work loose a large boulder, sending it on a thunderous rampage
+down the pass!
+
+578H 147V 30472409X 36.80% 5904C [Att:80.38%] [Angus:V.Good] [a whitetail archer:Perfect] Exits:N>
+A massive boulder tears down the trail, somehow managing to miss everyone!
+
+578H 147V 30472409X 36.80% 5904C [Att:80.38%] [Angus:V.Good] [a whitetail archer:Perfect] Exits:N>
+** IN THE FACE!!! **
+You crash into a whitetail archer in a bone crunching bash, sending him sprawling to the ground.
+
+578H 147V 30470689X 36.80% 5904C [Att:80.38%] [Angus:V.Good] [a whitetail archer:Good] Exits:N>
+A young whitetail brave misses you with his shoot.
+A young whitetail brave shoots YOU very hard.
+You deflect part of a whitetail archer's blow with your shield.
+A whitetail archer barely shoots YOU.
+You stab a whitetail archer extremely hard.
+
+559H 147V 30470234X 36.80% 5904C [Att:80.38%] [Angus:V.Good] [a whitetail archer:Good] Exits:N>
+Alea issues the order 'assist angus'.
+An elemental golem gives a whitetail archer a solid punch in the face.
+An elemental golem tries to sweep a whitetail archer's legs, but misses badly.
+
+559H 147V 30470234X 36.80% 5904C [Att:80.38%] [Angus:V.Good] [a whitetail archer:Good] Exits:N>
+Alea **ANNIHILATE**s a whitetail archer with his crush.
+
+559H 147V 30470234X 36.80% 5904C [Att:80.38%] [Angus:V.Good] [a whitetail archer:Good] Exits:N>
+Alea stops watching you.
+
+559H 147V 30470234X 36.80% 5904C [Att:80.38%] [Angus:V.Good] [a whitetail archer:Good] Exits:N>
+Under the cover of arrow fire, several kagonesti elves topple a massive boulder,
+sending it thundering down the pass, spraying rock and gravel like shrapnel.
+A large boulder slams into you, knocking you off your feet.
+A large boulder slams into Alea, sending him sprawling to the ground.
+
+455H 147V 30470234X 36.80% 5904C [Att:80.38%] [Angus:Good] [a whitetail archer:Good] Exits:N>
+Alea **ANNIHILATE**s a whitetail archer with his crush.
+An elemental golem hits a whitetail archer extremely hard.
+An elemental golem hits a whitetail archer hard.
+An elemental golem hits a whitetail archer extremely hard.
+An elemental golem hits a whitetail archer extremely hard.
+A young whitetail brave shoots YOU very hard.
+A young whitetail brave shoots YOU hard.
+A whitetail archer misses you with his shoot.
+You MASSACRE a whitetail archer with your stab.
+
+428H 147V 30469577X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:Fair] Exits:N>
+A young whitetail brave drops low and sweeps your leg, nearly dropping you.
+
+421H 147V 30469577X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:Fair] Exits:N>
+The ghostly hue vanishes from your flesh.
+Alea MASSACREs a whitetail archer with his crush.
+A whitetail archer flesh crawls as Alea's hammer drains him.
+An elemental golem hits a whitetail archer extremely hard.
+An elemental golem MASSACREs a whitetail archer with its hit.
+An elemental golem hits a whitetail archer very hard.
+A young whitetail brave MASSACREs YOU with his shoot.
+A whitetail archer misses you with his shoot.
+You MASSACRE a whitetail archer with your stab.
+
+394H 147V 30469021X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:V.Bad] Exits:N>
+Elven archers loose arrows above, showering the pass.
+Pthunk!! Alea screams out in pain as an arrow slices into his leg.
+Pthunk!! You scream out in pain as an arrow slices into your leg.
+
+332H 147V 30469021X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:V.Bad] Exits:N>
+-#-#-#-#-#-#-#-> A whitetail archer <-#-#-#-#-#-#-#-  stands up.
+
+332H 147V 30469021X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:V.Bad] Exits:N>
+You can't do that while sitting.
+
+332H 147V 30469021X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:V.Bad] Exits:N>
+-#-#-#-#-#-#-#-> Alea <-#-#-#-#-#-#-#-  stands up.
+
+332H 147V 30469021X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:V.Bad] Exits:N>
+Alea has his casting disrupted by the fighting.
+
+332H 147V 30469021X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:V.Bad] Exits:N>
+Alea focuses on you and utters some strange words.
+Your wounds begin to heal.
+332H 147V 30469021X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:V.Bad] Exits:N>
+Some of your nastier wounds disappear.
+An elemental golem hits a whitetail archer very hard.
+An elemental golem hits a whitetail archer very hard.
+An elemental golem hits a whitetail archer hard.
+An elemental golem hits a whitetail archer very hard.
+A young whitetail brave MASSACREs YOU with his shoot.
+A whitetail archer misses you with his shoot.
+You should probably stand up!
+You stab a whitetail archer.
+
+383H 147V 30468794X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:Awful] Exits:N>
+There are no queued commands.
+
+383H 147V 30468794X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:Awful] Exits:N>
+You stand up.
+
+383H 147V 30468794X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:Awful] Exits:N>
+In one fluid motion, a young whitetail brave pulls an arrow from his quiver and stabs you in the neck.
+
+372H 147V 30468794X 36.80% 5904C [Att:80.38%] [Angus:Fair] [a whitetail archer:Awful] Exits:N>
+Elven sentries above hurl large stones down the pass wall, breaking loose a
+large boulder and showering the pass with debris.
+A large boulder slams into you, knocking you off your feet.
+A large boulder slams into Alea, sending him sprawling to the ground.
+
+263H 147V 30468794X 36.80% 5904C [Att:80.38%] [Angus:Bad] [a whitetail archer:Awful] Exits:N>
+Some of your nastier wounds disappear.
+Alea MASSACREs a whitetail archer with his crush.
+An elemental golem hits a whitetail archer hard.
+An elemental golem hits a whitetail archer very hard.
+An elemental golem hits a whitetail archer hard.
+An elemental golem hits a whitetail archer hard.
+A young whitetail brave shoots YOU hard.
+A young whitetail brave MASSACREs YOU with his shoot.
+A whitetail archer shoots YOU very hard.
+You stab a whitetail archer hard.
+
+288H 147V 30468466X 36.80% 5904C [Att:80.38%] [Angus:Bad] [a whitetail archer:Awful] Exits:N>
+You can't do that while sitting.
+
+288H 147V 30468466X 36.80% 5904C [Att:80.38%] [Angus:Bad] [a whitetail archer:Awful] Exits:N>
+Elven sentries above hurl large stones down the pass wall, breaking loose a
+large boulder and showering the pass with debris.
+A large boulder slams into you, knocking you off your feet.
+A large boulder slams into Alea, sending him sprawling to the ground.
+
+181H 147V 30468466X 36.80% 5904C [Att:80.38%] [Angus:V.Bad] [a whitetail archer:Awful] Exits:N> FOLLOWER GAINED XP: 97101
+
+Some of your nastier wounds disappear.
+Alea MASSACREs a whitetail archer with his crush.
+A whitetail archer is stunned, but will likely regain consciousness again.
+An elemental golem **ANNIHILATE**s a whitetail archer with its hit.
+You receive 86912 experience.
+A gleaming silver medal warms up briefly, then cools down.
+A whitetail archer is dead! R.I.P.
+A young whitetail brave MASSACREs YOU with his shoot.
+A young whitetail brave MASSACREs YOU with his shoot.
+The death cry of a whitetail archer echoes from somewhere nearby...
+You direct your attention to a young whitetail brave.
+
+186H 147V 30381554X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:Perfect] Exits:N>
+-#-#-#-#-#-#-#-> Alea <-#-#-#-#-#-#-#-  stands up.
+
+186H 147V 30381554X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:Perfect] Exits:N>
+Alea utters some strange words.
+Large open gashes on Alea's body quickly heal.
+
+186H 147V 30381554X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:Perfect] Exits:N>
+Elven sentries above hurl large stones down the pass wall, breaking loose a
+large boulder and showering the pass with debris.
+A large boulder slams into you, knocking you off your feet.
+You wish your wounds would stop BLEEDING so much!
+You wish your wounds would stop BLEEDING so much!
+A large boulder slams into Alea, sending him sprawling to the ground.
+
+78H 147V 30381554X 36.80% 5904C [Att:82.37%] [Angus:Awful] [a young whitetail brave:Perfect] Exits:N>
+Some of your nastier wounds disappear.
+You find an opening in a young whitetail brave's armor and drive your pike there.
+You stab a young whitetail brave very hard.
+A young whitetail brave misses you with his shoot.
+
+139H 147V 30381068X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+In one fluid motion, a young whitetail brave pulls an arrow from his quiver and stabs you in the neck.
+
+131H 147V 30381068X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+You can't do that while sitting.
+
+131H 147V 30381068X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+Some of your nastier wounds disappear.
+ *******>>> REGENERATION GONE <<<*******
+Your wounds stop healing.
+You should probably stand up!
+You MASSACRE a young whitetail brave with your stab.
+A young whitetail brave shoots YOU very hard.
+A young whitetail brave shoots YOU hard.
+You can't do that while sitting.
+
+161H 147V 30380411X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+Cancelled 2 queued commands.
+
+161H 147V 30380411X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+You stand up.
+
+161H 147V 30380411X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+Under the cover of arrow fire, several kagonesti elves topple a massive boulder,
+sending it thundering down the pass, spraying rock and gravel like shrapnel.
+A large boulder slams into Alea, sending him sprawling to the ground.
+A large boulder slams into you, knocking you off your feet.
+You wish your wounds would stop BLEEDING so much!
+You wish your wounds would stop BLEEDING so much!
+
+54H 147V 30380411X 36.80% 5904C [Att:82.37%] [Angus:Awful] [a young whitetail brave:V.Good] Exits:N>
+You stab a young whitetail brave extremely hard.
+A young whitetail brave MASSACREs YOU with his shoot.
+You wish your wounds would stop BLEEDING so much!
+You deflect part of a young whitetail brave's blow with your shield.
+A young whitetail brave shoots YOU very hard.
+You wish your wounds would stop BLEEDING so much!
+The rising sun proclaims a new day.
+You feel more vigorous.
+You are hungry.
+You are thirsty.
+
+137H 151V 30379897X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+In one fluid motion, a young whitetail brave pulls an arrow from his quiver and stabs you in the neck.
+
+125H 151V 30379897X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+Elven archers loose arrows above, showering the pass.
+Pthunk!! Alea screams out in pain as an arrow slams into his arm.
+Pthunk!! Alea screams out in pain as an arrow slams into his arm.
+Alea gets a large pile of coins from the corpse of a whitetail archer.
+
+125H 151V 30379897X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+-#-#-#-#-#-#-#-> Alea <-#-#-#-#-#-#-#-  stands up.
+
+125H 151V 30379897X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+Alea issues the order 'assist angus'.
+An elemental golem tries to punch a young whitetail brave, but he deftly avoids the blow.
+An elemental golem misses a young whitetail brave with its hit.
+
+125H 151V 30379897X 36.80% 5904C [Att:82.37%] [Angus:V.Bad] [a young whitetail brave:V.Good] Exits:N>
+An elemental golem hits a young whitetail brave very hard.
+An elemental golem hits a young whitetail brave very hard.
+An elemental golem misses a young whitetail brave with its hit.
+You should probably stand up!
+You stab a young whitetail brave hard.
+A young whitetail brave MASSACREs YOU with his shoot.
+You wish your wounds would stop BLEEDING so much!
+A young whitetail brave misses you with his shoot.
+Alea starts watching you.
+
+101H 151V 30379583X 36.80% 5904C [Att:82.37%] [Angus:Awful] [a young whitetail brave:Good] Exits:N>
+There are no queued commands.
+101H 151V 30379583X 36.80% 5904C [Att:82.37%] [Angus:Awful] [a young whitetail brave:Good] Exits:N>
+You stand up.
+
+101H 151V 30379583X 36.80% 5904C [Att:82.37%] [Angus:Awful] [a young whitetail brave:Good] Exits:N>
+Alea utters some strange words.
+Large open gashes on Alea's body quickly heal.
+
+101H 151V 30379583X 36.80% 5904C [Att:82.37%] [Angus:Awful] [a young whitetail brave:Good] Exits:N>
+Elven sentries above hurl large stones down the pass wall, breaking loose a
+large boulder and showering the pass with debris.
+A large boulder slams into you, knocking you off your feet.
+You wish your wounds would stop BLEEDING so much!
+You are incapacitated and will slowly die, if not aided.
+A large boulder slams into someone, sending it sprawling to the ground.
+
+-4H 151V 30379583X 36.80% 5904C [Att:82.37%] [Angus:Awful] Exits:N>
+Someone **ANNIHILATE**s YOU with their shoot.
+You're dead.
+Your heart stops beating so fast.
+You throw away your bloody bandages.
+Your shroud fades away.
+The protective presence around you fades.
+You stop following someone.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.

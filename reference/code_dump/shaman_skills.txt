@@ -1,0 +1,41 @@
+Shaman Skills
+
+Weapons - blud(80), misc(80), axes(80), s.blades(80)
+
+Bandage(75) - No stat modifiers
+
+Brew(90) - No stat modifiers
+
+Spook(90) - Cha bonus and checks, Petrification save modified by Cha, Mindshield makes you immune, applies Fear if successful
+
+Taunt(90) - Cha added to your skill minus target's Cha, acts like a Rescue
+
+Control(90) - No stat modifiers, Legendary adds 25 skill, Duration = Your level - Target level + Your Cha, Legendary adds 24 to the duration and 5 hps per level
+
+Bind(90) - Contested Cha check between you and the spirit, cannot bind to magic weapons, Duration = 6 + (Spirit level / 2) + Your Cha
+
+Hex(90) - Target makes a Petrification save modified by your Cha (Cha / 7), applies Curse, the bonus Disorientation effect doesn't work against Mindshield and relies on a contested Cha check, the Disorientation effect has a chance to lower target's hitroll, damroll, spell_save, healing_factor, and concentration
+
+Stupefy(90) - Target makes a Petrification save modified by your Cha (Cha / 7), Mindshield makes you immune, lowers the target's hitroll and applies Confusion
+
+Field Medic(90) - No stat modifiers
+
+Frenzy(90) - No stat modifiers, increases Crit, Extra attacks, Hitroll, Damage_factor, and lowers Healing_factor
+
+Call Spirits(90) - No stat modifiers, being in combat cuts your skill in half
+
+Banish(90) - Target makes a Spell save modified by your Cha (Cha / 3)
+
+Seance(90) - No stat modifiers
+
+*Absorb(100) - No stat modifiers, lasts 7 ticks, your skill level = 35 + (absorb skill level / 2), skills list: Ba = assail, Cl = turn, DK = thrust, Dr = commune, Ma = concen, WR = arc_bar, BR = comeup, RR = gift, Pa = strike, Sc = fade, Th = throat_p, Wa = punch, default = target
+
+*Channel(100) - If attacking, target makes a Spell save for half damage and can be bashed - If buffing, no stat modifiers
+
+
+GET_GUILD( spirit )
+right off the bat there is a Cha check, your Cha has to be equal or greater than a random number from 1-70
+so even with a 24 Cha you will only pass that 1/3 of the time
+if ( number( 1, 70 ) > GET_CHA( ch ) ) return FALSE;
+if you pass that then there is another check highly dependent on the level of the spirit
+chance = 9 * GET_LEVEL( spirit ) / 10;

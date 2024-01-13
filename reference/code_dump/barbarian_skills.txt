@@ -1,0 +1,52 @@
+Barbarian Skills
+
+Weapons - l.blades(85), s.blades(85), piercers(85), blud(90), misc(80), axes(90), two-handed(95)
+
+Bandage(90) - No stat modifiers
+
+Rescue(95) - No stat modifiers
+
+Track(80) - No stat modifiers, really hard to track in the dark
+
+Target(80) - Affected by Dex, Success chance = ((skill + dex) / 2) + (45 - enemy level or dex)
+
+Mend(90) - No stat modifiers
+
+Recuperate(80) - No stat modifiers, duration = skill / 10, regen = skill / 2
+
+Carve(90) - No stat modifiers
+  WIS: human, half-ogre, half-elf, irda, demon
+  INT: dargo, silv, kago, qual, dimernesti?, thanoi
+  CON: hylar, hill, thiewar, gully, kyrie, golem
+  DEX: gnome, kender, phaethon, pixie, pigmy
+  STR: mino, gob, hobgob, giant, kobold, gnoll, drac
+  CHA: animal, rodent, ogre
+  DAM: dragon
+
+Charge(70) - Two_handers do extra damage, legendary charge adds 10% dam
+  Charge dam with a two_hander = wep_dam + (skill / 10) + (wep_wt / 4)
+  Charge dam w/o a two_hander = (level / 2) + (skill /10) + (wep_wt / 4)
+
+Gore(90) - No stat modifiers, blind cuts your skill in half, dam = 4d8
+
+Sharpen(90) - No stat modifiers
+-
+Wardance(90) - No stat modifiers to start dancing, drunk state increaes success chance to start dancing, uses your normal rescue skill
+
+Healdance(90) - No stat modifiers to start dancing, drunk state increaes success chance to start dancing, heals for as much as a cure serious spell, legendary increases the healing and gives a 25% chance to remove a debuff
+
+Wilddance(90) - No stat modifiers to start dancing, drunk state increases success chance to start dancing, your chance to dodge is: (skill / 3) + (your Dex) - (attacker Dex / 2), a sharpened weapon (skill >= 75) lowers your chance by 25 but the mod looks too high for PCs to get, your dodge chance will never be lower than 5%
+
+Battle Cry(80) - No stat modifiers, only affects allies in combat, doesn't affect self, legendary removes the barb's bash_mod penalty, to train past skill 75 you need a group of 4+ members
+  Normal: dur = 3, hitroll +2-4, armor -10-30, dex +1-2, str +1-2, dam +1-2
+  Legend: dur = 6, hitroll +6, armor -25, dex +3, str +3, dam +3, dam_factor +10
+
+Lore(90) - No stat modifiers, casts the identify spell and uses your (skill / 3) as your caster level, max caster level is 31 if you are legendary
+
+Assail(90) - No stat modifiers, 1-4 swings based on duration left, legendary adds +2 swings
+
+Breach(90) - No stat modifiers, uses your Rescue skill
+
+*Ghostdance(90) - No stat modifiers to start dancing, limit_damage = (skill / 6), extra_attack = (skill / 6) + 20
+
+*Revivification(90) - No stat modifiers, healing factor is a little more than Cure Massive and Lay on Hands

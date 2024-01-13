@@ -1,0 +1,220 @@
+!!!SPOILERS AHEAD!!! If you don't want to see any game info, do not read past this point. Below is information from the game files. Please do not copy and paste this info into another public forum. It would be obvious where the info comes from if you passed it on in this format. Feel free to give your other friends hints though.
+
+I might make this read_only in the future but I suspect there will be comments and questions so I'll leave it open for now.
+
+The numbers under each mob are: vnum - identifies the mob, spell table - which I conveniently pasted at the top of each tier, load chance - this is out of 10000 so 2200 = 22%, and load_type - EQ means its held, INV in inventory, etc.
+#----------------------------------------------
+####################
+# Druid Load Section
+####################
+#--------------------------
+#TIER 1 Druid Table - 12601 - brittle gypsum tablet
+#12610 15 fire storm                 slate tablet with painted runes
+#12611 15 paralysis
+#12612 15 feast
+#--------------------------
+# Kagonesti high druid
+1213 12601 1800 EQ
+# Mearia
+552 12601 2000 INV
+# Aboleth
+8939 12601 2200 DEATH
+# Slade
+40144 12601 2750 EQ
+# Skyplain - Que Kul
+25010 12601 1800 EQ
+# Lepiota Drawer - Dragonarmy Outpost
+23480 12601 1820 IN
+# Roots - Darken Wood
+23297 12601 2500 IN
+# Cabinet - Druid's Nook
+34134 12601 3000 IN
+# Gnoll Druid - Dirim Peaks
+1604 12601 2500 EQ
+# an ancient kender druid - northern ergoth barrow
+24303 12601 2500 INV
+# Seely Faerie Queen - North Ergoth
+24344 12601 3000 DEATH
+# Sivar - Beryl Mines
+43009 12601 2800 INV
+# High Druid - Sorinthalas
+41604 12601 2750 EQ
+#--------------------------
+#TIER 2 Druid Table - 12602 - flexible birchbark tablet
+#12616 15 mass refresh             driftwood tablet wrapped in seaweed
+#12617 15 earthquake
+#12618 15 word of recall
+#--------------------------
+# Crazy Hermit
+722 12602 1500 EQ
+# Portia - Thorbardin
+8653 12602 2000 INV
+# Janix - Palanthas
+21666 12602 1200 DEATH
+# Illyoc Dragon - Illyoc Swamp
+32111 12602 2600 INV
+# Chest - Vry-Kith Spire
+32383 12602 2200 IN
+# Hierophant Druid
+8701 12602 1550 DEATH
+# Fallana Windseed - Hillshar
+51117 12602 2000 INV
+# Glacius - Deep Mine
+32094 12602 1600 INV
+# Tolkunka - Lemish
+28719 12602 1900 EQ
+# Hawke - Bandit Swamp
+33422 12602 2611 EQ
+# Hermit - The Lost Village
+32416 12602 2100 INV
+#Elder's Wife - Boku
+2330 12602 1250 EQ
+# Giant Squid - Dargonesti
+21810 12602 2100 DEATH
+# a little dwarven hermit - The Ruined City
+31704 12602 1400 DEATH
+# Vault - Tirabot r20480
+20469 12602 2645 IN
+#--------------------------
+#TIER 3 Druid Table - 12603 - moss-covered tablet of granite
+#12622 15 cure critical               brilliant amethyst tablet
+#12623 15 cloud kill
+#12624 15 barrier
+#-------------------------
+# Stalker of the Mists - Lost Valley
+4711 12603 1900 DEATH
+# Rainsong - Sinia Tsaroth
+39756 12603 1800 EQ
+# Qualm - Wastelands
+35905 12603 1500 INV
+# Lydia - Mystic Isle
+20093 12603 2500 DEATH
+# Riddler - Fyzian Village
+23042 12603 2000 INV
+# Bwindl - Waterspan
+21919 12603 2000 DEATH
+# Coffin - Crystal Quest
+5701 12603 2400 IN
+#-------------------------
+#TIER 4 Druid Table -12604 - spherical obsidian tablet
+#12628 15 call lightning            powdery tablet of white chalk
+#12629 15 summon
+#12630 15 primal fury
+#-------------------------
+# Ancient Hermit - Tarsis Wastelands
+21207 12604 2000 DEATH
+# Shraxas - Kagonesti Hinterlands
+42892 12604 1800 DEATH
+# Onyx - Xak Tsaroth
+6454 12604 2400 DEATH
+# Strongbox - Pirates Island
+38813 12604 2000 IN
+# Hawkan Greenbriar - z379
+37966 12604 1200 DEATH
+# Cervos - Sanction
+29133 12604 2000 INV
+# Archdruid Velanos - Qualinesti
+37718 12604 2000 DEATH
+# Shaka Obre - Cloud Kingdom
+9609 12604 2200 EQ
+# Tanin - Draconian Tower
+20829 12604 2000 INV
+#--------------------------
+#TIER 5 Druid Table - 12605 - etched sapphire tablet
+#12634 15 iceskin                        cracked jade tablet
+#12635 15 iceshield
+#12636 15 ice storm
+#-------------------------
+# Zmij - The Lost Village
+32404 12605 1000 DEATH
+# Flurry
+40750 12605 2500 DEATH
+# Frostbyte - Tarsis Wastelands
+21210 12605 3000 DEATH
+# Lhex - Balcombe's Lair
+36619 12605 2500 EQ
+#Leaf - Forest Shrine
+32818 12605 1500 EQ
+# Trin Phung - Dark Knights Outpost
+33000 12605 1500 DEATH
+# Drake - Flying Citadel
+2724 12605 1500 EQ
+#--------------------------
+#TIER 6 Druid Table - 12606 - crumbling coal tablet
+#12640 15 insect swarm            tablet of shimmering fish scales
+#12641 15 enlarge
+#12642 15 prevailing winds
+#-------------------------
+# base of a fountain - Ancient Labyrinth
+51438 12606 2500 IN
+# Quaraus - Lunitari
+28613 12606 2500 INV
+# Box - Irda
+27523 12606 2200 IN
+# Pitmaster - Ancient Keep
+3718 12606 1500 INV
+# High Ogre Druid - Dragonarmy Refuge
+26516 12606 2000 EQ
+# Skylord - Plains of Dust
+38252 12606 2000 DEATH
+# Inferno - Plains of Solamnia
+28413 12606 1000 DEATH
+#--------------------------
+#TIER 7 Druid Table - 12607 - charred goblin skin tablet
+#12646 15 cure massive            tablet wrapped in withered vines
+#12647 15 tornado
+#12648 15 veil of ice
+#-------------------------
+# Skullcap Hydra - Mountain Fortress
+9170 12607 2000 DEATH
+# Strongbox - Ravenshadow Keep
+36459 12607 2100 IN
+# a safe - Raynes Mansion
+37056 12607 1500 IN
+# Vault - Vingaard Keep
+42795 12607 1800 IN
+# Gruarth - Bay of Balifor
+32791 12607 2698 DEATH
+# Koracla - HCT
+33860 12607 2000 DEATH
+33863 12607 2000 DEATH
+#--------------------------
+#TIER 8 Druid Table - 12608 - weathered conch tablet
+#12652 15 lightning storm         compressed tablet of phaeton bones
+#12653 15 healing cloud
+#12654 15 granite hand
+#--------------------------
+# Asphyxia - Qualinesti
+37787 12608 2200 DEATH
+# Suun - Dun Mir
+40604 12608 2500 DEATH
+# Icewall Chest - Icewall
+7398 12608 3000 IN
+# Garganthon - Caverns of Thorbardin
+42490 12608 1800 DEATH
+# Hydra - Silvanesti
+37413 12608 2000 INV
+#------------------------------
+#TIER CHAOS Druid Table - 12610
+# These have very low load
+# chances but they can load
+# anything from tier 4-8
+#------------------------------
+# Suban - Uth Wistan
+21062 12610 150 DEATH
+# Emperor - Deserts of Khur
+26175 12610 300 DEATH
+# Pyro - Plains of Dust
+38310 12610 300 DEATH
+# High Druid Zeboim - Sinia Tsaroth
+39708 12610 150 DEATH
+# Lemont - Silvanesti Secrets
+24204 12610 300 DEATH
+# Crazy Druid - Pax Tharkas
+26821 12610 300 DEATH
+# Guardian of Autumn - Lemuria
+6124 12610 150 DEATH
+# Chartreuse - Greenen of Largus
+4505 12610 300 DEATH
+# Giant Chieftain - Spire of Gilleans
+32644 12610 300 DEATH

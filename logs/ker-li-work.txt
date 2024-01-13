@@ -1,0 +1,243 @@
+======================== 54245 ========================
+
+Along the Sentinel Mountains [54245] <Inside> 
+    Bleak and insurmountable, the rocky face of the Sentinel Mountains
+creates an impassable barrier to the east. The caps of the mountains
+glisten with white, and a cold wind can be felt when it rushes down the
+slopes into the westwards grassy plains which stretch out as far as the eye
+can see. A faint trail, barely visible between the wayward rocks and
+stunted trees, runs alongside the mountains. Some distance to the north the
+wooded hills of the Ker-Li peek out from the mountainside.
+
+Obvious exits:
+North - Along the Sentinel Mountains [54246]
+South - Along the Sentinel Mountains [54244]
+
+Looking north:
+The thin path runs along the base of the mountains.
+Looking east:
+The Sentinel Mountains rise steeply, creating an impassable wall.
+Looking south:
+The thin path runs along the base of the mountains.
+Looking west:
+The fabled Citadel of Magius can be seen far across the plains.
+Looking up:
+The peaks of the Sentinel Mountains dominate the sky.
+Looking down:
+Tufts of grass shoot out from between the cast off mountain stones.
+
+
+
+======================== 54246 ========================
+
+Along the Sentinel Mountains [54246] <Inside> 
+    Stunted trees make their bleak subsistance to the south, running along
+the narrow transition of the westward grassy savannahs of the Empire of
+Ergoth and the eastward Sentinel Mountains. These trees struggle to find
+purchase in the narrow, stony soil of the piedmont, but grow taller to the
+north, as the slopes begin to soften, affording pines and even a few
+shorter hardwoords. Among the slender pines to the north the wooden homes
+of the Ker-Li can be seen. The faint path stretches southwards along the
+foot of the mountains towards a single wooden tower, barely visible in the
+distance.
+
+Obvious exits:
+North - Ker-Li [54282]
+South - Along the Sentinel Mountains [54245]
+
+Looking north:
+The small village of the Ker-Li people is distinctly visible.
+Looking east:
+The Sentinel Mountains rise steeply, creating an impassable wall.
+Looking south:
+The thin path runs along the base of the mountains.
+Looking west:
+The fabled Citadel of Magius can be seen far across the plains.
+Looking up:
+The peaks of the Sentinel Mountains dominate the sky.
+Looking down:
+Tufts of grass shoot out from between the cast off mountain stones.
+
+
+
+======================== 54331 ========================
+
+The Woods of the Ker-Li [54331] <Inside> 
+    Deep in the forest, some distance west of the Ker-Li village and the
+Sentinel Mountains, the Ergothian wilds run strong and unchecked. Tall
+pines sway back and forth in the winds, scattering their needles along the
+forest floor, creating a thick carpet which swallows any sound. The animals
+in the part of the forest seem more demure, almost as if some larger
+predator were always afoot, endangering the squirrels and thrushes which
+would otherwise fill the copses with their chatter. A faint, almost
+indetectable, odor of rotting flesh wafts between the juniper-scented
+breezes.
+
+Obvious exits:
+East  - Skirting the Ker-Li Village [54332]
+South - The Ker-Li Wilds [54333]
+
+Looking north:
+The trees, bushes, grasses, and vines form an impenetrable thicket.
+Looking east:
+This clearing extends around the edge of the village.
+Looking south:
+This clearing extends around the edge of the village.
+Looking west:
+The trees, bushes, grasses, and vines form an impenetrable thicket.
+Looking up:
+Tall pines dominate the edges of the clearing.
+Looking down:
+The pine needles are so thick that they absorb all sound.
+
+
+
+======================== 54332 ========================
+
+Skirting the Ker-Li Village [54332] <Inside> 
+    Beyond the tall partitions of the Ker-Li village lie the glades and
+copses of the Sentinel Mountain piedmont. Birdsong echoes along the distant
+granite face, and the trees seem to creak and groan in their own language
+as they sway in the strong breezes coming off the Ergothian Plains. The
+woods themselves are a wonder of unbroken savagery, teeming with wildlife
+and dangerous creatures which have never learned to fear man.
+
+Obvious exits:
+West  - The Woods of the Ker-Li [54331]
+
+Looking north:
+The trees, bushes, grasses, and vines form an impenetrable thicket.
+Looking east:
+Through the trees, the wooden rampart of the Ker-Li village is visible.
+Looking south:
+Through the trees, the wooden rampart of the Ker-Li village is visible.
+Looking west:
+Sparse trees transition to thicker woods at the edge of the clearing.
+Looking up:
+Tall pines dominate the borders of the clearing.
+Looking down:
+The pine needles are so thick that they absorb all sound.
+
+
+
+======================== 54333 ========================
+
+The Ker-Li Wilds [54333] <Inside> 
+    The slender pines in this part of the forest are almost identical,
+making it difficult to determine which way is which. Only the occasional
+glimpse of the granite peaks of the Sentinel Mountains to the north, and
+the tiny wooden homes of the Ker-Li nestled along the stony base give
+points of reference. The wind in this part of the woods is surprisingly
+gentle, whispering like a mother, comforting her child. The smell of pines,
+like fresh squeezed juniper, is overwhelming, yet below the woodland
+perfume the smell of decay can be detected, faint - yet there nonetheless.
+
+Obvious exits:
+North - The Woods of the Ker-Li [54331]
+East  - Beyond the Ker-Li Walls [54334]
+South - Lost in the Ker-Li Forest [54335]
+
+Looking north:
+Sparse trees transition to thicker woods at the edge of the clearing.
+Looking east:
+Through sparse trees and bushes, the wooden walls of a village are visible.
+Looking south:
+The thick woods are not quite impassible, but are certainly formidable.
+Looking west:
+The trees, bushes, grasses, and vines form an impenetrable thicket.
+Looking up:
+Tall pines, firs, and spruces teem with life.
+Looking down:
+The pine needles are so thick that they absorb all sound.
+
+
+
+======================== 54334 ========================
+
+Beyond the Ker-Li Walls [54334] <Inside> 
+    A tall, if somewhat flimsy, wooden rampart separates the village of the
+Ker-Li from the wild woods which stretched along the base of the Sentinel
+Mountains. The rocky soil is too shallow for hardwoods, so the forest
+thrives with countless evergreens, reaching their tall, thin trunks into
+the vast sky above. The chatter of woodland animals and the thrush of the
+birds creates a gentle music which suddenly disappears when larger
+predators lurk among the glades. A thick carpet on pine needles, the
+detritus of uncounted years, piles up so deep that it seems to swallow the
+footsteps.
+
+Obvious exits:
+East  - Ker-Li [54285]
+West  - The Ker-Li Wilds [54333]
+
+Looking north:
+A thicket of bushes and small trees stands between clearer, somewhat passable areas.
+Looking east:
+A path leads through the wooden palisade into the Ker-Li village.
+Looking south:
+The trees, bushes, grasses, and vines form an impenetrable thicket.
+Looking west:
+Sparse trees transition to thicker woods at the edge of the clearing.
+Looking up:
+Tall pines, firs, and spruces teem with life.
+Looking down:
+The pine needles are so thick that they absorb all sound.
+
+
+
+======================== 54335 ========================
+
+Lost in the Ker-Li Forest [54335] <Inside> SPIN
+    A strange and unnatural silence has falled onto the pines in this part
+of the Ker-Li forest. The skinny evergreens move slowly in a wind that
+makes no sound, weaving amongst themselves to create a tapestry af greens
+and browns. The needles along the ground are so thick that they absorb the
+footsteps of even the most cumbesome traveller, while the uncanny semblance
+of the trees in this glade make it impossible to determine which way is
+which.
+
+Obvious exits:
+North - The Ker-Li Wilds [54333]
+East  - The Forest Shrine of the Ker-Li [54336]
+
+Looking north:
+The thick woods are not quite impassible, but are certainly formidable.
+Looking east:
+The thick woods are not quite impassible, but are certainly formidable.
+Looking south:
+The thick woods are not quite impassible, but are certainly formidable.
+Looking west:
+The thick woods are not quite impassible, but are certainly formidable.
+Looking up:
+The trees wave silently above.
+Looking down:
+The pine needles are so thick that they absorb all sound.
+
+
+
+======================== 54336 ========================
+
+The Forest Shrine of the Ker-Li [54336] <Inside> 
+    An ancient altar, decorated with some of the most prized possessions of
+the Ker-Li lies hidden in this ancient and foreboding grove. The hides of
+black bears hang over the pointed antlers of ancient stags, bleached almost
+white by exposure to the elements over unknown eons. There is an ungodly
+hush in this part of the forest, almost as if the animals which inhabit the
+woods along the Sentinel Mountains know that this is a holy place, and one
+that should not be disturbed. Even the faint whisper of the wind between
+the pines has been hushed into the sound of silence.
+
+Obvious exits:
+West  - Lost in the Ker-Li Forest [54335]
+
+Looking north:
+The trees, bushes, grasses, and vines form an impenetrable thicket.
+Looking east:
+The trees, bushes, grasses, and vines form an impenetrable thicket.
+Looking south:
+The trees, bushes, grasses, and vines form an impenetrable thicket.
+Looking west:
+The thick woods are not quite impassible, but are certainly formidable.
+Looking up:
+Massive evergreen trunks rise to meet the sky.
+Looking down:
+The pine needles are so thick that they absorb all sound.

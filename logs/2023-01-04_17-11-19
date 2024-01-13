@@ -1,0 +1,2141 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? qade
+Password: 
+
+
+You were last connected Wed Jan 04 15:27:34 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 303 steel in rent.
+A scratched dolphin bone breastplate decayed while you were sleeping.
+
+Welcome to the land of Krynn.
+
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mAn elven longsword lies on the ground.
+A small wooden chest rests here.
+A potion is lying here. [15]
+An old rusty key lies here.
+A thin black key lies here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m352H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:32 Exits:D> 
+The receptionist pulls out a broom and sweeps the floor of the inn.
+
+[32m[0;37m[32m352H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:30 Exits:D> get sword
+You get a sharpened elven longsword.
+
+[32m[0;37m[32m352H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:28 Exits:D> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Lefty has entered the game.
+
+[32m[0;37m[32m352H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:16 Exits:D> [0;37m[0m
+
+[32m[0;37m[32m352H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:11 Exits:D> [0;37mgive sword lefty[0m
+You give a sharpened elven longsword to Lefty.
+
+[32m[0;37m[32m352H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:7 Exits:D> [0;37mb[0m
+
+Lefty stops using a magnificent thin rapier.
+
+[32m[0;37m[32m352H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:4 Exits:D> 
+Lefty starts holding a sharpened elven longsword.
+
+[32m[0;37m[32m352H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:1 Exits:D> 
+Tika Waylan arrives from below.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:59 Exits:D> [0;37ml[0m
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA small wooden chest rests here.
+A potion is lying here. [15]
+An old rusty key lies here.
+A thin black key lies here.
+[0;37m[31m[1mA red-haired young lady is wiping down a table here.
+Lefty the Male Minotaur is standing here.
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:57 Exits:D> [0;37md[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m132V [0;37m32567019X 21.21% 2790C [0;37mT:55 Exits:SWUD> [0;37md[0m
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m131V [0;37m32567019X 21.21% 2790C [0;37mT:55 Exits:NEU> [0;37mu[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m130V [0;37m32567019X 21.21% 2790C [0;37mT:52 Exits:SWUD> [0;37mu[0m
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA small wooden chest rests here.
+A potion is lying here. [15]
+An old rusty key lies here.
+A thin black key lies here.
+[0;37m[31m[1mA red-haired young lady is wiping down a table here.
+Lefty the Male Minotaur is standing here.
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m129V [0;37m32567019X 21.21% 2790C [0;37mT:52 Exits:D> [0;37mb fol qade[0m
+
+Lefty starts following you.
+
+[32m[0;37m[32m361H [0;37m[32m129V [0;37m32567019X 21.21% 2790C [0;37mT:49 Exits:D> [0;37mgroup form[0m
+Lefty is now a member of your group.
+
+[32m[0;37m[32m361H [0;37m[32m129V [0;37m32567019X 21.21% 2790C [0;37mT:46 Exits:D> [0;37md[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+Lefty arrives from above.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m128V [0;37m32567019X 21.21% 2790C [0;37mT:46 Exits:SWUD> [0;37md[0m
+Lefty arrives from above.
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m127V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:NEU> [0;37me[0m
+Lefty arrives from the west.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m126V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:NSWU> [0;37ms[0m
+Lefty arrives from the north.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A lovely young lady is excited by the array of activities around her.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m125V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:NESWU> 
+You can't put liquids in a rough acid etched black jade ringlet!
+You can't put liquids in a macabre spellbinder's band!
+You can't put liquids in a bone and rock necklace!
+You can't put liquids in a decorated simple gold charm!
+You can't put liquids in a goblin bone-inlaid veil of prophecy!
+You can't put liquids in some timeworn stockings of necromancy!
+You can't put liquids in some phantom's shoes of banishing!
+You can't put liquids in a pair of enchanted elven battle gauntlets!
+You can't put liquids in some dire sleeves of prophecy!
+You can't put liquids in a sivak's cloak!
+You can't put liquids in a morbid elf ear cord of banishing!
+You can't put liquids in a plain component pouch!
+You can't put liquids in an obscured bronze dragonscale wristband!
+You can't put liquids in a savage red war maul!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a scintillating red sunstone!
+You can't put liquids in some poison ivy!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small vial of quicksilver!
+You can't put liquids in two halves of a spherical geode!
+You can't put liquids in an adder's tongue fern leaf!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a brewed potion of ancestral shroud!
+
+[32m[0;37m[32m361H [0;37m[32m125V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:NESWU> [0;37ms[0m
+Lefty arrives from the north.
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A menacing rottweiler circles here barking at some shadows.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m124V [0;37m32567019X 21.21% 2790C [0;37mT:43 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+<BST> Mr. Mpeos, Yolo Maza Guv is standing here. (flying) (white aura)
+You sense that you are not alone.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:43 Exits:NES> [0;37mlist ring[0m
+  6. Ring                110 a black ice ring
+ 12. Ring                275 a blue nephaline ring
+ 60. Ring                220 a nobleman's signet ring
+ 75. Leggings            330 a pair of ringmail leggings
+ 76. Rings               286 a pair of ruby studded toe rings
+ 90. Ring                132 [38;5;214ma ring of crushed quartz[0;37m
+ 91. Ring                110 a ring of ice
+ 92. Ring                132 a rodent skull ring
+100. Robe                330 a shimmering chartreuse robe
+106. Ring                990 a silver ring of lore
+107. Ring                220 a silver ring set with a ruby tear
+111. Ring                  3 a small copper ring
+112. Ring                 82 a small white ring
+120. Beads                82 a string of illusionist's beads
+146. Ring                550 an ancient solamnic ring
+160. Ring                 88 an olivine ring
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:42 Exits:NES> [0;37mitems[0m
+[0;37mtiers[0m
+[0;37mlist[0m
+  1. Shield              220 a Kagonesti war shield
+  2. Warhammer           302 [38;5;177ma balanced spiked warhammer[0;37m
+  3. Whip                 27 a barbed whip (3d3 dr1 w5)
+  4. Shield              330 a berserker shield (bash5 w25)
+  5. Raith               166 a black ice raith
+  6. Ring                110 a black ice ring (cl2)
+  7. Sphere             1100 a black ice sphere (imm_cold)
+  8. Amulet              396 a black pearl amulet
+  9. Hammer              165 a black sledgehammer (5d6 dr2 w26)
+ 10. Ribbon              110 a black velvet ribbon
+ 11. Tanto               110 a blackened tanto
+ 12. Ring                275 a blue nephaline ring (age-3 para-1)
+ 13. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 14. Vest                 66 a bone vest (sense_life)
+ 15. Robe                220 a brightly colored robe (ac-5 wis cl3 det_mag imm_ac *19)
+ 16. Shirt               132 [38;5;225ma champion's white dragon shirt (A2 DARKKNIGHT BODY) of the Thorn[0;37m
+ 17. Knife               269 [38;5;225ma charred curved knife[0;37m
+ 18. Knife               253 [38;5;183ma charred jagged green knife[0;37m
+ 19. Stick                55 a charred oak stick
+ 20. Sphere               55 a clear sphere
+ 21. Cloak               110 a cloak of meditation (meditate2*19)
+ 22. Bow                  99 a composite vallenwood longbow
+ 23. Lance               275 a a crimson steel lance (3d5 w22)
+ 24. Bracelet            110 a crocodile scale bracelet
+ 25. Sword               385 a crystalline sword (3d6 dr1 w12 mag/bless antiE *18)
+ 26. Dagger              330 a dagger of death
+ 27. Dagger              154 a dark silver dagger (2d4 nomag/dru/cle)
+ 28. Shortsword          302 [38;5;183ma decorative hooked shortsword[0;37m
+ 29. Sword               165 a dwarven long sword
+ 30. Skirt               132 [38;5;225ma faded skirt (A2 SHAMAN LEGS) of spiritualism[0;37m
+ 31. Chasuble            110 a flowing white chasuble
+ 32. Helm                550 a forest green helm and visor (sense_life/infra apply7)
+ 33. Vest                110 a fur-lined vest (res_cold12 det_inv mag *19)
+ 34. Eye                  99 a glass eye
+ 35. Rod                 132 a glistening steel rod (3d4 hr2 dr1 magic w9)
+ 36. Belt                264 a a glowing crystal belt (learn5 dex1 glow/selfdestruct/magic)
+ 37. Pendant             173 a gold-plated pendant
+ 38. Robe                220 a grey silken robe
+ 39. Plate               418 [38;5;183ma guardian's red dragon plate (C1 DARKKNIGHT BODY) of the Lily[0;37m
+ 40. Hammer              231 a heavily charred blacksmith's hammer
+
+ [return for more, q to stop][0;37m[0m
+ 41. Lance               264 a heavy coral lance
+ 42. Shield               99 a heavy solamnic kite (bash1 mag/bls w25 *19)
+ 43. Sword               302 a heavy steel broadsword (4d4 1/1 w22 nothi/dru/sham)
+ 44. Veil                220 [38;5;183ma jet-black embossed veil (B4 THIEF HEAD) of deceit[0;37m
+ 45. Axe                 220 a keen edged huntsman's axe
+ 46. Pickaxe              88 a large copper pickaxe (2d10 w16 *19)
+ 47. Hammer              220 a a large golden hammer (3d3 w12 glow)
+ 48. Shield              275 a large golden shield (bash5 ac-5 w25 *19)
+ 49. Spear               110 a large wooden spear
+ 50. Jerkin               71 a leather smugglers' jerkin
+ 51. Light               137 a light copper buckler
+ 52. Rapier              165 a long swordmaster's rapier (3d5 hr1 dr2 w16)
+ 53. Robe                220 a long white robe
+ 54. Robe                253 [38;5;225ma magician's lavish robe (B2 MAGE BODY) of the magi[0;37m
+ 55. Toque                66 a magnificent white toque
+ 56. Morion              286 [38;5;183ma manticore-feathered morion (B4 BARBARIAN HEAD) of rage[0;37m
+ 57. Sword               330 a massive glowing broadsword
+ 58. Partisan           1100 [38;5;214ma mithril partisan (3d6 hr2 strike4 glow/mag w18 *19)[0;37m
+ 59. Necklace            165 a necklace of carved ivory (hit4)
+ 60. Ring                220 a nobleman's signet ring (nolore)
+ 61. Hide                143 [38;5;225ma nomad's deer hide (A2 BARBARIAN BODY) of mania[0;37m
+ 62. Armplates           165 a pair of ceremonial armplates (hr1 nomag/dru/sha/barb)
+ 63. Legplates           110 a pair of ceremonial legplates (hit3 nosbarb/sham)
+ 64. Vambraces            77 a pair of chitinous vambraces (res_ac4 mag *19)
+ 65. Armbands             77 a pair of copper armbands
+ 66. Sandals             110 a pair of cord sandals (move10)
+ 67. Boots               165 a pair of darkened boots (sneak Evil thief)
+ 68. Legplates            99 a pair of ebony legplates (kick6)
+ 69. Vambraces           253 a pair of ebony vambraces
+ 70. Boots               132 a pair of ergothian battle boots
+ 71. Gauntlets           132 a pair of ergothian battle gauntlets (STR *19)
+ 72. Greaves             165 a pair of forest green greaves (Bless nobarb/sham Apply8)
+ 73. Boots               165 a pair of green boots (move30 resgas+8)
+ 74. Glasses             132 a pair of reading glasses
+ 75. Leggings            330 a pair of ringmail leggings
+ 76. Rings               286 a pair of ruby studded toe rings
+ 77. Boots               330 a pair of shadow boots (ac-4 sneak10)
+ 78. Boots               110 a pair of supple leather boots (mv20 *19)
+ 79. Pants               176 a pair of tanned leather pants
+ 80. Sleeves             330 a pair of tawny leather sleeves (hr1 hide5 immheat)
+
+ [return for more, q to stop][0;37m[0m
+ 81. Tunic               330 [38;5;214ma patchwork human skin tunic[0;37m
+ 82. Cloak               330 a patterned leather cloak (hide)
+ 83. Cap                  88 a peaked canvas cap (int cl2 ac-5 *19)
+ 84. Hatchet             165 a plainsman's war hatchet (2d6 1/1 w8 *19)
+ 85. Sword               330 a platinum gilt claymore
+ 86. Plate               220 a polished steel plate
+ 87. Apron                60 a protective leather apron (res_heat8 immheat)
+ 88. Cape                 82 a ragged deerskin cape
+ 89. Cloak               220 a rainbow cloak (ac-7 hide7)
+ 90. Ring                132 [38;5;214ma ring of crushed quartz[0;37m
+ 91. Ring                110 a ring of ice
+ 92. Ring                132 a rodent skull ring (regen2% mag *19)
+ 93. Dirk                165 a a rogue's dirk (2d6 dr1, BS 5, magic, anti_good, Theif only)
+ 94. Circlet             269 [38;5;225ma runed circlet (B1 MAGE HEAD) of primal magic[0;37m
+ 95. Breastplate         385 [38;5;117ma scorched steel breastplate (con1 ss-1 hum/magic *set*)[0;37m
+ 96. Plates              154 a set of silver arm plates (str hr-1 *19)
+ 97. Caftan              440 [38;5;183ma shaggy caftan (C1 DRUID ABOUT) of the woods[0;37m
+ 98. Sabre                33 a sharp sabre (2d4 w8 magic)
+ 99. Longsword           137 a sharpened elven longsword (2d7 w12)
+100. Robe                330 a shimmering chartreuse robe (ss-1 antiE)
+101. Blade               220 [38;5;214ma a short black blade (2d7 2/2 w6 magic/anitgood nomag/pal/dru/cle/scout/war/dk/sham)[0;37m
+102. Medallion           396 [38;5;177ma shrouded malachite inlaid medallion (C2+ CASTER NECK)[0;37m
+103. Breastplate         440 a silver breast plate
+104. Sword                77 a silver etched sword
+105. Helm                275 a a silver inlaid helm (det_mag/infra magic)
+106. Ring                990 a silver ring of lore (2wis NORENT *19)
+107. Ring                220 a silver ring set with a ruby tear
+108. Dagger              132 a silver throwing dagger
+109. Breastplate          71 a skeletal breastplate (res_heat8 *19)
+110. Blade               132 [38;5;214ma slender draconian blade[0;37m
+111. Ring                  3 a small copper ring (ac-2)
+112. Ring                 82 a small white ring
+113. Knife               550 a smuggler's knife
+114. Guard                88 a solid steel wrist guard
+115. Band                440 [38;5;177ma spellbound swirling black void band (C4+ MAGE FINGER)[0;37m
+116. Fang                 66 a spider fang
+117. Broadsword          550 a steel broadsword
+118. Kite                550 a steel kite
+119. Staff               330 a striated green marble staff (3d7 2/2 cl w40 nothi/pal*19)
+120. Beads                82 a string of illusionist's beads
+
+ [return for more, q to stop][0;37m[0m
+121. Staff               220 [38;5;225ma sturdy carved battle staff[0;37m
+122. Pickaxe             330 a sturdy coral pickaxe
+123. Armor               275 a suit of battle armor
+124. Plate               132 a suit of copper plate mail
+125. Suit                495 a suit of crimson banded mail
+126. Suit                165 a suit of iron chainmail
+127. Chainmail           357 a suit of mithril chainmail
+128. Armor               385 a suit of ornamental full plate (CON *19)
+129. Armor               137 a suit of silent leather armor (hide nomag/pal/dru/cle/war/dk/sham)
+130. Plate               165 a suit of silver finished plate mail (regen6% ac-4 nobarb/sha *19)
+131. Tessto              110 a tessto (5d5 hr3 dr1 magic w40)
+132. Wand                165 a thick black wand
+133. Vest                236 [38;5;225ma thief's leather vest (B1 THIEF BODY) of deceit[0;37m
+134. Necklace            110 a thin gold necklace (det_E/G infra)
+135. Whip                110 a a three-headed whip (4d3 2/2 hum/mag/bless w6)
+136. Bracelet            165 a transparent fishscale bracelet
+137. Pike                 88 a vallenwood pike
+138. Belt                165 a a vine belt (wis1 Bless nothief)
+139. Club                253 a well worn battle club
+140. Buckler              77 a white rawhide buckler (ac-3 *18)
+141. Robe                 93 a white satin robe
+142. Knapsack             66 a worn leather knapsack
+143. Dagger              253 [38;5;183ma wretched bloodletting dagger[0;37m
+144. Javelin              88 an adamantite javelin (2d6 hr1 Evil magic w6)
+145. Alb                 352 an an alb adorned with gold trim (wis1 hit8 magic)
+146. Ring                550 an ancient solamnic ring
+147. Cloak               462 [38;5;171man archaic magi cloak (C5 MAGE ABOUT) of wizardry[0;37m
+148. Bow                 440 an elmwood longbow
+149. Chasuble            165 an an emerald green fiddleback chasuble (int/wis 1 magic)
+150. Cape                154 [38;5;225man enchanted cape of spellcraft[0;37m
+151. Loop                236 [38;5;225man enchanted multi-faceted loop (B1+ MAGE FINGER)[0;37m
+152. Greatsword          236 [38;5;177man etched blademaster's greatsword[0;37m
+153. Armor               110 an etched suit of armor (apply5 nobarb/sham)
+154. Boots               660 an exquisite pair of dwarven boots
+155. Sword               198 an ivory sword
+156. Tusk                330 [38;5;214man ivory tusk (3d5 hr2 dr1 w15 magic)[0;37m
+157. Hammer              275 an an obsidian hammer (3d5 1/1 w18 crit2.5% Magic/Bless)
+158. Spear               385 an obsidian-tipped ironwood spear (6d4 hr NORENT w34 nothi *19)
+159. Shield              121 [38;5;225man old blue buckler (A1+ CASTER SHIELD)[0;37m
+160. Ring                 88 an olivine ring (breath-1 nocle/sha)
+
+ [return for more, q to stop][0;37m[0m
+161. Headdress           220 an ornate headdress (int1 cl2 det_inv)
+162. Sleeves             110 [38;5;225msome adorned sleeves of Que-Teh (A2+ BARBARIAN ARMS)[0;37m
+163. Pants               143 [38;5;225msome armaboro hide pants of tracking (A2+ SCOUT LEGS)[0;37m
+164. Handguards          302 [38;5;183msome blood-coated handguards of brutality (B4+ WARRIOR HANDS)[0;37m
+165. Boots               154 some boots of the plainsmen (dance5 *19)
+166. Armbands            275 some ceremonial bone armbands
+167. Armor               770 some ergothian hunting armor (str2 ac-8 scout only)
+168. Moccasins           220 [38;5;225msome fierce moccasins of ferocity (B1+ BARBARIAN FEET)[0;37m
+169. Gloves              165 some fiery red gloves (res_heat9 glow/hot imm_heat)
+170. Gauntlets           165 some granite theiwar gauntlets (con1 antigood nomag/thi/dru/cle/sham)
+171. Vambraces           467 [38;5;171msome ice vambraces of the wild (D4+ DRUID ARMS)[0;37m
+172. Legwraps            165 [38;5;183msome lithe legwraps of malady (A4+ THIEF LEGS)[0;37m
+173. Gloves              462 [38;5;177msome multicolored gloves of wizardry (C2+ MAGE HANDS)[0;37m
+174. Armwraps            462 [38;5;177msome pirate's armwraps of burglary (C3+ THIEF ARMS)[0;37m
+175. Spurs               236 [38;5;225msome polished spurs of virtue (B1+ PALADIN FEET)[0;37m
+176. Leggings            220 some shark skin leggings (res_acid8)
+177. Shoes               286 [38;5;225msome sparkling shoes of ritual (B2+ CLERIC FEET)[0;37m
+178. Plates              110 some spiked leg plates
+179. Suit                 33 some studded leather armor
+180. Armor               330 [38;5;153msome woodsman armor (*set* *19)[0;37m
+181. Hammer              154 the Hammer of Kzzaz (2d7 1/1 w9 no_offy *19)
+182. Mask               1100 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+183. Staff               132 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:19 Exits:NES> [0;37mbrowse wild[0m
+You browse through the merchandise and notice:
+The hard wooden surface of the vambraces is in perfect condition. (100%)
+You feel informed:
+ Object 'vambraces ice wild'
+ Item Type: WORN        
+ Mat Class: wood         Material: ironwood
+ Weight   : 2            Value   : 425
+
+ Affects  : HP_REGEN      by 6
+ Affects  : healing received by  4%
+ Effects  : HIDE
+ Restricts: --> DRUID ONLY <--
+Some ice vambraces of the wild is wearable: arms.
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:12 Exits:NES> [0;37msd[0m
+Huh?!
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:3 Exits:NES> [0;37mbrowse skirt[0m
+You browse through the merchandise and notice:
+The skirt looks healthy. (100%)
+You feel informed:
+ Object 'skirt faded spiritualism'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: organic
+ Weight   : 6            Value   : 120
+
+ Affects  : RESIST_MAGIC  by 5
+ Affects  : RESIST_GAS    by 5
+ Restricts: --> SHAMAN ONLY <--
+ Apply    : 1
+A faded skirt of spiritualism is wearable: legs.
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:1 Exits:NES> [0;37mdl[0m
+Huh?!
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:48 Exits:NES> [0;37ml[0m
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+<BST> Mr. Mpeos, Yolo Maza Guv is standing here. (flying) (white aura)
+You sense that you are not alone.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:46 Exits:NES> [0;37ma[0m
+[0;37m[0m
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:44 Exits:NES> [0;37mgroup[0m
+Your group of 2 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  [0;37m[32mSH Qade             perfect  [0;37m[32m rested   [0;37m standing  [32m Y  [31m N  [32m  Y  [31m  N [32m  Y  [31m   0   [0;37m 0
+  [0;37m[32mOS Lefty            perfect  [0;37m[32m rested   [0;37m standing  [31m N  [31m N  [32m  Y  [31m  N [32m  Y  [31m   0   [0;37m 0
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:41 Exits:NES> [0;37mboth fly[0m
+You're already flying!
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:38 Exits:NES> 
+Lefty lifts his arms towards the sky and gracefully floats upward.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:38 Exits:NES> [0;37mn[0m
+Lefty flies in from the south.
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+A menacing rottweiler circles here barking at some shadows.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m132V [0;37m32567019X 21.21% 2790C [0;37mT:36 Exits:NS> [0;37mn[0m
+Lefty flies in from the south.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA small roll of bread lies here. [19]
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A fidgeting wiry young boy stands here looking suspicious.
+A lovely young lady is excited by the array of activities around her.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m131V [0;37m32567019X 21.21% 2790C [0;37mT:36 Exits:NESWU> 
+You can't put liquids in a rough acid etched black jade ringlet (B2+ DRUID FINGER)!
+You can't put liquids in a macabre spellbinder's band (B3+ SHAMAN FINGER)!
+You can't put liquids in a bone and rock necklace (cha mag *19)!
+You can't put liquids in a decorated simple gold charm (B1+ CASTER NECK)!
+You can't put liquids in a goblin bone-inlaid veil (C2 SHAMAN HEAD) of prophecy!
+You can't put liquids in some timeworn stockings of necromancy (B4+ SHAMAN LEGS)!
+You can't put liquids in some phantom's shoes of banishing (B5+ SHAMAN FEET)!
+You can't put liquids in a pair of enchanted elven battle gauntlets(dr2 Scout*19)!
+You can't put liquids in some dire sleeves of prophecy (C2+ SHAMAN ARMS)!
+You can't put liquids in a sivak's cloak!
+You can't put liquids in a morbid elf ear cord of banishing (B3+ SHAMAN WAIST)!
+You can't put liquids in a plain component pouch!
+You can't put liquids in an obscured bronze dragonscale wristband (C2+ CASTER WRIST)!
+You can't put liquids in a a savage red war maul (3d9 hr3 dr2 magic w30 *18)!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a scintillating red sunstone!
+You can't put liquids in some poison ivy!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small vial of quicksilver!
+You can't put liquids in two halves of a spherical geode!
+You can't put liquids in an adder's tongue fern leaf!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a brewed potion of ancestral shroud!
+
+[32m[0;37m[32m361H [0;37m[32m131V [0;37m32567019X 21.21% 2790C [0;37mT:36 Exits:NESWU> [0;37mu[0m
+Lefty flies in from below.
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A lively young child freely romps around the area. (white aura)
+A Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m130V [0;37m32567019X 21.21% 2790C [0;37mT:34 Exits:NESWUD> [0;37ms[0m
+Lefty flies in from the north.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+Sahib, captain of the Solace peacekeepers patrols the area.
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m128V [0;37m32567019X 21.21% 2790C [0;37mT:34 Exits:NEWU> [0;37me[0m
+Lefty flies in from the west.
+[36mThe Temple of Healing Arts[0;37m
+    You are stunned by the beauty and majesty of this temple. How it was
+built, in such a small room, is beyond your comprehension. High vaulted
+ceilings rise where you would expect to see the thick branches of the
+vallenwood. You see a large ivory altar and fall in line with the many
+adventurers awaiting their turn to worship. A small door leads west.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+Lady Camilla walks around gracefully as she blesses the congregation.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m127V [0;37m32567019X 21.21% 2790C [0;37mT:34 Exits:W> [0;37mlearn all[0m
+Warning: your input 'all' ignored.
+Sorry, but you cannot do that here!
+
+[32m[0;37m[32m361H [0;37m[32m127V [0;37m32567019X 21.21% 2790C [0;37mT:33 Exits:W> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (excellent)         bludgeons     (excellent)     **
+     miscellaneous (awful)             piercers      (very poor)       
+     short blades  (awful)           
+
+     bandage       (very good)         hex           (excellent)       
+     banish        (awful)             brew          (poor)            
+     control       (excellent)       
+     bind          (poor)              frenzy        (very good)       
+     spook         (average)         
+     call spirits  (fair)              stupefy       (below average)   
+     taunt         (awful)           
+     field medic   (below average)     seance        (fair)            
+
+[32m[0;37m[32m361H [0;37m[32m127V [0;37m32567019X 21.21% 2790C [0;37mT:32 Exits:W> [0;37mw[0m
+Lefty flies in from the east.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+Sahib, captain of the Solace peacekeepers patrols the area.
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m126V [0;37m32567019X 21.21% 2790C [0;37mT:31 Exits:NEWU> [0;37mn[0m
+Lefty flies in from the south.
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A lively young child freely romps around the area. (white aura)
+A Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m124V [0;37m32567019X 21.21% 2790C [0;37mT:30 Exits:NESWUD> [0;37mn[0m
+Lefty flies in from the south.
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m122V [0;37m32567019X 21.21% 2790C [0;37mT:30 Exits:NES> [0;37mn[0m
+A beautiful vallenwood leaf falls to the ground.
+Lefty flies in from the south.
+[36mOn a Vallenwood Bough[0;37m
+    The narrow bough comes to an end here. The new school of magic lies to
+the west, while strange chanting can be heard from the north. A hut built
+from sewn patches of animal skins stretched across the vallenwood branches
+lie to the east. A small grove can be seen at the base of the tree, as a
+small branch slopes gently down from here providing passage. Finally, the
+bough moves back toward the trunk to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m120V [0;37m32567019X 21.21% 2790C [0;37mT:29 Exits:NESWD> [0;37mn[0m
+Lefty flies in from the south.
+[36mA Strange Hut[0;37m
+    The hut is dimly lit by a sputtering candle sitting on a table. The
+ground is covered with various animal skins that muffle the sound of your
+steps. A firepit sits in the center of the hut, the smoke escapes through a
+hole in the ceiling. Hanging on the walls are various bits of the shaman's
+craft - feathers, bones and containers of all sorts. An awful smell
+emanates from a pot on the fire, you wonder if it is dinner or a potion.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+Foghorn, a bony man dressed in colorful rugs, is sitting here cross-legged. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m118V [0;37m32567019X 21.21% 2790C [0;37mT:29 Exits:S> [0;37mlearn all[0m
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m361H [0;37m[32m118V [0;37m32567019X 21.21% 2790C [0;37mT:26 Exits:S> [0;37ms[0m
+A beautiful vallenwood leaf falls to the ground.
+Lefty flies in from the north.
+[36mOn a Vallenwood Bough[0;37m
+    The narrow bough comes to an end here. The new school of magic lies to
+the west, while strange chanting can be heard from the north. A hut built
+from sewn patches of animal skins stretched across the vallenwood branches
+lie to the east. A small grove can be seen at the base of the tree, as a
+small branch slopes gently down from here providing passage. Finally, the
+bough moves back toward the trunk to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m116V [0;37m32567019X 21.21% 2790C [0;37mT:25 Exits:NESWD> [0;37ms[0m
+Lefty flies in from the north.
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m114V [0;37m32567019X 21.21% 2790C [0;37mT:25 Exits:NES> [0;37ms[0m
+Lefty flies in from the north.
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m112V [0;37m32567019X 21.21% 2790C [0;37mT:25 Exits:NESWUD> [0;37ms[0m
+Lefty flies in from the north.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+Sahib, captain of the Solace peacekeepers patrols the area.
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m110V [0;37m32567019X 21.21% 2790C [0;37mT:25 Exits:NEWU> [0;37mu[0m
+Lefty flies in from below.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood narrows as it extends further south. A
+school for budding warriors lies to the west while a clearing on a junction
+of boughs can be seen to the east. You have a strange feeling that you are
+being watched especially since the thick vallenwood canopy provides
+excellent hiding spots for those skilled in being unseen. The trunk of this
+massive vallenwood lies back to the north, and can be reached easily by the
+footholds and handholds in the bough leading down.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m108V [0;37m32567019X 21.21% 2790C [0;37mT:24 Exits:ESWD> [0;37me[0m
+Lefty flies in from the west.
+[36mA Clearing at the Junction of Boughs[0;37m
+    Branches here interconnect with those from neighboring vallenwood
+trees. You can hear birds singing and the gentle sounds of animals rustling
+through the foliage. You feel you are being watched by scores of men
+blended entirely into the surroundings, arrows cocked and ready.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A well traveled scout sits in meditation, attuned to the spirits of nature.
+Elrax the master scout is here, blending into his surroundings.
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m106V [0;37m32567019X 21.21% 2790C [0;37mT:24 Exits:W> [0;37mb[0m
+
+Lefty flies west.
+
+[32m[0;37m[32m361H [0;37m[33m[1m106V [0;37m32567019X 21.21% 2790C [0;37mT:5 Exits:W> [0;37m[0m
+Some leaves rustle as a score of scouts change their position.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:60 Exits:W> [0;37mw[0m
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood narrows as it extends further south. A
+school for budding warriors lies to the west while a clearing on a junction
+of boughs can be seen to the east. You have a strange feeling that you are
+being watched especially since the thick vallenwood canopy provides
+excellent hiding spots for those skilled in being unseen. The trunk of this
+massive vallenwood lies back to the north, and can be reached easily by the
+footholds and handholds in the bough leading down.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m131V [0;37m32567019X 21.21% 2790C [0;37mT:59 Exits:ESWD> [0;37md[0m
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSahib, captain of the Solace peacekeepers patrols the area.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m129V [0;37m32567019X 21.21% 2790C [0;37mT:59 Exits:NEWU> [0;37mn[0m
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m127V [0;37m32567019X 21.21% 2790C [0;37mT:59 Exits:NESWUD> [0;37mn[0m
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m125V [0;37m32567019X 21.21% 2790C [0;37mT:58 Exits:NES> [0;37mn[0m
+A beautiful vallenwood leaf falls to the ground.
+[36mOn a Vallenwood Bough[0;37m
+    The narrow bough comes to an end here. The new school of magic lies to
+the west, while strange chanting can be heard from the north. A hut built
+from sewn patches of animal skins stretched across the vallenwood branches
+lie to the east. A small grove can be seen at the base of the tree, as a
+small branch slopes gently down from here providing passage. Finally, the
+bough moves back toward the trunk to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:58 Exits:NESWD> [0;37mn[0m
+[36mA Strange Hut[0;37m
+    The hut is dimly lit by a sputtering candle sitting on a table. The
+ground is covered with various animal skins that muffle the sound of your
+steps. A firepit sits in the center of the hut, the smoke escapes through a
+hole in the ceiling. Hanging on the walls are various bits of the shaman's
+craft - feathers, bones and containers of all sorts. An awful smell
+emanates from a pot on the fire, you wonder if it is dinner or a potion.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is resting here. (flying)
+Foghorn, a bony man dressed in colorful rugs, is sitting here cross-legged. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m121V [0;37m32567019X 21.21% 2790C [0;37mT:58 Exits:S> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m361H [0;37m[32m121V [0;37m32567019X 21.21% 2790C [0;37mT:57 Exits:S> [0;37mb sta[0m
+
+-#-#-#-#-#-#-#-> Lefty <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m361H [0;37m[32m121V [0;37m32567019X 21.21% 2790C [0;37mT:47 Exits:S> [0;37ms[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m361H [0;37m[32m121V [0;37m32567019X 21.21% 2790C [0;37mT:46 Exits:S> [0;37ms[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m361H [0;37m[32m121V [0;37m32567019X 21.21% 2790C [0;37mT:46 Exits:S> [0;37ms[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m361H [0;37m[32m121V [0;37m32567019X 21.21% 2790C [0;37mT:46 Exits:S> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m361H [0;37m[32m121V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:S> [0;37ms[0m
+A beautiful vallenwood leaf falls to the ground.
+Lefty flies in from the north.
+[36mOn a Vallenwood Bough[0;37m
+    The narrow bough comes to an end here. The new school of magic lies to
+the west, while strange chanting can be heard from the north. A hut built
+from sewn patches of animal skins stretched across the vallenwood branches
+lie to the east. A small grove can be seen at the base of the tree, as a
+small branch slopes gently down from here providing passage. Finally, the
+bough moves back toward the trunk to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m119V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:NESWD> [0;37ms[0m
+Lefty flies in from the north.
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m117V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:NES> [0;37ms[0m
+Lefty flies in from the north.
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m115V [0;37m32567019X 21.21% 2790C [0;37mT:44 Exits:NESWUD> [0;37md[0m
+Lefty flies in from above.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA small roll of bread lies here. [19]
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+A lovely young lady is excited by the array of activities around her.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m114V [0;37m32567019X 21.21% 2790C [0;37mT:44 Exits:NESWU> 
+You can't put liquids in a rough acid etched black jade ringlet (B2+ DRUID FINGER)!
+You can't put liquids in a macabre spellbinder's band (B3+ SHAMAN FINGER)!
+You can't put liquids in a bone and rock necklace (cha mag *19)!
+You can't put liquids in a decorated simple gold charm (B1+ CASTER NECK)!
+You can't put liquids in a goblin bone-inlaid veil (C2 SHAMAN HEAD) of prophecy!
+You can't put liquids in some timeworn stockings of necromancy (B4+ SHAMAN LEGS)!
+You can't put liquids in some phantom's shoes of banishing (B5+ SHAMAN FEET)!
+You can't put liquids in a pair of enchanted elven battle gauntlets(dr2 Scout*19)!
+You can't put liquids in some dire sleeves of prophecy (C2+ SHAMAN ARMS)!
+You can't put liquids in a sivak's cloak!
+You can't put liquids in a morbid elf ear cord of banishing (B3+ SHAMAN WAIST)!
+You can't put liquids in a plain component pouch!
+You can't put liquids in an obscured bronze dragonscale wristband (C2+ CASTER WRIST)!
+You can't put liquids in a a savage red war maul (3d9 hr3 dr2 magic w30 *18)!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a scintillating red sunstone!
+You can't put liquids in some poison ivy!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small vial of quicksilver!
+You can't put liquids in two halves of a spherical geode!
+You can't put liquids in an adder's tongue fern leaf!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a brewed potion of ancestral shroud!
+
+[32m[0;37m[32m361H [0;37m[32m114V [0;37m32567019X 21.21% 2790C [0;37mT:44 Exits:NESWU> [0;37mn[0m
+Lefty flies in from the south.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A fidgeting wiry young boy stands here looking suspicious.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m113V [0;37m32567019X 21.21% 2790C [0;37mT:44 Exits:NSWU> [0;37mn[0m
+Lefty flies in from the south.
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m112V [0;37m32567019X 21.21% 2790C [0;37mT:43 Exits:NSW> [0;37mn[0m
+Lefty flies in from the south.
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m111V [0;37m32567019X 21.21% 2790C [0;37mT:43 Exits:NES> [0;37mn[0m
+Lefty flies in from the south.
+[36mIntersection of Northern Avenue and Perimeter Street[0;37m
+    Northern Avenue intersects Perimeter Street here. The avenue leads
+north and south, while Perimeter Street appears to loop to the east,
+circling above the region Solace is built in. What appears to be a gate is
+to the north, while you see signs of Solace to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A plump housewife walks past carrying a basket full of groceries.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m110V [0;37m32567019X 21.21% 2790C [0;37mT:43 Exits:NES> [0;37mn[0m
+Lefty flies in from the south.
+[36mThe Northern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the north. Two huge
+vallenwoods stand on either side of the road and it is between these, that
+the gate is built. The forest north of the gate looks much like the forest
+that Solace is a part of. You know, however, that it is much wilder and
+dangerous. Northern Avenue leads south into the heart of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A menacing rottweiler circles here barking at some shadows.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m109V [0;37m32567019X 21.21% 2790C [0;37mT:42 Exits:NS> [0;37mn[0m
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m108V [0;37m32567019X 21.21% 2790C [0;37mT:42 Exits:NS> [0;37mn[0m
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m106V [0;37m32567019X 21.21% 2790C [0;37mT:42 Exits:NSW> [0;37mw[0m
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m104V [0;37m32567019X 21.21% 2790C [0;37mT:41 Exits:EW> [0;37mw[0m
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m102V [0;37m32567019X 21.21% 2790C [0;37mT:41 Exits:NES> [0;37mn[0m
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m100V [0;37m32567019X 21.21% 2790C [0;37mT:41 Exits:NS> [0;37mn[0m
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m98V [0;37m32567019X 21.21% 2790C [0;37mT:40 Exits:NSW> [0;37mw[0m
+Lefty flies in from the east.
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m97V [0;37m32567019X 21.21% 2790C [0;37mT:40 Exits:NESW> [0;37mw[0m
+Lefty flies in from the east.
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m96V [0;37m32567019X 21.21% 2790C [0;37mT:39 Exits:EWU> [0;37mu[0m
+Lefty flies in from below.
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA bundle of arrows sits at your feet, blending into the ground. (22) [2]
+A bundle of arrows sits at your feet, blending into the ground. (1)
+A bundle of arrows sits at your feet, blending into the ground. (10)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (6)
+A bundle of arrows sits at your feet, blending into the ground. (31)
+A bundle of arrows sits at your feet, blending into the ground. (12)
+An arrow with the feather of a sparrow lies here.
+A bundle of arrows sits at your feet, blending into the ground. (31)
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m95V [0;37m32567019X 21.21% 2790C [0;37mT:39 Exits:D> [0;37md[0m
+Lefty flies in from above.
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m94V [0;37m32567019X 21.21% 2790C [0;37mT:37 Exits:EWU> [0;37me[0m
+Lefty flies in from the west.
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m93V [0;37m32567019X 21.21% 2790C [0;37mT:37 Exits:NESW> [0;37ms[0m
+Lefty flies in from the north.
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+You see the outline of a life form here, carrying: a black ice shield (rescold16 glow immcold).
+The clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m92V [0;37m32567019X 21.21% 2790C [0;37mT:37 Exits:N> [0;37mn[0m
+Lefty flies in from the south.
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m91V [0;37m32567019X 21.21% 2790C [0;37mT:32 Exits:NESW> [0;37mw[0m
+Lefty flies in from the east.
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m90V [0;37m32567019X 21.21% 2790C [0;37mT:32 Exits:EWU> [0;37mu[0m
+Lefty flies in from below.
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA bundle of arrows sits at your feet, blending into the ground. (22) [2]
+A bundle of arrows sits at your feet, blending into the ground. (1)
+A bundle of arrows sits at your feet, blending into the ground. (10)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (6)
+A bundle of arrows sits at your feet, blending into the ground. (31)
+A bundle of arrows sits at your feet, blending into the ground. (12)
+An arrow with the feather of a sparrow lies here.
+A bundle of arrows sits at your feet, blending into the ground. (31)
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m361H [0;37m[33m[1m89V [0;37m32567019X 21.21% 2790C [0;37mT:31 Exits:D> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m361H [0;37m[33m[1m89V [0;37m32567019X 21.21% 2790C [0;37mT:30 Exits:D> 
+Fir appears in the middle of the room.
+
+[32m[0;37m[32m361H [0;37m[33m[1m89V [0;37m32567019X 21.21% 2790C [0;37mT:9 Exits:D> [0;37mglare fir[0m
+You glare icily at him.
+
+[32m[0;37m[32m361H [0;37m[33m[1m89V [0;37m32567019X 21.21% 2790C [0;37mT:6 Exits:D> 
+Eredin appears in the middle of the room.
+
+[32m[0;37m[32m361H [0;37m[33m[1m89V [0;37m32567019X 21.21% 2790C [0;37mT:5 Exits:D> [0;37mgig[0m
+You giggle.
+
+[32m[0;37m[32m361H [0;37m[33m[1m89V [0;37m32567019X 21.21% 2790C [0;37mT:4 Exits:D> 
+[1;35;49m *******>>> AMPLIFY SPIRITS GONE <<<*******
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:60 Exits:D> [0;37msc[0m
+You are Qade the Male Half Elf, a level 29 Shaman.
+You are rank 8. You have completed 21.21% of your next rank.
+You are 20 years old.
+You have 361(361) hit and 123(133) movement points.
+Your behaviour has been Good.
+You have scored 102,432,981 exp, and have 2790(31018) steel coins.
+You need 32,567,019 more experience to advance.
+You have died 4 horrible deaths.
+You have been connected for 3 minute(s).
+You have been playing for 2 day(s), 14 hour(s) and 12 minute(s).
+Your natural ability scores are:
+        Str: 15 Int: 16 Wis: 16 Dex: 15 Con: 15 Cha: 18
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are resting.
+You are flying.
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:58 Exits:D> 
+someone gets a charm from its chest.
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:40 Exits:D> [0;37msay any moccer on?[0m
+You say 'any moccer on?'
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:39 Exits:D> [0;37ml[0m
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA bundle of arrows sits at your feet, blending into the ground. (22) [2]
+A bundle of arrows sits at your feet, blending into the ground. (1)
+A bundle of arrows sits at your feet, blending into the ground. (10)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (6)
+A bundle of arrows sits at your feet, blending into the ground. (31)
+A bundle of arrows sits at your feet, blending into the ground. (12)
+An arrow with the feather of a sparrow lies here.
+A bundle of arrows sits at your feet, blending into the ground. (31)
+[0;37m[31m[1mYou see the outline of a life form here, carrying: a shimmering green buckler; a drape of multicoloured autumn leaves.
+<Myth> Eredin of Eastguard is standing here. (flying)
+. . . has a tough exterior.
+You see the outline of a life form here, carrying: a tattered green cloak.
+<Myth> Fir Tree is standing here. (flying)
+. . . has a tough exterior.
+Lefty the Male Minotaur is standing here. (flying)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:39 Exits:D> 
+Someone gives you a wispy charm of twined hair.
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:38 Exits:D> [0;37mcast 'sp si'[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:33 Exits:D> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mT:32 Exits:D> [0;37mcast 'sp si'[0m
+You utter the words, 'spectral sight'
+Your eyes tingle.
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mMem:2 T:31 Exits:D> [0;37ml[0m
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA bundle of arrows sits at your feet, blending into the ground. (22) [2]
+A bundle of arrows sits at your feet, blending into the ground. (1)
+A bundle of arrows sits at your feet, blending into the ground. (10)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (6)
+A bundle of arrows sits at your feet, blending into the ground. (31)
+A bundle of arrows sits at your feet, blending into the ground. (12)
+An arrow with the feather of a sparrow lies here.
+A bundle of arrows sits at your feet, blending into the ground. (31)
+[0;37m[31m[1mYou see the outline of a life form here, carrying: a shimmering green buckler; a drape of multicoloured autumn leaves.
+<Myth> Eredin of Eastguard is standing here. (flying)
+. . . has a tough exterior.
+<Myth> Adda of Westguard is standing here. (flying) (invisible)
+. . . has a tough exterior.
+<Myth> Fir Tree is standing here. (flying)
+. . . has a tough exterior.
+Lefty the Male Minotaur is standing here. (flying)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mMem:2 T:27 Exits:D> [0;37min[0m
+You are carrying:
+a wispy charm of twined hair
+a glowing scroll of recall..it glows dimly
+a scintillating red sunstone
+some poison ivy
+a glowing scroll of recall..it glows dimly [2]
+a small vial of quicksilver
+two halves of a spherical geode
+an adder's tongue fern leaf
+a small wooden chest
+a brewed potion of ancestral shroud
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mMem:2 T:23 Exits:D> [0;37mspells[0m
+Your spells
+-----------
+1:  ancestral shroud       bone shape             clot                 
+    cure light             detect poison          satiate              
+    slow poison            spectral glow          spiritual guidance   
+2:  ancestral blessing     blindness              cure blindness       
+    curse                  endurance              remove curse         
+3:  cure serious           delay death            remove poison        
+    restore strength       spectral sight         vile spirits         
+4:  amplify spirits        cure disease           devouring spirits    
+    ghost berries          monstrous mantle       soul leech           
+    sublime resistance   
+5:  boiling blood          cure critical          sanctuary            
+6:  ancestral spirit       heal boost             regenerate           
+    ritual voyage        
+8:  transmogrify         
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mMem:2 T:20 Exits:D> [0;37mmem 'soul pr'[0m
+You've never heard of such a spell.
+
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mMem:2 T:14 Exits:D> [0;37ml[0m
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA bundle of arrows sits at your feet, blending into the ground. (22) [2]
+A bundle of arrows sits at your feet, blending into the ground. (1)
+A bundle of arrows sits at your feet, blending into the ground. (10)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (6)
+A bundle of arrows sits at your feet, blending into the ground. (31)
+A bundle of arrows sits at your feet, blending into the ground. (12)
+An arrow with the feather of a sparrow lies here.
+A bundle of arrows sits at your feet, blending into the ground. (31)
+[0;37m[31m[1mYou see the outline of a life form here, carrying: a shimmering green buckler; a drape of multicoloured autumn leaves.
+<Myth> Eredin of Eastguard is standing here. (flying)
+. . . has a tough exterior.
+<Myth> Adda of Westguard is standing here. (flying) (invisible)
+. . . has a tough exterior.
+<Myth> Fir Tree is standing here. (flying)
+. . . has a tough exterior.
+Lefty the Male Minotaur is standing here. (flying)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m123V [0;37m32567019X 21.21% 2790C [0;37mMem:2 T:12 Exits:D> 
+Your meditation finished, you put away your charms with a smile.
+Juni puts away her tablets with a content look on her face.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:60 Exits:D> [0;37min[0m
+You are carrying:
+a wispy charm of twined hair
+a glowing scroll of recall..it glows dimly
+a scintillating red sunstone
+some poison ivy
+a glowing scroll of recall..it glows dimly [2]
+a small vial of quicksilver
+two halves of a spherical geode
+an adder's tongue fern leaf
+a small wooden chest
+a brewed potion of ancestral shroud
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:36 Exits:D> [0;37mput all.component chest[0m
+A scintillating red sunstone won't fit.
+Some poison ivy won't fit.
+A small vial of quicksilver won't fit.
+Two halves of a spherical geode won't fit.
+An adder's tongue fern leaf won't fit.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:31 Exits:D> 
+Fizl appears before Juni in a puff of smoke.
+Sniferblin stumbles out of a puff of smoke.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:30 Exits:D> [0;37mput all.component pouch[0m
+A scintillating red sunstone won't fit.
+Some poison ivy won't fit.
+A small vial of quicksilver won't fit.
+Two halves of a spherical geode won't fit.
+An adder's tongue fern leaf won't fit.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:25 Exits:D> 
+The stronghold receptionist gives Fir an offer.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:25 Exits:D> [0;37ml[0m
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA bundle of arrows sits at your feet, blending into the ground. (22) [2]
+A bundle of arrows sits at your feet, blending into the ground. (1)
+A bundle of arrows sits at your feet, blending into the ground. (10)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (6)
+A bundle of arrows sits at your feet, blending into the ground. (31)
+A bundle of arrows sits at your feet, blending into the ground. (12)
+An arrow with the feather of a sparrow lies here.
+A bundle of arrows sits at your feet, blending into the ground. (31)
+[0;37m[31m[1m<Myth> Sniferblin the Maggot is standing here. (flying) (invisible)
+. . . has a tough exterior.
+You see the outline of a life form here, carrying: a crimson cloak (A2 WARRIOR ABOUT) inlaid with threads of marble; a small diamond
+shield (w18 ss-1 res_mag5 glow/bless).
+You see the outline of a life form here, carrying: a shimmering green buckler; a drape of multicoloured autumn leaves.
+<Myth> Eredin of Eastguard is standing here. (flying)
+. . . has a tough exterior.
+<Myth> Adda of Westguard is standing here. (flying) (invisible)
+. . . has a tough exterior.
+<Myth> Fir Tree is standing here. (flying)
+. . . has a tough exterior.
+Lefty the Male Minotaur is standing here. (flying)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:24 Exits:D> 
+Fizl flies down.
+Adda flies down.
+Eredin flies down.
+Juni flies down.
+Fir flies down.
+Sniferblin flies down.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:12 Exits:D> 
+Fir flies in from below.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:6 Exits:D> 
+The stronghold receptionist gives Fir an offer.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:4 Exits:D> 
+The stronghold receptionist shows Fir to his room.
+Fir sinks gently to the ground.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:2 Exits:D> 
+Fizl flies in from below.
+Adda flies in from below.
+Eredin flies in from below.
+Juni flies in from below.
+Sniferblin flies in from below.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:2 Exits:D> 
+Eredin begins resting but stays aloft.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:59 Exits:D> 
+Fizl stops using a black leather book with golden gilding.
+Fizl grabs a scroll of legend lore.
+Fizl recites a scroll of legend lore.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:59 Exits:D> 
+Strix has entered the game.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:58 Exits:D> 
+Adda begins resting but stays aloft.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:58 Exits:D> 
+Adda gets a bracelet from her chest.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:50 Exits:D> [0;37ml[0m
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA bundle of arrows sits at your feet, blending into the ground. (22) [2]
+A bundle of arrows sits at your feet, blending into the ground. (1)
+A bundle of arrows sits at your feet, blending into the ground. (10)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (6)
+A bundle of arrows sits at your feet, blending into the ground. (31)
+A bundle of arrows sits at your feet, blending into the ground. (12)
+An arrow with the feather of a sparrow lies here.
+A bundle of arrows sits at your feet, blending into the ground. (31)
+[0;37m[31m[1m<Myth> Strix the Female Theiwar Dwarf is standing here. (flying) (invisible)
+<Myth> Sniferblin the Maggot is standing here. (flying) (invisible)
+. . . has a tough exterior.
+You see the outline of a life form here, carrying: a shimmering green buckler; a drape of multicoloured autumn leaves.
+<Myth> Eredin of Eastguard is resting here. (flying)
+. . . has a tough exterior.
+<Myth> Adda of Westguard is resting here. (flying) (invisible)
+. . . has a tough exterior.
+You see the outline of a life form here, carrying: a crimson cloak (A2 WARRIOR ABOUT) inlaid with threads of marble; a small diamond
+shield (w18 ss-1 res_mag5 glow/bless).
+Lefty the Male Minotaur is standing here. (flying)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:48 Exits:D> 
+Adda gives a vaporous black dragonscale bracelet (D3+ CASTER WRIST) to Strix.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:48 Exits:D> 
+Adda gets a glasses from her chest.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:D> 
+Adda gives a pair of delicate crystal glasses (learn5 cl3 det_inv/mag *18) to Strix.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:42 Exits:D> [0;37msta[0m
+You are already standing.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:34 Exits:D> [0;37min[0m
+You are carrying:
+a wispy charm of twined hair
+a glowing scroll of recall..it glows dimly
+a scintillating red sunstone
+some poison ivy
+a glowing scroll of recall..it glows dimly [2]
+a small vial of quicksilver
+two halves of a spherical geode
+an adder's tongue fern leaf
+a small wooden chest
+a brewed potion of ancestral shroud
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:23 Exits:D> [0;37msc[0m
+You are Qade the Male Half Elf, a level 29 Shaman.
+You are rank 8. You have completed 21.21% of your next rank.
+You are 20 years old.
+You have 361(361) hit and 133(133) movement points.
+Your behaviour has been Good.
+You have scored 102,432,981 exp, and have 2790(31018) steel coins.
+You need 32,567,019 more experience to advance.
+You have died 4 horrible deaths.
+You have been connected for 6 minute(s).
+You have been playing for 2 day(s), 14 hour(s) and 15 minute(s).
+Your natural ability scores are:
+        Str: 15 Int: 16 Wis: 16 Dex: 15 Con: 15 Cha: 18
+Your equipment is currently being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are flying.
+You are affected by the following:
+    spectral sight       [22 hrs]
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:22 Exits:D> [0;37mb[0m
+
+Juni says 'chris'
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:18 Exits:D> [0;37m[0m
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:16 Exits:D> 
+Fizl grabs a scroll of legend lore.
+Fizl recites a scroll of legend lore.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:14 Exits:D> [0;37mlisten[0m
+You listen with all earnest.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:14 Exits:D> 
+Priya has entered the game.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:9 Exits:D> 
+Priya jumps up in the air and flaps her arms wildly!
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:9 Exits:D> 
+Juni says 'does your cleric have steelskin'
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:8 Exits:D> [0;37msay Mike[0m
+You say 'Mike'
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:8 Exits:D> 
+Fizl grabs a scroll of legend lore.
+Fizl recites a scroll of legend lore.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:8 Exits:D> 
+Adda wields a massive, bloodstained club (5d6 w40) (2d3 w5 *19) with both hands.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:7 Exits:D> [0;37msay no[0m
+You say 'no'
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:4 Exits:D> 
+Priya leaves down.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:4 Exits:D> 
+Fizl grabs a black leather book with golden gilding.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:1 Exits:D> 
+Fizl closes his spellbook with a content look on his face.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:60 Exits:D> 
+Strix says 'log it'
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:57 Exits:D> 
+Fizl gives a red potion to Sniferblin.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:55 Exits:D> 
+Strix gives a pair of delicate crystal glasses (learn5 cl3 det_inv/mag *18) to Adda.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:50 Exits:D> 
+Mao flies in from below.
+Siobhain the spectre flies in from below.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:47 Exits:D> 
+Strix gives a vaporous black dragonscale bracelet (D3+ CASTER WRIST) to Adda.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:46 Exits:D> [0;37msay should i study this soul prot or toss back?[0m
+You say 'should i study this soul prot or toss back?'
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:D> 
+Mao bops to the music.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:45 Exits:D> [0;37ml[0m
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA bundle of arrows sits at your feet, blending into the ground. (22) [2]
+A bundle of arrows sits at your feet, blending into the ground. (1)
+A bundle of arrows sits at your feet, blending into the ground. (10)
+A bundle of arrows sits at your feet, blending into the ground. (23)
+A bundle of arrows sits at your feet, blending into the ground. (6)
+A bundle of arrows sits at your feet, blending into the ground. (31)
+A bundle of arrows sits at your feet, blending into the ground. (12)
+An arrow with the feather of a sparrow lies here.
+A bundle of arrows sits at your feet, blending into the ground. (31)
+[0;37m[31m[1mAn ambiguous phantasmal spectre, Siobhain, hovers here. (invisible) (grey aura)
+. . . has a tough exterior.
+You see the outline of a life form here, carrying: the robes of darkness.
+<Myth> Strix the Female Theiwar Dwarf is standing here. (flying) (invisible)
+<Myth> Sniferblin the Maggot is standing here. (flying) (invisible)
+. . . has a tough exterior.
+You see the outline of a life form here, carrying: a shimmering green buckler; a drape of multicoloured autumn leaves.
+<Myth> Eredin of Eastguard is resting here. (flying)
+. . . has a tough exterior.
+<Myth> Adda of Westguard is resting here. (flying) (invisible)
+. . . has a tough exterior.
+You see the outline of a life form here, carrying: a crimson cloak (A2 WARRIOR ABOUT) inlaid with threads of marble; a small diamond
+shield (w18 ss-1 res_mag5 glow/bless).
+Lefty the Male Minotaur is standing here. (flying)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:36 Exits:D> 
+Adda says 'can study it'
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:34 Exits:D> [0;37msta[0m
+You are already standing.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:32 Exits:D> [0;37mstudy charm[0m
+A decorated simple gold charm isn't worth studying.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:30 Exits:D> 
+The stronghold receptionist shows Strix to her room.
+Strix sinks gently to the ground.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:28 Exits:D> 
+Fizl gives a dark potion to Sniferblin.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:28 Exits:D> 
+Fizl gives a dark potion to Sniferblin.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:27 Exits:D> [0;37mstudy charm in inventory[0m
+You fail to grasp the meaning of any spell(s) on a wispy charm of twined hair.
+A wispy charm of twined hair magically disappears as you finish studying it.
+
+[32m[0;37m[32m361H [0;37m[32m133V [0;37m32567019X 21.21% 2790C [0;37mT:26 Exits:D> [0;37md[0m
+Lefty flies in from above.
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m132V [0;37m32567019X 21.21% 2790C [0;37mT:24 Exits:EWU> [0;37me[0m
+Lefty flies in from the west.
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m131V [0;37m32567019X 21.21% 2790C [0;37mT:23 Exits:NESW> [0;37me[0m
+Lefty flies in from the west.
+[36mAmongst Some Grain Fields[0;37m
+    The path leads through some grain fields to the north and south heads
+into a pine forest. Far off to the west you see some high, jagged cliffs.
+The breeze from the north brings the smell of salt and is damp. The grain
+fields spread out to the east as far as you can see.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m130V [0;37m32567019X 21.21% 2790C [0;37mT:22 Exits:NSW> [0;37ms[0m
+Lefty flies in from the north.
+[36mThe Thinning Forest[0;37m
+    The pine forest around you thins out to nothing to the north and you
+can see large fields of grain. The forest grows thicker to the south and
+the path leads into it. You can see a large lake off in the south and high
+jagged cliffs off to the west.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m128V [0;37m32567019X 21.21% 2790C [0;37mT:21 Exits:NS> [0;37ms[0m
+Lefty flies in from the north.
+[36mAlong the Shore of Crystalmir[0;37m
+    You are at the corner of a large lake, which fills your vision far to
+the west before ending at high, jagged cliffs. The forest of pine that this
+trail winds through thins out to the north and east, where large fields of
+grain can be seen. The pine-covered trail follows the shoreline to the
+south into thicker woods and north.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m126V [0;37m32567019X 21.21% 2790C [0;37mT:21 Exits:NES> [0;37me[0m
+Lefty flies in from the west.
+[36mAt the Edge of Nearfields[0;37m
+    You are on a narrow trail that cuts between large fields of grain and
+the huge vallenwood trees that cover the Solace Vale. Stretching out to the
+north, these fields are known as Nearfields to the citizens of Solace
+because of their proximity to the small town. A thick forest of pine trees
+lies to the west, beyond which the Crystalmir Lake can be seen. To the east
+this dirt trail merges with a wide road.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m124V [0;37m32567019X 21.21% 2790C [0;37mT:21 Exits:EW> [0;37me[0m
+Lefty flies in from the west.
+[36mA Narrow Road[0;37m
+    A narrow road leads deep into a thick forest of very tall trees and
+north it leads through the plains of Abanasinia. Around you are many trees
+but not as many as to the south. The road runs in the near shadows of the
+Kharolis mountains which can be seen off to the west, beyond a great lake.
+The mountains appear to run north for some distance before ending. The
+plains spread out to the north from here for many leagues.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m122V [0;37m32567019X 21.21% 2790C [0;37mT:20 Exits:NSW> [0;37ms[0m
+Lefty flies in from the north.
+[36mA Narrow Road[0;37m
+    This narrow, dirt road winds its way through the great forest, curving
+around large trees and rocks. You can hear the chattering of hundreds of
+animals all around you, and a few of the trees seem to have large claw
+marks. To the south, lies the northern gate of Solace, and to the north,
+the road continues. Large bushes block your view to the east and west.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m120V [0;37m32567019X 21.21% 2790C [0;37mT:20 Exits:NS> [0;37ms[0m
+Lefty flies in from the north.
+[36mThe Northern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the north. Two huge
+vallenwoods stand on either side of the road and it is between these, that
+the gate is built. The forest north of the gate looks much like the forest
+that Solace is a part of. You know, however, that it is much wilder and
+dangerous. Northern Avenue leads south into the heart of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A menacing rottweiler circles here barking at some shadows.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m119V [0;37m32567019X 21.21% 2790C [0;37mT:20 Exits:NS> [0;37ms[0m
+Lefty flies in from the north.
+[36mIntersection of Northern Avenue and Perimeter Street[0;37m
+    Northern Avenue intersects Perimeter Street here. The avenue leads
+north and south, while Perimeter Street appears to loop to the east,
+circling above the region Solace is built in. What appears to be a gate is
+to the north, while you see signs of Solace to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m118V [0;37m32567019X 21.21% 2790C [0;37mT:20 Exits:NES> [0;37ms[0m
+Lefty flies in from the north.
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m117V [0;37m32567019X 21.21% 2790C [0;37mT:19 Exits:NES> [0;37ms[0m
+Lefty flies in from the north.
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m116V [0;37m32567019X 21.21% 2790C [0;37mT:19 Exits:NSW> [0;37ms[0m
+Sir Kantar uth MacKan frowns and says, 'You are faltering in your faith, do not sway from the path.'
+Lefty flies in from the north.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything. (white aura)
+. . . is outlined by a dim aura.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m115V [0;37m32567019X 21.21% 2790C [0;37mT:19 Exits:NSWU> [0;37ms[0m
+Lefty flies in from the north.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A small roll of bread lies here. [19]
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A lovely young lady is excited by the array of activities around her.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m114V [0;37m32567019X 21.21% 2790C [0;37mT:19 Exits:NESWU> 
+You can't put liquids in a rough acid etched black jade ringlet (B2+ DRUID FINGER)!
+You can't put liquids in a macabre spellbinder's band (B3+ SHAMAN FINGER)!
+You can't put liquids in a bone and rock necklace (cha mag *19)!
+You can't put liquids in a decorated simple gold charm (B1+ CASTER NECK)!
+You can't put liquids in a goblin bone-inlaid veil (C2 SHAMAN HEAD) of prophecy!
+You can't put liquids in some timeworn stockings of necromancy (B4+ SHAMAN LEGS)!
+You can't put liquids in some phantom's shoes of banishing (B5+ SHAMAN FEET)!
+You can't put liquids in a pair of enchanted elven battle gauntlets(dr2 Scout*19)!
+You can't put liquids in some dire sleeves of prophecy (C2+ SHAMAN ARMS)!
+You can't put liquids in a sivak's cloak!
+You can't put liquids in a morbid elf ear cord of banishing (B3+ SHAMAN WAIST)!
+You can't put liquids in a plain component pouch!
+You can't put liquids in an obscured bronze dragonscale wristband (C2+ CASTER WRIST)!
+You can't put liquids in a a savage red war maul (3d9 hr3 dr2 magic w30 *18)!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a scintillating red sunstone!
+You can't put liquids in some poison ivy!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small vial of quicksilver!
+You can't put liquids in two halves of a spherical geode!
+You can't put liquids in an adder's tongue fern leaf!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a brewed potion of ancestral shroud!
+
+[32m[0;37m[32m361H [0;37m[32m114V [0;37m32567019X 21.21% 2790C [0;37mT:18 Exits:NESWU> [0;37mn[0m
+Sir Kantar uth MacKan frowns and says, 'You are faltering in your faith, do not sway from the path.'
+Lefty flies in from the south.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything. (white aura)
+. . . is outlined by a dim aura.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m113V [0;37m32567019X 21.21% 2790C [0;37mT:17 Exits:NSWU> [0;37mw[0m
+Lefty flies in from the east.
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m112V [0;37m32567019X 21.21% 2790C [0;37mT:17 Exits:NEU> [0;37mu[0m
+
+[36mJuni tells you 'but log cleric'
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m112V [0;37m32567019X 21.21% 2790C [0;37mT:17 Exits:NEU> 
+The wonderful smell of spiced potatoes makes your stomach rumble.
+Lefty flies in from below.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m111V [0;37m32567019X 21.21% 2790C [0;37mT:17 Exits:SWUD> [0;37mu[0m
+Lefty flies in from below.
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA small wooden chest rests here.
+A potion is lying here. [15]
+An old rusty key lies here.
+A thin black key lies here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here. (flying)
+A red-haired young lady is wiping down a table here.
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m361H [0;37m[32m110V [0;37m32567019X 21.21% 2790C [0;37mT:16 Exits:D> [0;37mrent[0m
+[33m[1ma rough acid etched black jade ringlet (B2+ DRUID FINGER) : 110 coins/day
+[0;37m[33m[1m         a macabre spellbinder's band (B3+ SHAMAN FINGER) : 140 coins/day
+[0;37m[33m[1m             a bone and rock necklace (cha mag *19) : 65 coins/day
+[0;37m[33m[1m        a decorated simple gold charm (B1+ CASTER NECK) : 140 coins/day
+[0;37m[33m[1ma goblin bone-inlaid veil (C2 SHAMAN HEAD) of prophecy : 270 coins/day
+[0;37m[33m[1msome timeworn stockings of necromancy (B4+ SHAMAN LEGS) : 110 coins/day
+[0;37m[33m[1m    some phantom's shoes of banishing (B5+ SHAMAN FEET) : 110 coins/day
+[0;37m[33m[1ma pair of enchanted elven battle gauntlets(dr2 Scout*19) : 500 coins/day
+[0;37m[33m[1m        some dire sleeves of prophecy (C2+ SHAMAN ARMS) : 170 coins/day
+[0;37m[33m[1m                      a sivak's cloak : 95 coins/day
+[0;37m[33m[1m   a morbid elf ear cord of banishing (B3+ SHAMAN WAIST) : 110 coins/day
+[0;37m[33m[1m              a plain component pouch : 5 coins/day
+[0;37m[33m[1m          a lump of blood red mud [3] : 6 coins/day
+[0;37m[33m[1m              a magnetized needle [2] : 4 coins/day
+[0;37m[33m[1m            a gleaming silver die [4] : 8 coins/day
+[0;37m[33m[1m                       a bag of fluff : 3 coins/day
+[0;37m[33m[1m            a sprinkle of saffron [2] : 2 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 6 coins/day
+[0;37m[33m[1m                  a bit of fleece [2] : 6 coins/day
+[0;37m[33m[1m          a bottled thunder storm [2] : 6 coins/day
+[0;37m[33m[1m                   a dinosaur egg [2] : 2 coins/day
+[0;37m[33m[1m                      a slice of lime : 1 coin/day
+[0;37m[33m[1m                a crimson dragon tear : 1 coin/day
+[0;37m[33m[1m                an indigo dragon tear : 2 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 4 coins/day
+[0;37m[33m[1ma small silver sea serpent's scale [3] : 6 coins/day
+[0;37m[33m[1m            a brilliant blue bead [3] : 6 coins/day
+[0;37m[33m[1m           a sky-blue dragon tear [2] : 4 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 2 coins/day
+[0;37m[33m[1m     an enchanted bag of astral space : 3 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [2] : 6 coins/day
+[0;37m[33m[1m  a powerfully odorous musk gland [3] : 6 coins/day
+[0;37m[33m[1m                    a red silk ribbon : 1 coin/day
+[0;37m[33m[1m            a splintered demon's horn : 3 coins/day
+[0;37m[33m[1m              a pinch of white talcum : 2 coins/day
+[0;37m[33m[1ma dried piece of octopus tentacle [4] : 12 coins/day
+[0;37m[33m[1m               some froghemoth saliva : 1 coin/day
+[0;37m[33m[1ma thin slate of polished obsidian [2] : 4 coins/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[33m[1m                 a silver laced pearl : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m[1m            a deformed crow's leg [3] : 6 coins/day
+[0;37m[33m[1m                      a golden nugget : 2 coins/day
+[0;37m[33m[1m           a broken piece of a mirror : 1 coin/day
+[0;37m[33m[1m              a chiseled granite fist : 3 coins/day
+[0;37m[33m[1m               a sterling dinner bell : 2 coins/day
+[0;37m[33m[1m a handful of toasted beetle legs [3] : 3 coins/day
+[0;37m[33m[1m        a neatly folded parchment fan : 2 coins/day
+[0;37m[33m[1m                a dead gypsy moth [2] : 4 coins/day
+[0;37m[33m[1m             a mummified bullfrog leg : 3 coins/day
+[0;37m[33m[1m               some leaves of hemlock : 2 coins/day
+[0;37m[33m[1m                         a bone flute : 3 coins/day
+[0;37m[33m[1m         a pinch of noxious brimstone : 1 coin/day
+[0;37m[33m[1m         a dried, discarded snakeskin : 1 coin/day
+[0;37m[33m[1m        the hind leg of a grasshopper : 1 coin/day
+[0;37m[33m[1m            a pinch of chameleon dust : 1 coin/day
+[0;37m[33m[1m                   some cracked amber : 1 coin/day
+[0;37m[33m[1m         a scintillating red sunstone : 2 coins/day
+[0;37m[33m[1m                a small warding stone : 3 coins/day
+[0;37m[33m[1m                     a short iron bar : 2 coins/day
+[0;37m[33m[1m             powdered bull's horn [3] : 6 coins/day
+[0;37m[33m[1m                      an owl beak [2] : 4 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 3 coins/day
+[0;37m[33m[1m                     a miniature bell : 1 coin/day
+[0;37m[33m[1m             some dried bat guano [2] : 2 coins/day
+[0;37m[33m[1m                        a forked twig : 1 coin/day
+[0;37m[33m[1m                    a vial of vinegar : 2 coins/day
+[0;37m[33m[1m       a patch of phosphorescent moss : 2 coins/day
+[0;37m[33m[1m             a small block of granite : 2 coins/day
+[0;37m[33m[1m             a short stick of incense : 1 coin/day
+[0;37m[33m[1m                   a maiden's eyelash : 1 coin/day
+[0;37m[33m[1m           a pinch of powdered silver : 2 coins/day
+[0;37m[33m[1m                   tufts of lion mane : 3 coins/day
+[0;37m[33m[1m              chips of sun baked clay : 1 coin/day
+[0;37m[33m[1m                       a pineal gland : 2 coins/day
+[0;37m[33m[1man obscured bronze dragonscale wristband (C2+ CASTER WRIST) : 250 coins/day
+[0;37m[33m[1m                a a savage red war maul (3d9 hr3 dr2 magic w30 *18) : 30 coins/day
+[0;37m[33m       a glowing scroll of recall [3] : 45 coins/day
+[0;37m[33m         a scintillating red sunstone : 2 coins/day
+[0;37m[33m                      some poison ivy : 2 coins/day
+[0;37m[33m          a small vial of quicksilver : 5 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m      two halves of a spherical geode : 3 coins/day
+[0;37m[33m          an adder's tongue fern leaf : 3 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m           a sterling dinner bell [2] : 4 coins/day
+[0;37m[32m                a small warding stone : 3 coins/day
+[0;37m[32m   a patch of phosphorescent moss [3] : 6 coins/day
+[0;37m[32m           a scratched glass lens [2] : 2 coins/day
+[0;37m[32m              crushed black pearl [2] : 10 coins/day
+[0;37m[32m           a newly spun chrysalis [3] : 6 coins/day
+[0;37m[32m             a bleached bone disc [3] : 9 coins/day
+[0;37m[32m            a sparkling green emerald : 3 coins/day
+[0;37m[32m               a small flask of smoke : 3 coins/day
+[0;37m[32m             a sliver of igneous rock : 3 coins/day
+[0;37m[32ma thin slate of polished obsidian [2] : 4 coins/day
+[0;37m[32m                      a wooden splint : 1 coin/day
+[0;37m[32m  a broken piece of stained glass [3] : 3 coins/day
+[0;37m[32m             a flask of mineral water : 3 coins/day
+[0;37m[32m                        a forked twig : 1 coin/day
+[0;37m[32m    a patch of poisonous crimson moss : 2 coins/day
+[0;37m[32m                    a bent steel nail : 1 coin/day
+[0;37m[32m                a bit of brain tissue : 2 coins/day
+[0;37m[32m       a broken piece of a mirror [2] : 2 coins/day
+[0;37m[32ma flower of Queen Christine's lace [2] : 2 coins/day
+[0;37m[32m              a hand-held sundial [2] : 4 coins/day
+[0;37m[32m              a jar of smelling salts : 2 coins/day
+[0;37m[32m     a lock of a siren's emerald hair : 3 coins/day
+[0;37m[32m           a pair of albino bat wings : 2 coins/day
+[0;37m[32m       a piece of broken pond ice [2] : 6 coins/day
+[0;37m[32m                   a pineal gland [3] : 6 coins/day
+[0;37m[32m  a polished cat's eye agate necklace (B4+ CASTER NECK) : 110 coins/day
+[0;37m[32m                   a ridged pine cone : 1 coin/day
+[0;37m[32m                a rotting garlic bulb : 1 coin/day
+[0;37m[32m     a scintillating red sunstone [4] : 8 coins/day
+[0;37m[32m       a small bag of silver dust [2] : 4 coins/day
+[0;37m[32m         a small blue-green agate [2] : 4 coins/day
+[0;37m[32m          a small vial of quicksilver : 5 coins/day
+[0;37m[32m                 a smear of green mud : 2 coins/day
+[0;37m[32m     a sprig of festive mistletoe [2] : 2 coins/day
+[0;37m[32m                  a stick of cinnamon : 1 coin/day
+[0;37m[32m                a tiny bronze balance : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m      a vial of seductive perfume [2] : 4 coins/day
+[0;37m[32m               a vial of spinal fluid : 3 coins/day
+[0;37m[32m                     a withered tulip : 1 coin/day
+[0;37m[32m                     an aeolipile [3] : 6 coins/day
+[0;37m[32man intricately crafted gold pocket watch : 1 coin/day
+[0;37m[32m                     an opaque cornea : 1 coin/day
+[0;37m[32m                      an owl beak [4] : 8 coins/day
+[0;37m[32m             powdered bull's horn [2] : 4 coins/day
+[0;37m[32m          some bottled minotaur urine : 1 coin/day
+[0;37m[32m           some leaves of hemlock [2] : 4 coins/day
+[0;37m[32m                     some rose petals : 2 coins/day
+[0;37m[32m            some rotten skunk cabbage : 1 coin/day
+[0;37m[32m                some small gold links : 3 coins/day
+[0;37m[32m     some translucent crystal marbles : 2 coins/day
+[0;37m[32m                    some volcanic ash : 2 coins/day
+[0;37m[33m  a brewed potion of ancestral shroud : 8 coins/day
+[0;37mThe receptionist tells you 'You need at least 2635 coins to rent.'
+The receptionist tells you 'You will be able to rent for 38 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+Lefty stops following you.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

@@ -1,0 +1,673 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? sprink
+Password: 
+
+
+You were last connected Sun Jan 08 19:33:14 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 8 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1m[0;37m[31m[1mGog, Bloodthirsty Berserker is standing here. (flying)
+Dandrea, Noble Lady of Palanthas is standing here.
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m97V [0;37m930120X 28.80% 9123C [0;37mT:53 Exits:D> case gog
+Not here, dimwit!
+
+[32m[0;37m[32m365H [0;37m[32m97V [0;37m930120X 28.80% 9123C [0;37mT:47 Exits:D> d
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA red-haired young lady is wiping down a table here.
+A small child plays with some colorful objects.
+Otik watches you calmly, while he skillfully mixes a drink.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m96V [0;37m930120X 28.80% 9123C [0;37mT:46 Exits:SWUD> d
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m95V [0;37m930120X 28.80% 9123C [0;37mT:46 Exits:NEU> e
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA man wrapped in a brown cloak wanders around the city of Solace.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m94V [0;37m930120X 28.80% 9123C [0;37mT:45 Exits:NSWU> s
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Bonny stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA plump housewife walks past carrying a basket full of groceries.
+A cheerful gnome whistles an out of tune melody as he walks past.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m93V [0;37m930120X 28.80% 9123C [0;37mT:45 Exits:NESWU> 
+A plump housewife leaves east.
+
+[32m[0;37m[32m365H [0;37m[32m93V [0;37m930120X 28.80% 9123C [0;37mT:44 Exits:NESWU> 
+The janitor arrives from above.
+
+[32m[0;37m[32m365H [0;37m[32m93V [0;37m930120X 28.80% 9123C [0;37mT:42 Exits:NESWU> s
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m92V [0;37m930120X 28.80% 9123C [0;37mT:42 Exits:NS> s
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA long-tailed ground dove sits here on a low branch.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:41 Exits:NES> case merchant
+The merchant loudly shouts the virtue of his wares to anyone that will
+listen, hoping to outsell the local stores and drive them out of business.
+A wandering merchant is in an excellent condition.
+You attempt to peek at his inventory, but you see nothing.
+There appears to be no coins in the money pouch.
+A wandering merchant notices your curiosity!
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:39 Exits:NES> case merchant
+case merchant
+case merchant
+case merchant
+case merchant
+case merchant
+case merchant
+case merchant
+
+
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:35 Exits:NES> 
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:35 Exits:NES> 
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:35 Exits:NES> 
+The merchant loudly shouts the virtue of his wares to anyone that will
+listen, hoping to outsell the local stores and drive them out of business.
+A wandering merchant is in an excellent condition.
+You attempt to peek at his inventory, but you see nothing.
+There are about 10000 coins in the money pouch.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:34 Exits:NES> case merchant
+case merchant
+case merchant
+case merchant
+
+A long-tailed ground dove stretches its wings and flies east.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:32 Exits:NES> 
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:30 Exits:NES> 
+The merchant loudly shouts the virtue of his wares to anyone that will
+listen, hoping to outsell the local stores and drive them out of business.
+A wandering merchant is in an excellent condition.
+You attempt to peek at his inventory, but you see nothing.
+There are about 10000 coins in the money pouch.
+A wandering merchant notices your curiosity!
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:30 Exits:NES> 
+The merchant loudly shouts the virtue of his wares to anyone that will
+listen, hoping to outsell the local stores and drive them out of business.
+A wandering merchant is in an excellent condition.
+You attempt to peek at his inventory, but you see nothing.
+There appears to be no coins in the money pouch.
+A wandering merchant notices your curiosity!
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:26 Exits:NES> 
+The merchant loudly shouts the virtue of his wares to anyone that will
+listen, hoping to outsell the local stores and drive them out of business.
+A wandering merchant is in an excellent condition.
+You attempt to peek at his inventory, but you see nothing.
+There are about 10000 coins in the money pouch.
+A wandering merchant notices your curiosity!
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:21 Exits:NES> 
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:17 Exits:NES> 
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:17 Exits:NES> 
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:17 Exits:NES> 
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:16 Exits:NES> 
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:16 Exits:NES> 
+Tricias flies in from the north.
+Bonny flies in from the north.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:16 Exits:NES> 
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:16 Exits:NES> ski
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (fair)              long blades   (awful)           
+     miscellaneous (awful)             piercers      (fair)            
+     short blades  (awful)           
+
+     backstab      (good)          **  hide          (awful)           
+     sneak         (awful)           
+     pick          (poor)            
+     steal         (bad)             
+     case          (average)           dodge         (good)          **
+     plant         (awful)             throat punch  (poor)            
+     bandage       (fair)              detect        (average)         
+     disable       (poor)              envenom       (fair)          **
+     unbalance     (awful)           
+     fade          (bad)             
+     coup          (bad)               evade         (bad)             
+
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:14 Exits:NES> n
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA janitor is walking around, cleaning up.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m90V [0;37m930120X 28.80% 9123C [0;37mT:11 Exits:NS> n
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Bonny stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA plump housewife walks past carrying a basket full of groceries.
+A janitor is walking around, cleaning up.
+A Seeker priest stands here trying to convert unbelievers.
+A cheerful gnome whistles an out of tune melody as he walks past.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m89V [0;37m930120X 28.80% 9123C [0;37mT:11 Exits:NESWU> u
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAn old beggar hobbles along here looking for handouts.
+A long-tailed ground dove sits here on a low branch.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m88V [0;37m930120X 28.80% 9123C [0;37mT:10 Exits:NESWUD> n
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m86V [0;37m930120X 28.80% 9123C [0;37mT:10 Exits:NES> e
+The patrons pay you no heed and continue with their banter.
+[36mThe Muddy Waters[0;37m
+    This is a small tavern but filled to the brim with rowdy customers that
+are both loud and drunk. Stale ale and bowls of musty broth are served by a
+couple of wenches, occasionally having to fend off a few wandering hands. A
+small fireplace lies in the north wall providing little light as most of
+the corners of the tavern are shrouded in darkness.
+[33m[1m[0;37m[31m[1mAldur A'Kul the master thief sits in a corner watching every movement.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m85V [0;37m930120X 28.80% 9123C [0;37mT:10 Exits:W> learn all
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m365H [0;37m[33m[1m85V [0;37m930120X 28.80% 9123C [0;37mT:9 Exits:W> ski
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (fair)              long blades   (awful)           
+     miscellaneous (awful)             piercers      (fair)            
+     short blades  (awful)           
+
+     backstab      (good)          **  hide          (awful)           
+     sneak         (awful)           
+     pick          (poor)            
+     steal         (bad)             
+     case          (average)           dodge         (good)          **
+     plant         (awful)             throat punch  (poor)            
+     bandage       (fair)              detect        (average)         
+     disable       (poor)              envenom       (fair)          **
+     unbalance     (awful)           
+     fade          (bad)             
+     coup          (bad)               evade         (bad)             
+
+[32m[0;37m[32m365H [0;37m[33m[1m85V [0;37m930120X 28.80% 9123C [0;37mT:8 Exits:W> w
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m84V [0;37m930120X 28.80% 9123C [0;37mT:7 Exits:NES> s
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAn old beggar hobbles along here looking for handouts.
+A long-tailed ground dove sits here on a low branch.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m82V [0;37m930120X 28.80% 9123C [0;37mT:6 Exits:NESWUD> s
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m80V [0;37m930120X 28.80% 9123C [0;37mT:6 Exits:NEWU> n
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAn old beggar hobbles along here looking for handouts.
+A long-tailed ground dove sits here on a low branch.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m78V [0;37m930120X 28.80% 9123C [0;37mT:4 Exits:NESWUD> d
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Bonny stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything.
+A janitor is walking around, cleaning up.
+A Seeker priest stands here trying to convert unbelievers.
+A cheerful gnome whistles an out of tune melody as he walks past.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m77V [0;37m930120X 28.80% 9123C [0;37mT:3 Exits:NESWU> s
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA plump housewife walks past carrying a basket full of groceries.
+A janitor is walking around, cleaning up.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m76V [0;37m930120X 28.80% 9123C [0;37mT:3 Exits:NS> s
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mBonny the Female Kagonesti is standing here. (flying)
+Tricias the Female Minotaur is standing here. (flying)
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m75V [0;37m930120X 28.80% 9123C [0;37mT:3 Exits:NES> items
+tiers
+
+The janitor arrives from the north.
+You are thirsty.
+
+[32m[0;37m[32m365H [0;37m[32m100V [0;37m930120X 28.80% 9123C [0;37mT:60 Exits:NES> case bonny
+You are caught before you even begin and quickly avert your eyes.
+
+[32m[0;37m[32m365H [0;37m[32m100V [0;37m930120X 28.80% 9123C [0;37mT:59 Exits:NES> case tricias
+You see nothing special about her.
+Tricias the young adult female minotaur is in an excellent condition.
+
+Tricias is using:
+<worn on finger>           a rodent spine circlet (healing1%)
+<worn around neck>         [38;5;183ma cryptic octopus skin talisman (B4+ MELEE NECK)[0;37m
+<worn around neck>         a silver dwarven talisman (HR mv10 imm_acid *19)
+<worn on body>             an an emerald green leather vest (str1)
+<worn on head>             [38;5;117ma brass dragonscale helm (ac-10 wis1 det_ev/inv/infra imm_heat *set*)[0;37m
+<worn on legs>             anklets of woven palladium (dex1 ac-5 clan_fly)..it glows dimly
+<worn on hands>            [38;5;214ma pair of human skin gloves[0;37m
+<worn on arms>             a pair of plain leather sleeves
+<worn about waist>         a fine silk belt-pouch
+<worn around right wrist>  a thick dwarven bracelet (HR *19)
+<worn around left wrist>   a wrist lantern
+<used in primary hand>     a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+<used in secondary hand>   a bloody minotaur hand axe
+You attempt to peek at her inventory:
+a wrist lantern
+a wrist lantern
+There appears to be no coins in the money pouch.
+You feel enlightened.
+
+[32m[0;37m[32m365H [0;37m[32m100V [0;37m930120X 28.80% 9123C [0;37mT:55 Exits:NES> n
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA plump housewife walks past carrying a basket full of groceries.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m99V [0;37m930120X 28.80% 9123C [0;37mT:51 Exits:NS> n
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Bonny stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mSir Kantar uth MacKan walks slowly by, apparently noticing everything.
+A cheerful gnome whistles an out of tune melody as he walks past.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m98V [0;37m930120X 28.80% 9123C [0;37mT:51 Exits:NESWU> u
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA singing, happy dwarf stumbles along drunkenly.
+An old beggar hobbles along here looking for handouts.
+A long-tailed ground dove sits here on a low branch.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m97V [0;37m930120X 28.80% 9123C [0;37mT:50 Exits:NESWUD> ski
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (fair)              long blades   (awful)           
+     miscellaneous (awful)             piercers      (fair)            
+     short blades  (awful)           
+
+     backstab      (good)          **  hide          (awful)           
+     sneak         (awful)           
+     pick          (poor)            
+     steal         (bad)             
+     case          (average)       **  dodge         (good)          **
+     plant         (awful)             throat punch  (poor)            
+     bandage       (fair)              detect        (average)         
+     disable       (poor)              envenom       (fair)          **
+     unbalance     (awful)           
+     fade          (bad)             
+     coup          (bad)               evade         (bad)             
+
+[32m[0;37m[32m365H [0;37m[32m97V [0;37m930120X 28.80% 9123C [0;37mT:49 Exits:NESWUD> n
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m365H [0;37m[32m95V [0;37m930120X 28.80% 9123C [0;37mT:47 Exits:NES> e
+The patrons pay you no heed and continue with their banter.
+[36mThe Muddy Waters[0;37m
+    This is a small tavern but filled to the brim with rowdy customers that
+are both loud and drunk. Stale ale and bowls of musty broth are served by a
+couple of wenches, occasionally having to fend off a few wandering hands. A
+small fireplace lies in the north wall providing little light as most of
+the corners of the tavern are shrouded in darkness.
+[33m[1m[0;37m[31m[1mAldur A'Kul the master thief sits in a corner watching every movement.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m94V [0;37m930120X 28.80% 9123C [0;37mT:47 Exits:W> learn all
+Aldur instructs you in the skill 'case'.
+
+[32m[0;37m[32m365H [0;37m[32m94V [0;37m930120X 28.80% 9123C [0;37mT:46 Exits:W> w
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m365H [0;37m[32m93V [0;37m930120X 28.80% 9123C [0;37mT:44 Exits:NES> s
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA singing, happy dwarf stumbles along drunkenly.
+An old beggar hobbles along here looking for handouts.
+A long-tailed ground dove sits here on a low branch.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m365H [0;37m[32m91V [0;37m930120X 28.80% 9123C [0;37mT:44 Exits:NESWUD> d
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Bonny stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mSir Kantar uth MacKan walks slowly by, apparently noticing everything.
+A cheerful gnome whistles an out of tune melody as he walks past.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m90V [0;37m930120X 28.80% 9123C [0;37mT:44 Exits:NESWU> n
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA janitor is walking around, cleaning up.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m89V [0;37m930120X 28.80% 9123C [0;37mT:43 Exits:NSWU> w
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA man wrapped in a brown cloak wanders around the city of Solace.
+An orange-breasted falcon is perched here while feasting on a prey.
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m88V [0;37m930120X 28.80% 9123C [0;37mT:43 Exits:NEU> u
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA red-haired young lady is wiping down a table here.
+Dandrea, Noble Lady of Palanthas is standing here.
+A small child plays with some colorful objects.
+Otik watches you calmly, while he skillfully mixes a drink.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m87V [0;37m930120X 28.80% 9123C [0;37mT:43 Exits:SWUD> u
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1m[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m365H [0;37m[33m[1m86V [0;37m930120X 28.80% 9123C [0;37mT:42 Exits:D> rent
+[33m[1m            some thick leather armour : 100 coins/day
+[0;37m[33m[1ma headband adorned with eagle's feathers (det_invis) : 30 coins/day
+[0;37m[33m[1m             a a pair of shadow sleeves (ac-3 score crit .5% nomag/pal/dru/cle/scout/war/barb/sham) : 150 coins/day
+[0;37m[33m[1m                  a grey witch's robe (hide/bless) : 80 coins/day
+[0;37m[33m[1m                         an ice spear : 100 coins/day
+[0;37m[33m[1m                  a heavy spiked mace : 120 coins/day
+[0;37m[33m a bowl of Otik's spiced potatoes [4] : 4 coins/day
+[0;37m[33m                  a small leather bag : 0 coins/day
+[0;37m[33m                      a waterskin [3] : 3 coins/day
+[0;37m[33m                          a waterskin : 0 coins/day
+[0;37mThe receptionist tells you 'You need at least 587 coins to rent.'
+The receptionist tells you 'You will be able to rent for 46 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 0
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

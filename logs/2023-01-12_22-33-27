@@ -1,0 +1,1519 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Fri Jan 13 04:26:57 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 48 steel in rent.
+
+Welcome to the land of Krynn.
+
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA book with dark brown covers lies here...it emits an arcane glow
+A very valuable key has been left here.
+A flimsy bronze key lies here.
+A luminous potion of liquid brass has been set here...it glows dimly
+A large glob of dark red slime squats here.
+A small roll of bread lies here...it emits an arcane glow [13]
+[0;37m[31m[1mYou see the outline of a life form here, carrying: the robes of darkness.
+<Myth> Shmyaka Krakozyaka is standing here. (flying) (white aura)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m108V [0;37m1X 0.14% 1653C [0;37mT:32 Exits:D> 
+[36mSomeone tells your clan 'i want worg'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m108V [0;37m1X 0.14% 1653C [0;37mT:20 Exits:D> 
+[36mSomeone tells your clan 'find it'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m108V [0;37m1X 0.14% 1653C [0;37mT:13 Exits:D> 
+[37mYour clanmate Vyllein has entered the game.
+[0;37mVyllein has entered the game.
+
+[32m[0;37m[32m432H [0;37m[32m108V [0;37m1X 0.14% 1653C [0;37mT:11 Exits:D> 
+[36mSomeone tells your clan 'not loading'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m108V [0;37m1X 0.14% 1653C [0;37mT:9 Exits:D> 
+Vyllein now follows someone.
+
+[32m[0;37m[32m432H [0;37m[32m108V [0;37m1X 0.14% 1653C [0;37mT:8 Exits:D> 
+A dark brown book decays into dust and blows away.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:60 Exits:D> 
+[36mSomeone tells your clan 'got grizzly earlier'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:59 Exits:D> 
+[36mThiq tells your clan 'i want 17 glowing motes'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:57 Exits:D> 
+[36mThiq tells your clan 'ffs'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:55 Exits:D> 
+[36mSomeone tells your clan 'Mavlad, I've got about an hour'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:51 Exits:D> 
+[36mSomeone tells your clan 'time for 1 good hard zone'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:47 Exits:D> ct anyone hitting ranks?
+You tell your clan 'anyone hitting ranks?'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:44 Exits:D> 
+[36mSomeone tells your clan 'YOu up to lead it?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:43 Exits:D> l
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA very valuable key has been left here.
+A flimsy bronze key lies here.
+A luminous potion of liquid brass has been set here...it glows dimly
+A large glob of dark red slime squats here.
+A small roll of bread lies here...it emits an arcane glow [13]
+[0;37m[31m[1m<Myth> Captain Vyllein, Shield of the Myth Conclave is standing here. (flying) (black aura)
+You see the outline of a life form here, carrying: the robes of darkness.
+<Myth> Shmyaka Krakozyaka is standing here. (flying) (white aura)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:40 Exits:D> 
+[36mSomeone tells your clan 'i have 2'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:39 Exits:D> 
+The stronghold receptionist shows Vyllein to her room.
+Vyllein sinks gently to the ground.
+Vyllein stops following someone.
+[37mYour clanmate Vyllein has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:37 Exits:D> 
+[36mShmyaka tells your clan 'trading glowing for bright!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:37 Exits:D> 
+[36mThiq tells your clan 'heh'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:32 Exits:D> 
+[36mThiq tells your clan 'anyone even seen a bright?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:27 Exits:D> d
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 0.14% 1653C [0;37mT:21 Exits:EWU> e
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:20 Exits:NESW> s
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1mA large glob of dark red slime squats here. [2]
+A grotesque face with a tentacled mouth lies here...it emits an arcane glow
+A large glob of dark red slime squats here.
+A thin string of sea dragon scales lies here...it emits an arcane glow
+A folded scrap of parchment is lying here.
+[0;37m[31m[1mThe clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:20 Exits:N> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:19 Exits:N> 
+[36mShmyaka tells your clan 'yes i have 1'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:14 Exits:N> brew recipes
+You know the recipes to brew the following spells:
+
+ aid
+   0/1 Low Protection
+
+ bless
+   0/1 Low Combat
+
+ blindness
+   0/2 Low Enchantment
+
+ create food
+   0/1 Low Summoning
+
+ cure serious
+   2/1 Mid Healing
+   0/1 Low Healing
+
+ prayer
+   2/1 Mid Combat
+   0/1 Low Combat
+
+ protection from evil
+   0/2 Low Protection
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:14 Exits:N> 
+[36mSomeone tells your clan 'i wonder what you have to drain for that'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:14 Exits:N> 
+[36mShmyaka tells your clan 'and saw 2 having others'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:9 Exits:N> 
+[36mThiq tells your clan 'heh what did you drain'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:3 Exits:N> 
+You are thirsty.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:60 Exits:N> drink all.water
+You drink the water.
+You drink the water.
+You drink the water.
+You do not feel thirsty.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:57 Exits:N> 
+[36mShmyaka tells your clan 'just some 3cl item'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:54 Exits:N> 
+[36mThiq tells your clan 'wierd'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:49 Exits:N> l
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1mA large glob of dark red slime squats here. [2]
+A grotesque face with a tentacled mouth lies here...it emits an arcane glow
+A large glob of dark red slime squats here.
+A thin string of sea dragon scales lies here...it emits an arcane glow
+A folded scrap of parchment is lying here.
+[0;37m[31m[1mThe clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:48 Exits:N> 
+[36mThiq tells your clan 'i think its random'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:47 Exits:N> n
+Come on! I'm relaxing!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:45 Exits:N> n
+Come on! I'm relaxing!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:45 Exits:N> sta
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:44 Exits:N> n
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 0.14% 1653C [0;37mT:43 Exits:NESW> n
+[35mThe Forge of Myth[0;37m
+    Incessant hammering of iron on anvil brings a sharp ringing to this
+furnace of a smithy. While most of the work done here seems to be toward the
+making of horseshoes and repairing minor dents in weapons and armor, the
+master smith has been known to craft some new items from time to time.
+Cooling buckets surround the anvil and the occasional hiss released from
+the cooling process indicates that they are often put to good use.
+[33m[1mA heavy iron pickaxe is lying here.
+[0;37m[31m[1mThe clan blacksmith is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:43 Exits:S> list ring
+ 12. Ring                250 a blue nephaline ring
+ 43. Ring                150 a green druid's ring
+ 50. Ring                140 a hermit's ring
+ 94. Ring                240 a pink diamond ring
+109. Band                100 a ruby inlaid stone band
+116. Warbow              600 [38;5;214ma shimmering copper Set'ahki warbow[0;37m
+117. Sigil               400 [38;5;177ma shimmering frosted tin sigil[0;37m
+128. Ring                  3 a small copper ring
+130. Ring                500 a small signet ring
+151. Ring                500 an ancient solamnic ring
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:42 Exits:S> items
+tiers
+
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:36 Exits:S> list
+  1. Buckler              50 a Red Dragonarmy buckler
+  2. Warhammer           200 [38;5;183ma balanced heavy warhammer[0;37m
+  3. Belt                500 a belt of seashells (save_spell/para-1 antiE nothi/pal/scout/war/dk/barb)
+  4. Cloak               800 a black dragonhide cloak (imm_ac *19)
+  5. Katana              120 a black edged katana (2d6 hr1 w 10 nomag/sha)
+  6. Gaff                150 a black gaff (3d5 dr2 w13 *19)
+  7. Shield              200 a black ice shield (rescold16 glow immcold)
+  8. Sphere             1000 a black ice sphere (imm_cold)
+  9. Shirt               150 a black leather shirt
+ 10. Black               250 [38;5;214ma blackened leather shield[0;37m
+ 11. Shield              380 [38;5;171ma blood-stained spiked pavaise (C5+ HEAVY SHIELD)[0;37m
+ 12. Ring                250 a blue nephaline ring (age-3 para-1)
+ 13. Bullwhip            330 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 14. Torc                100 a bronze torc
+ 15. Halter              150 a chainmail halter
+ 16. Knife               200 [38;5;183ma charred serrated black knife[0;37m
+ 17. Bow                 700 a composite metal bow (rhr/dr1 spd12 pwe12 acc10)
+ 18. Capelet             180 a crimson cape (hr1 ac-4, w/ gold mv15 resheat) (B2 WARRIOR ABOUT)let
+ 19. Lance               250 a a crimson steel lance (3d5 w22)
+ 20. Shield               90 a dark black shield
+ 21. Medallion           100 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 22. Piwafi              100 a dark elven piwafi (hide10 imm/res_heat3 *19)
+ 23. Shield              100 a dark shield (ac-7 w22)
+ 24. Sword               500 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 25. Bow                 250 [38;5;214ma dusted red bow (spd14 pwr12 acc11 rdr3 imm_p w10 *19)[0;37m
+ 26. Headdress           500 [38;5;171ma dwarf bone-adorned headdress (D4 SHAMAN HEAD) of destiny[0;37m
+ 27. Vest                150 a dwarven chain mail vest (res_neg8 ac-3 nobar/sha *19)
+ 28. Crossbow            300 a dwarven crossbow (3d4 HR w11 *19)
+ 29. Axe                  70 a dwarven mithril pole axe (3d7 DR mag/bls w24 *19)
+ 30. Morningstar         300 a dwarven morningstar
+ 31. Hoopak               30 a feathered hoopak (3d3 w6)
+ 32. Plate               500 a finely cured leather plate
+ 33. Sword               140 a flamberge bastard sword (3d7 1/1 w45)
+ 34. Staff               360 [38;5;183ma fossilized carved battle staff[0;37m
+ 35. Staff               360 [38;5;177ma fossilized rune-lined battle staff[0;37m
+ 36. Mask                250 a ghastly voodoo mask (cha3 spook/gase+10 det_astral NORENT *19)
+ 37. Claymore            100 [38;5;225ma gleaming claymore[0;37m
+ 38. Cutlass             260 [38;5;214ma gleaming silver cutlass (4d4 dr2 hr1 w14 mag *19)[0;37m
+ 39. Dragonlance        2000 a gleaming silver dragonlance
+ 40. Sword               250 a golden sword
+ 41. Longbow            1000 [38;5;214ma golden twined oak longbow[0;37m
+
+ [return for more, q to stop]q
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:32 Exits:S> browse destiny
+You browse through the merchandise and notice:
+The headdress appears to be in perfect condition. (99%)
+You feel informed:
+ Object 'headdress dwarf bone adorned destiny'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: tooth
+ Weight   : 4            Value   : 500
+
+ Affects  : HEALTH        by 10
+ Affects  : HIT           by 5
+ Effects  : PROTECT_NEUTRAL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 4
+A dwarf bone-adorned headdress of destiny is wearable: head.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:29 Exits:S> 
+[36mSomeone tells your clan 'i have been checking to see if maybe sickly will give a bright'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:28 Exits:S> 
+[37mYour clanmate Fir has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:18 Exits:S> 
+[36mVidar tells your clan 'can a neut/goodie help me a sec'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:16 Exits:S> 
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:12 Exits:S> list
+  1. Warhammer           200 [38;5;183ma balanced heavy warhammer[0;37m
+  2. Belt                500 a belt of seashells (save_spell/para-1 antiE nothi/pal/scout/war/dk/barb)
+  3. Cloak               800 a black dragonhide cloak (imm_ac *19)
+  4. Katana              120 a black edged katana (2d6 hr1 w 10 nomag/sha)
+  5. Gaff                150 a black gaff (3d5 dr2 w13 *19)
+  6. Shield              200 a black ice shield (rescold16 glow immcold)
+  7. Sphere             1000 a black ice sphere (imm_cold)
+  8. Shirt               150 a black leather shirt
+  9. Black               250 [38;5;214ma blackened leather shield[0;37m
+ 10. Shield              380 [38;5;171ma blood-stained spiked pavaise (C5+ HEAVY SHIELD)[0;37m
+ 11. Ring                250 a blue nephaline ring (age-3 para-1)
+ 12. Bullwhip            330 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 13. Torc                100 a bronze torc
+ 14. Halter              150 a chainmail halter
+ 15. Knife               200 [38;5;183ma charred serrated black knife[0;37m
+ 16. Bow                 700 a composite metal bow (rhr/dr1 spd12 pwe12 acc10)
+ 17. Capelet             180 a crimson cape (hr1 ac-4, w/ gold mv15 resheat) (B2 WARRIOR ABOUT)let
+ 18. Lance               250 a a crimson steel lance (3d5 w22)
+ 19. Shield               90 a dark black shield
+ 20. Medallion           100 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 21. Piwafi              100 a dark elven piwafi (hide10 imm/res_heat3 *19)
+ 22. Shield              100 a dark shield (ac-7 w22)
+ 23. Sword               500 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 24. Bow                 250 [38;5;214ma dusted red bow (spd14 pwr12 acc11 rdr3 imm_p w10 *19)[0;37m
+ 25. Headdress           500 [38;5;171ma dwarf bone-adorned headdress (D4 SHAMAN HEAD) of destiny[0;37m
+ 26. Vest                150 a dwarven chain mail vest (res_neg8 ac-3 nobar/sha *19)
+ 27. Crossbow            300 a dwarven crossbow (3d4 HR w11 *19)
+ 28. Axe                  70 a dwarven mithril pole axe (3d7 DR mag/bls w24 *19)
+ 29. Morningstar         300 a dwarven morningstar
+ 30. Hoopak               30 a feathered hoopak (3d3 w6)
+ 31. Plate               500 a finely cured leather plate
+ 32. Sword               140 a flamberge bastard sword (3d7 1/1 w45)
+ 33. Staff               360 [38;5;183ma fossilized carved battle staff[0;37m
+ 34. Staff               360 [38;5;177ma fossilized rune-lined battle staff[0;37m
+ 35. Mask                250 a ghastly voodoo mask (cha3 spook/gase+10 det_astral NORENT *19)
+ 36. Claymore            100 [38;5;225ma gleaming claymore[0;37m
+ 37. Cutlass             260 [38;5;214ma gleaming silver cutlass (4d4 dr2 hr1 w14 mag *19)[0;37m
+ 38. Dragonlance        2000 a gleaming silver dragonlance
+ 39. Sword               250 a golden sword
+ 40. Longbow            1000 [38;5;214ma golden twined oak longbow[0;37m
+ 41. Shield              400 [38;5;177ma grandiose silver dragon buckler (C3+ LIGHT SHIELD)[0;37m
+
+ [return for more, q to stop]q
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:8 Exits:S> browse bucker
+[36mThe clan blacksmith tells you 'I can't sell what I don't have!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:6 Exits:S> 
+[36mSomeone tells your clan 'i dont have any of those'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:3 Exits:S> browse buckler
+You browse through the merchandise and notice:
+The shield's metallic surface is shiny and new. (100%)
+A grandiose silver dragon buckler is of very good quality.
+You feel informed:
+ Object 'shield grandiose silver dragon buckler'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 16           Value   : 400
+
+ Affects  : spell slots   by +1 at level 3
+ Affects  : MOVE_REGEN    by 5
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+A grandiose silver dragon buckler is wearable: shield.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:1 Exits:S> 
+You are hungry.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:60 Exits:S> list buckler
+ 41. Shield              400 [38;5;177ma grandiose silver dragon buckler (C3+ LIGHT SHIELD)[0;37m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:55 Exits:S> 
+[37mYour clanmate Viq has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:53 Exits:S> list shield
+  6. Shield              200 a black ice shield (rescold16 glow immcold)
+  9. Black               250 [38;5;214ma blackened leather shield[0;37m
+ 10. Shield              380 [38;5;171ma blood-stained spiked pavaise (C5+ HEAVY SHIELD)[0;37m
+ 19. Shield               90 a dark black shield
+ 22. Shield              100 a dark shield (ac-7 w22)
+ 41. Shield              400 [38;5;177ma grandiose silver dragon buckler (C3+ LIGHT SHIELD)[0;37m
+114. Shield              400 a shield of Tirabot (w22 res_elec8 imm_elec)
+118. Shield              300 a shining silver shield
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:52 Exits:S> 
+[36mViq tells your clan 'wasup?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:51 Exits:S> browse shield
+You browse through the merchandise and notice:
+The shield appears to be in perfect condition. (98%)
+A black ice shield is of fair quality.
+A black ice shield is wearable: shield.
+
+The black appears rough and in perfect condition. (99%)
+A blackened leather shield is of good quality.
+You feel informed:
+ Object 'black leather shield'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 10           Value   : 250
+
+ Affects  : INT           by 1
+ Affects  : CHA           by 1
+ Item is  : HUM MAGIC ANTI_GOOD ANTI_EVIL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NOWHITE_ROBE
+ Immune   : IMMUNE_MAGIC
+ Apply    : 5
+A blackened leather shield is wearable: shield.
+
+The shield's metallic surface is shiny and new. (99%)
+A blood-stained spiked pavaise is of very good quality.
+You feel informed:
+ Object 'shield blood stained spiked pavaise'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 39           Value   : 380
+
+ Affects  : HEALTH        by 8
+ Affects  : RESIST_BREATH by 13
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+A blood-stained spiked pavaise is wearable: shield.
+
+The shield's metallic surface is bright and shiny. (99%)
+A dark black shield is of good quality.
+A dark black shield is wearable: shield.
+
+The shield's metallic surface is shiny and new. (99%)
+A dark shield is of fair quality.
+
+ [return for more, q to stop]
+A dark shield is wearable: shield.
+
+The shield's metallic surface is shiny and new. (100%)
+A grandiose silver dragon buckler is of very good quality.
+You feel informed:
+ Object 'shield grandiose silver dragon buckler'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 16           Value   : 400
+
+ Affects  : spell slots   by +1 at level 3
+ Affects  : MOVE_REGEN    by 5
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+A grandiose silver dragon buckler is wearable: shield.
+
+The shield's metallic surface is shiny and new. (100%)
+A shield of Tirabot (w22 res_elec8 imm_elec) is of fair quality.
+A shield of Tirabot (w22 res_elec8 imm_elec) is wearable: shield.
+
+The surface of the shield gleams brightly. (99%)
+A shining silver shield is of good quality.
+A shining silver shield is wearable: shield.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:42 Exits:S> in
+You are carrying:
+a piece of sweet bread..it emits an arcane glow [9]
+[38;5;171ma magnificent slender rapier[0;37m..it emits an arcane glow
+a bright ball of light..it glows dimly
+a brewed potion of aid..it emits an arcane glow
+[38;5;177man enormous scorched maul[0;37m..it emits an arcane glow
+a glowing scroll of recall..it emits an arcane glow..it glows dimly [6]
+a pinch of powdered malachite
+a small wooden chest
+a sprig of pine
+a waterskin [4]
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:36 Exits:S> 
+[36mSomeone tells your clan 'Looking for guidance'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:18 Exits:S> 
+[36mSomeone tells your clan 'got 1 solid zone in me'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:14 Exits:S> 
+You are hungry.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:60 Exits:S> 
+[36mVidar tells your clan 'shmyaka'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:57 Exits:S> 
+[36mSomeone tells your clan 'and the peoples are online to slay something solid'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:56 Exits:S> 
+[36mThiq tells your clan 'shalzan?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:48 Exits:S> 
+[36mThiq tells your clan 'need for alchemy'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:44 Exits:S> 
+[36mSomeone tells your clan 'i am not on to zone'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:44 Exits:S> list
+  1. Warhammer           200 [38;5;183ma balanced heavy warhammer[0;37m
+  2. Belt                500 a belt of seashells (save_spell/para-1 antiE nothi/pal/scout/war/dk/barb)
+  3. Cloak               800 a black dragonhide cloak (imm_ac *19)
+  4. Katana              120 a black edged katana (2d6 hr1 w 10 nomag/sha)
+  5. Gaff                150 a black gaff (3d5 dr2 w13 *19)
+  6. Shield              200 a black ice shield (rescold16 glow immcold)
+  7. Sphere             1000 a black ice sphere (imm_cold)
+  8. Shirt               150 a black leather shirt
+  9. Shield              380 [38;5;171ma blood-stained spiked pavaise (C5+ HEAVY SHIELD)[0;37m
+ 10. Ring                250 a blue nephaline ring (age-3 para-1)
+ 11. Bullwhip            330 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 12. Torc                100 a bronze torc
+ 13. Maul                130 [38;5;225ma burnt maul[0;37m
+ 14. Halter              150 a chainmail halter
+ 15. Knife               200 [38;5;183ma charred serrated black knife[0;37m
+ 16. Collapsible         100 [38;5;214ma collapsible spyglass[0;37m
+ 17. Bow                 700 a composite metal bow (rhr/dr1 spd12 pwe12 acc10)
+ 18. Capelet             180 a crimson cape (hr1 ac-4, w/ gold mv15 resheat) (B2 WARRIOR ABOUT)let
+ 19. Lance               250 a a crimson steel lance (3d5 w22)
+ 20. Shield               90 a dark black shield
+ 21. Medallion           100 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 22. Piwafi              100 a dark elven piwafi (hide10 imm/res_heat3 *19)
+ 23. Shield              100 a dark shield (ac-7 w22)
+ 24. Sword               500 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 25. Bow                 250 [38;5;214ma dusted red bow (spd14 pwr12 acc11 rdr3 imm_p w10 *19)[0;37m
+ 26. Headdress           500 [38;5;171ma dwarf bone-adorned headdress (D4 SHAMAN HEAD) of destiny[0;37m
+ 27. Vest                150 a dwarven chain mail vest (res_neg8 ac-3 nobar/sha *19)
+ 28. Crossbow            300 a dwarven crossbow (3d4 HR w11 *19)
+ 29. Axe                  70 a dwarven mithril pole axe (3d7 DR mag/bls w24 *19)
+ 30. Morningstar         300 a dwarven morningstar
+ 31. Hoopak               30 a feathered hoopak (3d3 w6)
+ 32. Plate               500 a finely cured leather plate
+ 33. Sword               140 a flamberge bastard sword (3d7 1/1 w45)
+ 34. Staff               360 [38;5;183ma fossilized carved battle staff[0;37m
+ 35. Staff               360 [38;5;177ma fossilized rune-lined battle staff[0;37m
+ 36. Mask                250 a ghastly voodoo mask (cha3 spook/gase+10 det_astral NORENT *19)
+ 37. Claymore            100 [38;5;225ma gleaming claymore[0;37m
+ 38. Cutlass             260 [38;5;214ma gleaming silver cutlass (4d4 dr2 hr1 w14 mag *19)[0;37m
+ 39. Dragonlance        2000 a gleaming silver dragonlance
+ 40. Sword               250 a golden sword
+ 41. Longbow            1000 [38;5;214ma golden twined oak longbow[0;37m
+
+ [return for more, q to stop]
+ 42. Shield              400 [38;5;177ma grandiose silver dragon buckler (C3+ LIGHT SHIELD)[0;37m
+ 43. Ring                150 a green druid's ring
+ 44. Mask                 60 a grey leather mask (ac-3 SL mag *19)
+ 45. Hammer              110 a hammer of the Rose (5d3 hr2 w13 glow/mag/bless)
+ 46. Headband            100 a headband adorned with eagle's feathers (det_invis)
+ 47. Sword               250 a heavy brass bastard sword (3d6 dr1 w24)
+ 48. Staff                32 a heavy copper staff (4d3 wardance3 w20 *19)
+ 49. Necklace            250 a heavy ham bone necklace
+ 50. Ring                140 a hermit's ring (con CONFUSION)
+ 51. Battleaxe           260 [38;5;183ma honed spiked battleaxe[0;37m
+ 52. Mace                420 [38;5;177ma huge flanged mace[0;37m
+ 53. Jerkin              380 [38;5;177ma hunter's green jerkin (C3 SCOUT BODY) of distortion[0;37m
+ 54. Dragonscale         100 a large green dragonscale
+ 55. Belt                160 a leather belt with a copper buckle (ac-2 health6)
+ 56. Breastplate          60 a leather breastplate (ac-7 regen15% *19)
+ 57. Cap                  30 a leather cap
+ 58. Leather              80 a leather head wrap (cha hit4 INFRA mag *19)
+ 59. Stole               250 a long black stole, lined with red (int resmagic5 cl1 WB)
+ 60. Spear               120 a long wooden spear
+ 61. Longbow              80 a longbow
+ 62. Robe                120 a luxurious fur robe (sv_breath-1)
+ 63. Mantle              450 a mantle of writhing orichalcum tentacles
+ 64. Sword              1000 a massive black rune-covered sword
+ 65. Wristguard          480 a massive copper wristguard
+ 66. Medallion           300 a medallion of Paladine (det_invis antiE)
+ 67. Fork                 90 a military fork (4d3 dr1 hr2 w18)
+ 68. Breastplate         240 [38;5;214ma molded red leather breastplate (hp/moveregen20 res_heat20)[0;37m
+ 69. Snout                80 a muddy hippopotamus snout
+ 70. Necklace            150 a necklace of carved ivory (hit4)
+ 71. Necklace            160 a necklace of nephaline fragments (sv_pois-1 det_mag)
+ 72. Gloves               90 a pair of black hunting gloves (savepara -1)
+ 73. Guard               120 a pair of black ice arm guards (rescold4 immcold)
+ 74. Sleeves             100 a pair of blue velvet sleeves (1th+1 druid/cleric)
+ 75. Bracers             200 a pair of bracers
+ 76. Armplates           150 a pair of ceremonial armplates (hr1 nomag/dru/sha/barb)
+ 77. Legplates           100 a pair of ceremonial legplates (hit3 nosbarb/sham)
+ 78. Sandals             100 a pair of cord sandals (move10)
+ 79. Legplates            90 a pair of ebony legplates (kick6)
+ 80. Vambraces           230 a pair of ebony vambraces
+ 81. Sleeves              99 a pair of elven chain sleeves
+ 82. Plates              150 a pair of platinum gilt arm plates (apply8 *19)
+
+ [return for more, q to stop]
+ 83. Plates              250 a pair of platinum gilt leg plates (apply8 *19)
+ 84. Boots               300 a pair of red oakleaf crested boots (kick7 magic nomag/thi/dru/cle/barb/sham)
+ 85. Gloves              100 a pair of rough, fingerless gloves (hr1 pick-7)
+ 86. Breeches            150 a pair of silk trimmed leather breeches
+ 87. Boots               240 a pair of silver dragon scale boots (save_breath-2 move15)
+ 88. Boots               250 a pair of silver threaded boots
+ 89. Armbands            120 a pair of spectacular hematite armbands (str1 int-2 )
+ 90. Boots               123 a pair of steel plated boots (kick2)
+ 91. Gloves              150 a pair of supple leather gloves (hr1)
+ 92. Boots               200 a pair of turquoise-trimmed, buckskin boots (kick2 *18)
+ 93. Cloak               300 a patterned leather cloak (hide)
+ 94. Ring                240 a pink diamond ring (+1@2 mv-10 imm_acid/cold *19)
+ 95. Eye                  95 a preserved eye of a revenant (det_mag/dead)
+ 96. Gown                300 a pretty pink satin gown (nocharm)
+ 97. Robe                500 a purple robe with silver runes (500c NOLORE *19)
+ 98. Band                 80 a ragged leather band (ac+5 det_invis)
+ 99. Mantle               60 a ragged leather mantle (hr1 ac-3)
+100. Guard                80 a ragged leather wrist guard (2nd+1 ac+5)
+101. Bands                80 a ragged pair of leather arm bands (hr1 ac-3)
+102. Boots                80 a ragged pair of leather boots (move5 ac-2)
+103. Cloak               200 a rainbow cloak (ac-7 hide7)
+104. Baldric             400 [38;5;183ma red baldric (C1 WARRIOR ABOUT) of prowess[0;37m
+105. Lance               475 [38;5;171ma resplendant well-balanced lance[0;37m
+106. Skull               500 a revenant's skull
+107. Tome                100 a rotted academic tome (int1 age1)
+108. Necklace            500 a ruby and diamond necklace (int1 cleric/druid antiE)
+109. Band                100 a a ruby inlaid stone band (int1)
+110. Tunic               215 [38;5;225ma sentinel's tunic (B1 SCOUT BODY) of concealment[0;37m
+111. Broadaxe            340 [38;5;177ma serrated honed broadaxe[0;37m
+112. Talons              450 a set of black talons
+113. Blade               100 a sharp draconian blade
+114. Knife                75 a sharp filleting knife (3d3 2/2 w6 *19)
+115. Shield              400 a shield of Tirabot (w22 res_elec8 imm_elec)
+116. Warbow              600 [38;5;214ma shimmering copper Set'ahki warbow (ranged_dr/hr2 s/p/a 12/15/13 w6 *19)[0;37m
+117. Sigil               400 [38;5;177ma shimmering frosted tin sigil (C2+ MELEE HELD)[0;37m
+118. Shining             200 a shining silver plate (str1 ac-5)
+119. Shield              300 a shining silver shield
+120. Sword               230 a shining silver sword (3d6 mag w15 *19)
+121. Horn                300 a shiny bronze horn (resmagic16 norent)
+122. Shirt               250 a shirt of autumn leaves (wis1 detinvis druid only)
+123. Amulet              250 a silver amulet (res_elec10)
+
+ [return for more, q to stop]
+124. Amulet              250 a silver amulet (res_elec10)
+125. Club                750 a silver shod oaken club
+126. Fetish              120 a sinew-wrapped bear claw fetish (cha1)
+127. Sabre               155 a slender mithril sabre
+128. Ring                  3 a small copper ring (ac-2)
+129. Amulet               75 a small fishbone amulet (hr1 det_G Evil)
+130. Ring                500 a small signet ring (ac-2 immac/cold/gas/heat)
+131. Rapier              245 [38;5;225ma splendid slender rapier[0;37m
+132. Robe                 75 a a stained brown robe (save_pois -1 cl1 Magic)
+133. Battleaxe            85 a standard issue battleaxe
+134. Longsword            75 a standard issue longsword
+135. Neckchain            75 a steel neckchain
+136. Staff               200 [38;5;225ma sturdy carved battle staff[0;37m
+137. Armor               100 a suit of Red Dragonarmy armor
+138. Suit                450 a suit of crimson banded mail
+139. Armor               250 a suit of shiny coin armor (crap)
+140. Plate               520 a suit of sterling platemail (hr regen10% res_crit1% *19)
+141. Longsword           425 [38;5;171ma tempered hooked longsword[0;37m
+142. Belt                 25 a thick leather belt (ac-4)
+143. Vest                200 [38;5;225ma thief's leather vest (B1 THIEF BODY) of deceit[0;37m
+144. Eyepatch             80 a transparent eyepatch (hr-1 det_mag)
+145. Vest                500 a vest of bone shards (wis1 hit-5)
+146. Skirt               380 [38;5;177ma weathered leather skirt (C2 BARBARIAN LEGS) of Que-Kiri[0;37m
+147. Cloak               160 a white cloak trimmed with silver
+148. Robe                 85 a white satin robe
+149. Halberd             150 [38;5;225ma wood-shafted halberd[0;37m
+150. Pelt                 30 a worn bear pelt loincloth (hit3 bar/ran/war)
+151. Ring                500 an ancient solamnic ring
+152. Cape                200 [38;5;183man angelic feathered cape (B3 PALADIN ABOUT) of justice[0;37m
+153. Pendant             230 [38;5;225man antique malachite inlaid pendant (B2+ CASTER NECK)[0;37m
+154. Bracelet            300 an apatite encrusted bracelet (4th+1 det_inv infra)
+155. Dagger              121 an elegant elven dagger (2d6 2/2 w8 magic)
+156. Rapier              340 [38;5;183man elegant thin rapier[0;37m
+157. Rapier              400 [38;5;177man elegant well-balanced rapier[0;37m
+158. Cape                300 an embroidered black wool cape
+159. Blade               150 an emerald hilted blade (2d6 1/1 w9 magic nomag/pal/dru/cle/scout/war/dk)
+160. Armor               100 an etched suit of armor (apply5 nobarb/sham)
+161. Bracelet            200 an ivory bracelet (con-2 wis glow/mag/bls *19)
+162. Helm                150 an oaken-leaf helm (learn5 druid only)
+163. Dagger              130 an obsidian dagger (3d5 1/1 w5)
+164. Necklace            500 an obsidian shard necklace
+
+ [return for more, q to stop]
+165. Spear               350 an obsidian-tipped ironwood spear (6d4 hr NORENT w34 nothi *19)
+166. Plate                60 crytic stone plate (res_acid6)
+167. Sleeves             300 dark leather sleeves (save_petri-1)
+168. Gloves              100 gloves of wretchedness
+169. Breeches            100 [38;5;225msome black abyssal breeches of stars (A3+ MAGE LEGS)[0;37m
+170. Mitts               140 [38;5;225msome burglar's mitts of malady (A1+ THIEF HANDS)[0;37m
+171. Straps              100 some crossed leather straps, adorned with spikes (rescold10)
+172. Greatboots          525 [38;5;171msome crystalline greatboots of immolation (D5+ CLERIC FEET)[0;37m
+173. Armwraps            230 [38;5;225msome deer skin armwraps of stalking (B1+ SCOUT ARMS)[0;37m
+174. Breeches            120 [38;5;225msome dimensional breeches of stars (A2+ MAGE LEGS)[0;37m
+175. Legwraps            215 [38;5;225msome dimensional legwraps of dreams (B2+ MAGE LEGS)[0;37m
+176. Armguards           320 [38;5;177msome frosted armguards of the woods (C3+ DRUID ARMS)[0;37m
+177. Sleeves              80 some grey scalemail sleeves (HR *19)
+178. Shinguards          420 [38;5;183msome heavy shinguards of battle (C1+ WARRIOR LEGS)[0;37m
+179. Boots                60 some leather boots (ac-5 regen5% mv10 *19)
+180. Greaves              40 some leather greaves (ac-5 regen5%)
+181. Legwraps            110 [38;5;225msome supple legwraps of malady (A3+ THIEF LEGS)[0;37m
+182. Leggings            160 spun silver leggings (ac-12 mv12 bless)
+183. Spun                160 spun silver sleeves (dex1 ac-9 antiE)
+184. Mask                640 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+185. Mask               1000 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+186. Hat                 100 the prestigious cooks award hat (3rd+1 poison-1)
+187. Rod                 350 the rod of terror (3d5 w8 spec?)
+188. Staff               120 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+189. Sword               400 [38;5;214mthe sword of slumber (3d6 hr2 glow/mag w4)[0;37m
+[36mVidar tells your clan 'viq'
+[0;37m[36mThiq tells your clan 'vidar'
+[0;37m[36mVidar tells your clan 'can u help me'
+[0;37m[36mThiq tells your clan 'yes'
+[0;37m[36mThiq tells your clan 'sec'
+[0;37m[36mSomeone tells your clan 'Sure, will run cv if we form for it'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:13 Exits:S> browse mace
+You browse through the merchandise and notice:
+The surface of the mace gleams brightly. (99%)
+A huge flanged mace is of very good quality.
+You feel informed:
+ Object 'mace huge flanged'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: platinum
+ Weight   : 7            Value   : 420
+
+ Affects  : HITROLL       by 1
+ Class    : mace
+ Damage   : 4D3
+A huge flanged mace requires knowledge of the skill 'bludgeons'.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:11 Exits:S> list
+  1. Warhammer           200 [38;5;183ma balanced heavy warhammer[0;37m
+  2. Belt                500 a belt of seashells (save_spell/para-1 antiE nothi/pal/scout/war/dk/barb)
+  3. Cloak               800 a black dragonhide cloak (imm_ac *19)
+  4. Katana              120 a black edged katana (2d6 hr1 w 10 nomag/sha)
+  5. Gaff                150 a black gaff (3d5 dr2 w13 *19)
+  6. Shield              200 a black ice shield (rescold16 glow immcold)
+  7. Sphere             1000 a black ice sphere (imm_cold)
+  8. Shirt               150 a black leather shirt
+  9. Black               250 [38;5;214ma blackened leather shield[0;37m
+ 10. Shield              380 [38;5;171ma blood-stained spiked pavaise (C5+ HEAVY SHIELD)[0;37m
+ 11. Ring                250 a blue nephaline ring (age-3 para-1)
+ 12. Bullwhip            330 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 13. Torc                100 a bronze torc
+ 14. Maul                130 [38;5;225ma burnt maul[0;37m
+ 15. Halter              150 a chainmail halter
+ 16. Knife               200 [38;5;183ma charred serrated black knife[0;37m
+ 17. Collapsible         100 [38;5;214ma collapsible spyglass[0;37m
+ 18. Bow                 700 a composite metal bow (rhr/dr1 spd12 pwe12 acc10)
+ 19. Capelet             180 a crimson cape (hr1 ac-4, w/ gold mv15 resheat) (B2 WARRIOR ABOUT)let
+ 20. Lance               250 a a crimson steel lance (3d5 w22)
+ 21. Shield               90 a dark black shield
+ 22. Medallion           100 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 23. Piwafi              100 a dark elven piwafi (hide10 imm/res_heat3 *19)
+ 24. Shield              100 a dark shield (ac-7 w22)
+ 25. Sword               500 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 26. Bow                 250 [38;5;214ma dusted red bow (spd14 pwr12 acc11 rdr3 imm_p w10 *19)[0;37m
+ 27. Headdress           500 [38;5;171ma dwarf bone-adorned headdress (D4 SHAMAN HEAD) of destiny[0;37m
+ 28. Vest                150 a dwarven chain mail vest (res_neg8 ac-3 nobar/sha *19)
+ 29. Crossbow            300 a dwarven crossbow (3d4 HR w11 *19)
+ 30. Axe                  70 a dwarven mithril pole axe (3d7 DR mag/bls w24 *19)
+ 31. Morningstar         300 a dwarven morningstar
+ 32. Hoopak               30 a feathered hoopak (3d3 w6)
+ 33. Plate               500 a finely cured leather plate
+ 34. Sword               140 a flamberge bastard sword (3d7 1/1 w45)
+ 35. Staff               360 [38;5;177ma fossilized rune-lined battle staff[0;37m
+ 36. Mask                250 a ghastly voodoo mask (cha3 spook/gase+10 det_astral NORENT *19)
+ 37. Claymore            100 [38;5;225ma gleaming claymore[0;37m
+ 38. Cutlass             260 [38;5;214ma gleaming silver cutlass (4d4 dr2 hr1 w14 mag *19)[0;37m
+ 39. Dragonlance        2000 a gleaming silver dragonlance
+ 40. Sword               250 a golden sword
+ 41. Longbow            1000 [38;5;214ma golden twined oak longbow[0;37m
+
+ [return for more, q to stop]
+ 42. Shield              400 [38;5;177ma grandiose silver dragon buckler (C3+ LIGHT SHIELD)[0;37m
+ 43. Ring                150 a green druid's ring
+ 44. Mask                 60 a grey leather mask (ac-3 SL mag *19)
+ 45. Hammer              110 a hammer of the Rose (5d3 hr2 w13 glow/mag/bless)
+ 46. Headband            100 a headband adorned with eagle's feathers (det_invis)
+ 47. Sword               250 a heavy brass bastard sword (3d6 dr1 w24)
+ 48. Staff                32 a heavy copper staff (4d3 wardance3 w20 *19)
+ 49. Necklace            250 a heavy ham bone necklace
+ 50. Ring                140 a hermit's ring (con CONFUSION)
+ 51. Battleaxe           260 [38;5;183ma honed spiked battleaxe[0;37m
+ 52. Mace                420 [38;5;177ma huge flanged mace[0;37m
+ 53. Jerkin              380 [38;5;177ma hunter's green jerkin (C3 SCOUT BODY) of distortion[0;37m
+ 54. Dragonscale         100 a large green dragonscale
+ 55. Belt                160 a leather belt with a copper buckle (ac-2 health6)
+ 56. Breastplate          60 a leather breastplate (ac-7 regen15% *19)
+ 57. Cap                  30 a leather cap
+ 58. Leather              80 a leather head wrap (cha hit4 INFRA mag *19)
+ 59. Stole               250 a long black stole, lined with red (int resmagic5 cl1 WB)
+ 60. Spear               120 a long wooden spear
+ 61. Longbow              80 a longbow
+ 62. Robe                120 a luxurious fur robe (sv_breath-1)
+ 63. Mantle              450 a mantle of writhing orichalcum tentacles
+ 64. Sword              1000 a massive black rune-covered sword
+ 65. Wristguard          480 a massive copper wristguard
+ 66. Medallion           300 a medallion of Paladine (det_invis antiE)
+ 67. Fork                 90 a military fork (4d3 dr1 hr2 w18)
+ 68. Breastplate         240 [38;5;214ma molded red leather breastplate (hp/moveregen20 res_heat20)[0;37m
+ 69. Snout                80 a muddy hippopotamus snout
+ 70. Necklace            150 a necklace of carved ivory (hit4)
+ 71. Necklace            160 a necklace of nephaline fragments (sv_pois-1 det_mag)
+ 72. Gloves               90 a pair of black hunting gloves (savepara -1)
+ 73. Guard               120 a pair of black ice arm guards (rescold4 immcold)
+ 74. Sleeves             100 a pair of blue velvet sleeves (1th+1 druid/cleric)
+ 75. Bracers             200 a pair of bracers
+ 76. Armplates           150 a pair of ceremonial armplates (hr1 nomag/dru/sha/barb)
+ 77. Legplates           100 a pair of ceremonial legplates (hit3 nosbarb/sham)
+ 78. Sandals             100 a pair of cord sandals (move10)
+ 79. Legplates            90 a pair of ebony legplates (kick6)
+ 80. Vambraces           230 a pair of ebony vambraces
+ 81. Sleeves              99 a pair of elven chain sleeves
+ 82. Plates              150 a pair of platinum gilt arm plates (apply8 *19)
+
+ [return for more, q to stop]
+ 83. Plates              250 a pair of platinum gilt leg plates (apply8 *19)
+ 84. Boots               300 a pair of red oakleaf crested boots (kick7 magic nomag/thi/dru/cle/barb/sham)
+ 85. Gloves              100 a pair of rough, fingerless gloves (hr1 pick-7)
+ 86. Breeches            150 a pair of silk trimmed leather breeches
+ 87. Boots               240 a pair of silver dragon scale boots (save_breath-2 move15)
+ 88. Armbands            120 a pair of spectacular hematite armbands (str1 int-2 )
+ 89. Boots               123 a pair of steel plated boots (kick2)
+ 90. Gloves              150 a pair of supple leather gloves (hr1)
+ 91. Boots               200 a pair of turquoise-trimmed, buckskin boots (kick2 *18)
+ 92. Cloak               300 a patterned leather cloak (hide)
+ 93. Ring                240 a pink diamond ring (+1@2 mv-10 imm_acid/cold *19)
+ 94. Eye                  95 a preserved eye of a revenant (det_mag/dead)
+ 95. Gown                300 a pretty pink satin gown (nocharm)
+ 96. Robe                500 a purple robe with silver runes (500c NOLORE *19)
+ 97. Band                 80 a ragged leather band (ac+5 det_invis)
+ 98. Mantle               60 a ragged leather mantle (hr1 ac-3)
+ 99. Guard                80 a ragged leather wrist guard (2nd+1 ac+5)
+100. Bands                80 a ragged pair of leather arm bands (hr1 ac-3)
+101. Boots                80 a ragged pair of leather boots (move5 ac-2)
+102. Cloak               200 a rainbow cloak (ac-7 hide7)
+103. Baldric             400 [38;5;183ma red baldric (C1 WARRIOR ABOUT) of prowess[0;37m
+104. Lance               475 [38;5;171ma resplendant well-balanced lance[0;37m
+105. Skull               500 a revenant's skull
+106. Tome                100 a rotted academic tome (int1 age1)
+107. Necklace            500 a ruby and diamond necklace (int1 cleric/druid antiE)
+108. Band                100 a a ruby inlaid stone band (int1)
+109. Tunic               215 [38;5;225ma sentinel's tunic (B1 SCOUT BODY) of concealment[0;37m
+110. Broadaxe            340 [38;5;177ma serrated honed broadaxe[0;37m
+111. Talons              450 a set of black talons
+112. Blade               100 a sharp draconian blade
+113. Knife                75 a sharp filleting knife (3d3 2/2 w6 *19)
+114. Shield              400 a shield of Tirabot (w22 res_elec8 imm_elec)
+115. Warbow              600 [38;5;214ma shimmering copper Set'ahki warbow (ranged_dr/hr2 s/p/a 12/15/13 w6 *19)[0;37m
+116. Sigil               400 [38;5;177ma shimmering frosted tin sigil (C2+ MELEE HELD)[0;37m
+117. Shining             200 a shining silver plate (str1 ac-5)
+118. Shield              300 a shining silver shield
+119. Sword               230 a shining silver sword (3d6 mag w15 *19)
+120. Horn                300 a shiny bronze horn (resmagic16 norent)
+121. Shirt               250 a shirt of autumn leaves (wis1 detinvis druid only)
+122. Amulet              250 a silver amulet (res_elec10)
+123. Amulet              250 a silver amulet (res_elec10)
+
+ [return for more, q to stop]
+124. Club                750 a silver shod oaken club
+125. Fetish              120 a sinew-wrapped bear claw fetish (cha1)
+126. Sabre               155 a slender mithril sabre
+127. Ring                  3 a small copper ring (ac-2)
+128. Amulet               75 a small fishbone amulet (hr1 det_G Evil)
+129. Ring                500 a small signet ring (ac-2 immac/cold/gas/heat)
+130. Rapier              245 [38;5;225ma splendid slender rapier[0;37m
+131. Robe                 75 a a stained brown robe (save_pois -1 cl1 Magic)
+132. Battleaxe            85 a standard issue battleaxe
+133. Longsword            75 a standard issue longsword
+134. Neckchain            75 a steel neckchain
+135. Armor               100 a suit of Red Dragonarmy armor
+136. Suit                450 a suit of crimson banded mail
+137. Armor               250 a suit of shiny coin armor (crap)
+138. Plate               520 a suit of sterling platemail (hr regen10% res_crit1% *19)
+139. Longsword           425 [38;5;171ma tempered hooked longsword[0;37m
+140. Belt                 25 a thick leather belt (ac-4)
+141. Vest                200 [38;5;225ma thief's leather vest (B1 THIEF BODY) of deceit[0;37m
+142. Eyepatch             80 a transparent eyepatch (hr-1 det_mag)
+143. Vest                500 a vest of bone shards (wis1 hit-5)
+144. Skirt               380 [38;5;177ma weathered leather skirt (C2 BARBARIAN LEGS) of Que-Kiri[0;37m
+145. Cloak               160 a white cloak trimmed with silver
+146. Robe                 85 a white satin robe
+147. Halberd             150 [38;5;225ma wood-shafted halberd[0;37m
+148. Pelt                 30 a worn bear pelt loincloth (hit3 bar/ran/war)
+149. Ring                500 an ancient solamnic ring
+150. Cape                200 [38;5;183man angelic feathered cape (B3 PALADIN ABOUT) of justice[0;37m
+151. Pendant             230 [38;5;225man antique malachite inlaid pendant (B2+ CASTER NECK)[0;37m
+152. Bracelet            300 an apatite encrusted bracelet (4th+1 det_inv infra)
+153. Dagger              121 an elegant elven dagger (2d6 2/2 w8 magic)
+154. Rapier              340 [38;5;183man elegant thin rapier[0;37m
+155. Rapier              400 [38;5;177man elegant well-balanced rapier[0;37m
+156. Cape                300 an embroidered black wool cape
+157. Blade               150 an emerald hilted blade (2d6 1/1 w9 magic nomag/pal/dru/cle/scout/war/dk)
+158. Armor               100 an etched suit of armor (apply5 nobarb/sham)
+159. Bracelet            200 an ivory bracelet (con-2 wis glow/mag/bls *19)
+160. Helm                150 an oaken-leaf helm (learn5 druid only)
+161. Dagger              130 an obsidian dagger (3d5 1/1 w5)
+162. Necklace            500 an obsidian shard necklace
+163. Spear               350 an obsidian-tipped ironwood spear (6d4 hr NORENT w34 nothi *19)
+164. Plate                60 crytic stone plate (res_acid6)
+
+ [return for more, q to stop]
+165. Sleeves             300 dark leather sleeves (save_petri-1)
+166. Gloves              100 gloves of wretchedness
+167. Breeches            100 [38;5;225msome black abyssal breeches of stars (A3+ MAGE LEGS)[0;37m
+168. Mitts               140 [38;5;225msome burglar's mitts of malady (A1+ THIEF HANDS)[0;37m
+169. Straps              100 some crossed leather straps, adorned with spikes (rescold10)
+170. Greatboots          525 [38;5;171msome crystalline greatboots of immolation (D5+ CLERIC FEET)[0;37m
+171. Armwraps            230 [38;5;225msome deer skin armwraps of stalking (B1+ SCOUT ARMS)[0;37m
+172. Breeches            120 [38;5;225msome dimensional breeches of stars (A2+ MAGE LEGS)[0;37m
+173. Legwraps            215 [38;5;225msome dimensional legwraps of dreams (B2+ MAGE LEGS)[0;37m
+174. Armguards           320 [38;5;177msome frosted armguards of the woods (C3+ DRUID ARMS)[0;37m
+175. Sleeves              80 some grey scalemail sleeves (HR *19)
+176. Shinguards          420 [38;5;183msome heavy shinguards of battle (C1+ WARRIOR LEGS)[0;37m
+177. Boots                60 some leather boots (ac-5 regen5% mv10 *19)
+178. Greaves              40 some leather greaves (ac-5 regen5%)
+179. Legwraps            110 [38;5;225msome supple legwraps of malady (A3+ THIEF LEGS)[0;37m
+180. Leggings            160 spun silver leggings (ac-12 mv12 bless)
+181. Spun                160 spun silver sleeves (dex1 ac-9 antiE)
+182. Mask                640 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+183. Mask               1000 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+184. Hat                 100 the prestigious cooks award hat (3rd+1 poison-1)
+185. Rod                 350 the rod of terror (3d5 w8 spec?)
+186. Staff               120 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+187. Sword               400 [38;5;214mthe sword of slumber (3d6 hr2 glow/mag w4)[0;37m
+You are hungry.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:40 Exits:S> browse tempered
+You browse through the merchandise and notice:
+The longsword's metallic surface shines brilliantly. (99%)
+A tempered hooked longsword is of superb quality.
+You feel informed:
+ Object 'longsword tempered hooked sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 21           Value   : 425
+
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Class    : long_sword
+ Damage   : 2D9
+A tempered hooked longsword requires knowledge of the skill 'long blades'.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:36 Exits:S> 
+[37mYour clanmate Thiq has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:32 Exits:S> sc
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 13. You have completed 0.14% of your next rank.
+You are 19 years old.
+You are hungry.
+You have 441(441) hit and 132(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 1653(9472) steel coins.
+You have 2 rank points to spend.
+You have died 1 horrible death.
+You have been connected for 5 minute(s).
+You have been playing for 4 day(s), 8 hour(s) and 25 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:26 Exits:S> 
+[36mViq tells your clan 'whacha need'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:26 Exits:S> 
+[37mYour clanmate Pliq has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:24 Exits:S> eat bread
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:22 Exits:S> 
+[36mVidar tells your clan 'just help with a turn in at dargo'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:15 Exits:S> 
+[36mViq tells your clan 'can help'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:14 Exits:S> 
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:11 Exits:S> l
+[35mThe Forge of Myth[0;37m
+    Incessant hammering of iron on anvil brings a sharp ringing to this
+furnace of a smithy. While most of the work done here seems to be toward the
+making of horseshoes and repairing minor dents in weapons and armor, the
+master smith has been known to craft some new items from time to time.
+Cooling buckets surround the anvil and the occasional hiss released from
+the cooling process indicates that they are often put to good use.
+[33m[1mA heavy iron pickaxe is lying here.
+[0;37m[31m[1mThe clan blacksmith is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:10 Exits:S> 
+[36mViq tells your clan 'rit away'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:9 Exits:S> ct i need 2 rank so i can be filthy
+You tell your clan 'i need 2 rank so i can be filthy'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:60 Exits:S> 
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:59 Exits:S> 
+[36mSomeone tells your clan 'Need help?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:59 Exits:S> l
+[35mThe Forge of Myth[0;37m
+    Incessant hammering of iron on anvil brings a sharp ringing to this
+furnace of a smithy. While most of the work done here seems to be toward the
+making of horseshoes and repairing minor dents in weapons and armor, the
+master smith has been known to craft some new items from time to time.
+Cooling buckets surround the anvil and the occasional hiss released from
+the cooling process indicates that they are often put to good use.
+[33m[1mA heavy iron pickaxe is lying here.
+[0;37m[31m[1mThe clan blacksmith is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:49 Exits:S> sc
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 13. You have completed 0.14% of your next rank.
+You are 19 years old.
+You have 441(441) hit and 132(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 1653(9472) steel coins.
+You have 2 rank points to spend.
+You have died 1 horrible death.
+You have been connected for 5 minute(s).
+You have been playing for 4 day(s), 8 hour(s) and 26 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:47 Exits:S> s
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 0.14% 1653C [0;37mT:41 Exits:NESW> s
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1mA large glob of dark red slime squats here. [2]
+A grotesque face with a tentacled mouth lies here...it emits an arcane glow
+A large glob of dark red slime squats here.
+A thin string of sea dragon scales (waterbreath/free_water_action norent) lies here...it emits an arcane glow
+A folded scrap of parchment is lying here.
+[0;37m[31m[1mThe clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:37 Exits:N> brew recipes
+You know the recipes to brew the following spells:
+
+ aid
+   0/1 Low Protection
+
+ bless
+   0/1 Low Combat
+
+ blindness
+   0/2 Low Enchantment
+
+ create food
+   0/1 Low Summoning
+
+ cure serious
+   2/1 Mid Healing
+   0/1 Low Healing
+
+ prayer
+   2/1 Mid Combat
+   0/1 Low Combat
+
+ protection from evil
+   0/2 Low Protection
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:32 Exits:N> brew
+You are carrying 0 blank scrolls and 0 empty potion bottles.
+You are carrying the following known spell components:
+-----------------------------------------------------
+ 1 x a handful of toasted beetle legs              (Low Abjuration)
+ 1 x a small chunk of licorice root                (Low Alteration)
+ 1 x a smooth blank runestone                      (Low Alteration)
+140 x a tiny acorn                                  (Low Alteration)
+ 1 x a broken piece of a mirror                    (Low Divination)
+ 2 x a forked twig                                 (Low Divination)
+ 1 x a sprinkle of saffron                         (Low Divination)
+ 2 x a bottled firefly                             (Low Elemental)
+ 1 x a featureless pewter doll                     (Low Elemental)
+ 1 x a myconid cap                                 (Low Elemental)
+ 1 x a chipped stone dart                          (Low Evocation)
+ 2 x a handful of roasted chestnuts                (Low Evocation)
+ 1 x a snapdragon blossom                          (Low Evocation)
+ 1 x a lump of beeswax                             (Low Illusion)
+ 1 x a pinch of chameleon dust                     (Low Illusion)
+ 1 x a scratched glass lens                        (Low Illusion)
+19 x a deadly scorpion stinger                     (Low Necromantic)
+ 1 x a garlic clove                                (Low Necromantic)
+ 1 x a powerfully blessed bandage                  (Low Necromantic)
+20 x dirt from a long forgotten grave              (Low Necromantic)
+ 1 x a rose bud                                    (Low Plant)
+ 1 x some spruce seeds                             (Low Plant)
+ 1 x a glass lightning jar                         (Low Weather)
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:28 Exits:N> 
+[37mYour clanmate Caine has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:16 Exits:N> scribe 'cau cr'
+You are not in a good position to scribe.  Perhaps you should try resting.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:15 Exits:N> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:14 Exits:N> scribe 'cau cr'
+You can't remember how to cast that spell!
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:10 Exits:N> mem
+
+[36mViq tells your clan 'ok'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:8 Exits:N> 
+Spells currently memorized:
+1: [ 2]aid                  [ 1]bless                [ 1]create food         
+   [ 1]create water         [ 1]cure light           [ 1]know alignment      
+   [ 2]restore strength    
+2: [ 5]blindness            [ 2]cure blindness       [ 1]light               
+   [ 1]silence             
+3: [ 1]cure serious         [ 1]holy armor           [ 2]poison              
+   [ 1]protection from evil [ 3]remove poison       
+4: [ 1]cloak of bravery     [ 4]flamestrike          [ 2]heroism             
+   [ 1]prayer              
+5: [ 3]cure critical        [ 2]dispel good          [ 1]holy aura           
+6: [ 2]animate dead         [ 2]darkness             [ 2]summon              
+7: [ 4]soul leech          
+8: [ 1]steelskin            [ 2]sunray              
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:8 Exits:N> 
+Someone works diligently and brews a spell in an empty potion bottle.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:7 Exits:N> 
+[36mViq tells your clan 'forming CV'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:5 Exits:N> l
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1mA large glob of dark red slime squats here. [2]
+A grotesque face with a tentacled mouth lies here...it emits an arcane glow
+A large glob of dark red slime squats here.
+A thin string of sea dragon scales (waterbreath/free_water_action norent) lies here...it emits an arcane glow
+A folded scrap of parchment is lying here.
+[0;37m[31m[1mYou see the outline of a life form here, carrying: a crystalline torc; a small diamond shield (w18 ss-1 res_mag5 glow/bless); a glowing scroll of recall; a glowing scroll
+[0;1;31mof recall; a glowing scroll of recall.
+The clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:2 Exits:N> 
+[36mSomeone tells your clan 'Let me know when to relo'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:58 Exits:N> 
+[36mSomeone tells your clan 'Me'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:54 Exits:N> ct ill comeif you have room
+You tell your clan 'ill comeif you have room'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:52 Exits:N> l
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1mA large glob of dark red slime squats here. [2]
+A grotesque face with a tentacled mouth lies here...it emits an arcane glow
+A large glob of dark red slime squats here.
+A thin string of sea dragon scales (waterbreath/free_water_action norent) lies here...it emits an arcane glow
+A folded scrap of parchment is lying here.
+[0;37m[31m[1mThe clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:51 Exits:N> 
+[36mFizl tells your clan 'cv is not nightfall!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:48 Exits:N> 
+[36mViq tells your clan 'DAwn is in Uth Matt'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:42 Exits:N> 
+[36mSomeone tells your clan 'Heh. We're going to do just awful, bitter things to poor CV'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:33 Exits:N> 
+[36mSomeone tells your clan 'A curbstomping to remember'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:24 Exits:N> l
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1mA large glob of dark red slime squats here. [2]
+A grotesque face with a tentacled mouth lies here...it emits an arcane glow
+A large glob of dark red slime squats here.
+A thin string of sea dragon scales (waterbreath/free_water_action norent) lies here...it emits an arcane glow
+A folded scrap of parchment is lying here.
+[0;37m[31m[1mThe clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:19 Exits:N> n
+Come on! I'm relaxing!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:18 Exits:N> w
+Come on! I'm relaxing!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:18 Exits:N> sta
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:17 Exits:N> n
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 0.14% 1653C [0;37mT:16 Exits:NESW> w
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.14% 1653C [0;37mT:16 Exits:EWU> u
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mAssorted keys dangle from an iron loop here.
+A very valuable key has been left here.
+A flimsy bronze key lies here.
+A luminous potion of liquid brass has been set here...it glows dimly
+A large glob of dark red slime squats here.
+[0;37m[31m[1mYou see the outline of a life form here, carrying: the eye of an umber hulk (ss-1 cl2 det_invis/senseL/detE); a glowing scroll of recall; a glowing scroll of recall; a
+[0;1;31mglowing scroll of recall; a glowing scroll of recall; a glowing scroll of recall.
+<Myth> Hel the Female Half Ogre is standing here. (flying) (black aura)
+. . . enveloped in shadows.
+<Myth> Shmyaka Krakozyaka is standing here. (flying) (white aura)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:16 Exits:D> col viq
+You try to collapse in someone's arms, but end up on the ground.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:8 Exits:D> 
+Vidar lights the eye of an umber hulk (ss-1 cl2 det_invis/senseL/detE) and holds it.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:8 Exits:D> 
+Vidar flies down.
+Hel flies down.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.14% 1653C [0;37mT:6 Exits:D> list
+Items for sale:
+  1. Cheese                2  A smoked cheese
+  2. Whiskey               2  A shot of whiskey
+  3. Wine                 10  A bottle of white wine
+  4. Bottle                1  A bottle of red wine
+  5. Keg                  10  A portable keg
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.14% 1653C [0;37mT:51 Exits:D> rent
+[33m[1m   a bishop's moonstone engraved seal (C2+ CLERIC FINGER) : 153 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring (B4+ CLERIC FINGER) : 135 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar (C2+ CASTER NECK) : 153 coins/day
+[0;37m[33m[1m                a black and gold cape : 252 coins/day
+[0;37m[33m[1m      a devotee's chasuble (D2 CLERIC BODY) of worship : 324 coins/day
+[0;37m[33m[1m a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism : 378 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship (D3+ CLERIC LEGS) : 297 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 108 coins/day
+[0;37m[33m[1m    some sacred armwraps of sacrifice (C3+ CLERIC ARMS) : 189 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 45 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 9 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 2 coins/day
+[0;37m[33m[1m   a small silver sea serpent's scale : 1 coin/day
+[0;37m[33m[1m        a deep violet dragon tear [2] : 2 coins/day
+[0;37m[33m[1m               a vial of spinal fluid : 2 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 1 coin/day
+[0;37m[33m[1m                    a dead gypsy moth : 1 coin/day
+[0;37m[33m[1m     a lock of a siren's emerald hair : 2 coins/day
+[0;37m[33m[1m                        a myconid cap : 0 coins/day
+[0;37m[33m[1m            a gleaming silver die [2] : 2 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 4 coins/day
+[0;37m[33m[1m              a miniature golden lyre : 1 coin/day
+[0;37m[33m[1m            a deformed crow's leg [4] : 4 coins/day
+[0;37m[33m[1m                  a tuft of skunk fur : 2 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 2 coins/day
+[0;37m[33m[1m                a sprinkle of saffron : 0 coins/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 2 coins/day
+[0;37m[33m[1m              shimmering faerie wings : 4 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 4 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 2 coins/day
+[0;37m[33m[1m              a magnetized needle [4] : 4 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 8 coins/day
+[0;37m[33m[1m              some bitten fingernails : 1 coin/day
+[0;37m[33m[1m                      a bit of fleece : 2 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 2 coins/day
+[0;37m[33m[1m                        a forked twig : 0 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 0 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 0 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 1 coin/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 0 coins/day
+[0;37m[33m[1m            a tiny bronze weathervane : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m[1m                    some spruce seeds : 0 coins/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 2 coins/day
+[0;37m[33m[1m                       a pineal gland : 1 coin/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 2 coins/day
+[0;37m[33m[1m               a scratched glass lens : 0 coins/day
+[0;37m[33m[1m             a small block of granite : 1 coin/day
+[0;37m[33m[1m             a small flask of bitumen : 2 coins/day
+[0;37m[33m[1m               a small flask of smoke : 2 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 2 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 0 coins/day
+[0;37m[33m[1m                a flattened lead disc : 2 coins/day
+[0;37m[33m[1m                a glass lightning jar : 0 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 1 coin/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[33m[1m              a jar of dark red blood : 4 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 0 coins/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 2 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 0 coins/day
+[0;37m[33m[1m                   a bag of fluff [2] : 4 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 1 coin/day
+[0;37m[33m[1m                    a bottled firefly : 0 coins/day
+[0;37m[33m[1m                 a chipped stone dart : 0 coins/day
+[0;37m[33m[1m              a chiseled granite fist : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 1 coin/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 1 coin/day
+[0;37m[33m[1m           a fiery red austere bracer (B1+ CASTER WRIST) : 108 coins/day
+[0;37m[33m[1ma heavily charred blacksmith's hammer : 315 coins/day
+[0;37m[33m           a piece of sweet bread [8] : 0 coins/day
+[0;37m[33m         a magnificent slender rapier : 270 coins/day
+[0;37m[33m               a bright ball of light : 0 coins/day
+[0;37m[33m               a brewed potion of aid : 7 coins/day
+[0;37m[33m            an enormous scorched maul : 225 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 65 coins/day
+[0;37m[33m           a glowing scroll of recall : 4 coins/day
+[0;37m[33m        a pinch of powdered malachite : 72 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m                   a basilisk eyelash : 2 coins/day
+[0;37m[32m                 a bit of blue litmus : 1 coin/day
+[0;37m[32m                a bit of brain tissue : 1 coin/day
+[0;37m[32m                 a bleached bone disc : 2 coins/day
+[0;37m[32m                    a bottled firefly : 0 coins/day
+
+ [return for more, q to stop]
+[0;37m[32m             a broken gnomish compass : 4 coins/day
+[0;37m[32m           a broken piece of a mirror : 0 coins/day
+[0;37m[32m         a chromatic crystalline bead : 4 coins/day
+[0;37m[32ma dram of giant slug digestive acid [2] : 2 coins/day
+[0;37m[32m            a featureless pewter doll : 0 coins/day
+[0;37m[32m                        a forked twig : 0 coins/day
+[0;37m[32m                       a garlic clove : 0 coins/day
+[0;37m[32m                  a golden nugget [2] : 2 coins/day
+[0;37m[32m              a hand-held sundial [2] : 2 coins/day
+[0;37m[32m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[32m  a leather pouch of vampire dust [3] : 3 coins/day
+[0;37m[32m                a meteor fragment [2] : 4 coins/day
+[0;37m[32m  a miniscule cedar picture frame [2] : 4 coins/day
+[0;37m[32m             a mummified bullfrog leg : 2 coins/day
+[0;37m[32m        a murky vial of squid ink [2] : 4 coins/day
+[0;37m[32m   a patch of phosphorescent moss [2] : 2 coins/day
+[0;37m[32m    a patch of poisonous crimson moss : 1 coin/day
+[0;37m[32m             a pearly white moonstone : 1 coin/day
+[0;37m[32m       a piece of broken pond ice [2] : 4 coins/day
+[0;37m[32m                       a pineal gland : 1 coin/day
+[0;37m[32m         a powerfully blessed bandage : 0 coins/day
+[0;37m[32m                           a rose bud : 0 coins/day
+[0;37m[32m       a small chunk of licorice root : 0 coins/day
+[0;37m[32m           a small flask of smoke [2] : 4 coins/day
+[0;37m[32m         a small spherical lode stone : 2 coins/day
+[0;37m[32m          a small vial of quicksilver : 4 coins/day
+[0;37m[32m                 a smear of green mud : 1 coin/day
+[0;37m[32m             a smooth blank runestone : 0 coins/day
+[0;37m[32m        a sparkling green emerald [2] : 4 coins/day
+[0;37m[32m           a sphagnum peat moss patch : 2 coins/day
+[0;37m[32m                 a sprig of spearmint : 2 coins/day
+[0;37m[32ma thin slate of polished obsidian [2] : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 4 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 2 coins/day
+[0;37m[32m           a vial of spinal fluid [3] : 6 coins/day
+[0;37m[32m                    a vial of vinegar : 1 coin/day
+[0;37m[32m               a wand of invisibility : 180 coins/day
+[0;37m[32m                         an aeolipile : 1 coin/day
+[0;37m[32mdirt from a long forgotten grave [20] : 0 coins/day
+[0;37m[32m             powdered bull's horn [2] : 2 coins/day
+[0;37m[32m       some coarsely ground fire ants (COMP ABJ *19) : 1 coin/day
+
+ [return for more, q to stop]
+[0;37m[32m               some leaves of hemlock : 1 coin/day
+[0;37m[32m                      some poison ivy : 1 coin/day
+[0;37m[32m                 some rose petals [3] : 3 coins/day
+[0;37m[33m                      a sprig of pine : 1 coin/day
+[0;37m[33m                      a waterskin [4] : 0 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 3467 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 9 days.'
+The stronghold receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+WÊò
+0
+
+
+Thank you for playing.
+
+
+[0m#SESSION 'a' DIED.[0m

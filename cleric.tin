@@ -14,3 +14,9 @@
 #alias steel {cast 'steelskin'}
 #alias gate {cast 'gate' %0}
 #alias sl {a cast 'so le' %0;}
+
+#alias rp {cast 'rem poi' %0;}
+#alias cb {cast 'cure blind' %0;}
+#alias gust {cast 'gust of wind';}
+#alias frac {cast 'free action' %0;}
+#alias restr {cast 'restore strength' %0;}

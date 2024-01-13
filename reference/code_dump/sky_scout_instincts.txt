@@ -1,0 +1,35 @@
+Sky Scout Instincts
+
+1.1: crow     +1 Int                    1.2: shrike  +1 Dex
+2.1: *swan    +1/+2 Wis                 2.2: *harrier  +1/+2 Str
+3.1: *owl     +1/+2 Con                 3.2: *mockingbird  +10/30 HP_regen
+4.1: swallow  -2 spell_save             4.2: *kingfisher  +2/+3 Dex
+5.1: vulture  +2 RHR                    5.2: *roc  +2/+3 RDR
+6.1: griffon  -5 lim_dam_factor         6.2: phoenix  +5 dam_factor
+
+
+1.1: crow(scavenge) - No stat modifiers, cooldown = 10, if level > 14 then feeds the group, feeds the whole room at level 30, always skips barbarians
+
+1.2: shrike(peck) - No stat modifiers, cooldown = 2, dam = 2d(level - 5)
+
+2.1: *swan(flap) - No stat modifiers, refreshes mvs (3 * level), legendary adds 20 mvs per tic for 4 tics
+
+2.2: *harrier(hover) - No stat modifiers, cooldown = 5 (3 if legendary), applies nobash for a duration of 3 (10 if legendary), legendary also adds 3 archery points for a duration of 3
+
+3.1: *owl(gather) - No stat modifiers, cooldown = 2 (1 if legendary), generates (skill / 3) arrows of random quality (7 diff tiers), legendary always create tier 7 arrows and creates more of them (skill + 3-13)
+
+3.2: *mockingbird(dart) - No stat modifiers, cooldown = 2, dam = 3d(2 * level / 3), legendary applies fumble_chance of 20 for 2 rounds, legendary gives the scout armor_piercing for 3 rounds, legendary also adds 10% damage to the attack
+
+4.1: swallow(migration) - No stat modifiers, cooldown = 10, applies can_fly to the entire group for 30 tics
+
+4.2: *kingfisher(swoop) - No stat modifiers, cooldown = 2, sits the scout for 2 rounds and the target for 1 round, legendarygives you a 25% chance to only sit for 1 round and a 25% chance to sit the enemy for 2 rounds, legendary also adds 2d(level) damage to swoop
+-
+5.1: vulture(consume) - No stat modifiers, cooldown = 1, heals the scout and gets rid of hunger, the amount healed is the same as Drain which is slightly more than Cure Critical
+
+5.2: *roc(volley) - No stat modifiers, cooldown = 3 (2 if legendary), adds volley affect for 1 round (3 if legendary), allows you to hit up to 4 targets in the room with your shoot (7 targets if legendary)
+
+6.1: griffon(bolster) - No stat modifiers, cooldown = 3, gives all group members the extra_attack affect for 4 rounds
+
+6.2: phoenix(wingsweep) - No stat modifiers, cooldown = 6, does fire damage to all enemies in the room, dam = 20 - 45 (spell_save halves the damage), also disengages all combat similar to Calm
+
+*denotes legendary rank available

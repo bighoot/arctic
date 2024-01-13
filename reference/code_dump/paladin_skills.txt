@@ -1,0 +1,97 @@
+Paladin Skills
+
+Weapons - l.blades(95), s.blades(90), two-handed(90), piercers(90), polearms(95), blud(90), misc(80)
+
+Lay(90) - The amount healed is not affected by faith but the statuses that can be removed are, can remove disease, poison, bleeding, curse, blindness, weaken, and energy drain
+
+Rescue(90) - No stat modifiers
+
+Bandage(50) - No stat modifiers
+
+Strike(90) - Striking with an offhand halves your skill, missing your strike worsens your AC by about 30, if you use an offhand or strike while blind you have a chance to fumble, the fumble chance is a Dex check modified by your faith and the weight of the weapon, fumbling a weapon lowers your crit_resist, legendary strike negates all the negative effects and adds a 50% chance to increase you dam_factor by 3 on a successful strike, strike damage is about 90% of a normal weapon attack and legendary adds 25% more damage
+
+Shield Block(80) - Higher Dex and Str reduce more damage, shields take 1 damage for every block
+  Chance to block is affected by: big hits (dam > 50) lower your skill by 10, sitting halves your skill, light shields (<20) increase your skill while heavy shields (>30) decrease your skill
+  Damage reduction is a percentage and is affected by: your skill (base reduction = 5 + (skill / 10)), your faith (adds 1-20), a successful contested Dex check adds 1/3 of your Dex, a successful contested Str check adds 1/3 of your Str, shield quality (from -5 for Poor to +10 for Superior), there is a small chance to block 100% of an attack if you win 2 contested stat checks
+  Retaliation damage = (faith / 100) + (level / 5) + (weight / 5), 25% of retaliations are headshots that interrupt spells, attacks, parry, and dodge while another 25% of retaliations bash, retaliation damage can be absorbed by enemy armor
+
+March(90) - No stat modifiers
+
+Reckoning(90) - No stat modifiers, increases the paladin's damage for a short time, duration = skill / 15 + 1, damroll = 1-3 + skill / 20
+-
+Turn(70) - Affected by Cha, winning a contested Cha ability check helps your turn result, the formula is complicated but if you try to turn an enemy your level and you are a lawful cleric who wins the contested Cha check you still only succeed about 50% of them time, paladins only about 25% of the time, much easier to turn enemies lower level than you
+
+Rally(80) - Higher Cha can improve the effects but it is unlikely, with perfect faith you can affect 6 party members, with max skill and perfect faith your success chance is: 100 for goodies, 90 for neutrals, and 85 for evils, duration = skill / 10 rounds, legendary doubles the duration and tries to apply 3 effects instead of 1, legendary also adds -10 limit_dam to the paladin
+  IMMUNE_FEAR
+  HITROLL +1, +2, +3
+  DAMROLL +1, +2, +3
+  CRIT_SCORE +50
+  EXTRA_ATTACK
+
+Beseech(80) - Heavily affected by faith, higher faith gives better effects and can eliminate negative effects
+  Paladine -    CON +1 or +2 and NOCHARM / STR -2 or -1
+  Kiri-Jolith -    STR +1 or +2 and IMM_FEAR / WIS -2 or -1
+  Mishakal -    WIS +1 or +2 and LIGHT / CON -2 or -1
+  Solinari -     INT +1 or +2 and SHIELD / DEX -2 or -1
+  Branchala -    DEX +1 or +2 and NEGATE_MAGIC_WEAPONS / INT -2 or -1
+  Habbakuk -    HEALTH +1 or +15 and WATERBREATH / LEARN -20 or -1
+  Majere -    LEARN +1 or +20 and MINDSHIELD / HEALTH -15 or -1
+
+Guard(90) - No stat modifiers, faith affects success, max faith gives you about an 88% chance to take the hit, also applies auto_rescue effect
+-
+Avenging Faith(90) - Abilitiy check differs depending on which area you target, the base effect is determined by your faith, high faith and legendary will guarantee you get the best effect because legendary adds 200 faith for this purpose, if you have max skill and (faith > 750) you also get the bonus effect, legendary adds +5 to your ability check and (2d30 + 10d3) damage
+  Location    Check    Affects    (only one)                  Bonus affect
+  Head          Wis     -3hr,BLIND,spell_loss                    Disorient
+  Torso         Str       +30ac,-1dam -1hr,-40 resists       -15 health
+  Prime         Dex     -1dam -1hr,sk_block,disarm          disarm
+  Offhand    Dex      -1dam -1hr,sk_block,disarm          disarm
+  Legs           Dex      sk_block,-6 dex,+6 bash_mod     bash
+  Wings       None    +30ac,-1dam -1hr,-40 resists     -15 health
+  Tail            None    +30ac,-1dam -1hr,-40 resists     -15 health
+  Soul           Cha       lose_dodge & +3 all saves,          -5 Int & jinxed
+                                    -6 cha & 25 limit_dam,
+                                   -25 dam_factor & -4 spell_mod
+
+*Slam(90) - No stat modifiers, disarms the opponent's offhand, if opponent doesn't have an offhand slam will deal damage and apply slowed, dam = (30d4 + 10d2)
+
+*Defense Against the Night(D) - buff that applies Light and Night Defense to the group, duration = 6 + (level / 6), Night Defense lessens damage (by percentage) from: evils(10), demons(15), dragons(15), draconians(15), golems(15), ogres(5), kobolds(5), undead(10), night(5) - these are cumulative so if you are fighting an evil dragon at night you should take 30% less damage
+-
+Crown Paladin
+
++5 two-handed
++5 beseech
++1 level 1 slot
++1 level 2 slot
+
+Divine Focus(90) - No stat modifiers, group effect over time that is less effective for evil allies, depending on the faith of the paladin it can remove disease, poison, weaken, blindness, or energy drain, heals the group over time a little less than a cure serious per pulse, if ally is fully healed then their mem time is lowered (3 ticks for GL, 2 ticks for good, 1 tick for neutral)
+
+Holy Quest(D) - increases the paladin's faith gain, especially when fighting holy mobs - priests and dragons
+
+
+Sword Paladin
+
++5 rally
++5 turn
++10 bandage
++1 level 3 slot
+
+Righteous Will(90) - No stat modifiers, affected by faith and skill level, applies extra hps and a damage shield to the paladin for 2 ticks, hps = (60 - 90) + (faith / 40), limit_damage = -1 * (skill / 10 + faith / 200), a max skill and max faith paladin should get 85 - 115 points and -14 limit_dam
+
+Aura of Command(D) - buff that increases the paladin's Cha by +2 or +3, Wis by +1 or +2, and applies NOCHARM to the group, duration = faith / 50
+
+Sanctify Ground - No stat modifiers, prevents the casting of Animate Dead, duration = faith / 333
+
+
+Rose Paladin
+
++5 rally
++5 turn
++5 shield block
++10 bandage
++1 level 4 slot
+
+Freedom(D) - No stat modifiers, group spell that removes all of the following effects from group members: holy word, pws, nightmare, silence, blind, charm, dominate, hold, daze, web, paralysis, entangle, and mal_tent
+
+Aura of Vengeance(D) - No stat modifiers, buff that gives the entire group a small damage shield (deals 1-3 dam per hit) and spawns a ghost to continue fighting when a group member dies
+
+Divine Intervention(D) - No stat modifiers, buff that gives the entire group limit_damage of -10 for 6 rounds, also heals the entire group for slightly more than Lay, leaves the Paladin with only 2 hps

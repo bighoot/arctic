@@ -7,6 +7,7 @@ Store Weapons
  Class    : long_sword
  Damage   : 2D6
 
+
 -----------------------
 
  Object 'mace iron'
@@ -22,6 +23,26 @@ Store Weapons
 		Weight   : 13           Value   : 300
 		Class    : mace
 		Damage   : 2D7
+		
+			Object 'mace steel'
+			Item Type: WEAPON
+			Mat Class: metal        Material: steel
+			Weight   : 12           Value   : 450
+			Affects  : HITROLL       by 2
+			Affects  : DAMROLL       by 1
+			Class    : mace
+			Damage   : 2D7
+			
+				Object 'mace steel reddened'
+				Item Type: WEAPON
+				Mat Class: metal        Material: steel
+				Weight   : 10           Value   : 650
+				Affects  : HITROLL       by 2
+				Affects  : DAMROLL       by 2
+				Item is  : MAGIC
+				Class    : mace
+				Damage   : 2D8
+
 
 -----------------------
 
@@ -32,6 +53,24 @@ Store Weapons
  Affects  : HITROLL       by 1
  Class    : short_sword
  Damage   : 2D5
+ 
+		Object 'sword shortsword steel'
+		Item Type: WEAPON
+		Mat Class: metal        Material: steel
+		Weight   : 9            Value   : 300
+		Affects  : HITROLL       by 1
+		Class    : short_sword
+		Damage   : 2D6
+
+			Object 'sword shortsword steel'
+			Item Type: WEAPON
+			Mat Class: metal        Material: steel
+			Weight   : 14           Value   : 450
+			Affects  : HITROLL       by 3
+			Affects  : DAMROLL       by 1
+			Class    : short_sword
+			Damage   : 2D6
+
  
  -----------------------
  
@@ -58,15 +97,16 @@ Store Weapons
 				Class    : battle_axe
 				Damage   : 2D12
 
-						Object 'axe steel battleaxe red-edged'
-						Item Type: WEAPON
-						Mat Class: metal        Material: steel
-						Weight   : 24           Value   : 700
-						Affects  : HITROLL       by 2
-						Affects  : DAMROLL       by 2
-						Item is  : MAGIC
-						Class    : battle_axe
-						Damage   : 2D13
+					Object 'axe steel battleaxe red-edged'
+					Item Type: WEAPON
+					Mat Class: metal        Material: steel
+					Weight   : 24           Value   : 700
+					Affects  : HITROLL       by 2
+					Affects  : DAMROLL       by 2
+					Item is  : MAGIC
+					Class    : battle_axe
+					Damage   : 2D13
+
 
  -----------------------
 
@@ -102,6 +142,8 @@ Store Weapons
 						Item is  : MAGIC
 						Class    : halberd
 						Damage   : 2D8
+						
+						
  -----------------------
 
  Object 'trident iron'
@@ -138,6 +180,7 @@ Store Weapons
 						Item is  : MAGIC
 						Class    : trident
 						Damage   : 2D7
+
 
  -----------------------
  

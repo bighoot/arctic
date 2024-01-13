@@ -1,0 +1,3184 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? pancho
+Password: 
+
+
+
+You were last connected Sat Dec 31 21:44:36 2022 UTC from 73.181.104.224.
+Reconnecting.
+
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:56 Exits:W> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Lefty has reconnected.
+
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:50 Exits:W> [0;37m[0m
+
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:47 Exits:W> [0;37msetscouts[0m
+[0;37ml[0m
+[36mA Clearing at the Junction of Boughs[0;37m
+    Branches here interconnect with those from neighboring vallenwood
+trees. You can hear birds singing and the gentle sounds of animals rustling
+through the foliage. You feel you are being watched by scores of men
+blended entirely into the surroundings, arrows cocked and ready.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A well traveled scout sits in meditation, attuned to the spirits of nature.
+Elrax the master scout is here, blending into his surroundings.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:33 Exits:W> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:30 Exits:W> [0;37mlearn all[0m
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:29 Exits:W> 
+There is lightning in the sky.
+
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:23 Exits:W> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (awful)             bludgeons     (very poor)       
+     long blades   (awful)             miscellaneous (awful)           
+     piercers      (awful)             short blades  (awful)           
+
+     bandage       (awful)             hide          (awful)           
+     shoot         (awful)           
+     instinct      (poor)          **
+     hunt          (awful)             sneak         (awful)           
+     target        (awful)           
+     camp          (awful)             fence         (awful)           
+     scout         (awful)           
+
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:5 Exits:W> 
+The lightning has stopped.
+
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:60 Exits:W> [0;37ml[0m
+[36mA Clearing at the Junction of Boughs[0;37m
+    Branches here interconnect with those from neighboring vallenwood
+trees. You can hear birds singing and the gentle sounds of animals rustling
+through the foliage. You feel you are being watched by scores of men
+blended entirely into the surroundings, arrows cocked and ready.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A well traveled scout sits in meditation, attuned to the spirits of nature.
+Elrax the master scout is here, blending into his surroundings.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m131V [0;37m65181X 48.00% 9945C [0;37mT:55 Exits:W> [0;37mw[0m
+Lefty arrives from the east.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood narrows as it extends further south. A
+school for budding warriors lies to the west while a clearing on a junction
+of boughs can be seen to the east. You have a strange feeling that you are
+being watched especially since the thick vallenwood canopy provides
+excellent hiding spots for those skilled in being unseen. The trunk of this
+massive vallenwood lies back to the north, and can be reached easily by the
+footholds and handholds in the bough leading down.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m65181X 48.00% 9945C [0;37mT:54 Exits:ESWD> [0;37md[0m
+Lefty arrives from above.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m127V [0;37m65181X 48.00% 9945C [0;37mT:53 Exits:NEWU> [0;37mn[0m
+Lefty arrives from the south.
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m125V [0;37m65181X 48.00% 9945C [0;37mT:52 Exits:NESWUD> [0;37md[0m
+Lefty arrives from above.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A lovely young lady is excited by the array of activities around her.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m124V [0;37m65181X 48.00% 9945C [0;37mT:52 Exits:NESWU> 
+The stone fountain doesn't have oil.
+You can't put liquids in an enormous charred maul!
+You can't put liquids in a scented cone of incense!
+You can't put liquids in a few glittering snake scales!
+The stone fountain doesn't have oil.
+You can't put liquids in a loaf of bread!
+There is no room for more.
+
+[32m[0;37m[32m203H [0;37m[32m124V [0;37m65181X 48.00% 9945C [0;37mT:51 Exits:NESWU> [0;37msc[0m
+You are Pancho the Male Minotaur, a level 11 Scout.
+You are rank 0. You have completed 48.00% of your next rank.
+You are 17 years old.
+You have 203(203) hit and 124(131) movement points.
+Your behaviour has been Neutral.
+You are traversing the path of the Mountain.
+You have scored 434,819 exp, and have 9945(0) steel coins.
+You need 65,181 more experience to advance.
+You have never died.
+You have been connected for 1 hour(s) and 28 minute(s).
+You have been playing for 0 day(s), 1 hour(s) and 48 minute(s).
+Your natural ability scores are:
+        Str: 25 Int: 14 Wis: 13 Dex: 13 Con: 16 Cha: 14
+You are currently not hunting.
+Your equipment is currently not being concealed.
+Your steps are light and unencumbered.
+You are standing.
+Available Instincts:
+    ram: headbutt
+    goat: endurance
+    lynx: scrape
+    squirrel: forage
+
+[32m[0;37m[32m203H [0;37m[32m124V [0;37m65181X 48.00% 9945C [0;37mT:50 Exits:NESWU> [0;37ms[0m
+Lefty arrives from the north.
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A stray dog slowly moves about the area, sniffing the nearby trees.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m123V [0;37m65181X 48.00% 9945C [0;37mT:49 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m122V [0;37m65181X 48.00% 9945C [0;37mT:48 Exits:NES> [0;37ms[0m
+Lefty arrives from the north.
+[36mThe Intersection[0;37m
+    You are at a huge intersection in the forest. Southern Avenue meets
+with Park Road and Forest Lane here. There is a small opening in the trees
+above that allows a view of the sky above. A small breeze blows through
+here and you inhale deeply. Southern Avenue leads north and south from the
+intersection, while Forest Lane leads off west and Park Road exits to the
+east.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m121V [0;37m65181X 48.00% 9945C [0;37mT:48 Exits:NESW> [0;37ms[0m
+Lefty arrives from the north.
+[36mSouthern Avenue[0;37m
+    You are on a rather wide road. This avenue leads south and north
+through the town. To the north, you see buildings built up in the limbs of
+the huge vallenwoods. This view of Solace shows you how much the village
+depends on the ancient trees for life and sustenance. The avenue leads
+north and south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+An orange-breasted falcon is perched here while feasting on a prey.
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m120V [0;37m65181X 48.00% 9945C [0;37mT:48 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mSouthern Avenue[0;37m
+    The avenue leads north and south through the huge vallenwoods. The
+trees loom high above you. Their limbs form a canopy that protects you from
+the harsh outside world. The forest here teems with life. You notice a
+smaller road leading east into what appears to be a park.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m119V [0;37m65181X 48.00% 9945C [0;37mT:48 Exits:NES> [0;37ms[0m
+Lefty arrives from the north.
+[36mThe Southern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the south. Two huge
+vallenwoods stand on either side of the road and the gate is placed
+between them. The forest to the south looks much wilder and more dangerous
+than the forest that houses Solace. Southern Avenue leads north into
+Solace itself.
+[33m[1mA long torch functions as a street lamp here.
+A large notice demanding your attention is posted on the city gates.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A small child plays with some colorful objects.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m118V [0;37m65181X 48.00% 9945C [0;37mT:47 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mThe Road to Solace[0;37m
+    The trees that line the route give a good indication of the ways to
+travel. To the north the huge vallenwood trees of Solace are visible,
+clearly marking the southern entrance to the town. The road to the south
+becomes wild and rocky as it leads through a wilder section of forest.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m117V [0;37m65181X 48.00% 9945C [0;37mT:47 Exits:NES> [0;37ms[0m
+Lefty arrives from the north.
+[36mOn a Long Road[0;37m
+    The dense forest around you occasionally places obstacles in your path,
+you cannot help but trip and fall. Fortunately the soft cushion of dead
+leaves offers much help. Weak sounds of the hustle and bustle of town life
+can be heard from the north. The road continues to the south, it seems as
+if it could go on forever.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m115V [0;37m65181X 48.00% 9945C [0;37mT:47 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mOn a Road[0;37m
+    The road continues, snaking through the rocky wilderness. It makes a
+large curve to avoid a big boulder, jutting out from the surrounding hills.
+You have heard tales of bandits surviving off of travellers on the roadways
+of Krynn, and it occurs to you that this would be an excellent spot for an
+ambush. The road continues to the north and south.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m108V [0;37m65181X 48.00% 9945C [0;37mT:47 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mBy a Small Hovel[0;37m
+    Wearily, you come to stop outside a small hovel. It looks like it has
+been built as a rest stop to provide a safe haven for travellers. The hovel
+sits off to the west of the main road here. The road itself stretches out
+to the north and east. The terrain to the east becomes dry and dusty,
+while you can see what appears to be a forest on the edge of the plains to
+the north.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m96V [0;37m65181X 48.00% 9945C [0;37mT:46 Exits:NE(W)> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m203H [0;37m[33m[1m96V [0;37m65181X 48.00% 9945C [0;37mT:46 Exits:NE(W)> [0;37me[0m
+Lefty arrives from the west.
+[36mOn a Road[0;37m
+    The road continues, now heading to the south. The general terrain seems
+to be getting drier and dustier, and there are fewer trees. In addition,
+the air seems to be getting somewhat colder. From a nearby hill, a deer
+notices you, and bolts into the woods. From here, the road continues to the
+south and west.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m84V [0;37m65181X 48.00% 9945C [0;37mT:46 Exits:ESW> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Bend in the Road[0;37m
+    To the north the plains turn into forested lands. Northwest of here is
+the Darkenwood forest and the village of Gateway. Travelling south will take
+you through the plains of Abanasinia and further on to the port town of
+Newport. The plains continue onward south from this point.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m72V [0;37m65181X 48.00% 9945C [0;37mT:45 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of Abanasinia. The land is very flat and you
+can see for miles and miles around. A few trees are growing here and there,
+along with other kinds of short vegetation bushes, brush and other assorted
+plants. In the distant west you can see a mountain range and a cool breeze
+is blowing in from the east. Looking to the east you can see the lands of
+the Que-teh tribe, their cooking fires trailing smoke up into the sky.
+[33m[1mA small sign has been hammered into the ground here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A stout dwarf marches about here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m60V [0;37m65181X 48.00% 9945C [0;37mT:45 Exits:NES> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path in the Plains of Abanasinia[0;37m
+    This slight path cuts into the dry plains of Abanasinia like a knife.
+Although there are a few fresh tracks, the arid landscape keeps this trail
+from becoming overgrown with vegetation. Upon a glance, you determine that
+most of the tracks were made by unshod horses. From this distance you can
+barely discern the outlines of the tents of Que-teh tribe to the northeast.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m53V [0;37m65181X 48.00% 9945C [0;37mT:45 Exits:EW> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path in the Plains of Abanasinia[0;37m
+    This slight path cuts into the dry plains of Abanasinia like a knife.
+Although there are few fresh tracks, the arid landscape keeps this trail
+from becoming overgrown with vegetation. Upon a glance, you determine that
+most of the tracks were made by unshod horses. A large road can be seen to
+the southwest, and the Que-teh village is some distance northeast.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m51V [0;37m65181X 48.00% 9945C [0;37mT:44 Exits:NW> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. The Que-teh village is still quite a distance to
+the north, while to the south you can still barely make out the road
+through the Plains of Abanasinia.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m49V [0;37m65181X 48.00% 9945C [0;37mT:44 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. The Que-teh village is still quite a distance to
+the north, while to the south you can still barely make out the road
+through the Plains of Abanasinia.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m47V [0;37m65181X 48.00% 9945C [0;37mT:43 Exits:ES> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. Instead of entering the village, the path appears
+to skirt around it.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m45V [0;37m65181X 48.00% 9945C [0;37mT:43 Exits:NW> [0;37mn[0m
+Lefty arrives from the south.
+[36mSkirting the Que-teh Village[0;37m
+    From this vantage point, you can peer into the Que-teh village and see
+a few villagers going about their daily tasks. The path continues north and
+south.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m43V [0;37m65181X 48.00% 9945C [0;37mT:43 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mSkirting the Que-teh Village[0;37m
+    This section of the path runs between the village and a large garden.
+The Que-teh have planted various vegetables to supplement their food needs
+during the harsh winters of the plains. As you travel down the path you
+notice a few plainsmen traveling between the garden and the village. The
+path continues to the north past more planted land and south back towards
+the open plains.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A young Que-teh woman is returning home after working the fields.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m41V [0;37m65181X 48.00% 9945C [0;37mT:42 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mSkirting the Que-teh Village[0;37m
+    This section of the path runs between the village and a large garden.
+The Que-teh have planted various vegetables to supplement their food needs
+during the harsh winters of the plains. As you travel down the path you
+notice a few plainsmen traveling between the garden and the village. The
+path bends to the east here and continues to the entrace of the village.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m39V [0;37m65181X 48.00% 9945C [0;37mT:42 Exits:ES> [0;37me[0m
+Lefty arrives from the west.
+[36mEntrance to Que-teh Village[0;37m
+    Shortly after leaving the Que-teh's planted fields, you find yourself
+at the entrance of the Que-teh village, if a single entrance truly does
+exist. The main path continues east into the horizon while to the south you
+can enter the village.
+[33m[1mA faded map of the western lands lies here.
+A bright pile of cloth lies on the ground.
+A large torch lies here.
+A bright pile of cloth lies on the ground.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh guard stands here, scanning the plains for threats.
+A Que-teh guard stands here, scanning the plains for threats.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m37V [0;37m65181X 48.00% 9945C [0;37mT:42 Exits:SW> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path Around Que-teh Village[0;37m
+    As you step past the first few tents, Que-teh village takes form.
+Numerous tents of varying sizes can be seen in all directions. While on the
+surface this village appears to be somewhat permanent, closer inspection
+reveals that if desired the Que-teh could easily break camp and move to a
+more fertile landscape. To the north lies the exit to Que-teh village,
+while to the east and west a circular path winds through the village.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh woman examines you warily as you travel down the path.
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m36V [0;37m65181X 48.00% 9945C [0;37mT:41 Exits:NEW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues east
+and west, while to the south you see a large firepit with plainsmen all
+around it. Activity is fierce in this part of the village.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m35V [0;37m65181X 48.00% 9945C [0;37mT:40 Exits:ESW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Path Through Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m34V [0;37m65181X 48.00% 9945C [0;37mT:40 Exits:ESW> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh hunter sits here, eating the fruits of his day's work.
+A Que-teh plainswoman sits here, eating a meal with her husband.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m65181X 48.00% 9945C [0;37mT:40 Exits:N> [0;37mfight hunter[0m
+
+Lefty MASSACREs a Que-teh hunter with his slash.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m65181X 48.00% 9945C [0;37mT:36 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m65181X 48.00% 9945C [0;37mT:35 Exits:N> 
+You MASSACRE a Que-teh hunter with your crush.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m64843X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh hunter:[0;37m[31mAwful[0;37m] [0;37mT:35 Exits:N> 
+You miss a Que-teh hunter with your crush.
+Lefty misses a Que-teh hunter with his slash.
+A Que-teh hunter misses Lefty with his hit.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m64843X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh hunter:[0;37m[31mAwful[0;37m] [0;37mT:32 Exits:N> 
+-#-#-#-#-#-#-#-> A Que-teh hunter <-#-#-#-#-#-#-#-  stands up.
+Lefty stings a Que-teh hunter hard.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m64843X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh hunter:[0;37m[31mAwful[0;37m] [0;37mT:31 Exits:N> 
+A Que-teh hunter dodges your headbutt with a quick sidestep.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m64843X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh hunter:[0;37m[31mAwful[0;37m] [0;37mT:30 Exits:N> 
+A Que-teh hunter bleeds profusely from his wounds.
+You MASSACRE a Que-teh hunter with your crush.
+You receive 8246 experience.
+A Que-teh hunter is dead! R.I.P.
+The death cry of a Que-teh hunter echoes from somewhere nearby...
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:28 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 8246[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:26 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:26 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:26 Exits:N> 
+You can't find that container.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:25 Exits:N> [0;37mfight woman[0m
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:25 Exits:N> 
+Lefty MASSACREs a Que-teh plainswoman with his slash.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:25 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:25 Exits:N> 
+Lefty misses a Que-teh plainswoman with his slash.
+A Que-teh plainswoman bruises Lefty with her hit.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:24 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m56319X 48.00% 9945C [0;37mT:24 Exits:N> 
+You MASSACRE a Que-teh plainswoman with your crush.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m55950X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[33m[1mBad[0;37m] [0;37mT:24 Exits:N> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+You MASSACRE a Que-teh plainswoman with your crush.
+Lefty misses a Que-teh plainswoman with his slash.
+A Que-teh plainswoman misses Lefty with her hit.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m55607X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[31mAwful[0;37m] [0;37mT:20 Exits:N> 
+Lefty stings a Que-teh plainswoman hard.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m55607X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[31mAwful[0;37m] [0;37mT:20 Exits:N> 
+-#-#-#-#-#-#-#-> A Que-teh plainswoman <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m55607X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[31mAwful[0;37m] [0;37mT:19 Exits:N> 
+You suddenly lunge forward, slamming your skull into a Que-teh plainswoman's face with a sickening crunch.
+A Que-teh plainswoman is stunned, but will likely regain consciousness again.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m55502X 48.00% 9945C [a Que-teh plainswoman:[0;37m[31mAwful[0;37m] [0;37mT:19 Exits:N> 
+A Que-teh plainswoman bleeds profusely from her wounds.
+A Que-teh plainswoman is stunned, but will likely regain consciousness again.
+You **ANNIHILATE** a Que-teh plainswoman with your crush.
+You receive 10936 experience.
+A Que-teh plainswoman is dead! R.I.P.
+The death cry of a Que-teh plainswoman echoes from somewhere nearby...
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m44566X 48.00% 9945C [0;37mT:16 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 10936[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m44566X 48.00% 9945C [0;37mT:15 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m44566X 48.00% 9945C [0;37mT:15 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m44566X 48.00% 9945C [0;37mT:14 Exits:N> 
+You can't find that container.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m44566X 48.00% 9945C [0;37mT:14 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m44566X 48.00% 9945C [0;37mT:14 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m44566X 48.00% 9945C [0;37mT:14 Exits:N> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+
+[32m[0;37m[32m203H [0;37m[33m[1m33V [0;37m44566X 48.00% 9945C [0;37mT:8 Exits:N> 
+The rain has stopped.
+
+[32m[0;37m[32m203H [0;37m[33m[1m70V [0;37m44566X 48.00% 9945C [0;37mT:60 Exits:N> 
+[36mGribble shouts 'any mage need a spellbook faded with neglect?'
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m70V [0;37m44566X 48.00% 9945C [0;37mT:48 Exits:N> 
+[36mRallin shouts 'any goodie xp buddies? 23+'
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m70V [0;37m44566X 48.00% 9945C [0;37mT:44 Exits:N> [0;37ml[0m
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1mThe corpse of a Que-teh plainswoman is lying here.
+The corpse of a Que-teh hunter is lying here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m70V [0;37m44566X 48.00% 9945C [0;37mT:26 Exits:N> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Path Through Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh warrior watches over the village cautiously.
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m69V [0;37m44566X 48.00% 9945C [0;37mT:20 Exits:ESW> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues east
+and west, while to the south you see a large firepit with plainsmen all
+around it. Activity is fierce in this part of the village.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m68V [0;37m44566X 48.00% 9945C [0;37mT:19 Exits:ESW> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path Around Que-teh Village[0;37m
+    As you step past the first few tents, Que-teh village takes form.
+Numerous tents of varying sizes can be seen in all directions. While on the
+surface this village appears to be somewhat permanent, closer inspection
+reveals that if desired the Que-teh could easily break camp and move to a
+more fertile landscape. To the north lies the exit to Que-teh village,
+while to the east and west a circular path winds through the village.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m67V [0;37m44566X 48.00% 9945C [0;37mT:19 Exits:NEW> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    The path winds through a few smaller tents here, most of which have
+small cooking fires near their entrance. All around you see plainsmen going
+about their daily lives, grinding corn, sharpening arrowheads, or cooking
+the family meal are just a few of the chores being performed. The path
+continues east and west here.
+[33m[1mA crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m66V [0;37m44566X 48.00% 9945C [0;37mT:19 Exits:EW> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m65V [0;37m44566X 48.00% 9945C [0;37mT:18 Exits:NEW> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1mA well maintained longbow has been left here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh hunter sits here, eating the fruits of his day's work.
+A Que-teh plainswoman sits here, eating a meal with her husband.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m44566X 48.00% 9945C [0;37mT:18 Exits:S> [0;37mfight hunter[0m
+
+Lefty **ANNIHILATE**s a Que-teh hunter with his slash.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m44566X 48.00% 9945C [0;37mT:16 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m44566X 48.00% 9945C [0;37mT:15 Exits:S> 
+You MASSACRE a Que-teh hunter with your crush.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m44216X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh hunter:[0;37m[31mAwful[0;37m] [0;37mT:15 Exits:S> 
+-#-#-#-#-#-#-#-> A Que-teh hunter <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m44216X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh hunter:[0;37m[31mAwful[0;37m] [0;37mT:13 Exits:S> 
+You crush a Que-teh hunter very hard.
+A Que-teh hunter is mortally wounded, and will die soon, if not aided.
+Lefty **ANNIHILATE**s a Que-teh hunter with his slash.
+You receive 8330 experience.
+A Que-teh hunter is dead! R.I.P.
+The death cry of a Que-teh hunter echoes from somewhere nearby...
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m35693X 48.00% 9945C [0;37mT:12 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 8330[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m35693X 48.00% 9945C [0;37mT:10 Exits:S> 
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m35693X 48.00% 9945C [0;37mT:10 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m35693X 48.00% 9945C [0;37mT:10 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m35693X 48.00% 9945C [0;37mT:9 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m35693X 48.00% 9945C [0;37mT:9 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m35693X 48.00% 9945C [0;37mT:9 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m203H [0;37m[33m[1m64V [0;37m35693X 48.00% 9945C [0;37mT:9 Exits:S> 
+A Que-teh longbow crumbles into dust and scatters in the wind.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m35693X 48.00% 9945C [0;37mT:60 Exits:S> [0;37ml[0m
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1mThe corpse of a Que-teh hunter is lying here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh plainswoman sits here, eating a meal with her husband.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m35693X 48.00% 9945C [0;37mT:54 Exits:S> [0;37mfight woman[0m
+
+Lefty MASSACREs a Que-teh plainswoman with his slash.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m35693X 48.00% 9945C [0;37mT:53 Exits:S> 
+Lefty MASSACREs a Que-teh plainswoman with his slash.
+A Que-teh plainswoman misses Lefty with her hit.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m35693X 48.00% 9945C [0;37mT:52 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m35693X 48.00% 9945C [0;37mT:52 Exits:S> 
+You **ANNIHILATE** a Que-teh plainswoman with your crush.
+A Que-teh plainswoman is incapacitated and will slowly die, if not aided.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m35271X 48.00% 9945C [a Que-teh plainswoman:[0;37m[31mDying[0;37m] [0;37mT:51 Exits:S> 
+You **OBLITERATE** a Que-teh plainswoman with your crush.
+You receive 10844 experience.
+A Que-teh plainswoman is dead! R.I.P.
+[38;5;127mYou feel enlightened.[0m
+The death cry of a Que-teh plainswoman echoes from somewhere nearby...
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m24427X 48.00% 9945C [0;37mT:48 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 10844[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m24427X 48.00% 9945C [0;37mT:47 Exits:S> 
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m24427X 48.00% 9945C [0;37mT:46 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m24427X 48.00% 9945C [0;37mT:46 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m24427X 48.00% 9945C [0;37mT:46 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m24427X 48.00% 9945C [0;37mT:46 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m24427X 48.00% 9945C [0;37mT:45 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m203H [0;37m[33m[1m101V [0;37m24427X 48.00% 9945C [0;37mT:45 Exits:S> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m100V [0;37m24427X 48.00% 9945C [0;37mT:44 Exits:NEW> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m99V [0;37m24427X 48.00% 9945C [0;37mT:44 Exits:SW> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    As you reach this section of the path, you notice the scent of curing
+meat in the air. After further inspection you see that the source of the
+smell is a tent to the west. The path continues through the village to the
+north and south.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m98V [0;37m24427X 48.00% 9945C [0;37mT:43 Exits:NSW> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m97V [0;37m24427X 48.00% 9945C [0;37mT:43 Exits:NES> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. To the west lies some
+sort of makeshift cooking and dining pavilion. The path continues north and
+south.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m96V [0;37m24427X 48.00% 9945C [0;37mT:43 Exits:NSW> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. A small tent has been
+constructed close to the edge of the path, and can be entered to the east.
+The path bends gently here, and its course can be followed to the north and
+west.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh villager is here, performing his daily tasks.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m95V [0;37m24427X 48.00% 9945C [0;37mT:43 Exits:NEW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m94V [0;37m24427X 48.00% 9945C [0;37mT:42 Exits:NEW> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh hunter sits here, eating the fruits of his day's work.
+A Que-teh plainswoman sits here, eating a meal with her husband.
+[0;37m
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m24427X 48.00% 9945C [0;37mT:42 Exits:S> [0;37mfight hunter[0m
+
+Lefty MASSACREs a Que-teh hunter with his slash.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m24427X 48.00% 9945C [0;37mT:40 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m24427X 48.00% 9945C [0;37mT:39 Exits:S> 
+You **ANNIHILATE** a Que-teh hunter with your crush.
+[38;5;127mYou feel enlightened.[0m
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m24016X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh hunter:[0;37m[31mAwful[0;37m] [0;37mT:38 Exits:S> 
+You MASSACRE a Que-teh hunter with your crush.
+You receive 8236 experience.
+A Que-teh hunter is dead! R.I.P.
+The death cry of a Que-teh hunter echoes from somewhere nearby...
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:36 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 8236[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:34 Exits:S> 
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:33 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:33 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:33 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:33 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:32 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:32 Exits:S> [0;37mfight woman[0m
+
+Lefty MASSACREs a Que-teh plainswoman with his slash.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:20 Exits:S> 
+-#-#-#-#-#-#-#-> A Que-teh plainswoman <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:18 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15514X 48.00% 9945C [0;37mT:18 Exits:S> 
+You MASSACRE a Que-teh plainswoman with your crush.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15171X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh plainswoman:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:18 Exits:S> 
+You crush a Que-teh plainswoman hard.
+Lefty misses a Que-teh plainswoman with his slash.
+A Que-teh plainswoman hits Lefty.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15013X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:16 Exits:S> 
+Lefty attempts to sting a Que-teh plainswoman, but misses.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m15013X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:14 Exits:S> 
+You suddenly lunge forward, slamming your skull into a Que-teh plainswoman's face with a sickening crunch.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m14842X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[31mAwful[0;37m] [0;37mT:13 Exits:S> 
+You MASSACRE a Que-teh plainswoman with your crush.
+You receive 10857 experience.
+A Que-teh plainswoman is dead! R.I.P.
+The death cry of a Que-teh plainswoman echoes from somewhere nearby...
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m3682X 48.00% 9945C [0;37mT:12 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 10857[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m3682X 48.00% 9945C [0;37mT:9 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m3682X 48.00% 9945C [0;37mT:9 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m3682X 48.00% 9945C [0;37mT:9 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m3682X 48.00% 9945C [0;37mT:8 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m3682X 48.00% 9945C [0;37mT:8 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m3682X 48.00% 9945C [0;37mT:8 Exits:S> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+
+[32m[0;37m[32m203H [0;37m[33m[1m93V [0;37m3682X 48.00% 9945C [0;37mT:4 Exits:S> [0;37ml[0m
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1mThe corpse of a Que-teh plainswoman is lying here.
+The corpse of a Que-teh hunter is lying here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m130V [0;37m3682X 48.00% 9945C [0;37mT:55 Exits:S> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m3682X 48.00% 9945C [0;37mT:54 Exits:NEW> [0;37mfight woman[0m
+
+Lefty slashes a Que-teh woman very hard.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m3682X 48.00% 9945C [0;37mT:51 Exits:NEW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m3682X 48.00% 9945C [0;37mT:50 Exits:NEW> 
+You MASSACRE a Que-teh woman with your crush.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m3392X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh woman:[0;37m[33m[1mFair[0;37m] [0;37mT:50 Exits:NEW> 
+You MASSACRE a Que-teh woman with your crush.
+Lefty misses a Que-teh woman with his slash.
+A Que-teh woman misses Lefty with her hit.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m3049X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh woman:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:48 Exits:NEW> 
+Lefty attempts to sting a Que-teh woman, but misses.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m3049X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh woman:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:46 Exits:NEW> 
+You suddenly lunge forward, slamming your skull into a Que-teh woman's face with a sickening crunch.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m2917X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh woman:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:45 Exits:NEW> 
+You MASSACRE a Que-teh woman with your crush.
+Lefty slashes a Que-teh woman very hard.
+[38;5;37mYou raise a level![0m
+You receive 7343 experience.
+A Que-teh woman is dead! R.I.P.
+The death cry of a Que-teh woman echoes from somewhere nearby...
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:44 Exits:NEW> [0m[1;34;49mFOLLOWER GAINED XP: 7343[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:41 Exits:NEW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:41 Exits:NEW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:40 Exits:NEW> 
+You can't find that container.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:40 Exits:NEW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:40 Exits:NEW> 
+corpse (here) : 
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:40 Exits:NEW> [0;37ml[0m
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mThe corpse of a Que-teh woman is lying here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:39 Exits:NEW> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:36 Exits:NEW> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:32 Exits:NEW> [0;37msc[0m
+You are Pancho the Male Minotaur, a level 12 Scout.
+You are rank 0. You have completed 48.00% of your next rank.
+You are 17 years old.
+You have 203(217) hit and 129(131) movement points.
+Your behaviour has been Neutral.
+You are traversing the path of the Mountain.
+You have scored 504,742 exp, and have 9945(0) steel coins.
+You need 245,258 more experience to advance.
+You have never died.
+You have been connected for 1 hour(s) and 31 minute(s).
+You have been playing for 0 day(s), 1 hour(s) and 51 minute(s).
+Your natural ability scores are:
+        Str: 25 Int: 14 Wis: 13 Dex: 13 Con: 16 Cha: 14
+You are currently not hunting.
+Your equipment is currently not being concealed.
+Your steps are light and unencumbered.
+You are standing.
+Available Instincts:
+    ram: headbutt
+    goat: endurance
+    lynx: scrape
+    squirrel: forage
+
+[32m[0;37m[32m203H [0;37m[32m129V [0;37m245258X 48.00% 9945C [0;37mT:32 Exits:NEW> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. A small tent has been
+constructed close to the edge of the path, and can be entered to the east.
+The path bends gently here, and its course can be followed to the north and
+west.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh villager is here, performing his daily tasks.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m245258X 48.00% 9945C [0;37mT:29 Exits:NEW> [0;37mfight villager[0m
+
+Lefty misses a Que-teh villager with his slash.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m245258X 48.00% 9945C [0;37mT:27 Exits:NEW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m245258X 48.00% 9945C [0;37mT:26 Exits:NEW> 
+You MASSACRE a Que-teh villager with your crush.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m244968X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh villager:[0;37m[33m[1mGood[0;37m] [0;37mT:25 Exits:NEW> 
+You crush a Que-teh villager very hard.
+Lefty slashes a Que-teh villager very hard.
+A Que-teh villager pierces Lefty.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m244770X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh villager:[0;37m[33m[1mBad[0;37m] [0;37mT:24 Exits:NEW> 
+A Que-teh villager gives Lefty a solid punch in the face.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m244770X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh villager:[0;37m[33m[1mBad[0;37m] [0;37mT:23 Exits:NEW> 
+Lefty stings a Que-teh villager hard.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m244770X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh villager:[0;37m[33m[1mBad[0;37m] [0;37mT:21 Exits:NEW> 
+You suddenly lunge forward, slamming your skull into a Que-teh villager's face with a sickening crunch.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m244586X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh villager:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:21 Exits:NEW> 
+A Que-teh villager bleeds profusely from his wounds.
+You MASSACRE a Que-teh villager with your crush.
+Lefty MASSACREs a Que-teh villager with his slash.
+You receive 7686 experience.
+A Que-teh villager is dead! R.I.P.
+The death cry of a Que-teh villager echoes from somewhere nearby...
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m236557X 48.00% 9945C [0;37mT:20 Exits:NEW> [0m[1;34;49mFOLLOWER GAINED XP: 7045[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m236557X 48.00% 9945C [0;37mT:16 Exits:NEW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m236557X 48.00% 9945C [0;37mT:16 Exits:NEW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m236557X 48.00% 9945C [0;37mT:16 Exits:NEW> 
+You can't find that container.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m236557X 48.00% 9945C [0;37mT:16 Exits:NEW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m236557X 48.00% 9945C [0;37mT:15 Exits:NEW> 
+corpse (here) : 
+an iron skinning knife
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m236557X 48.00% 9945C [0;37mT:15 Exits:NEW> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m236557X 48.00% 9945C [0;37mT:12 Exits:NEW> [0;37ml[0m
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. A small tent has been
+constructed close to the edge of the path, and can be entered to the east.
+The path bends gently here, and its course can be followed to the north and
+west.
+[33m[1mThe corpse of a Que-teh villager is lying here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m128V [0;37m236557X 48.00% 9945C [0;37mT:2 Exits:NEW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mThe corpse of a Que-teh woman is lying here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m203H [0;37m[32m127V [0;37m236557X 48.00% 9945C [0;37mT:1 Exits:NEW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. To the north you see the entrance to a very
+large tent, possibly the home of the Que-teh tribal leader.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m130V [0;37m236557X 48.00% 9945C [0;37mT:60 Exits:NEW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh villager is here, performing his daily tasks.
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m236557X 48.00% 9945C [0;37mT:59 Exits:EW> [0;37mfight villager[0m
+
+Lefty MASSACREs a Que-teh villager with his slash.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m236557X 48.00% 9945C [0;37mT:56 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m236557X 48.00% 9945C [0;37mT:55 Exits:EW> 
+You MASSACRE a Que-teh villager with your crush.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m236241X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh villager:[0;37m[33m[1mFair[0;37m] [0;37mT:55 Exits:EW> 
+A Que-teh villager tries to sunder Lefty's armour but fails miserably.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m236241X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh villager:[0;37m[33m[1mFair[0;37m] [0;37mT:53 Exits:EW> 
+You MASSACRE a Que-teh villager with your crush.
+Lefty slashes a Que-teh villager extremely hard.
+A Que-teh villager pierces Lefty.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m235845X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh villager:[0;37m[31mAwful[0;37m] [0;37mT:52 Exits:EW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+A Que-teh woman arrives from the west.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m235845X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh villager:[0;37m[31mAwful[0;37m] [0;37mT:52 Exits:EW> 
+Lefty stings a Que-teh villager hard.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m235845X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh villager:[0;37m[31mAwful[0;37m] [0;37mT:51 Exits:EW> 
+You suddenly lunge forward, slamming your skull into a Que-teh villager's face with a sickening crunch.
+A Que-teh villager is mortally wounded, and will die soon, if not aided.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m235713X 48.00% 9945C [a Que-teh villager:[0;37m[31mDying[0;37m] [0;37mT:50 Exits:EW> 
+A Que-teh villager bleeds profusely from his wounds.
+A Que-teh villager is mortally wounded, and will die soon, if not aided.
+You **OBLITERATE** a Que-teh villager with your crush.
+You receive 7686 experience.
+A Que-teh villager is dead! R.I.P.
+The death cry of a Que-teh villager echoes from somewhere nearby...
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:48 Exits:EW> [0m[1;34;49mFOLLOWER GAINED XP: 7045[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:46 Exits:EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:46 Exits:EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:45 Exits:EW> 
+You can't find that container.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:45 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:45 Exits:EW> 
+corpse (here) : 
+an iron skinning knife
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:45 Exits:EW> 
+A Que-teh child leaves west.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:41 Exits:EW> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:40 Exits:EW> [0;37ml[0m
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mThe corpse of a Que-teh villager is lying here.
+[0;37m[31m[1mA Que-teh woman examines you warily as you travel down the path.
+Lefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:15 Exits:EW> [0;37mfight woman[0m
+
+Lefty slashes a Que-teh woman extremely hard.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:12 Exits:EW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m228027X 48.00% 9945C [0;37mT:11 Exits:EW> 
+You crush a Que-teh woman very hard.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m227803X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh woman:[0;37m[33m[1mFair[0;37m] [0;37mT:11 Exits:EW> 
+You MASSACRE a Que-teh woman with your crush.
+Lefty MASSACREs a Que-teh woman with his slash.
+A Que-teh woman misses Lefty with her hit.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m227460X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh woman:[0;37m[31mAwful[0;37m] [0;37mT:8 Exits:EW> 
+Lefty stings a Que-teh woman hard.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m227460X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh woman:[0;37m[31mAwful[0;37m] [0;37mT:7 Exits:EW> 
+You suddenly lunge forward, slamming your skull into a Que-teh woman's face with a sickening crunch.
+You receive 7630 experience.
+A Que-teh woman is dead! R.I.P.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [a Que-teh woman:[0;37m[31mDying[0;37m] [0;37mT:6 Exits:EW> [0m[1;34;49mFOLLOWER GAINED XP: 6996[0m
+
+The death cry of a Que-teh woman echoes from somewhere nearby...
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:6 Exits:EW> [0;37ml[0m
+You need to pick a target.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:2 Exits:EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:1 Exits:EW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:1 Exits:EW> 
+You can't find that container.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:1 Exits:EW> [0;37mw[0m
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:1 Exits:EW> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+corpse (here) : 
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m219580X 48.00% 9945C [0;37mT:60 Exits:EW> 
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mThe corpse of a Que-teh woman is lying here.
+The corpse of a Que-teh villager is lying here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m219580X 48.00% 9945C [0;37mT:60 Exits:EW> 
+Lefty arrives from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. To the north and south
+are large tents of better construction than others you have seen in the
+village thus far.
+[33m[1mAn iron knife with a wooden handle lies here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh child plays here cheerfully, squirming with energy.
+A Que-teh child plays here cheerfully, squirming with energy.
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m130V [0;37m219580X 48.00% 9945C [0;37mT:60 Exits:NESW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mA crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh villager is here, performing his daily tasks.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:60 Exits:ESW> [0;37mfight villager[0m
+
+Lefty misses a Que-teh villager with his slash.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:57 Exits:ESW> 
+Lefty MASSACREs a Que-teh villager with his slash.
+A Que-teh villager misses Lefty with his pierce.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:56 Exits:ESW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219580X 48.00% 9945C [0;37mT:56 Exits:ESW> 
+You crush a Que-teh villager extremely hard.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219343X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh villager:[0;37m[33m[1mFair[0;37m] [0;37mT:55 Exits:ESW> 
+A Que-teh villager tries in vain to disarm Lefty's weapon.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219343X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh villager:[0;37m[33m[1mFair[0;37m] [0;37mT:54 Exits:ESW> 
+You MASSACRE a Que-teh villager with your crush.
+Lefty MASSACREs a Que-teh villager with his slash.
+A Que-teh villager misses Lefty with his pierce.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219053X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh villager:[0;37m[31mAwful[0;37m] [0;37mT:52 Exits:ESW> 
+Lefty attempts to sting a Que-teh villager, but misses.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219053X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh villager:[0;37m[31mAwful[0;37m] [0;37mT:52 Exits:ESW> 
+A Que-teh villager dodges your headbutt with a quick sidestep.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219053X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh villager:[0;37m[31mAwful[0;37m] [0;37mT:51 Exits:ESW> 
+You miss a Que-teh villager with your crush.
+Lefty misses a Que-teh villager with his slash.
+A Que-teh villager misses Lefty with his pierce.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219053X 48.00% 9945C [Lefty:[0;37m[32mPerfect[0;37m] [a Que-teh villager:[0;37m[31mAwful[0;37m] [0;37mT:48 Exits:ESW> 
+A Que-teh villager gives Lefty a solid punch in the face.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m219053X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh villager:[0;37m[31mAwful[0;37m] [0;37mT:48 Exits:ESW> [0;37mb[0m
+With the speed of a lynx you leap towards a Que-teh villager and scrape his flesh viciously.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m218921X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh villager:[0;37m[31mAwful[0;37m] [0;37mT:46 Exits:ESW> 
+A Que-teh villager bleeds profusely from his wounds.
+You miss a Que-teh villager with your crush.
+Lefty MASSACREs a Que-teh villager with his slash.
+You receive 7662 experience.
+A Que-teh villager is dead! R.I.P.
+The death cry of a Que-teh villager echoes from somewhere nearby...
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m211259X 48.00% 9945C [0;37mT:44 Exits:ESW> [0m[1;34;49mFOLLOWER GAINED XP: 7023[0m
+[0;37m[0m
+[0;37ml[0m
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m211259X 48.00% 9945C [0;37mT:42 Exits:ESW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m211259X 48.00% 9945C [0;37mT:42 Exits:ESW> 
+You can't find that container.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m211259X 48.00% 9945C [0;37mT:42 Exits:ESW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m211259X 48.00% 9945C [0;37mT:41 Exits:ESW> [0;37mw[0m
+corpse (here) : 
+an iron skinning knife
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m211259X 48.00% 9945C [0;37mT:41 Exits:ESW> 
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m211259X 48.00% 9945C [0;37mT:41 Exits:ESW> 
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mThe corpse of a Que-teh villager is lying here.
+A crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m211259X 48.00% 9945C [0;37mT:41 Exits:ESW> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+Lefty arrives from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mA crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m211259X 48.00% 9945C [0;37mT:40 Exits:NE> [0;37mfight warrior[0m
+
+Lefty slashes a Que-teh warrior extremely hard.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m211259X 48.00% 9945C [0;37mT:38 Exits:NE> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m211259X 48.00% 9945C [0;37mT:37 Exits:NE> 
+You feel up to using ##!##!##!##>  scrape  <##!##!##!## again.
+Lefty misses a Que-teh warrior with his slash.
+A Que-teh warrior pierces Lefty hard.
+You MASSACRE a Que-teh warrior with your crush.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m210844X 48.00% 9945C [Lefty:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:36 Exits:NE> 
+A Que-teh warrior gives Lefty a solid punch in the face.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m210844X 48.00% 9945C [Lefty:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:33 Exits:NE> 
+You **ANNIHILATE** a Que-teh warrior with your crush.
+Lefty slashes a Que-teh warrior extremely hard.
+A Que-teh warrior pierces Lefty.
+Lefty stings a Que-teh warrior hard.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m210367X 48.00% 9945C [Lefty:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:32 Exits:NE> 
+You suddenly lunge forward, slamming your skull into a Que-teh warrior's face with a sickening crunch.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m210183X 48.00% 9945C [Lefty:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mT:32 Exits:NE> 
+A Que-teh warrior bleeds profusely from his wounds.
+You MASSACRE a Que-teh warrior with your crush.
+A Que-teh warrior is mortally wounded, and will die soon, if not aided.
+[38;5;127mYou feel especially skillful today.[0m
+Lefty **OBLITERATE**s a Que-teh warrior with his slash.
+You receive 12105 experience.
+A Que-teh warrior is dead! R.I.P.
+The death cry of a Que-teh warrior echoes from somewhere nearby...
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m197724X 48.00% 9945C [0;37mT:28 Exits:NE> [0m[1;34;49mFOLLOWER GAINED XP: 11096[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m197724X 48.00% 9945C [0;37mT:27 Exits:NE> 
+You get a small pile of coins from the corpse of a Que-teh warrior.
+There were 9 coins.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m197724X 48.00% 9954C [0;37mT:27 Exits:NE> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m197724X 48.00% 9954C [0;37mT:27 Exits:NE> 
+You can't find that container.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m197724X 48.00% 9954C [0;37mT:27 Exits:NE> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m197724X 48.00% 9954C [0;37mT:26 Exits:NE> 
+corpse (here) : 
+a wooden spear with a stone tip
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m197724X 48.00% 9954C [0;37mT:26 Exits:NE> 
+You can't split 9 evenly among the people in the room; splitting 8 instead.
+You divide 8 coins equally among the group members present.
+
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m197724X 48.00% 9950C [0;37mT:26 Exits:NE> [0;37ml[0m
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mThe corpse of a Que-teh warrior is lying here.
+A crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m197724X 48.00% 9950C [0;37mT:26 Exits:NE> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues to
+the north and south here. To the west you both see and smell the Que-teh
+stables, and to the east lies a small, shoddy tent.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m127V [0;37m197724X 48.00% 9950C [0;37mT:25 Exits:NESW> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    The path winds through a few smaller tents here, most of which have
+small cooking fires near their entrance. All around you see plainsmen going
+about their daily lives, grinding corn, sharpening arrowheads, or cooking
+the family meal are just a few of the chores being performed. The path
+continues north and south here.
+[33m[1mA crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m126V [0;37m197724X 48.00% 9950C [0;37mT:24 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues
+north and south, while to the west you can hear the clanging of a hammer on
+the village forge.
+[33m[1mAn iron knife with a wooden handle lies here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m125V [0;37m197724X 48.00% 9950C [0;37mT:23 Exits:NSW> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    The path winds through a few smaller tents here, most of which have
+small cooking fires near their entrance. All around you see plainsmen going
+about their daily lives, grinding corn, sharpening arrowheads, or cooking
+the family meal are just a few of the chores being performed. The path
+bends to the south here as it winds through the village.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh warrior watches over the village cautiously.
+A Que-teh villager is here, performing his daily tasks.
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [0;37mT:23 Exits:ES> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [0;37mT:20 Exits:ES> [0;37mfight warrior[0m
+
+Lefty slashes a Que-teh warrior extremely hard.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [0;37mT:20 Exits:ES> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [0;37mT:19 Exits:ES> 
+You miss a Que-teh warrior with your crush.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [Lefty:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[32mGood[0;37m] [0;37mT:18 Exits:ES> 
+You miss a Que-teh warrior with your crush.
+Lefty misses a Que-teh warrior with his slash.
+A Que-teh warrior pierces Lefty hard.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [Lefty:[0;37m[33m[1mGood[0;37m] [a Que-teh warrior:[0;37m[32mGood[0;37m] [0;37mT:16 Exits:ES> 
+A Que-teh warrior delivers a quick snap kick to Lefty. Lefty staggers and tries to recover.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [Lefty:[0;37m[33m[1mGood[0;37m] [a Que-teh warrior:[0;37m[32mGood[0;37m] [0;37mT:15 Exits:ES> 
+A Que-teh warrior arrives from the east.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [Lefty:[0;37m[33m[1mGood[0;37m] [a Que-teh warrior:[0;37m[32mGood[0;37m] [0;37mT:15 Exits:ES> 
+Lefty stings a Que-teh warrior hard.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [Lefty:[0;37m[33m[1mGood[0;37m] [a Que-teh warrior:[0;37m[32mGood[0;37m] [0;37mT:14 Exits:ES> 
+A Que-teh warrior dodges your headbutt with a quick sidestep.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [Lefty:[0;37m[33m[1mGood[0;37m] [a Que-teh warrior:[0;37m[32mGood[0;37m] [0;37mT:14 Exits:ES> 
+A Que-teh warrior bleeds profusely from his wounds.
+You miss a Que-teh warrior with your crush.
+Lefty slashes a Que-teh warrior very hard.
+A Que-teh warrior pierces Lefty.
+A Que-teh warrior pierces Lefty.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197724X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:12 Exits:ES> 
+With the speed of a lynx you leap towards a Que-teh warrior and scrape his flesh viciously.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197647X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:9 Exits:ES> 
+A Que-teh warrior delivers a quick snap kick to Lefty. Lefty staggers and tries to recover.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197647X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:9 Exits:ES> 
+A Que-teh warrior bleeds profusely from his wounds.
+You miss a Que-teh warrior with your crush.
+Lefty misses a Que-teh warrior with his slash.
+A Que-teh warrior misses Lefty with his pierce.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197647X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:8 Exits:ES> [0;37mcombat[0m
+
+A Que-teh villager leaves south.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197647X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:5 Exits:ES> 
+You can not use headbutt just yet.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197647X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:5 Exits:ES> 
+You can not use scrape just yet.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197647X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:5 Exits:ES> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+A Que-teh warrior bleeds profusely from his wounds.
+You MASSACRE a Que-teh warrior with your crush.
+Lefty misses a Que-teh warrior with his slash.
+A Que-teh warrior pierces Lefty.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197262X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mBad[0;37m] [0;37mT:4 Exits:ES> 
+Lefty attempts to sting a Que-teh warrior, but misses.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197262X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mBad[0;37m] [0;37mT:4 Exits:ES> 
+A Que-teh warrior tries in vain to disarm Lefty's weapon.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197262X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mBad[0;37m] [0;37mT:3 Exits:ES> 
+A Que-teh warrior leaves south.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m197262X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mBad[0;37m] [0;37mT:3 Exits:ES> 
+You feel up to using ##!##!##!##>  scrape  <##!##!##!## again.
+You crush a Que-teh warrior extremely hard.
+Lefty slashes a Que-teh warrior extremely hard.
+A Que-teh warrior pierces Lefty.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m196954X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:60 Exits:ES> [0;37mheadbutt[0m
+You suddenly lunge forward, slamming your skull into a Que-teh warrior's face with a sickening crunch.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m196754X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mT:60 Exits:ES> [0;37mscrape[0m
+
+A Que-teh warrior tries to punch Lefty, but he deftly avoids the blow.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m196754X 48.00% 9950C [Lefty:[0;37m[33m[1mFair[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mT:57 Exits:ES> 
+You MASSACRE a Que-teh warrior with your crush.
+A Que-teh warrior is mortally wounded, and will die soon, if not aided.
+Lefty **OBLITERATE**s a Que-teh warrior with his slash.
+You receive 12068 experience.
+A Que-teh warrior is dead! R.I.P.
+The death cry of a Que-teh warrior echoes from somewhere nearby...
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9950C [0;37mT:56 Exits:ES> [0m[1;34;49mFOLLOWER GAINED A LEVEL[0m
+[0m[1;34;49mFOLLOWER GAINED XP: 11062[0m
+
+You need to pick a target.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9950C [0;37mT:56 Exits:ES> 
+You get a pile of coins from the corpse of a Que-teh warrior.
+There were 12 coins.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9962C [0;37mT:56 Exits:ES> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9962C [0;37mT:55 Exits:ES> 
+You can't find that container.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9962C [0;37mT:55 Exits:ES> [0;37ml[0m
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9962C [0;37mT:55 Exits:ES> 
+corpse (here) : 
+a wooden spear with a stone tip
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9962C [0;37mT:55 Exits:ES> 
+You divide 12 coins equally among the group members present.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:54 Exits:ES> 
+[36mA Path Through the Que-teh Village[0;37m
+    The path winds through a few smaller tents here, most of which have
+small cooking fires near their entrance. All around you see plainsmen going
+about their daily lives, grinding corn, sharpening arrowheads, or cooking
+the family meal are just a few of the chores being performed. The path
+bends to the south here as it winds through the village.
+[33m[1mThe corpse of a Que-teh warrior is lying here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:54 Exits:ES> [0;37msc[0m
+You are Pancho the Male Minotaur, a level 12 Scout.
+You are rank 0. You have completed 48.00% of your next rank.
+You are 17 years old.
+You have 217(217) hit and 131(131) movement points.
+Your behaviour has been Neutral.
+You are traversing the path of the Mountain.
+You have scored 565,652 exp, and have 9956(0) steel coins.
+You need 184,348 more experience to advance.
+You have never died.
+You have been connected for 1 hour(s) and 34 minute(s).
+You have been playing for 0 day(s), 1 hour(s) and 54 minute(s).
+Your natural ability scores are:
+        Str: 25 Int: 14 Wis: 13 Dex: 13 Con: 16 Cha: 14
+You are currently not hunting.
+Your equipment is currently not being concealed.
+Your steps are light and unencumbered.
+You are standing.
+Available Instincts:
+    ram: headbutt
+    goat: endurance
+    lynx: scrape
+    squirrel: forage
+You are affected by the following:
+    anti-spam measures
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:53 Exits:ES> 
+A Que-teh woman arrives from the east.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:52 Exits:ES> [0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:51 Exits:ES> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path Through Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m130V [0;37m184348X 48.00% 9956C [0;37mT:51 Exits:ESW> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues east
+and west, while to the south you see a large firepit with plainsmen all
+around it. Activity is fierce in this part of the village.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m184348X 48.00% 9956C [0;37mT:51 Exits:ESW> [0;37me[0m
+Lefty arrives from the west.
+[36mA Path Around Que-teh Village[0;37m
+    As you step past the first few tents, Que-teh village takes form.
+Numerous tents of varying sizes can be seen in all directions. While on the
+surface this village appears to be somewhat permanent, closer inspection
+reveals that if desired the Que-teh could easily break camp and move to a
+more fertile landscape. To the north lies the exit to Que-teh village,
+while to the east and west a circular path winds through the village.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m184348X 48.00% 9956C [0;37mT:50 Exits:NEW> [0;37mn[0m
+Lefty arrives from the south.
+[36mEntrance to Que-teh Village[0;37m
+    Shortly after leaving the Que-teh's planted fields, you find yourself
+at the entrance of the Que-teh village, if a single entrance truly does
+exist. The main path continues east into the horizon while to the south you
+can enter the village.
+[33m[1mA faded map of the western lands lies here.
+A bright pile of cloth lies on the ground.
+A large torch lies here.
+A bright pile of cloth lies on the ground.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Que-teh guard stands here, scanning the plains for threats.
+A Que-teh guard stands here, scanning the plains for threats.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m127V [0;37m184348X 48.00% 9956C [0;37mT:49 Exits:SW> 
+You feel up to using ##!##!##!##>  headbutt  <##!##!##!## again.
+
+[32m[0;37m[32m217H [0;37m[32m127V [0;37m184348X 48.00% 9956C [0;37mT:48 Exits:SW> [0;37mw[0m
+Lefty arrives from the east.
+[36mSkirting the Que-teh Village[0;37m
+    This section of the path runs between the village and a large garden.
+The Que-teh have planted various vegetables to supplement their food needs
+during the harsh winters of the plains. As you travel down the path you
+notice a few plainsmen traveling between the garden and the village. The
+path bends to the east here and continues to the entrace of the village.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m125V [0;37m184348X 48.00% 9956C [0;37mT:47 Exits:ES> [0;37ms[0m
+Lefty arrives from the north.
+[36mSkirting the Que-teh Village[0;37m
+    This section of the path runs between the village and a large garden.
+The Que-teh have planted various vegetables to supplement their food needs
+during the harsh winters of the plains. As you travel down the path you
+notice a few plainsmen traveling between the garden and the village. The
+path continues to the north past more planted land and south back towards
+the open plains.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A young Que-teh woman is returning home after working the fields.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m123V [0;37m184348X 48.00% 9956C [0;37mT:46 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mSkirting the Que-teh Village[0;37m
+    From this vantage point, you can peer into the Que-teh village and see
+a few villagers going about their daily tasks. The path continues north and
+south.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m121V [0;37m184348X 48.00% 9956C [0;37mT:46 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. Instead of entering the village, the path appears
+to skirt around it.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m119V [0;37m184348X 48.00% 9956C [0;37mT:45 Exits:NW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. The Que-teh village is still quite a distance to
+the north, while to the south you can still barely make out the road
+through the Plains of Abanasinia.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m117V [0;37m184348X 48.00% 9956C [0;37mT:45 Exits:ES> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. The Que-teh village is still quite a distance to
+the north, while to the south you can still barely make out the road
+through the Plains of Abanasinia.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m115V [0;37m184348X 48.00% 9956C [0;37mT:44 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mA Path in the Plains of Abanasinia[0;37m
+    This slight path cuts into the dry plains of Abanasinia like a knife.
+Although there are few fresh tracks, the arid landscape keeps this trail
+from becoming overgrown with vegetation. Upon a glance, you determine that
+most of the tracks were made by unshod horses. A large road can be seen to
+the southwest, and the Que-teh village is some distance northeast.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m113V [0;37m184348X 48.00% 9956C [0;37mT:44 Exits:NW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Path in the Plains of Abanasinia[0;37m
+    This slight path cuts into the dry plains of Abanasinia like a knife.
+Although there are a few fresh tracks, the arid landscape keeps this trail
+from becoming overgrown with vegetation. Upon a glance, you determine that
+most of the tracks were made by unshod horses. From this distance you can
+barely discern the outlines of the tents of Que-teh tribe to the northeast.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m111V [0;37m184348X 48.00% 9956C [0;37mT:44 Exits:EW> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of Abanasinia. The land is very flat and you
+can see for miles and miles around. A few trees are growing here and there,
+along with other kinds of short vegetation bushes, brush and other assorted
+plants. In the distant west you can see a mountain range and a cool breeze
+is blowing in from the east. Looking to the east you can see the lands of
+the Que-teh tribe, their cooking fires trailing smoke up into the sky.
+[33m[1mA small sign has been hammered into the ground here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A young priestess walks along the road here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m104V [0;37m184348X 48.00% 9956C [0;37mT:44 Exits:NES> [0;37mn[0m
+Lefty arrives from the south.
+[36mA Bend in the Road[0;37m
+    To the north the plains turn into forested lands. Northwest of here is
+the Darkenwood forest and the village of Gateway. Travelling south will take
+you through the plains of Abanasinia and further on to the port town of
+Newport. The plains continue onward south from this point.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m92V [0;37m184348X 48.00% 9956C [0;37mT:43 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mOn a Road[0;37m
+    The road continues, now heading to the south. The general terrain seems
+to be getting drier and dustier, and there are fewer trees. In addition,
+the air seems to be getting somewhat colder. From a nearby hill, a deer
+notices you, and bolts into the woods. From here, the road continues to the
+south and west.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m80V [0;37m184348X 48.00% 9956C [0;37mT:43 Exits:ESW> [0;37mw[0m
+Lefty arrives from the east.
+[36mBy a Small Hovel[0;37m
+    Wearily, you come to stop outside a small hovel. It looks like it has
+been built as a rest stop to provide a safe haven for travellers. The hovel
+sits off to the west of the main road here. The road itself stretches out
+to the north and east. The terrain to the east becomes dry and dusty,
+while you can see what appears to be a forest on the edge of the plains to
+the north.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m68V [0;37m184348X 48.00% 9956C [0;37mT:43 Exits:NEW> [0;37mn[0m
+Lefty arrives from the south.
+[36mOn a Road[0;37m
+    The road continues, snaking through the rocky wilderness. It makes a
+large curve to avoid a big boulder, jutting out from the surrounding hills.
+You have heard tales of bandits surviving off of travellers on the roadways
+of Krynn, and it occurs to you that this would be an excellent spot for an
+ambush. The road continues to the north and south.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m56V [0;37m184348X 48.00% 9956C [0;37mT:43 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mOn a Long Road[0;37m
+    The dense forest around you occasionally places obstacles in your path,
+you cannot help but trip and fall. Fortunately the soft cushion of dead
+leaves offers much help. Weak sounds of the hustle and bustle of town life
+can be heard from the north. The road continues to the south, it seems as
+if it could go on forever.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m49V [0;37m184348X 48.00% 9956C [0;37mT:42 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mThe Road to Solace[0;37m
+    The trees that line the route give a good indication of the ways to
+travel. To the north the huge vallenwood trees of Solace are visible,
+clearly marking the southern entrance to the town. The road to the south
+becomes wild and rocky as it leads through a wilder section of forest.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m47V [0;37m184348X 48.00% 9956C [0;37mT:42 Exits:NES> [0;37mn[0m
+Lefty arrives from the south.
+[36mThe Southern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the south. Two huge
+vallenwoods stand on either side of the road and the gate is placed
+between them. The forest to the south looks much wilder and more dangerous
+than the forest that houses Solace. Southern Avenue leads north into
+Solace itself.
+[33m[1mA long torch functions as a street lamp here.
+A large notice demanding your attention is posted on the city gates.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A small child plays with some colorful objects.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m46V [0;37m184348X 48.00% 9956C [0;37mT:42 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mSouthern Avenue[0;37m
+    The avenue leads north and south through the huge vallenwoods. The
+trees loom high above you. Their limbs form a canopy that protects you from
+the harsh outside world. The forest here teems with life. You notice a
+smaller road leading east into what appears to be a park.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m45V [0;37m184348X 48.00% 9956C [0;37mT:41 Exits:NES> [0;37mn[0m
+Lefty arrives from the south.
+[36mSouthern Avenue[0;37m
+    You are on a rather wide road. This avenue leads south and north
+through the town. To the north, you see buildings built up in the limbs of
+the huge vallenwoods. This view of Solace shows you how much the village
+depends on the ancient trees for life and sustenance. The avenue leads
+north and south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m44V [0;37m184348X 48.00% 9956C [0;37mT:41 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mThe Intersection[0;37m
+    You are at a huge intersection in the forest. Southern Avenue meets
+with Park Road and Forest Lane here. There is a small opening in the trees
+above that allows a view of the sky above. A small breeze blows through
+here and you inhale deeply. Southern Avenue leads north and south from the
+intersection, while Forest Lane leads off west and Park Road exits to the
+east.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+An old beggar hobbles along here looking for handouts.
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m43V [0;37m184348X 48.00% 9956C [0;37mT:41 Exits:NESW> [0;37mn[0m
+Lefty arrives from the south.
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m42V [0;37m184348X 48.00% 9956C [0;37mT:41 Exits:NES> [0;37mn[0m
+Lefty arrives from the south.
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A cagey elf is standing here, keeping to himself.
+A citizen of Solace moves quickly about.
+An old beggar hobbles along here looking for handouts.
+A stray dog slowly moves about the area, sniffing the nearby trees.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m41V [0;37m184348X 48.00% 9956C [0;37mT:40 Exits:NS> [0;37mn[0m
+Lefty arrives from the south.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A janitor is walking around, cleaning up.
+A lovely young lady is excited by the array of activities around her.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m40V [0;37m184348X 48.00% 9956C [0;37mT:40 Exits:NESWU> 
+The stone fountain doesn't have oil.
+You can't put liquids in an enormous charred maul!
+You can't put liquids in a scented cone of incense!
+You can't put liquids in a few glittering snake scales!
+The stone fountain doesn't have oil.
+You can't put liquids in a loaf of bread!
+There is no room for more.
+
+[32m[0;37m[32m217H [0;37m[33m[1m40V [0;37m184348X 48.00% 9956C [0;37mT:40 Exits:NESWU> [0;37mu[0m
+Lefty arrives from below.
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Seeker priest stands here trying to convert unbelievers.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m39V [0;37m184348X 48.00% 9956C [0;37mT:39 Exits:NESWUD> [0;37ms[0m
+Lefty arrives from the north.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+The regal Solace constable is here, protecting the innocent from harm.
+A beggar is here, begging you for a loaf of bread for supper.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m37V [0;37m184348X 48.00% 9956C [0;37mT:39 Exits:NEWU> [0;37mu[0m
+Lefty arrives from below.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood narrows as it extends further south. A
+school for budding warriors lies to the west while a clearing on a junction
+of boughs can be seen to the east. You have a strange feeling that you are
+being watched especially since the thick vallenwood canopy provides
+excellent hiding spots for those skilled in being unseen. The trunk of this
+massive vallenwood lies back to the north, and can be reached easily by the
+footholds and handholds in the bough leading down.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m35V [0;37m184348X 48.00% 9956C [0;37mT:38 Exits:ESWD> [0;37me[0m
+Lefty arrives from the west.
+[36mA Clearing at the Junction of Boughs[0;37m
+    Branches here interconnect with those from neighboring vallenwood
+trees. You can hear birds singing and the gentle sounds of animals rustling
+through the foliage. You feel you are being watched by scores of men
+blended entirely into the surroundings, arrows cocked and ready.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A well traveled scout sits in meditation, attuned to the spirits of nature.
+Elrax the master scout is here, blending into his surroundings.
+[0;37m
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:38 Exits:W> [0;37mboth learn all[0m
+Elrax instructs you in the skill 'bludgeons'.
+Elrax instructs you in the skill 'instinct'.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:36 Exits:W> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:27 Exits:W> [0;37matrain[0m
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:21 Exits:W> 
+You connect on a very deep level with that animal.
+[38;5;127mYou feel enlightened.[0m
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:21 Exits:W> [0;37mbtrain[0m
+[0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:17 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:17 Exits:W> 
+You fail to connect with the instincts of that animal.
+[38;5;127mYou feel enlightened.[0m
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:16 Exits:W> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:12 Exits:W> 
+You are not channelling that.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:12 Exits:W> 
+You fail to connect with the instincts of that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:12 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:7 Exits:W> 
+You are not channelling that.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:7 Exits:W> 
+You connect on a very deep level with that animal.
+[38;5;127mYou feel especially skillful today.[0m
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:7 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:3 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:2 Exits:W> 
+You connect on a very deep level with that animal.
+[38;5;127mYou feel especially skillful today.[0m
+
+[32m[0;37m[32m217H [0;37m[33m[1m33V [0;37m184348X 48.00% 9956C [0;37mT:2 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:58 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:58 Exits:W> 
+You fail to connect with the instincts of that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:57 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:53 Exits:W> 
+You are not channelling that.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:53 Exits:W> 
+You fail to connect with the instincts of that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:53 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:48 Exits:W> 
+You are not channelling that.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:48 Exits:W> 
+You connect on a very deep level with that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:48 Exits:W> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:44 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:43 Exits:W> 
+You fail to connect with the instincts of that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:43 Exits:W> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Elrax kneels down and studies the ground for a second.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:40 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:39 Exits:W> 
+You are not channelling that.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:39 Exits:W> 
+You connect on a very deep level with that animal.
+[38;5;127mYou feel especially skillful today.[0m
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:38 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:34 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:34 Exits:W> 
+You fail to connect with the instincts of that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:34 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:29 Exits:W> 
+You are not channelling that.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:29 Exits:W> 
+You connect on a very deep level with that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:29 Exits:W> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:25 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:24 Exits:W> 
+You connect on a very deep level with that animal.
+[38;5;127mYou feel especially skillful today.[0m
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:24 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:20 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:20 Exits:W> 
+You connect on a very deep level with that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:19 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:15 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:15 Exits:W> 
+You connect on a very deep level with that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:15 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:10 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:10 Exits:W> 
+You connect on a very deep level with that animal.
+[38;5;127mYou feel especially skillful today.[0m
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:10 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:6 Exits:W> 
+You lose your connection to the spirit of the ram.
+You quell the ram inside you.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:5 Exits:W> 
+You fail to connect with the instincts of that animal.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:5 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:1 Exits:W> 
+You are not channelling that.
+
+[32m[0;37m[32m217H [0;37m[33m[1m70V [0;37m184348X 48.00% 9956C [0;37mT:1 Exits:W> 
+You fail to connect with the instincts of that animal.
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:60 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:56 Exits:W> 
+You are not channelling that.
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:56 Exits:W> 
+You fail to connect with the instincts of that animal.
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:56 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:51 Exits:W> 
+You are not channelling that.
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:51 Exits:W> 
+You fail to connect with the instincts of that animal.
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:51 Exits:W> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:47 Exits:W> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (awful)             bludgeons     (poor)            
+     long blades   (awful)             miscellaneous (awful)           
+     piercers      (awful)             short blades  (awful)           
+
+     bandage       (awful)             hide          (awful)           
+     shoot         (awful)           
+     instinct      (poor)          **
+     hunt          (awful)             sneak         (awful)           
+     target        (awful)           
+     camp          (awful)             fence         (awful)           
+     scout         (awful)           
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:18 Exits:W> [0;37ml[0m
+[36mA Clearing at the Junction of Boughs[0;37m
+    Branches here interconnect with those from neighboring vallenwood
+trees. You can hear birds singing and the gentle sounds of animals rustling
+through the foliage. You feel you are being watched by scores of men
+blended entirely into the surroundings, arrows cocked and ready.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A well traveled scout sits in meditation, attuned to the spirits of nature.
+Elrax the master scout is here, blending into his surroundings.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:17 Exits:W> [0;37msc[0m
+You are Pancho the Male Minotaur, a level 12 Scout.
+You are rank 0. You have completed 48.00% of your next rank.
+You are 17 years old.
+You have 217(217) hit and 107(131) movement points.
+Your behaviour has been Neutral.
+You are traversing the path of the Mountain.
+You have scored 565,652 exp, and have 9956(0) steel coins.
+You need 184,348 more experience to advance.
+You have never died.
+You have been connected for 1 hour(s) and 37 minute(s).
+You have been playing for 0 day(s), 1 hour(s) and 57 minute(s).
+Your natural ability scores are:
+        Str: 25 Int: 14 Wis: 13 Dex: 13 Con: 16 Cha: 14
+You are currently not hunting.
+Your equipment is currently not being concealed.
+Your steps are light and unencumbered.
+You are standing.
+Available Instincts:
+    goat: endurance
+    lynx: scrape
+    squirrel: forage
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:15 Exits:W> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:4 Exits:W> [0;37ml[0m
+[36mA Clearing at the Junction of Boughs[0;37m
+    Branches here interconnect with those from neighboring vallenwood
+trees. You can hear birds singing and the gentle sounds of animals rustling
+through the foliage. You feel you are being watched by scores of men
+blended entirely into the surroundings, arrows cocked and ready.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A well traveled scout sits in meditation, attuned to the spirits of nature.
+Elrax the master scout is here, blending into his surroundings.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m107V [0;37m184348X 48.00% 9956C [0;37mT:4 Exits:W> 
+Elrax leans on a branch and starts sharpening an arrowhead with a small
+knife.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:60 Exits:W> [0;37mw[0m
+Lefty arrives from the east.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood narrows as it extends further south. A
+school for budding warriors lies to the west while a clearing on a junction
+of boughs can be seen to the east. You have a strange feeling that you are
+being watched especially since the thick vallenwood canopy provides
+excellent hiding spots for those skilled in being unseen. The trunk of this
+massive vallenwood lies back to the north, and can be reached easily by the
+footholds and handholds in the bough leading down.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m184348X 48.00% 9956C [0;37mT:60 Exits:ESWD> [0;37md[0m
+Lefty arrives from above.
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m127V [0;37m184348X 48.00% 9956C [0;37mT:60 Exits:NEWU> [0;37mn[0m
+Lefty arrives from the south.
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A Solace peacekeeper is here making his rounds.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m125V [0;37m184348X 48.00% 9956C [0;37mT:59 Exits:NESWUD> [0;37md[0m
+Lefty arrives from above.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A janitor is walking around, cleaning up.
+A lively young child freely romps around the area.
+A Solace peacekeeper is here making his rounds.
+A citizen of Solace moves quickly about.
+A lovely young lady is excited by the array of activities around her.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m184348X 48.00% 9956C [0;37mT:59 Exits:NESWU> 
+The stone fountain doesn't have oil.
+You can't put liquids in an enormous charred maul!
+You can't put liquids in a scented cone of incense!
+You can't put liquids in a few glittering snake scales!
+The stone fountain doesn't have oil.
+You can't put liquids in a loaf of bread!
+There is no room for more.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m184348X 48.00% 9956C [0;37mT:58 Exits:NESWU> 
+Bored with this area, a young child runs west.
+
+[32m[0;37m[32m217H [0;37m[32m124V [0;37m184348X 48.00% 9956C [0;37mT:57 Exits:NESWU> [0;37ms[0m
+Lefty arrives from the north.
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A stray dog slowly moves about the area, sniffing the nearby trees.
+An old beggar hobbles along here looking for handouts.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m123V [0;37m184348X 48.00% 9956C [0;37mT:57 Exits:NS> [0;37ms[0m
+Lefty arrives from the north.
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A lively young child freely romps around the area.
+A citizen of Solace moves quickly about.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:57 Exits:NES> [0;37mlist lobster[0m
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:55 Exits:NES> [0;37mlist[0m
+  1. Sword                66 a Solamnic longsword
+  2. Bardiche            132 a bardiche with a silver half moon blade
+  3. Mask                 49 a black mask
+  4. Cloak               132 a black velvet cloak
+  5. Ring                275 a blue nephaline ring
+  6. Bullwhip            363 a bone spiked bullwhip
+  7. Breastplate         165 a bright, crimson stained breastplate
+  8. Helmet              165 a bright, crimson stained helmet
+  9. Trinket             253 [38;5;183ma brittle forest troll skull trinket[0;37m
+ 10. Knife               269 [38;5;225ma charred curved knife[0;37m
+ 11. Knife               286 [38;5;183ma charred jagged green knife[0;37m
+ 12. Cap                   5 a chartreuse mushroom cap
+ 13. Bandolier           522 [38;5;171ma crimson bandolier of fortitude[0;37m
+ 14. Cloak               154 [38;5;225ma crimson cloak of resolve[0;37m
+ 15. Lance               275 a crimson steel lance
+ 16. Dagger              330 a dagger of death
+ 17. Medallion           110 a dark electrum medallion
+ 18. Crossbow            165 [38;5;214ma dark elven hand crossbow[0;37m
+ 19. Staff               770 [38;5;214ma demonic bone staff[0;37m
+ 20. Staff               165 a druidic staff
+ 21. Sword               253 [38;5;225ma formidable hefty bastard sword[0;37m
+
+ [return for more, q to stop][0;37mq[0m
+A Solace citizen leaves north.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:51 Exits:NES> [0;37mbrowse fortitude[0m
+You browse through the merchandise and notice:
+The bandolier's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'bandolier crimson fortitude'
+ Item Type: WORN        
+ Mat Class: scale        Material: dragonscale
+ Weight   : 8            Value   : 475
+
+ Affects  : HIT           by 13
+ Affects  : ARMOR         by -2
+ Effects  : HIDE
+ Restricts: --> WARRIOR ONLY <--
+A crimson bandolier of fortitude is wearable: about.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:48 Exits:NES> 
+Bored with this area, a young child runs south.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:45 Exits:NES> 
+You notice a dog, probably a stray, moving around the nearby trees.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:36 Exits:NES> [0;37mtiers[0m
+[0;37mlist[0m
+  1. Sword                66 a Solamnic longsword
+  2. Bardiche            132 a bardiche with a silver half moon blade
+  3. Mask                 49 a black mask
+  4. Cloak               132 a black velvet cloak
+  5. Ring                275 a blue nephaline ring
+  6. Bullwhip            363 a bone spiked bullwhip
+  7. Breastplate         165 a bright, crimson stained breastplate
+  8. Helmet              165 a bright, crimson stained helmet
+  9. Trinket             253 [38;5;183ma brittle forest troll skull trinket (B3+ CASTER HELD)[0;37m
+ 10. Knife               269 [38;5;225ma charred curved knife[0;37m
+ 11. Knife               286 [38;5;183ma charred jagged green knife[0;37m
+ 12. Cap                   5 a chartreuse mushroom cap
+ 13. Bandolier           522 [38;5;171ma crimson bandolier (D2 WARRIOR ABOUT) of fortitude[0;37m
+ 14. Cloak               154 [38;5;225ma crimson cloak (A2 WARRIOR ABOUT) of resolve[0;37m
+ 15. Lance               275 a crimson steel lance
+ 16. Dagger              330 a dagger of death
+ 17. Medallion           110 a dark electrum medallion
+ 18. Crossbow            165 [38;5;214ma dark elven hand crossbow[0;37m
+ 19. Staff               770 [38;5;214ma demonic bone staff[0;37m
+ 20. Staff               165 a druidic staff
+ 21. Sword               253 [38;5;225ma formidable hefty bastard sword[0;37m
+
+ [return for more, q to stop][0;37m[0m
+ 22. Rod                 132 a glistening steel rod
+ 23. Ring                132 a golden ergothian ring
+ 24. Shield              440 a grandiose shield of black steel
+ 25. Blade                55 a grass blade
+ 26. Jerkin               27 [38;5;153ma green leather jerkin[0;37m
+ 27. Staff               660 [38;5;214ma hard ruby staff[0;37m
+ 28. Claw                269 [38;5;225ma hardened wolverine claw[0;37m
+ 29. Staff                35 a heavy copper staff
+ 30. Lance               264 a heavy coral lance
+ 31. Mace                302 [38;5;225ma heavy leather-wrapped mace[0;37m
+ 32. Bow                 770 [38;5;214ma hefty mithril longbow[0;37m
+ 33. Hoopak              132 a hoopak of office
+ 34. Belt                176 a leather belt with a copper buckle
+ 35. Dagger               55 a light silver dagger
+ 36. Pike                132 [38;5;225ma lightweight pike[0;37m
+ 37. Robe                220 a long white robe
+ 38. Belt                143 [38;5;225ma lynx skin belt (A1 SCOUT WAIST) of precision[0;37m
+ 39. Circlet             253 [38;5;225ma magical circlet (B2 MAGE HEAD) of primal magic[0;37m
+ 40. Partisan           1100 [38;5;214ma mithril partisan[0;37m
+ 41. Cape                165 [38;5;183ma moss-patched cape (A5 DRUID ABOUT) of the grove[0;37m
+ 42. Snout                88 a muddy hippopotamus snout
+ 43. Necklace            165 a necklace of carved ivory
+
+ [return for more, q to stop][0;37m[0m
+ 44. Ring                220 a nobleman's signet ring
+ 45. Guard               132 a pair of black ice arm guards
+ 46. Pants               110 a pair of black leather pants
+ 47. Sleeves             165 a pair of black leather sleeves
+ 48. Gauntlets           550 a pair of black shadow gauntlets
+ 49. Boots               198 a pair of bleached white boots
+ 50. Armplates           165 a pair of ceremonial armplates
+ 51. Legplates           110 a pair of ceremonial legplates
+ 52. Sandals             110 a pair of cord sandals
+ 53. Legplates            99 a pair of ebony legplates
+ 54. Gloves               55 [38;5;153ma pair of green swordsman gloves[0;37m
+ 55. Leggings             99 a pair of metal leggings
+ 56. Gloves              110 a pair of rough, fingerless gloves
+ 57. Gauntlets            66 a pair of shiny iron gauntlets
+ 58. Armbands            132 a pair of spectacular hematite armbands
+ 59. Moccasins            77 a pair of worn leather moccasins
+ 60. Tiara               110 a platinum tiara
+ 61. Pelt                 66 a polar bear pelt
+ 62. Eye                 104 a preserved eye of a revenant
+ 63. Gown                330 a pretty pink satin gown
+ 64. Cloak                77 a purple chiffon cloak
+ 65. Skull               396 [38;5;177ma puzzling obliviax's mossy skull (C2+ CASTER HELD)[0;37m
+
+ [return for more, q to stop][0;37m[0m
+ 66. Knife               132 a rabbit skinner
+ 67. Staff               330 a rotted, gnarled staff
+ 68. Hammer              385 a runed hammer
+ 69. Sickle              308 [38;5;214ma runed sickle[0;37m
+ 70. Tunic               253 [38;5;225ma sage's tunic (B2 DRUID BODY) of wild growth[0;37m
+ 71. Cape                236 [38;5;225ma saintly cape (B2 PALADIN ABOUT) of justice[0;37m
+ 72. Plates              154 a set of silver arm plates
+ 73. Shield              440 a shield of Tirabot
+ 74. Shirt                60 a shirt of black scalemail
+ 75. Shirt                60 a shirt of blue splint mail
+ 76. Shirt                60 a shirt of green chainmail
+ 77. Shirt               110 a shirt of light black chainmail
+ 78. Shirt                60 a shirt of white ringmail
+ 79. Necklace            165 a silver and red necklace
+ 80. Blade               495 a silver blade
+ 81. Armor               137 a silver suit of armor
+ 82. Fetish              132 a sinew-wrapped bear claw fetish
+ 83. Robe                242 a sleeveless black robe
+ 84. Sabre               170 a slender mithril sabre
+ 85. Mace                121 [38;5;225ma spiked mace[0;37m
+ 86. Crossbow            165 [38;5;225ma standard crossbow[0;37m
+ 87. Leather             330 a suit of black leather armor
+
+ [return for more, q to stop][0;37m[0m
+ 88. Scalemail            66 a suit of dwarven scalemail
+ 89. Suit                330 a suit of golden dwarven plate mail
+ 90. Armor               110 a suit of padded red leather armor
+ 91. Staff                82 a tamarack staff
+ 92. Helmet               53 a tarnished copper helmet
+ 93. Coat                 33 a thick woolen coat
+ 94. Kilt                 33 a thick woolen kilt
+ 95. Whip                 82 a thorny vine whip
+ 96. Cord                165 [38;5;225ma tiger tooth cord (A1 BARBARIAN WAIST) of mania[0;37m
+ 97. Crown               132 [38;5;214ma tin crown[0;37m
+ 98. Eyepatch             88 a transparent eyepatch
+ 99. Spear                66 a well-honed wooden spear
+100. Sash                330 a white and gold sash of rank
+101. Apron               165 a white apron
+102. Necklace             55 a white necklace of large beads
+103. Bracer              330 [38;5;153ma woodsman's bracer[0;37m
+104. Cloak               330 [38;5;153ma woodsman's cloak[0;37m
+105. Pelt                110 a yeti pelt
+106. Sword               198 an acid-etched steel sword
+107. Medallion           110 an ancient silver medallion
+108. Ring                550 an ancient solamnic ring
+109. Staff               522 [38;5;171man archaic etched battle staff[0;37m
+
+ [return for more, q to stop][0;37m[0m
+110. Cape                110 an eel skin cape
+111. Knife               352 [38;5;177man enchanted curved knife[0;37m
+112. Knife               374 [38;5;177man enchanted jagged knife[0;37m
+113. Greatsword          440 [38;5;177man engraved glistening greatsword[0;37m
+114. Spear               550 an ice spear
+115. Locket              110 an intricately crafted silver locket
+116. Blade               165 an iron draconian blade
+117. Bracelet            220 an ivory bracelet
+118. Hammer              275 an obsidian hammer
+119. Shield              165 [38;5;225man old red buckler (A3+ CASTER SHIELD)[0;37m
+120. Breeches            236 [38;5;225msome armaboro hide breeches of stalking (B2+ SCOUT LEGS)[0;37m
+121. Cuisses             550 [38;5;171msome battle-scarred cuisses of war[0;37m
+122. Robes               220 some black robes
+123. Boots               154 some bright, crimson stained boots
+124. Legplates           165 some bright, crimson stained legplates
+125. Sleeves             110 [38;5;225msome cavalier's sleeves of honor (A3+ PALADIN ARMS)[0;37m
+126. Vambraces           121 [38;5;225msome ceremonial vambraces of atonement (A1+ CLERIC ARMS)[0;37m
+127. Sleeves              88 some grey scalemail sleeves
+128. Vambraces           165 [38;5;225msome sacred vambraces of atonement (A3+ CLERIC ARMS)[0;37m
+129. Spiritwalkers       522 [38;5;171msome spectre's spiritwalkers of omens (D3+ SHAMAN FEET)[0;3
+ [return for more, q to stop][0;37m[0m
+7m
+130. Gloves              302 [38;5;183msome willow bark gloves of the storm (B4+ DRUID HANDS)[0;37m
+131. Talons              220 [38;5;225msome wretched talons of the Skull (B1+ DARKKNIGHT FEET)[0;37m
+132. Hammer              154 the Hammer of Kzzaz
+133. Hat                 110 the prestigious cooks award hat
+134. Staff               132 the staff of a sahuagin high priestess
+Meraklis flies in from the north.
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:16 Exits:NES> [0;37mbrowse omens[0m
+You browse through the merchandise and notice:
+The spiritwalkers appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'spiritwalkers spectre's walkers omens'
+ Item Type: WORN        
+ Mat Class: natural      Material: tooth
+ Weight   : 4            Value   : 475
+
+ Affects  : HP_REGEN      by 5
+ Affects  : HIT           by 3
+ Effects  : NOSUMMON
+ Restricts: --> SHAMAN ONLY <--
+Some spectre's spiritwalkers of omens is wearable: feet.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:12 Exits:NES> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:12 Exits:NES> 
+Meraklis sells a jade bracelet.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:8 Exits:NES> 
+You step aside just in time to avoid a young child running from the south.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:3 Exits:NES> [0;37mbrowse hide[0m
+You browse through the merchandise and notice:
+The bandolier's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'bandolier crimson fortitude'
+ Item Type: WORN        
+ Mat Class: scale        Material: dragonscale
+ Weight   : 8            Value   : 475
+
+ Affects  : HIT           by 13
+ Affects  : ARMOR         by -2
+ Effects  : HIDE
+ Restricts: --> WARRIOR ONLY <--
+A crimson bandolier of fortitude is wearable: about.
+
+The breeches is stiff and in perfect condition. (100%)
+You feel informed:
+ Object 'breeches armaboro hide stalking'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: hard_leather
+ Weight   : 9            Value   : 215
+
+
+ [return for more, q to stop][0;37m[0m
+ Affects  : RESIST_COLD   by 8
+ Affects  : HITROLL       by 1
+ Restricts: --> SCOUT ONLY <--
+ Apply    : 3
+Some armaboro hide breeches of stalking is wearable: legs.
+
+[32m[0;37m[32m217H [0;37m[32m122V [0;37m184348X 48.00% 9956C [0;37mT:1 Exits:NES> 
+The cloud-veiled sky becomes even darker as the sun sets.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:60 Exits:NES> 
+A horse arrives from the north, carrying Sabrina.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:59 Exits:NES> 
+Sabrina dismounts from a horse.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:58 Exits:NES> 
+Sabrina sells a preserved eye of a revenant.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:57 Exits:NES> 
+Bored with this area, a young child runs north.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:57 Exits:NES> 
+Sabrina leaves south.
+A horse leaves south.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:44 Exits:NES> 
+Meraklis sells a shimmering green cloak.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9956C [0;37mT:41 Exits:NES> [0;37mbuy hide.breeches[0m
+[36mA wandering merchant tells you 'That'll cost you 236 coins.  Thank you.'
+[0;37mYou now have some armaboro hide breeches of stalking (B2+ SCOUT LEGS).
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:34 Exits:NES> [0;37mwear hide[0m
+You wear some armaboro hide breeches of stalking (B2+ SCOUT LEGS) on your legs.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:32 Exits:NES> [0;37mlist[0m
+  1. Sword                66 a Solamnic longsword
+  2. Bardiche            132 a bardiche with a silver half moon blade
+  3. Mask                 49 a black mask
+  4. Cloak               132 a black velvet cloak
+  5. Ring                275 a blue nephaline ring
+  6. Bullwhip            363 a bone spiked bullwhip
+  7. Breastplate         165 a bright, crimson stained breastplate
+  8. Helmet              165 a bright, crimson stained helmet
+  9. Trinket             253 [38;5;183ma brittle forest troll skull trinket (B3+ CASTER HELD)[0;37m
+ 10. Knife               269 [38;5;225ma charred curved knife[0;37m
+ 11. Knife               286 [38;5;183ma charred jagged green knife[0;37m
+ 12. Cap                   5 a chartreuse mushroom cap
+ 13. Bandolier           522 [38;5;171ma crimson bandolier (D2 WARRIOR ABOUT) of fortitude[0;37m
+ 14. Cloak               154 [38;5;225ma crimson cloak (A2 WARRIOR ABOUT) of resolve[0;37m
+ 15. Lance               275 a crimson steel lance
+ 16. Dagger              330 a dagger of death
+ 17. Medallion           110 a dark electrum medallion
+ 18. Crossbow            165 [38;5;214ma dark elven hand crossbow[0;37m
+ 19. Staff               770 [38;5;214ma demonic bone staff[0;37m
+ 20. Staff               165 a druidic staff
+ 21. Sword               253 [38;5;225ma formidable hefty bastard sword[0;37m
+
+ [return for more, q to stop][0;37m[0m
+ 22. Rod                 132 a glistening steel rod
+ 23. Ring                132 a golden ergothian ring
+ 24. Shield              440 a grandiose shield of black steel
+ 25. Blade                55 a grass blade
+ 26. Jerkin               27 [38;5;153ma green leather jerkin[0;37m
+ 27. Staff               660 [38;5;214ma hard ruby staff[0;37m
+ 28. Claw                269 [38;5;225ma hardened wolverine claw[0;37m
+ 29. Staff                35 a heavy copper staff
+ 30. Lance               264 a heavy coral lance
+ 31. Mace                302 [38;5;225ma heavy leather-wrapped mace[0;37m
+ 32. Bow                 770 [38;5;214ma hefty mithril longbow[0;37m
+ 33. Hoopak              132 a hoopak of office
+ 34. Bracelet            110 a jade bracelet
+ 35. Belt                176 a leather belt with a copper buckle
+ 36. Dagger               55 a light silver dagger
+ 37. Pike                132 [38;5;225ma lightweight pike[0;37m
+ 38. Robe                220 a long white robe
+ 39. Belt                143 [38;5;225ma lynx skin belt (A1 SCOUT WAIST) of precision[0;37m
+ 40. Circlet             253 [38;5;225ma magical circlet (B2 MAGE HEAD) of primal magic[0;37m
+ 41. Partisan           1100 [38;5;214ma mithril partisan[0;37m
+ 42. Cape                165 [38;5;183ma moss-patched cape (A5 DRUID ABOUT) of the grove[0;37m
+ 43. Snout                88 a muddy hippopotamus snout
+
+ [return for more, q to stop][0;37mq[0m
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:21 Exits:NES> [0;37mbrowse belt[0m
+You browse through the merchandise and notice:
+The belt appears rough and in perfect condition. (100%)
+A leather belt with a copper buckle is wearable: waist.
+
+The belt appears to be brand new. (100%)
+You feel informed:
+ Object 'belt lynx skin precision'
+ Item Type: WORN        
+ Mat Class: hide         Material: rawhide
+ Weight   : 7            Value   : 130
+
+ Affects  : healing received by  1%
+ Restricts: --> SCOUT ONLY <--
+A lynx skin belt of precision is wearable: waist.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:17 Exits:NES> [0;37mlist[0m
+  1. Sword                66 a Solamnic longsword
+  2. Bardiche            132 a bardiche with a silver half moon blade
+  3. Mask                 49 a black mask
+  4. Cloak               132 a black velvet cloak
+  5. Ring                275 a blue nephaline ring
+  6. Bullwhip            363 a bone spiked bullwhip
+  7. Breastplate         165 a bright, crimson stained breastplate
+  8. Helmet              165 a bright, crimson stained helmet
+  9. Trinket             253 [38;5;183ma brittle forest troll skull trinket (B3+ CASTER HELD)[0;37m
+ 10. Knife               269 [38;5;225ma charred curved knife[0;37m
+ 11. Knife               286 [38;5;183ma charred jagged green knife[0;37m
+ 12. Cap                   5 a chartreuse mushroom cap
+ 13. Bandolier           522 [38;5;171ma crimson bandolier (D2 WARRIOR ABOUT) of fortitude[0;37m
+ 14. Cloak               154 [38;5;225ma crimson cloak (A2 WARRIOR ABOUT) of resolve[0;37m
+ 15. Lance               275 a crimson steel lance
+ 16. Dagger              330 a dagger of death
+ 17. Medallion           110 a dark electrum medallion
+ 18. Crossbow            165 [38;5;214ma dark elven hand crossbow[0;37m
+ 19. Staff               770 [38;5;214ma demonic bone staff[0;37m
+ 20. Staff               165 a druidic staff
+ 21. Sword               253 [38;5;225ma formidable hefty bastard sword[0;37m
+
+ [return for more, q to stop][0;37m[0m
+ 22. Rod                 132 a glistening steel rod
+ 23. Ring                132 a golden ergothian ring
+ 24. Shield              440 a grandiose shield of black steel
+ 25. Blade                55 a grass blade
+ 26. Jerkin               27 [38;5;153ma green leather jerkin[0;37m
+ 27. Staff               660 [38;5;214ma hard ruby staff[0;37m
+ 28. Claw                269 [38;5;225ma hardened wolverine claw[0;37m
+ 29. Staff                35 a heavy copper staff
+ 30. Lance               264 a heavy coral lance
+ 31. Mace                302 [38;5;225ma heavy leather-wrapped mace[0;37m
+ 32. Bow                 770 [38;5;214ma hefty mithril longbow[0;37m
+ 33. Hoopak              132 a hoopak of office
+ 34. Bracelet            110 a jade bracelet
+ 35. Belt                176 a leather belt with a copper buckle
+ 36. Dagger               55 a light silver dagger
+ 37. Pike                132 [38;5;225ma lightweight pike[0;37m
+ 38. Robe                220 a long white robe
+ 39. Belt                143 [38;5;225ma lynx skin belt (A1 SCOUT WAIST) of precision[0;37m
+ 40. Circlet             253 [38;5;225ma magical circlet (B2 MAGE HEAD) of primal magic[0;37m
+ 41. Partisan           1100 [38;5;214ma mithril partisan[0;37m
+ 42. Cape                165 [38;5;183ma moss-patched cape (A5 DRUID ABOUT) of the grove[0;37m
+ 43. Snout                88 a muddy hippopotamus snout
+
+ [return for more, q to stop][0;37m[0m
+ 44. Necklace            165 a necklace of carved ivory
+ 45. Ring                220 a nobleman's signet ring
+ 46. Guard               132 a pair of black ice arm guards
+ 47. Pants               110 a pair of black leather pants
+ 48. Sleeves             165 a pair of black leather sleeves
+ 49. Gauntlets           550 a pair of black shadow gauntlets
+ 50. Boots               198 a pair of bleached white boots
+ 51. Armplates           165 a pair of ceremonial armplates
+ 52. Legplates           110 a pair of ceremonial legplates
+ 53. Sandals             110 a pair of cord sandals
+ 54. Legplates            99 a pair of ebony legplates
+ 55. Gloves               55 [38;5;153ma pair of green swordsman gloves[0;37m
+ 56. Leggings             99 a pair of metal leggings
+ 57. Gloves              110 a pair of rough, fingerless gloves
+ 58. Gauntlets            66 a pair of shiny iron gauntlets
+ 59. Armbands            132 a pair of spectacular hematite armbands
+ 60. Moccasins            77 a pair of worn leather moccasins
+ 61. Tiara               110 a platinum tiara
+ 62. Pelt                 66 a polar bear pelt
+ 63. Eye                 104 a preserved eye of a revenant
+ 64. Gown                330 a pretty pink satin gown
+ 65. Cloak                77 a purple chiffon cloak
+
+ [return for more, q to stop][0;37m[0m
+ 66. Skull               396 [38;5;177ma puzzling obliviax's mossy skull (C2+ CASTER HELD)[0;37m
+ 67. Knife               132 a rabbit skinner
+ 68. Staff               330 a rotted, gnarled staff
+ 69. Hammer              385 a runed hammer
+ 70. Sickle              308 [38;5;214ma runed sickle[0;37m
+ 71. Tunic               253 [38;5;225ma sage's tunic (B2 DRUID BODY) of wild growth[0;37m
+ 72. Cape                236 [38;5;225ma saintly cape (B2 PALADIN ABOUT) of justice[0;37m
+ 73. Plates              154 a set of silver arm plates
+ 74. Shield              440 a shield of Tirabot
+ 75. Cloak              1320 a shimmering green cloak
+ 76. Shirt                60 a shirt of black scalemail
+ 77. Shirt                60 a shirt of blue splint mail
+ 78. Shirt                60 a shirt of green chainmail
+ 79. Shirt               110 a shirt of light black chainmail
+ 80. Shirt                60 a shirt of white ringmail
+ 81. Necklace            165 a silver and red necklace
+ 82. Blade               495 a silver blade
+ 83. Armor               137 a silver suit of armor
+ 84. Fetish              132 a sinew-wrapped bear claw fetish
+ 85. Robe                242 a sleeveless black robe
+ 86. Sabre               170 a slender mithril sabre
+ 87. Mace                121 [38;5;225ma spiked mace[0;37m
+
+ [return for more, q to stop][0;37m[0m
+ 88. Crossbow            165 [38;5;225ma standard crossbow[0;37m
+ 89. Leather             330 a suit of black leather armor
+ 90. Scalemail            66 a suit of dwarven scalemail
+ 91. Suit                330 a suit of golden dwarven plate mail
+ 92. Armor               110 a suit of padded red leather armor
+ 93. Staff                82 a tamarack staff
+ 94. Helmet               53 a tarnished copper helmet
+ 95. Coat                 33 a thick woolen coat
+ 96. Kilt                 33 a thick woolen kilt
+ 97. Whip                 82 a thorny vine whip
+ 98. Cord                165 [38;5;225ma tiger tooth cord (A1 BARBARIAN WAIST) of mania[0;37m
+ 99. Crown               132 [38;5;214ma tin crown[0;37m
+100. Eyepatch             88 a transparent eyepatch
+101. Spear                66 a well-honed wooden spear
+102. Sash                330 a white and gold sash of rank
+103. Apron               165 a white apron
+104. Necklace             55 a white necklace of large beads
+105. Bracer              330 [38;5;153ma woodsman's bracer[0;37m
+106. Cloak               330 [38;5;153ma woodsman's cloak[0;37m
+107. Pelt                110 a yeti pelt
+108. Sword               198 an acid-etched steel sword
+109. Medallion           110 an ancient silver medallion
+
+ [return for more, q to stop][0;37m[0m
+110. Ring                550 an ancient solamnic ring
+111. Staff               522 [38;5;171man archaic etched battle staff[0;37m
+112. Cape                110 an eel skin cape
+113. Knife               352 [38;5;177man enchanted curved knife[0;37m
+114. Knife               374 [38;5;177man enchanted jagged knife[0;37m
+115. Greatsword          440 [38;5;177man engraved glistening greatsword[0;37m
+116. Spear               550 an ice spear
+117. Locket              110 an intricately crafted silver locket
+118. Blade               165 an iron draconian blade
+119. Bracelet            220 an ivory bracelet
+120. Hammer              275 an obsidian hammer
+121. Shield              165 [38;5;225man old red buckler (A3+ CASTER SHIELD)[0;37m
+122. Cuisses             550 [38;5;171msome battle-scarred cuisses of war[0;37m
+123. Robes               220 some black robes
+124. Boots               154 some bright, crimson stained boots
+125. Legplates           165 some bright, crimson stained legplates
+126. Sleeves             110 [38;5;225msome cavalier's sleeves of honor (A3+ PALADIN ARMS)[0;37m
+127. Vambraces           121 [38;5;225msome ceremonial vambraces of atonement (A1+ CLERIC ARMS)[0;37m
+128. Sleeves              88 some grey scalemail sleeves
+129. Vambraces           165 [38;5;225msome sacred vambraces of atonement (A3+ CLERIC ARMS)[0;37m
+130. Spiritwalkers       522 [38;5;171msome spectre's spiritwalkers of omens (D3+ SHAMAN FEET)[0;3
+ [return for more, q to stop][0;37mq[0m
+Sir Kantar uth MacKan marches in from the north and looks you over.
+Meraklis buys a golden ergothian ring.
+The darkness marks the end of another day.
+With the setting of the sun, the torch starts to glow lighting the
+surrounding area.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:50 Exits:NES> 
+Sir Kantar uth MacKan marches off east.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:42 Exits:NES> 
+Meraklis buys a dark elven hand crossbow.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:38 Exits:NES> 
+Meraklis sells a dark elven hand crossbow.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:34 Exits:NES> [0;37mbrowse cuisses[0m
+You browse through the merchandise and notice:
+The cuisses's metallic surface shines brilliantly. (100%)
+You feel informed:
+ Object 'cuisses battle scarred war'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 6            Value   : 500
+
+ Affects  : regeneration by  10%
+ Affects  : RESIST_COLD   by 14
+ Effects  : DETECT_UNDEAD
+ Restricts: --> WARRIOR ONLY <--
+ Apply    : 6
+Some battle-scarred cuisses of war is wearable: legs.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:33 Exits:NES> [0;37mbrowse omens[0m
+You browse through the merchandise and notice:
+The spiritwalkers appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'spiritwalkers spectre's walkers omens'
+ Item Type: WORN        
+ Mat Class: natural      Material: tooth
+ Weight   : 4            Value   : 475
+
+ Affects  : HP_REGEN      by 5
+ Affects  : HIT           by 3
+ Effects  : NOSUMMON
+ Restricts: --> SHAMAN ONLY <--
+Some spectre's spiritwalkers of omens is wearable: feet.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:12 Exits:NES> 
+Meraklis buys a dark elven hand crossbow.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:8 Exits:NES> [0;37mb[0m
+
+Lefty leaves north.
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:3 Exits:NES> 
+[37mThe clouds block your view of Solinari.
+[31mThe clouds block your view of Lunitari.
+[34m[0;37m
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:60 Exits:NES> [0;37m[0m
+
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:60 Exits:NES> [0;37ml[0m
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mYou see the outline of a life form here, carrying: a glowing scroll of recall.
+A stray dog slowly moves about the area, sniffing the nearby trees.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m131V [0;37m184348X 48.00% 9720C [0;37mT:59 Exits:NES> [0;37mn[0m
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mA citizen of Solace moves quickly about.
+A street illusionist drawing quite a crowd with his performance.
+An old beggar hobbles along here looking for handouts.
+[0;37mA street illusionist demonstrates how he is able to levitate off the ground.
+
+[32m[0;37m[32m217H [0;37m[32m130V [0;37m184348X 48.00% 9720C [0;37mT:58 Exits:NS> [0;37mn[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+Lefty the Male Minotaur is standing here.
+A lovely young lady is excited by the array of activities around her.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m184348X 48.00% 9720C [0;37mT:58 Exits:NESWU> 
+You can't put liquids in some armaboro hide breeches of stalking (B2+ SCOUT LEGS)!
+The stone fountain doesn't have oil.
+You can't put liquids in an enormous charred maul!
+You can't put liquids in a scented cone of incense!
+You can't put liquids in a few glittering snake scales!
+The stone fountain doesn't have oil.
+You can't put liquids in a loaf of bread!
+There is no room for more.
+
+[32m[0;37m[32m217H [0;37m[32m129V [0;37m184348X 48.00% 9720C [0;37mT:58 Exits:NESWU> [0;37mn[0m
+Lefty arrives from the south.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m128V [0;37m184348X 48.00% 9720C [0;37mT:57 Exits:NSWU> [0;37mw[0m
+Lefty arrives from the east.
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty the Male Minotaur is standing here.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m127V [0;37m184348X 48.00% 9720C [0;37mT:57 Exits:NEU> [0;37mu[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+Lefty arrives from below.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A small child plays with some colorful objects.
+Otik watches you calmly, while he skillfully mixes a drink.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m126V [0;37m184348X 48.00% 9720C [0;37mT:57 Exits:SWUD> [0;37mu[0m
+Lefty arrives from below.
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1m[0;37m[31m[1mLefty the Male Minotaur is standing here.
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m217H [0;37m[32m125V [0;37m184348X 48.00% 9720C [0;37mT:56 Exits:D> [0;37moffer[0m
+[33m[1msome armaboro hide breeches of stalking (B2+ SCOUT LEGS) : 150 coins/day
+[0;37m[33m[1m                      a wrist lantern : 5 coins/day
+[0;37m[33m[1m             an enormous charred maul : 170 coins/day
+[0;37m[33m            a scented cone of incense : 1 coin/day
+[0;37m[33m        a few glittering snake scales : 2 coins/day
+[0;37m[33m                      a wrist lantern : 5 coins/day
+[0;37m[33m                      a loaf of bread : 0 coins/day
+[0;37m[33m                          a waterskin : 0 coins/day
+[0;37mThe receptionist tells you 'You need at least 333 coins to rent.'
+The receptionist tells you 'You will be able to rent for 87 days.'
+
+[32m[0;37m[32m217H [0;37m[32m125V [0;37m184348X 48.00% 9720C [0;37mT:55 Exits:D> [0;37mrent[0m
+[33m[1msome armaboro hide breeches of stalking (B2+ SCOUT LEGS) : 150 coins/day
+[0;37m[33m[1m                      a wrist lantern : 5 coins/day
+[0;37m[33m[1m             an enormous charred maul : 170 coins/day
+[0;37m[33m            a scented cone of incense : 1 coin/day
+[0;37m[33m        a few glittering snake scales : 2 coins/day
+[0;37m[33m                      a wrist lantern : 5 coins/day
+[0;37m[33m                      a loaf of bread : 0 coins/day
+[0;37m[33m                          a waterskin : 0 coins/day
+[0;37mThe receptionist tells you 'You need at least 333 coins to rent.'
+The receptionist tells you 'You will be able to rent for 87 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+Lefty stops following you.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

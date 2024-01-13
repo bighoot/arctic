@@ -1,0 +1,16 @@
+I want to layout the zone without regard to how it is now.  I'm going to use the map from Dragons of Despair as a basis for where to put roads, where to connect to other zones, and where the little subzones will be. As described below there will be a centaur camp, a glade for the Forestmaster, a spider cave, a draconian camp, some roads and pathways to connect it all, and some draconian checkpoints.  Wanderers will be small groups of centaurs, draconians, and undead, with an occasional wild animal.  The intended level for this zone is 18-25.
+
+In relation to the events of the novels, these quests take place shortly after the Heroes of the Lance have been through the Darkenwood and seen the Forestmaster.  The quest descriptions, emotes, etc, will make this clear.
+
+For the "good quest", the party will journey to the Forestmaster, interact through some keywords, and get a "quest" to delay the draconians in the Darkenwood so that the Heroes of the Lance can successfully escape Darkenwood with the staff. To delay the draconians, I'm thinking a couple straight-up fights against traditional military structures of draconians, squads, officers, etc. Maybe infiltration of a small camp, removing an officer, impersonating it somehow, and then issuing orders to send the draconians to search in the wrong direction.  Something like that.
+
+For the "evil quest", the party journies to a particular group of draconians, interacts through keywords, and gets a quest to find the Forestmaster and determine where it sent the Heroes (iirc, per the book, they are sent to Xak.). To interrogate the Forestmaster, maybe the group has to infiltrate a small centaur camp, do something to leverage one of the centaurs into working for them, and then send the centaur to talk to the Forestmaster.  The centaur returns and tells the party where the Forestmaster sent the Heroes of the Lance. I think a straight-up fight against the Forestmaster is not realistic for a group of 18-25ish.  The Forestmaster is supposed to be a MFer.
+
+A "spider area"
+I want this area to be relatively close to at least one of the entrances to the zone from Solace. I want some lower level spiders that aren't aggro as neutral xp. So if the heart of the spider area is a cave in the side of a hill, then these spiders will be roaming around outside, with bigger, aggressive spiders at the mouth of the cave. Inside the cave will be a few spiders on the high end, and perhaps a named spider with a related quest.  Also, something cool like a centaur or a draconian wrapped up in spider webbing that you can rescue and interact with. Maybe it's related to the quests mentioned above. Could we do something with alchemy and spider venom? Maybe some secret spots that load a few spider-related spell components. It would be a neat tie-in to my birds in Plains of Dust to do something similar to the way we loaded the "big boss bird".
+
+Questions
+
+
+
+

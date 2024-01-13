@@ -1,0 +1,35 @@
+Mountain Scout Instincts
+
+1.1: squirrel  +1 Int                   1.2: *lynx  +1/+2 Dex
+2.1: *goat  +1/+2 Wis            2.2: *ram  +1/+2 Str
+3.1: fox  +1 Con                        3.2: *wolverine  +1/+2 RHR
+4.1: *yeti  -12/-40 armor      4.2: snow leopard  +2 Str
+5.1: *grizzly  +2/+3 HR          5.2: worg  +1 DR
+6.1: manticore  +1 DR            6.2: fenris  -5 lim_dam_factor
+
+
+1.1: squirrel(forage) - No stat modifiers, cooldown = 10, if level > 14 then feeds the group, feeds the whole room at level 30, always skips barbarians
+
+1.2: *lynx(scrape) - No stat modifiers, cooldown = 2, dam = 2d(level - 5), adds a bleed effect that does (2d(level) / 4) for 3 tics, legendary adds 10% damage and extends the bleed duration to 5 tics
+
+2.1: *goat(endurance) - No stat modifiers, cooldown = 5, applies no_mv_loss to the target for 1 tic, legendary increases the duration to 3 tics and adds a -30 armor buff to the target 20% of the time
+
+2.2: *ram(headbutt) - No stat modifiers, cooldown = 2, dam = 3d(2 * level / 3), has about an 8% chance to apply disorientation to the target for 4 rounds, legendary increases the chance to 15% and extends the duration to 6 rounds
+
+3.1: fox(cope) - No stat modifiers, cooldown = 10, adds (level / 2) to all of the following resists: acid, cold, disintegration, electricity, gas, heat, magic, negative energy
+
+3.2: *wolverine(anger) - No stat modifiers, cooldown = 2 (1 if legendary), applies damage_factor of 5 to the scout for 5 rounds, legendary increases the damage factor to 8 and the duration to 9 rounds
+
+4.1: *yeti(warmth) - No stat modifiers, cooldown = 4, applies immune_cold for 2 ticks (3 ticks if legendary, the help file says that legendary also gives an innate resist_cold bonus and a saving_breath bonus but I couldn't find any code to support this
+-
+4.2: snow leopard(freeze) - No stat modifiers, cooldown = 5, freeze "all" targets all enemies in the room for ((level)d2 * 2 / 3) damage, freeze "target" does ((level)d2 damage to a single target, each enemy can make a saving_spell check to take only 2/3 of the normal damage, freeze "target" also applies -3 Dex and the frozen affect for 2 rounds unless they have resist_cold, the frozen affect acts like the slowed affect - you won't get extra attacks
+
+5.1: *grizzly(roar) - No stat modifiers, cooldown = 4 (2 if legendary), applies fear and limit_damage of 20 to all enemies in the room (does not affect targets two levels higher than the scout), duration = 1 + (level / 10) (legendary adds 2 to duration), legendary also adds -10 apply_damage to the target
+
+5.2: worg(thrash) - No stat modifiers, cooldown = 4, applies critical_score of (50 * level) and the thrashing affect for a duration of 2, thrashing affect gives the scout about a 15% chance to bash enemies with regular melee attacks
+
+6.1: manticore(ravage) - No stat modifiers, cooldown = 4, attempts to bash the target with 1 tic of lag for the target, damage is greatly increaed if the target is blind, unaware, and not in combat
+
+6.2: fenris(chomp) - No stat modifiers, cooldown = 6, dam = 3d(level + 5), applies the slowed affect to the target for 3 rounds
+
+*denotes legendary rank available

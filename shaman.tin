@@ -1,24 +1,25 @@
-#alias cl {a cast 'cure light' %0}
-#alias cs {a cast 'cure ser' %0}
-#alias cc {a cast 'cure crit' %0}
+#alias cl {cast 'cure light' %0}
+#alias cs {cast 'cure ser' %0}
+#alias cc {cast 'cure crit' %0}
 
-#alias regen {a cast 'regen' %0}
-#alias wave {a cast 'healing wave'}
-#alias bb {a cast 'boiling blood'}
-#alias mm {a cast 'mon man'}
-#alias ds {a cast 'dark soul'}
-#alias rit {a cast 'rit voy' %0;}
-#alias rf {a cast 'rot fle' %0;}
-#alias amp {a cast 'amp spi';}
+#alias regen {cast 'regen' %0}
+#alias boost {cast 'heal boost' %0;}
+#alias ghost {cast 'ghostskin' %0;}
+#alias rp {cast 'rem poi' %0;}
+#alias cb {cast 'cure blind' %0;}
+#alias wave {cast 'healing wave'}
+#alias bb {cast 'boiling blood'}
+#alias mm {cast 'mon man'}
+#alias ds {cast 'dark soul'}
+#alias rit {cast 'rit voy' %0;}
+#alias rf {cast 'rot fle' %0;}
+#alias amp {cast 'amp spi';}
+#alias 10h {cast 'ten heart';}
 
-#alias sg {a cast 'sp gui';}
-#alias as {a cast 'an sh' %0;}
-#alias ab {a cast 'an bl';}
-#alias sl {a cast 'so le' %0;}
+#alias vile {cast 'vile spirit' %0;}
+
+#alias sg {cast 'sp gui';}
+#alias as {cast 'an sh' %0;}
+#alias ab {cast 'an bl';}
+#alias sl {cast 'so le' %0;}
 #alias oas {order all.spirit %0;}
-
-#alias {rawr} {cast 'bo bl'; cast 'dark soul';}
-#alias {fullbuffs} {cast 'bo bl'; cast 'dark soul'; cast 'eth arm'; cast 'ten heart'; cast 'mon man'; cast 'ghostskin' me; cast 'an sh' me; cast 'an bl' me;}
-#alias {tankbuffs} {cast 'ghostskin' %0; cast 'an sh' %0; cast 'heal boost' %0;}
-
-#alias food {cast 'ghost ber';give berry yves;eat berry;}

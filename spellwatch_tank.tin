@@ -1,0 +1,56 @@
+#nop TANK SCRIPT BELOW HERE
+#var tank_spells_list {ghostskin; ancestral shroud; heal boost; unholy might; cloak of shadows; protection from good; nightvision;};
+
+#alias tank_unset_spell_check #nop;
+#alias tank_do_spell_check #nop;
+
+#action {^You have been connected for} {
+    #action {^    %%1} {
+        #var tank_current_spells $tank_current_spells|%%1;
+
+    };
+    #alias tank_unset_spell_check {
+        #unaction {^    %%%1};
+        #alias tank_unset_spell_check #nop;
+        #alias tank_do_spell_check #nop;
+    };
+    #var tank_current_spells "";
+
+
+    #ali tank_do_spell_check {
+        #var tank_missing_spells 0;
+        #var tank_spell_index 0;
+        #foreach {$tank_spells_list} {spell} {
+            #regexp {{$tank_current_spells}} {$spell} {
+                #nop;
+            } {
+                #var tank_missing_spells[$tank_spell_index] $spell;
+                #math tank_spell_index {$tank_spell_index + 1};
+            };
+        };
+		#showme Need to cast:;
+        #foreach {$tank_missing_spells[]} {spell} {
+			#showme {  $spell};
+        };
+    };
+};
+
+#ali tank_rebuf {
+    #foreach {$tank_missing_spells[]} {spell} {
+        
+		#if {"$spell" == "unholy might"} {cast 'unholy might'};
+		#elseif {"$spell" == "cloak of shadows"} {cast 'cloak of shadows'};
+		#elseif {"$spell" == "protection from good"} {cast 'protection from good' me};
+		#elseif {"$spell" == "nightvision"} {cast 'nightvision'};
+
+		#else {
+			a cast '$spell' sundance;
+			}
+		
+    };
+};
+
+#ACTION {^%1H %2V %3X %5C} {
+    tank_do_spell_check;
+    tank_unset_spell_check;
+};

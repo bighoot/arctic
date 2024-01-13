@@ -1,5 +1,6 @@
 #alias starta {#session a mud.arctic.org 2700}
 #alias startb {#session b mud.arctic.org 2700}
+#alias startc {#session c mud.arctic.org 5772}
 
 #alias loadboth	{#a #read C:/chrisdev/repo/arctic/aab.tin;#b #read C:/chrisdev/repo/arctic/abb.tin}
 
@@ -7,3 +8,6 @@
 #alias druid {#read C:/chrisdev/repo/arctic/druid.tin}
 #alias shaman {#read C:/chrisdev/repo/arctic/shaman.tin}
 #alias cleric {#read C:/chrisdev/repo/arctic/cleric.tin}
+#alias dk {#read C:/chrisdev/repo/arctic/dark.tin}
+
+#alias subs {#read C:/chrisdev/repo/arctic/tier_subs.tin; #read C:/chrisdev/repo/arctic/new_item_subs.tin}

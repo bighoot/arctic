@@ -1,0 +1,1303 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Thu Dec 29 16:02:50 2022 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 79 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mReception[0;37m
+    At the top of the stairs from the inn's lobby is a small room serving
+as a room registry. Belle sits behind a pine counter, quietly reading,
+until a customer arrives. Behind her is a long rack of wooden cubbyholes
+and hooks holding room keys. Long halls with many closed doors stretch to
+either side. It's quiet and well-kept here, conducive to a good night's
+sleep.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+[0;37m[31m[1mThe fez atop this well muscled bouncer's head marks him a fierce adversary.
+Belle Hamson looks up from her book and beams at your approach.
+[0;37m
+[32m[0;37m[32m419H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:35 Exits:D> d
+[36mThe Crossed Arms[0;37m
+    The low ceiling holds the smoke and noise close to the floor in this
+busy inn. A dozen long tables stand scattered about the room and a narrow
+stair in the back leads to the upper floor. Along the south wall, a
+fieldstone hearth holds a rotating spit. Several groups of adventurers are
+clustered about the various tables, each eying the others suspiciously and
+planning their campaigns in muted tones.
+[33m[1m[0;37m[31m[1mA Tarsian peasant whistles happily on his way to work. (white aura)
+A drunken local sits at one of the tables staring into a tankard of ale.
+[0;37m
+[32m[0;37m[32m419H [0;37m[32m131V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:34 Exits:(N)EU> n
+The door seems to be closed.
+
+[32m[0;37m[32m419H [0;37m[32m131V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:33 Exits:(N)EU> open door n
+Ok.
+
+[32m[0;37m[32m419H [0;37m[32m131V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:31 Exits:NEU> 
+[36mBoone tells your clan 'pryor needs xp'
+[0;37m
+[32m[0;37m[32m419H [0;37m[32m131V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:31 Exits:NEU> n
+[36mThe Drunken Dwarf[0;37m
+    A warm, smoky place, the Drunken Dwarf is a favorite hangout for
+townies and militia alike. Heavy, utilitarian wooden tables and benches
+fill most of the room. Overhead are the exposed beams of a high ceiling.
+Sawdust covers the floor to help absorb frequent beer spills. At the back
+of the room is a long bar with a menu hanging behind. To the south is a
+small, closed door with a sign affixed to it.
+[33m[1mA large bulletin board is mounted on a wall here.
+[0;37m[31m[1mDuck Myllard dries his hands on his clean, white apron and awaits your order.
+[0;37m
+[32m[0;37m[32m419H [0;37m[32m130V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:31 Exits:NS> n
+[36mEastern Avenue[0;37m
+    Dwarven craftsmen took pride in the work it took to lay these paving
+stones. The road is wide and smooth with barely a joint or a seam to be
+seen. The street is wide enough for two wagons to pass side by side. A
+friendly tavern lies to the south, and the road runs east and west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m419H [0;37m[32m129V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:30 Exits:ESW> w
+[36mEastern Avenue[0;37m
+    Eastern Avenue is newly finished, with fresh stone pavers lining the
+wide, straight way. From the west come the unmistakable sounds of water
+burbling and splashing, and the shouts of commerce.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m419H [0;37m[32m128V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:29 Exits:EW> w
+[36mNew Tarsis Square[0;37m
+    Here stands the great Fountain of Tarsis, sole remaining artifact of
+the original city. The new pavement has been carefully matched to the few
+pieces of old that surround the fountain. The sounds and smells of city
+life waft in from all directions.
+[33m[1mThe great fountain of old Tarsis stands here.
+[0;37m[31m[1mA mercenary stands here, protecting New Tarsis under orders from the Thane.
+A tattooed plainsman rests near his wagon, selling special keepsakes.
+[0;37m
+[32m[0;37m[32m419H [0;37m[32m127V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:29 Exits:NESW> w
+[36mWestern Way[0;37m
+    The bustle of horsecarts, merchants and townspeople moving along this
+wide street marks it as a main arterial to the business areas of Tarsis.
+The great fountain in the central square splashes noisly to the east, while
+from the north come the sounds of tradesmen hawking their wares.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m419H [0;37m[32m126V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:27 Exits:NEW> n
+[36mMarket Square[0;37m
+    A central paved area is surrounded by grass and trees. There are some
+park benches here and there under the trees, giving an almost picnic-area
+feel to the place. Travelling salesmen sometimes set up their wagons here,
+to take advantage of traffic coming and going from the two major stores off
+the square, one to the north and one to the west.
+[33m[1m[0;37m[31m[1mStella the Female Goblin is standing here. (invisible) (black aura)
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m419H [0;37m[32m125V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:27 Exits:NESW> items
+tiers
+list
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Mask                154 a bandit's mask
+  3. Bracer               94 a barbed bracer
+  4. Broadsword           99 a black broadsword
+  5. Raith               166 a black ice raith
+  6. Mask                 49 a black mask (sense_life)
+  7. Pearl               110 a black pearl
+  8. Gown                 60 a black priest's gown
+  9. Robe                 88 a black priest's robe (ac-3 Evil)
+ 10. Ring                330 a black runed ring (wis1 hit-3)
+ 11. Robe                110 a black silk robe of slinking (con-1 hide *19)
+ 12. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+ 13. Staff               176 a black wooden staff (2d6 cl3 fly antiG w5 *19)
+ 14. Jewel               418 [38;5;177ma blessed sky blue jewel (C3+ MELEE HELD)[0;37m
+ 15. Sash                110 a blood red captain's sash (dex mag/bls *19)
+ 16. Sceptre             330 a blue and green nephaline sceptre
+ 17. Gown                 60 a blue priest's gown (ac-5)
+ 18. Brassiere           330 a blue steel brassiere
+ 19. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 20. Skull               132 a bronze dragon skull
+ 21. Cutlass             495 a captain's cutlass (3d4 hr2 dr w11 *19)
+ 22. Staff               143 [38;5;225ma carved battle staff[0;37m
+ 23. Spoon               110 a chef's spoon (1d19 w15)
+ 24. Cape                110 [38;5;225ma comfortable cape (A2 DRUID ABOUT) of the grove[0;37m
+ 25. Armour              319 a crystalline armour (res_cold antiE bls *19)
+ 26. Dagger              110 a crystalline dagger (3d4 dr w5 antiE *19)
+ 27. Morningstar         192 a crystalline morningstar
+ 28. Dagger              330 a dagger of death
+ 29. Cudgel              220 a dark cudgel
+ 30. Charm               236 [38;5;225ma decorated mummified goblin finger charm (B2+ CASTER NECK)[0;37m
+ 31. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 32. Plate               264 a desecrated Solamnic plate
+ 33. Tunic                88 a dusty black tunic
+ 34. Cleaver             110 a dwarven meat cleaver
+ 35. Scythe               13 a field scythe
+ 36. Gown                165 [38;5;183ma fine diaphanous gown (A4 SHAMAN ABOUT) of rot[0;37m
+ 37. Bow                 495 [38;5;214ma finely crafted wooden bow[0;37m
+ 38. Quilt                99 a finely woven quilt (res_cold5 *19)
+ 39. Vest                110 a fur-lined vest (res_cold12 det_inv mag *19)
+ 40. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 41. Eye                  99 a glass eye
+
+ [return for more, q to stop]q
+Boone tells your clan 'sleeping...'
+[0;37m
+[32m[0;37m[32m419H [0;37m[32m125V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:17 Exits:NESW> browse jewel
+You browse through the merchandise and notice:
+The surface of the jewel is shiny and glitters golden. (100%)
+You feel informed:
+ Object 'jewel blessed sky blue'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 3            Value   : 380
+
+ Affects  : HITROLL       by 1
+ Affects  : SAVING_PARA   by -1
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A blessed sky blue jewel is wearable: hold.
+
+[32m[0;37m[32m419H [0;37m[32m125V [0;37m8792128X 75.66% 6681C [0;37mMem:3 T:14 Exits:NESW> list
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Mask                154 a bandit's mask
+  3. Bracer               94 a barbed bracer
+  4. Broadsword           99 a black broadsword
+  5. Raith               166 a black ice raith
+  6. Mask                 49 a black mask (sense_life)
+  7. Pearl               110 a black pearl
+  8. Gown                 60 a black priest's gown
+  9. Robe                 88 a black priest's robe (ac-3 Evil)
+ 10. Ring                330 a black runed ring (wis1 hit-3)
+ 11. Robe                110 a black silk robe of slinking (con-1 hide *19)
+ 12. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+ 13. Staff               176 a black wooden staff (2d6 cl3 fly antiG w5 *19)
+ 14. Jewel               418 [38;5;177ma blessed sky blue jewel (C3+ MELEE HELD)[0;37m
+ 15. Sash                110 a blood red captain's sash (dex mag/bls *19)
+ 16. Sceptre             330 a blue and green nephaline sceptre
+ 17. Gown                 60 a blue priest's gown (ac-5)
+ 18. Brassiere           330 a blue steel brassiere
+ 19. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 20. Skull               132 a bronze dragon skull
+ 21. Cutlass             495 a captain's cutlass (3d4 hr2 dr w11 *19)
+ 22. Staff               143 [38;5;225ma carved battle staff[0;37m
+ 23. Spoon               110 a chef's spoon (1d19 w15)
+ 24. Cape                110 [38;5;225ma comfortable cape (A2 DRUID ABOUT) of the grove[0;37m
+ 25. Armour              319 a crystalline armour (res_cold antiE bls *19)
+ 26. Dagger              110 a crystalline dagger (3d4 dr w5 antiE *19)
+ 27. Morningstar         192 a crystalline morningstar
+ 28. Dagger              330 a dagger of death
+ 29. Cudgel              220 a dark cudgel
+ 30. Charm               236 [38;5;225ma decorated mummified goblin finger charm (B2+ CASTER NECK)[0;37m
+ 31. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 32. Plate               264 a desecrated Solamnic plate
+ 33. Tunic                88 a dusty black tunic
+ 34. Cleaver             110 a dwarven meat cleaver
+ 35. Scythe               13 a field scythe
+ 36. Gown                165 [38;5;183ma fine diaphanous gown (A4 SHAMAN ABOUT) of rot[0;37m
+ 37. Bow                 495 [38;5;214ma finely crafted wooden bow[0;37m
+ 38. Quilt                99 a finely woven quilt (res_cold5 *19)
+ 39. Vest                110 a fur-lined vest (res_cold12 det_inv mag *19)
+ 40. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 41. Eye                  99 a glass eye
+
+ [return for more, q to stop]
+ 42. Lance               440 [38;5;177ma glorious sharpened lance[0;37m
+ 43. Skirt                55 a glowing skirt of lichens (light)
+ 44. Ring                110 a gold and diamond wedding band (ac-2 regen1%)
+ 45. Dagger              110 a granite dagger (3d4 DR antiG bls w5 *19)
+ 46. Morningstar         192 a granite morningstar
+ 47. Ring                275 a green nephaline ring (regen3% *18)
+ 48. Cloak                88 a grey hooded cloak (health5)
+ 49. Brassard            462 [38;5;177ma grooved komodo tooth brassard (C3+ MELEE WRIST)[0;37m
+ 50. Maul                253 a hardened steel maul (3d4 str1 dr3 w18)
+ 51. Crossbow            374 [38;5;177ma heavy recurve crossbow[0;37m
+ 52. Wool                 60 a heavy wool cape (+1@1 ac-5 tanks *19)
+ 53. Rosary              522 [38;5;171ma holy opal inlaid rosary (D2+ MELEE HELD)[0;37m
+ 54. Symbol              110 a holy symbol of Chislev (nolore 100c *19)
+ 55. Poleaxe              82 a large pole axe (3d5 w15)
+ 56. Buckler             110 a leaf-decorated leather buckler
+ 57. Staff               198 a long oak staff
+ 58. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 59. Hood                396 [38;5;177ma lush green hood (C4 SCOUT HEAD) of mastery[0;37m
+ 60. Sash                550 [38;5;171ma macabre albino skin sash of omens (D5+ SHAMAN WAIST)[0;37m
+ 61. Shield               55 a manor guard's shield (w25 *19)
+ 62. Hide                132 [38;5;225ma marauder's deer hide (A3 BARBARIAN BODY) of mania[0;37m
+ 63. Medallion            93 a medallion of the earth (Bless *19)
+ 64. Fork                 99 a military fork (4d3 dr1 hr2 w18)
+ 65. Necklace            165 a necklace of carved ivory (hit4)
+ 66. Necklace             55 a necklace of dirty gnome-teeth
+ 67. Necklace            176 a necklace of nephaline fragments (sv_pois-1 det_mag)
+ 68. Gloves              247 [38;5;214ma pair of black archer's gloves[0;37m
+ 69. Boots                66 a pair of black satin boots (age8 mv12 cl2 *18)
+ 70. Sleeves              77 a pair of black silk sleeves
+ 71. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 72. Boots               242 a pair of blue suede boots
+ 73. Sandals             110 a pair of cord sandals (move10)
+ 74. Gauntlets           137 a pair of enchanted elven battle gauntlets(dr2 Scout*19)
+ 75. Gloves               27 a pair of leather combat gloves (HR *19)
+ 76. Pants                33 a pair of purple silk pants (move4)
+ 77. Gloves              110 a pair of rough, fingerless gloves (hr1 pick-7)
+ 78. Boots               330 a pair of shadow boots (ac-4 sneak10)
+ 79. Boots               264 a pair of silver dragon scale boots (save_breath-2 move15)
+ 80. Boots               275 a pair of silver threaded boots
+ 81. Greaves             176 a pair of smuggler's greaves
+ 82. Boots                66 a pair of soft black boots
+
+ [return for more, q to stop]q
+Viq tells your clan 'sec'
+[0;37m
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mMem:2 T:60 Exits:NESW> browse omens
+You browse through the merchandise and notice:
+The surface of the sash gleams brightly. (100%)
+You feel informed:
+ Object 'sash macabre albino skin omens'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 2            Value   : 500
+
+ Affects  : HP_REGEN      by 5
+ Affects  : HP_REGEN      by 6
+ Effects  : DETECT_GOOD
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+A macabre albino skin sash of omens is wearable: waist.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mMem:2 T:58 Exits:NESW> list
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Mask                154 a bandit's mask
+  3. Bracer               94 a barbed bracer
+  4. Broadsword           99 a black broadsword
+  5. Raith               166 a black ice raith
+  6. Mask                 49 a black mask (sense_life)
+  7. Pearl               110 a black pearl
+  8. Gown                 60 a black priest's gown
+  9. Robe                 88 a black priest's robe (ac-3 Evil)
+ 10. Ring                330 a black runed ring (wis1 hit-3)
+ 11. Robe                110 a black silk robe of slinking (con-1 hide *19)
+ 12. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+ 13. Staff               176 a black wooden staff (2d6 cl3 fly antiG w5 *19)
+ 14. Jewel               418 [38;5;177ma blessed sky blue jewel (C3+ MELEE HELD)[0;37m
+ 15. Sash                110 a blood red captain's sash (dex mag/bls *19)
+ 16. Sceptre             330 a blue and green nephaline sceptre
+ 17. Gown                 60 a blue priest's gown (ac-5)
+ 18. Brassiere           330 a blue steel brassiere
+ 19. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 20. Skull               132 a bronze dragon skull
+ 21. Cutlass             495 a captain's cutlass (3d4 hr2 dr w11 *19)
+ 22. Staff               143 [38;5;225ma carved battle staff[0;37m
+ 23. Spoon               110 a chef's spoon (1d19 w15)
+ 24. Cape                110 [38;5;225ma comfortable cape (A2 DRUID ABOUT) of the grove[0;37m
+ 25. Armour              319 a crystalline armour (res_cold antiE bls *19)
+ 26. Dagger              110 a crystalline dagger (3d4 dr w5 antiE *19)
+ 27. Morningstar         192 a crystalline morningstar
+ 28. Dagger              330 a dagger of death
+ 29. Cudgel              220 a dark cudgel
+ 30. Charm               236 [38;5;225ma decorated mummified goblin finger charm (B2+ CASTER NECK)[0;37m
+ 31. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 32. Plate               264 a desecrated Solamnic plate
+ 33. Tunic                88 a dusty black tunic
+ 34. Cleaver             110 a dwarven meat cleaver
+ 35. Scythe               13 a field scythe
+ 36. Gown                165 [38;5;183ma fine diaphanous gown (A4 SHAMAN ABOUT) of rot[0;37m
+ 37. Bow                 495 [38;5;214ma finely crafted wooden bow[0;37m
+ 38. Quilt                99 a finely woven quilt (res_cold5 *19)
+ 39. Vest                110 a fur-lined vest (res_cold12 det_inv mag *19)
+ 40. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 41. Eye                  99 a glass eye
+
+ [return for more, q to stop]
+ 42. Lance               440 [38;5;177ma glorious sharpened lance[0;37m
+ 43. Skirt                55 a glowing skirt of lichens (light)
+ 44. Ring                110 a gold and diamond wedding band (ac-2 regen1%)
+ 45. Dagger              110 a granite dagger (3d4 DR antiG bls w5 *19)
+ 46. Morningstar         192 a granite morningstar
+ 47. Ring                275 a green nephaline ring (regen3% *18)
+ 48. Cloak                88 a grey hooded cloak (health5)
+ 49. Brassard            462 [38;5;177ma grooved komodo tooth brassard (C3+ MELEE WRIST)[0;37m
+ 50. Maul                253 a hardened steel maul (3d4 str1 dr3 w18)
+ 51. Crossbow            374 [38;5;177ma heavy recurve crossbow[0;37m
+ 52. Wool                 60 a heavy wool cape (+1@1 ac-5 tanks *19)
+ 53. Rosary              522 [38;5;171ma holy opal inlaid rosary (D2+ MELEE HELD)[0;37m
+ 54. Symbol              110 a holy symbol of Chislev (nolore 100c *19)
+ 55. Poleaxe              82 a large pole axe (3d5 w15)
+ 56. Buckler             110 a leaf-decorated leather buckler
+ 57. Staff               198 a long oak staff
+ 58. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 59. Hood                396 [38;5;177ma lush green hood (C4 SCOUT HEAD) of mastery[0;37m
+ 60. Sash                550 [38;5;171ma macabre albino skin sash of omens (D5+ SHAMAN WAIST)[0;37m
+ 61. Shield               55 a manor guard's shield (w25 *19)
+ 62. Hide                132 [38;5;225ma marauder's deer hide (A3 BARBARIAN BODY) of mania[0;37m
+ 63. Medallion            93 a medallion of the earth (Bless *19)
+ 64. Fork                 99 a military fork (4d3 dr1 hr2 w18)
+ 65. Necklace            165 a necklace of carved ivory (hit4)
+ 66. Necklace             55 a necklace of dirty gnome-teeth
+ 67. Necklace            176 a necklace of nephaline fragments (sv_pois-1 det_mag)
+ 68. Gloves              247 [38;5;214ma pair of black archer's gloves[0;37m
+ 69. Boots                66 a pair of black satin boots (age8 mv12 cl2 *18)
+ 70. Sleeves              77 a pair of black silk sleeves
+ 71. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 72. Boots               242 a pair of blue suede boots
+ 73. Sandals             110 a pair of cord sandals (move10)
+ 74. Gauntlets           137 a pair of enchanted elven battle gauntlets(dr2 Scout*19)
+ 75. Gloves               27 a pair of leather combat gloves (HR *19)
+ 76. Pants                33 a pair of purple silk pants (move4)
+ 77. Gloves              110 a pair of rough, fingerless gloves (hr1 pick-7)
+ 78. Boots               330 a pair of shadow boots (ac-4 sneak10)
+ 79. Boots               264 a pair of silver dragon scale boots (save_breath-2 move15)
+ 80. Boots               275 a pair of silver threaded boots
+ 81. Greaves             176 a pair of smuggler's greaves
+ 82. Boots                66 a pair of soft black boots
+
+ [return for more, q to stop]q
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mMem:2 T:41 Exits:NESW> browse rosary
+You browse through the merchandise and notice:
+The surface of the rosary gleams brightly. (100%)
+You feel informed:
+ Object 'rosary holy opal inlaid'
+ Item Type: WORN        
+ Mat Class: metal        Material: platinum
+ Weight   : 2            Value   : 475
+
+ Affects  : resist criticals by 1.1%
+ Affects  : HP_REGEN      by 1
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A holy opal inlaid rosary is wearable: hold.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mMem:2 T:39 Exits:NESW> list
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Mask                154 a bandit's mask
+  3. Bracer               94 a barbed bracer
+  4. Broadsword           99 a black broadsword
+  5. Raith               166 a black ice raith
+  6. Mask                 49 a black mask (sense_life)
+  7. Pearl               110 a black pearl
+  8. Gown                 60 a black priest's gown
+  9. Robe                 88 a black priest's robe (ac-3 Evil)
+ 10. Ring                330 a black runed ring (wis1 hit-3)
+ 11. Robe                110 a black silk robe of slinking (con-1 hide *19)
+ 12. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+ 13. Staff               176 a black wooden staff (2d6 cl3 fly antiG w5 *19)
+ 14. Jewel               418 [38;5;177ma blessed sky blue jewel (C3+ MELEE HELD)[0;37m
+ 15. Sash                110 a blood red captain's sash (dex mag/bls *19)
+ 16. Sceptre             330 a blue and green nephaline sceptre
+ 17. Gown                 60 a blue priest's gown (ac-5)
+ 18. Brassiere           330 a blue steel brassiere
+ 19. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 20. Skull               132 a bronze dragon skull
+ 21. Cutlass             495 a captain's cutlass (3d4 hr2 dr w11 *19)
+ 22. Staff               143 [38;5;225ma carved battle staff[0;37m
+ 23. Spoon               110 a chef's spoon (1d19 w15)
+ 24. Cape                110 [38;5;225ma comfortable cape (A2 DRUID ABOUT) of the grove[0;37m
+ 25. Armour              319 a crystalline armour (res_cold antiE bls *19)
+ 26. Dagger              110 a crystalline dagger (3d4 dr w5 antiE *19)
+ 27. Morningstar         192 a crystalline morningstar
+ 28. Dagger              330 a dagger of death
+ 29. Cudgel              220 a dark cudgel
+ 30. Charm               236 [38;5;225ma decorated mummified goblin finger charm (B2+ CASTER NECK)[0;37m
+ 31. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 32. Plate               264 a desecrated Solamnic plate
+ 33. Tunic                88 a dusty black tunic
+ 34. Cleaver             110 a dwarven meat cleaver
+ 35. Scythe               13 a field scythe
+ 36. Gown                165 [38;5;183ma fine diaphanous gown (A4 SHAMAN ABOUT) of rot[0;37m
+ 37. Bow                 495 [38;5;214ma finely crafted wooden bow[0;37m
+ 38. Quilt                99 a finely woven quilt (res_cold5 *19)
+ 39. Vest                110 a fur-lined vest (res_cold12 det_inv mag *19)
+ 40. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 41. Eye                  99 a glass eye
+
+ [return for more, q to stop]
+ 42. Lance               440 [38;5;177ma glorious sharpened lance[0;37m
+ 43. Skirt                55 a glowing skirt of lichens (light)
+ 44. Ring                110 a gold and diamond wedding band (ac-2 regen1%)
+ 45. Dagger              110 a granite dagger (3d4 DR antiG bls w5 *19)
+ 46. Morningstar         192 a granite morningstar
+ 47. Ring                275 a green nephaline ring (regen3% *18)
+ 48. Cloak                88 a grey hooded cloak (health5)
+ 49. Brassard            462 [38;5;177ma grooved komodo tooth brassard (C3+ MELEE WRIST)[0;37m
+ 50. Maul                253 a hardened steel maul (3d4 str1 dr3 w18)
+ 51. Crossbow            374 [38;5;177ma heavy recurve crossbow[0;37m
+ 52. Wool                 60 a heavy wool cape (+1@1 ac-5 tanks *19)
+ 53. Rosary              522 [38;5;171ma holy opal inlaid rosary (D2+ MELEE HELD)[0;37m
+ 54. Symbol              110 a holy symbol of Chislev (nolore 100c *19)
+ 55. Poleaxe              82 a large pole axe (3d5 w15)
+ 56. Buckler             110 a leaf-decorated leather buckler
+ 57. Staff               198 a long oak staff
+ 58. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 59. Hood                396 [38;5;177ma lush green hood (C4 SCOUT HEAD) of mastery[0;37m
+ 60. Sash                550 [38;5;171ma macabre albino skin sash of omens (D5+ SHAMAN WAIST)[0;37m
+ 61. Shield               55 a manor guard's shield (w25 *19)
+ 62. Hide                132 [38;5;225ma marauder's deer hide (A3 BARBARIAN BODY) of mania[0;37m
+ 63. Medallion            93 a medallion of the earth (Bless *19)
+ 64. Fork                 99 a military fork (4d3 dr1 hr2 w18)
+ 65. Necklace            165 a necklace of carved ivory (hit4)
+ 66. Necklace             55 a necklace of dirty gnome-teeth
+ 67. Necklace            176 a necklace of nephaline fragments (sv_pois-1 det_mag)
+ 68. Gloves              247 [38;5;214ma pair of black archer's gloves[0;37m
+ 69. Boots                66 a pair of black satin boots (age8 mv12 cl2 *18)
+ 70. Sleeves              77 a pair of black silk sleeves
+ 71. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 72. Boots               242 a pair of blue suede boots
+ 73. Sandals             110 a pair of cord sandals (move10)
+ 74. Gauntlets           137 a pair of enchanted elven battle gauntlets(dr2 Scout*19)
+ 75. Gloves               27 a pair of leather combat gloves (HR *19)
+ 76. Pants                33 a pair of purple silk pants (move4)
+ 77. Gloves              110 a pair of rough, fingerless gloves (hr1 pick-7)
+ 78. Boots               330 a pair of shadow boots (ac-4 sneak10)
+ 79. Boots               264 a pair of silver dragon scale boots (save_breath-2 move15)
+ 80. Boots               275 a pair of silver threaded boots
+ 81. Greaves             176 a pair of smuggler's greaves
+ 82. Boots                66 a pair of soft black boots
+
+ [return for more, q to stop]q
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mMem:2 T:28 Exits:NESW> browse komodo
+You browse through the merchandise and notice:
+The surface of the brassard is shiny and glitters golden. (100%)
+You feel informed:
+ Object 'brassard grooved komodo tooth'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 2            Value   : 420
+
+ Affects  : MOVE_REGEN    by 5
+ Affects  : ARMOR         by -5
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A grooved komodo tooth brassard is wearable: wrist.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mMem:2 T:26 Exits:NESW> list
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Mask                154 a bandit's mask
+  3. Bracer               94 a barbed bracer
+  4. Broadsword           99 a black broadsword
+  5. Raith               166 a black ice raith
+  6. Mask                 49 a black mask (sense_life)
+  7. Pearl               110 a black pearl
+  8. Gown                 60 a black priest's gown
+  9. Robe                 88 a black priest's robe (ac-3 Evil)
+ 10. Ring                330 a black runed ring (wis1 hit-3)
+ 11. Robe                110 a black silk robe of slinking (con-1 hide *19)
+ 12. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+ 13. Staff               176 a black wooden staff (2d6 cl3 fly antiG w5 *19)
+ 14. Jewel               418 [38;5;177ma blessed sky blue jewel (C3+ MELEE HELD)[0;37m
+ 15. Sash                110 a blood red captain's sash (dex mag/bls *19)
+ 16. Sceptre             330 a blue and green nephaline sceptre
+ 17. Gown                 60 a blue priest's gown (ac-5)
+ 18. Brassiere           330 a blue steel brassiere
+ 19. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 20. Skull               132 a bronze dragon skull
+ 21. Cutlass             495 a captain's cutlass (3d4 hr2 dr w11 *19)
+ 22. Staff               143 [38;5;225ma carved battle staff[0;37m
+ 23. Spoon               110 a chef's spoon (1d19 w15)
+ 24. Cape                110 [38;5;225ma comfortable cape (A2 DRUID ABOUT) of the grove[0;37m
+ 25. Armour              319 a crystalline armour (res_cold antiE bls *19)
+ 26. Dagger              110 a crystalline dagger (3d4 dr w5 antiE *19)
+ 27. Morningstar         192 a crystalline morningstar
+ 28. Dagger              330 a dagger of death
+ 29. Cudgel              220 a dark cudgel
+ 30. Charm               236 [38;5;225ma decorated mummified goblin finger charm (B2+ CASTER NECK)[0;37m
+ 31. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 32. Plate               264 a desecrated Solamnic plate
+ 33. Tunic                88 a dusty black tunic
+ 34. Cleaver             110 a dwarven meat cleaver
+ 35. Scythe               13 a field scythe
+ 36. Gown                165 [38;5;183ma fine diaphanous gown (A4 SHAMAN ABOUT) of rot[0;37m
+ 37. Bow                 495 [38;5;214ma finely crafted wooden bow[0;37m
+ 38. Quilt                99 a finely woven quilt (res_cold5 *19)
+ 39. Vest                110 a fur-lined vest (res_cold12 det_inv mag *19)
+ 40. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 41. Eye                  99 a glass eye
+
+ [return for more, q to stop]
+ 42. Lance               440 [38;5;177ma glorious sharpened lance[0;37m
+ 43. Skirt                55 a glowing skirt of lichens (light)
+ 44. Ring                110 a gold and diamond wedding band (ac-2 regen1%)
+ 45. Dagger              110 a granite dagger (3d4 DR antiG bls w5 *19)
+ 46. Morningstar         192 a granite morningstar
+ 47. Ring                275 a green nephaline ring (regen3% *18)
+ 48. Cloak                88 a grey hooded cloak (health5)
+ 49. Brassard            462 [38;5;177ma grooved komodo tooth brassard (C3+ MELEE WRIST)[0;37m
+ 50. Maul                253 a hardened steel maul (3d4 str1 dr3 w18)
+ 51. Crossbow            374 [38;5;177ma heavy recurve crossbow[0;37m
+ 52. Wool                 60 a heavy wool cape (+1@1 ac-5 tanks *19)
+ 53. Rosary              522 [38;5;171ma holy opal inlaid rosary (D2+ MELEE HELD)[0;37m
+ 54. Symbol              110 a holy symbol of Chislev (nolore 100c *19)
+ 55. Poleaxe              82 a large pole axe (3d5 w15)
+ 56. Buckler             110 a leaf-decorated leather buckler
+ 57. Staff               198 a long oak staff
+ 58. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 59. Hood                396 [38;5;177ma lush green hood (C4 SCOUT HEAD) of mastery[0;37m
+ 60. Sash                550 [38;5;171ma macabre albino skin sash of omens (D5+ SHAMAN WAIST)[0;37m
+ 61. Shield               55 a manor guard's shield (w25 *19)
+ 62. Hide                132 [38;5;225ma marauder's deer hide (A3 BARBARIAN BODY) of mania[0;37m
+ 63. Medallion            93 a medallion of the earth (Bless *19)
+ 64. Fork                 99 a military fork (4d3 dr1 hr2 w18)
+ 65. Necklace            165 a necklace of carved ivory (hit4)
+ 66. Necklace             55 a necklace of dirty gnome-teeth
+ 67. Necklace            176 a necklace of nephaline fragments (sv_pois-1 det_mag)
+ 68. Gloves              247 [38;5;214ma pair of black archer's gloves[0;37m
+ 69. Boots                66 a pair of black satin boots (age8 mv12 cl2 *18)
+ 70. Sleeves              77 a pair of black silk sleeves
+ 71. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 72. Boots               242 a pair of blue suede boots
+ 73. Sandals             110 a pair of cord sandals (move10)
+ 74. Gauntlets           137 a pair of enchanted elven battle gauntlets(dr2 Scout*19)
+ 75. Gloves               27 a pair of leather combat gloves (HR *19)
+ 76. Pants                33 a pair of purple silk pants (move4)
+ 77. Gloves              110 a pair of rough, fingerless gloves (hr1 pick-7)
+ 78. Boots               330 a pair of shadow boots (ac-4 sneak10)
+ 79. Boots               264 a pair of silver dragon scale boots (save_breath-2 move15)
+ 80. Boots               275 a pair of silver threaded boots
+ 81. Greaves             176 a pair of smuggler's greaves
+ 82. Boots                66 a pair of soft black boots
+
+ [return for more, q to stop]
+ 83. Armbands            132 a pair of spectacular hematite armbands (str1 int-2 )
+ 84. Pants                11 a pair of thin white pants
+ 85. Boots               220 a pair of turquoise-trimmed, buckskin boots (kick2 *18)
+ 86. Armbands            154 a pair of white feathered armbands (wis1 notank)
+ 87. Boots               330 [38;5;153ma pair of woodsman's boots (apply6 *set*)[0;37m
+ 88. Gloves              330 [38;5;153ma pair of woodsman's gloves (apply *set*)[0;37m
+ 89. Hatchet             165 a plainsman's war hatchet (2d6 1/1 w8 *19)
+ 90. Gorget              176 a platinum gilt gorget (apply5 *19)
+ 91. Plate               220 a polished steel plate
+ 92. Eye                 104 a preserved eye of a revenant (det_mag/dead)
+ 93. Gown                330 a pretty pink satin gown (nocharm)
+ 94. Cloak                77 a purple chiffon cloak (1st+1 cleric only)
+ 95. Armor                88 a ragged suit of leather armor (hit3 ac-4 cl2)
+ 96. Stiletto             55 a red thorn stiletto (2d7 DR env4 w12 no_offy *19)
+ 97. Shield              192 a ruby shield (w25 glow/bless)
+ 98. Pike                 66 a rusty iron pike
+ 99. Shield              192 a sapphire shield (w25 bless/glow)
+100. Band                110 a scorched black scaled band
+101. Rerebrace           132 a set of black rerebrace (hit7 *18)
+102. Boots               110 a set of thick green leather boots (sneak5 ac-5)
+103. Hood                330 a a shadow hood (sense_life/infra nomag/pal/dru/cle/scout/war/barb/sham)
+104. Knife                82 a sharp filleting knife (3d3 2/2 w6 *19)
+105. Shirt                60 a shirt of blue splint mail (reselec5)
+106. Shirt                60 a shirt of white ringmail (rescold5)
+107. Mace                220 [38;5;214ma silver mace with a rosewood handle[0;37m
+108. Club                825 a silver shod oaken club
+109. Spear               242 [38;5;214ma silver spear[0;37m
+110. Blade               132 [38;5;214ma slender draconian blade[0;37m
+111. Ring                 55 a small ruby ring (+2@2 AntiG NORENT *19)
+112. Hauberk             165 [38;5;225ma soldier's hauberk (A2 WARRIOR BODY) of resolve[0;37m
+113. Brassiere           220 a spiked leather brassiere (DR hit5 Girl_Only *19)
+114. Robe                 82 a a stained brown robe (save_pois -1 cl1 Magic)
+115. Cutlass             385 [38;5;214ma steel cutlass[0;37m
+116. Armor               275 a suit of battle armor
+117. Suit                 66 a suit of finely crafted chainmail
+118. Armor               110 a suit of padded red leather armor (hr1)
+119. Staff                82 a tamarack staff (3d4 hr1 +1@2 cl@ AntiG w4 *19)
+120. Cloak               236 [38;5;225ma tattered cloak (B1 CLERIC ABOUT) of piety[0;37m
+121. Bracelet            107 a thick dwarven bracelet (HR *19)
+122. Belt                 27 a thick leather belt (ac-4)
+123. Coat                 33 a thick woolen coat (apply6 *19)
+
+ [return for more, q to stop]
+124. Kilt                 33 a thick woolen kilt (ac-4)
+125. Necklace            110 a thin gold necklace (det_E/G infra)
+126. Crown               132 [38;5;214ma tin crown[0;37m
+127. Dagger              330 a tiny platinum dagger
+128. Mask                550 a translucent mask (cl2 det_inv/E/G mag *19) (cl2 det_evil/good/inv *19)
+129. Eyepatch             88 a transparent eyepatch (hr-1 det_mag)
+130. Axe                 275 a twin-bladed battle axe
+131. Cloak               352 a warlock's cloak (ac-4 flying antiG bls *19)
+132. Robe                 99 a white witch's robe
+133. Bracer              330 [38;5;153ma woodsman's bracer (apply4 *set*)[0;37m
+134. Cloak               330 [38;5;153ma woodsman's cloak (*set*)[0;37m
+135. Ring                198 a woodsman's ring (ss-1 nomage)
+136. Sash                 88 [38;5;153ma woodsman's sash (*set*)[0;37m
+137. Dagger              236 [38;5;183ma wretched barbed dagger[0;37m
+138. Dagger              302 [38;5;183ma wretched bloodletting dagger[0;37m
+139. Helmet              132 an Aurinite helmet and visor
+140. Cloak               352 an alchemist's cloak (ac-3 res_ac12 antiE *19)
+141. Blade               550 [38;5;214man ancient silver blade[0;37m
+142. Ring                550 an ancient solamnic ring
+143. Pike                 88 an awl pike (2d6 w15)
+144. Headdress           550 [38;5;171man elf bone-infused headdress (D5 SHAMAN HEAD) of destiny[0;37m
+145. Garb                132 [38;5;183man embroidered stygian garb (A5 THIEF ABOUT) of guile[0;37m
+146. Cloak               165 an an emerald green hunter's cloak (Hit7 AC-5 nomag/dru/cle/sham)
+147. Vest                132 an an emerald green leather vest (str1)
+148. Blade               165 an emerald hilted blade (2d6 1/1 w9 magic nomag/pal/dru/cle/scout/war/dk)
+149. Knife               418 [38;5;183man enchanted sharp knife[0;37m
+150. Sword               264 an ergothian long sword (3d5 w11 *19)
+151. Armor               110 an etched suit of armor (apply5 nobarb/sham)
+152. Longbow            1100 [38;5;214man ironclaw longbow (w36 rdr2 rhr3 spr12 pwr15 acc12)[0;37m
+153. Necklace             82 an ivy necklace (wis det_evil *19)
+154. Bow                 132 an oaken strongbow
+155. Amulet              275 an an obsidian amulet (magic 250c)
+156. Shield              192 an opal shield (w25 glow/bless)
+157. Necklace            220 [38;5;183man ornate spider-shaped necklace (B3+ CASTER NECK)[0;37m
+158. Shield              253 [38;5;177man ornate white dragon heater (B5+ CASTER SHIELD)[0;37m
+159. Boots               165 boots of holiness (mv10 antiE)
+160. Boots               165 boots of unholiness
+161. Gloves              110 gloves of righteousness (hit2 antiE)
+162. Gloves              110 gloves of wretchedness
+163. Robes               220 some black robes
+164. Cuisses             286 [38;5;225msome charcoal cuisses of dread (B1+ DARKKNIGHT LEGS)[0;37m
+
+ [return for more, q to stop]q
+Stella arrives from the south.
+Your studies complete, you close your prayerbook with a smile.
+You are thirsty.
+Some sacred sleeves of ritual decays in your hands.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:60 Exits:NESW> browse destiny
+You browse through the merchandise and notice:
+The headdress appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'headdress elf bone infused destiny'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: tooth
+ Weight   : 3            Value   : 500
+
+ Affects  : CONCENTRATION by 9
+ Affects  : MOVE_REGEN    by 10
+ Effects  : WATERBREATH
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 4
+An elf bone-infused headdress of destiny is wearable: head.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:56 Exits:NESW> list
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Mask                154 a bandit's mask
+  3. Bracer               94 a barbed bracer
+  4. Broadsword           99 a black broadsword
+  5. Raith               166 a black ice raith
+  6. Mask                 49 a black mask (sense_life)
+  7. Pearl               110 a black pearl
+  8. Gown                 60 a black priest's gown
+  9. Robe                 88 a black priest's robe (ac-3 Evil)
+ 10. Ring                330 a black runed ring (wis1 hit-3)
+ 11. Robe                110 a black silk robe of slinking (con-1 hide *19)
+ 12. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+ 13. Staff               176 a black wooden staff (2d6 cl3 fly antiG w5 *19)
+ 14. Jewel               418 [38;5;177ma blessed sky blue jewel (C3+ MELEE HELD)[0;37m
+ 15. Sash                110 a blood red captain's sash (dex mag/bls *19)
+ 16. Sceptre             330 a blue and green nephaline sceptre
+ 17. Gown                 60 a blue priest's gown (ac-5)
+ 18. Brassiere           330 a blue steel brassiere
+ 19. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 20. Skull               132 a bronze dragon skull
+ 21. Cutlass             495 a captain's cutlass (3d4 hr2 dr w11 *19)
+ 22. Staff               143 [38;5;225ma carved battle staff[0;37m
+ 23. Spoon               110 a chef's spoon (1d19 w15)
+ 24. Cape                110 [38;5;225ma comfortable cape (A2 DRUID ABOUT) of the grove[0;37m
+ 25. Armour              319 a crystalline armour (res_cold antiE bls *19)
+ 26. Dagger              110 a crystalline dagger (3d4 dr w5 antiE *19)
+ 27. Morningstar         192 a crystalline morningstar
+ 28. Dagger              330 a dagger of death
+ 29. Cudgel              220 a dark cudgel
+ 30. Charm               236 [38;5;225ma decorated mummified goblin finger charm (B2+ CASTER NECK)[0;37m
+ 31. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 32. Plate               264 a desecrated Solamnic plate
+ 33. Tunic                88 a dusty black tunic
+ 34. Cleaver             110 a dwarven meat cleaver
+ 35. Scythe               13 a field scythe
+ 36. Gown                165 [38;5;183ma fine diaphanous gown (A4 SHAMAN ABOUT) of rot[0;37m
+ 37. Bow                 495 [38;5;214ma finely crafted wooden bow[0;37m
+ 38. Quilt                99 a finely woven quilt (res_cold5 *19)
+ 39. Vest                110 a fur-lined vest (res_cold12 det_inv mag *19)
+ 40. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 41. Eye                  99 a glass eye
+
+ [return for more, q to stop]
+ 42. Lance               440 [38;5;177ma glorious sharpened lance[0;37m
+ 43. Skirt                55 a glowing skirt of lichens (light)
+ 44. Ring                110 a gold and diamond wedding band (ac-2 regen1%)
+ 45. Dagger              110 a granite dagger (3d4 DR antiG bls w5 *19)
+ 46. Morningstar         192 a granite morningstar
+ 47. Ring                275 a green nephaline ring (regen3% *18)
+ 48. Cloak                88 a grey hooded cloak (health5)
+ 49. Brassard            462 [38;5;177ma grooved komodo tooth brassard (C3+ MELEE WRIST)[0;37m
+ 50. Maul                253 a hardened steel maul (3d4 str1 dr3 w18)
+ 51. Crossbow            374 [38;5;177ma heavy recurve crossbow[0;37m
+ 52. Wool                 60 a heavy wool cape (+1@1 ac-5 tanks *19)
+ 53. Rosary              522 [38;5;171ma holy opal inlaid rosary (D2+ MELEE HELD)[0;37m
+ 54. Symbol              110 a holy symbol of Chislev (nolore 100c *19)
+ 55. Poleaxe              82 a large pole axe (3d5 w15)
+ 56. Buckler             110 a leaf-decorated leather buckler
+ 57. Staff               198 a long oak staff
+ 58. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 59. Hood                396 [38;5;177ma lush green hood (C4 SCOUT HEAD) of mastery[0;37m
+ 60. Sash                550 [38;5;171ma macabre albino skin sash of omens (D5+ SHAMAN WAIST)[0;37m
+ 61. Shield               55 a manor guard's shield (w25 *19)
+ 62. Hide                132 [38;5;225ma marauder's deer hide (A3 BARBARIAN BODY) of mania[0;37m
+ 63. Medallion            93 a medallion of the earth (Bless *19)
+ 64. Fork                 99 a military fork (4d3 dr1 hr2 w18)
+ 65. Necklace            165 a necklace of carved ivory (hit4)
+ 66. Necklace             55 a necklace of dirty gnome-teeth
+ 67. Necklace            176 a necklace of nephaline fragments (sv_pois-1 det_mag)
+ 68. Gloves              247 [38;5;214ma pair of black archer's gloves[0;37m
+ 69. Boots                66 a pair of black satin boots (age8 mv12 cl2 *18)
+ 70. Sleeves              77 a pair of black silk sleeves
+ 71. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 72. Boots               242 a pair of blue suede boots
+ 73. Sandals             110 a pair of cord sandals (move10)
+ 74. Gauntlets           137 a pair of enchanted elven battle gauntlets(dr2 Scout*19)
+ 75. Gloves               27 a pair of leather combat gloves (HR *19)
+ 76. Pants                33 a pair of purple silk pants (move4)
+ 77. Gloves              110 a pair of rough, fingerless gloves (hr1 pick-7)
+ 78. Boots               330 a pair of shadow boots (ac-4 sneak10)
+ 79. Boots               264 a pair of silver dragon scale boots (save_breath-2 move15)
+ 80. Boots               275 a pair of silver threaded boots
+ 81. Greaves             176 a pair of smuggler's greaves
+ 82. Boots                66 a pair of soft black boots
+
+ [return for more, q to stop]
+ 83. Armbands            132 a pair of spectacular hematite armbands (str1 int-2 )
+ 84. Boots               220 a pair of turquoise-trimmed, buckskin boots (kick2 *18)
+ 85. Armbands            154 a pair of white feathered armbands (wis1 notank)
+ 86. Boots               330 [38;5;153ma pair of woodsman's boots (apply6 *set*)[0;37m
+ 87. Gloves              330 [38;5;153ma pair of woodsman's gloves (apply *set*)[0;37m
+ 88. Hatchet             165 a plainsman's war hatchet (2d6 1/1 w8 *19)
+ 89. Gorget              176 a platinum gilt gorget (apply5 *19)
+ 90. Plate               220 a polished steel plate
+ 91. Eye                 104 a preserved eye of a revenant (det_mag/dead)
+ 92. Gown                330 a pretty pink satin gown (nocharm)
+ 93. Cloak                77 a purple chiffon cloak (1st+1 cleric only)
+ 94. Armor                88 a ragged suit of leather armor (hit3 ac-4 cl2)
+ 95. Stiletto             55 a red thorn stiletto (2d7 DR env4 w12 no_offy *19)
+ 96. Shield              192 a ruby shield (w25 glow/bless)
+ 97. Pike                 66 a rusty iron pike
+ 98. Shield              192 a sapphire shield (w25 bless/glow)
+ 99. Band                110 a scorched black scaled band
+100. Rerebrace           132 a set of black rerebrace (hit7 *18)
+101. Boots               110 a set of thick green leather boots (sneak5 ac-5)
+102. Hood                330 a a shadow hood (sense_life/infra nomag/pal/dru/cle/scout/war/barb/sham)
+103. Knife                82 a sharp filleting knife (3d3 2/2 w6 *19)
+104. Shirt                60 a shirt of blue splint mail (reselec5)
+105. Shirt                60 a shirt of white ringmail (rescold5)
+106. Mace                220 [38;5;214ma silver mace with a rosewood handle[0;37m
+107. Club                825 a silver shod oaken club
+108. Spear               242 [38;5;214ma silver spear[0;37m
+109. Blade               132 [38;5;214ma slender draconian blade[0;37m
+110. Ring                 55 a small ruby ring (+2@2 AntiG NORENT *19)
+111. Hauberk             165 [38;5;225ma soldier's hauberk (A2 WARRIOR BODY) of resolve[0;37m
+112. Brassiere           220 a spiked leather brassiere (DR hit5 Girl_Only *19)
+113. Robe                 82 a a stained brown robe (save_pois -1 cl1 Magic)
+114. Cutlass             385 [38;5;214ma steel cutlass[0;37m
+115. Armor               275 a suit of battle armor
+116. Suit                 66 a suit of finely crafted chainmail
+117. Armor               110 a suit of padded red leather armor (hr1)
+118. Staff                82 a tamarack staff (3d4 hr1 +1@2 cl@ AntiG w4 *19)
+119. Cloak               236 [38;5;225ma tattered cloak (B1 CLERIC ABOUT) of piety[0;37m
+120. Bracelet            107 a thick dwarven bracelet (HR *19)
+121. Belt                 27 a thick leather belt (ac-4)
+122. Coat                 33 a thick woolen coat (apply6 *19)
+123. Kilt                 33 a thick woolen kilt (ac-4)
+
+ [return for more, q to stop]
+124. Necklace            110 a thin gold necklace (det_E/G infra)
+125. Crown               132 [38;5;214ma tin crown[0;37m
+126. Dagger              330 a tiny platinum dagger
+127. Mask                550 a translucent mask (cl2 det_inv/E/G mag *19) (cl2 det_evil/good/inv *19)
+128. Eyepatch             88 a transparent eyepatch (hr-1 det_mag)
+129. Axe                 275 a twin-bladed battle axe
+130. Cloak               352 a warlock's cloak (ac-4 flying antiG bls *19)
+131. Robe                 99 a white witch's robe
+132. Bracer              330 [38;5;153ma woodsman's bracer (apply4 *set*)[0;37m
+133. Cloak               330 [38;5;153ma woodsman's cloak (*set*)[0;37m
+134. Ring                198 a woodsman's ring (ss-1 nomage)
+135. Sash                 88 [38;5;153ma woodsman's sash (*set*)[0;37m
+136. Dagger              236 [38;5;183ma wretched barbed dagger[0;37m
+137. Dagger              302 [38;5;183ma wretched bloodletting dagger[0;37m
+138. Helmet              132 an Aurinite helmet and visor
+139. Cloak               352 an alchemist's cloak (ac-3 res_ac12 antiE *19)
+140. Blade               550 [38;5;214man ancient silver blade[0;37m
+141. Ring                550 an ancient solamnic ring
+142. Pike                 88 an awl pike (2d6 w15)
+143. Headdress           550 [38;5;171man elf bone-infused headdress (D5 SHAMAN HEAD) of destiny[0;37m
+144. Garb                132 [38;5;183man embroidered stygian garb (A5 THIEF ABOUT) of guile[0;37m
+145. Cloak               165 an an emerald green hunter's cloak (Hit7 AC-5 nomag/dru/cle/sham)
+146. Vest                132 an an emerald green leather vest (str1)
+147. Blade               165 an emerald hilted blade (2d6 1/1 w9 magic nomag/pal/dru/cle/scout/war/dk)
+148. Knife               418 [38;5;183man enchanted sharp knife[0;37m
+149. Armor               110 an etched suit of armor (apply5 nobarb/sham)
+150. Longbow            1100 [38;5;214man ironclaw longbow (w36 rdr2 rhr3 spr12 pwr15 acc12)[0;37m
+151. Necklace             82 an ivy necklace (wis det_evil *19)
+152. Bow                 132 an oaken strongbow
+153. Amulet              275 an an obsidian amulet (magic 250c)
+154. Shield              192 an opal shield (w25 glow/bless)
+155. Necklace            220 [38;5;183man ornate spider-shaped necklace (B3+ CASTER NECK)[0;37m
+156. Shield              253 [38;5;177man ornate white dragon heater (B5+ CASTER SHIELD)[0;37m
+157. Boots               165 boots of holiness (mv10 antiE)
+158. Boots               165 boots of unholiness
+159. Gloves              110 gloves of righteousness (hit2 antiE)
+160. Gloves              110 gloves of wretchedness
+161. Robes               220 some black robes
+162. Cuisses             286 [38;5;225msome charcoal cuisses of dread (B1+ DARKKNIGHT LEGS)[0;37m
+163. Armwraps            236 [38;5;183msome crested armwraps of Que-Shu (B3+ BARBARIAN ARMS)[0;37m
+164. Straps              110 some crossed leather straps, adorned with spikes (rescold10)
+
+ [return for more, q to stop]
+165. Bracers             352 [38;5;183msome decorated bracers of Que-Kiri[0;37m
+166. Robes               577 [38;5;177msome embroidered robes (D1 MAGE ABOUT) of High Sorcery[0;37m
+167. Sleeves             110 some midnight leather sleeves (hr1 bless/magic)
+168. Armor               330 some mithril armor (hit5 ac-10 war/pal/ran)
+169. Cuisses             286 [38;5;183msome ornate cuisses of the Crown (B3+ PALADIN LEGS)[0;37m
+170. Legwraps            220 [38;5;177msome rugged legwraps of Que-Shu (B5+ BARBARIAN LEGS)[0;37m
+171. Armor               220 some spiked gnomish armor (str1)
+172. Plates              110 some spiked leg plates
+173. Handguards          220 [38;5;225msome stately handguards of zealotry (B2+ CLERIC HANDS)[0;37m
+174. Legwraps            132 [38;5;225msome supple legwraps of malady (A3+ THIEF LEGS)[0;37m
+175. Staff               132 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+176. Sword               761 [38;5;214mthe sword of dancing (4d4 w17 *18)[0;37m
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:37 Exits:NESW> 
+Gerb arrives from the south.
+Jool arrives from the south.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:24 Exits:NESW> 
+A small grey rat arrives from the north.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:23 Exits:NESW> 
+Gerb leaves west.
+Jool leaves west.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:23 Exits:NESW> 
+Gerb arrives from the west.
+Jool arrives from the west.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:22 Exits:NESW> 
+Gerb leaves south.
+Jool leaves south.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:21 Exits:NESW> 
+Stella arrives from the west.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:12 Exits:NESW> 
+You are thirsty.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:60 Exits:NESW> drink all.water
+Sucking on the long tube, you take a deep gulp of the fresh water.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:47 Exits:NESW> list
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Plate                55 a Green Dragonarmy breastplate
+  3. Mask                154 a bandit's mask
+  4. Bracer               94 a barbed bracer
+  5. Spadroon            121 a beaded spadroon
+  6. Broadsword           99 a black broadsword
+  7. Raith               166 a black ice raith
+  8. Mask                 49 a black mask (sense_life)
+  9. Pearl               110 a black pearl
+ 10. Gown                 60 a black priest's gown
+ 11. Robe                 88 a black priest's robe (ac-3 Evil)
+ 12. Ring                330 a black runed ring (wis1 hit-3)
+ 13. Robe                110 a black silk robe of slinking (con-1 hide *19)
+ 14. Robe                132 [38;5;214ma black witch's robe (cl3 sneak antiG)[0;37m
+ 15. Staff               176 a black wooden staff (2d6 cl3 fly antiG w5 *19)
+ 16. Jewel               418 [38;5;177ma blessed sky blue jewel (C3+ MELEE HELD)[0;37m
+ 17. Sash                110 a blood red captain's sash (dex mag/bls *19)
+ 18. Sceptre             330 a blue and green nephaline sceptre
+ 19. Gown                 60 a blue priest's gown (ac-5)
+ 20. Brassiere           330 a blue steel brassiere
+ 21. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 22. Skull               132 a bronze dragon skull
+ 23. Cutlass             495 a captain's cutlass (3d4 hr2 dr w11 *19)
+ 24. Staff               143 [38;5;225ma carved battle staff[0;37m
+ 25. Spoon               110 a chef's spoon (1d19 w15)
+ 26. Cape                110 [38;5;225ma comfortable cape (A2 DRUID ABOUT) of the grove[0;37m
+ 27. Armour              319 a crystalline armour (res_cold antiE bls *19)
+ 28. Dagger              110 a crystalline dagger (3d4 dr w5 antiE *19)
+ 29. Morningstar         192 a crystalline morningstar
+ 30. Dagger              330 a dagger of death
+ 31. Cudgel              220 a dark cudgel
+ 32. Charm               236 [38;5;225ma decorated mummified goblin finger charm (B2+ CASTER NECK)[0;37m
+ 33. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 34. Plate               264 a desecrated Solamnic plate
+ 35. Tunic                88 a dusty black tunic
+ 36. Cleaver             110 a dwarven meat cleaver
+ 37. Scythe               13 a field scythe
+ 38. Gown                165 [38;5;183ma fine diaphanous gown (A4 SHAMAN ABOUT) of rot[0;37m
+ 39. Coat                198 a fine velvet pirate coat (INT cl2 *19)
+ 40. Bow                 495 [38;5;214ma finely crafted wooden bow[0;37m
+ 41. Quilt                99 a finely woven quilt (res_cold5 *19)
+
+ [return for more, q to stop]
+ 42. Vest                110 a fur-lined vest (res_cold12 det_inv mag *19)
+ 43. Sword               165 a giant two-handed sword (3d5 dr3 hr2 w27 nomag/thi/dru/cle/sham)
+ 44. Eye                  99 a glass eye
+ 45. Lance               440 [38;5;177ma glorious sharpened lance[0;37m
+ 46. Skirt                55 a glowing skirt of lichens (light)
+ 47. Ring                110 a gold and diamond wedding band (ac-2 regen1%)
+ 48. Dagger              110 a granite dagger (3d4 DR antiG bls w5 *19)
+ 49. Morningstar         192 a granite morningstar
+ 50. Ring                275 a green nephaline ring (regen3% *18)
+ 51. Cloak                88 a grey hooded cloak (health5)
+ 52. Brassard            462 [38;5;177ma grooved komodo tooth brassard (C3+ MELEE WRIST)[0;37m
+ 53. Maul                253 a hardened steel maul (3d4 str1 dr3 w18)
+ 54. Crossbow            374 [38;5;177ma heavy recurve crossbow[0;37m
+ 55. Wool                 60 a heavy wool cape (+1@1 ac-5 tanks *19)
+ 56. Rosary              522 [38;5;171ma holy opal inlaid rosary (D2+ MELEE HELD)[0;37m
+ 57. Symbol              110 a holy symbol of Chislev (nolore 100c *19)
+ 58. Poleaxe              82 a large pole axe (3d5 w15)
+ 59. Buckler             110 a leaf-decorated leather buckler
+ 60. Staff               198 a long oak staff
+ 61. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 62. Hood                396 [38;5;177ma lush green hood (C4 SCOUT HEAD) of mastery[0;37m
+ 63. Sash                550 [38;5;171ma macabre albino skin sash of omens (D5+ SHAMAN WAIST)[0;37m
+ 64. Shield               55 a manor guard's shield (w25 *19)
+ 65. Hide                132 [38;5;225ma marauder's deer hide (A3 BARBARIAN BODY) of mania[0;37m
+ 66. Medallion            93 a medallion of the earth (Bless *19)
+ 67. Fork                 99 a military fork (4d3 dr1 hr2 w18)
+ 68. Necklace            165 a necklace of carved ivory (hit4)
+ 69. Necklace             55 a necklace of dirty gnome-teeth
+ 70. Necklace            176 a necklace of nephaline fragments (sv_pois-1 det_mag)
+ 71. Gloves              247 [38;5;214ma pair of black archer's gloves[0;37m
+ 72. Boots                66 a pair of black satin boots (age8 mv12 cl2 *18)
+ 73. Sleeves              77 a pair of black silk sleeves
+ 74. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 75. Boots               242 a pair of blue suede boots
+ 76. Sandals             110 a pair of cord sandals (move10)
+ 77. Gauntlets           137 a pair of enchanted elven battle gauntlets(dr2 Scout*19)
+ 78. Gloves               27 a pair of leather combat gloves (HR *19)
+ 79. Pants                33 a pair of purple silk pants (move4)
+ 80. Gloves              110 a pair of rough, fingerless gloves (hr1 pick-7)
+ 81. Boots               330 a pair of shadow boots (ac-4 sneak10)
+ 82. Boots               264 a pair of silver dragon scale boots (save_breath-2 move15)
+
+ [return for more, q to stop]
+ 83. Boots               275 a pair of silver threaded boots
+ 84. Greaves             176 a pair of smuggler's greaves
+ 85. Boots                66 a pair of soft black boots
+ 86. Armbands            132 a pair of spectacular hematite armbands (str1 int-2 )
+ 87. Boots               220 a pair of turquoise-trimmed, buckskin boots (kick2 *18)
+ 88. Armbands            154 a pair of white feathered armbands (wis1 notank)
+ 89. Boots               330 [38;5;153ma pair of woodsman's boots (apply6 *set*)[0;37m
+ 90. Gloves              330 [38;5;153ma pair of woodsman's gloves (apply *set*)[0;37m
+ 91. Hatchet             165 a plainsman's war hatchet (2d6 1/1 w8 *19)
+ 92. Gorget              176 a platinum gilt gorget (apply5 *19)
+ 93. Plate               220 a polished steel plate
+ 94. Eye                 104 a preserved eye of a revenant (det_mag/dead)
+ 95. Gown                330 a pretty pink satin gown (nocharm)
+ 96. Cloak                77 a purple chiffon cloak (1st+1 cleric only)
+ 97. Armor                88 a ragged suit of leather armor (hit3 ac-4 cl2)
+ 98. Stiletto             55 a red thorn stiletto (2d7 DR env4 w12 no_offy *19)
+ 99. Ringlet             236 [38;5;225ma rough acid etched black jade ringlet (B2+ DRUID FINGER)[0;37m
+100. Shield              192 a ruby shield (w25 glow/bless)
+101. Pike                 66 a rusty iron pike
+102. Shield              192 a sapphire shield (w25 bless/glow)
+103. Band                110 a scorched black scaled band
+104. Rerebrace           132 a set of black rerebrace (hit7 *18)
+105. Boots               110 a set of thick green leather boots (sneak5 ac-5)
+106. Hood                330 a a shadow hood (sense_life/infra nomag/pal/dru/cle/scout/war/barb/sham)
+107. Knife                82 a sharp filleting knife (3d3 2/2 w6 *19)
+108. Dagger               55 a sharp silver dagger (3d4 hr2 backstab5 w5)
+109. Shirt                60 a shirt of blue splint mail (reselec5)
+110. Shirt                60 a shirt of white ringmail (rescold5)
+111. Mace                220 [38;5;214ma silver mace with a rosewood handle[0;37m
+112. Club                825 a silver shod oaken club
+113. Spear               242 [38;5;214ma silver spear[0;37m
+114. Blade               132 [38;5;214ma slender draconian blade[0;37m
+115. Ring                 55 a small ruby ring (+2@2 AntiG NORENT *19)
+116. Hauberk             165 [38;5;225ma soldier's hauberk (A2 WARRIOR BODY) of resolve[0;37m
+117. Brassiere           220 a spiked leather brassiere (DR hit5 Girl_Only *19)
+118. Robe                 82 a a stained brown robe (save_pois -1 cl1 Magic)
+119. Cutlass             385 [38;5;214ma steel cutlass[0;37m
+120. Armor               275 a suit of battle armor
+121. Suit                 66 a suit of finely crafted chainmail
+122. Armor               110 a suit of padded red leather armor (hr1)
+123. Cloak               110 a super secret kender magic cloak
+
+ [return for more, q to stop]
+124. Staff                82 a tamarack staff (3d4 hr1 +1@2 cl@ AntiG w4 *19)
+125. Cloak               236 [38;5;225ma tattered cloak (B1 CLERIC ABOUT) of piety[0;37m
+126. Bracelet            107 a thick dwarven bracelet (HR *19)
+127. Belt                 27 a thick leather belt (ac-4)
+128. Coat                 33 a thick woolen coat (apply6 *19)
+129. Kilt                 33 a thick woolen kilt (ac-4)
+130. Necklace            110 a thin gold necklace (det_E/G infra)
+131. Crown               132 [38;5;214ma tin crown[0;37m
+132. Dagger              330 a tiny platinum dagger
+133. Mask                550 a translucent mask (cl2 det_inv/E/G mag *19) (cl2 det_evil/good/inv *19)
+134. Eyepatch             88 a transparent eyepatch (hr-1 det_mag)
+135. Axe                 275 a twin-bladed battle axe
+136. Cloak               352 a warlock's cloak (ac-4 flying antiG bls *19)
+137. Robe                 99 a white witch's robe
+138. Bracer              330 [38;5;153ma woodsman's bracer (apply4 *set*)[0;37m
+139. Cloak               330 [38;5;153ma woodsman's cloak (*set*)[0;37m
+140. Ring                198 a woodsman's ring (ss-1 nomage)
+141. Sash                 88 [38;5;153ma woodsman's sash (*set*)[0;37m
+142. Dagger              236 [38;5;183ma wretched barbed dagger[0;37m
+143. Dagger              302 [38;5;183ma wretched bloodletting dagger[0;37m
+144. Helmet              132 an Aurinite helmet and visor
+145. Cloak               352 an alchemist's cloak (ac-3 res_ac12 antiE *19)
+146. Blade               550 [38;5;214man ancient silver blade[0;37m
+147. Ring                550 an ancient solamnic ring
+148. Pike                 88 an awl pike (2d6 w15)
+149. Headdress           550 [38;5;171man elf bone-infused headdress (D5 SHAMAN HEAD) of destiny[0;37m
+150. Garb                132 [38;5;183man embroidered stygian garb (A5 THIEF ABOUT) of guile[0;37m
+151. Cloak               165 an an emerald green hunter's cloak (Hit7 AC-5 nomag/dru/cle/sham)
+152. Vest                132 an an emerald green leather vest (str1)
+153. Blade               165 an emerald hilted blade (2d6 1/1 w9 magic nomag/pal/dru/cle/scout/war/dk)
+154. Knife               418 [38;5;183man enchanted sharp knife[0;37m
+155. Armor               110 an etched suit of armor (apply5 nobarb/sham)
+156. Longbow            1100 [38;5;214man ironclaw longbow (w36 rdr2 rhr3 spr12 pwr15 acc12)[0;37m
+157. Necklace             82 an ivy necklace (wis det_evil *19)
+158. Bow                 132 an oaken strongbow
+159. Amulet              275 an an obsidian amulet (magic 250c)
+160. Shield              192 an opal shield (w25 glow/bless)
+161. Necklace            220 [38;5;183man ornate spider-shaped necklace (B3+ CASTER NECK)[0;37m
+162. Shield              253 [38;5;177man ornate white dragon heater (B5+ CASTER SHIELD)[0;37m
+163. Boots               165 boots of holiness (mv10 antiE)
+164. Boots               165 boots of unholiness
+
+ [return for more, q to stop]
+165. Gloves              110 gloves of righteousness (hit2 antiE)
+166. Gloves              110 gloves of wretchedness
+167. Robes               220 some black robes
+168. Cuisses             286 [38;5;225msome charcoal cuisses of dread (B1+ DARKKNIGHT LEGS)[0;37m
+169. Armwraps            236 [38;5;183msome crested armwraps of Que-Shu (B3+ BARBARIAN ARMS)[0;37m
+170. Straps              110 some crossed leather straps, adorned with spikes (rescold10)
+171. Bracers             352 [38;5;183msome decorated bracers of Que-Kiri[0;37m
+172. Robes               577 [38;5;177msome embroidered robes (D1 MAGE ABOUT) of High Sorcery[0;37m
+173. Greaves              55 some leather greaves (ac-5 regen5%)
+174. Sleeves             110 some midnight leather sleeves (hr1 bless/magic)
+175. Armor               330 some mithril armor (hit5 ac-10 war/pal/ran)
+176. Cuisses             286 [38;5;183msome ornate cuisses of the Crown (B3+ PALADIN LEGS)[0;37m
+177. Legwraps            220 [38;5;177msome rugged legwraps of Que-Shu (B5+ BARBARIAN LEGS)[0;37m
+178. Armor               220 some spiked gnomish armor (str1)
+179. Handguards          220 [38;5;225msome stately handguards of zealotry (B2+ CLERIC HANDS)[0;37m
+180. Legwraps            132 [38;5;225msome supple legwraps of malady (A3+ THIEF LEGS)[0;37m
+181. Boots                55 some thick metal boots (apply6)
+182. Gauntlets            55 some thick metal gauntlets
+183. Staff               132 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+184. Sword               761 [38;5;214mthe sword of dancing (4d4 w17 *18)[0;37m
+A small grey rat leaves north.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:36 Exits:NESW> 
+A Tarsian mercenary arrives from the east.
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:34 Exits:NESW> list ring
+  9. Pearl               110 a black pearl
+ 12. Ring                330 a black runed ring (wis1 hit-3)
+ 47. Ring                110 a gold and diamond wedding band (ac-2 regen1%)
+ 50. Ring                275 a green nephaline ring (regen3% *18)
+ 99. Ringlet             236 [38;5;225ma rough acid etched black jade ringlet (B2+ DRUID FINGER)[0;37m
+110. Shirt                60 a shirt of white ringmail (rescold5)
+115. Ring                 55 a small ruby ring (+2@2 AntiG NORENT *19)
+140. Ring                198 a woodsman's ring (ss-1 nomage)
+147. Ring                550 an ancient solamnic ring
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:34 Exits:NESW> in
+You are carrying:
+a piece of sweet bread [61]
+a glowing scroll of recall..it glows dimly [2]
+a bright ball of light..it glows dimly [3]
+a camel pack
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+a wand of invisibility
+a wrist lantern [3]
+
+[32m[0;37m[32m427H [0;37m[32m132V [0;37m8792128X 75.66% 6681C [0;37mT:25 Exits:NESW> s
+[36mWestern Way[0;37m
+    The bustle of horsecarts, merchants and townspeople moving along this
+wide street marks it as a main arterial to the business areas of Tarsis.
+The great fountain in the central square splashes noisly to the east, while
+from the north come the sounds of tradesmen hawking their wares.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m427H [0;37m[32m131V [0;37m8792128X 75.66% 6681C [0;37mT:24 Exits:NEW> e
+[36mNew Tarsis Square[0;37m
+    Here stands the great Fountain of Tarsis, sole remaining artifact of
+the original city. The new pavement has been carefully matched to the few
+pieces of old that surround the fountain. The sounds and smells of city
+life waft in from all directions.
+[33m[1mThe great fountain of old Tarsis stands here.
+[0;37m[31m[1mA Tarsian peasant whistles happily on his way to work. (white aura)
+A tattooed plainsman rests near his wagon, selling special keepsakes.
+[0;37m
+[32m[0;37m[32m427H [0;37m[32m130V [0;37m8792128X 75.66% 6681C [0;37mT:23 Exits:NESW> e
+[36mEastern Avenue[0;37m
+    Eastern Avenue is newly finished, with fresh stone pavers lining the
+wide, straight way. From the west come the unmistakable sounds of water
+burbling and splashing, and the shouts of commerce.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m427H [0;37m[32m129V [0;37m8792128X 75.66% 6681C [0;37mT:23 Exits:EW> e
+[36mEastern Avenue[0;37m
+    Dwarven craftsmen took pride in the work it took to lay these paving
+stones. The road is wide and smooth with barely a joint or a seam to be
+seen. The street is wide enough for two wagons to pass side by side. A
+friendly tavern lies to the south, and the road runs east and west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m427H [0;37m[32m128V [0;37m8792128X 75.66% 6681C [0;37mT:22 Exits:ESW> s
+[36mThe Drunken Dwarf[0;37m
+    A warm, smoky place, the Drunken Dwarf is a favorite hangout for
+townies and militia alike. Heavy, utilitarian wooden tables and benches
+fill most of the room. Overhead are the exposed beams of a high ceiling.
+Sawdust covers the floor to help absorb frequent beer spills. At the back
+of the room is a long bar with a menu hanging behind. To the south is a
+small, closed door with a sign affixed to it.
+[33m[1mA large bulletin board is mounted on a wall here.
+[0;37m[31m[1mDuck Myllard dries his hands on his clean, white apron and awaits your order.
+[0;37m
+[32m[0;37m[32m427H [0;37m[32m127V [0;37m8792128X 75.66% 6681C [0;37mT:21 Exits:NS> s
+[36mThe Crossed Arms[0;37m
+    The low ceiling holds the smoke and noise close to the floor in this
+busy inn. A dozen long tables stand scattered about the room and a narrow
+stair in the back leads to the upper floor. Along the south wall, a
+fieldstone hearth holds a rotating spit. Several groups of adventurers are
+clustered about the various tables, each eying the others suspiciously and
+planning their campaigns in muted tones.
+[33m[1m[0;37m[31m[1mA drunken local sits at one of the tables staring into a tankard of ale.
+[0;37m
+[32m[0;37m[32m427H [0;37m[32m126V [0;37m8792128X 75.66% 6681C [0;37mT:21 Exits:NEU> u
+[36mReception[0;37m
+    At the top of the stairs from the inn's lobby is a small room serving
+as a room registry. Belle sits behind a pine counter, quietly reading,
+until a customer arrives. Behind her is a long rack of wooden cubbyholes
+and hooks holding room keys. Long halls with many closed doors stretch to
+either side. It's quiet and well-kept here, conducive to a good night's
+sleep.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+[0;37m[31m[1mThe fez atop this well muscled bouncer's head marks him a fierce adversary.
+Belle Hamson looks up from her book and beams at your approach.
+[0;37m
+[32m[0;37m[32m427H [0;37m[32m125V [0;37m8792128X 75.66% 6681C [0;37mT:20 Exits:D> rent
+[33m[1m      a braided lock of werewolf hair (4th +1 cleric only *19*) : 28 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring (B4+ CLERIC FINGER) : 150 coins/day
+[0;37m[33m[1m           a necklace of silver chain : 14 coins/day
+[0;37m[33m[1m                a black and gold cape : 280 coins/day
+[0;37m[33m[1m      a devotee's chasuble (D2 CLERIC BODY) of worship : 360 coins/day
+[0;37m[33m[1m a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism : 420 coins/day
+[0;37m[33m[1m      a pair of ancient silk leggings : 180 coins/day
+[0;37m[33m[1m some sparkling slippers of atonement (A2+ CLERIC FEET) : 60 coins/day
+[0;37m[33m[1m      some stately gloves of devotion (A2+ CLERIC HANDS) : 70 coins/day
+[0;37m[33m[1ma luxurious silvery drape (C4 CLERIC ABOUT) of sanctity : 210 coins/day
+[0;37m[33m[1m      a village elder's belt (A3 CLERIC WAIST) of faith : 90 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 10 coins/day
+[0;37m[33m[1m            a deadly scorpion stinger : 1 coin/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[33m[1m        a neatly folded parchment fan : 2 coins/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 1 coin/day
+[0;37m[33m[1m                       a glass sliver : 1 coin/day
+[0;37m[33m[1m             a short stick of incense : 1 coin/day
+[0;37m[33m[1ma torn page from an ancient calendar [2] : 6 coins/day
+[0;37m[33m[1m            a tiny bronze weathervane : 3 coins/day
+[0;37m[33m[1m           an intricately carved horn : 3 coins/day
+[0;37m[33m[1m                    some cat whiskers : 3 coins/day
+[0;37m[33m[1m                    some spruce seeds : 1 coin/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 4 coins/day
+[0;37m[33m[1m                       a pineal gland : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 4 coins/day
+[0;37m[33m[1m                     a scabbed potato : 1 coin/day
+[0;37m[33m[1m               a scratched glass lens : 1 coin/day
+[0;37m[33m[1m                     a short iron bar : 2 coins/day
+[0;37m[33m[1m             a small block of granite : 2 coins/day
+[0;37m[33m[1m             a small flask of bitumen : 3 coins/day
+[0;37m[33m[1m               a small flask of smoke : 3 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 3 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 1 coin/day
+[0;37m[33m[1m                a flattened lead disc : 3 coins/day
+[0;37m[33m[1m                        a forked twig : 1 coin/day
+[0;37m[33m[1m                       a garlic clove : 1 coin/day
+[0;37m[33m[1m                a glass lightning jar : 1 coin/day
+[0;37m[33m[1m                a gleaming silver die : 2 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 2 coins/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 1 coin/day
+
+ [return for more, q to stop]
+[0;37m[33m[1m              a jar of dark red blood : 5 coins/day
+[0;37m[33m[1m      a leather pouch of vampire dust : 2 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 1 coin/day
+[0;37m[33m[1m                  a magnetized needle : 2 coins/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 4 coins/day
+[0;37m[33m[1m           a piece of royal honeycomb : 1 coin/day
+[0;37m[33m[1m            a pinch of chameleon dust : 1 coin/day
+[0;37m[33m[1m                   a bag of fluff [2] : 6 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 2 coins/day
+[0;37m[33m[1m                    a bottled firefly : 1 coin/day
+[0;37m[33m[1m                a brilliant blue bead : 2 coins/day
+[0;37m[33m[1m                 a chipped stone dart : 1 coin/day
+[0;37m[33m[1m              a chiseled granite fist : 3 coins/day
+[0;37m[33m[1m                a clump of damp mulch : 2 coins/day
+[0;37m[33m[1m            a deep violet dragon tear : 2 coins/day
+[0;37m[33m[1m                a deformed crow's leg : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[33m[1m        a few glittering snake scales : 2 coins/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[33m[1m   a few strands of sticky spider web : 1 coin/day
+[0;37m[33m[1m        a crystal ruby studded bracer (C3+ CASTER WRIST) : 270 coins/day
+[0;37m[33m[1m             an enormous charred maul : 170 coins/day
+[0;37m[33m          a piece of sweet bread [61] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [3] : 45 coins/day
+[0;37m[33m           a bright ball of light [3] : 0 coins/day
+[0;37m[33m                         a camel pack : 20 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[32m         a powerfully blessed bandage : 1 coin/day
+[0;37m[32m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 4 coins/day
+[0;37m[32m               a vial of spinal fluid : 3 coins/day
+[0;37m[32m                    a vial of vinegar : 2 coins/day
+[0;37m[32m                 powdered bull's horn : 2 coins/day
+[0;37m[32m               some leaves of hemlock : 2 coins/day
+[0;37m[32m                      some poison ivy : 2 coins/day
+[0;37m[33m               a wand of invisibility : 200 coins/day
+[0;37m[33m                  a wrist lantern [3] : 15 coins/day
+[0;37mBelle Hamson tells you 'You need at least 2718 coins to rent.'
+Belle Hamson tells you 'You will be able to rent for 56 days.'
+Belle Hamson stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 0
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

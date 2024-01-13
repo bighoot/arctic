@@ -1,0 +1,20 @@
+Potions & Such
+Lytburg
+ Object 'potion reddish brown'
+ Item Type: POTION
+ Mat Class: crystal      Material: glass
+ Weight   : 2            Value   : 80
+ Level 15 : fly
+
+ Object 'potion sparkling purple'
+ Item Type: POTION
+ Mat Class: crystal      Material: glass
+ Weight   : 3            Value   : 60
+ Level 20 : invisibility
+
+ Object 'potion green thick'
+ Item Type: POTION
+ Mat Class: crystal      Material: glass
+ Weight   : 3            Value   : 90
+ Level 20 : refresh
+

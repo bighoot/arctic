@@ -1,0 +1,234 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? lefty
+Password: 
+
+
+You were last connected Mon Jan 02 23:06:37 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 40 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A brewed potion lies discarded here. [2]
+[0;37m[31m[1mCloric the Male Hill Dwarf is standing here.
+Katapult the Male Kagonesti is standing here.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m346H [0;37m[32m129V [0;37m1590308X 42.40% 5618C [0;37mT:42 Exits:D> d
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m346H [0;37m[32m128V [0;37m1590308X 42.40% 5618C [0;37mT:25 Exits:NWU> n
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mThe meat of Rae'Nil lies here.
+The meat of a customs official lies here.
+The meat of the bony mage lies here.
+[0;37m[31m[1m<DnD> Fordebuuks the Female Kagonesti is standing here. (flying) (invisible) (black aura)
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5618C [0;37mT:24 Exits:NESW> list sash
+ 14. Sash                110 a blood red captain's sash
+164. Sash                253 [38;5;225ma tiger tooth sash of lunacy[0;37m
+180. Sash                302 [38;5;183ma yeti skin sash of accuracy[0;37m
+
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5618C [0;37mT:22 Exits:NESW> buy yeti.sash
+[36mA wandering merchant tells you 'That'll cost you 302 coins.  Thank you.'
+[0;37mYou now have a yeti skin sash of accuracy.
+
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5316C [0;37mT:17 Exits:NESW> wear sash
+You wear a yeti skin sash of accuracy about your waist.
+
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5316C [0;37mT:15 Exits:NESW> eq
+You are using:
+<worn on head>             [38;5;117ma brass dragonscale helm[0;37m
+<worn on legs>             [38;5;225msome armaboro hide breeches of stalking[0;37m
+<worn on arms>             [38;5;171msome komodo skin vambraces of camouflage[0;37m
+<worn about waist>         [38;5;183ma yeti skin sash of accuracy[0;37m
+<used in primary hand>     [38;5;214ma sticky spider silk whip[0;37m
+<used in secondary hand>   [38;5;177ma magnificent thin rapier[0;37m
+
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5316C [0;37mT:13 Exits:NESW> 
+Fordebuuks buys the amulet of elder fires.
+
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5316C [0;37mT:13 Exits:NESW> sc
+You are Lefty the Male Minotaur, a level 20 Scout.
+You are rank 1. You have completed 42.40% of your next rank.
+You are 17 years old.
+You have 346(346) hit and 127(131) movement points.
+Your behaviour has been Neutral.
+You are traversing the path of the Ocean.
+You have scored 7,009,692 exp, and have 5316(0) steel coins.
+You need 1,590,308 more experience to advance.
+You have died 2 horrible deaths.
+You have been connected for 0 minute(s).
+You have been playing for 0 day(s), 9 hour(s) and 11 minute(s).
+Your natural ability scores are:
+        Str: 25 Int: 14 Wis: 14 Dex: 14 Con: 17 Cha: 14
+You are currently not hunting.
+Your equipment is currently not being concealed.
+You barely feel the weight of your items.
+You are standing.
+Available Instincts:
+    eel: zap
+    shrimp: plenty
+    jellyfish: sting
+    starfish: surge
+
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5316C [0;37mT:12 Exits:NESW> 
+Fordebuuks wears the amulet of elder fires around her neck.
+
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5316C [0;37mT:10 Exits:NESW> 
+[36mYantarev shouts 'looking for heals/regens to help with 1 fight for paladine quest'
+[0;37m
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5316C [0;37mT:10 Exits:NESW> ski
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (awful)             bludgeons     (awful)           
+     long blades   (average)           miscellaneous (poor)            
+     piercers      (awful)             short blades  (awful)           
+
+     bandage       (below average)     hide          (poor)            
+     shoot         (awful)           
+     instinct      (fair)          **
+     hunt          (awful)             sneak         (awful)           
+     target        (awful)           
+     camp          (awful)             fence         (bad)             
+     scout         (awful)           
+     fade          (awful)             rescue        (awful)           
+     evade         (awful)             riposte       (awful)           
+
+[32m[0;37m[32m346H [0;37m[32m127V [0;37m1590308X 42.40% 5316C [0;37mT:4 Exits:NESW> s
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m346H [0;37m[32m126V [0;37m1590308X 42.40% 5316C [0;37mT:1 Exits:NWU> u
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A brewed potion lies discarded here. [2]
+[0;37m[31m[1mCloric the Male Hill Dwarf is standing here.
+Katapult the Male Kagonesti is standing here.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m346H [0;37m[32m130V [0;37m1590308X 42.40% 5316C [0;37mT:60 Exits:D> offer
+[33m[1m             a brass dragonscale helm : 300 coins/day
+[0;37m[33m[1msome armaboro hide breeches of stalking : 150 coins/day
+[0;37m[33m[1msome komodo skin vambraces of camouflage : 300 coins/day
+[0;37m[33m[1m         a yeti skin sash of accuracy : 140 coins/day
+[0;37m[33m[1m            a sticky spider silk whip : 30 coins/day
+[0;37m[33m[1m            a magnificent thin rapier : 420 coins/day
+[0;37m[33m            a creamy potion of flight : 50 coins/day
+[0;37m[33m           a glowing scroll of recall : 15 coins/day
+[0;37m[33m                  a wrist lantern [4] : 20 coins/day
+[0;37m[33m             an enormous charred maul : 170 coins/day
+[0;37mEd tells you 'You need at least 1595 coins to rent.'
+Ed tells you 'You will be able to rent for 9 days.'
+
+[32m[0;37m[32m346H [0;37m[32m130V [0;37m1590308X 42.40% 5316C [0;37mT:59 Exits:D> rent
+[33m[1m             a brass dragonscale helm : 300 coins/day
+[0;37m[33m[1msome armaboro hide breeches of stalking : 150 coins/day
+[0;37m[33m[1msome komodo skin vambraces of camouflage : 300 coins/day
+[0;37m[33m[1m         a yeti skin sash of accuracy : 140 coins/day
+[0;37m[33m[1m            a sticky spider silk whip : 30 coins/day
+[0;37m[33m[1m            a magnificent thin rapier : 420 coins/day
+[0;37m[33m            a creamy potion of flight : 50 coins/day
+[0;37m[33m           a glowing scroll of recall : 15 coins/day
+[0;37m[33m                  a wrist lantern [4] : 20 coins/day
+[0;37m[33m             an enormous charred maul : 170 coins/day
+[0;37mEd tells you 'You need at least 1595 coins to rent.'
+Ed tells you 'You will be able to rent for 9 days.'
+Ed stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 0
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

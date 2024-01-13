@@ -1,0 +1,1672 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Fri Jan 13 00:40:51 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 107 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA jar containing a dark red liquid sits unattended...it emits an arcane glow..it glows dimly
+Murky grey smoke billows about in a small flask left forgotten on the ground.
+A piece of greenish colored, oily skin lies on the ground.
+A pile of slimy green gel rests here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:3 T:58 Exits:D> 
+Tika Waylan arrives from below.
+
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:3 T:58 Exits:D> get charm
+You don't see what you are looking for here.
+
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:3 T:52 Exits:D> sc
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 13. You have completed 0% of your next rank.
+You are 19 years old.
+You have 423(441) hit and 94(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 3022(11472) steel coins.
+You have 2 rank points to spend.
+You have died 1 horrible death.
+You have been connected for 0 minute(s).
+You have been playing for 4 day(s), 7 hour(s) and 31 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are standing.
+You are affected by the following:
+    invisibility
+
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:3 T:49 Exits:D> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:1 T:47 Exits:D> sc
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 13. You have completed 0% of your next rank.
+You are 19 years old.
+You have 423(441) hit and 94(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 3022(11472) steel coins.
+You have 2 rank points to spend.
+You have died 1 horrible death.
+You have been connected for 0 minute(s).
+You have been playing for 4 day(s), 7 hour(s) and 31 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are resting.
+You are affected by the following:
+    invisibility
+
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:1 T:45 Exits:D> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Dolan stares at the receptionist but quickly looks away when she looks up.
+
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:1 T:40 Exits:D> 
+[37mYour clanmate Sprink has entered the game.
+[0;37m
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:1 T:38 Exits:D> 
+[36mSomeone tells your clan 'in recept'
+[0;37m
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:1 T:30 Exits:D> 
+[36mSomeone tells your clan 'i have my robes'
+[0;37m
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:1 T:22 Exits:D> 
+[36mClara tells your clan 'you need 3 robes'
+[0;37m
+[32m[0;37m[32m423H [0;37m[33m[1m94V [0;37m1X 0.00% 3022C [0;37mMem:1 T:18 Exits:D> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:60 Exits:D> 
+Tika Waylan leaves down.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:40 Exits:D> 
+[36mSprink tells your clan 'cleric summon, anyone?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:26 Exits:D> 
+The receptionist pulls out a broom and sweeps the floor of the inn.
+Dolan, the guard, looks you over trying to determine if you will be
+trouble.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:60 Exits:D> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:53 Exits:D> [0;37ml[0m
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA jar containing a dark red liquid sits unattended...it emits an arcane glow..it glows dimly
+Murky grey smoke billows about in a small flask left forgotten on the ground.
+A piece of greenish colored, oily skin lies on the ground.
+A pile of slimy green gel rests here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:53 Exits:D> [0;37md[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:51 Exits:D> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:49 Exits:D> [0;37md[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 0.00% 3022C [0;37mT:49 Exits:SWUD> [0;37md[0m
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+A medium sized horse is here, awaiting a rider.
+A medium sized horse is here, awaiting a rider.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:48 Exits:NEU> [0;37me[0m
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.00% 3022C [0;37mT:48 Exits:NSWU> [0;37ms[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mDandrea, Noble Lady of Palanthas is standing here. (white aura)
+<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [0;37mT:48 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in a heavily charred blacksmith's hammer!
+A bright ball of light can't be refilled.
+You can't put liquids in a brewed potion of aid!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [0;37mT:48 Exits:NESWU> [0;37mwatch sprink[0m
+You now watch Sprink.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:40 Exits:NESWU> [0;37mb hide[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [0;37mT:38 Exits:NESWU> 
+Dandrea leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [0;37mT:31 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [0;37mT:30 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [0;37mT:24 Exits:NESWU> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [0;37mT:18 Exits:NESWU> [0;37min[0m
+You are carrying:
+a bright ball of light..it glows dimly
+a brewed potion of aid..it emits an arcane glow
+[38;5;177man enormous scorched maul[0;37m..it emits an arcane glow
+a piece of sweet bread..it emits an arcane glow [2]
+a glowing scroll of recall..it emits an arcane glow..it glows dimly [6]
+a pinch of powdered malachite
+a small wooden chest
+a sprig of pine
+a waterskin [4]
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [0;37mT:14 Exits:NESWU> 
+A Solace peacekeeper leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 3022C [0;37mT:12 Exits:NESWU> [0;37ms[0m
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 0.00% 3022C [0;37mT:7 Exits:NS> [0;37mn[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m126V [0;37m1X 0.00% 3022C [0;37mT:5 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in a heavily charred blacksmith's hammer!
+A bright ball of light can't be refilled.
+You can't put liquids in a brewed potion of aid!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m126V [0;37m1X 0.00% 3022C [0;37mT:5 Exits:NESWU> [0;37mclan who[0m
+[0;37m[36mClan Members
+------------
+[36m[1m Clara            [ Chieftain ] (Fri Jan 13) Level 29R4 G Rank 41 Paladin (L)
+[36m[1m Yim              [     Elder ] (Fri Jan 13) Level 30R4 G Rank 36 Shaman (L)
+[36m[1m Yimbo            [     Elder ] (Fri Jan 13) Level 30R4 G Rank 36 Warrior (L)
+[36m[1m Hel              [  Clansman ] (Fri Jan 13) Level 30R4 E Rank 39 Shaman (L)
+[36m[1m Fizl             [  Clansman ] (Fri Jan 13) Level 30R3 N Rank 33 Red Robe (L)
+[36m[1m Maui             [  Clansman ] (Fri Jan 13) Level 30   E Rank 13 Cleric
+[36m[1m Dimian           [  Neophyte ] (Fri Jan 13) Level 30R2 G Rank 25 Warrior (L)
+[36m[1m Skar             [  Neophyte ] (Fri Jan 13) Level 30R2 G Rank 24 Sky Scout
+[1m[32m
+Total clan members online: 8    Total clan members: 96
+
+[32m[0;37m[32m441H [0;37m[32m126V [0;37m1X 0.00% 3022C [0;37mT:2 Exits:NESWU> [0;37mski[0m
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (superb)            miscellaneous (bad)             
+
+     turn          (very poor)       
+     bandage       (excellent)       
+     divinity      (very good)         meditate      (superb)          
+     brew          (very poor)         scribe        (poor)            
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:52 Exits:NESWU> [0;37mrank[0m
+You are rank 13. You have 2 Rank Points to spend.
+
+Your current rank affects:
+
+1  Sea & Air              WATERBREATH CAN_FLY           
+2  Afterglow              NIGHTVISION                   
+3  Weight Lifter          STR by 1                      
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:48 Exits:NESWU> [0;37meq[0m
+You are using:
+<worn on finger>           [38;5;177ma bishop's moonstone engraved seal[0;37m
+<worn on finger>           [38;5;183ma priestly amethyst encrusted ring[0;37m
+<worn around neck>         [38;5;177ma celestial spiderweb collar[0;37m
+<worn around neck>         a black and gold cape..it emits a sinister, arcane glow
+<worn on body>             [38;5;171ma devotee's chasuble of worship[0;37m
+<worn on head>             [38;5;171ma flawless onyx diadem of fanaticism[0;37m
+<worn on legs>             [38;5;171msome inscribed leggings of worship[0;37m
+<worn on hands>            [38;5;214ma pair of dwarven mason's gloves[0;37m..it emits an arcane glow
+<worn on arms>             [38;5;177msome sacred armwraps of sacrifice[0;37m
+<worn about waist>         an iron dwarven girdle..it emits an arcane glow
+<worn as pouch>            a pouch of goose feathers..it emits an arcane glow
+<worn around left wrist>   [38;5;225ma fiery red austere bracer[0;37m
+<used in primary hand>     [38;5;214ma heavily charred blacksmith's hammer[0;37m..it emits an arcane glow..it hums softly
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:44 Exits:NESWU> [0;37ms[0m
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 0.00% 3022C [0;37mT:38 Exits:NS> [0;37ms[0m
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:38 Exits:NES> 
+A Solace peacekeeper leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:36 Exits:NES> [0;37mlist shield[0m
+  8. Black               275 [38;5;214ma blackened leather shield[0;37m
+  9. Shield              418 [38;5;171ma blood-stained spiked pavaise[0;37m
+ 23. Shield              192 a crystalline shield
+ 25. Shield               99 a dark black shield
+ 27. Shield              110 a dark shield
+ 48. Shield              440 [38;5;177ma grandiose silver dragon buckler[0;37m
+121. Shield              440 a shield of Tirabot
+125. Shield              330 a shining silver shield
+178. Shield              110 [38;5;225man old blue buckler[0;37m
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:36 Exits:NES> [0;37mbrowse shield[0m
+You browse through the merchandise and notice:
+The black appears rough and in perfect condition. (99%)
+A blackened leather shield is of good quality.
+You feel informed:
+ Object 'black leather shield'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 10           Value   : 250
+
+ Affects  : INT           by 1
+ Affects  : CHA           by 1
+ Item is  : HUM MAGIC ANTI_GOOD ANTI_EVIL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NOWHITE_ROBE
+ Immune   : IMMUNE_MAGIC
+ Apply    : 5
+A blackened leather shield is wearable: shield.
+
+The shield's metallic surface is shiny and new. (99%)
+A blood-stained spiked pavaise is of very good quality.
+You feel informed:
+ Object 'shield blood stained spiked pavaise'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 39           Value   : 380
+
+ Affects  : HEALTH        by 8
+ Affects  : RESIST_BREATH by 13
+ Restricts: --> TANK ONLY <--
+ Apply    : 4
+A blood-stained spiked pavaise is wearable: shield.
+
+The shield is quite beautiful and pristine. (99%)
+A crystalline shield is of good quality.
+A crystalline shield is wearable: shield.
+
+The shield's metallic surface is bright and shiny. (99%)
+A dark black shield is of good quality.
+A dark black shield is wearable: shield.
+
+The shield's metallic surface is shiny and new. (99%)
+
+ [return for more, q to stop][0;37m[0m
+A dark shield is of fair quality.
+A dark shield is wearable: shield.
+
+The shield's metallic surface is shiny and new. (100%)
+A grandiose silver dragon buckler is of very good quality.
+You feel informed:
+ Object 'shield grandiose silver dragon buckler'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 16           Value   : 400
+
+ Affects  : spell slots   by +1 at level 3
+ Affects  : MOVE_REGEN    by 5
+ Restricts: --> TANK ONLY <--
+ Apply    : 4
+A grandiose silver dragon buckler is wearable: shield.
+
+The shield's metallic surface is shiny and new. (100%)
+A shield of Tirabot is of fair quality.
+A shield of Tirabot is wearable: shield.
+
+The surface of the shield gleams brightly. (99%)
+A shining silver shield is of good quality.
+A shining silver shield is wearable: shield.
+
+The hard wooden surface of the shield is in perfect condition. (100%)
+An old blue buckler is of poor quality.
+You feel informed:
+ Object 'shield old blue buckler'
+ Item Type: WORN        
+ Mat Class: wood         Material: vallenwood
+ Weight   : 14           Value   : 100
+
+ Affects  : HIT           by 3
+ Restricts: --> CASTER ONLY <-- NOBARBARIAN
+An old blue buckler is wearable: shield.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:28 Exits:NES> 
+You step aside just in time to avoid a young child running from the east.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:12 Exits:NES> [0;37mbrowse buckler[0m
+You browse through the merchandise and notice:
+The shield's metallic surface is shiny and new. (100%)
+A grandiose silver dragon buckler is of very good quality.
+You feel informed:
+ Object 'shield grandiose silver dragon buckler'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 16           Value   : 400
+
+ Affects  : spell slots   by +1 at level 3
+ Affects  : MOVE_REGEN    by 5
+ Restricts: --> TANK ONLY <--
+ Apply    : 4
+A grandiose silver dragon buckler is wearable: shield.
+
+The hard wooden surface of the shield is in perfect condition. (100%)
+An old blue buckler is of poor quality.
+You feel informed:
+ Object 'shield old blue buckler'
+ Item Type: WORN        
+ Mat Class: wood         Material: vallenwood
+ Weight   : 14           Value   : 100
+
+ Affects  : HIT           by 3
+ Restricts: --> CASTER ONLY <-- NOBARBARIAN
+An old blue buckler is wearable: shield.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:12 Exits:NES> [0;37mlist[0m
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Warhammer           220 [38;5;183ma balanced heavy warhammer[0;37m
+  3. Belt                550 a belt of seashells
+  4. Cloak               880 a black dragonhide cloak
+  5. Katana              132 a black edged katana
+  6. Gaff                165 a black gaff
+  7. Shirt               165 a black leather shirt
+  8. Black               275 [38;5;214ma blackened leather shield[0;37m
+  9. Shield              418 [38;5;171ma blood-stained spiked pavaise[0;37m
+ 10. Mask                275 a blue and silver dragonmask
+ 11. Bracer              132 a blue lobster shell bracer
+ 12. Ring                275 a blue nephaline ring
+ 13. Bullwhip            363 a bone spiked bullwhip
+ 14. Torc                110 a bronze torc
+ 15. Knife               220 [38;5;183ma charred serrated black knife[0;37m
+ 16. Cloak               110 a cloak of meditation
+ 17. Bow                 770 a composite metal bow
+ 18. Capelet             198 a crimson capelet
+ 19. Lance               275 a crimson steel lance
+ 20. Dagger              198 a cruel-looking forked dagger
+ 21. Dagger              110 a crystalline dagger
+ 22. Morningstar         192 a crystalline morningstar
+ 23. Shield              192 a crystalline shield
+ 24. Sword               385 a crystalline sword
+ 25. Shield               99 a dark black shield
+ 26. Medallion           110 a dark electrum medallion
+ 27. Shield              110 a dark shield
+ 28. Sword               550 a dark short sword
+ 29. Guard               110 a deep black wrist guard
+ 30. Apron                44 a dirty cook's apron
+ 31. Headdress           550 [38;5;171ma dwarf bone-adorned headdress of destiny[0;37m
+ 32. Vest                165 a dwarven chain mail vest
+ 33. Axe                  99 a dwarven copper axe
+ 34. Crossbow            330 a dwarven crossbow
+ 35. Axe                  77 a dwarven mithril pole axe
+ 36. Morningstar         330 a dwarven morningstar
+ 37. Plate               550 a finely cured leather plate
+ 38. Quilt                99 a finely woven quilt
+ 39. Sword               154 a flamberge bastard sword
+ 40. Sword               269 [38;5;183ma formidable lustrous bastard sword[0;37m
+
+ [return for more, q to stop][0;37mq[0m
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:8 Exits:NES> 
+Bored with this area, a young child runs east.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:6 Exits:NES> [0;37mbrowse destiny[0m
+You browse through the merchandise and notice:
+The headdress appears to be in perfect condition. (99%)
+You feel informed:
+ Object 'headdress dwarf bone adorned destiny'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: tooth
+ Weight   : 4            Value   : 500
+
+ Affects  : HEALTH        by 10
+ Affects  : HIT           by 5
+ Effects  : PROTECT_NEUTRAL
+ Restricts: --> SHAMAN ONLY <--
+ Apply    : 4
+A dwarf bone-adorned headdress of destiny is wearable: head.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 3022C [0;37mT:5 Exits:NES> [0;37mlist[0m
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Warhammer           220 [38;5;183ma balanced heavy warhammer[0;37m
+  3. Belt                550 a belt of seashells
+  4. Cloak               880 a black dragonhide cloak
+  5. Katana              132 a black edged katana
+  6. Gaff                165 a black gaff
+  7. Shirt               165 a black leather shirt
+  8. Black               275 [38;5;214ma blackened leather shield[0;37m
+  9. Shield              418 [38;5;171ma blood-stained spiked pavaise[0;37m
+ 10. Mask                275 a blue and silver dragonmask
+ 11. Bracer              132 a blue lobster shell bracer
+ 12. Ring                275 a blue nephaline ring
+ 13. Bullwhip            363 a bone spiked bullwhip
+ 14. Torc                110 a bronze torc
+ 15. Knife               220 [38;5;183ma charred serrated black knife[0;37m
+ 16. Cloak               110 a cloak of meditation
+ 17. Bow                 770 a composite metal bow
+ 18. Capelet             198 a crimson capelet
+ 19. Lance               275 a crimson steel lance
+ 20. Dagger              198 a cruel-looking forked dagger
+ 21. Dagger              110 a crystalline dagger
+ 22. Morningstar         192 a crystalline morningstar
+ 23. Shield              192 a crystalline shield
+ 24. Sword               385 a crystalline sword
+ 25. Shield               99 a dark black shield
+ 26. Medallion           110 a dark electrum medallion
+ 27. Shield              110 a dark shield
+ 28. Sword               550 a dark short sword
+ 29. Guard               110 a deep black wrist guard
+ 30. Apron                44 a dirty cook's apron
+ 31. Headdress           550 [38;5;171ma dwarf bone-adorned headdress of destiny[0;37m
+ 32. Vest                165 a dwarven chain mail vest
+ 33. Axe                  99 a dwarven copper axe
+ 34. Crossbow            330 a dwarven crossbow
+ 35. Axe                  77 a dwarven mithril pole axe
+ 36. Morningstar         330 a dwarven morningstar
+ 37. Plate               550 a finely cured leather plate
+ 38. Quilt                99 a finely woven quilt
+ 39. Sword               154 a flamberge bastard sword
+ 40. Sword               269 [38;5;183ma formidable lustrous bastard sword[0;37m
+
+ [return for more, q to stop][0;37m[0m
+ 41. Staff               396 [38;5;183ma fossilized carved battle staff[0;37m
+ 42. Staff               396 [38;5;177ma fossilized rune-lined battle staff[0;37m
+ 43. Claymore            110 [38;5;225ma gleaming claymore[0;37m
+ 44. Cutlass             286 [38;5;214ma gleaming silver cutlass[0;37m
+ 45. Wristband           269 [38;5;225ma glistening elk bone inlaid wristband[0;37m
+ 46. Sword               275 a golden sword
+ 47. Longbow            1100 [38;5;214ma golden twined oak longbow[0;37m
+ 48. Shield              440 [38;5;177ma grandiose silver dragon buckler[0;37m
+ 49. Dagger              110 a granite dagger
+ 50. Morningstar         192 a granite morningstar
+ 51. Ring                165 a green druid's ring
+ 52. Helmet             1100 a green horned helmet
+ 53. Plate               220 a green leather plate
+ 54. Hammer              121 a hammer of the Rose
+ 55. Headband            110 a headband adorned with eagle's feathers
+ 56. Sword               275 a heavy brass bastard sword
+ 57. Robe                207 a heavy woolen robe
+ 58. Ring                154 a hermit's ring
+ 59. Sword               352 a huge bronze two-handed sword
+ 60. Mace                462 [38;5;177ma huge flanged mace[0;37m
+ 61. Jerkin              418 [38;5;177ma hunter's green jerkin of distortion[0;37m
+ 62. Belt                176 a leather belt with a copper buckle
+ 63. Stole               275 a long black stole, lined with red
+ 64. Dagger              154 a long iron dagger
+ 65. Staff               198 a long oak staff
+ 66. Spear               132 a long wooden spear
+ 67. Longbow              88 a longbow
+ 68. Rapier              550 [38;5;171ma magnificent slender rapier[0;37m
+ 69. Sword              1100 a massive black rune-covered sword
+ 70. Sledgehammer        220 a massive black stone sledgehammer
+ 71. Medallion           330 a medallion of Paladine
+ 72. Fork                 99 a military fork
+ 73. Partisan           1100 [38;5;214ma mithril partisan[0;37m
+ 74. Breastplate         264 [38;5;214ma molded red leather breastplate[0;37m
+ 75. Necklace            165 a necklace of carved ivory
+ 76. Necklace            176 a necklace of nephaline fragments
+ 77. Gloves               99 a pair of black hunting gloves
+ 78. Guard               132 a pair of black ice arm guards
+ 79. Boots               143 a pair of black leather boots
+ 80. Pants               110 a pair of black leather pants
+
+ [return for more, q to stop][0;37m[0m
+ 81. Sleeves             165 a pair of black leather sleeves
+ 82. Greaves             698 [38;5;117ma pair of blue dragonscale greaves[0;37m
+ 83. Leggings            660 [38;5;117ma pair of bright green dragonscale leggings[0;37m
+ 84. Sandals             110 a pair of cord sandals
+ 85. Legplates            99 a pair of ebony legplates
+ 86. Vambraces           253 a pair of ebony vambraces
+ 87. Vambraces           132 a pair of ergothian battle armor vambraces
+ 88. Greaves              49 a pair of hardened leather greaves
+ 89. Plates              165 a pair of platinum gilt arm plates
+ 90. Plates              275 a pair of platinum gilt leg plates
+ 91. Boots               330 a pair of red oakleaf crested boots
+ 92. Gloves              110 a pair of rough, fingerless gloves
+ 93. Breeches            165 a pair of silk trimmed leather breeches
+ 94. Boots               264 a pair of silver dragon scale boots
+ 95. Boots               275 a pair of silver threaded boots
+ 96. Armbands            132 a pair of spectacular hematite armbands
+ 97. Gloves              165 a pair of supple leather gloves
+ 98. Boots               220 a pair of turquoise-trimmed, buckskin boots
+ 99. Cloak               330 a patterned leather cloak
+100. Ring                264 a pink diamond ring
+101. Band                110 a pitch black band
+102. Plate               605 [38;5;214ma polished plate of mithril[0;37m
+103. Necklace            269 [38;5;225ma polished tiger's eye necklace[0;37m
+104. Eye                 104 a preserved eye of a revenant
+105. Gown                330 a pretty pink satin gown
+106. Cloak               220 a rainbow cloak
+107. Longsword           715 [38;5;214ma razor sharp longsword, inscribed with runes[0;37m
+108. Baldric             440 [38;5;183ma red baldric of prowess[0;37m
+109. Skull               550 a revenant's skull
+110. Robe                302 a robe of the Aurinite Order
+111. Necklace            550 a ruby and diamond necklace
+112. Band                110 a ruby inlaid stone band
+113. Tunic               236 [38;5;225ma sentinel's tunic of concealment[0;37m
+114. Broadaxe            374 [38;5;177ma serrated honed broadaxe[0;37m
+115. Talons              495 a set of black talons
+116. Leggings            572 [38;5;119ma set of enchanted gossamer leggings[0;37m
+117. Boots               110 a shadowy pair of boots
+118. Shard               440 [38;5;214ma shard of ice[0;37m
+119. Knife                82 a sharp filleting knife
+120. Hatchet             110 [38;5;225ma sharp hatchet[0;37m
+
+ [return for more, q to stop][0;37m[0m
+121. Shield              440 a shield of Tirabot
+122. Warbow              660 [38;5;214ma shimmering copper Set'ahki warbow[0;37m
+123. Sigil               440 [38;5;177ma shimmering frosted tin sigil[0;37m
+124. Shining             220 a shining silver plate
+125. Shield              330 a shining silver shield
+126. Sword               253 a shining silver sword
+127. Shirt               275 a shirt of autumn leaves
+128. Shirt               660 [38;5;117ma shirt of brass dragon scales[0;37m
+129. Amulet              275 a silver amulet
+130. Amulet              275 a silver amulet
+131. Amulet              275 a silver amulet
+132. Sabre               170 a slender mithril sabre
+133. Axe                 187 a slender spiked war axe
+134. Amulet               82 a small fishbone amulet
+135. Ring                550 a small signet ring
+136. Robe                 82 a stained brown robe
+137. Staff               220 [38;5;225ma sturdy carved battle staff[0;37m
+138. Staff               220 [38;5;177ma sturdy rune-inscribed battle staff[0;37m
+139. Staff               253 [38;5;183ma sturdy rune-lined battle staff[0;37m
+140. Leather             330 a suit of black leather armor
+141. Armor               132 a suit of coral armor
+142. Suit                495 a suit of crimson banded mail
+143. Plate               165 a suit of silver finished plate mail
+144. Plate               572 a suit of sterling platemail
+145. Tangle              440 a tangle of fine silver thread
+146. Helmet               53 a tarnished copper helmet
+147. Longsword           467 [38;5;171ma tempered hooked longsword[0;37m
+148. Vest                220 [38;5;225ma thief's leather vest of deceit[0;37m
+149. Belt                 55 a thin red belt
+150. Eyepatch             88 a transparent eyepatch
+151. Skirt               418 [38;5;177ma weathered leather skirt of Que-Kiri[0;37m
+152. Cloak               176 a white cloak trimmed with silver
+153. Helm                660 a winged solamnic helm
+154. Halberd             165 [38;5;225ma wood-shafted halberd[0;37m
+155. Staff                66 a wooden staff
+156. Machete             143 a worn machete
+157. Wreath              110 a wreath of silver leaves
+158. Helmet              132 an Aurinite helmet and visor
+159. Alb                 352 an alb adorned with gold trim
+160. Cloak               352 an alchemist's cloak
+
+ [return for more, q to stop][0;37m[0m
+161. Necklace            110 an alligator scale necklace
+162. Ring                550 an ancient solamnic ring
+163. Pendant             253 [38;5;225man antique malachite inlaid pendant[0;37m
+164. Dagger              133 an elegant elven dagger
+165. Rapier              374 [38;5;183man elegant thin rapier[0;37m
+166. Rapier              440 [38;5;177man elegant well-balanced rapier[0;37m
+167. Cape                330 an embroidered black wool cape
+168. Chasuble            165 an emerald green fiddleback chasuble
+169. Blade               165 an emerald hilted blade
+170. Loop                236 [38;5;225man enchanted multi-faceted loop[0;37m
+171. Knife               462 [38;5;183man enchanted sharp knife[0;37m
+172. Armor               110 an etched suit of armor
+173. Knife                55 an iron skinning knife
+174. Helm                165 an oaken-leaf helm
+175. Dagger              143 an obsidian dagger
+176. Necklace            550 an obsidian shard necklace
+177. Pass                 55 an official pass into Taeldeth
+178. Shield              110 [38;5;225man old blue buckler[0;37m
+179. Anklets            2200 anklets of woven palladium
+180. Boots               165 boots of holiness
+181. Boots               165 boots of unholiness
+182. Plate                66 crytic stone plate
+183. Sleeves             330 dark leather sleeves
+184. Gloves              110 gloves of righteousness
+185. Gloves              110 gloves of wretchedness
+186. Sleeves             539 [38;5;40msome banded teak sleeves[0;37m
+187. Mitts               154 [38;5;225msome burglar's mitts of malady[0;37m
+188. Straps              110 some crossed leather straps, adorned with spikes
+189. Greatboots          577 [38;5;171msome crystalline greatboots of immolation[0;37m
+190. Sleeves             330 some dark metallic sleeves
+191. Breeches            132 [38;5;225msome dimensional breeches of stars[0;37m
+192. Legwraps            236 [38;5;225msome dimensional legwraps of dreams[0;37m
+193. Shoes               132 [38;5;225msome energy shoes of the gift[0;37m
+194. Armguards           352 [38;5;177msome frosted armguards of the woods[0;37m
+195. Boots               275 some fur-trimmed boots
+196. Greaves             352 [38;5;171msome grandiose greaves of the Sword[0;37m
+197. Sleeves              88 some grey scalemail sleeves
+198. Sleeves             143 [38;5;225msome heavy metal sleeves of skirmish[0;37m
+199. Shinguards          462 [38;5;183msome heavy shinguards of battle[0;37m
+200. Gloves              154 [38;5;225msome multi-hued gloves of spellcraft[0;37m
+
+ [return for more, q to stop][0;37m[0m
+201. Warboots            440 [38;5;177msome reinforced warboots of incursion[0;37m
+202. Leggings            110 [38;5;225msome scored leggings of skirmish[0;37m
+203. Boots               374 [38;5;177msome sparkling boots of sacrifice[0;37m
+204. Armor               495 some spirit armor
+205. Hammer              154 the Hammer of Kzzaz
+206. Mask               1100 the bronze mask of a sahuagin prince
+207. Rod                 385 the rod of terror
+208. Staff               132 the staff of a sahuagin high priestess
+209. Sword               440 [38;5;214mthe sword of slumber[0;37m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:47 Exits:NES> [0;37mitems[0m
+[0;37mtiers[0m
+[0;37mlist[0m
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Warhammer           220 [38;5;183ma balanced heavy warhammer[0;37m
+  3. Belt                550 a belt of seashells (save_spell/para-1 antiE nothi/pal/scout/war/dk/barb)
+  4. Cloak               880 a black dragonhide cloak (imm_ac *19)
+  5. Katana              132 a black edged katana (2d6 hr1 w 10 nomag/sha)
+  6. Gaff                165 a black gaff (3d5 dr2 w13 *19)
+  7. Shirt               165 a black leather shirt
+  8. Black               275 [38;5;214ma blackened leather shield[0;37m
+  9. Shield              418 [38;5;171ma blood-stained spiked pavaise (C5+ HEAVY SHIELD)[0;37m
+ 10. Mask                275 a blue and silver dragonmask
+ 11. Bracer              132 a blue lobster shell bracer (hr/rangehr det_invis *18)
+ 12. Ring                275 a blue nephaline ring (age-3 para-1)
+ 13. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 14. Torc                110 a bronze torc
+ 15. Knife               220 [38;5;183ma charred serrated black knife[0;37m
+ 16. Cloak               110 a cloak of meditation (meditate2*19)
+ 17. Bow                 770 a composite metal bow (rhr/dr1 spd12 pwe12 acc10)
+ 18. Capelet             198 a crimson cape (hr1 ac-4, w/ gold mv15 resheat) (B2 WARRIOR ABOUT)let
+ 19. Lance               275 a a crimson steel lance (3d5 w22)
+ 20. Dagger              198 a a cruel-looking forked dagger (3d4 1/1 w9)
+ 21. Dagger              110 a crystalline dagger (3d4 dr w5 antiE *19)
+ 22. Morningstar         192 a crystalline morningstar
+ 23. Shield              192 a crystalline shield (w25 bash+7 bless/anti_evil)
+ 24. Sword               385 a crystalline sword (3d6 dr1 w12 mag/bless antiE *18)
+ 25. Shield               99 a dark black shield
+ 26. Medallion           110 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 27. Shield              110 a dark shield (ac-7 w22)
+ 28. Sword               550 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 29. Guard               110 a deep black wrist guard (wis1 str-1 1cl mag/bless)
+ 30. Apron                44 a dirty cook's apron (apply4 *19)
+ 31. Headdress           550 [38;5;171ma dwarf bone-adorned headdress (D4 SHAMAN HEAD) of destiny[0;37m
+ 32. Vest                165 a dwarven chain mail vest (res_neg8 ac-3 nobar/sha *19)
+ 33. Axe                  99 a dwarven copper axe (4d3 3/3 w14 bless)
+ 34. Crossbow            330 a dwarven crossbow (3d4 HR w11 *19)
+ 35. Axe                  77 a dwarven mithril pole axe (3d7 DR mag/bls w24 *19)
+ 36. Morningstar         330 a dwarven morningstar
+ 37. Plate               550 a finely cured leather plate
+ 38. Quilt                99 a finely woven quilt (res_cold5 *19)
+ 39. Sword               154 a flamberge bastard sword (3d7 1/1 w45)
+ 40. Sword               269 [38;5;183ma formidable lustrous bastard sword[0;37m
+
+ [return for more, q to stop][0;37m[0m
+ 41. Staff               396 [38;5;183ma fossilized carved battle staff[0;37m
+ 42. Staff               396 [38;5;177ma fossilized rune-lined battle staff[0;37m
+ 43. Claymore            110 [38;5;225ma gleaming claymore[0;37m
+ 44. Cutlass             286 [38;5;214ma gleaming silver cutlass (4d4 dr2 hr1 w14 mag *19)[0;37m
+ 45. Wristband           269 [38;5;225ma glistening elk bone inlaid wristband (B1+ MELEE WRIST)[0;37m
+ 46. Sword               275 a golden sword
+ 47. Longbow            1100 [38;5;214ma golden twined oak longbow[0;37m
+ 48. Shield              440 [38;5;177ma grandiose silver dragon buckler (C3+ LIGHT SHIELD)[0;37m
+ 49. Dagger              110 a granite dagger (3d4 DR antiG bls w5 *19)
+ 50. Morningstar         192 a granite morningstar
+ 51. Ring                165 a green druid's ring
+ 52. Helmet             1100 a green horned helmet (target/bash +4 AntiG *19)
+ 53. Hammer              121 a hammer of the Rose (5d3 hr2 w13 glow/mag/bless)
+ 54. Headband            110 a headband adorned with eagle's feathers (det_invis)
+ 55. Sword               275 a heavy brass bastard sword (3d6 dr1 w24)
+ 56. Robe                207 a heavy woolen robe
+ 57. Ring                154 a hermit's ring (con CONFUSION)
+ 58. Sword               352 a huge bronze two-handed sword
+ 59. Mace                462 [38;5;177ma huge flanged mace[0;37m
+ 60. Jerkin              418 [38;5;177ma hunter's green jerkin (C3 SCOUT BODY) of distortion[0;37m
+ 61. Belt                176 a leather belt with a copper buckle (ac-2 health6)
+ 62. Stole               275 a long black stole, lined with red (int resmagic5 cl1 WB)
+ 63. Dagger              154 a long iron dagger
+ 64. Staff               198 a long oak staff
+ 65. Spear               132 a long wooden spear
+ 66. Longbow              88 a longbow
+ 67. Rapier              550 [38;5;171ma magnificent slender rapier[0;37m
+ 68. Sword              1100 a massive black rune-covered sword
+ 69. Sledgehammer        220 a massive black stone sledgehammer (5d5 w30)
+ 70. Medallion           330 a medallion of Paladine (det_invis antiE)
+ 71. Fork                 99 a military fork (4d3 dr1 hr2 w18)
+ 72. Partisan           1100 [38;5;214ma mithril partisan (3d6 hr2 strike4 glow/mag w18 *19)[0;37m
+ 73. Breastplate         264 [38;5;214ma molded red leather breastplate (hp/moveregen20 res_heat20)[0;37m
+ 74. Necklace            165 a necklace of carved ivory (hit4)
+ 75. Necklace            176 a necklace of nephaline fragments (sv_pois-1 det_mag)
+ 76. Gloves               99 a pair of black hunting gloves (savepara -1)
+ 77. Guard               132 a pair of black ice arm guards (rescold4 immcold)
+ 78. Boots               143 a pair of black leather boots (sneak10)
+ 79. Pants               110 a pair of black leather pants (mv10 mag *19)
+ 80. Sleeves             165 a pair of black leather sleeves (dex1)
+
+ [return for more, q to stop][0;37m[0m
+ 81. Greaves             698 [38;5;117ma pair of blue dragonscale greaves[0;37m
+ 82. Leggings            660 [38;5;117ma pair of bright green dragonscale leggings (ac-4 hit8 *set*)[0;37m
+ 83. Sandals             110 a pair of cord sandals (move10)
+ 84. Legplates            99 a pair of ebony legplates (kick6)
+ 85. Vambraces           253 a pair of ebony vambraces
+ 86. Vambraces           132 a pair of ergothian battle armor vambraces
+ 87. Greaves              49 a pair of hardened leather greaves (trash)
+ 88. Plates              165 a pair of platinum gilt arm plates (apply8 *19)
+ 89. Plates              275 a pair of platinum gilt leg plates (apply8 *19)
+ 90. Boots               330 a pair of red oakleaf crested boots (kick7 magic nomag/thi/dru/cle/barb/sham)
+ 91. Gloves              110 a pair of rough, fingerless gloves (hr1 pick-7)
+ 92. Breeches            165 a pair of silk trimmed leather breeches
+ 93. Boots               264 a pair of silver dragon scale boots (save_breath-2 move15)
+ 94. Boots               275 a pair of silver threaded boots
+ 95. Armbands            132 a pair of spectacular hematite armbands (str1 int-2 )
+ 96. Gloves              165 a pair of supple leather gloves (hr1)
+ 97. Boots               220 a pair of turquoise-trimmed, buckskin boots (kick2 *18)
+ 98. Cloak               330 a patterned leather cloak (hide)
+ 99. Ring                264 a pink diamond ring (+1@2 mv-10 imm_acid/cold *19)
+100. Band                110 a pitch black band (ac-10 infra NORENT)
+101. Plate               605 [38;5;214ma polished plate of mithril (DEX/STR ac-4 glow/antiE *19)[0;37m
+102. Necklace            269 [38;5;225ma polished tiger's eye necklace (B2+ CASTER NECK)[0;37m
+103. Eye                 104 a preserved eye of a revenant (det_mag/dead)
+104. Gown                330 a pretty pink satin gown (nocharm)
+105. Cloak               220 a rainbow cloak (ac-7 hide7)
+106. Longsword           715 [38;5;214ma razor sharp longsword, inscribed with runes (3d5 1/1 imm_everything *18)[0;37m
+107. Baldric             440 [38;5;183ma red baldric (C1 WARRIOR ABOUT) of prowess[0;37m
+108. Skull               550 a revenant's skull
+109. Robe                302 a robe of the Aurinite Order (int1 antiE)
+110. Necklace            550 a ruby and diamond necklace (int1 cleric/druid antiE)
+111. Band                110 a a ruby inlaid stone band (int1)
+112. Tunic               236 [38;5;225ma sentinel's tunic (B1 SCOUT BODY) of concealment[0;37m
+113. Broadaxe            374 [38;5;177ma serrated honed broadaxe[0;37m
+114. Talons              495 a set of black talons
+115. Leggings            572 [38;5;119ma set of enchanted gossamer leggings[0;37m
+116. Boots               110 a shadowy pair of boots (sneak2 magic *19)
+117. Shard               440 [38;5;214ma shard of ice[0;37m
+118. Knife                82 a sharp filleting knife (3d3 2/2 w6 *19)
+119. Hatchet             110 [38;5;225ma sharp hatchet[0;37m
+120. Shield              440 a shield of Tirabot (w22 res_elec8 imm_elec)
+
+ [return for more, q to stop][0;37m[0m
+121. Warbow              660 [38;5;214ma shimmering copper Set'ahki warbow (ranged_dr/hr2 s/p/a 12/15/13 w6 *19)[0;37m
+122. Sigil               440 [38;5;177ma shimmering frosted tin sigil (C2+ MELEE HELD)[0;37m
+123. Shining             220 a shining silver plate (str1 ac-5)
+124. Shield              330 a shining silver shield
+125. Sword               253 a shining silver sword (3d6 mag w15 *19)
+126. Shirt               275 a shirt of autumn leaves (wis1 detinvis druid only)
+127. Shirt               660 [38;5;117ma shirt of brass dragon scales (ac-10 con1 anti_evil imm_heat *set*)[0;37m
+128. Amulet              275 a silver amulet (res_elec10)
+129. Amulet              275 a silver amulet (res_elec10)
+130. Amulet              275 a silver amulet (res_elec10)
+131. Sabre               170 a slender mithril sabre
+132. Axe                 187 a slender spiked war axe (2d9 hr1 w15)
+133. Amulet               82 a small fishbone amulet (hr1 det_G Evil)
+134. Ring                550 a small signet ring (ac-2 immac/cold/gas/heat)
+135. Robe                 82 a a stained brown robe (save_pois -1 cl1 Magic)
+136. Staff               220 [38;5;225ma sturdy carved battle staff[0;37m
+137. Staff               220 [38;5;177ma sturdy rune-inscribed battle staff[0;37m
+138. Staff               253 [38;5;183ma sturdy rune-lined battle staff[0;37m
+139. Leather             330 a a suit of black leather armor (res_cold10 save_breath-1 infra)
+140. Armor               132 a suit of coral armor (rescold8 WB)
+141. Suit                495 a suit of crimson banded mail
+142. Plate               165 a suit of silver finished plate mail (regen6% ac-4 nobarb/sha *19)
+143. Plate               572 a suit of sterling platemail (hr regen10% res_crit1% *19)
+144. Tangle              440 a tangle of fine silver thread (NORENT *19)
+145. Helmet               53 a tarnished copper helmet
+146. Longsword           467 [38;5;171ma tempered hooked longsword[0;37m
+147. Vest                220 [38;5;225ma thief's leather vest (B1 THIEF BODY) of deceit[0;37m
+148. Belt                 55 a thin red belt
+149. Eyepatch             88 a transparent eyepatch (hr-1 det_mag)
+150. Skirt               418 [38;5;177ma weathered leather skirt (C2 BARBARIAN LEGS) of Que-Kiri[0;37m
+151. Cloak               176 a white cloak trimmed with silver
+152. Helm                660 a winged solamnic helm (caln_fly nomag/dru/cle/dk *19)
+153. Halberd             165 [38;5;225ma wood-shafted halberd[0;37m
+154. Staff                66 a wooden staff
+155. Machete             143 a worn machete (3d2 hr2 w6 magic)
+156. Wreath              110 a wreath of silver leaves (110c int1, 77c -5ac)
+157. Helmet              132 an Aurinite helmet and visor
+158. Alb                 352 an an alb adorned with gold trim (wis1 hit8 magic)
+159. Cloak               352 an alchemist's cloak (ac-3 res_ac12 antiE *19)
+160. Necklace            110 an alligator scale necklace
+
+ [return for more, q to stop][0;37m[0m
+161. Ring                550 an ancient solamnic ring
+162. Pendant             253 [38;5;225man antique malachite inlaid pendant (B2+ CASTER NECK)[0;37m
+163. Dagger              133 an elegant elven dagger (2d6 2/2 w8 magic)
+164. Rapier              374 [38;5;183man elegant thin rapier[0;37m
+165. Rapier              440 [38;5;177man elegant well-balanced rapier[0;37m
+166. Cape                330 an embroidered black wool cape
+167. Chasuble            165 an an emerald green fiddleback chasuble (int/wis 1 magic)
+168. Blade               165 an emerald hilted blade (2d6 1/1 w9 magic nomag/pal/dru/cle/scout/war/dk)
+169. Loop                236 [38;5;225man enchanted multi-faceted loop (B1+ MAGE FINGER)[0;37m
+170. Knife               462 [38;5;183man enchanted sharp knife[0;37m
+171. Armor               110 an etched suit of armor (apply5 nobarb/sham)
+172. Knife                55 an iron skinning knife (3d3 w5 carve5)
+173. Helm                165 an oaken-leaf helm (learn5 druid only)
+174. Dagger              143 an obsidian dagger (3d5 1/1 w5)
+175. Necklace            550 an obsidian shard necklace
+176. Pass                 55 an official pass into Taeldeth
+177. Shield              110 [38;5;225man old blue buckler (A1+ CASTER SHIELD)[0;37m
+178. Anklets            2200 anklets of woven palladium (dex1 ac-5 clan_fly)
+179. Boots               165 boots of holiness (mv10 antiE)
+180. Boots               165 boots of unholiness
+181. Plate                66 crytic stone plate (res_acid6)
+182. Sleeves             330 dark leather sleeves (save_petri-1)
+183. Gloves              110 gloves of righteousness (hit2 antiE)
+184. Gloves              110 gloves of wretchedness
+185. Sleeves             539 [38;5;40msome banded teak sleeves[0;37m
+186. Mitts               154 [38;5;225msome burglar's mitts of malady (A1+ THIEF HANDS)[0;37m
+187. Straps              110 some crossed leather straps, adorned with spikes (rescold10)
+188. Greatboots          577 [38;5;171msome crystalline greatboots of immolation (D5+ CLERIC FEET)[0;37m
+189. Sleeves             330 some dark metallic sleeves
+190. Breeches            132 [38;5;225msome dimensional breeches of stars (A2+ MAGE LEGS)[0;37m
+191. Legwraps            236 [38;5;225msome dimensional legwraps of dreams (B2+ MAGE LEGS)[0;37m
+192. Shoes               132 [38;5;225msome energy shoes of the gift[0;37m
+193. Armguards           352 [38;5;177msome frosted armguards of the woods (C3+ DRUID ARMS)[0;37m
+194. Boots               275 some fur-trimmed boots
+195. Greaves             352 [38;5;171msome grandiose greaves of the Sword (C5+ PALADIN LEGS)[0;37m
+196. Sleeves              88 some grey scalemail sleeves (HR *19)
+197. Sleeves             143 [38;5;225msome heavy metal sleeves of skirmish (A1+ WARRIOR ARMS)[0;37m
+198. Shinguards          462 [38;5;183msome heavy shinguards of battle (C1+ WARRIOR LEGS)[0;37m
+199. Gloves              154 [38;5;225msome multi-hued gloves of spellcraft (A1+ MAGE HANDS)[0;37m
+200. Warboots            440 [38;5;177msome reinforced warboots of incursion (C4+ WARRIOR FEET)[0;37m
+
+ [return for more, q to stop][0;37m[0m
+201. Leggings            110 [38;5;225msome scored leggings of skirmish (A3+ WARRIOR LEGS)[0;37m
+202. Boots               374 [38;5;177msome sparkling boots of sacrifice (C2+ CLERIC FEET)[0;37m
+203. Armor               495 some spirit armor
+204. Hammer              154 the Hammer of Kzzaz (2d7 1/1 w9 no_offy *19)
+205. Mask               1100 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+206. Rod                 385 the rod of terror (3d5 w8 spec?)
+207. Staff               132 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+208. Sword               440 [38;5;214mthe sword of slumber (3d6 hr2 glow/mag w4)[0;37m
+You step aside just in time to avoid a young child running from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:14 Exits:NES> 
+An old beggar arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:12 Exits:NES> [0;37mbrowse rapier[0m
+You browse through the merchandise and notice:
+The rapier's metallic surface is shiny and new. (98%)
+A magnificent slender rapier is of superb quality.
+You feel informed:
+ Object 'rapier magnificent slender'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 11           Value   : 500
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 3
+ Item is  : MAGIC
+ Class    : rapier
+ Damage   : 3D5
+A magnificent slender rapier requires knowledge of the skill 'long blades'.
+
+The rapier's metallic surface is shiny and new. (99%)
+An elegant thin rapier is of very good quality.
+You feel informed:
+ Object 'rapier elegant thin'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 8            Value   : 340
+
+ Class    : rapier
+ Damage   : 2D7
+An elegant thin rapier requires knowledge of the skill 'long blades'.
+
+The rapier's metallic surface is shiny and new. (95%)
+An elegant well-balanced rapier is of very good quality.
+You feel informed:
+ Object 'rapier elegant well balanced'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 7            Value   : 400
+
+ Class    : rapier
+ Damage   : 4D3
+An elegant well-balanced rapier requires knowledge of the skill 'long blades'.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 3022C [0;37mT:11 Exits:NES> [0;37mbuy slender.rapier[0m
+[36mA wandering merchant tells you 'That'll cost you 550 coins.  Thank you.'
+[0;37mYou now have a magnificent slender rapier.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 0.00% 2472C [0;37mT:49 Exits:NES> [0;37mn[0m
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 0.00% 2472C [0;37mT:48 Exits:NS> [0;37mn[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything. (white aura)
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 2472C [0;37mT:48 Exits:NESWU> 
+Sir Kantar uth MacKan marches off west.
+You can't put liquids in a bishop's moonstone engraved seal (C2+ CLERIC FINGER)!
+You can't put liquids in a priestly amethyst encrusted ring (B4+ CLERIC FINGER)!
+You can't put liquids in a celestial spiderweb collar (C2+ CASTER NECK)!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble (D2 CLERIC BODY) of worship!
+You can't put liquids in a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism!
+You can't put liquids in some inscribed leggings of worship (D3+ CLERIC LEGS)!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice (C3+ CLERIC ARMS)!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer (B1+ CASTER WRIST)!
+You can't put liquids in a heavily charred blacksmith's hammer!
+You can't put liquids in a magnificent slender rapier!
+A bright ball of light can't be refilled.
+You can't put liquids in a brewed potion of aid!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 2472C [0;37mT:48 Exits:NESWU> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.00% 2472C [0;37mT:47 Exits:NSWU> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 2472C [0;37mT:46 Exits:NSW> [0;37mn[0m
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSahib, captain of the Solace peacekeepers patrols the area.
+A cagey elf is standing here, keeping to himself.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 0.00% 2472C [0;37mT:46 Exits:NES> [0;37me[0m
+[36mA Small Clearing[0;37m
+    This clearing is set off from the main road. The lush undergrowth of
+the forest forms a living boundary around its edges. In the center of the
+clearing is a huge vallenwood. Looking up into the vallenwood, you spy what
+looks like a small shop. A stairway spirals down around the trunk, reaching
+the ground right before you. Northern Avenue is visible to your west. A
+small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m126V [0;37m1X 0.00% 2472C [0;37mT:46 Exits:WU> [0;37mu[0m
+Baluston wrinkles his nose and sneers as you enter his shop.
+[36mThe Solace Magic Shop[0;37m
+    This magic shop is an old and dusty place. Shelves and cases line the
+walls and fill the room. Scrolls, books, wands, staves, and all sorts of
+magical paraphernalia is on display. The shades on the windows let in stray
+rays of light which streak through the dust filled air, making slashes
+across the dim room. A faint smell of incense fills the air and you hear
+chimes tinkling in the distance. A set of spiral staircase carved into the
+tree leads down. The center of the tree can be accessed through a door to
+the west.
+[33m[1m[0;37m[31m[1mBaluston, the wizard, is sitting on a stool, watching an animated broom clean. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m125V [0;37m1X 0.00% 2472C [0;37mT:45 Exits:WD> [0;37mw[0m
+[36mAbove a Vallenwood Tree[0;37m
+    This vallenwood tree rises above the surrounding trees. Thick strong
+branches extend both east and west of the tree, supporting structures on
+both flanks. Occasionally a Solace citizen walks in from the west,
+clutching a bag close to their chest while looking around suspiciously.
+From the east the infrequent explosion can be heard.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m124V [0;37m1X 0.00% 2472C [0;37mT:45 Exits:ESW> [0;37mw[0m
+[36mThe Solace Savings and Loan Bank[0;37m
+    This small building has been built in among the huge vallenwood limbs.
+Built into the trunk of the vallenwood, you see a large vault and
+transaction window that is used by the bankers of Solace. A few tables and
+other pieces of simple furniture also fill the room. A small sign posted
+next to the transaction window identifies possible actions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 2472C [0;37mT:45 Exits:E> [0;37mlist[0m
+Vault of Maui:
+Coins: 0
+  1. [38;5;153msome armaboro hide boots[0;37m  1d  3h  0m
+[0;37m  2. [38;5;171ma deadly recurve crossbow[0;37m  2d  3h 42m
+[0;37m  3. [38;5;153msome armaboro hide vambraces[0;37m  2d 16h 25m
+[0;37m  4. [38;5;153msome armaboro hide greaves[0;37m  3d  1h 24m
+[0;37m  5. [38;5;153msome armaboro hide gauntlets[0;37m  3d  2h 49m
+[0;37m
+Alchemy compartment: (0/55)
+Empty.
+
+Displayed: 5/5  Limit: 20
+
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 2472C [0;37mT:44 Exits:E> [0;37msc[0m
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 13. You have completed 0% of your next rank.
+You are 19 years old.
+You have 441(441) hit and 123(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 2472(11472) steel coins.
+You have 2 rank points to spend.
+You have died 1 horrible death.
+You have been connected for 5 minute(s).
+You have been playing for 4 day(s), 7 hour(s) and 37 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are watching someone.
+You are affected by the following:
+    invisibility
+
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 2472C [0;37mT:37 Exits:E> [0;37mwith 2000[0m
+You are charged 60 coins for the transaction.
+You withdraw 1940 coins and have 9472 coins left in the bank.
+
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 4412C [0;37mT:33 Exits:E> [0;37mhelp vault[0m
+Format: LIST [<item_name>]
+        STORE <object>|all [contents]
+        STORE <amount> coins
+        RETRIEVE <object #>|all|alchemy
+        RETRIEVE <amount> coins
+        MAINTAIN <object #>  or  MAINTAIN all
+        VALUE  or  VALUE <object>  or  VALUE <object #>
+        ARRANGE
+
+Vaults allow players to pay to store items for a few days without having to
+carry them on their person or on a rented character.
+
+When an item is placed in a vault using the 'store' command, it will remain
+there for a set "storage period", or until it is retrieved. The default
+storage period is 14 (real life) days, and this can be changed using OPTION
+VAULT_DAYS, up to a maximum of 60 days. If the item is not retrieved before
+the storage period expires, the item is destroyed. Note that if you store
+non-empty containers, their contents are emptied into the vault. If you
+specify the optional 'contents' arguments, only items contained in the
+specified containers will be stored in the vault (not the containers or items
+in inventory).
+
+When an item is stored, you will be charged up-front for storing the item
+for one storage period. You may use the 'maintain' command to pay for extra
+storage time on any or all items in the vault. Note that if you retrieve
+an item prematurely there will be no refund.
+
+The 'list' command will list all the items in the vault, along with their
+remaining storage time, while 'arrange' will put them in order. You can also
+use the 'value' command to see how much it will cost to store an item that is
+in your inventory, or renew the storage period of an item already in the
+vault.
+
+There are two types of vault: personal vaults and clan vaults. Each character
+has their own private personal vault, and these can be found in the banks of
+most major cities. In addition to these, each clan has their own clan vault,
+and these can be found in the big cities of Palanthas, Haven and Kalaman.
+Their function is similar to that of the personal vaults, but their contents
+are shared for all clan members. By default, clansmen, elders and chieftains
+can deposit and maintain items in clan vaults, only elders and chieftains can
+
+ [return for more, q to stop][0;37m[0m
+retrieve them, and neophytes cannot use them at all. Clan chieftains may
+impose their own access rules by using the CLAN VAULT command.
+
+Every vault has a small compartment where you can store a limited amount
+of everyday items. Clan members and adepts of the 'scribe' and 'brew' skills
+will also notice an additional alchemy compartment where they may store
+alchemy-related stuff.
+
+Note that in addition to items, coins can also be stored in the vaults. In
+this case, the vault operates just like a bank.
+
+WARNING: The vaults are meant to be an easy way to store items instead of
+keeping them on multies; they also provide some new functionality that you
+will discover once you start using them. Keep in mind that their introduction
+DOES NOT change our storage policy: keeping valued items permanently in the
+vault is still considered storage and will be dealt with as such. Use your
+judgement.
+
+
+Examples:
+
+store scroll            Store a scroll in the vault
+store all.bread         Store all your breads in the vault
+store all contents      Store everything currently in a container to the
+                        vault
+store pouch contents    Store only the contents of a pouch to the vault
+store 50000 coins       Store a pile of 50000 steel coins in the vault
+list                    List the contents of the vault & time remaining
+list map                List all the maps stored in the vault
+retrieve 1              Retrieve the first item from the vault
+retrieve alchemy        Retrieve everything from your alchemy compartment
+retrieve 200 coins      Retrieve some coins from the vault
+value hat               See how much it would cost you to store a hat
+value 2                 See how much it would cost you to renew the second
+                        item in the vault
+maintain 1              Renew the storage period of the first stored item
+maintain all            Renew the storage period of all items in the vault
+arrange                 Arrange the vault contents in alphabetical order,
+                        with coins placed at the top
+
+
+ [return for more, q to stop][0;37m[0m
+SEE ALSO: RENT, BANK, CLANS, POLICY
+
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 4412C [0;37mT:21 Exits:E> [0;37mlist[0m
+Vault of Maui:
+Coins: 0
+  1. [38;5;153msome armaboro hide boots[0;37m  1d  2h 59m
+[0;37m  2. [38;5;171ma deadly recurve crossbow[0;37m  2d  3h 42m
+[0;37m  3. [38;5;153msome armaboro hide vambraces[0;37m  2d 16h 24m
+[0;37m  4. [38;5;153msome armaboro hide greaves[0;37m  3d  1h 24m
+[0;37m  5. [38;5;153msome armaboro hide gauntlets[0;37m  3d  2h 49m
+[0;37m
+Alchemy compartment: (0/55)
+Empty.
+
+Displayed: 5/5  Limit: 20
+
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 4412C [0;37mT:19 Exits:E> [0;37mmaintain all[0m
+You need 3909 coins to maintain a deadly recurve crossbow.
+Done.
+
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 1654C [0;37mT:16 Exits:E> [0;37mlist[0m
+Vault of Maui:
+Coins: 0
+  1. [38;5;153msome armaboro hide boots[0;37m 13d 23h 59m
+[0;37m  2. [38;5;171ma deadly recurve crossbow[0;37m  2d  3h 42m
+[0;37m  3. [38;5;153msome armaboro hide vambraces[0;37m 13d 23h 59m
+[0;37m  4. [38;5;153msome armaboro hide greaves[0;37m 13d 23h 59m
+[0;37m  5. [38;5;153msome armaboro hide gauntlets[0;37m 13d 23h 59m
+[0;37m
+Alchemy compartment: (0/55)
+Empty.
+
+Displayed: 5/5  Limit: 20
+
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 1654C [0;37mT:10 Exits:E> [0;37min[0m
+You are carrying:
+[38;5;171ma magnificent slender rapier[0;37m..it emits an arcane glow
+a bright ball of light..it glows dimly
+a brewed potion of aid..it emits an arcane glow
+[38;5;177man enormous scorched maul[0;37m..it emits an arcane glow
+a piece of sweet bread..it emits an arcane glow [2]
+a glowing scroll of recall..it emits an arcane glow..it glows dimly [6]
+a pinch of powdered malachite
+a small wooden chest
+a sprig of pine
+a waterskin [4]
+
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 1654C [0;37mT:5 Exits:E> [0;37me[0m
+[36mAbove a Vallenwood Tree[0;37m
+    This vallenwood tree rises above the surrounding trees. Thick strong
+branches extend both east and west of the tree, supporting structures on
+both flanks. Occasionally a Solace citizen walks in from the west,
+clutching a bag close to their chest while looking around suspiciously.
+From the east the infrequent explosion can be heard.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 0.00% 1654C [0;37mT:59 Exits:ESW> [0;37me[0m
+Baluston wrinkles his nose and sneers as you enter his shop.
+[36mThe Solace Magic Shop[0;37m
+    This magic shop is an old and dusty place. Shelves and cases line the
+walls and fill the room. Scrolls, books, wands, staves, and all sorts of
+magical paraphernalia is on display. The shades on the windows let in stray
+rays of light which streak through the dust filled air, making slashes
+across the dim room. A faint smell of incense fills the air and you hear
+chimes tinkling in the distance. A set of spiral staircase carved into the
+tree leads down. The center of the tree can be accessed through a door to
+the west.
+[33m[1m[0;37m[31m[1mBaluston, the wizard, is sitting on a stool, watching an animated broom clean. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 0.00% 1654C [0;37mT:59 Exits:WD> [0;37md[0m
+[36mA Small Clearing[0;37m
+    This clearing is set off from the main road. The lush undergrowth of
+the forest forms a living boundary around its edges. In the center of the
+clearing is a huge vallenwood. Looking up into the vallenwood, you spy what
+looks like a small shop. A stairway spirals down around the trunk, reaching
+the ground right before you. Northern Avenue is visible to your west. A
+small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 0.00% 1654C [0;37mT:58 Exits:WU> [0;37mw[0m
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSahib, captain of the Solace peacekeepers patrols the area.
+A cagey elf is standing here, keeping to himself.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 0.00% 1654C [0;37mT:58 Exits:NES> [0;37ms[0m
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 0.00% 1654C [0;37mT:58 Exits:NSW> [0;37ms[0m
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m126V [0;37m1X 0.00% 1654C [0;37mT:58 Exits:NSWU> [0;37mw[0m
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+Mifune the Male Half Ogre is standing here. (flying)
+A janitor is walking around, cleaning up. (white aura)
+A medium sized horse is here, awaiting a rider.
+A medium sized horse is here, awaiting a rider.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m125V [0;37m1X 0.00% 1654C [0;37mT:57 Exits:NEU> [0;37mu[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m124V [0;37m1X 0.00% 1654C [0;37mT:57 Exits:SWUD> [0;37mu[0m
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA jar containing a dark red liquid sits unattended...it emits an arcane glow..it glows dimly
+Murky grey smoke billows about in a small flask left forgotten on the ground.
+A piece of greenish colored, oily skin lies on the ground.
+A pile of slimy green gel rests here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m123V [0;37m1X 0.00% 1654C [0;37mT:56 Exits:D> [0;37mrent[0m
+[33m[1m   a bishop's moonstone engraved seal (C2+ CLERIC FINGER) : 170 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring (B4+ CLERIC FINGER) : 150 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar (C2+ CASTER NECK) : 170 coins/day
+[0;37m[33m[1m                a black and gold cape : 280 coins/day
+[0;37m[33m[1m      a devotee's chasuble (D2 CLERIC BODY) of worship : 360 coins/day
+[0;37m[33m[1m a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism : 420 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship (D3+ CLERIC LEGS) : 330 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 120 coins/day
+[0;37m[33m[1m    some sacred armwraps of sacrifice (C3+ CLERIC ARMS) : 210 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 50 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 10 coins/day
+[0;37m[33m[1m   a small silver sea serpent's scale : 2 coins/day
+[0;37m[33m[1m        a deep violet dragon tear [2] : 4 coins/day
+[0;37m[33m[1m               a vial of spinal fluid : 3 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 2 coins/day
+[0;37m[33m[1m                    a dead gypsy moth : 2 coins/day
+[0;37m[33m[1m     a lock of a siren's emerald hair : 3 coins/day
+[0;37m[33m[1m                        a myconid cap : 1 coin/day
+[0;37m[33m[1m            a gleaming silver die [2] : 4 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 6 coins/day
+[0;37m[33m[1m              a miniature golden lyre : 2 coins/day
+[0;37m[33m[1m            a deformed crow's leg [4] : 8 coins/day
+[0;37m[33m[1m                  a tuft of skunk fur : 3 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 4 coins/day
+[0;37m[33m[1m                a sprinkle of saffron : 1 coin/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 4 coins/day
+[0;37m[33m[1m              shimmering faerie wings : 5 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 5 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 3 coins/day
+[0;37m[33m[1m              a magnetized needle [4] : 8 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 12 coins/day
+[0;37m[33m[1m              some bitten fingernails : 2 coins/day
+[0;37m[33m[1m                      a bit of fleece : 3 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 3 coins/day
+[0;37m[33m[1m                        a forked twig : 1 coin/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 19 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 140 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 1 coin/day
+[0;37m[33m[1m            a tiny bronze weathervane : 3 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m[1m                    some spruce seeds : 1 coin/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 4 coins/day
+[0;37m[33m[1m                       a pineal gland : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 4 coins/day
+[0;37m[33m[1m               a scratched glass lens : 1 coin/day
+[0;37m[33m[1m             a small block of granite : 2 coins/day
+[0;37m[33m[1m             a small flask of bitumen : 3 coins/day
+[0;37m[33m[1m               a small flask of smoke : 3 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 3 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 1 coin/day
+[0;37m[33m[1m                a flattened lead disc : 3 coins/day
+[0;37m[33m[1m                a glass lightning jar : 1 coin/day
+[0;37m[33m[1m                  a hand-held sundial : 2 coins/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[33m[1m              a jar of dark red blood : 5 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 1 coin/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 4 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 1 coin/day
+[0;37m[33m[1m                   a bag of fluff [2] : 6 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 2 coins/day
+[0;37m[33m[1m                    a bottled firefly : 1 coin/day
+[0;37m[33m[1m                a brilliant blue bead : 2 coins/day
+[0;37m[33m[1m                 a chipped stone dart : 1 coin/day
+[0;37m[33m[1m              a chiseled granite fist : 3 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[33m[1m           a fiery red austere bracer (B1+ CASTER WRIST) : 120 coins/day
+[0;37m[33m[1ma heavily charred blacksmith's hammer : 350 coins/day
+[0;37m[33m         a magnificent slender rapier : 300 coins/day
+[0;37m[33m               a bright ball of light : 0 coins/day
+[0;37m[33m               a brewed potion of aid : 8 coins/day
+[0;37m[33m            an enormous scorched maul : 250 coins/day
+[0;37m[33m           a piece of sweet bread [2] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 75 coins/day
+[0;37m[33m           a glowing scroll of recall : 5 coins/day
+[0;37m[33m        a pinch of powdered malachite : 80 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m           a sphagnum peat moss patch : 3 coins/day
+[0;37m[32m                   a basilisk eyelash : 3 coins/day
+[0;37m[32m       a piece of broken pond ice [2] : 6 coins/day
+
+ [return for more, q to stop][0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0;37m[0m
+[0;37m[32ma thin slate of polished obsidian [2] : 4 coins/day
+[0;37m[32m       some coarsely ground fire ants (COMP ABJ *19) : 2 coins/day
+[0;37m[32m  a leather pouch of vampire dust [3] : 6 coins/day
+[0;37m[32m             a smooth blank runestone : 1 coin/day
+[0;37m[32m                 some rose petals [3] : 6 coins/day
+[0;37m[32m               a wand of invisibility : 200 coins/day
+[0;37m[32m   a patch of phosphorescent moss [2] : 4 coins/day
+[0;37m[32m           a vial of spinal fluid [3] : 9 coins/day
+[0;37m[32m       a small chunk of licorice root : 1 coin/day
+[0;37m[32m                        a forked twig : 1 coin/day
+[0;37m[32m            a featureless pewter doll : 1 coin/day
+[0;37m[32ma dram of giant slug digestive acid [2] : 4 coins/day
+[0;37m[32m                 a sprig of spearmint : 3 coins/day
+[0;37m[32m                  a golden nugget [2] : 4 coins/day
+[0;37m[32m              a hand-held sundial [2] : 4 coins/day
+[0;37m[32m        a sparkling green emerald [2] : 6 coins/day
+[0;37m[32m        a murky vial of squid ink [2] : 6 coins/day
+[0;37m[32m             a broken gnomish compass : 5 coins/day
+[0;37m[32m                       a pineal gland : 2 coins/day
+[0;37m[32m  a miniscule cedar picture frame [2] : 6 coins/day
+[0;37m[32m             a mummified bullfrog leg : 3 coins/day
+[0;37m[32m          a small vial of quicksilver : 5 coins/day
+[0;37m[32m           a small flask of smoke [2] : 6 coins/day
+[0;37m[32m                         an aeolipile : 2 coins/day
+[0;37m[32m         a powerfully blessed bandage : 1 coin/day
+[0;37m[32m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[32m           a broken piece of a mirror : 1 coin/day
+[0;37m[32m                 a smear of green mud : 2 coins/day
+[0;37m[32m    a patch of poisonous crimson moss : 2 coins/day
+[0;37m[32m                 a bleached bone disc : 3 coins/day
+[0;37m[32m                a bit of brain tissue : 2 coins/day
+[0;37m[32mdirt from a long forgotten grave [20] : 20 coins/day
+[0;37m[32m                 a bit of blue litmus : 2 coins/day
+[0;37m[32m                           a rose bud : 1 coin/day
+[0;37m[32m                a meteor fragment [2] : 6 coins/day
+[0;37m[32m                    a bottled firefly : 1 coin/day
+[0;37m[32m         a chromatic crystalline bead : 5 coins/day
+[0;37m[32m                       a garlic clove : 1 coin/day
+[0;37m[32m             a pearly white moonstone : 2 coins/day
+[0;37m[32m         a small spherical lode stone : 3 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32ma torn page from an ancient calendar [2] : 6 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 4 coins/day
+[0;37m[32m                    a vial of vinegar : 2 coins/day
+[0;37m[32m             powdered bull's horn [2] : 4 coins/day
+[0;37m[32m               some leaves of hemlock : 2 coins/day
+[0;37m[32m                      some poison ivy : 2 coins/day
+[0;37m[33m                      a sprig of pine : 2 coins/day
+[0;37m[33m                      a waterskin [4] : 4 coins/day
+[0;37mThe receptionist tells you 'You need at least 4158 coins to rent.'
+The receptionist tells you 'You will be able to rent for 8 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+You stop watching someone.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

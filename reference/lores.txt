@@ -1,0 +1,1284 @@
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'feather radiant griffon griffon's'
+ The item is approaching the end of its life.
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 1            Value   : 100
+
+ Affects  : HITROLL       by 1
+ Effects  : IS_FLYING FEATHERFALL
+ Item is  : GLOW MAGIC NORENT
+
+The loring magic is not strong enough to penetrate the feather's secrets.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'feather radiant griffon griffon's'
+ The item is approaching the end of its life.
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 1            Value   : 100
+
+ Affects  : HITROLL       by 1
+ Effects  : IS_FLYING FEATHERFALL
+ Item is  : GLOW MAGIC NORENT
+
+The loring magic is not strong enough to penetrate the feather's secrets.
+
+[32m[0;37m[32m487H [0;37m[32m206V [0;37m6569005X 91.58% 3175C [38;5;34m[Pos:standing][0m[0;37m [Att:0.00%] [**Qem:[0;37m[32mPerfect[0;37m**] [0;37mExits:N 57> 
+[37mYour clanmate Dufrane has left the game.
+[0;37m[37mYour clanmate Redd has left the game.
+[0;37m
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'stone song white'
+ Item Type: OTHER       
+ Mat Class: natural      Material: stone
+ Weight   : 10           Value   : 100
+
+ Affects  : DEX           by 1
+ Item is  : HUM MAGIC BLESS ANTI_EVIL ANTI_NEUTRAL
+
+[32m[0;37m[32m760H [0;37m[33m[1m128V [0;37m51626506X 26.77% 2581C [Att:7.86%] [0;37mExits:N 26> [0m[1;34;49mCLAN MESSAGE FROM Wayne: 'i loved the old rangers'[0m
+
+[36mWayne tells your clan 'i loved the old rangers'
+[0;37m
+You stop using a white song stone.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'spear ice'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: ice
+ Weight   : 14           Value   : 500
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : spear
+ Damage   : 3D5
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'club war metal tipped metal-tipped'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: oak
+ Weight   : 11           Value   : 65
+
+ Affects  : HITROLL       by 1
+ Restricts: NOMAGE NOTHIEF NODRUID NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : club
+ Damage   : 2D6
+
+[32m[0;37m[32m714H [0;37m[32m167V [0;37m50990618X 26.97% 3420C [Att:7.86%] [0;37mExits:WU 9> 
+Bored with this area, a young child runs west.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'bottle storm bottled thunder liquid gas weather component'
+ Item Type: SPELL_COMPONENT
+ Mat Class: crystal      Material: glass
+ Weight   : 0            Value   : 255
+
+ Item is  : GLOW SELF_DESTRUCT MAGIC
+ Immune   : IMMUNE_ELECTRICITY
+With great struggle someone fought through a wicked storm and bottle its
+essence. Treat it with respect for nature is a terrible mistress to scorn.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'axe brightly bright hafted haft'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 3            Value   : 500
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Item is  : BLESS
+ Class    : hatchet
+ Damage   : 3D4
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'dagger obsidian'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: stone
+ Weight   : 5            Value   : 130
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : short_sword
+ Damage   : 3D5
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gloves pair black robber robber's'
+ Item Type: WORN        
+ Mat Class: leather      Material: fine_leather
+ Weight   : 4            Value   : 150
+
+ Affects  : DEX           by 1
+ Affects  : HITROLL       by 1
+ Affects  : skill steal         by +5
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'tooth wicked dagger dragon'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: tooth
+ Weight   : 10           Value   : 151
+
+ Restricts: NOMAGE NOPALADIN NOCLERIC NORANGER NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : dagger
+ Damage   : 2D7
+
+[32m[0;37m[32m487H [0;37m[32m207V [0;37m1X 92.48% 8185C [38;5;34m[Pos:standing][0m[0;37m [Att:0.00%] [0;37mExits:N 60> 
+Someone appears before someone in a puff of smoke.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'spear silver slender shaft'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 10           Value   : 300
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : spear
+ Damage   : 3D5
+
+You stop using a bright ball of light.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'legplates leg plates black lily'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 15           Value   : 50
+
+ Item is  : MAGIC
+ Restricts: NOBARBARIAN NOSHAMAN
+ Apply    : 7
+
+[32m[0;37m[32m487H [0;37m[32m197V [0;37m1X 93.64% 6025C [38;5;34m[Pos:standing][0m[0;37m [Att:3.00%] [**Qem:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 Exits:N 21> 
+[36mSomeone tells your clan 'bandage?'
+[0;37m
+[32m[0;37m[32m487H [0;37m[32m197V [0;37m1X 93.64% 6025C [38;5;34m[Pos:standing][0m[0;37m [Att:3.00%] [**Qem:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 Exits:N 20> [0m[1;34;49mCLAN MESSAGE FROM Dufrane: 'bandage?'[0m
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'helm lily helmet black skull'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 8            Value   : 63
+
+ Apply    : 7
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'plate black breast lily'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 40           Value   : 52
+
+ Restricts: NOBARBARIAN NOSHAMAN
+ Apply    : 7
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'longsword sword black long'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: bronze
+ Weight   : 12           Value   : 125
+
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : long_sword
+ Damage   : 3D5
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'spear shadow'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 600
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : spear
+ Damage   : 2D8
+
+You stop using a white song stone.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gauntlets bronze solamnic crafted finely pair'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 10           Value   : 300
+
+ Affects  : ARMOR         by -10
+ Affects  : DEX           by 1
+ Item is  : ANTI_EVIL ANTI_NEUTRAL
+ Restricts: NOMAGE NOTHIEF NODRUID NORANGER NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 10
+
+[32m[0;37m[32m722H [0;37m[32m180V [0;37m18790431X 36.30% 339C [Att:40.46%] [0;37mExits:N 11> [0m#10 SECONDS TO TICK![0m
+
+[36mHestaby tells your group '*** TICK IN 10'
+[0;37m
+[32m[0;37m[32m722H [0;37m[32m180V [0;37m18790431X 36.30% 339C [Att:40.46%] [0;37mExits:N 10> 
+Durran buys a scroll of legend lore.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'plates arm solamnic pair'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 10           Value   : 300
+
+ Affects  : ARMOR         by -10
+ Affects  : STR           by 1
+ Item is  : ANTI_EVIL ANTI_NEUTRAL
+ Restricts: NOMAGE NOTHIEF NODRUID NORANGER NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 10
+
+[32m[0;37m[32m722H [0;37m[32m180V [0;37m18790431X 36.30% 339C [Att:40.46%] [0;37mExits:N 57> 
+Durran says 'oh cabnnabis is a club'
+
+[32m[0;37m[32m722H [0;37m[32m180V [0;37m18790431X 36.30% 339C [Att:40.46%] [0;37mExits:N 56> 
+Clara flies in from the north.
+Caine flies in from the north.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'breastplate solamnic plate'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 20           Value   : 300
+
+ Affects  : ARMOR         by -10
+ Affects  : STR           by 1
+ Item is  : ANTI_EVIL ANTI_NEUTRAL
+ Restricts: NOMAGE NOTHIEF NODRUID NORANGER NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 10
+
+You stop using a white song stone.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pike shining steel'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 500
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : pike
+ Damage   : 2D8
+
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pike golden long'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: gold
+ Weight   : 40           Value   : 175
+
+The visage of a platinum dragon fills your mind, protecting the pike from
+those who would attempt to discern its secrets.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'staff runed vallenwood'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: rosewood
+ Weight   : 10           Value   : 600
+
+ Affects  : spell slots   by +1 at level 7
+ Affects  : DAMROLL       by 2
+ Item is  : GLOW MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : staff
+ Damage   : 3D6
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'robe inquisitors inquisitor's inquisitor blood'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 4            Value   : 480
+
+ Affects  : DAMROLL       by 1
+ Affects  : CON           by -1
+ Effects  : DETECT_EVIL DETECT_INVISIBLE DETECT_MAGIC SENSE_LIFE NOCHARM DETECT_GOOD DETECT_POISON
+ Item is  : MAGIC
+ Restricts: NOPALADIN NORANGER NOWARRIOR NOBARBARIAN
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+[32m[0;37m[32m403H [0;37m[32m113V [0;37m790561X 19.20% 4109C [0;37mExits:E 11> [0m#10 SECONDS TO TICK![0m
+
+You tell your group '*** TICK IN 10'
+[36mStrat tells your group '*** TICK IN 10'
+[0;37m
+You do not have that item.
+
+You do not have that item.
+
+[32m[0;37m[32m403H [0;37m[32m113V [0;37m790561X 19.20% 4109C [0;37mExits:E 4> [0;37mwield axe[0m
+An acid-etched steel battleaxe is too heavy for you to wield in one hand.
+You grab the battleaxe with both hands.
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+You stop using a bright ball of light.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'book sphere globe dark'
+ Item Type: WAND        
+ Mat Class: cloth        Material: parchment
+ Weight   : 1            Value   : 300
+
+The loring magic explodes in your face!
+
+The agony is unbearable until it fades into numbing sensation. Your soul
+leaves your body and floats to the world beyond. You feel a strange
+sensation, and you are pulled back to the mortal plane with a wretching jerk.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+5) Become an immortalized Hero.
+You cannot discern anything else.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'robe'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 1            Value   : 200
+
+ Affects  : ARMOR         by -5
+ Affects  : WIS           by 1
+ Affects  : casting level by 3
+ Effects  : DETECT_MAGIC
+ Item is  : GLOW MAGIC
+ Immune   : IMMUNE_ACID
+As you begin to examine robe you quickly lose your concentration because
+the many colors of the robe distract you. You try again without success and
+finally give up.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'robes black runed'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 5            Value   : 100
+
+ Affects  : spell damage done by  1%
+ Affects  : casting level by 3
+ Item is  : MAGIC ANTI_GOOD ANTI_NEUTRAL
+
+You stop using an iron shortsword.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'plate mail steel galvanized suit'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 140
+
+ Affects  : CON           by 1
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID
+ Apply    : 7
+ This object is part of a larger set.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'plates leg steel galvanized'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 120
+
+ Affects  : MOVE          by 10
+ Affects  : MOVE_REGEN    by 5
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID
+ Apply    : 7
+ This object is part of a larger set.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'boots steel galvanized'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 90
+
+ Affects  : DEX           by 1
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID
+ Apply    : 7
+ This object is part of a larger set.
+
+You stop using a dagger.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sword shortsword steel'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 9            Value   : 300
+
+ Affects  : HITROLL       by 1
+ Class    : short_sword
+ Damage   : 2D6
+
+[32m[0;37m[32m617H [0;37m[32m151V [0;37m8942529X 92.05% 3800C [0;37mExits:W 30> 
+Esme arrives from the west.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sword shortsword steel'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 14           Value   : 450
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 1
+ Class    : short_sword
+ Damage   : 2D6
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gauntlets steel galvanized'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 90
+
+ Affects  : HITROLL       by 2
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID
+ Apply    : 7
+ This object is part of a larger set.
+
+[32m[0;37m[32m617H [0;37m[32m167V [0;37m11980593X 92.22% 4009C [0;37mExits:N 35> [0m[1;34;49mCLAN MESSAGE FROM Bacha: 'will be in Hylo for a while, checking ranks'[0m
+
+[36mBacha tells your clan 'will be in Hylo for a while, checking ranks'
+[0;37m
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gauntlets steel galvanized'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 90
+
+ Affects  : HITROLL       by 2
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID
+ Apply    : 7
+ This object is part of a larger set.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'scimitar blade long silver ancient tarnished'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 18           Value   : 133
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC ANTI_GOOD
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : scimitar
+ Damage   : 2D7
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'robe blue'
+ Item Type: CONTAINER   
+ Mat Class: cloth        Material: silk
+ Weight   : 5            Value   : 500
+
+ Item is  : MAGIC NORENT
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+A silver thread runs through the hem of the robe, spelling a single word:
+                                Terzak
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'staff wood twisted gnarled black'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: oak
+ Weight   : 8            Value   : 310
+
+ Affects  : MENTAL_ACUITY by 5
+ Affects  : spell slots   by +1 at level 5
+ Affects  : casting level by 2
+ Effects  : NOCHARM
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+ Class    : staff
+ Damage   : 4D4
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'knife enchanted platinum'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 800
+
+ Affects  : DAMROLL       by 3
+ Affects  : HITROLL       by 3
+ Affects  : spell slots   by +1 at level 5
+ Affects  : casting level by 3
+ Item is  : GLOW MAGIC BLESS ANTI_GOOD
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+ Class    : knife
+ Damage   : 4D4
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'staff wood twisted gnarled black'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: oak
+ Weight   : 8            Value   : 310
+
+ Affects  : MENTAL_ACUITY by 5
+ Affects  : spell slots   by +1 at level 5
+ Affects  : casting level by 2
+ Effects  : NOCHARM
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+ Class    : staff
+ Damage   : 4D4
+
+[32m[0;37m[32m385H [0;37m[33m[1m134V [0;37m31234289X 20.64% 8010C [38;5;34m[Pos:standing][0m[0;37m [Att:81.25%] [0;37mExits:N 20> [0m[1;34;49mCLAN MESSAGE FROM Dawner: 'jason u still want restoration?'[0m
+
+[36mDawner tells your clan 'jason u still want restoration?'
+[0;37m
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pants leather tanned'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 8            Value   : 160
+
+ Effects  : IS_FLYING
+
+[32m[0;37m[32m427H [0;37m[33m[1m109V [0;37m645310X 72.06% 2295C [Att:4.69%] [0;37mExits:N 59> [0;37mn[0m
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'greaves coral thick plates pair'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: bone
+ Weight   : 8            Value   : 75
+
+ Affects  : RESIST_ELECTR by 8
+ Restricts: NOMAGE NOTHIEF NODRUID NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'staff carved wood'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: oak
+ Weight   : 16           Value   : 650
+
+ Affects  : casting level by 3
+ Effects  : CAN_FLY
+ Item is  : MAGIC
+ Class    : staff
+ Damage   : 6D4
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'staff gnarled mossy'
+ The item is approaching the end of its life.
+ Item Type: WEAPON      
+ Mat Class: natural      Material: organic
+ Weight   : 5            Value   : 0
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC BLESS
+ Class    : staff
+ Damage   : 3D4
+
+You smile in satisfaction as you sheath the longsword.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sleeves banded teak wooden'
+ Item Type: ARMOR       
+ Mat Class: wood         Material: vallenwood
+ Weight   : 8            Value   : 600
+
+ Affects  : SAVING_PARA   by -1
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+ This object is part of a larger set.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'armbands armband bands white feathered feather'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 4            Value   : 140
+
+ Affects  : WIS           by 1
+ Item is  : GLOW MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gloves thick white'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 2            Value   : 250
+
+ Affects  : skill lay           by +8
+ Item is  : MAGIC
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'eyes eye basilisk baby green pale tiny'
+ Item Type: WAND        
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 1            Value   : 100
+
+ Affects  : casting level by 2
+ Effects  : DETECT_INVISIBLE
+ Item is  : MAGIC
+ Charges  : 2
+ Level  8 : paralysis
+
+[32m[0;37m[32m406H [0;37m[32m153V [0;37m27343798X 38.70% 893C [38;5;34m[Pos:standing][0m[0;37m [Att:81.25%] [0;37mExits:WU 37> 
+A Solace peacekeeper arrives from the west.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'eyes eye basilisk green pale'
+ Item Type: WAND        
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 2            Value   : 100
+
+ Affects  : casting level by 2
+ Effects  : DETECT_INVISIBLE
+ Item is  : MAGIC
+ Charges  : 5
+ Level 10 : hold monster
+
+You do not have that item.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'stone necromancer necromancers necromancer's'
+ Item Type: STAFF       
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 5            Value   : 200
+
+ Item is  : GLOW MAGIC
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'armguards guards crisp dragonscale'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 6            Value   : 750
+
+ Affects  : skill parry         by +5
+ Affects  : skill impair        by +5
+ Affects  : skill fence         by +5
+ Affects  : DEX           by 1
+ Affects  : RESIST_HEAT   by 10
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_HEAT
+ Apply    : 8
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sleeves leather black pair'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 2            Value   : 150
+
+ Affects  : DEX           by 1
+ Item is  : MAGIC BLESS
+ Apply    : 8
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'cloak black leather'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 4            Value   : 80
+
+ Affects  : skill hide          by +5
+ Affects  : HEALTH        by 4
+ Item is  : MAGIC
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'boots leather fine pair black'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 10           Value   : 130
+
+ Affects  : DEX           by 1
+ Affects  : MOVE          by 10
+ Item is  : MAGIC
+ Apply    : 4
+
+You stop using a stone-bladed hatchet.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shirt strange anhkheg skin'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 5            Value   : 100
+
+ Affects  : RESIST_ACID   by 10
+ Affects  : skill hide          by +10
+ Restricts: NOPALADIN NOCLERIC NOWARRIOR NODARK_KNIGHT NOSHAMAN
+ Immune   : IMMUNE_ACID
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'armor armour woodsman woodsmans woodsman's'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: hard_leather
+ Weight   : 18           Value   : 300
+
+ Item is  : MAGIC
+ Apply    : 6
+ This object is part of a larger set.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'dagger flame sacrificial'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 3            Value   : 240
+
+ Affects  : DAMROLL       by 2
+ Item is  : GLOW HUM EVIL MAGIC ANTI_GOOD
+ Class    : dagger
+ Damage   : 4D3
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'dagger coral shard polished etched runes'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 8            Value   : 120
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 3
+ Affects  : casting level by 3
+ Item is  : HUM MAGIC
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : dagger
+ Damage   : 3D3
+
+You stop using a bright ball of light.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'staff ruby hard'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 17           Value   : 600
+
+ Affects  : CHA           by 2
+ Affects  : HITROLL       by 1
+ Item is  : GLOW
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : staff
+ Damage   : 3D6
+
+You do not have that item.
+
+You do not have that item.
+
+[32m[0;37m[32m711H [0;37m[32m123V [0;37m37247421X 92.92% 5973C [0;37mExits:ESW 1> [0m#TICK!!![0m
+
+You do not have that item.
+
+
+Alise leaves north.
+
+[32m[0;37m[32m487H [0;37m[32m176V [0;37m4966965X 41.83% 869C [38;5;34m[Pos:standing][0m[0;37m [Att:0.00%] [0;37mMem:3 Exits:N 17> 
+You stop using a bright ball of light.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'crossbow bow jewel'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 8            Value   : 1200
+
+ Affects  : DAMROLL       by 3
+ Affects  : HITROLL       by 3
+ Item is  : MAGIC ANTI_EVIL
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Class    : hand_crossbow
+ Damage   : 3D3
+
+You are not a member of a group.
+
+[32m[0;37m[32m487H [0;37m[32m176V [0;37m4966965X 41.83% 869C [38;5;34m[Pos:standing][0m[0;37m [Att:0.00%] [0;37mMem:3 Exits:N 8> 
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'blade short black'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: adamantite
+ Weight   : 6            Value   : 200
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC ANTI_GOOD
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : dagger
+ Damage   : 2D7
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'dagger ruby studded'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 5            Value   : 200
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 2
+ Effects  : SENSE_LIFE
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : dagger
+ Damage   : 3D5
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'spear mithril silvery'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 20           Value   : 200
+
+ Affects  : HITROLL       by -1
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Restricts: NOCLERIC
+ Class    : spear
+ Damage   : 3D6
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'wrench steel longer'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 4            Value   : 100
+
+ Affects  : RESIST_ELECTR by -5
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : rod
+ Damage   : 3D4
+
+You stop using a longer steel wrench.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'headband band black cloth strip'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 2            Value   : 150
+
+ Affects  : INT           by 1
+ Effects  : SENSE_LIFE
+ Item is  : MAGIC NORENT
+Your head is filled with sounds of a distant jungle.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'tunic black'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 4            Value   : 130
+
+ Affects  : ARMOR         by -5
+ Affects  : INT           by 1
+ Affects  : casting level by 2
+ Item is  : MAGIC
+
+You stop using a bright ball of light.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'vest beads bone elven'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 9            Value   : 200
+
+ Affects  : SAVING_SPELL  by -1
+ Affects  : WIS           by 1
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gloves archer archer's black pair'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 3            Value   : 225
+
+ Affects  : DEX           by 1
+ Affects  : RANGED_HITROL by 1
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'ring steel molten'
+ The item is approaching the end of its life.
+ Item Type: WORN        
+ Mat Class: metal        Material: steel
+ Weight   : 2            Value   : 375
+
+ Affects  : RESIST_HEAT   by 65
+ Item is  : NORENT
+ Restricts: NODRUID NOCLERIC
+ Immune   : IMMUNE_ACID IMMUNE_COLD IMMUNE_ELECTRICITY IMMUNE_GAS IMMUNE_HEAT IMMUNE_MAGIC
+
+[32m[0;37m[32m488H [0;37m[32m178V [0;37m1X 86.80% 2389C [38;5;34m[Pos:standing][0m[0;37m [Att:80.25%] [0;37mExits:E 19> 
+Wezod gives you a weathered conch shell tablet.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sandals strap straps combat leather'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 3            Value   : 175
+
+ Affects  : HITROLL       by 1
+ Affects  : DEX           by 1
+
+A small kitten rubs up against your leg.
+You stop using a steel battleaxe.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield shining silver rose'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: silver
+ Weight   : 18           Value   : 300
+
+ Affects  : SAVING_BREATH by -1
+ Item is  : GLOW
+ Restricts: NOBARBARIAN NOSHAMAN
+ Apply    : 8
+
+[32m[0;37m[32m343H [0;37m[32m111V [0;37m13405468X 44.91% 7662C [**Mals:[0;37m[32mPerfect[0;37m**] [0;37mExits:WU 35> 
+The janitor arrives from the west.
+A small kitten runs in circles chasing its tail.
+
+You stop using a steel battleaxe.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'spectacles steel-rimmed steel'
+ Item Type: WORN        
+ Mat Class: metal        Material: steel
+ Weight   : 2            Value   : 200
+
+ Affects  : INT           by 1
+ Affects  : casting level by 2
+ Effects  : DETECT_INVISIBLE SENSE_LIFE
+ Item is  : MAGIC
+
+You stop using a steel battleaxe.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sword serrated two'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 20           Value   : 140
+
+ Class    : two_handed_sword
+ Damage   : 5D4
+
+[32m[0;37m[32m354H [0;37m[33m[1m104V [0;37m21014614X 0.53% 4624C [**Mals:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 Exits:WU 45> 
+A plump housewife arrives from the west.
+
+You stop using a steel battleaxe.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'whip leather barbed'
+ Item Type: WEAPON      
+ Mat Class: leather      Material: rough_leather
+ Weight   : 10           Value   : 80
+
+ Item is  : MAGIC
+ Restricts: NOPALADIN NORANGER NODARK_KNIGHT
+ Class    : whip
+ Damage   : 2D7
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'chausses leather studded leggings'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 4            Value   : 20
+
+ Apply    : 6
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'brassiere leather spiked'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 3            Value   : 200
+
+ Affects  : DAMROLL       by 1
+ Affects  : HIT           by 5
+ Apply    : 3
+
+You stop using a steel battleaxe.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'scimitar crimson stained sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: bronze
+ Weight   : 8            Value   : 200
+
+ Item is  : BLESS
+ Class    : long_sword
+ Damage   : 3D5
+
+[32m[0;37m[32m354H [0;37m[32m135V [0;37m10798055X 13.88% 699C [0;37mExits:NES 32> 
+Bored with this area, a young child runs east.
+
+You stop using a steel battleaxe.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'braces arm golden'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 2            Value   : 500
+
+ Affects  : WIS           by 1
+ Affects  : SAVING_SPELL  by -1
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID
+
+You stop using a steel battleaxe.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sword steel brushed'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 17           Value   : 700
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : BLESS
+ Class    : long_sword
+ Damage   : 3D6
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+[32m[0;37m[32m404H [0;37m[32m125V [0;37m883752X 23.20% 1111C [0;37mT:15 Exits:NES> 
+A wiry young boy leaves east.
+
+You stop using a platinum gilt claymore.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'vambraces blessed'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: bone
+ Weight   : 6            Value   : 230
+
+ Affects  : RESIST_COLD   by 2
+ Affects  : RESIST_BREATH by 1
+ Restricts: NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 3
+
+You do not have that item.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shoes fierce'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 5            Value   : 230
+
+ Affects  : RESIST_BREATH by 2
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 2
+
+You stop using a platinum gilt claymore.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gloves fighter's cruelty'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 4            Value   : 220
+
+ Affects  : RESIST_MAGIC  by 1
+ Effects  : WATERBREATH
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 2
+
+You do not have that item.
+
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'cloak bloodstained brathnoc skin black grey heap'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 6            Value   : 200
+
+ Affects  : HIT           by 5
+ Affects  : skill wardance      by +5
+ Affects  : skill frenzy        by +5
+ Item is  : ANTI_GOOD
+ Immune   : IMMUNE_COLD IMMUNE_HEAT
+
+You stop using a platinum gilt claymore.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'wristband ruby studded'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 1            Value   : 360
+
+ Affects  : RESIST_MAGIC  by 3
+ Restricts: NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+[32m[0;37m[32m489H [0;37m[32m131V [0;37m403836X 5.44% 8872C [0;37mExits:NW> [0;37meq[0m
+You are using:
+<worn on body>             a shirt of coral chainmail
+<worn on head>             a headband adorned with eagle's feathers
+<worn on hands>            some quartz-encrusted gauntlets
+<worn on arms>             some grey scalemail sleeves
+<worn about body>          a beast scale strap
+<worn about waist>         a ceremonial scabbard
+<worn around right wrist>  a glowing bracer..it glows dimly
+<used in both hands>       a steel battleaxe..it has a sharp edge
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+
+You do not have that item.
+

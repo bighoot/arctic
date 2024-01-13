@@ -1,0 +1,1545 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+
+You were last connected Thu Jan 12 21:25:52 2023 UTC from 73.181.104.224.
+Reconnecting.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:57 Exits:S> loadboth
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:54 Exits:S> 
+[37mYour clanmate Fir has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:53 Exits:S> [0;37msettm[0m
+
+[37mYour clanmate Cabela has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:S> [0;37mcleric[0m
+[0;37ml[0m
+[36mAn Old Dwarven Library[0;37m
+    A complex series of copper aqueducts hang from the ceiling, diverting
+the moisture that perpetually drips from the limestone away from the steel
+shelves lining the ancient walls. The shelves are filled with thousands of
+precious of books and scrolls that contain the accumulated knowledge of
+the dwarven people. The north wall is dominated by a bas relief depicting 
+the first Council of Thanes gathered around a huge seven-sided table.
+[33m[1mA pair of steel-rimmed spectacles sit here...it emits an arcane glow
+[0;37m[31m[1m<Myth> Sprink Uls is resting here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:S> [0;37mboth sta[0m
+You stand up.
+-#-#-#-#-#-#-#-> Sprink <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:44 Exits:S> [0;37ml[0m
+[36mAn Old Dwarven Library[0;37m
+    A complex series of copper aqueducts hang from the ceiling, diverting
+the moisture that perpetually drips from the limestone away from the steel
+shelves lining the ancient walls. The shelves are filled with thousands of
+precious of books and scrolls that contain the accumulated knowledge of
+the dwarven people. The north wall is dominated by a bas relief depicting 
+the first Council of Thanes gathered around a huge seven-sided table.
+[33m[1mA pair of steel-rimmed spectacles sit here...it emits an arcane glow
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:44 Exits:S> [0;37ms[0m
+Sprink flies in from the north.
+[36mAn Old Dwarven Library[0;37m
+    A complex series of copper aqueducts hang from the ceiling, diverting
+the moisture that perpetually drips from the limestone away from the steel
+shelves lining the ancient walls. The shelves are filled with thousands of
+precious of books and scrolls that contain the accumulated knowledge of
+the dwarven people. A few marble pedestals stand near the shelves, proudly
+displaying the battered tools of famous dwarven engineers and mechanics.
+[33m[1m[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+A dwarven guard patrols the area, ensuring everyone keeps the peace.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:43 Exits:NW> [0;37mw[0m
+Sprink flies in from the east.
+[36mLevel 10 Lift Station[0;37m
+    The sounds of hissing steam and clanking chains echo off the limestone
+walls of this lift station. The lifts are constantly moving up and down on
+the chains in the transport shafts, and occasionally a dwarf steps off on
+this level. The floor is littered with gears, pulleys and screws that must
+have fallen off contraptions being transported to other parts of the huge
+mountain kingdom. Unlike gnomish parts, these spare parts are as finely
+made as all things made by dwarves. The storied workshops and libraries of
+the Hylar engineers must lie beyond the massive stone archways.
+[33m[1mA steam-powered mechanical lift sits here, waiting for passengers.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+A stocky hylar dwarf stands here, manning the mechanical lift.
+A dwarven citizen walks by, minding her own business.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:43 Exits:EW> [0;37me[0m
+Sprink flies in from the west.
+[36mAn Old Dwarven Library[0;37m
+    A complex series of copper aqueducts hang from the ceiling, diverting
+the moisture that perpetually drips from the limestone away from the steel
+shelves lining the ancient walls. The shelves are filled with thousands of
+precious of books and scrolls that contain the accumulated knowledge of
+the dwarven people. A few marble pedestals stand near the shelves, proudly
+displaying the battered tools of famous dwarven engineers and mechanics.
+[33m[1m[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+A dwarven guard patrols the area, ensuring everyone keeps the peace.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:42 Exits:NW> [0;37mjack guard[0m
+
+Sprink tried to backstab a dwarven keep guard, but nearly cut her own finger.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [**a dwarven keep guard:[0;37m[32mPerfect[0;37m**] [0;37mT:38 Exits:NW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [**a dwarven keep guard:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:NW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [**a dwarven keep guard:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:NW> 
+You are already watching them.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mPerfect[0;37m**] [**a dwarven keep guard:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:NW> 
+Sprink pierces a dwarven keep guard very hard.
+Sprink barely crushes a dwarven keep guard.
+A dwarven keep guard MASSACREs Sprink with his crush.
+A dwarven keep guard crushes Sprink extremely hard.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [**Sprink:[0;37m[32mV.Good[0;37m**] [**a dwarven keep guard:[0;37m[32mGood[0;37m**] [0;37mT:36 Exits:NW> [0;37mass[0m
+You attempt to assist Sprink.
+You MASSACRE a dwarven keep guard with your crush.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[32mV.Good[0;37m] [a dwarven keep guard:[0;37m[33m[1mGood[0;37m] [0;37mT:35 Exits:NW> 
+You stop watching Sprink.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[32mV.Good[0;37m] [a dwarven keep guard:[0;37m[33m[1mGood[0;37m] [0;37mT:35 Exits:NW> 
+A dwarven keep guard sunders Sprink's armour!
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[32mV.Good[0;37m] [a dwarven keep guard:[0;37m[33m[1mGood[0;37m] [0;37mT:34 Exits:NW> 
+You MASSACRE a dwarven keep guard with your crush.
+Sprink pierces a dwarven keep guard hard.
+Sprink crushes a dwarven keep guard.
+Sprink gracefully steps aside as a dwarven keep guard attacks!
+A dwarven keep guard misses Sprink with his crush.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[32mV.Good[0;37m] [a dwarven keep guard:[0;37m[33m[1mFair[0;37m] [0;37mT:32 Exits:NW> [0;37mbolt[0m
+You can't remember how to cast that spell!
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[32mV.Good[0;37m] [a dwarven keep guard:[0;37m[33m[1mFair[0;37m] [0;37mT:30 Exits:NW> 
+A dwarven keep guard delivers a quick snap kick to Sprink. Sprink staggers and tries to recover.
+Sprink pierces a dwarven keep guard hard.
+Sprink barely crushes a dwarven keep guard.
+A dwarven keep guard crushes Sprink extremely hard.
+A dwarven keep guard misses Sprink with his crush.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[32mGood[0;37m] [a dwarven keep guard:[0;37m[33m[1mFair[0;37m] [0;37mT:28 Exits:NW> [0;37mmem[0m
+Spells currently memorized:
+1: [ 1]bless                [ 1]cause light          [ 1]create food         
+   [ 1]create water         [ 1]cure light           [ 1]know alignment      
+   [ 2]restore strength    
+2: [ 5]blindness            [ 2]cure blindness       [ 1]light               
+   [ 1]silence             
+3: [ 1]cure serious         [ 1]holy armor           [ 2]poison              
+   [ 1]protection from evil [ 3]remove poison       
+4: [ 1]cloak of bravery     [ 4]flamestrike          [ 2]heroism             
+   [ 1]prayer              
+5: [ 3]cure critical        [ 2]dispel good          [ 1]holy aura           
+6: [ 2]animate dead         [ 2]darkness             [ 2]summon              
+7: [ 4]soul leech          
+8: [ 1]steelskin            [ 2]sunray              
+
+
+Spells left (level-number): 1-1 2-0 3-0 4-0 5-0 6-0 7-0 8-0
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[32mGood[0;37m] [a dwarven keep guard:[0;37m[33m[1mFair[0;37m] [0;37mT:28 Exits:NW> 
+You crush a dwarven keep guard extremely hard.
+Sprink pierces a dwarven keep guard hard.
+Sprink crushes a dwarven keep guard.
+A dwarven keep guard misses Sprink with his crush.
+A dwarven keep guard crushes Sprink very hard.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mGood[0;37m] [a dwarven keep guard:[0;37m[33m[1mFair[0;37m] [0;37mT:24 Exits:NW> [0;37msl[0m
+You utter the words, 'soul leech'
+The wrath of your god rains down upon a dwarven keep guard, clamping to his soul.
+You feel a new life flow through you.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mGood[0;37m] [a dwarven keep guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:24 Exits:NW> 
+A dwarven keep guard delivers a quick snap kick to Sprink. Sprink staggers and tries to recover.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mFair[0;37m] [a dwarven keep guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:22 Exits:NW> 
+Sprink pierces a dwarven keep guard hard.
+Sprink crushes a dwarven keep guard.
+A dwarven keep guard crushes Sprink very hard.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mFair[0;37m] [a dwarven keep guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:20 Exits:NW> [0;37mb throat[0m
+
+Sprink tries to throat punch a dwarven keep guard, but misses horribly.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mFair[0;37m] [a dwarven keep guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:19 Exits:NW> [0;37mb coup[0m
+
+Sprink attempts to perform a coup on a dwarven keep guard, but fails terribly.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mFair[0;37m] [a dwarven keep guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:18 Exits:NW> [0m[1;34;49mCLAN MESSAGE FROM Gromski: '1dam gaunts
+[0;1;34;49mnot drainable, lame'[0m
+
+[36mSomeone tells your clan '1dam gaunts not drainable, lame'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mFair[0;37m] [a dwarven keep guard:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:17 Exits:NW> 
+A dwarven keep guard strikes Sprink's weapon, nearly disarming it.
+You MASSACRE a dwarven keep guard with your crush.
+Sprink pierces a dwarven keep guard hard.
+Sprink crushes a dwarven keep guard hard.
+Sprink gracefully steps aside as a dwarven keep guard attacks!
+A dwarven keep guard MASSACREs Sprink with his crush.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mFair[0;37m] [a dwarven keep guard:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:16 Exits:NW> 
+You MASSACRE a dwarven keep guard with your crush.
+Sprink drives her spear to an opening in a dwarven keep guard's armor.
+Sprink pierces a dwarven keep guard very hard.
+Sprink barely crushes a dwarven keep guard.
+A dwarven keep guard MASSACREs Sprink with his crush.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mFair[0;37m] [a dwarven keep guard:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:12 Exits:NW> 
+A dwarven keep guard stumbles and falls while trying to bash Sprink.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [Sprink:[0;37m[33m[1mFair[0;37m] [a dwarven keep guard:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:10 Exits:NW> [0m[1;34;49mFOLLOWER GAINED XP: 80345[0m
+
+You MASSACRE a dwarven keep guard with your crush.
+A dwarven keep guard is incapacitated and will slowly die, if not aided.
+Sprink **ANNIHILATE**s a dwarven keep guard with her pierce.
+You receive 0 experience.
+A dwarven keep guard is dead! R.I.P.
+The death cry of a dwarven keep guard echoes from somewhere nearby...
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2293C [0;37mMem:2 T:8 Exits:NW> 
+You get a large pile of coins from the corpse of a dwarven keep guard.
+There were 337 coins.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2630C [0;37mMem:2 T:8 Exits:NW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2630C [0;37mMem:2 T:8 Exits:NW> 
+A sprig of pine won't fit.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2630C [0;37mMem:2 T:8 Exits:NW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2630C [0;37mMem:2 T:8 Exits:NW> 
+corpse (here) : 
+a dwarven warhammer
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2630C [0;37mMem:2 T:7 Exits:NW> 
+You can't split 337 evenly among the people in the room; splitting 336 instead.
+You divide 336 coins equally among the group members present.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2462C [0;37mMem:2 T:7 Exits:NW> [0;37ml[0m
+[36mAn Old Dwarven Library[0;37m
+    A complex series of copper aqueducts hang from the ceiling, diverting
+the moisture that perpetually drips from the limestone away from the steel
+shelves lining the ancient walls. The shelves are filled with thousands of
+precious of books and scrolls that contain the accumulated knowledge of
+the dwarven people. A few marble pedestals stand near the shelves, proudly
+displaying the battered tools of famous dwarven engineers and mechanics.
+[33m[1mThe corpse of a dwarven keep guard is lying here.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:1 T:56 Exits:NW> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'A bundle of 27 glowing motes of condensed magic.'[0m
+
+[36mSomeone tells your clan 'A bundle of 27 glowing motes of condensed magic.'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:1 T:25 Exits:NW> [0m[1;34;49mCLAN MESSAGE FROM Juni: 'nice'[0m
+
+[36mSomeone tells your clan 'nice'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:1 T:19 Exits:NW> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'and i dont even have medals on these guys yet lol'[0m
+
+[36mSomeone tells your clan 'and i dont even have medals on these guys yet lol'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:1 T:15 Exits:NW> [0m[1;34;49mCLAN MESSAGE FROM Pryor: 'lol how do u get glowings?'[0m
+
+[36mSomeone tells your clan 'lol how do u get glowings?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:1 T:7 Exits:NW> [0m[1;34;49mCLAN MESSAGE FROM Gromski: 'i drain stuff'[0m
+
+[36mSomeone tells your clan 'i drain stuff'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:1 T:1 Exits:NW> 
+Your studies complete, you close your prayerbook with a smile.
+[37mYour clanmate Shmyaka has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mT:60 Exits:NW> [0m[1;34;49mCLAN MESSAGE FROM Rasenth: '3d6 1dam 3hr pike at our smith'[0m
+
+[36mRasenth tells your clan '3d6 1dam 3hr pike at our smith'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mT:29 Exits:NW> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mT:26 Exits:NW> [0;37ml[0m
+[36mAn Old Dwarven Library[0;37m
+    A complex series of copper aqueducts hang from the ceiling, diverting
+the moisture that perpetually drips from the limestone away from the steel
+shelves lining the ancient walls. The shelves are filled with thousands of
+precious of books and scrolls that contain the accumulated knowledge of
+the dwarven people. A few marble pedestals stand near the shelves, proudly
+displaying the battered tools of famous dwarven engineers and mechanics.
+[33m[1mThe corpse of a dwarven keep guard is lying here.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mT:25 Exits:NW> [0;37mn[0m
+Sprink flies in from the south.
+[36mAn Old Dwarven Library[0;37m
+    A complex series of copper aqueducts hang from the ceiling, diverting
+the moisture that perpetually drips from the limestone away from the steel
+shelves lining the ancient walls. The shelves are filled with thousands of
+precious of books and scrolls that contain the accumulated knowledge of
+the dwarven people. The north wall is dominated by a bas relief depicting 
+the first Council of Thanes gathered around a huge seven-sided table.
+[33m[1mA pair of steel-rimmed spectacles sit here...it emits an arcane glow
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 96.46% 2462C [0;37mT:23 Exits:S> [0;37ms[0m
+Sprink flies in from the north.
+[36mAn Old Dwarven Library[0;37m
+    A complex series of copper aqueducts hang from the ceiling, diverting
+the moisture that perpetually drips from the limestone away from the steel
+shelves lining the ancient walls. The shelves are filled with thousands of
+precious of books and scrolls that contain the accumulated knowledge of
+the dwarven people. A few marble pedestals stand near the shelves, proudly
+displaying the battered tools of famous dwarven engineers and mechanics.
+[33m[1mThe corpse of a dwarven keep guard is lying here.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 96.46% 2462C [0;37mT:23 Exits:NW> [0;37mw[0m
+Sprink flies in from the east.
+[36mLevel 10 Lift Station[0;37m
+    The sounds of hissing steam and clanking chains echo off the limestone
+walls of this lift station. The lifts are constantly moving up and down on
+the chains in the transport shafts, and occasionally a dwarf steps off on
+this level. The floor is littered with gears, pulleys and screws that must
+have fallen off contraptions being transported to other parts of the huge
+mountain kingdom. Unlike gnomish parts, these spare parts are as finely
+made as all things made by dwarves. The storied workshops and libraries of
+the Hylar engineers must lie beyond the massive stone archways.
+[33m[1mA steam-powered mechanical lift sits here, waiting for passengers.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+A stocky hylar dwarf stands here, manning the mechanical lift.
+A dwarven citizen walks by, minding her own business.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2462C [0;37mT:22 Exits:EW> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.46% 2462C [0;37mT:22 Exits:EW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Cluttered Square[0;37m
+    This large square has been carefully carved out of the limestone, and
+it was once a beautiful testament to dwarven stonework. Now, however, the
+scratched stone floor is littered with loose gears, broken tools, random
+screws and half-finished contraptions. The famed Hylar engineers must work
+in the nearby buildings, perfecting the technology that the dwarves use to
+defend their mountain home and keep their mighty kingdom running.
+[33m[1m[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 96.46% 2462C [0;37mT:21 Exits:ESW> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Sweltering Hot Workshop[0;37m
+    A massive pile of steel buckets leans against the western wall of this
+giant workshop. Next to the big buckets, some massive steam engines sit on
+steel stands, hissing as they work. There is a drafting table covered
+with grease-covered blueprints standing next to the southern wall, and an
+overturned bucket acts as a stool where dwarven engineers can sit. A steel
+comment box stuffed with paper hangs on the limestone wall to the east.
+[33m[1m[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+A strong dwarf sweats profusely as he tightens bolts on a steel bucket.
+A tall dwarf engineer stands here, carefully working on a steam engine.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.46% 2462C [0;37mT:21 Exits:N> 
+[37mYour clanmate Rasenth has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.46% 2462C [0;37mT:15 Exits:N> [0;37mcast 'dark'[0m
+You lost your concentration!
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.46% 2462C [0;37mMem:2 T:12 Exits:N> [0;37mcast 'dark'[0m
+You utter the words, 'darkness'
+The room is suddenly enveloped in darkness.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.46% 2462C [0;37mMem:3 T:8 Exits:N> 
+[37mYour clanmate Xiojade has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.46% 2462C [0;37mMem:3 T:7 Exits:N> [0;37mb[0m
+[0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink gives her spear a quick thrust and twist, as she strikes Burad Longhaul in the back with it.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.46% 2462C [0;37mMem:3 T:3 Exits:N> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+Sprink pierces Burad Longhaul very hard.
+Sprink barely crushes Burad Longhaul.
+Burad Longhaul misses Sprink with his hit.
+Burad Longhaul misses Sprink with his hit.
+You are thirsty.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:60 Exits:N> 
+Sprink flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:58 Exits:N> 
+Sprink gives her spear a quick thrust and twist, as she strikes Burad Longhaul in the back with it.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:55 Exits:N> 
+[38;5;124mBurad Longhaul disarms Sprink's weapon.[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:54 Exits:N> 
+Sprink misses Burad Longhaul with her hit.
+Sprink barely crushes Burad Longhaul.
+Burad Longhaul hits Sprink hard.
+Burad Longhaul hits Sprink extremely hard.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:52 Exits:N> 
+Sprink flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:50 Exits:N> 
+Sprink gets an ice spear.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:49 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Dimian: 'finally legend'[0m
+
+[36mDimian tells your clan 'finally legend'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:49 Exits:N> 
+Sprink wields an ice spear.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:47 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Cabela: 'nice'[0m
+
+[36mSomeone tells your clan 'nice'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:45 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'nice'[0m
+
+[36mXiojade tells your clan 'nice'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:45 Exits:N> 
+Sprink places an ice spear in Burad Longhaul's back, resulting in some strange noises and some blood.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:44 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Cabela: 'congrats'[0m
+
+[36mSomeone tells your clan 'congrats'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:43 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Eredin: 'congrats'[0m
+
+[36mEredin tells your clan 'congrats'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:43 Exits:N> 
+Sprink pierces Burad Longhaul hard.
+Sprink crushes Burad Longhaul hard.
+Burad Longhaul hits Sprink extremely hard.
+Burad Longhaul misses Sprink with his hit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:40 Exits:N> 
+[36mXiojade tells your clan 'what prime you have eli?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:39 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'what prime you have eli?'[0m
+
+Sprink flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:38 Exits:N> 
+Sprink gives her spear a quick thrust and twist, as she strikes Burad Longhaul in the back with it.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:36 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Eredin: 'spider mace'[0m
+
+[36mEredin tells your clan 'spider mace'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:35 Exits:N> 
+Sprink pierces Burad Longhaul very hard.
+Sprink crushes Burad Longhaul.
+Sprink gracefully steps aside as Burad Longhaul attacks!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:32 Exits:N> 
+Sprink flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:31 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'want storm bringer?'[0m
+
+[36mXiojade tells your clan 'want storm bringer?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:29 Exits:N> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Sprink places an ice spear in Burad Longhaul's back, resulting in some strange noises and some blood.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:28 Exits:N> 
+Sprink pierces Burad Longhaul hard.
+Sprink barely crushes Burad Longhaul.
+Burad Longhaul misses Sprink with his hit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:24 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'Stormbringer*'[0m
+
+[36mXiojade tells your clan 'Stormbringer*'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:24 Exits:N> 
+Sprink flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:24 Exits:N> 
+Sprink flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:23 Exits:N> 
+Sprink tried to backstab Burad Longhaul, but nearly cut her own finger.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:21 Exits:N> 
+Sprink pierces Burad Longhaul hard.
+Sprink crushes Burad Longhaul hard.
+Sprink gracefully steps aside as Burad Longhaul attacks!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:20 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Eredin: 'im not familiar with it'[0m
+
+[36mEredin tells your clan 'im not familiar with it'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:19 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: '2d8 3 3 with soul leech spec'[0m
+
+[36mXiojade tells your clan '2d8 3 3 with soul leech spec'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:18 Exits:N> 
+Sprink pierces Burad Longhaul.
+Sprink crushes Burad Longhaul.
+Burad Longhaul misses Sprink with his hit.
+Burad Longhaul misses Sprink with his hit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:16 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'specs a lot'[0m
+
+[36mXiojade tells your clan 'specs a lot'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:14 Exits:N> 
+Sprink flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:12 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Eredin: 'sure why not seems fun'[0m
+
+[36mEredin tells your clan 'sure why not seems fun'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:6 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'its dark orange too !'[0m
+
+[36mXiojade tells your clan 'its dark orange too !'
+[0;37mSprink gives her spear a quick thrust and twist, as she strikes Burad Longhaul in the back with it.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:4 Exits:N> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+Sprink drives her spear to an opening in Burad Longhaul's armor.
+Sprink pierces Burad Longhaul.
+Sprink crushes Burad Longhaul.
+Burad Longhaul is stunned, but will likely regain consciousness again.
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:60 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Dimian: 'Legendary Punch still worth it?'[0m
+
+[36mDimian tells your clan 'Legendary Punch still worth it?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:59 Exits:N> 
+Sprink flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.46% 2462C [0;37mMem:7 T:59 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 72832[0m
+
+A twisted look of pain appears on Burad Longhaul's face as he suddenly discovers Sprink's spear in his back.
+You receive 0 experience.
+Burad Longhaul is dead! R.I.P.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2462C [0;37mMem:7 T:57 Exits:N> 
+The death cry of Burad Longhaul echoes from somewhere nearby...
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2462C [0;37mMem:7 T:57 Exits:N> 
+You get a large pile of coins from the corpse of Burad Longhaul.
+There were 213 coins.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2675C [0;37mMem:7 T:57 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2675C [0;37mMem:7 T:57 Exits:N> 
+A sprig of pine won't fit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2675C [0;37mMem:7 T:56 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2675C [0;37mMem:7 T:56 Exits:N> 
+corpse (here) : 
+a tin can filled with grease
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2675C [0;37mMem:7 T:56 Exits:N> 
+You can't split 213 evenly among the people in the room; splitting 212 instead.
+You divide 212 coins equally among the group members present.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:7 T:56 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:7 T:53 Exits:N> [0;37ml[0m
+[36mA Sweltering Hot Workshop[0;37m
+    A massive pile of steel buckets leans against the western wall of this
+giant workshop. Next to the big buckets, some massive steam engines sit on
+steel stands, hissing as they work. There is a drafting table covered
+with grease-covered blueprints standing next to the southern wall, and an
+overturned bucket acts as a stool where dwarven engineers can sit. A steel
+comment box stuffed with paper hangs on the limestone wall to the east.
+[33m[1mThe corpse of Burad Longhaul is lying here.
+Inky darkness flows into the area.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+A tall dwarf engineer stands here, carefully working on a steam engine.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:7 T:53 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Eredin: 'do you want spider mace'[0m
+
+[36mEredin tells your clan 'do you want spider mace'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:7 T:52 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Cabela: 'can he rit you john'[0m
+
+[36mSomeone tells your clan 'can he rit you john'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:7 T:52 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Eir: 'doubt it'[0m
+
+[36mEir tells your clan 'doubt it'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:7 T:51 Exits:N> 
+The inky blackness thins out.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:7 T:48 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'yeah can rit me'[0m
+
+[36mXiojade tells your clan 'yeah can rit me'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:7 T:46 Exits:N> [0;37mboth drink all.water[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+You drink the water.
+You are hungry.
+You drink the water.
+You are hungry.
+You do not feel thirsty.
+You drink the water.
+You are hungry.
+You do not feel thirsty.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:7 T:45 Exits:N> [0;37mboth eat bread[0m
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:3 T:43 Exits:N> [0;37mb[0m
+[0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'i'll rent spider mace till we find a home sure'[0m
+
+[36mXiojade tells your clan 'i'll rent spider mace till we find a home sure'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:3 T:41 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'not really playing xio atm'[0m
+
+[36mXiojade tells your clan 'not really playing xio atm'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:3 T:35 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'lemme know if you want this back'[0m
+
+[36mXiojade tells your clan 'lemme know if you want this back'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:3 T:1 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Xiojade: 'it'll be on xio'[0m
+
+[36mXiojade tells your clan 'it'll be on xio'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:2 T:59 Exits:N> 
+[37mYour clanmate Xiojade has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:2 T:56 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:2 T:15 Exits:N> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:2 T:14 Exits:N> [0;37ml[0m
+[36mA Sweltering Hot Workshop[0;37m
+    A massive pile of steel buckets leans against the western wall of this
+giant workshop. Next to the big buckets, some massive steam engines sit on
+steel stands, hissing as they work. There is a drafting table covered
+with grease-covered blueprints standing next to the southern wall, and an
+overturned bucket acts as a stool where dwarven engineers can sit. A steel
+comment box stuffed with paper hangs on the limestone wall to the east.
+[33m[1mThe corpse of Burad Longhaul is lying here.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+A tall dwarf engineer stands here, carefully working on a steam engine.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:2 T:14 Exits:N> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:1 T:12 Exits:N> [0;37mmem[0m
+Spells currently memorized:
+1: [ 1]bless                [ 1]cause light          [ 1]create food         
+   [ 1]create water         [ 1]cure light           [ 1]know alignment      
+   [ 2]restore strength    
+2: [ 5]blindness            [ 2]cure blindness       [ 1]light               
+   [ 1]silence             
+3: [ 1]cure serious         [ 1]holy armor           [ 2]poison              
+   [ 1]protection from evil [ 3]remove poison       
+4: [ 1]cloak of bravery     [ 4]flamestrike          [ 2]heroism             
+   [ 1]prayer              
+5: [ 3]cure critical        [ 2]dispel good          [ 1]holy aura           
+6: [ 2]animate dead         [ 2]summon              
+7: [ 4]soul leech          
+8: [ 1]steelskin            [ 2]sunray              
+
+Spells being memorized:
+6: [ 2]darkness            
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-1 2-0 3-0 4-0 5-0 6-0 7-0 8-0
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:1 T:11 Exits:N> [0;37mmem 'ca li'[0m
+cause light: added to your list
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mMem:1 T:5 Exits:N> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mT:60 Exits:N> [0;37mboth sta[0m
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mT:60 Exits:N> [0;37ml[0m
+[36mA Sweltering Hot Workshop[0;37m
+    A massive pile of steel buckets leans against the western wall of this
+giant workshop. Next to the big buckets, some massive steam engines sit on
+steel stands, hissing as they work. There is a drafting table covered
+with grease-covered blueprints standing next to the southern wall, and an
+overturned bucket acts as a stool where dwarven engineers can sit. A steel
+comment box stuffed with paper hangs on the limestone wall to the east.
+[33m[1mThe corpse of Burad Longhaul is lying here.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+A tall dwarf engineer stands here, carefully working on a steam engine.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mT:59 Exits:N> [0;37mjack tall[0m
+
+Sprink quickly thrusts an ice spear at Gren Steamhook from behind, but somehow falls short of her target.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mT:57 Exits:N> 
+Sprink pierces Gren Steamhook very hard.
+Sprink barely crushes Gren Steamhook.
+Sprink gracefully steps aside as Gren Steamhook attacks!
+Gren Steamhook hits Sprink hard.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mT:56 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mT:56 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [0;37mT:56 Exits:N> 
+You now watch Sprink.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [**Sprink:[0;37m[33m[1mGood[0;37m**] [**Gren Steamhook:[0;37m[32mV.Good[0;37m**] [0;37mT:56 Exits:N> [0;37mass[0m
+You attempt to assist Sprink.
+You MASSACRE Gren Steamhook with your crush.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mGood[0;37m] [Gren Steamhook:[0;37m[32mGood[0;37m] [0;37mT:54 Exits:N> 
+You stop watching Sprink.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mGood[0;37m] [Gren Steamhook:[0;37m[32mGood[0;37m] [0;37mT:54 Exits:N> [0;37mb throat[0m
+
+Sprink's rapid, unexpected knuckle thrust to Gren Steamhook's throat does some damage.
+The squish of Gren Steamhook's larynx was oddly loud.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mGood[0;37m] [Gren Steamhook:[0;37m[32mGood[0;37m] [0;37mT:53 Exits:N> 
+You MASSACRE Gren Steamhook with your crush.
+Sprink pierces Gren Steamhook very hard.
+Sprink barely crushes Gren Steamhook.
+Gren Steamhook hits Sprink very hard.
+Gren Steamhook hits Sprink extremely hard.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[33m[1mGood[0;37m] [0;37mT:52 Exits:N> [0;37mb coup[0m
+[0;37mb back[0m
+
+You MASSACRE Gren Steamhook with your crush.
+Sprink pierces Gren Steamhook very hard.
+Sprink barely crushes Gren Steamhook.
+Gren Steamhook hits Sprink hard.
+Gren Steamhook hits Sprink very hard.
+With an amazing coup, Sprink thumps Gren Steamhook's skull real hard, Gren Steamhook looks lost and grins like a chump.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mT:48 Exits:N> 
+Gren Steamhook crashes into Sprink in a thundering collision, knocking her to the ground!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mT:48 Exits:N> [0;37mbolt[0m
+You can't remember how to cast that spell!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mT:46 Exits:N> 
+Sprink pierces Gren Steamhook very hard.
+Sprink barely crushes Gren Steamhook.
+Gren Steamhook misses Sprink with his hit.
+Gren Steamhook MASSACREs Sprink with his hit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mBad[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mT:44 Exits:N> [0;37mbli[0m
+You utter the words, 'blindness'
+The magic fails!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mBad[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:43 Exits:N> 
+Sprink pierces Gren Steamhook hard.
+Sprink crushes Gren Steamhook.
+Gren Steamhook hits Sprink extremely hard.
+Gren Steamhook hits Sprink very hard.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mBad[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:40 Exits:N> [0;37mheal sprink[0m
+You utter the words, 'heal'
+You heal Sprink.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mPerfect[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:39 Exits:N> [0;37mbli[0m
+
+Sprink pierces Gren Steamhook.
+Sprink crushes Gren Steamhook.
+Gren Steamhook MASSACREs Sprink with his hit.
+Gren Steamhook misses Sprink with his hit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mV.Good[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:36 Exits:N> 
+Gren Steamhook gives Sprink a solid punch in the face.
+-#-#-#-#-#-#-#-> Sprink <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mV.Good[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:36 Exits:N> 
+You utter the words, 'blindness'
+The magic fails!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mV.Good[0;37m] [Gren Steamhook:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:34 Exits:N> [0;37mbli[0m
+
+Sprink pierces Gren Steamhook hard.
+Sprink barely crushes Gren Steamhook.
+Sprink gracefully steps aside as Gren Steamhook attacks!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mV.Good[0;37m] [Gren Steamhook:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:32 Exits:N> [0;37mb coup[0m
+Gren Steamhook delivers a vicious kick to Sprink's face. Blood flies as her head snaps back.
+You utter the words, 'blindness'
+The magic fails!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mGood[0;37m] [Gren Steamhook:[0;37m[33m[1mBad[0;37m] [0;37mMem:3 T:30 Exits:N> [0;37mb back[0m
+
+Sprink drives her spear to an opening in Gren Steamhook's armor.
+Sprink pierces Gren Steamhook hard.
+Sprink crushes Gren Steamhook.
+Sprink gracefully steps aside as Gren Steamhook attacks!
+Gren Steamhook misses Sprink with his hit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mGood[0;37m] [Gren Steamhook:[0;37m[33m[1mBad[0;37m] [0;37mMem:3 T:28 Exits:N> [0;37mb throat[0m
+
+You **ANNIHILATE** Gren Steamhook with your crush.
+Sprink fumbles and fails to swing at her target.
+Sprink misses Gren Steamhook with her crush.
+Gren Steamhook misses Sprink with his hit.
+Gren Steamhook hits Sprink very hard.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mGood[0;37m] [Gren Steamhook:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:24 Exits:N> 
+With an amazing coup, Sprink thumps Gren Steamhook's skull real hard, Gren Steamhook looks lost and grins like a chump.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mGood[0;37m] [Gren Steamhook:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:24 Exits:N> 
+Gren Steamhook strikes Sprink's weapon, nearly disarming it.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[32mGood[0;37m] [Gren Steamhook:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:24 Exits:N> [0;37mb back[0m
+
+You MASSACRE Gren Steamhook with your crush.
+Sprink fumbles and fails to swing at her target.
+Sprink misses Gren Steamhook with her crush.
+Gren Steamhook MASSACREs Sprink with his hit.
+Gren Steamhook hits Sprink very hard.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:20 Exits:N> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Sprink places an ice spear in Gren Steamhook's back, resulting in some strange noises and some blood.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:20 Exits:N> 
+Gren Steamhook gives Sprink a solid punch in the face.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:3 T:18 Exits:N> 
+You **ANNIHILATE** Gren Steamhook with your crush.
+Sprink pierces Gren Steamhook very hard.
+Sprink crushes Gren Steamhook hard.
+Gren Steamhook MASSACREs Sprink with his hit.
+Gren Steamhook misses Sprink with his hit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:16 Exits:N> 
+Sprink tries to throat punch Gren Steamhook, but misses horribly.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:16 Exits:N> [0;37mhp[0m
+You can't remember how to cast that spell!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:15 Exits:N> 
+Sprink pierces Gren Steamhook hard.
+Sprink crushes Gren Steamhook.
+Sprink gracefully steps aside as Gren Steamhook attacks!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:12 Exits:N> 
+Gren Steamhook strikes Sprink's weapon, nearly disarming it.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:12 Exits:N> 
+[37mYour clanmate Ishvadsu has left the game.
+[0;37m[37mYour clanmate Ishvadsu has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.69% 2569C [Sprink:[0;37m[33m[1mFair[0;37m] [Gren Steamhook:[0;37m[31mAwful[0;37m] [0;37mMem:3 T:10 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 72531[0m
+
+You crush Gren Steamhook extremely hard.
+Sprink pierces Gren Steamhook hard.
+Gren Steamhook is incapacitated and will slowly die, if not aided.
+Sprink crushes Gren Steamhook extremely hard.
+You receive 0 experience.
+Gren Steamhook is dead! R.I.P.
+The death cry of Gren Steamhook echoes from somewhere nearby...
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2569C [0;37mMem:3 T:8 Exits:N> 
+You get a pile of coins from the corpse of Gren Steamhook.
+There were 65 coins.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2634C [0;37mMem:3 T:8 Exits:N> [0;37mb[0m
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2634C [0;37mMem:3 T:8 Exits:N> 
+A sprig of pine won't fit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2634C [0;37mMem:3 T:8 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2634C [0;37mMem:3 T:8 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2634C [0;37mMem:3 T:7 Exits:N> 
+You can't split 65 evenly among the people in the room; splitting 64 instead.
+You divide 64 coins equally among the group members present.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:7 Exits:N> 
+[37mYour clanmate Ishvadsu has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:6 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:6 Exits:N> [0;37ml[0m
+[36mA Sweltering Hot Workshop[0;37m
+    A massive pile of steel buckets leans against the western wall of this
+giant workshop. Next to the big buckets, some massive steam engines sit on
+steel stands, hissing as they work. There is a drafting table covered
+with grease-covered blueprints standing next to the southern wall, and an
+overturned bucket acts as a stool where dwarven engineers can sit. A steel
+comment box stuffed with paper hangs on the limestone wall to the east.
+[33m[1mThe corpse of Gren Steamhook is lying here.
+The corpse of Burad Longhaul is lying here.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:6 Exits:N> 
+[37mYour clanmate Shmyaka has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:2 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:1 Exits:N> [0;37mrest[0m
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:1 T:58 Exits:N> 
+[37mYour clanmate Ishvadsu has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:1 T:58 Exits:N> [0;37mboth sta[0m
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:2 T:56 Exits:N> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:2 T:54 Exits:N> [0;37mword sprink[0m
+You utter the words, 'word of recall'
+Sprink disappears.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:2 T:52 Exits:N> [0;37mword me[0m
+You utter the words, 'word of recall'
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mAn old looking key with a chain has been dropped here.
+A deep purple colored robe lies here in a pile...it emits an arcane glow
+A ring of rusty keys has been left here carelessly.
+[0;37m[31m[1mThe stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:47 Exits:D> [0;37mb[0m
+
+[37mYour clanmate Priya has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:30 Exits:D> 
+The stronghold receptionist shows someone to their room.
+Priya sinks gently to the ground.
+[37mYour clanmate Priya has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:25 Exits:D> [0m[38;5;208m** FOLLOWER WAS BLINDED!! **[0m
+[0m[1;34;49mCLAN MESSAGE FROM Someone: '4 or 5 set items is the same affects?'[0m
+
+[36mIshvadsu tells your clan '4 or 5 set items is the same affects?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:12 Exits:D> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:11 Exits:D> [0;37md[0m
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 96.92% 2602C [0;37mMem:3 T:9 Exits:EWU> [0;37me[0m
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 96.92% 2602C [0;37mMem:3 T:9 Exits:NESW> [0;37ms[0m
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1mThe bloody dagger of Tsu Wei is here.
+An elongated diamond with thousands of facets lies here.
+A ring with the crest of Palanthas on it has been left here.
+A small rectangular box made of steel lies here.
+[0;37m[31m[1mYou see the outline of a life form here, carrying: an amulet of radiant fire corals; a sapphire heart pendant; a ruby bracer etched
+[0;1;31mwith a condor; a glowing scroll of recall; a glowing scroll of recall; a glowing scroll of recall; a radiant potion.
+<Myth> Sprink Uls is standing here. (flying)
+<Myth> Shmyaka Krakozyaka is standing here. (flying) (white aura)
+The clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:3 T:8 Exits:N> 
+Shmyaka peers around the room suspiciously.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:3 T:8 Exits:N> 
+Shmyaka says 'pk'
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:3 T:7 Exits:N> [0;37mheal sprink[0m
+[0m[38;5;93m** FOLLOWER UNBLINDED!! **[0m
+You utter the words, 'heal'
+You heal Sprink.
+Sprink appears relieved as her eyesight returns.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:4 T:6 Exits:N> 
+Someone focuses harshly on Sprink and utters some strange words.
+The flesh of Sprink begins to decay!
+Gromski slowly fades into existence.
+Gromski comes out of hiding.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:4 T:6 Exits:N> 
+Gromski winces in pain.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:4 T:5 Exits:N> 
+Sprink screams as blood pours from her wounds.
+Sprink gracefully steps aside as Gromski attacks!
+Sprink barely pierces Gromski.
+Sprink barely crushes Gromski.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:4 T:4 Exits:N> [0m[1;34;49mCLAN MESSAGE FROM Eredin: 'right'[0m
+
+[36mEredin tells your clan 'right'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:4 T:4 Exits:N> [0;37mb[0m
+
+Sprink screams as blood pours from her wounds.
+Gromski cleaves Sprink very hard.
+Gromski cleaves Sprink very hard.
+Sprink pierces Gromski hard.
+Sprink barely crushes Gromski.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:60 Exits:N> 
+Gromski falls into a trance and begins moaning.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:60 Exits:N> 
+Gromski panics, and attempts to flee.
+Gromski flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:57 Exits:N> 
+Shmyaka puts his whetting stone to good use on a mammoth minotaur broadsword.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:57 Exits:N> 
+Sprink screams as blood pours from her wounds.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:56 Exits:N> 
+Sprink yawns.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:54 Exits:N> 
+Sprink flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:53 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:51 Exits:N> [0;37mw[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 96.92% 2602C [0;37mMem:3 T:50 Exits:N> [0;37mn[0m
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 96.92% 2602C [0;37mMem:3 T:49 Exits:NESW> [0;37mw[0m
+Sprink flies in from the east.
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 96.92% 2602C [0;37mMem:3 T:49 Exits:EWU> 
+Sprink screams as blood pours from her wounds.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 96.92% 2602C [0;37mMem:3 T:48 Exits:EWU> [0;37mu[0m
+Sprink flies in from below.
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mAn old looking key with a chain has been dropped here.
+A deep purple colored robe lies here in a pile...it emits an arcane glow
+A ring of rusty keys has been left here carelessly.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+You see the outline of a life form here, carrying: an amulet of radiant fire corals; a sapphire heart pendant; a ruby bracer etched
+with a condor; a glowing scroll of recall; a glowing scroll of recall; a glowing scroll of recall; a radiant potion.
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:3 T:48 Exits:D> [0m[1;34;49mCLAN MESSAGE FROM Eredin: 'for class sets anyway'[0m
+
+[36mEredin tells your clan 'for class sets anyway'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 96.92% 2602C [0;37mMem:3 T:47 Exits:D> [0;37md[0m
+Sprink flies in from above.
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1mYou see the outline of a life form here, carrying: an amulet of radiant fire corals; a sapphire heart pendant; a ruby bracer etched
+[0;1;31mwith a condor; a glowing scroll of recall; a glowing scroll of recall; a glowing scroll of recall; a radiant potion.
+<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 96.92% 2602C [0;37mMem:3 T:47 Exits:EWU> [0;37mheal sprink[0m
+You utter the words, 'heal'
+You heal Sprink.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 96.92% 2602C [0;37mMem:4 T:45 Exits:EWU> [0;37mu[0m
+[0m[1;34;49mCLAN MESSAGE FROM Gromski: 'im about to legend a basher just to fight sprink!'[0m
+
+[36mSomeone tells your clan 'im about to legend a basher just to fight sprink!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 96.92% 2602C [0;37mMem:4 T:43 Exits:EWU> 
+Sprink flies in from below.
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mAn old looking key with a chain has been dropped here.
+A deep purple colored robe lies here in a pile...it emits an arcane glow
+A ring of rusty keys has been left here carelessly.
+[0;37m[31m[1m<Myth> Sprink Uls is standing here. (flying)
+You see the outline of a life form here, carrying: an amulet of radiant fire corals; a sapphire heart pendant; a ruby bracer etched
+with a condor; a glowing scroll of recall; a glowing scroll of recall; a glowing scroll of recall; a radiant potion.
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:41 Exits:D> 
+Someone winces in pain.
+Gromski slowly fades into existence.
+Gromski comes out of hiding.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:40 Exits:D> [0;37mb[0m
+
+[36mSprink tells your clan 'lol'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:36 Exits:D> 
+Shmyaka flies in from below.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:28 Exits:D> 
+Someone winces in pain.
+Gromski slowly fades into existence.
+Gromski comes out of hiding.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:28 Exits:D> 
+Shmyaka throws the ball to the ground, shattering it's glass surface and
+black clouds of shadow begin to seep from the floor where the ball hit.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:27 Exits:D> 
+Gromski looks at Shmyaka.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:24 Exits:D> 
+Sprink drops a simple iron key.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:23 Exits:D> [0m[1;34;49mPRIVATE MESSAGE FROM The stronghold receptionist: 'You need at least 2365 coins to
+[0;1;34;49mrent.'[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM The stronghold receptionist: 'You will be able to rent for 22 days.'[0m
+
+The stronghold receptionist shows Sprink to her room.
+Sprink sinks gently to the ground.
+Sprink stops following you.
+[37mYour clanmate Sprink has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:21 Exits:D> 
+Inky blackness flows into the room.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:20 Exits:D> [0m#SESSION 'a' ACTIVATED.[0m
+[0;37moffer[0m
+[33m[1m   a bishop's moonstone engraved seal : 153 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring : 135 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar : 153 coins/day
+[0;37m[33m[1m                a black and gold cape : 252 coins/day
+[0;37m[33m[1m      a devotee's chasuble of worship : 324 coins/day
+[0;37m[33m[1m a flawless onyx diadem of fanaticism : 378 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship : 297 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 108 coins/day
+[0;37m[33m[1m    some sacred armwraps of sacrifice : 189 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 45 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 9 coins/day
+[0;37m[33m[1m   a small silver sea serpent's scale : 1 coin/day
+[0;37m[33m[1m        a deep violet dragon tear [2] : 2 coins/day
+[0;37m[33m[1m               a vial of spinal fluid : 2 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 1 coin/day
+[0;37m[33m[1m                   a glass sliver [3] : 0 coins/day
+[0;37m[33m[1m                    a dead gypsy moth : 1 coin/day
+[0;37m[33m[1m     a lock of a siren's emerald hair : 2 coins/day
+[0;37m[33m[1m                        a myconid cap : 0 coins/day
+[0;37m[33m[1m            a gleaming silver die [2] : 2 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 4 coins/day
+[0;37m[33m[1m              a miniature golden lyre : 1 coin/day
+[0;37m[33m[1m            a deformed crow's leg [4] : 4 coins/day
+[0;37m[33m[1m                  a tuft of skunk fur : 2 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 2 coins/day
+[0;37m[33m[1m                a sprinkle of saffron : 0 coins/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 2 coins/day
+[0;37m[33m[1m              shimmering faerie wings : 4 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 4 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 2 coins/day
+[0;37m[33m[1m              a magnetized needle [4] : 4 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 8 coins/day
+[0;37m[33m[1m              some bitten fingernails : 1 coin/day
+[0;37m[33m[1m                      a bit of fleece : 2 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 2 coins/day
+[0;37m[33m[1m                        a forked twig : 0 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 0 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 0 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 1 coin/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 0 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m[1m            a tiny bronze weathervane : 2 coins/day
+[0;37m[33m[1m                    some spruce seeds : 0 coins/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 2 coins/day
+[0;37m[33m[1m                       a pineal gland : 1 coin/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 2 coins/day
+[0;37m[33m[1m               a scratched glass lens : 0 coins/day
+[0;37m[33m[1m             a small block of granite : 1 coin/day
+[0;37m[33m[1m             a small flask of bitumen : 2 coins/day
+[0;37m[33m[1m               a small flask of smoke : 2 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 2 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 0 coins/day
+[0;37m[33m[1m                a flattened lead disc : 2 coins/day
+[0;37m[33m[1m                a glass lightning jar : 0 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 1 coin/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[33m[1m              a jar of dark red blood : 4 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 0 coins/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 2 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 0 coins/day
+[0;37m[33m[1m                   a bag of fluff [2] : 4 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 1 coin/day
+[0;37m[33m[1m                    a bottled firefly : 0 coins/day
+[0;37m[33m[1m                a brilliant blue bead : 1 coin/day
+[0;37m[33m[1m                 a chipped stone dart : 0 coins/day
+[0;37m[33m[1m              a chiseled granite fist : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 1 coin/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 1 coin/day
+[0;37m[33m[1m           a fiery red austere bracer : 108 coins/day
+[0;37m[33m[1m            an enormous scorched maul : 225 coins/day
+[0;37m[33m          a piece of sweet bread [19] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 65 coins/day
+[0;37m[33m           a glowing scroll of recall : 4 coins/day
+[0;37m[33m        a pinch of powdered malachite : 72 coins/day
+[0;37m[33m               a small diamond dagger : 27 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m           a sphagnum peat moss patch : 2 coins/day
+[0;37m[32m                   a basilisk eyelash : 2 coins/day
+[0;37m[32m       a piece of broken pond ice [2] : 4 coins/day
+[0;37m[32ma thin slate of polished obsidian [2] : 2 coins/day
+[0;37m[32m       some coarsely ground fire ants : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m  a leather pouch of vampire dust [3] : 3 coins/day
+[0;37m[32m             a smooth blank runestone : 0 coins/day
+[0;37m[32m                 some rose petals [3] : 3 coins/day
+[0;37m[32m               a wand of invisibility : 180 coins/day
+[0;37m[32m   a patch of phosphorescent moss [2] : 2 coins/day
+[0;37m[32m           a vial of spinal fluid [3] : 6 coins/day
+[0;37m[32m       a small chunk of licorice root : 0 coins/day
+[0;37m[32m                        a forked twig : 0 coins/day
+[0;37m[32m            a featureless pewter doll : 0 coins/day
+[0;37m[32ma dram of giant slug digestive acid [2] : 2 coins/day
+[0;37m[32m                 a sprig of spearmint : 2 coins/day
+[0;37m[32m                  a golden nugget [2] : 2 coins/day
+[0;37m[32m              a hand-held sundial [2] : 2 coins/day
+[0;37m[32m        a sparkling green emerald [2] : 4 coins/day
+[0;37m[32m        a murky vial of squid ink [2] : 4 coins/day
+[0;37m[32m             a broken gnomish compass : 4 coins/day
+[0;37m[32m                       a pineal gland : 1 coin/day
+[0;37m[32m  a miniscule cedar picture frame [2] : 4 coins/day
+[0;37m[32m             a mummified bullfrog leg : 2 coins/day
+[0;37m[32m          a small vial of quicksilver : 4 coins/day
+[0;37m[32m           a small flask of smoke [2] : 4 coins/day
+[0;37m[32m                         an aeolipile : 1 coin/day
+[0;37m[32m         a powerfully blessed bandage : 0 coins/day
+[0;37m[32m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[32m           a broken piece of a mirror : 0 coins/day
+[0;37m[32m                 a smear of green mud : 1 coin/day
+[0;37m[32m    a patch of poisonous crimson moss : 1 coin/day
+[0;37m[32m                 a bleached bone disc : 2 coins/day
+[0;37m[32m                a bit of brain tissue : 1 coin/day
+[0;37m[32mdirt from a long forgotten grave [20] : 0 coins/day
+[0;37m[32m                 a bit of blue litmus : 1 coin/day
+[0;37m[32m                           a rose bud : 0 coins/day
+[0;37m[32m                a meteor fragment [2] : 4 coins/day
+[0;37m[32m                    a bottled firefly : 0 coins/day
+[0;37m[32m         a chromatic crystalline bead : 4 coins/day
+[0;37m[32m                       a garlic clove : 0 coins/day
+[0;37m[32m             a pearly white moonstone : 1 coin/day
+[0;37m[32m         a small spherical lode stone : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 4 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 2 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m                    a vial of vinegar : 1 coin/day
+[0;37m[32m             powdered bull's horn [2] : 2 coins/day
+[0;37m[32m               some leaves of hemlock : 1 coin/day
+[0;37m[32m                      some poison ivy : 1 coin/day
+[0;37m[33m                      a sprig of pine : 1 coin/day
+[0;37m[33m                      a waterskin [4] : 0 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 2901 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 14 days.'
+The stronghold receptionist gives someone an offer.
+Shmyaka throws the ball to the ground, shattering it's glass surface and
+black clouds of shadow begin to seep from the floor where the ball hit.
+The room is suddenly enveloped in darkness.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:17 Exits:D> 
+Someone winces in pain.
+Gromski slowly fades into existence.
+Gromski comes out of hiding.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:15 Exits:D> [0;37ml[0m
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mInky darkness flows into the area. [2]
+A simple iron key has been left here.
+Inky darkness flows into the area.
+An old looking key with a chain has been dropped here.
+A deep purple colored robe lies here in a pile...it emits an arcane glow
+A ring of rusty keys has been left here carelessly.
+[0;37m[31m[1m<Myth> Shmyaka Krakozyaka is standing here. (flying) (white aura)
+<Myth> Gromski the Male Half Elf is standing here. (flying) (white aura)
+. . . emits an eerie glow.
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:15 Exits:D> 
+Someone applies bandages to their wounds.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:13 Exits:D> [0;37mlaugh[0m
+You laugh heartily.
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:11 Exits:D> 
+Shmyaka says 'it works'
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:11 Exits:D> [0;37mheal gromski[0m
+Who should the spell be cast upon?
+
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 96.92% 2602C [0;37mMem:4 T:9 Exits:D> [0;37mrent[0m
+[33m[1m   a bishop's moonstone engraved seal : 153 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring : 135 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar : 153 coins/day
+[0;37m[33m[1m                a black and gold cape : 252 coins/day
+[0;37m[33m[1m      a devotee's chasuble of worship : 324 coins/day
+[0;37m[33m[1m a flawless onyx diadem of fanaticism : 378 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship : 297 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 108 coins/day
+[0;37m[33m[1m    some sacred armwraps of sacrifice : 189 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 45 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 9 coins/day
+[0;37m[33m[1m   a small silver sea serpent's scale : 1 coin/day
+[0;37m[33m[1m        a deep violet dragon tear [2] : 2 coins/day
+[0;37m[33m[1m               a vial of spinal fluid : 2 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 1 coin/day
+[0;37m[33m[1m                   a glass sliver [3] : 0 coins/day
+[0;37m[33m[1m                    a dead gypsy moth : 1 coin/day
+[0;37m[33m[1m     a lock of a siren's emerald hair : 2 coins/day
+[0;37m[33m[1m                        a myconid cap : 0 coins/day
+[0;37m[33m[1m            a gleaming silver die [2] : 2 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 4 coins/day
+[0;37m[33m[1m              a miniature golden lyre : 1 coin/day
+[0;37m[33m[1m            a deformed crow's leg [4] : 4 coins/day
+[0;37m[33m[1m                  a tuft of skunk fur : 2 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 2 coins/day
+[0;37m[33m[1m                a sprinkle of saffron : 0 coins/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 2 coins/day
+[0;37m[33m[1m              shimmering faerie wings : 4 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 4 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 2 coins/day
+[0;37m[33m[1m              a magnetized needle [4] : 4 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 8 coins/day
+[0;37m[33m[1m              some bitten fingernails : 1 coin/day
+[0;37m[33m[1m                      a bit of fleece : 2 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 2 coins/day
+[0;37m[33m[1m                        a forked twig : 0 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 0 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 0 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 1 coin/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 0 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m[1m            a tiny bronze weathervane : 2 coins/day
+[0;37m[33m[1m                    some spruce seeds : 0 coins/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 2 coins/day
+[0;37m[33m[1m                       a pineal gland : 1 coin/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 2 coins/day
+[0;37m[33m[1m               a scratched glass lens : 0 coins/day
+[0;37m[33m[1m             a small block of granite : 1 coin/day
+[0;37m[33m[1m             a small flask of bitumen : 2 coins/day
+[0;37m[33m[1m               a small flask of smoke : 2 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 2 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 0 coins/day
+[0;37m[33m[1m                a flattened lead disc : 2 coins/day
+[0;37m[33m[1m                a glass lightning jar : 0 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 1 coin/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[33m[1m              a jar of dark red blood : 4 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 0 coins/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 2 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 0 coins/day
+[0;37m[33m[1m                   a bag of fluff [2] : 4 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 1 coin/day
+[0;37m[33m[1m                    a bottled firefly : 0 coins/day
+[0;37m[33m[1m                a brilliant blue bead : 1 coin/day
+[0;37m[33m[1m                 a chipped stone dart : 0 coins/day
+[0;37m[33m[1m              a chiseled granite fist : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 1 coin/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 1 coin/day
+[0;37m[33m[1m           a fiery red austere bracer : 108 coins/day
+[0;37m[33m[1m            an enormous scorched maul : 225 coins/day
+[0;37m[33m          a piece of sweet bread [19] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 65 coins/day
+[0;37m[33m           a glowing scroll of recall : 4 coins/day
+[0;37m[33m        a pinch of powdered malachite : 72 coins/day
+[0;37m[33m               a small diamond dagger : 27 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m           a sphagnum peat moss patch : 2 coins/day
+[0;37m[32m                   a basilisk eyelash : 2 coins/day
+[0;37m[32m       a piece of broken pond ice [2] : 4 coins/day
+[0;37m[32ma thin slate of polished obsidian [2] : 2 coins/day
+[0;37m[32m       some coarsely ground fire ants : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m  a leather pouch of vampire dust [3] : 3 coins/day
+[0;37m[32m             a smooth blank runestone : 0 coins/day
+[0;37m[32m                 some rose petals [3] : 3 coins/day
+[0;37m[32m               a wand of invisibility : 180 coins/day
+[0;37m[32m   a patch of phosphorescent moss [2] : 2 coins/day
+[0;37m[32m           a vial of spinal fluid [3] : 6 coins/day
+[0;37m[32m       a small chunk of licorice root : 0 coins/day
+[0;37m[32m                        a forked twig : 0 coins/day
+[0;37m[32m            a featureless pewter doll : 0 coins/day
+[0;37m[32ma dram of giant slug digestive acid [2] : 2 coins/day
+[0;37m[32m                 a sprig of spearmint : 2 coins/day
+[0;37m[32m                  a golden nugget [2] : 2 coins/day
+[0;37m[32m              a hand-held sundial [2] : 2 coins/day
+[0;37m[32m        a sparkling green emerald [2] : 4 coins/day
+[0;37m[32m        a murky vial of squid ink [2] : 4 coins/day
+[0;37m[32m             a broken gnomish compass : 4 coins/day
+[0;37m[32m                       a pineal gland : 1 coin/day
+[0;37m[32m  a miniscule cedar picture frame [2] : 4 coins/day
+[0;37m[32m             a mummified bullfrog leg : 2 coins/day
+[0;37m[32m          a small vial of quicksilver : 4 coins/day
+[0;37m[32m           a small flask of smoke [2] : 4 coins/day
+[0;37m[32m                         an aeolipile : 1 coin/day
+[0;37m[32m         a powerfully blessed bandage : 0 coins/day
+[0;37m[32m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[32m           a broken piece of a mirror : 0 coins/day
+[0;37m[32m                 a smear of green mud : 1 coin/day
+[0;37m[32m    a patch of poisonous crimson moss : 1 coin/day
+[0;37m[32m                 a bleached bone disc : 2 coins/day
+[0;37m[32m                a bit of brain tissue : 1 coin/day
+[0;37m[32mdirt from a long forgotten grave [20] : 0 coins/day
+[0;37m[32m                 a bit of blue litmus : 1 coin/day
+[0;37m[32m                           a rose bud : 0 coins/day
+[0;37m[32m                a meteor fragment [2] : 4 coins/day
+[0;37m[32m                    a bottled firefly : 0 coins/day
+[0;37m[32m         a chromatic crystalline bead : 4 coins/day
+[0;37m[32m                       a garlic clove : 0 coins/day
+[0;37m[32m             a pearly white moonstone : 1 coin/day
+[0;37m[32m         a small spherical lode stone : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 4 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 2 coins/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m                    a vial of vinegar : 1 coin/day
+[0;37m[32m             powdered bull's horn [2] : 2 coins/day
+[0;37m[32m               some leaves of hemlock : 1 coin/day
+[0;37m[32m                      some poison ivy : 1 coin/day
+[0;37m[33m                      a sprig of pine : 1 coin/day
+[0;37m[33m                      a waterskin [4] : 0 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 2901 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 14 days.'
+The stronghold receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

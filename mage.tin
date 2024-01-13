@@ -154,6 +154,7 @@
 #alias as {cast 'arcane spear' %0;}
 #alias pain {cast 'pain' %0;}
 #alias inv {cast 'inv' %0;}
+#alias rep {cast 'repose' %0;}
 
 #alias {rrrrrr}
 {

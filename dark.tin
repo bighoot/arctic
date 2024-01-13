@@ -1,0 +1,19 @@
+#alias cur {cast 'curse' %0;}
+#alias um {cast 'unholy might';}
+
+#alias bless {cast 'bless' %0;}
+#alias blind {cast 'blind' %0;}
+#alias cloak {cast 'cloak of shadows';}
+#alias pfg {cast 'prot from good' %0;}
+#alias ray {cast 'ray of enf' %0;}
+
+#alias dm {cast 'dispel magic' %0;}
+#alias frac {cast 'free action' %0;}
+#alias nv {cast 'nightvision';}
+#alias poi {cast 'poison' %0;}
+#alias sl {cast 'soul le' %0;}
+#alias bli {case 'blind' %0;}
+
+#alias dark {cast 'darkness' %0;}
+#alias feeb {cast 'feeblemind' %0;}
+

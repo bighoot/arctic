@@ -1,0 +1,15 @@
+Druid Skills
+
+Weapons - axes(80), blud(75), l.blades(75), s.blades(75), piercers(75), misc(75)
+
+Commune with Nature(90) - No stat modifiers, duration = (skill / 15) + 2, adds (skill / 6) +5 health, adds (skill / 4) + 25 to concentration, if your skill is more than 30 you get SLEEP_AWARENESS, skill more than 40 adds (skill / 6) to your mem_factor, skill more than 60 gives you IMMUNE_MIST, skill more than 70 adds (skill - 30) / 6 to your MENTAL_ACUITY, it looks like IMMUNE_MIST applies to the spell Obscuring Mist
+
+Bandage(75) - No stat modifiers
+
+Brew(90) - No stat modifiers
+
+Scribe(90) - No stat modifiers
+
+*Reclaim Land - No stat modifiers, cooldown = 10 - (Wis / 12), duration = 1 + (skill / 20), as your skill improves you turn the room into a Grove, Library/Temple, and a Druid Shrine, Druid Shrine takes max skill and allows use of Prevailing Winds buffs the entire group with Barkskin and when skill > 80 buffs the entire group with Stoneskin too
+
+*Cultivate - No stat modifiers, does 30d3 + 30 damage to a single target, heals the group for almost as much as a Cure Serious

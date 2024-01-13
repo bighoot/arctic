@@ -1,0 +1,1566 @@
+[0m#LOG: LOGGING OUTPUT TO 'spirit_test.txt' FILESIZE: 0[0m
+[0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:35 Exits:S> [0;37ml[0m
+[36mA Muddy Hatchery[0;37m
+    Disgusting, slimy brown mud covers almost every inch of the stonework
+in this dragon pen. It is riddled with small pieces of dragon feces and
+creamy fragments of broken eggshells, having been shattered under foot and
+mixed into the filth. There are still a few intact dragon eggs lying on the
+far wall of the pen, though whether or not the baby dragons inside them
+will ever hatch is a mystery. The air in this pen is thick and moist,
+making it a perfect carrier for the utterly rancid stench that is emanating
+from the brown slime that coats the area. It seems unimaginable that any
+creature could actually live in these conditions.
+[33m[1mA handful of roasted chestnuts is lying on the ground.
+A lump of wax remains here.
+Sprinkled all about are silvery flakes of powder.
+[0;37m[31m[1mEnye the Male Human is resting here. (flying)
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:34 Exits:S> [0;37mb pushup[0m
+[0;37mb push[0m
+
+Enye does push-ups.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:25 Exits:S> [0;37ml[0m
+[36mA Muddy Hatchery[0;37m
+    Disgusting, slimy brown mud covers almost every inch of the stonework
+in this dragon pen. It is riddled with small pieces of dragon feces and
+creamy fragments of broken eggshells, having been shattered under foot and
+mixed into the filth. There are still a few intact dragon eggs lying on the
+far wall of the pen, though whether or not the baby dragons inside them
+will ever hatch is a mystery. The air in this pen is thick and moist,
+making it a perfect carrier for the utterly rancid stench that is emanating
+from the brown slime that coats the area. It seems unimaginable that any
+creature could actually live in these conditions.
+[33m[1mA handful of roasted chestnuts is lying on the ground.
+A lump of wax remains here.
+Sprinkled all about are silvery flakes of powder.
+[0;37m[31m[1mEnye the Male Human is resting here. (flying)
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:24 Exits:S> [0;37mb stretch[0m
+
+Enye stretches his stiff and tired muscles.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:18 Exits:S> [0;37mb flex[0m
+
+Enye flexes. What muscles!
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:16 Exits:S> [0;37mb bend[0m
+[0;37ml[0m
+[36mA Muddy Hatchery[0;37m
+    Disgusting, slimy brown mud covers almost every inch of the stonework
+in this dragon pen. It is riddled with small pieces of dragon feces and
+creamy fragments of broken eggshells, having been shattered under foot and
+mixed into the filth. There are still a few intact dragon eggs lying on the
+far wall of the pen, though whether or not the baby dragons inside them
+will ever hatch is a mystery. The air in this pen is thick and moist,
+making it a perfect carrier for the utterly rancid stench that is emanating
+from the brown slime that coats the area. It seems unimaginable that any
+creature could actually live in these conditions.
+[33m[1mA handful of roasted chestnuts is lying on the ground.
+A lump of wax remains here.
+Sprinkled all about are silvery flakes of powder.
+[0;37m[31m[1mEnye the Male Human is resting here. (flying)
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:12 Exits:S> [0;37mb toe[0m
+[0;37mb touch[0m
+[0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:6 Exits:S> [0;37msc[0m
+You are Oomlat the Male Human, a level 21 Shaman.
+You are rank 4. You have completed 16.64% of your next rank.
+You are 17 years old.
+You have 278(278) hit and 131(131) movement points.
+Your behaviour has been Good.
+The warmth of good envelops your soul.
+You have scored 9,005,643 exp, and have 3589(5760) steel coins.
+You need 1,394,357 more experience to advance.
+You have never died.
+You have been connected for 6 minute(s).
+You have been playing for 0 day(s), 5 hour(s) and 54 minute(s).
+Your natural ability scores are:
+        Str: 16 Int: 17 Wis: 15 Dex: 13 Con: 16 Cha: 19
+Your equipment is currently not being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are watching Enye.
+You are affected by the following:
+    blocked: moment of clarity
+    ancestral shroud     [7 hrs]
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:4 Exits:S> 
+Your meditation finished, you put away your charms with a smile.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:S> [0m[1;35;49m *******>>> FOLLOWER A-O-G IS GONE <<<*******[0m
+[0;37ml[0m
+[36mA Muddy Hatchery[0;37m
+    Disgusting, slimy brown mud covers almost every inch of the stonework
+in this dragon pen. It is riddled with small pieces of dragon feces and
+creamy fragments of broken eggshells, having been shattered under foot and
+mixed into the filth. There are still a few intact dragon eggs lying on the
+far wall of the pen, though whether or not the baby dragons inside them
+will ever hatch is a mystery. The air in this pen is thick and moist,
+making it a perfect carrier for the utterly rancid stench that is emanating
+from the brown slime that coats the area. It seems unimaginable that any
+creature could actually live in these conditions.
+[33m[1mA handful of roasted chestnuts is lying on the ground.
+A lump of wax remains here.
+Sprinkled all about are silvery flakes of powder.
+[0;37m[31m[1mEnye the Male Human is resting here. (flying)
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mT:58 Exits:S> [0;37mcast 'an sp'[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mT:52 Exits:S> [0;37msta[0m
+You stand up.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mT:51 Exits:S> [0;37mcast 'an sp'[0m
+You utter the words, 'ancestral spirit'
+An ancestral spirit materializes.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:50 Exits:S> [0;37mfight dragon[0m
+
+Enye kneels with a look of humility, but his prayers go unanswered.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:43 Exits:S> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Nobody here is a loyal subject of yours!
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:42 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:41 Exits:S> 
+But they're not fighting anyone!
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:41 Exits:S> [0;37ml[0m
+[36mA Muddy Hatchery[0;37m
+    Disgusting, slimy brown mud covers almost every inch of the stonework
+in this dragon pen. It is riddled with small pieces of dragon feces and
+creamy fragments of broken eggshells, having been shattered under foot and
+mixed into the filth. There are still a few intact dragon eggs lying on the
+far wall of the pen, though whether or not the baby dragons inside them
+will ever hatch is a mystery. The air in this pen is thick and moist,
+making it a perfect carrier for the utterly rancid stench that is emanating
+from the brown slime that coats the area. It seems unimaginable that any
+creature could actually live in these conditions.
+[33m[1mA handful of roasted chestnuts is lying on the ground.
+A lump of wax remains here.
+Sprinkled all about are silvery flakes of powder.
+[0;37m[31m[1mAn ancestral human spirit is floating here. (grey aura)
+Enye the Male Human is resting here. (flying)
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+A newborn white dragon hatchling is here, screaming for food.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:38 Exits:S> [0;37mb sta[0m
+
+-#-#-#-#-#-#-#-> Enye <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:37 Exits:S> [0;37mfight dragon[0m
+
+Enye slashes a white dragon hatchling very hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mV.Good[0;37m**] [0;37mMem:2 T:35 Exits:S> 
+Nobody here is a loyal subject of yours!
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mV.Good[0;37m**] [0;37mMem:2 T:34 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mV.Good[0;37m**] [0;37mMem:2 T:34 Exits:S> 
+You miss a white dragon hatchling with your hit.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[32mV.Good[0;37m] [0;37mMem:2 T:34 Exits:S> 
+You stop watching Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[32mV.Good[0;37m] [0;37mMem:2 T:34 Exits:S> 
+A white dragon hatchling utters some strange words.
+A white dragon hatchling smiles as the air around her is set ablaze.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling extremely hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling misses Enye with her claw.
+An ancestral spirit hits a white dragon hatchling very hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:32 Exits:S> 
+Enye strikes at a white dragon hatchling, but misses completely.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:30 Exits:S> 
+An ancestral spirit hits a white dragon hatchling very hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling claws Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:28 Exits:S> 
+A white dragon hatchling gazes at Enye with a look of evilness.
+Enye staggers about confused.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:26 Exits:S> 
+Enye staggers about confused!
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+An ancestral spirit misses a white dragon hatchling with his hit.
+You miss a white dragon hatchling with your hit.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:24 Exits:S> [0;37msc[0m
+You are Oomlat the Male Human, a level 21 Shaman.
+You are rank 4. You have completed 16.64% of your next rank.
+You are 17 years old.
+You have 278(278) hit and 131(131) movement points.
+Your behaviour has been Good.
+The warmth of good envelops your soul.
+You have scored 9,005,643 exp, and have 3589(5760) steel coins.
+You need 1,394,357 more experience to advance.
+You have never died.
+You have been connected for 7 minute(s).
+You have been playing for 0 day(s), 5 hour(s) and 55 minute(s).
+Your natural ability scores are:
+        Str: 16 Int: 17 Wis: 15 Dex: 13 Con: 16 Cha: 19
+Your equipment is currently not being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are fighting a white dragon hatchling.
+You are affected by the following:
+    ancestral spirit     [12 hrs]
+    blessing of the human spirits
+    blocked: moment of clarity
+    ancestral shroud     [6 hrs]
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1394357X 16.64% 3589C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:23 Exits:S> 
+A white dragon hatchling delivers a quick snap kick to Enye. Enye staggers and tries to recover.
+Enye staggers about confused!
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+An ancestral spirit hits a white dragon hatchling very hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You bruise a white dragon hatchling with your hit.
+You feel intense pain as you swing through a white dragon hatchling's flaming aura.
+A white dragon hatchling claws Enye hard.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1394318X 16.64% 3589C [Enye:[0;37m[33m[1mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:20 Exits:S> 
+Enye staggers about confused!
+Enye staggers about confused!
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+An ancestral spirit hits a white dragon hatchling extremely hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+A white dragon hatchling misses Enye with her claw.
+A white dragon hatchling claws Enye hard.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1394318X 16.64% 3589C [Enye:[0;37m[33m[1mGood[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:16 Exits:S> 
+A white dragon hatchling utters some strange words.
+A bright light flashes and a white dragon hatchling begins to shine from within.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1394318X 16.64% 3589C [Enye:[0;37m[33m[1mGood[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:14 Exits:S> 
+Enye staggers about confused!
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+An ancestral spirit hits a white dragon hatchling hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+A white dragon hatchling claws Enye.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1394318X 16.64% 3589C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:12 Exits:S> 
+A white dragon hatchling gazes at Enye with a look of evilness.
+Enye slashes a white dragon hatchling extremely hard.
+You receive 67686 experience.
+A white dragon hatchling is dead! R.I.P.
+The death cry of a white dragon hatchling echoes from somewhere nearby...
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [0;37mMem:2 T:8 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 67686[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [0;37mMem:2 T:8 Exits:S> 
+You get a powerfully blessed bandage from the corpse of a white dragon hatchling.
+You get a small chunk of licorice root from the corpse of a white dragon hatchling.
+You get a dram of giant slug digestive acid from the corpse of a white dragon hatchling.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [0;37mMem:2 T:8 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [0;37mMem:2 T:8 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [0;37mMem:2 T:7 Exits:S> [0;37mwatch enye[0m
+You now watch Enye.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [**Enye:[0;37m[33m[1mFair[0;37m**] [0;37mMem:2 T:5 Exits:S> [0;37mcc enye[0m
+You utter the words, 'cure critical'
+Large open gashes on Enye's body quickly heal.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [**Enye:[0;37m[32mGood[0;37m**] [0;37mMem:2 T:3 Exits:S> [0;37mcc enye[0m
+You utter the words, 'cure critical'
+Large open gashes on Enye's body quickly heal.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:59 Exits:S> [0;37mfight dragon[0m
+
+Enye slashes a white dragon hatchling extremely hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mGood[0;37m**] [0;37mMem:2 T:56 Exits:S> 
+Nobody here is a loyal subject of yours!
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mGood[0;37m**] [0;37mMem:2 T:55 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mGood[0;37m**] [0;37mMem:2 T:54 Exits:S> 
+You miss a white dragon hatchling with your hit.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[32mGood[0;37m] [0;37mMem:2 T:54 Exits:S> 
+You stop watching Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326632X 16.64% 3589C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[32mGood[0;37m] [0;37mMem:2 T:54 Exits:S> 
+You bruise a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling hard.
+A white dragon hatchling's blow is absorbed by Enye's armor.
+An ancestral spirit hits a white dragon hatchling very hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:52 Exits:S> 
+A white dragon hatchling utters some strange words.
+A darkness seems to flow within a white dragon hatchling.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:51 Exits:S> 
+Enye strikes at a white dragon hatchling, but misses completely.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:50 Exits:S> 
+An ancestral spirit hits a white dragon hatchling very hard.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye deflects part of a white dragon hatchling's blow with his shield.
+A white dragon hatchling barely claws Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:48 Exits:S> 
+A white dragon hatchling gazes at Enye with a look of evilness.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:45 Exits:S> 
+An ancestral spirit misses a white dragon hatchling with his hit.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling hard.
+Enye deflects part of a white dragon hatchling's blow with his shield.
+A white dragon hatchling barely claws Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:44 Exits:S> 
+An ancestral spirit hits a white dragon hatchling hard.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:40 Exits:S> 
+A white dragon hatchling utters some strange words.
+A white dragon hatchling smiles as the air around her is set ablaze.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:39 Exits:S> 
+An ancestral spirit hits a white dragon hatchling extremely hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+Enye deflects part of a white dragon hatchling's blow with his shield.
+A white dragon hatchling barely claws Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:36 Exits:S> 
+A white dragon hatchling utters some strange words.
+The air shimmers and crackles around a white dragon hatchling.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:33 Exits:S> 
+An ancestral spirit hits a white dragon hatchling very hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1326613X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:32 Exits:S> 
+An ancestral spirit hits a white dragon hatchling extremely hard.
+You receive 67549 experience.
+A white dragon hatchling is dead! R.I.P.
+The death cry of a white dragon hatchling echoes from somewhere nearby...
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [0;37mMem:2 T:28 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 67549[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [0;37mMem:2 T:28 Exits:S> 
+You get some nightshade berries from the corpse of a white dragon hatchling.
+You get the hind leg of a grasshopper from the corpse of a white dragon hatchling.
+You get an opaque cornea from the corpse of a white dragon hatchling.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [0;37mMem:2 T:28 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [0;37mMem:2 T:28 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [0;37mMem:2 T:28 Exits:S> [0;37ml[0m
+[36mA Muddy Hatchery[0;37m
+    Disgusting, slimy brown mud covers almost every inch of the stonework
+in this dragon pen. It is riddled with small pieces of dragon feces and
+creamy fragments of broken eggshells, having been shattered under foot and
+mixed into the filth. There are still a few intact dragon eggs lying on the
+far wall of the pen, though whether or not the baby dragons inside them
+will ever hatch is a mystery. The air in this pen is thick and moist,
+making it a perfect carrier for the utterly rancid stench that is emanating
+from the brown slime that coats the area. It seems unimaginable that any
+creature could actually live in these conditions.
+[33m[1mThe corpse of a white dragon hatchling is lying here. [2]
+A handful of roasted chestnuts is lying on the ground.
+A lump of wax remains here.
+Sprinkled all about are silvery flakes of powder.
+[0;37m[31m[1mAn ancestral human spirit is floating here. (grey aura)
+Enye the Male Human is standing here. (flying)
+A newborn white dragon hatchling is here, screaming for food.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [0;37mMem:2 T:26 Exits:S> [0;37mwatch enye[0m
+You now watch Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [**Enye:[0;37m[32mV.Good[0;37m**] [0;37mMem:2 T:21 Exits:S> [0;37mcs enye[0m
+You utter the words, 'cure serious'
+A few of Enye's nastier scrapes disappear.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:20 Exits:S> [0;37mfight dragon[0m
+
+Enye slashes a white dragon hatchling very hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mV.Good[0;37m**] [0;37mMem:2 T:17 Exits:S> 
+Enye slashes a white dragon hatchling extremely hard.
+A white dragon hatchling claws Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [**Enye:[0;37m[32mV.Good[0;37m**] [**a white dragon hatchling:[0;37m[33m[1mGood[0;37m**] [0;37mMem:2 T:16 Exits:S> 
+Nobody here is a loyal subject of yours!
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [**Enye:[0;37m[32mV.Good[0;37m**] [**a white dragon hatchling:[0;37m[33m[1mGood[0;37m**] [0;37mMem:2 T:15 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [**Enye:[0;37m[32mV.Good[0;37m**] [**a white dragon hatchling:[0;37m[33m[1mGood[0;37m**] [0;37mMem:2 T:15 Exits:S> 
+A white dragon hatchling utters some strange words.
+A darkness seems to flow within a white dragon hatchling.
+You miss a white dragon hatchling with your hit.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mGood[0;37m] [0;37mMem:2 T:15 Exits:S> 
+You stop watching Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mGood[0;37m] [0;37mMem:2 T:15 Exits:S> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+A white dragon hatchling misses Enye with her claw.
+An ancestral spirit hits a white dragon hatchling hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:12 Exits:S> 
+Enye strikes at a white dragon hatchling, but misses completely.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:11 Exits:S> 
+A white dragon hatchling utters some strange words.
+A white dragon hatchling smiles as the air around her is set ablaze.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:9 Exits:S> 
+An ancestral spirit hits a white dragon hatchling very hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling extremely hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling barely claws Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:8 Exits:S> 
+An ancestral spirit hits a white dragon hatchling.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling bruises Enye with her claw.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:4 Exits:S> 
+A white dragon hatchling has her casting disrupted by the fighting.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:3 Exits:S> 
+An ancestral spirit hits a white dragon hatchling hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:60 Exits:S> 
+A white dragon hatchling utters some strange words.
+A bright light flashes and a white dragon hatchling begins to shine from within.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:57 Exits:S> 
+An ancestral spirit hits a white dragon hatchling hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling extremely hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling claws Enye hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:56 Exits:S> 
+An ancestral spirit hits a white dragon hatchling hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling claws Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:52 Exits:S> 
+A white dragon hatchling crashes into Enye in a thundering collision, knocking him to the ground!
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1259064X 16.64% 3589C [Enye:[0;37m[33m[1mGood[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:51 Exits:S> 
+An ancestral spirit hits a white dragon hatchling hard.
+An ancestral spirit appears to grow stronger.
+A white dragon hatchling's fireshield does her little good as an ancestral spirit takes a swing at her.
+A white dragon hatchling is stunned, but will likely regain consciousness again.
+You miss a white dragon hatchling with your hit.
+You feel intense pain as you swing through a white dragon hatchling's flaming aura.
+A white dragon hatchling is stunned, but will likely regain consciousness again.
+Enye MASSACREs a white dragon hatchling with his slash.
+You receive 67767 experience.
+A white dragon hatchling is dead! R.I.P.
+The death cry of a white dragon hatchling echoes from somewhere nearby...
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [0;37mMem:2 T:48 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 67767[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [0;37mMem:2 T:48 Exits:S> 
+You get a dried sea sponge from the corpse of a white dragon hatchling.
+You get a withered tulip from the corpse of a white dragon hatchling.
+Needle : You can't carry that many items.
+Soybean : You can't carry that many items.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [0;37mMem:2 T:48 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [0;37mMem:2 T:48 Exits:S> 
+corpse (here) : 
+a magnetized needle
+a soybean seed
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [0;37mMem:2 T:48 Exits:S> [0;37mrecover[0m
+You now watch Enye.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[33m[1mGood[0;37m**] [0;37mMem:2 T:45 Exits:S> 
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[33m[1mGood[0;37m**] [0;37mMem:1 T:45 Exits:S> 
+You apply bandages to your wounds and hope for the best.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[33m[1mGood[0;37m**] [0;37mMem:1 T:45 Exits:S> [0;37mb[0m
+
+-#-#-#-#-#-#-#-> Enye <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[33m[1mGood[0;37m**] [0;37mMem:1 T:43 Exits:S> 
+Enye begins resting but stays aloft.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[33m[1mGood[0;37m**] [0;37mMem:1 T:43 Exits:S> 
+Enye applies bandages to his wounds.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[33m[1mGood[0;37m**] [0;37mMem:1 T:42 Exits:S> [0m[1;31;49m-->FOLLOWER SKILLFUL<--[0m
+
+Your meditation finished, you put away your charms with a smile.
+An ancestral spirit transcends this world and enters another plane.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mV.Good[0;37m**] [0;37mT:60 Exits:S> [0;37m[0m
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mV.Good[0;37m**] [0;37mT:23 Exits:S> [0;37mboth sta[0m
+You stand up.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mV.Good[0;37m**] [0;37mT:22 Exits:S> 
+-#-#-#-#-#-#-#-> Enye <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mV.Good[0;37m**] [0;37mT:22 Exits:S> [0;37mcs enye[0m
+You utter the words, 'cure serious'
+A few of Enye's nastier scrapes disappear.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:21 Exits:S> [0;37ms[0m
+[0;37mw[0m
+[0;37mget axe[0m
+Enye flies in from the north.
+[36mCentre of the Hatchery[0;37m
+    This small stone building has been converted into a dragon hatchery
+where the White Dragonarmy births and raises the next generation of
+fearsome white dragons that will reign death upon their enemies. The floor
+of the building is layered with filthy brown mud that is interwoven with
+small pellets of dragon feces and is in desperate need of cleaning, though
+it would take a small army working for numerous days to reverse the
+hygenial neglect this building has gone through in recent times.
+[33m[1mA pair of thick leather gloves have been dropped here.
+[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m130V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:16 Exits:NSW> 
+Enye flies in from the east.
+[36mThe Dusty Training Grounds[0;37m
+    Thick dust covers the floor of the training grounds which swirls
+through the air when it is kicked up by dragonarmy recruits honing their
+combat skills. Wooden training dummies crafted to loosely resemble a
+humanoid figure are scattered through the area, covered with large notches
+and gouges where metal weapons have bit deep into their timber. Marring the
+dust covered ground are a few splashes of crimson, most likely dried blood
+that was spilt during heated sparring sessions. The dusty training grounds
+continues to extend outwards to the west and south, and an iron gate to the
+east leads into a dusty wooden building.
+[33m[1mA small key of cold, white iron rests gently here.
+A shiny pair of black sergeant's boots have been left here.
+A pile of steel coins.
+A steel battleaxe lies here.
+A pile of steel coins.
+[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:16 Exits:ESW> 
+Axe : You can't carry that many items.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:16 Exits:ESW> [0;37min[0m
+You are carrying:
+a withered tulip
+a dried sea sponge
+an opaque cornea
+the hind leg of a grasshopper
+some nightshade berries
+a dram of giant slug digestive acid
+a small chunk of licorice root
+a powerfully blessed bandage
+a glowing scroll of recall..it glows dimly [2]
+some coarsely ground fire ants
+a smear of green mud
+a broken piece of a mirror
+a garlic clove
+some dried bat guano
+some volcanic ash [2]
+some crimson fox hairs
+a dried sea sponge
+a miniature golden lyre
+a deformed crow's leg
+a pinch of chameleon dust
+a common scroll
+a small leather bag
+a hooded lantern
+a loaf of bread [2]
+a waterskin
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:13 Exits:ESW> [0;37mput all.component bag[0m
+You put a withered tulip in a small leather bag.
+You put a dried sea sponge in a small leather bag.
+You put an opaque cornea in a small leather bag.
+You put the hind leg of a grasshopper in a small leather bag.
+You put some nightshade berries in a small leather bag.
+You put a dram of giant slug digestive acid in a small leather bag.
+You put a small chunk of licorice root in a small leather bag.
+You put a powerfully blessed bandage in a small leather bag.
+Some coarsely ground fire ants won't fit.
+A smear of green mud won't fit.
+A broken piece of a mirror won't fit.
+A garlic clove won't fit.
+Some dried bat guano won't fit.
+Some volcanic ash won't fit.
+Some volcanic ash won't fit.
+You put some crimson fox hairs in a small leather bag.
+A dried sea sponge won't fit.
+You put a miniature golden lyre in a small leather bag.
+You put a deformed crow's leg in a small leather bag.
+You put a pinch of chameleon dust in a small leather bag.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:9 Exits:ESW> [0;37mget axe[0m
+You get a steel battleaxe.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:7 Exits:ESW> [0;37ml[0m
+[36mThe Dusty Training Grounds[0;37m
+    Thick dust covers the floor of the training grounds which swirls
+through the air when it is kicked up by dragonarmy recruits honing their
+combat skills. Wooden training dummies crafted to loosely resemble a
+humanoid figure are scattered through the area, covered with large notches
+and gouges where metal weapons have bit deep into their timber. Marring the
+dust covered ground are a few splashes of crimson, most likely dried blood
+that was spilt during heated sparring sessions. The dusty training grounds
+continues to extend outwards to the west and south, and an iron gate to the
+east leads into a dusty wooden building.
+[33m[1mA small key of cold, white iron rests gently here.
+A shiny pair of black sergeant's boots have been left here.
+A pile of steel coins. [2]
+[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3589C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:7 Exits:ESW> [0;37mget all.coins[0m
+You get a pile of coins.
+There were 76 coins.
+You get a pile of coins.
+There were 27 coins.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3692C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:4 Exits:ESW> 
+You divide 76 coins equally among the group members present.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3654C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:3 Exits:ESW> 
+You can't split 27 evenly among the people in the room; splitting 26 instead.
+You divide 26 coins equally among the group members present.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:1 T:3 Exits:ESW> 
+Your meditation finished, you put away your charms with a smile.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:ESW> [0;37me[0m
+Enye flies in from the west.
+[36mCentre of the Hatchery[0;37m
+    This small stone building has been converted into a dragon hatchery
+where the White Dragonarmy births and raises the next generation of
+fearsome white dragons that will reign death upon their enemies. The floor
+of the building is layered with filthy brown mud that is interwoven with
+small pellets of dragon feces and is in desperate need of cleaning, though
+it would take a small army working for numerous days to reverse the
+hygenial neglect this building has gone through in recent times.
+[33m[1mA pair of thick leather gloves have been dropped here.
+[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m130V [0;37m1191297X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mT:55 Exits:NSW> [0;37ms[0m
+Enye flies in from the north.
+[36mA Muddy Hatchery[0;37m
+    Disgusting, slimy brown mud covers almost every inch of the stonework
+in this dragon pen. It is riddled with small pieces of dragon feces and
+creamy fragments of broken eggshells, having been shattered under foot and
+mixed into the filth. There are still a few intact dragon eggs lying on the
+far wall of the pen, though whether or not the baby dragons inside them
+will ever hatch is a mystery. The air in this pen is thick and moist,
+making it a perfect carrier for the utterly rancid stench that is emanating
+from the brown slime that coats the area. It seems unimaginable that any
+creature could actually live in these conditions.
+[33m[1mA powerfuly blessed bandage is strewn here.
+A vial of clear liquid was left here.
+A tiny acorn rolls about on the ground.
+Broken eggshells litter the ground.
+[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A newborn white dragon hatchling is here, screaming for food.
+A juvenile white dragon lies curled up in a deep slumber.
+A newborn white dragon hatchling is here, screaming for food.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mT:50 Exits:N> [0;37mfight dragon[0m
+
+Enye kneels with a look of humility, but his prayers go unanswered.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:N> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Enye slashes a white dragon hatchling hard.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mV.Good[0;37m**] [0;37mT:37 Exits:N> 
+Enye slashes a white dragon hatchling extremely hard.
+A white dragon hatchling claws Enye.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [**Enye:[0;37m[32mV.Good[0;37m**] [**a white dragon hatchling:[0;37m[32mGood[0;37m**] [0;37mT:36 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [**Enye:[0;37m[32mV.Good[0;37m**] [**a white dragon hatchling:[0;37m[32mGood[0;37m**] [0;37mT:36 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [**Enye:[0;37m[32mV.Good[0;37m**] [**a white dragon hatchling:[0;37m[32mGood[0;37m**] [0;37mT:36 Exits:N> 
+You miss a white dragon hatchling with your hit.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[32mGood[0;37m] [0;37mT:35 Exits:N> 
+You stop watching Enye.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[32mGood[0;37m] [0;37mT:35 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mGood[0;37m] [0;37mT:32 Exits:N> 
+A white dragon hatchling utters some strange words.
+A bright light flashes and a white dragon hatchling begins to shine from within.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mGood[0;37m] [0;37mT:32 Exits:N> 
+Enye growls a prayer in anger and dives into the fray with a purpose.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mGood[0;37m] [0;37mT:31 Exits:N> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Enye attempts to strike at a white dragon hatchling with his sword.
+Enye slashes a white dragon hatchling.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mT:31 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling extremely hard.
+A white dragon hatchling claws Enye hard.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mT:28 Exits:N> 
+A white dragon hatchling utters some strange words.
+A white dragon hatchling smiles as the air around her is set ablaze.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mT:26 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling extremely hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling's blow is absorbed by Enye's armor.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mT:24 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling extremely hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling claws Enye very hard.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:20 Exits:N> 
+A white dragon hatchling utters some strange words.
+A darkness seems to flow within a white dragon hatchling.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:20 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling claws Enye hard.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:16 Exits:N> 
+A white dragon hatchling utters some strange words.
+The air shimmers and crackles around a white dragon hatchling.
+
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:14 Exits:N> 
+You miss a white dragon hatchling with your hit.
+You feel intense pain as you swing through a white dragon hatchling's flaming aura.
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling claws Enye very hard.
+
+[32m[0;37m[32m276H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:12 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+Enye deflects part of a white dragon hatchling's blow with his shield.
+A white dragon hatchling claws Enye.
+
+[32m[0;37m[32m276H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mV.Bad[0;37m] [0;37mT:8 Exits:N> 
+A white dragon hatchling utters some strange words.
+A white dragon hatchling is surrounded by 2 duplicate images.
+
+[32m[0;37m[32m276H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mV.Bad[0;37m] [0;37mT:8 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling claws Enye very hard.
+
+[32m[0;37m[32m276H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:4 Exits:N> 
+A white dragon hatchling utters some strange words.
+A white dragon hatchling's skin thickens into a protective bark.
+
+[32m[0;37m[32m276H [0;37m[32m129V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:2 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling claws Enye hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:60 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye misses a white dragon hatchling and destroys an image instead.
+A white dragon hatchling claws Enye very hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:56 Exits:N> 
+A white dragon hatchling utters some strange words.
+A white dragon hatchling smiles as the air around her solidifies.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:56 Exits:N> 
+You miss a white dragon hatchling with your hit.
+You feel intense pain as you swing through a white dragon hatchling's flaming aura.
+Enye misses a white dragon hatchling and destroys an image instead.
+A white dragon hatchling barely claws Enye.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:52 Exits:N> 
+A white dragon hatchling utters some strange words.
+A white dragon hatchling is surrounded by 2 duplicate images.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:50 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+Enye deflects part of a white dragon hatchling's blow with his shield.
+A white dragon hatchling's blow is absorbed by Enye's armor.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:48 Exits:N> 
+You miss a white dragon hatchling with your hit.
+You feel intense pain as you swing through a white dragon hatchling's flaming aura.
+Enye misses a white dragon hatchling and destroys an image instead.
+A white dragon hatchling barely claws Enye.
+
+[32m[0;37m[32m276H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:44 Exits:N> 
+A white dragon hatchling gazes at Enye with a pathetic look of evilness.
+
+[32m[0;37m[32m276H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:44 Exits:N> 
+You miss a white dragon hatchling with your hit.
+You feel intense pain as you swing through a white dragon hatchling's flaming aura.
+Enye misses a white dragon hatchling and destroys an image instead.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:40 Exits:N> 
+A white dragon hatchling gazes at Enye with a look of evilness.
+Enye staggers about confused.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:38 Exits:N> 
+Enye staggers about confused!
+Enye misses a white dragon hatchling with his slash.
+You miss a white dragon hatchling with your hit.
+A white dragon hatchling barely claws Enye.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mBad[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:36 Exits:N> 
+Enye staggers about confused!
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+You miss a white dragon hatchling with your hit.
+A white dragon hatchling barely claws Enye.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mBad[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:32 Exits:N> 
+A white dragon hatchling tries to sweep Enye's legs, but misses badly.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1191297X 16.64% 3641C [Enye:[0;37m[33m[1mBad[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mT:32 Exits:N> 
+Enye staggers about confused!
+Enye slashes a white dragon hatchling very hard.
+You receive 67767 experience.
+A white dragon hatchling is dead! R.I.P.
+The death cry of a white dragon hatchling echoes from somewhere nearby...
+A spirit rises from the body of a white dragon hatchling.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [0;37mT:28 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 67767[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [0;37mT:28 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [0;37mT:28 Exits:N> 
+You can't find that container.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [0;37mT:28 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [0;37mT:28 Exits:N> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [0;37mT:11 Exits:N> [0;37mcc enye[0m
+You utter the words, 'cure critical'
+Large open gashes on Enye's body quickly heal.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [0;37mMem:2 T:9 Exits:N> [0;37ml[0m
+[0;37mwatch enye[0m
+[36mA Muddy Hatchery[0;37m
+    Disgusting, slimy brown mud covers almost every inch of the stonework
+in this dragon pen. It is riddled with small pieces of dragon feces and
+creamy fragments of broken eggshells, having been shattered under foot and
+mixed into the filth. There are still a few intact dragon eggs lying on the
+far wall of the pen, though whether or not the baby dragons inside them
+will ever hatch is a mystery. The air in this pen is thick and moist,
+making it a perfect carrier for the utterly rancid stench that is emanating
+from the brown slime that coats the area. It seems unimaginable that any
+creature could actually live in these conditions.
+[33m[1mThe corpse of a white dragon hatchling is lying here.
+A powerfuly blessed bandage is strewn here.
+A vial of clear liquid was left here.
+A tiny acorn rolls about on the ground.
+Broken eggshells litter the ground.
+[0;37m[31m[1m[37m[1mThe spirit of a white dragon hatchling is hovering here. (grey aura)
+[31mEnye the Male Human is standing here. (flying)
+A juvenile white dragon lies curled up in a deep slumber.
+A newborn white dragon hatchling is here, screaming for food.
+[0;37m
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [0;37mMem:2 T:5 Exits:N> 
+You now watch Enye.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [**Enye:[0;37m[33m[1mFair[0;37m**] [0;37mMem:2 T:5 Exits:N> [0;37mcc enye[0m
+You utter the words, 'cure critical'
+Large open gashes on Enye's body quickly heal.
+
+[32m[0;37m[32m275H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [**Enye:[0;37m[32mGood[0;37m**] [0;37mMem:2 T:3 Exits:N> 
+[38;5;37mYou throw away your bloody bandages.[0m
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [**Enye:[0;37m[32mV.Good[0;37m**] [0;37mMem:1 T:60 Exits:N> [0;37mcs enye[0m
+You utter the words, 'cure serious'
+A few of Enye's nastier scrapes disappear.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [0;37mMem:2 T:58 Exits:N> [0;37mfight 2.dragon[0m
+
+Enye slashes a white dragon hatchling very hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mV.Good[0;37m**] [0;37mMem:2 T:51 Exits:N> 
+Nobody here is a loyal subject of yours!
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mV.Good[0;37m**] [0;37mMem:2 T:50 Exits:N> 
+A white dragon hatchling utters some strange words.
+The air shimmers and crackles around a white dragon hatchling.
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [**Enye:[0;37m[32mPerfect[0;37m**] [**a white dragon hatchling:[0;37m[32mV.Good[0;37m**] [0;37mMem:2 T:50 Exits:N> 
+You miss a white dragon hatchling with your hit.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[32mV.Good[0;37m] [0;37mMem:2 T:50 Exits:N> 
+You stop watching Enye.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[32mV.Good[0;37m] [0;37mMem:2 T:50 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[32mGood[0;37m] [0;37mMem:2 T:48 Exits:N> 
+Enye strikes at a white dragon hatchling, but misses completely.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123530X 16.64% 3641C [Enye:[0;37m[32mPerfect[0;37m] [a white dragon hatchling:[0;37m[32mGood[0;37m] [0;37mMem:2 T:45 Exits:N> 
+You bruise a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye deflects part of a white dragon hatchling's blow with his shield.
+A white dragon hatchling bruises Enye with her claw.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123491X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:44 Exits:N> 
+You bruise a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling extremely hard.
+A white dragon hatchling claws Enye hard.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123452X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:40 Exits:N> 
+A white dragon hatchling utters some strange words.
+A white dragon hatchling smiles as the air around her is set ablaze.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123452X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:38 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+Enye blocks a white dragon hatchling's blow with a quick raise of his shield.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1123452X 16.64% 3641C [Enye:[0;37m[32mV.Good[0;37m] [a white dragon hatchling:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:36 Exits:N> 
+You bruise a white dragon hatchling with your hit.
+You feel intense pain as you swing through a white dragon hatchling's flaming aura.
+Enye slashes a white dragon hatchling extremely hard.
+Enye is burned, as he swings at a white dragon hatchling.
+Enye deflects part of a white dragon hatchling's blow with his shield.
+A white dragon hatchling bruises Enye with her claw.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:32 Exits:N> 
+A white dragon hatchling utters some strange words.
+A darkness seems to flow within a white dragon hatchling.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:32 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:28 Exits:N> 
+A white dragon hatchling delivers a quick snap kick to Enye. Enye staggers and tries to recover.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[32mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:26 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+Enye deflects part of a white dragon hatchling's blow with his shield.
+A white dragon hatchling bruises Enye with her claw.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[33m[1mGood[0;37m] [a white dragon hatchling:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:24 Exits:N> 
+You miss a white dragon hatchling with your hit.
+Enye slashes a white dragon hatchling extremely hard.
+Enye is burned, as he swings at a white dragon hatchling.
+Enye deflects part of a white dragon hatchling's blow with his shield.
+A white dragon hatchling claws Enye.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:20 Exits:N> 
+A white dragon hatchling gazes at Enye with a look of evilness.
+Enye staggers about confused.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:20 Exits:N> 
+Enye staggers about confused!
+Enye slashes a white dragon hatchling hard.
+Enye is burned, as he swings at a white dragon hatchling.
+You miss a white dragon hatchling with your hit.
+A white dragon hatchling misses Enye with her claw.
+A white dragon hatchling misses Enye with her claw.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:16 Exits:N> 
+A white dragon hatchling utters some strange words.
+A bright light flashes and a white dragon hatchling begins to shine from within.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:14 Exits:N> 
+Enye staggers about confused!
+Enye slashes a white dragon hatchling very hard.
+Enye is burned, as he swings at a white dragon hatchling.
+You miss a white dragon hatchling with your hit.
+A white dragon hatchling barely claws Enye.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1123433X 16.64% 3641C [Enye:[0;37m[33m[1mFair[0;37m] [a white dragon hatchling:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:12 Exits:N> 
+Enye staggers about confused!
+Enye slashes a white dragon hatchling very hard.
+You receive 67716 experience.
+A white dragon hatchling is dead! R.I.P.
+The death cry of a white dragon hatchling echoes from somewhere nearby...
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mMem:2 T:8 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 67716[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mMem:2 T:8 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mMem:2 T:8 Exits:N> 
+You can't find that container.
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mMem:2 T:8 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m277H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mMem:2 T:8 Exits:N> [0;37mb[0m
+
+Your shroud fades away.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mMem:1 T:60 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mMem:1 T:34 Exits:N> 
+Your meditation finished, you put away your charms with a smile.
+The spirit of a white dragon hatchling transcends this world and enters another plane.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:60 Exits:N> 
+The corpse of a white dragon hatchling decays into dust and blows away.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:60 Exits:N> 
+The corpse of a white dragon hatchling decays into dust and blows away.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:60 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:30 Exits:N> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:28 Exits:N> [0;37meq[0m
+You are using:
+<worn on finger>           a signet ring of the White Dragonarmy
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:27 Exits:N> [0;37mwield axe[0m
+You grab the axe with both hands.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:25 Exits:N> [0;37mb[0m
+[0;37m[0m
+[0;37ml[0m
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:20 Exits:N> 
+[36mA Muddy Hatchery[0;37m
+    Disgusting, slimy brown mud covers almost every inch of the stonework
+in this dragon pen. It is riddled with small pieces of dragon feces and
+creamy fragments of broken eggshells, having been shattered under foot and
+mixed into the filth. There are still a few intact dragon eggs lying on the
+far wall of the pen, though whether or not the baby dragons inside them
+will ever hatch is a mystery. The air in this pen is thick and moist,
+making it a perfect carrier for the utterly rancid stench that is emanating
+from the brown slime that coats the area. It seems unimaginable that any
+creature could actually live in these conditions.
+[33m[1mA powerfuly blessed bandage is strewn here.
+A vial of clear liquid was left here.
+A tiny acorn rolls about on the ground.
+Broken eggshells litter the ground.
+[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A juvenile white dragon lies curled up in a deep slumber.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:19 Exits:N> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:18 Exits:N> [0;37mboth recite recall me[0m
+Enye grabs a glowing scroll of recall.
+Enye recites a glowing scroll of recall.
+Enye disappears.
+You stop using a steel battleaxe.
+You grab a glowing scroll of recall.
+You recite a glowing scroll of recall which dissolves.
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:15 Exits:D> [0;37mwield axe[0m
+[0;37md[0m
+[0;37mn[0m
+[0;37mw[0m
+[0;37mw[0m
+[0;37mw[0m
+[0;37mn[0m
+[0;37mn[0m
+[0;37mw[0m
+[0;37mn[0m
+You grab the axe with both hands.
+
+[32m[0;37m[32m278H [0;37m[32m131V [0;37m1055717X 16.64% 3641C [0;37mT:6 Exits:D> 
+Enye flies in from above.
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+The Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m130V [0;37m1055717X 16.64% 3641C [0;37mT:1 Exits:NWU> 
+Enye flies in from the south.
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1055717X 16.64% 3641C [0;37mT:1 Exits:NESW> 
+You are hungry.
+You are thirsty.
+Enye flies in from the east.
+A feral cat rubs up against Enye's leg.
+A feral cat rubs up against your leg.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A feral cat parades her territory and sniffs your leg.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37mA feral cat chases a piece of dust around the room.
+
+[32m[0;37m[32m278H [0;37m[32m130V [0;37m1055717X 16.64% 3641C [0;37mT:60 Exits:NEW> 
+Enye flies in from the east.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A muscular watchman quietly patrols the streets of Port Balifor.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m129V [0;37m1055717X 16.64% 3641C [0;37mT:60 Exits:EW> [0;37mlearn all[0m
+Enye flies in from the east.
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m128V [0;37m1055717X 16.64% 3641C [0;37mT:60 Exits:NESW> 
+Enye flies in from the south.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A young kender stands here, looking about curiously.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m127V [0;37m1055717X 16.64% 3641C [0;37mT:60 Exits:NESW> 
+Enye flies in from the south.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A wandering preacher stands here, trying to convert the people to his faith.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m126V [0;37m1055717X 16.64% 3641C [0;37mT:59 Exits:NSW> 
+Enye flies in from the east.
+[36mGuild Road[0;37m
+    The road leads both east and west, reaching the famed guild halls and
+also Traders Street. Many young guild members trudge miserably back to
+town, most of them ignoring the strange hut to the north.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m125V [0;37m1055717X 16.64% 3641C [0;37mT:59 Exits:NEW> 
+Enye flies in from the south.
+[36mThe Shaman's Hut[0;37m
+    This strange, dimly-lit hut allows novice shaman to practice the arts
+of shamanic rituals and combat. A fine mahogany table holds all sorts of
+mummified heads in the far corner, a weapons rack holds petrified clubs in
+the center of the room, and many small charms dangle from the ironwood
+beams of the peaked ceiling. Oddly, the charms often clang together, as if
+touched by an unfelt breeze or astral life form.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+The master shaman stands here, studying a shrunken head.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m124V [0;37m1055717X 16.64% 3641C [0;37mT:59 Exits:S> 
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+[32m[0;37m[32m278H [0;37m[32m124V [0;37m1055717X 16.64% 3641C [0;37mT:59 Exits:S> [0;37ms[0m
+Enye flies in from the north.
+[36mGuild Road[0;37m
+    The road leads both east and west, reaching the famed guild halls and
+also Traders Street. Many young guild members trudge miserably back to
+town, most of them ignoring the strange hut to the north.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m123V [0;37m1055717X 16.64% 3641C [0;37mT:56 Exits:NEW> [0;37mq[0m
+You have to write quit - no less, to quit!
+
+[32m[0;37m[32m278H [0;37m[32m123V [0;37m1055717X 16.64% 3641C [0;37mT:56 Exits:NEW> [0;37mw[0m
+Enye flies in from the east.
+[36mGuild Road[0;37m
+    The roads leads east and west between the buildings and halls. To the
+north is the warriors' arena, where sounds of clashing weapons can be
+heard. South of you, followers of Takhisis dressed in dark metal armor and
+wielding dangerous long swords train against one another. Sparks fly from
+bare metal in both directions.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A young kender stands here, looking about curiously.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m122V [0;37m1055717X 16.64% 3641C [0;37mT:55 Exits:NESW> [0;37mw[0m
+Enye flies in from the east.
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m121V [0;37m1055717X 16.64% 3641C [0;37mT:54 Exits:NESW> [0;37mw[0m
+Enye flies in from the east.
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the mages' laboratory, while to the south is the clerics' sanctum.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m120V [0;37m1055717X 16.64% 3641C [0;37mT:54 Exits:NESW> [0;37mw[0m
+Enye flies in from the east.
+[36mGuild Road[0;37m
+    Guild road leads both east and west. To the east are some very large
+buildings and halls, home of apprentices and masters alike. Sounds of
+combat and spell casting are thick in the air.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A feral cat parades her territory and sniffs your leg.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m119V [0;37m1055717X 16.64% 3641C [0;37mT:54 Exits:NESW> [0;37ma[0m
+[0;37mb[0m
+
+A watchman of Port Balifor leaves north.
+
+[32m[0;37m[32m278H [0;37m[32m119V [0;37m1055717X 16.64% 3641C [0;37mT:51 Exits:NESW> 
+A feral cat rubs up against Enye's leg.
+Enye flies south.
+
+[32m[0;37m[32m278H [0;37m[32m119V [0;37m1055717X 16.64% 3641C [0;37mT:50 Exits:NESW> 
+Enye flies in from the south.
+
+[32m[0;37m[32m278H [0;37m[32m119V [0;37m1055717X 16.64% 3641C [0;37mT:47 Exits:NESW> [0;37m[0m
+
+[32m[0;37m[32m278H [0;37m[32m119V [0;37m1055717X 16.64% 3641C [0;37mT:46 Exits:NESW> [0;37me[0m
+Enye flies in from the west.
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the mages' laboratory, while to the south is the clerics' sanctum.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m118V [0;37m1055717X 16.64% 3641C [0;37mT:46 Exits:NESW> [0;37me[0m
+Enye flies in from the west.
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A mouse scampers about, scavenging for food and avoiding feral cats.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m117V [0;37m1055717X 16.64% 3641C [0;37mT:46 Exits:NESW> [0;37me[0m
+Enye flies in from the west.
+[36mGuild Road[0;37m
+    The roads leads east and west between the buildings and halls. To the
+north is the warriors' arena, where sounds of clashing weapons can be
+heard. South of you, followers of Takhisis dressed in dark metal armor and
+wielding dangerous long swords train against one another. Sparks fly from
+bare metal in both directions.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A young kender stands here, looking about curiously.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m116V [0;37m1055717X 16.64% 3641C [0;37mT:45 Exits:NESW> [0;37me[0m
+Enye flies in from the west.
+[36mGuild Road[0;37m
+    The road leads both east and west, reaching the famed guild halls and
+also Traders Street. Many young guild members trudge miserably back to
+town, most of them ignoring the strange hut to the north.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m115V [0;37m1055717X 16.64% 3641C [0;37mT:45 Exits:NEW> [0;37me[0m
+Enye flies in from the west.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m114V [0;37m1055717X 16.64% 3641C [0;37mT:45 Exits:NSW> [0;37ms[0m
+Enye flies in from the north.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m113V [0;37m1055717X 16.64% 3641C [0;37mT:45 Exits:NESW> [0;37ms[0m
+Enye flies in from the north.
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A young kender stands here, looking about curiously.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m112V [0;37m1055717X 16.64% 3641C [0;37mT:44 Exits:NESW> [0;37me[0m
+Enye flies in from the west.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A muscular watchman quietly patrols the streets of Port Balifor.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m111V [0;37m1055717X 16.64% 3641C [0;37mT:44 Exits:EW> [0;37me[0m
+Enye flies in from the west.
+A feral cat rubs up against Enye's leg.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A feral cat parades her territory and sniffs your leg.
+[0;37mA feral cat pounces on a piece of dirt.
+
+[32m[0;37m[32m278H [0;37m[32m110V [0;37m1055717X 16.64% 3641C [0;37mT:44 Exits:NEW> [0;37me[0m
+[0;37ms[0m
+Enye flies in from the west.
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m109V [0;37m1055717X 16.64% 3641C [0;37mT:43 Exits:NESW> [0;37mu[0m
+Enye flies in from the north.
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+The Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m108V [0;37m1055717X 16.64% 3641C [0;37mT:43 Exits:NWU> 
+Enye flies in from below.
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+[0;37m[31m[1mEnye the Male Human is standing here. (flying)
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m278H [0;37m[32m107V [0;37m1055717X 16.64% 3641C [0;37mT:43 Exits:D> [0;37mrent[0m
+[33m[1ma signet ring of the White Dragonarmy : 60 coins/day
+[0;37m[33m[1m                    a steel battleaxe : 800 coins/day
+[0;37m[33m           a glowing scroll of recall : 15 coins/day
+[0;37m[33m       some coarsely ground fire ants : 2 coins/day
+[0;37m[33m                 a smear of green mud : 2 coins/day
+[0;37m[33m           a broken piece of a mirror : 1 coin/day
+[0;37m[33m                       a garlic clove : 1 coin/day
+[0;37m[33m                 some dried bat guano : 1 coin/day
+[0;37m[33m                some volcanic ash [2] : 4 coins/day
+[0;37m[33m                   a dried sea sponge : 1 coin/day
+[0;37m[33m                      a common scroll : 10 coins/day
+[0;37m[33m                  a small leather bag : 0 coins/day
+[0;37m[32m            a pinch of chameleon dust : 1 coin/day
+[0;37m[32m                a deformed crow's leg : 2 coins/day
+[0;37m[32m              a miniature golden lyre : 2 coins/day
+[0;37m[32m               some crimson fox hairs : 1 coin/day
+[0;37m[32m         a powerfully blessed bandage : 1 coin/day
+[0;37m[32m       a small chunk of licorice root : 1 coin/day
+[0;37m[32m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[32m              some nightshade berries : 1 coin/day
+[0;37m[32m        the hind leg of a grasshopper : 1 coin/day
+[0;37m[32m                     an opaque cornea : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m                   a dried sea sponge : 1 coin/day
+[0;37m[32m                     a withered tulip : 1 coin/day
+[0;37m[32m            a deadly scorpion stinger : 1 coin/day
+[0;37m[32m        a few glittering snake scales : 2 coins/day
+[0;37m[32m               a vial of exotic venom : 1 coin/day
+[0;37m[32m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[32m                a smooth river pebble : 1 coin/day
+[0;37m[32m                  a hand-held sundial : 2 coins/day
+[0;37m[32m                    a lump of beeswax : 1 coin/day
+[0;37m[32m                    some volcanic ash : 2 coins/day
+[0;37m[33m                     a hooded lantern : 0 coins/day
+[0;37m[33m                  a loaf of bread [2] : 0 coins/day
+[0;37m[33m                          a waterskin : 0 coins/day
+[0;37mEd tells you 'You need at least 924 coins to rent.'
+Ed tells you 'You will be able to rent for 30 days.'
+Ed stores your stuff in the safe, and shows you to your room.
+Enye stops following you.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

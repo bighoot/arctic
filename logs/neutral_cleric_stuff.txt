@@ -1,0 +1,27 @@
+A voice fills your mind 'What is it that you seek, cleric?'
+A voice fills your mind 'Is it treasures then? Fame?'
+A voice fills your mind 'Perhaps you seek forgiveness, or even refuge.' 
+A voice fills your mind 'What is it you think I can offer you?'
+A voice fills your mind 'Pride entails the folly of ingratitude... of disgrace... of disaster.'
+A voice fills your mind 'Humility is the antidote to pride. With humility comes wisdom.'
+A voice fills your mind 'So swept in his own righteousness, Beldinas Pilofiro chose the former.'
+A voice fills your mind 'I shall ask you again cleric. What, above all else, do you seek?'
+
+
+
+Black Robe Monsters:
+  Ogre (protection)
+  Spectre (utility)
+  Gargoyle, Imp, Wight (mixture of casting, melee, defense)
+
+Red Robe Golems:
+  Mercury (casting)
+  Lead (utility)
+  Clay, Bone, Ironwood (mixture of protection, melee, defense)
+
+White Robe Familiars:
+  Cat (melee)
+  Newt (utility)
+  Hawk, Owl, Raven (mixture of casting, protection, defense)
+
+

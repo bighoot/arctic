@@ -1,0 +1,3336 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Mon Jan 09 17:39:32 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: l
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 47 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A dirty piece of parchment bearing a black seal lies here. [2]
+[0;37m[31m[1mA beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[33m[1m324H [0;37m[33m[1m99V [0;37m9942811X 79.75% 0C [0;37mT:22 Exits:D> l
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A dirty piece of parchment bearing a black seal lies here. [2]
+[0;37m[31m[1mA beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[33m[1m324H [0;37m[33m[1m99V [0;37m9942811X 79.75% 0C [0;37mT:22 Exits:D> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Sprink has reconnected.
+
+[32m[0;37m[33m[1m324H [0;37m[33m[1m99V [0;37m9942811X 79.75% 0C [0;37mT:16 Exits:D> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+[0;37m[0m
+
+[32m[0;37m[33m[1m324H [0;37m[33m[1m99V [0;37m9942811X 79.75% 0C [0;37mT:8 Exits:D> [0;37mboth drink all.water[0m
+You can't find it!
+
+[32m[0;37m[33m[1m324H [0;37m[33m[1m99V [0;37m9942811X 79.75% 0C [0;37mT:3 Exits:D> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0;37md[0m
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[33m[1m324H [0;37m[33m[1m98V [0;37m9942811X 79.75% 0C [0;37mT:1 Exits:NWU> [0;37mn[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA key made of bone lies here.
+Someone seems to have left their cloak lying upon the ground here.
+[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37mA feral cat runs in circles chasing its tail.
+
+[32m[0;37m[33m[1m324H [0;37m[33m[1m97V [0;37m9942811X 79.75% 0C [0;37mT:1 Exits:NESW> [0;37mw[0m
+You are hungry.
+You are thirsty.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m336H [0;37m[32m123V [0;37m9942811X 79.75% 0C [0;37mT:60 Exits:NEW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0;37mn[0m
+[36mThe Old Well House[0;37m
+    This old house was built years ago to protect the well in Balifor from
+the ravages of time. The wooden floor of the house creaks with age as you
+walk on it. In the middle of the house stands the well, while the doorway
+to the south leads back to the cobbled lane.
+[33m[1mAn old drinking well stands in the middle of the well house.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m336H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mT:60 Exits:S> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in some sparkling slippers of atonement!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in a luxurious silvery drape of sanctity!
+You can't put liquids in a village elder's belt of faith!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+A bright ball of light can't be refilled.
+You fill a waterskin from an old well.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a smear of green mud!
+You can't put liquids in a wand of invisibility!
+You can't put liquids in a wooden splint!
+An old well doesn't have oil.
+An old well doesn't have oil.
+An old well doesn't have oil.
+An old well doesn't have oil.
+An old well doesn't have oil.
+
+[32m[0;37m[33m[1m336H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mT:60 Exits:S> [0;37mdrink well[0m
+You drink the water.
+You are hungry.
+You do not feel thirsty.
+
+[32m[0;37m[33m[1m336H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mT:57 Exits:S> [0;37mdrink well[0m
+You drink the water.
+You are hungry.
+You do not feel thirsty.
+
+[32m[0;37m[33m[1m336H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mT:56 Exits:S> [0;37mcast 'cr fo'[0m
+You utter the words, 'create food'
+You create some food.
+
+[32m[0;37m[33m[1m336H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mMem:3 T:54 Exits:S> [0;37mgive bread sprink[0m
+No one by that name around here.
+
+[32m[0;37m[33m[1m336H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mMem:3 T:49 Exits:S> [0;37mboth eat bread[0m
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[33m[1m336H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:47 Exits:S> [0;37mb sc[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0;37ml[0m
+[36mThe Old Well House[0;37m
+    This old house was built years ago to protect the well in Balifor from
+the ravages of time. The wooden floor of the house creaks with age as you
+walk on it. In the middle of the house stands the well, while the doorway
+to the south leads back to the cobbled lane.
+[33m[1mAn old drinking well stands in the middle of the well house.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[33m[1m336H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:46 Exits:S> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in some sparkling slippers of atonement!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in a luxurious silvery drape of sanctity!
+You can't put liquids in a village elder's belt of faith!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in an enormous scorched maul!
+A bright ball of light can't be refilled.
+There is no room for more.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a smear of green mud!
+You can't put liquids in a wand of invisibility!
+You can't put liquids in a wooden splint!
+An old well doesn't have oil.
+An old well doesn't have oil.
+An old well doesn't have oil.
+An old well doesn't have oil.
+An old well doesn't have oil.
+
+[32m[0;37m[33m[1m336H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:45 Exits:S> [0;37mb wink[0m
+[0;37ms[0m
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mShurm Harkel, the mayor of Port Balifor, walks through the city.
+[0;37m
+[32m[0;37m[33m[1m336H [0;37m[32m121V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:42 Exits:NEW> [0;37me[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA key made of bone lies here.
+Someone seems to have left their cloak lying upon the ground here.
+[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[33m[1m336H [0;37m[32m120V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:42 Exits:NESW> [0;37ms[0m
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[33m[1m336H [0;37m[32m119V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:41 Exits:NWU> [0;37mu[0m
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A dirty piece of parchment bearing a black seal lies here. [2]
+[0;37m[31m[1mYou sense that you are not alone.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[33m[1m336H [0;37m[32m118V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:41 Exits:D> [0;37mgive bread sprink[0m
+You give a piece of sweet bread to Sprink.
+
+[32m[0;37m[33m[1m336H [0;37m[32m118V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:35 Exits:D> [0;37mgive bread sprink[0m
+You give a piece of sweet bread to Sprink.
+
+[32m[0;37m[33m[1m336H [0;37m[32m118V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:34 Exits:D> 
+[37mYour clanmate Rasenth has gained a level.
+[0;37m
+[32m[0;37m[33m[1m336H [0;37m[32m118V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:32 Exits:D> [0;37mb eat bread[0m
+[0;37mb sc[0m
+[0;37ml[0m
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A dirty piece of parchment bearing a black seal lies here. [2]
+[0;37m[31m[1mYou sense that you are not alone.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[33m[1m336H [0;37m[32m118V [0;37m9942811X 79.75% 0C [0;37mMem:1 T:30 Exits:D> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m386H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:60 Exits:D> [0;37ml[0m
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A dirty piece of parchment bearing a black seal lies here. [2]
+[0;37m[31m[1mYou sense that you are not alone.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:55 Exits:D> [0;37msc[0m
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 11. You have completed 79.75% of your next rank.
+You are 19 years old.
+You have 386(438) hit and 132(132) movement points.
+Your behaviour has been Evil.
+The warmth of good envelops your soul.
+You have scored 170,057,189 exp, and have 0(43842) steel coins.
+You need 9,942,811 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 1 minute(s).
+You have been playing for 3 day(s), 5 hour(s) and 10 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+
+[32m[0;37m[32m386H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:54 Exits:D> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m386H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:46 Exits:D> [0;37md[0m
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m131V [0;37m9942811X 79.75% 0C [0;37mT:45 Exits:NWU> [0;37mn[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA key made of bone lies here.
+Someone seems to have left their cloak lying upon the ground here.
+[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m130V [0;37m9942811X 79.75% 0C [0;37mT:45 Exits:NESW> [0;37mn[0m
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m386H [0;37m[32m129V [0;37m9942811X 79.75% 0C [0;37mT:44 Exits:NS> [0;37mn[0m
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m128V [0;37m9942811X 79.75% 0C [0;37mT:44 Exits:NS> [0;37mn[0m
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m386H [0;37m[32m127V [0;37m9942811X 79.75% 0C [0;37mT:43 Exits:NSW> [0;37mw[0m
+[36mThe Seedy Lane[0;37m
+    A very dark and foggy lane, the smell of evil evades the once fresh air
+around you. In the distance to the west you can see a faint glow of light
+and hear much cackling and laughter. The occasional sound of breaking wood
+echoes around the damp walls that keep the cold from the hovels in this
+part of town.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m386H [0;37m[32m126V [0;37m9942811X 79.75% 0C [0;37mT:43 Exits:EW> [0;37mw[0m
+[36mThe Seedy Lane[0;37m
+    The sounds of brawling and laughter are very prevelant on this part of
+the lane, and you can see the source of the noise. Directly to the west of
+you is a very dubious looking inn. A pile of broken benches lie stacked to
+one side, next to the big oak door that could withstand the brute force of
+ten men. You do not doubt that in such a place it would be very handy.
+[33m[1m[0;37m[31m[1mA drunken sailor steadies himself as he tries to stagger back to his boat.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m125V [0;37m9942811X 79.75% 0C [0;37mT:43 Exits:NEW> [0;37ms[0m
+[36mThe Secret Thieves Guild[0;37m
+    It would be wise to keep a hand on your purse in this place. Certainly,
+there is no love lost between the filthy street urchins who are being
+taught how to relieve a dummy of a purse. The dummy is covered in small
+bells, the ring of a bell signals failure and back to a life of begging.
+[33m[1m[0;37m[31m[1mA hardened watchman walks through Port Balifor, watching everything closely.
+A hardened watchman walks through Port Balifor, watching everything closely.
+The captain of the watch passes through here, checking for trouble.
+A muscular watchman quietly patrols the streets of Port Balifor.
+The master thief hands you back a purse he has just taken from your pocket. (black aura)
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:43 Exits:N> [0;37mb[0m
+
+A watchman of Port Balifor leaves north.
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:41 Exits:N> 
+A loud voice is heard booming throughout the town, 'The caravan has
+arrived, we will be leaving in about four hours.'
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:40 Exits:N> 
+Sprink arrives from the north.
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:33 Exits:N> 
+Sprink starts following you.
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:26 Exits:N> 
+The captain of the watch leaves north.
+A hardened watchman leaves north.
+A hardened watchman leaves north.
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:26 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:20 Exits:N> [0;37mgroup form[0m
+Sprink is now a member of your group.
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:18 Exits:N> 
+A watchman of Port Balifor arrives from the north.
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:17 Exits:N> [0;37msettm[0m
+[0;37mb[0m
+
+A watchman of Port Balifor arrives from the north.
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:11 Exits:N> [0;37m[0m
+
+[32m[0;37m[32m386H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:5 Exits:N> [0;37mn[0m
+[36mThe Seedy Lane[0;37m
+    The sounds of brawling and laughter are very prevelant on this part of
+the lane, and you can see the source of the noise. Directly to the west of
+you is a very dubious looking inn. A pile of broken benches lie stacked to
+one side, next to the big oak door that could withstand the brute force of
+ten men. You do not doubt that in such a place it would be very handy.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m123V [0;37m9942811X 79.75% 0C [0;37mT:4 Exits:NEW> [0;37me[0m
+[0;37me[0m
+Sprink arrives from the west.
+[36mThe Seedy Lane[0;37m
+    A very dark and foggy lane, the smell of evil evades the once fresh air
+around you. In the distance to the west you can see a faint glow of light
+and hear much cackling and laughter. The occasional sound of breaking wood
+echoes around the damp walls that keep the cold from the hovels in this
+part of town.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A hardened watchman walks through Port Balifor, watching everything closely.
+A hardened watchman walks through Port Balifor, watching everything closely.
+The captain of the watch passes through here, checking for trouble.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mT:4 Exits:EW> 
+Sprink arrives from the west.
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m121V [0;37m9942811X 79.75% 0C [0;37mT:4 Exits:NSW> [0;37ms[0m
+Sprink arrives from the north.
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A feral cat parades her territory and sniffs your leg.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m120V [0;37m9942811X 79.75% 0C [0;37mT:3 Exits:NS> [0;37ms[0m
+[36mA Dark Alley[0;37m
+    The alley runs parallel with traders street, and is really nothing more
+than a gutter between the tall buildings of Cannery Row and High Street.
+The narrow, unlit alley is obviously used as a shortcut between the two.
+You feel unusually nervous as you walk here, and small movements in the
+shadows catch your eye. As you move along, you realize that your ears are
+ringing because you are listening so hard.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m119V [0;37m9942811X 79.75% 0C [0;37mT:3 Exits:NS> [0;37ms[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA key made of bone lies here.
+Someone seems to have left their cloak lying upon the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m386H [0;37m[32m118V [0;37m9942811X 79.75% 0C [0;37mT:2 Exits:NESW> [0;37mb[0m
+
+A watchman of Port Balifor arrives from the east.
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:59 Exits:NESW> 
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:58 Exits:NESW> 
+A watchman of Port Balifor leaves east.
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:53 Exits:NESW> 
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:45 Exits:NESW> [0;37m[0m
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:40 Exits:NESW> [0;37ml[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA key made of bone lies here.
+Someone seems to have left their cloak lying upon the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:40 Exits:NESW> [0;37mlist ring[0m
+ 14. Ring                275 a blue nephaline ring
+ 52. Ring                330 a marble ring
+ 85. Ring                880 a ruby inlaid silver ring
+ 96. Shirt                60 a shirt of white ringmail
+102. Ring                550 a small signet ring
+108. Beads                82 a string of illusionist's beads
+127. Ring                550 an ancient solamnic ring
+130. Ring               1100 an elemental ring
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:32 Exits:NESW> 
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:28 Exits:NESW> 
+A mouse arrives from the west.
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:24 Exits:NESW> 
+You spot Sprink trying to peek at your gear. Noticing your gaze she looks away.
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:23 Exits:NESW> 
+You spot Sprink trying to peek at your gear. Noticing your gaze she looks away.
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:23 Exits:NESW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0;37mb cancel[0m
+[0;37mb[0m
+
+Sprink arrives from the north.
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:9 Exits:NESW> [0;37m[0m
+
+[32m[0;37m[32m436H [0;37m[32m132V [0;37m9942811X 79.75% 0C [0;37mT:9 Exits:NESW> [0;37mw[0m
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m131V [0;37m9942811X 79.75% 0C [0;37mT:8 Exits:NEW> [0;37mw[0m
+Sprink arrives from the east.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m130V [0;37m9942811X 79.75% 0C [0;37mT:8 Exits:EW> [0;37mw[0m
+Sprink arrives from the east.
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m129V [0;37m9942811X 79.75% 0C [0;37mT:7 Exits:NESW> [0;37mw[0m
+Sprink arrives from the east.
+[36mHigh Street[0;37m
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m128V [0;37m9942811X 79.75% 0C [0;37mT:7 Exits:NESW> [0;37mw[0m
+[36mHigh Street[0;37m
+    The street continues in an east-west direction. There is much more
+space here. There is no need to dive into the gutter when one of the many
+wooden barrows tries to push through the ever-increasing crowd. You keep a
+watchful eye on the kenders nearby.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A drunken sailor is attempting to walk back to his ship.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m127V [0;37m9942811X 79.75% 0C [0;37mT:6 Exits:NESW> [0;37mw[0m
+[36mHigh Street[0;37m
+    The street continues in an east-west direction. There is much more
+space here. There is no need to dive into the gutter when one of the many
+wooden barrows tries to push through the ever-increasing crowd. You keep a
+watchful eye on the kender nearby.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m126V [0;37m9942811X 79.75% 0C [0;37mT:6 Exits:NESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mMargaret's General Store[0;37m
+    The sweet smell of incense is apparent as you walk through the doorway.
+Many fine goods are well displayed in woven wicker baskets, or stood proud
+on one of the many shelves that have been fixed to the walls. The long
+wooden counter is cluttered with many customer orders, it is a thriving
+business. There is a small sign stuck to the wall.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A wandering preacher stands here, trying to convert the people to his faith.
+A muscular watchman quietly patrols the streets of Port Balifor.
+Margaret stands behind the counter smiling, ready to take your order.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m125V [0;37m9942811X 79.75% 0C [0;37mT:6 Exits:N> [0;37mn[0m
+Sprink arrives from the south.
+[36mHigh Street[0;37m
+    The street continues in an east-west direction. There is much more
+space here. There is no need to dive into the gutter when one of the many
+wooden barrows tries to push through the ever-increasing crowd. You keep a
+watchful eye on the kender nearby.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m124V [0;37m9942811X 79.75% 0C [0;37mT:2 Exits:NESW> [0;37me[0m
+[36mHigh Street[0;37m
+    The street continues in an east-west direction. There is much more
+space here. There is no need to dive into the gutter when one of the many
+wooden barrows tries to push through the ever-increasing crowd. You keep a
+watchful eye on the kenders nearby.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A drunken sailor is attempting to walk back to his ship.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m123V [0;37m9942811X 79.75% 0C [0;37mT:2 Exits:NESW> [0;37me[0m
+Sprink arrives from the west.
+[36mHigh Street[0;37m
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m122V [0;37m9942811X 79.75% 0C [0;37mT:1 Exits:NESW> [0;37mn[0m
+[36mThe Blacksmithy[0;37m
+    The trading section of the blacksmithy is a little cleaner than the
+rest of the building, but not much. The heat from the furnace sweeps over
+you and warms your chilled body. On the walls are multitudes of iron racks,
+encompassing all the armor and weapons you are ever likely to need.
+Unfortunately, some of the better ones are in cabinets with 'Not for sale'
+signs on them. Still, there are some very good offers around.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Ithrall the master blacksmith stands here, ready to serve your needs.
+[0;37m
+[32m[0;37m[32m436H [0;37m[32m121V [0;37m9942811X 79.75% 0C [0;37mT:1 Exits:S> [0;37ms[0m
+Sprink arrives from the north.
+[36mHigh Street[0;37m
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 0C [0;37mT:60 Exits:NESW> [0;37ms[0m
+[36mThe Bank of Balifor[0;37m
+    The bank of Balifor looks fairly rundown. Not surprising, since the
+local populace doesn't earn enough money to bother putting it in banks.
+Still, the bank teller, shuttered up behind a reinforced glass window and
+door, looks enthusiastic enough. A small sign has been stuck to the desk.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9942811X 79.75% 0C [0;37mT:59 Exits:N> [0;37mwith 2000[0m
+You are charged 120 coins for the transaction.
+You withdraw 1880 coins and have 41842 coins left in the bank.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9942811X 79.75% 1880C [0;37mT:56 Exits:N> [0;37meq[0m
+You are using:
+<worn on finger>           [38;5;177ma bishop's moonstone engraved seal[0;37m
+<worn on finger>           [38;5;183ma priestly amethyst encrusted ring[0;37m
+<worn around neck>         [38;5;177ma celestial spiderweb collar[0;37m
+<worn around neck>         a black and gold cape..it emits a sinister, arcane glow
+<worn on body>             [38;5;171ma devotee's chasuble of worship[0;37m
+<worn on head>             [38;5;171ma flawless onyx diadem of fanaticism[0;37m
+<worn on legs>             [38;5;171msome inscribed leggings of worship[0;37m
+<worn on feet>             [38;5;225msome sparkling slippers of atonement[0;37m
+<worn on hands>            [38;5;214ma pair of dwarven mason's gloves[0;37m..it emits an arcane glow
+<worn about body>          [38;5;177ma luxurious silvery drape of sanctity[0;37m
+<worn about waist>         [38;5;225ma village elder's belt of faith[0;37m
+<worn as pouch>            a pouch of goose feathers..it emits an arcane glow
+<worn around left wrist>   [38;5;225ma fiery red austere bracer[0;37m
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9942811X 79.75% 1880C [0;37mT:55 Exits:N> [0;37mwield maul[0m
+You grab the maul with both hands.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9942811X 79.75% 1880C [0;37mT:53 Exits:N> [0;37mn[0m
+[0;37me[0m
+[0;37me[0m
+[0;37me[0m
+[0;37me[0m
+Sprink arrives from the south.
+[36mHigh Street[0;37m
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A drunken sailor is attempting to walk back to his ship.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m9942811X 79.75% 1880C [0;37mT:45 Exits:NESW> 
+Sprink arrives from the west.
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m9942811X 79.75% 1880C [0;37mT:44 Exits:NESW> 
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m9942811X 79.75% 1880C [0;37mT:44 Exits:EW> 
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m9942811X 79.75% 1880C [0;37mT:44 Exits:NEW> 
+Sprink arrives from the west.
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA key made of bone lies here.
+Someone seems to have left their cloak lying upon the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9942811X 79.75% 1880C [0;37mT:44 Exits:NESW> [0;37mbuy elemental.ring[0m
+[36mA wandering merchant tells you 'That'll cost you 1100 coins.  Thank you.'
+[0;37mYou now have an elemental ring.
+
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9942811X 79.75% 780C [0;37mT:43 Exits:NESW> [0;37mbuy elemental.ring[0m
+[36mA wandering merchant tells you 'Sorry, I don't have that in stock.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9942811X 79.75% 780C [0;37mT:42 Exits:NESW> 
+A loud voice is heard booming throughout the town, 'The caravan will be
+leaving in just under an hour,' it announces.
+
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9942811X 79.75% 780C [0;37mT:40 Exits:NESW> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9942811X 79.75% 780C [0;37mT:29 Exits:NESW> [0;37ml[0m
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA key made of bone lies here.
+Someone seems to have left their cloak lying upon the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9942811X 79.75% 780C [0;37mT:28 Exits:NESW> [0;37mb disp all.creamy[0m
+
+Sprink holds a creamy potion of flight high so everyone can see it.
+Sprink holds a creamy potion of flight high so everyone can see it.
+Sprink holds a creamy potion of flight high so everyone can see it.
+Sprink holds a creamy potion of flight high so everyone can see it.
+
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9942811X 79.75% 780C [0;37mT:19 Exits:NESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+The Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m9942811X 79.75% 780C [0;37mT:14 Exits:NWU> [0;37mu[0m
+Sprink arrives from below.
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A dirty piece of parchment bearing a black seal lies here. [2]
+[0;37m[31m[1mYou sense that you are not alone.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m9942811X 79.75% 780C [0;37mT:14 Exits:D> [0;37mbali2jail[0m
+Sprink arrives from above.
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+The Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m9942811X 79.75% 780C [0;37mT:9 Exits:NWU> 
+Sprink arrives from the south.
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA key made of bone lies here.
+Someone seems to have left their cloak lying upon the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+Merun the Male Hylar Dwarf is standing here. (flying) (invisible) (white aura)
+A black tabby cat, Nafanya, stalks closely to the ground. (white aura)
+Lorien the Male Silvanesti is standing here. (flying) (white aura)
+. . . is followed by a small, unblinking eye.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9942811X 79.75% 780C [0;37mT:9 Exits:NESW> 
+[36mDeath Row[0;37m
+    Stepping onto the narrow and putrid lane that leads east to the
+executioners block and west to Tavern Square, you are aware of the dark and
+evil feeling that surrounds you. The tall houses and buildings are boarded
+up, save for a balcony which runs past the block itself. A good viewing
+point for the peasants. It is easy to understand why this lane is nicknamed
+'Death Row'.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m9942811X 79.75% 780C [0;37mT:9 Exits:EW> 
+Sprink arrives from the west.
+[36mThe Executioners Block[0;37m
+    You leave the claustrophobic surroundings of Death Row and step out
+into a small square that houses the executioners block on a wooden platform
+at its centre. Gazing around you notice there is plenty of space for
+onlookers, a small cart used to sell food and refreshments is propped up
+against a wall of a house. No doubt it has seen much service. The wooden
+platform is blood stained and emits the smell of salt-water, used as a poor
+cleaning fluid to remove the worst of the grime. Death row continues to the
+east and west. A faint smell of blood and the uncomfortable sensation of
+evil invades your soul from the passageway to the north.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+The lord high executioner grins at you, fondling his axe lovingly.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m9942811X 79.75% 780C [0;37mT:8 Exits:NEW> 
+[36mDeath Row[0;37m
+    The road leads east to the city jail, the start of the journey for many
+of the prisoners on death row. It is also their last. The dank smell of
+rotting flesh and unwashed bodies is not very pleasant. You force yourself
+to continue.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m9942811X 79.75% 780C [0;37mT:8 Exits:ESW> 
+[36mAt the Balifor Jail[0;37m
+    A two story building built from blood red brick looms to the east. Wide
+stone steps, chipped and cracked from heavy traffic, lead up to the front
+double doors. A large sign swinging above the frame clearly tells you this
+is the Balifor City Jail. For many prisoners passage beyond those doors is
+the beginning of the end. From some of the yellow stains on the steps, a
+few didn't handle it well. Several guards linger around the entrance, added
+guards for something out of the ordinary.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A member of the Balifor town watch patrols the outside of the jailhouse.
+A member of the Balifor town watch patrols the outside of the jailhouse.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m117V [0;37m9942811X 79.75% 780C [0;37mT:8 Exits:NEW> [0m[1;34;49mPRIVATE MESSAGE FROM double doors. A large sign swinging above the frame clearly: this[0m
+
+Sprink arrives from the west.
+[36mThe Balifor Jail[0;37m
+    The front area of the Balifor jail is a large square room. A bare
+concrete floor heavily scuffed by the passage of countless thieves and
+criminals lies beneath your feet. The walls are thick and dull yellow with
+exposed wooden beams racing up to the rafters above. Hanging from the walls
+are large bulletin boards pinned with ragged wanted posters and bounties.
+Ahead of you lies a wooden desk with a hallway off to the right. To the
+north is a door.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard keeps an eye out for any trouble.
+A Balifor jail sentry stands watch at the front door.
+The jail clerk sits at the desk busying himself with reports and new files. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m9942811X 79.75% 780C [0;37mT:8 Exits:(N)EW> 
+Sprink arrives from the west.
+[36mA Corridor[0;37m
+    The corridor extends to the east, deeper into the Balifor jail. Back
+west lies the front area where new prisoners are registered before being
+thrown in their cells. Several torches hang from the opposite walls,
+lighting your way. In the south wall a flight of stairs ascends to the
+second floor.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard keeps an eye out for any trouble.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m115V [0;37m9942811X 79.75% 780C [0;37mT:7 Exits:EWU> 
+[36mThe Second Floor[0;37m
+    A hallway extends to the north from the stairway landing. The wooden
+floorboards creak as you make your way. Several doors leading to the
+guard's quarters flank you on both sides. Ahead to the north lies a door
+with a sign of rank above the frame.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard keeps an eye out for any trouble.
+An armour clad guard keeps an eye out for any trouble.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m9942811X 79.75% 780C [0;37mT:7 Exits:(NEW)D> 
+Ok.
+
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m9942811X 79.75% 780C [0;37mT:7 Exits:N(EW)D> 
+[36mThe Captain's Office[0;37m
+    The room is neat and orderly, more spacious than the other rooms on
+this floor. A square green rug covers a large area in the center of the
+office. Atop the rug sits an ornate cedar desk neatly stacked with official
+looking papers. Behind that is a cushy chair and smaller wooden chairs
+arranged in front. Off to the west lies a small cot that doesn't appear to
+have been slept in much.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m113V [0;37m9942811X 79.75% 780C [0;37mT:7 Exits:S> 
+You get a loop of jailer's keys from a wooden peg.
+
+[32m[0;37m[32m438H [0;37m[32m113V [0;37m9942811X 79.75% 780C [0;37mT:6 Exits:S> 
+Sprink arrives from the north.
+[36mThe Second Floor[0;37m
+    A hallway extends to the north from the stairway landing. The wooden
+floorboards creak as you make your way. Several doors leading to the
+guard's quarters flank you on both sides. Ahead to the north lies a door
+with a sign of rank above the frame.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard keeps an eye out for any trouble.
+An armour clad guard keeps an eye out for any trouble.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m9942811X 79.75% 780C [0;37mT:6 Exits:N(EW)D> 
+Sprink arrives from above.
+[36mA Corridor[0;37m
+    The corridor extends to the east, deeper into the Balifor jail. Back
+west lies the front area where new prisoners are registered before being
+thrown in their cells. Several torches hang from the opposite walls,
+lighting your way. In the south wall a flight of stairs ascends to the
+second floor.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard keeps an eye out for any trouble.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m111V [0;37m9942811X 79.75% 780C [0;37mT:6 Exits:EWU> 
+Sprink arrives from the west.
+[36mA Corridor[0;37m
+    The corridor leads to the east and west. Flickering torches set into
+the stone walls illuminate the area. The clomp of boot shod feet bound
+through the corridor as jail guards pass by. Two heavily reinforced oaken
+doors lie just to the east. Most likely they lead down to the prison cells.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard keeps an eye out for any trouble.
+An armour clad guard keeps an eye out for any trouble.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m9942811X 79.75% 780C [0;37mT:6 Exits:(E)W> 
+*click* as you use a loop of jailer's keys.
+You try each key on the loop until you find the right one.
+*click*
+
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m9942811X 79.75% 780C [0;37mT:5 Exits:(E)W> 
+Ok.
+
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m9942811X 79.75% 780C [0;37mT:5 Exits:EW> 
+[36mStairwell to the Dungeons[0;37m
+    Your footfalls echo off the bare walls of the stairwell. The stone feels
+cold and damp to the touch only warming where flickering torches hang from
+iron sconces set in the walls. The steps lead you down to the dungeons
+where Balifor's criminals are locked away ... hopefully.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m109V [0;37m9942811X 79.75% 780C [0;37mT:5 Exits:WD> 
+[36mBottom of the Stairwell[0;37m
+    The stone steps end near the bottom of a sturdy ironwood door to the
+south. A heavy wooden bar stretches across to both sides of the frame. This
+is the final gateway before prisoners enter the dungeons.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m9942811X 79.75% 780C [0;37mT:5 Exits:(S)U> 
+*click* as you use a loop of jailer's keys.
+You try each key on the loop until you find the right one.
+*click*
+
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m9942811X 79.75% 780C [0;37mT:4 Exits:(S)U> 
+Ok.
+
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m9942811X 79.75% 780C [0;37mT:4 Exits:SU> 
+[36mDungeon Corridor[0;37m
+    Flames flicker from torches set in the opposite walls casting eerie
+shadows along the length of the corridor. They give little warmth and
+barely any light for you to see your way. The air is cold and stale down
+here, the mood oppressive as barred dungeon cells stretch down the hall.
+The groans and mutterings of prisoners fill your ears. To the east and west
+lie two doors.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard patrols the dungeons, ruthlessly taunting the inmates. (black aura)
+An armour clad guard patrols the dungeons, ruthlessly taunting the inmates. (black aura)
+Patrolling the hallway, a dungeon guard keeps the prisoners in line.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m107V [0;37m9942811X 79.75% 780C [0;37mT:4 Exits:N(E)S(W)> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m106V [0;37m9942811X 79.75% 780C [0;37mT:4 Exits:N(E)S(W)> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m105V [0;37m9942811X 79.75% 780C [0;37mT:3 Exits:NE(SW)> 
+[36mAt the Last Cell[0;37m
+    The corridor is better lit here. Metal lanterns hang from hooks in the
+wall. They provide a bit of warmth to the cool stale air. At the far
+eastern end of the corridor lies a lone wooden door. The door looks to be
+heavily padlocked. Back north will take you toward the entrance of the
+dungeon cells.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m104V [0;37m9942811X 79.75% 780C [0;37mT:3 Exits:(E)SW> 
+[36mDeath Row Waiting Cells[0;37m
+    The air here is deathly silent, even the rats tread lightly in this
+dismal cell block. North of here is the jail's main corridor, while to the
+east and west are two gloomy cells. Nailed into the grey stone of the
+southern wall is a list of some sort, which seems to be the only feature of
+notice.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m103V [0;37m9942811X 79.75% 780C [0;37mT:3 Exits:NEW> [0;37ml[0m
+[36mDeath Row Waiting Cells[0;37m
+    The air here is deathly silent, even the rats tread lightly in this
+dismal cell block. North of here is the jail's main corridor, while to the
+east and west are two gloomy cells. Nailed into the grey stone of the
+southern wall is a list of some sort, which seems to be the only feature of
+notice.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9942811X 79.75% 780C [0;37mT:25 Exits:NEW> [0;37me[0m
+[36mA Musty Cell[0;37m
+    Balifor's more vicious criminals are kept in these underground cells,
+cut off from society and sunlight. The walls are stained with foulness and
+the floor is worn in a line, likely from the only thing a prisoner has to
+pass the time here: pace. In a back corner of the cell a crude mattress is
+strewn out on the floor without a bed frame to rest upon, and across from
+it sits a bucket in which prisoners relieve themselves. Being underground,
+the air here is un-circulated and musty, mold grows freely on the walls and
+the iron cell bars are textured with rust.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:25 Exits:W> [0;37mboth lift bed[0m
+You lift up the mattress, finding a hole underneath. With a bit of hesitation
+you descend into the hole, stepping onto a ladder below and into an
+underground tunnel.
+It is pitch black.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9942811X 79.75% 780C [0;37mT:21 Exits:E> [0;37me[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m9942811X 79.75% 780C [0;37mT:20 Exits:SW> [0;37ms[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m9942811X 79.75% 780C [0;37mT:19 Exits:NE> [0;37me[0m
+[36mBefore a Gate[0;37m
+    Standing at this end of the tunnel is a gateway that has been smoothly
+carved out of the surrounding rock. A small guard post has also been set up
+here to keep out unwanted visitors who happen to stumble across the tunnel,
+though security seems a bit lax. White-blue light given off by a curious
+luminescent moss keeps the tunnel fairly lit, though the ever present taste
+of damp air is especially choking here. Moisture gathered on the dirty
+floor has lain way to dozens of muddy puddles, making the floor quite
+slippery and navigation a filthy endeavor.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m9942811X 79.75% 780C [0;37mT:19 Exits:EW> [0;37me[0m
+Sprink arrives from the west.
+[36mThe End of a Hall[0;37m
+    Open doorways lead north and south from here, and a dark wood paneled
+hallway runs straight to the east. Taking up a majority of the western wall
+is a gate of light brown stone, set into a smooth archway that stands as
+tall as the ceiling. Directly south looks to be an office of sorts, north
+the entry to another section of the building, and far down the hall to the
+east is a wooden door. From here you can travel in any direction, though
+the safest path is anyone's guess.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m9942811X 79.75% 780C [0;37mT:18 Exits:NESW> [0;37me[0m
+Sprink arrives from the west.
+[36mIntersecting Halls[0;37m
+    Dark wooden panels make up the walls of the two hallways that converge
+here, and dirt trails the floor following them both. Down the western
+hallway you can hardly miss a large gate that stands directly at the end of
+it, while the southern hallway stops at a flight of stairs that lead up to
+a higher floor. The only thing of interest here appears to be a wooden door
+leading east.
+[33m[1mA breastplate of darkened steel is lying here.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m9942811X 79.75% 780C [0;37mT:17 Exits:ESW> [0;37ms[0m
+[36mThe End of a Hall[0;37m
+    Oaken panels stained dark line the sides of the hall, and also end it
+in a solid wall to the south. From here you can access the floor above
+this, what would be ground level in this subterranean building, by a flight
+of stairs against the southern wall. Though you can't see into it very well
+from here, you can feel the breeze of freshly circulated air from the room
+above, a welcome change from the stagnant and stale air of these
+underground halls. To the north the hallway you are in, meets up with
+another hallway running east-west.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9942811X 79.75% 780C [0;37mT:17 Exits:NU> [0;37mu[0m
+Sprink arrives from below.
+[36mThe Ground Floor[0;37m
+    Fresh air wafts in through an open window south, set within a stone
+wall. Leading back down to the basement floor is a flight of stairs, and to
+the north the hall continues on to a broad intersection. The east and west
+walls hold a leaking wax candle each, keeping this area lit throughout the
+night though they do little to heat the cold stone walls.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m9942811X 79.75% 780C [0;37mT:16 Exits:ND> [0;37mn[0m
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m9942811X 79.75% 780C [0;37mT:16 Exits:NESW> [0;37mn[0m
+[36mWithin the Barracks[0;37m
+    Thrifty blankets cover the stacked beds here, occasionally rising and
+falling from the heavy breathing of a tired recruit. Cheap footlockers peek
+out from underneath the bottom bunks, their flimsy metal frames barely
+protecting the recruits' only belongings. The barrack continues westward,
+and to the south a stone archway leads into a twisting hall.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A soldier is lying here trying to get some much needed rest. (black aura)
+A soldier is lying here trying to get some much needed rest. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m9942811X 79.75% 780C [0;37mT:15 Exits:SW> [0;37mpractice[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m9942811X 79.75% 780C [0;37mT:12 Exits:SW> 
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m9942811X 79.75% 780C [0;37mT:8 Exits:SW> 
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m9942811X 79.75% 780C [0;37mT:4 Exits:SW> 
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9942811X 79.75% 780C [0;37mT:60 Exits:SW> 
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9942811X 79.75% 780C [0;37mT:59 Exits:SW> 
+Sprink fiddles with a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9942811X 79.75% 780C [0;37mT:59 Exits:SW> [0;37mw[0m
+Sprink arrives from the east.
+[36mWithin the Barracks[0;37m
+    A few sleeping recruits pay little attention to your being here,
+fatigued from long hours of training in the lower floors. Lumpy bunks
+covered in wiry grey sheets stand stacked closed together, almost rising up
+to the ceiling. Small footlockers are wedged underneath the bottom bunks,
+containing the recruits' only worldly possessions. The line of cots runs
+east and south from here, where more recruits doze peacefully.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A soldier is lying here trying to get some much needed rest. (black aura)
+A soldier is lying here trying to get some much needed rest. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:50 Exits:ES> [0;37mpractice[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:48 Exits:ES> [0;37mb[0m
+
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:44 Exits:ES> 
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:40 Exits:ES> 
+Sprink lightly places a skillful hand upon a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:36 Exits:ES> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink lightly places a skillful hand upon a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:35 Exits:ES> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink fiddles with a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:35 Exits:ES> 
+Sprink fiddles with a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:31 Exits:ES> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9942811X 79.75% 780C [0;37mT:20 Exits:ES> [0;37ms[0m
+Sprink arrives from the north.
+[36mWithin the Barracks[0;37m
+    Rows of bunks are here stacked nearly up to the ceiling, the soldiers
+get very little personal space here, other thank their bunk their only
+possessions lie tucked away in small footlockers on the floor. Snores and
+coughs can be heard all around from soldiers too battle weary to care about
+you being here. The barrack continues north where more bunks are stacked
+tall in monotonous rows.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A fierce warrior of the dragonarmy patrols the building. (black aura)
+A soldier is lying here trying to get some much needed rest. (black aura)
+A soldier is lying here trying to get some much needed rest. (black aura)
+[0;37mA dragonarmy warrior stumbles and falls while trying to bash you.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9942811X 79.75% 780C [Maui:[0;37m[32mPerfect[0;37m] [a dragonarmy warrior:[0;37m[32mPerfect[0;37m] [0;37mT:20 Exits:NE> [0;37mfight[0m
+
+Sprink pierces a dragonarmy warrior extremely hard.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9942811X 79.75% 780C [Maui:[0;37m[32mPerfect[0;37m] [a dragonarmy warrior:[0;37m[32mV.Good[0;37m] [0;37mT:18 Exits:NE> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9942811X 79.75% 780C [Maui:[0;37m[32mPerfect[0;37m] [a dragonarmy warrior:[0;37m[32mV.Good[0;37m] [0;37mT:17 Exits:NE> 
+You can't do that while fighting.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9942811X 79.75% 780C [Maui:[0;37m[32mPerfect[0;37m] [a dragonarmy warrior:[0;37m[32mV.Good[0;37m] [0;37mT:17 Exits:NE> 
+Sprink pierces a dragonarmy warrior very hard.
+Sprink barely crushes a dragonarmy warrior.
+A dragonarmy warrior slashes YOU hard.
+You MASSACRE a dragonarmy warrior with your crush.
+
+[32m[0;37m[32m425H [0;37m[32m130V [0;37m9942226X 79.75% 780C [Maui:[0;37m[32mV.Good[0;37m] [a dragonarmy warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:16 Exits:NE> [0;37mflame[0m
+Huh?!
+
+[32m[0;37m[32m425H [0;37m[32m130V [0;37m9942226X 79.75% 780C [Maui:[0;37m[32mV.Good[0;37m] [a dragonarmy warrior:[0;37m[33m[1mFair[0;37m] [0;37mT:13 Exits:NE> 
+Sprink pierces a dragonarmy warrior very hard.
+Sprink misses a dragonarmy warrior with her crush.
+A dragonarmy warrior slashes YOU hard.
+You MASSACRE a dragonarmy warrior with your crush.
+
+[32m[0;37m[32m412H [0;37m[32m130V [0;37m9941742X 79.75% 780C [Maui:[0;37m[32mV.Good[0;37m] [a dragonarmy warrior:[0;37m[33m[1mBad[0;37m] [0;37mT:12 Exits:NE> [0;37mflame[0m
+Huh?!
+
+[32m[0;37m[32m412H [0;37m[32m130V [0;37m9941742X 79.75% 780C [Maui:[0;37m[32mV.Good[0;37m] [a dragonarmy warrior:[0;37m[33m[1mBad[0;37m] [0;37mT:10 Exits:NE> 
+Sprink pierces a dragonarmy warrior very hard.
+Sprink crushes a dragonarmy warrior hard.
+A dragonarmy warrior slashes YOU very hard.
+You MASSACRE a dragonarmy warrior with your crush.
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9941157X 79.75% 780C [Maui:[0;37m[32mV.Good[0;37m] [a dragonarmy warrior:[0;37m[31mAwful[0;37m] [0;37mT:8 Exits:NE> [0;37mcleric[0m
+
+-#-#-#-#-#-#-#-> A dragonarmy warrior <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9941157X 79.75% 780C [Maui:[0;37m[32mV.Good[0;37m] [a dragonarmy warrior:[0;37m[31mAwful[0;37m] [0;37mT:7 Exits:NE> [0;37mflame[0m
+You utter the words, 'flamestrike'
+You raise your arms skyward and a column of flame toasts a dragonarmy warrior!
+You receive 5534 experience.
+A dragonarmy warrior is dead! R.I.P.
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9934574X 79.75% 780C [a dragonarmy warrior:[0;37m[31mDying[0;37m] [0;37mMem:2 T:7 Exits:NE> [0m[1;34;49mFOLLOWER GAINED XP: 28942[0m
+
+The death cry of a dragonarmy warrior echoes from somewhere nearby...
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9934574X 79.75% 780C [0;37mMem:2 T:6 Exits:NE> [0;37mpractice[0m
+
+Sprink studies the room and its contents carefully.
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9934574X 79.75% 780C [0;37mMem:2 T:4 Exits:NE> 
+You get a pile of coins from the corpse of a dragonarmy warrior.
+There were 22 coins.
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9934574X 79.75% 802C [0;37mMem:2 T:2 Exits:NE> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9934574X 79.75% 802C [0;37mMem:2 T:2 Exits:NE> 
+A smear of green mud won't fit.
+A wooden splint won't fit.
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9934574X 79.75% 802C [0;37mMem:2 T:2 Exits:NE> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9934574X 79.75% 802C [0;37mMem:2 T:2 Exits:NE> 
+corpse (here) : 
+a dark steel breastplate
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9934574X 79.75% 802C [0;37mMem:2 T:1 Exits:NE> 
+You divide 22 coins equally among the group members present.
+
+[32m[0;37m[32m397H [0;37m[32m130V [0;37m9934574X 79.75% 791C [0;37mMem:2 T:1 Exits:NE> 
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:60 Exits:NE> 
+Sprink studies a footlocker with care.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:56 Exits:NE> 
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:52 Exits:NE> 
+Sprink lightly places a skillful hand upon a footlocker.
+Sprink cuts her hand while fiddling with a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:51 Exits:NE> 
+Sprink fiddles with a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:51 Exits:NE> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink fiddles with a footlocker.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:46 Exits:NE> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:38 Exits:NE> [0;37me[0m
+Sprink arrives from the west.
+[36mA Twisting Hallway[0;37m
+    Twisting on it's way through the ground floor of this building, the
+hallway runs south to a stairway and east where it curves around the corner
+of a mess hall. Two stone archways lead openly to the north and west, into
+the soldiers' barracks. A chilling breeze runs through the hallway,
+sweeping across the building through open windows.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:37 Exits:NESW> [0;37ms[0m
+Sprink arrives from the north.
+[36mThe Ground Floor[0;37m
+    Fresh air wafts in through an open window south, set within a stone
+wall. Leading back down to the basement floor is a flight of stairs, and to
+the north the hall continues on to a broad intersection. The east and west
+walls hold a leaking wax candle each, keeping this area lit throughout the
+night though they do little to heat the cold stone walls.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:35 Exits:ND> [0;37md[0m
+Sprink arrives from above.
+[36mThe End of a Hall[0;37m
+    Oaken panels stained dark line the sides of the hall, and also end it
+in a solid wall to the south. From here you can access the floor above
+this, what would be ground level in this subterranean building, by a flight
+of stairs against the southern wall. Though you can't see into it very well
+from here, you can feel the breeze of freshly circulated air from the room
+above, a welcome change from the stagnant and stale air of these
+underground halls. To the north the hallway you are in, meets up with
+another hallway running east-west.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:35 Exits:NU> [0;37mn[0m
+Sprink arrives from the south.
+[36mIntersecting Halls[0;37m
+    Dark wooden panels make up the walls of the two hallways that converge
+here, and dirt trails the floor following them both. Down the western
+hallway you can hardly miss a large gate that stands directly at the end of
+it, while the southern hallway stops at a flight of stairs that lead up to
+a higher floor. The only thing of interest here appears to be a wooden door
+leading east.
+[33m[1mA breastplate of darkened steel is lying here.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:34 Exits:ESW> [0;37mw[0m
+[36mThe End of a Hall[0;37m
+    Open doorways lead north and south from here, and a dark wood paneled
+hallway runs straight to the east. Taking up a majority of the western wall
+is a gate of light brown stone, set into a smooth archway that stands as
+tall as the ceiling. Directly south looks to be an office of sorts, north
+the entry to another section of the building, and far down the hall to the
+east is a wooden door. From here you can travel in any direction, though
+the safest path is anyone's guess.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:34 Exits:NESW> [0;37mw[0m
+[36mBefore a Gate[0;37m
+    Standing at this end of the tunnel is a gateway that has been smoothly
+carved out of the surrounding rock. A small guard post has also been set up
+here to keep out unwanted visitors who happen to stumble across the tunnel,
+though security seems a bit lax. White-blue light given off by a curious
+luminescent moss keeps the tunnel fairly lit, though the ever present taste
+of damp air is especially choking here. Moisture gathered on the dirty
+floor has lain way to dozens of muddy puddles, making the floor quite
+slippery and navigation a filthy endeavor.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:33 Exits:EW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:33 Exits:NE> [0;37mn[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:32 Exits:SW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:32 Exits:E> [0;37mrem maul[0m
+You stop using an enormous scorched maul.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:29 Exits:E> [0;37mhold ball[0m
+You light a bright ball of light and hold it.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:27 Exits:E> [0;37mboth climb ladder[0m
+You climb the ladder up to a hole in the ceiling and find it blocked, though
+with a hefty push you are able to open up the way and lift yourself into the
+room above.
+[36mA Musty Cell[0;37m
+    Balifor's more vicious criminals are kept in these underground cells,
+cut off from society and sunlight. The walls are stained with foulness and
+the floor is worn in a line, likely from the only thing a prisoner has to
+pass the time here: pace. In a back corner of the cell a crude mattress is
+strewn out on the floor without a bed frame to rest upon, and across from
+it sits a bucket in which prisoners relieve themselves. Being underground,
+the air here is un-circulated and musty, mold grows freely on the walls and
+the iron cell bars are textured with rust.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:21 Exits:W> 
+The mattress pops up and Sprink emerges from beneath it.
+
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:21 Exits:W> [0;37mw[0m
+[36mDeath Row Waiting Cells[0;37m
+    The air here is deathly silent, even the rats tread lightly in this
+dismal cell block. North of here is the jail's main corridor, while to the
+east and west are two gloomy cells. Nailed into the grey stone of the
+southern wall is a list of some sort, which seems to be the only feature of
+notice.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:19 Exits:NEW> [0;37mn[0m
+Sprink arrives from the south.
+[36mAt the Last Cell[0;37m
+    The corridor is better lit here. Metal lanterns hang from hooks in the
+wall. They provide a bit of warmth to the cool stale air. At the far
+eastern end of the corridor lies a lone wooden door. The door looks to be
+heavily padlocked. Back north will take you toward the entrance of the
+dungeon cells.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard patrols the dungeons, ruthlessly taunting the inmates. (black aura)
+An armour clad guard patrols the dungeons, ruthlessly taunting the inmates. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m117V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:19 Exits:(E)SW> [0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m438H [0;37m[32m117V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:18 Exits:(E)SW> [0;37mw[0m
+[36mDungeon Corridor[0;37m
+    Without a light it would be nearly pitch black down here. Beady-eyed
+rats scurry across the cold stone floor disappearing into small cracks in
+the walls. Heavy cell doors lie to either side of you. Iron grates have
+been built into them for passing through the prisoner's daily rations of
+slop.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:18 Exits:NE(SW)> [0;37mn[0m
+Sprink arrives from the south.
+[36mDungeon Corridor[0;37m
+    The corridor stretches north and south. Heavily barred cells run along
+the opposite walls. Every odd interval you come across a torch stuck in the
+stone, only to find it long ago burnt out. You wonder if it is purposefully
+kept dark down here to further depress the prisoners. The groans and foul
+curses of the rowdy prisoners fill your ears. It seems only a lucky few
+will ever see the light of day again.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Patrolling the hallway, a dungeon guard keeps the prisoners in line.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m115V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:17 Exits:N(E)S(W)> [0;37mn[0m
+Sprink arrives from the south.
+[36mDungeon Corridor[0;37m
+    Flames flicker from torches set in the opposite walls casting eerie
+shadows along the length of the corridor. They give little warmth and
+barely any light for you to see your way. The air is cold and stale down
+here, the mood oppressive as barred dungeon cells stretch down the hall.
+The groans and mutterings of prisoners fill your ears. To the east and west
+lie two doors.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Patrolling the hallway, a dungeon guard keeps the prisoners in line.
+Patrolling the hallway, a dungeon guard keeps the prisoners in line.
+An armour clad guard patrols the dungeons, ruthlessly taunting the inmates. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:17 Exits:N(E)S(W)> [0;37mn[0m
+Sprink arrives from the south.
+[36mBottom of the Stairwell[0;37m
+    The stone steps end near the bottom of a sturdy ironwood door to the
+south. A heavy wooden bar stretches across to both sides of the frame. This
+is the final gateway before prisoners enter the dungeons.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m113V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:17 Exits:SU> [0;37mu[0m
+Sprink arrives from below.
+[36mStairwell to the Dungeons[0;37m
+    Your footfalls echo off the bare walls of the stairwell. The stone feels
+cold and damp to the touch only warming where flickering torches hang from
+iron sconces set in the walls. The steps lead you down to the dungeons
+where Balifor's criminals are locked away ... hopefully.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:16 Exits:WD> [0;37mrem ball[0m
+You stop using a bright ball of light.
+
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:5 Exits:WD> [0;37mwield maul[0m
+You grab the maul with both hands.
+
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m9934574X 79.75% 791C [0;37mMem:1 T:3 Exits:WD> [0;37mw[0m
+[0;37mw[0m
+[0;37mw[0m
+[0;37mw[0m
+[0;37mw[0m
+[0;37mw[0m
+[0;37mw[0m
+[0;37mw[0m
+
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:60 Exits:WD> [0;37mw[0m
+[0;37mw[0m
+[36mA Corridor[0;37m
+    The corridor leads to the east and west. Flickering torches set into
+the stone walls illuminate the area. The clomp of boot shod feet bound
+through the corridor as jail guards pass by. Two heavily reinforced oaken
+doors lie just to the east. Most likely they lead down to the prison cells.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard keeps an eye out for any trouble.
+An armour clad guard keeps an eye out for any trouble.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9934574X 79.75% 791C [0;37mT:54 Exits:EW> 
+Sprink arrives from the east.
+[36mA Corridor[0;37m
+    The corridor extends to the east, deeper into the Balifor jail. Back
+west lies the front area where new prisoners are registered before being
+thrown in their cells. Several torches hang from the opposite walls,
+lighting your way. In the south wall a flight of stairs ascends to the
+second floor.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard keeps an eye out for any trouble.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9934574X 79.75% 791C [0;37mT:54 Exits:EWU> 
+[36mThe Balifor Jail[0;37m
+    The front area of the Balifor jail is a large square room. A bare
+concrete floor heavily scuffed by the passage of countless thieves and
+criminals lies beneath your feet. The walls are thick and dull yellow with
+exposed wooden beams racing up to the rafters above. Hanging from the walls
+are large bulletin boards pinned with ragged wanted posters and bounties.
+Ahead of you lies a wooden desk with a hallway off to the right. To the
+north is a door.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An armour clad guard keeps an eye out for any trouble.
+An armour clad guard keeps an eye out for any trouble.
+A Balifor jail sentry stands watch at the front door.
+The jail clerk sits at the desk busying himself with reports and new files. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m9934574X 79.75% 791C [0;37mT:54 Exits:(N)EW> [0m[1;34;49mPRIVATE MESSAGE FROM double doors. A large sign swinging above the frame clearly:
+[0;1;34;49mthis[0m
+
+[36mAt the Balifor Jail[0;37m
+    A two story building built from blood red brick looms to the east. Wide
+stone steps, chipped and cracked from heavy traffic, lead up to the front
+double doors. A large sign swinging above the frame clearly tells you this
+is the Balifor City Jail. For many prisoners passage beyond those doors is
+the beginning of the end. From some of the yellow stains on the steps, a
+few didn't handle it well. Several guards linger around the entrance, added
+guards for something out of the ordinary.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A member of the Balifor town watch patrols the outside of the jailhouse.
+A member of the Balifor town watch patrols the outside of the jailhouse.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m9934574X 79.75% 791C [0;37mT:54 Exits:NEW> 
+Sprink arrives from the east.
+[36mDeath Row[0;37m
+    The road leads east to the city jail, the start of the journey for many
+of the prisoners on death row. It is also their last. The dank smell of
+rotting flesh and unwashed bodies is not very pleasant. You force yourself
+to continue.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m9934574X 79.75% 791C [0;37mT:53 Exits:ESW> 
+[36mThe Executioners Block[0;37m
+    You leave the claustrophobic surroundings of Death Row and step out
+into a small square that houses the executioners block on a wooden platform
+at its centre. Gazing around you notice there is plenty of space for
+onlookers, a small cart used to sell food and refreshments is propped up
+against a wall of a house. No doubt it has seen much service. The wooden
+platform is blood stained and emits the smell of salt-water, used as a poor
+cleaning fluid to remove the worst of the grime. Death row continues to the
+east and west. A faint smell of blood and the uncomfortable sensation of
+evil invades your soul from the passageway to the north.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A young kender stands here, looking about curiously.
+The lord high executioner grins at you, fondling his axe lovingly.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m9934574X 79.75% 791C [0;37mT:53 Exits:NEW> 
+[36mDeath Row[0;37m
+    Stepping onto the narrow and putrid lane that leads east to the
+executioners block and west to Tavern Square, you are aware of the dark and
+evil feeling that surrounds you. The tall houses and buildings are boarded
+up, save for a balcony which runs past the block itself. A good viewing
+point for the peasants. It is easy to understand why this lane is nicknamed
+'Death Row'.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A drunken sailor is attempting to walk back to his ship.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9934574X 79.75% 791C [0;37mT:53 Exits:EW> 
+Sprink arrives from the east.
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mA key made of bone lies here.
+Someone seems to have left their cloak lying upon the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m9934574X 79.75% 791C [0;37mT:53 Exits:NESW> 
+Sprink arrives from the east.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m9934574X 79.75% 791C [0;37mT:52 Exits:NEW> 
+Sprink arrives from the east.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m9934574X 79.75% 791C [0;37mT:52 Exits:EW> [0;37mw[0m
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A black-robed priest of Hiddukel is here, trying to find his temple. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [0;37mT:51 Exits:NESW> [0;37mn[0m
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m9934574X 79.75% 791C [0;37mT:50 Exits:NESW> [0;37mn[0m
+Sprink arrives from the south.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m9934574X 79.75% 791C [0;37mT:50 Exits:NSW> [0;37mn[0m
+Sprink arrives from the south.
+[36mAn Intersection[0;37m
+    Heavy traffic flows in all directions through this intersection. Early
+in the morning, fishermen are heading out to pursue the day's catch in the
+Balifor Sea. The fortunate return in the afternoon and head east to the
+cannery offices. The unfortunate wearily trudge south in search of a warm
+fire and a pint. Travellers heading to and from the north think of long
+treks.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m9934574X 79.75% 791C [0;37mT:50 Exits:NESW> [0;37mn[0m
+[36mThe North Gate of Port Balifor[0;37m
+    Tired and weary, you drag your aching feet along the narrow road that
+passes through the north gate of Balifor. A tall city wall surrounds the
+port on its three open sides, an indication of its trading wealth and
+prosperous people. The sea off Balifor is reputedly vicious for the
+inexperienced, defending the town well.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A watchman stands here, guarding the gates of Port Balifor.
+A watchman stands here, guarding the gates of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m117V [0;37m9934574X 79.75% 791C [0;37mT:49 Exits:NS> [0;37mb quaff creamy[0m
+
+Sprink quaffs a creamy potion of flight.
+Sprink rises up off the ground.
+
+[32m[0;37m[32m438H [0;37m[32m117V [0;37m9934574X 79.75% 791C [0;37mT:46 Exits:NS> [0;37mfly[0m
+You lift your arms skyward and begin to float.
+
+[32m[0;37m[32m438H [0;37m[32m117V [0;37m9934574X 79.75% 791C [0;37mT:44 Exits:NS> [0;37mbali2bard[0m
+Sprink flies in from the south.
+[36mBefore the Gates of Balifor[0;37m
+    This long and dusty road ends south at the port of Balifor, a busy
+trading centre for Krynn. All travellers are welcome in Port Balifor but
+one must remain wary of the constant flow of smugglers and thieves that
+call this town home. Known for its bawdy taverns, black markets and
+expansive slums, Balifor is not a place for the meek.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m115V [0;37m9934574X 79.75% 791C [0;37mT:41 Exits:NS> 
+Sprink flies in from the south.
+[36mThe Road To Port Balifor[0;37m
+    This long and dusty road leads south to the port of Balifor, a busy
+trading centre for Krynn. All travellers are welcome in Port Balifor but
+one must remain wary of the constant flow of smugglers and thieves that
+call this town home. Known for its bawdy taverns, black markets and
+expansive slums, Balifor is not a place for the meek.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A quarter horse is standing here, carrying a weary traveler.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m113V [0;37m9934574X 79.75% 791C [0;37mT:41 Exits:NSW> 
+Sprink flies in from the south.
+[36mRoad to Port Balifor[0;37m
+    Dry, yellow, parched grasses expand all around you. Hot winds goad the
+few trees that brave the heat of the relentless summer suns, and several
+travelers rest in the shade of these large hardwoods. You can see the
+sturdy walls of Port Balifor to the south, and the smell of the sea is
+strong in the air, the glittering, placid waters of the Bay of Balifor
+being visible to the west.  Curving north and to the west, the dusty
+road continues along the rolling plains.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A human traveler walks along the road with a hickory walking stick in hand.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m111V [0;37m9934574X 79.75% 791C [0;37mT:41 Exits:NES> 
+Sprink flies in from the south.
+[36mOn a Coastside Road[0;37m
+    This road follows the coast of the Khurman Sea. A glittering expanse of
+blue water lies west of the road. The saline smell of saltwater hangs
+thinly in the air, quickly dispelled by the frequent warm winds rolling
+down from the Khuri-Khan and Ek-Khan far east of here. The cool breeze from
+the sea meets the winds of the hills here in a mild, gusty breeze that
+sways the few trees that manage to grow along this road. To the north you
+see a crossroads, while south of here the road follows the sea to Port
+Balifor.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1mYou sense that you are not alone.
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m109V [0;37m9934574X 79.75% 791C [0;37mT:40 Exits:NS> 
+Sprink flies in from the south.
+[36mRoad Along the Coast[0;37m
+    Cutting a jagged path along the grassy fields near the sea, this road
+follows the coast of the Khurman Sea. The air is filled with the crying of
+seagulls and the thick, saline smell of saltwater. It is well traveled by
+merchants and sailors, as well as the occasional band of thieves.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m107V [0;37m9934574X 79.75% 791C [0;37mT:40 Exits:NS> 
+Sprink flies in from the south.
+[36mIntersection of Alan Ak-Khan[0;37m
+    Hot, dry flatlands expand around you. The days in the Alan-Ak Khan are
+usually lazy, drifting lazily by into history as the sun beats down. This
+crossroad is well traveled, both by Green Dragonarmy patrols and merchants
+alike. Delphon sprawls out to the west, while the city of Flotsam sits on
+the Blood Sea northeast of here. Southeast of these parched flatlands, Port
+Balifor abuts the Khurman Sea. As an area of heavy trade, it is no wonder
+that bandits frequent these roads.
+[33m[1mA massive cactus grows here, casting a large shadow.
+A wooden signpost has been hammered into the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+A furry orange and tan fennec fox scours the plains for rodents.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m105V [0;37m9934574X 79.75% 791C [0;37mT:40 Exits:ESW> 
+Sprink flies in from the east.
+[36mA Hot Dry Road[0;37m
+    Plains expand all around you from this parched, hot dry road. The dirt
+of which the road is made is cracked and dry with lack of moisture, and
+very few plants other than the occasional cactus dare grow in such a trying
+environment. The odd reptile slithers across the path, and there are very
+few opportunities for respite along the road. In the distance to the north,
+a camp can be seen.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m103V [0;37m9934574X 79.75% 791C [0;37mT:40 Exits:NEW> 
+[36mA Dry Old Road[0;37m
+    This large road, composed mostly of dry, dusty dirt, winds its way
+across the parched yellow grasses of the plains towards Delphon to the
+west, and to a crossroad east of here. The wind carries with it the sounds
+of Delphon, a large city whose towering black gates glitter in both
+darkness and light. Many travelers pass you by, most heading west towards
+the great city of Delphon or beginning the trek to Port Balifor which rests
+south of here, along the shores of the Khurman Sea. The breeze dies down a
+bit, replaced with the cawing of vultures overhead.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m101V [0;37m9934574X 79.75% 791C [0;37mT:39 Exits:EW> 
+Sprink flies in from the east.
+[36mA Hot Dry Road[0;37m
+    This large road, composed mostly of dry, dusty dirt, winds its way
+across the parched yellow grasses of the plains towards Delphon to the
+west, and to a crossroad east of here. The wind carries with it the sounds
+of Delphon, a large city whose towering black gates glitter in both
+darkness and light. Many travelers pass you by, most heading west towards
+the great city of Delphon or beginning the trek to Port Balifor which rests
+southeast of here, along the shores of the Khurman Sea. The breeze dies
+down a bit, replaced with the cawing of vultures overhead.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A small thorny lizard scampers across the hot sands.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m99V [0;37m9934574X 79.75% 791C [0;37mT:39 Exits:EW> 
+Sprink flies in from the east.
+[36mA Hot Dry Road[0;37m
+    Looming over the desert like a giant, you see a city to the north.
+Fortified and extremely large, the city seems shrouded in a veil of sand
+and heat waves. To the west the road seeps into the endless dunes of which
+this road is flanked to both the north and the south. Far to the southeast
+lies the fabled city of Port Balifor.
+[33m[1mA wooden signpost has been hammered into the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+A young mage walks here, dirty with dust from the road.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m97V [0;37m9934574X 79.75% 791C [0;37mT:39 Exits:NEW> 
+Sprink flies in from the east.
+[36mA Hot Dry Road[0;37m
+    Parched, dry dunes rise around you, shaped into a rounded and smooth
+form by the unrelenting winds. The road, very well traveled, is covered with
+cracks in the dry clay from which it was made, and looks as if it could
+turn to muck in the weakest of showers.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m95V [0;37m9934574X 79.75% 791C [0;37mT:39 Exits:EW> 
+[36mFoothills of the Ek-Khan[0;37m
+    Lush, green hills roll all about you, rounded and soft. Their sides are
+covered with a variety of shrubs and bushes, and a glittering blue bay bends
+around to the east. The Ek-Khan Mountains can be seen looking to the north,
+and the hills of Khuri-Khan to the south.
+[33m[1mA wooden signpost has been hammered into the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m93V [0;37m9934574X 79.75% 791C [0;37mT:38 Exits:NES> 
+Sprink flies in from the north.
+[36mSkirting the Hills of Khuri-Khan[0;37m
+    This path skirts the hills of Khuri-Khan, a large system of dry, grassy
+foothills. The hills gradually become steeper to the north, while to the
+south the land flattens out somewhat. The road is made of mulch and looks
+relatively well travelled as there are many wagon ruts and footprints from
+travelers who have come before you.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A fellow traveller is here, weary from many days on the road. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m91V [0;37m9934574X 79.75% 791C [0;37mT:38 Exits:NS> 
+[36mSkirting the Hills of Khuri-Khan[0;37m
+    A cool breeze blows in from the east where you can see the Khurman Sea
+a ways off. The road becomes much larger here and to the north while to the
+southeast it almost becomes buried in tall grasses. To the northwest you
+can see the hills of Khuri Khan. The road skirts the sides of these rolling
+hills which eventually merge with the lower, warmer hills of the Ek-Khan.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m89V [0;37m9934574X 79.75% 791C [0;37mT:38 Exits:NW> 
+[36mApproaching the Hills of Khuri-Khan[0;37m
+    Amidst the cool breezes and verdant expanse of grasses is this cool
+road. Composed of mulch and dark black soil, the road curves east towards
+the Khurman Sea and west towards the Khalkist mountains. This seems to be a
+favored resting place of travelers, as there are several charred circles
+near the path where the grass grows shorter. A large apple tree provides
+shade over these campsites, as well as food and protection from the
+elements. The cool breeze continues, undaunted, rolling in off of the waves
+of the Khurman Sea, making you feel relaxed if but for a moment.
+[33m[1mA wooden sign nailed to a large tree of ripe apples is here.
+[0;37m[31m[1mYou sense that you are not alone.
+A kender bard rests in the shade of an apple tree here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m9934574X 79.75% 791C [0;37mT:38 Exits:ESW> [0;37mboth rest[0m
+You rest in the shade of the apple tree.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m9934574X 79.75% 791C [0;37mT:35 Exits:ESW> 
+Sprink rests in the shade of the apple tree.
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m9934574X 79.75% 791C [0;37mT:35 Exits:ESW> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m9934574X 79.75% 791C [0;37mT:25 Exits:ESW> 
+[37mYour clanmate Pryor has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m9934574X 79.75% 791C [0;37mT:5 Exits:ESW> 
+[36mEir tells your clan 'adda'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:30 Exits:ESW> 
+[36mEir tells your clan 'got a learn weapon'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:28 Exits:ESW> 
+[36mAdda tells your clan 'brt'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:24 Exits:ESW> [0;37ml[0m
+[36mApproaching the Hills of Khuri-Khan[0;37m
+    Amidst the cool breezes and verdant expanse of grasses is this cool
+road. Composed of mulch and dark black soil, the road curves east towards
+the Khurman Sea and west towards the Khalkist mountains. This seems to be a
+favored resting place of travelers, as there are several charred circles
+near the path where the grass grows shorter. A large apple tree provides
+shade over these campsites, as well as food and protection from the
+elements. The cool breeze continues, undaunted, rolling in off of the waves
+of the Khurman Sea, making you feel relaxed if but for a moment.
+[33m[1mA wooden sign nailed to a large tree of ripe apples is here.
+[0;37m[31m[1mYou sense that you are not alone.
+A kender bard rests in the shade of an apple tree here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:23 Exits:ESW> [0;37mboth sta[0m
+You stand up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:21 Exits:ESW> 
+-#-#-#-#-#-#-#-> Sprink <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:21 Exits:ESW> 
+A black-backed jackal buzzard flies in from the west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:55 Exits:ESW> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:41 Exits:ESW> [0;37ml[0m
+[36mApproaching the Hills of Khuri-Khan[0;37m
+    Amidst the cool breezes and verdant expanse of grasses is this cool
+road. Composed of mulch and dark black soil, the road curves east towards
+the Khurman Sea and west towards the Khalkist mountains. This seems to be a
+favored resting place of travelers, as there are several charred circles
+near the path where the grass grows shorter. A large apple tree provides
+shade over these campsites, as well as food and protection from the
+elements. The cool breeze continues, undaunted, rolling in off of the waves
+of the Khurman Sea, making you feel relaxed if but for a moment.
+[33m[1mA wooden sign nailed to a large tree of ripe apples is here.
+[0;37m[31m[1mThe black-backed jackal buzzard soars in long exaggerated circles in the sky.
+You sense that you are not alone.
+A kender bard rests in the shade of an apple tree here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [0;37mT:41 Exits:ESW> [0;37mbard2tar[0m
+Sprink flies in from the north.
+[36mOn a Cool Road[0;37m
+    A flat, wavy sea of grass expands around you. Wildflowers break the
+verdant monotony of the vegetation underfoot occasionally, and several wild
+fruit trees and roses also dot this path of mulch. A cool breeze blows in
+from the northeast. The Khurman Sea, also known as the Bay of Balifor, is
+not far from here. In the distance to the southwest, beyond several
+foothills, you can barely make out the towering peaks of the Khalkhist
+Mountains.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9934574X 79.75% 791C [0;37mT:32 Exits:NS> 
+[36mSkirting the Plains of Kalin Ak-Phan[0;37m
+    This rough road winds its way through foothills near the Khalkist
+Mountains which lay to the west. Lush, flat plains extend to the east and
+northeast. These hills are green, dotted by the occasional dark grey
+boulder, probably the result of a recent avalanche. No signs of life or
+civilization can be seen in sight, as there are few footprints and no wagon
+ruts on this rugged road.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m9934574X 79.75% 791C [0;37mT:32 Exits:NSW> 
+[36mSkirting the Khalkist Mountains[0;37m
+    The lands of Ak-Tubal and Kalin Ak-Phan stretch out to the east. They
+are flat, dry, grassy plains infamous for their unbearable heat during the
+summer solstice. Although the conditions can be harsh, you can see several
+clumps of hardwoods providing some shade for travellers. Far east beyond
+the huge plains you can barely make out the glittering waves of the Khurman
+Sea. The altitude descends north of there, though to the south you can see
+the jagged, towering peaks of the mighty Khalkist Mountains.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A furry orange and tan fennec fox scours the plains for rodents.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m9934574X 79.75% 791C [0;37mT:32 Exits:NS> 
+[36mSkirting the Khalkist Mountains[0;37m
+    Hills rise up all around you. Gargantuan grey slabs of stone seem to
+spring from the earth as the cold, snowy peaks of the Khalkists spring up
+around you. Gazing to the west you notice a huge column of black smoke
+rising into the air.  Occasionally the ground here shakes almost
+imperceptibly, trembling in response to the volcano in the distance.  
+The road is barely visible now, as sheer walls of rock flanking the 
+bottoms of mountains are all about you.
+[33m[1mA large shrub lies just off the main road.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m9934574X 79.75% 791C [0;37mT:32 Exits:NS> 
+Sprink flies in from the north.
+[36mSkirting the Foothills[0;37m
+    The narrow road twists and winds around the larger foothills here.
+These hills are the southern extent of the mightly Khalkist Mountains which
+loom over you to the north. The peaks are such a bleak, dark grey, they
+almost look charred against the sky. To the south the rocky road flattens
+somewhat into more hilly foothills while those to the north only become
+more treacherous and rocky. In the distance you can see faint signs of
+smoke barely rising above the foothills far to the southwest.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A Khurish tribesman gives you a glowering look as he wanders by.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m9934574X 79.75% 791C [0;37mT:31 Exits:ND> 
+[36mSkirting the Foothills[0;37m
+    This narrow road winds a treacherous path through these grim foothills.
+The trail is rocky and somewhat unstable, through clumps of pine trees and
+the occasional hardwood, though other than that the terrain is rather
+monotonous. The land is hilly, though not altogether rugged, as most of the
+hillsides that comprise the area are grassy or covered with small rocks.
+The jagged, violent peaks of the Khalkist Mountains sneer at you high
+above to the north.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A small thorny lizard scampers across the hot sands.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m9934574X 79.75% 791C [0;37mT:31 Exits:SU> 
+Sprink flies in from the north.
+[36mBefore the Foothills of the Khalkist[0;37m
+    The road begins to narrow to the north as it grows steadily steeper.
+Far in the distance, the road winds as it carves a path through the
+foothills of the Khalkists. Vegetation is less sparse further up the
+path, offering more sights for the arduous climb. The view to the south is
+a stark contrast, as the road widens and flattens. For miles the road
+continues straight with very little to see except for an expansive yellow
+sea of sand.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A Khurish tribesman gives you a glowering look as he wanders by.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m9934574X 79.75% 791C [0;37mT:31 Exits:NS> 
+[36mCrossing the Thon-Thalas River[0;37m
+    The beating sun bakes the dirt road in such heat that the road has
+cracked into what almost resembles cobblestones. Insects scurry across,
+careful not to stay in the heat for long, lest they become a permanent
+melted fixture of the road. Shimmering waves of heat rise off of the road,
+distorting your vision slightly. Far to the east, the lands of Khur lie
+between here and the Balifor Bay, though all that can be seen is desert.
+Somewhere located within is the City of Pashin, a hodgepodge city with both
+Dwarven and Solamnic architecture. Often used as a stopping point for
+caravans and trade wagons, Pashin is rumored to have one of the finest
+bazaars in Ansalon. There is no shade in this stretch of road, and the only
+option is to continue either north or south.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A furry orange and tan fennec fox scours the plains for rodents.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m9934574X 79.75% 791C [0;37mT:31 Exits:NS> 
+[36mBefore an Arid Desert[0;37m
+    The cruel sun beats down on the road here, cracking the dried soil.
+The land here suffers badly from the unrelenting winds that blow across the
+desert to the west. Lizards take shelter in the shadows of the rocks where
+the sand is not hot enough to roast them, but there is no shade large
+enough for larger animals. Each step sinks into the searing sand, the air
+thick and hazy, each breath like drowning in lava.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A furry orange and tan fennec fox scours the plains for rodents.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m9934574X 79.75% 791C [0;37mT:30 Exits:NW> 
+Sprink flies in from the east.
+[36mSkirting the Forest of Silvanesti[0;37m
+    Several climates converge on the groves of trees loosely dotting the
+grassy landscape here, and signs of wildlife can be seen all throughout
+the area. The lush forests to the south evoke a sense of peacefulness.
+Mountains line the horizon to the north and rolling deserts far to the
+east, while thick tree cover to the south denotes the legendary forests of
+Silvanesti. An unkempt trail lingers from moderate traffic to the east and
+west.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+An unafraid and majestic stag trots slowly, waiting on its master.
+A tattooed kagonesti elf wanders here, enjoying his travels.
+A fellow traveller is here, weary from many days on the road. (white aura)
+A large, brown mountain lion prowls the foothills here.
+The black-backed jackal buzzard soars in long exaggerated circles in the sky.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m9934574X 79.75% 791C [0;37mT:30 Exits:EW> 
+Sprink flies in from the east.
+[36mSkirting the Forest of Silvanesti[0;37m
+    The trail continues to the east and west, along the edge of the Forest
+of Silvanesti. Tall timbers line the sides of the path that creates a
+quaint corridor effect. The trees seem to thin out here, giving way to a
+more verdant landscape of various shrubbery. Animals trails intersect the
+main path leading through the area. Mountain ranges are barely visible to
+the north and to the east the terrain seems more rigid and bare. Traveling
+here seems peaceful and unencumbered.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A human traveler walks along the road with a hickory walking stick in hand.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m9934574X 79.75% 791C [0;37mT:30 Exits:EW> 
+Sprink flies in from the east.
+[36mSkirting the Forest of Silvanesti[0;37m
+    The trail continues to the east and west, along the edge of the Forest
+of Silvanesti. The path weaves through the trees, now thicker from the
+looming forests to the south. Brilliant light-rays shine down from the
+dense canopy above the forest floor. Sparse foliage and a lack of downed
+trees along the trail indicate this path sees some amount of traffic.
+Traveling here seems peaceful and unencumbered.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A mercenary travels along the road, seeking employment.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m9934574X 79.75% 791C [0;37mT:30 Exits:EW> 
+[36mSkirting the Forest of Silvanesti[0;37m
+    The path turns to the east and south, continuing along the edge of the
+Forest of Silvanesti. The peaceful feeling of being in such close proximity
+to the hustle and bustle of a live forest provides you with enough energy
+to keep your feet light on the path. To the east, the trail continues on 
+towards the deserts of Khur. To the north, the plains of Blode are in view
+with the backdrop of mountains beyond. The Khalkist mountain range fills the
+horizon to the north.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m106V [0;37m9934574X 79.75% 791C [0;37mT:29 Exits:ES> 
+Sprink flies in from the north.
+[36mSkirting the Forest of Silvanesti[0;37m
+    The path turns to the north and west, continuing along the edge of the
+Forest of Silvanesti. Breezes, bird song, and other wildlife can be heard and
+witnessed along the path. To the north, the path continues along towards the 
+plains of Blode and the Khalkist mountain foothills. To the west, the path 
+continues on to the Plains of Dust. The impenetrable lines of trees and foliage
+to the east and south block any further movement into the forest. 
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A small thorny lizard scampers across the hot sands.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m104V [0;37m9934574X 79.75% 791C [0;37mT:29 Exits:NW> 
+[36mBefore the Forest of Silvanesti[0;37m
+    The edge of a great forest lies to the south, filled with ancient
+and beautiful trees, wildlife, and the revered home of the Silvanesti elves.
+The trees and foliage provide an impassable barrier to entering the forest
+from here, forming a natural border with the rest of the world. To the east
+and west, a well travelled path continues east along the edge of the forest,
+and west to an intersection. To the north, you can see the plains of Blode
+in the distance, which are home to towns and cities alike.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m102V [0;37m9934574X 79.75% 791C [0;37mT:29 Exits:EW> 
+[36mAn Intersection in the Foothills[0;37m
+    A shady grove offers a cool place to rest at this intersection. The
+rolling grasslands to the south extend beyond sight, running parallel to
+the forest of Silvanesti. The southern tip of the Khalkist mountains lies a
+great distance towards the west, and rise up like towering giants. Beyond
+that, though not visible, lies the waters of New Sea. Ogre Peaks and Onyx
+Teeth comprise the portion of the mountains to the west, and as the name
+suggests, is home to many ogres. The land to the north is a mighty plain
+known as Blode, where cities lie sprawled amidst the Khalkist mountains.
+Skirting the northern tip of the Silvanesti forest, the road continues east
+into the lands of Khur.
+[33m[1mA wooden signpost has been stuck into the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+A quarter horse is standing here, carrying a weary traveler.
+A large, brown mountain lion prowls the foothills here.
+A traveling mercenary is here, seeking employment.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m100V [0;37m9934574X 79.75% 791C [0;37mT:29 Exits:ESW> 
+[36mGently Rolling Foothills[0;37m
+    The trail which you now walk stretches endlessly to the north and
+south, between the soft vegetation that grows in this grassland. Rising up
+from the ground far beyond the hills to the north are the Khalkist Mountain
+ranges, also called the Pillars of Heaven by the nomads that live near their
+base. To the east lies Silvanesti forest, which is home to a great many
+elves.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m98V [0;37m9934574X 79.75% 791C [0;37mT:28 Exits:NS> 
+[36mGently Rolling Foothills[0;37m
+    The gently rolling hills are covered in lush green grasses that
+sometimes extend several feet above the ground. They stretch on for miles
+to the north and south, but the warm air makes for a rather pleasant walk.
+The Plains of Dust can be seen far to the west, while to the east lies an
+immense forest that is part of the Silvanesti kingdom.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m96V [0;37m9934574X 79.75% 791C [0;37mT:28 Exits:NSD> 
+Sprink flies in from the north.
+[36mGently Rolling Foothills[0;37m
+    Verdant rolling hills stretch out to the north, as far as one can see,
+growing greener and warmer with each step. To the west lies an endless sea
+of red dirt, now called the Plains of Dust, which was one the great nation
+of Kharolis during the Age of Dreams. The region was as bountiful once
+the hills upon which you now walk, though now they are as desolate and
+unforgiving as the open ocean.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m94V [0;37m9934574X 79.75% 791C [0;37mT:28 Exits:NSD> 
+Sprink flies in from the north.
+[36mA Choice of Paths[0;37m
+    From this vantage point atop the small hill, you can see the top of
+King's road extending far to the west for what seems like an eternity. The
+road west is completely useless now, having been destroyed during the
+Cataclysm. It now stands like a behemoth in the barren wasteland that is
+the Plains of Dust. It is now a relic that serves as a harsh reminder that
+even the mightiest can fall. A rocky trail from the north leads down the
+hill, following King's Road at its base. An unfragmented section of the
+road remains intact, and can be accessed from this point leading east into
+the forests of Silvanesti, however that road is free of wagon tracks and
+hoof prints, no doubt believing the tales of horrifying nightmares that
+have befallen the once great nation.
+[33m[1mA wooden sign on a post is standing here.
+[0;37m[31m[1mYou sense that you are not alone.
+A Silvanesti elf rests in the shade of the grove trees.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m92V [0;37m9934574X 79.75% 791C [0;37mT:28 Exits:NED> 
+Sprink flies in from above.
+[36mClimbing a Small Hill[0;37m
+    King's Road extends up and down the hillside here, stretching on
+seemingly forever. The path is not maintained and has not been for some
+time. Piled stone walls built long ago segment the sides of the road,
+creating a haphazard walkway up the hill. The plains extend all around,
+sprawling in each direction. Very few landmarks mark the landscape of the
+valley, save for the unmaintained road system standing out from the sand.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A traveling mercenary is here, seeking employment.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m90V [0;37m9934574X 79.75% 791C [0;37mT:27 Exits:NWU> 
+Sprink flies in from the east.
+[36mAlongside King's Road[0;37m
+    The elevated highway that is King's road rises thirty feet beyond the
+ground. Having been broken during the Cataclysm, the road is now a shell of
+its former self. Aside from the roads state of disrepair, it sits too high
+from the ground to be travelled on. Still, the ancient road serves as a
+worthy guide through the harsh plains and towards the kingdom of
+Silvanesti. To the west, the road has collapsed, leaving behind tall
+pillars of stone that stretch out towards the sky and supporting nothing.
+[33m[1mA wooden merchant's cart filled with various wares is here.
+[0;37m[31m[1mYou sense that you are not alone.
+A quarter horse is standing here, carrying a weary traveler.
+A quarter horse is standing here, carrying a weary traveler.
+A traveling merchant yells at his donkey to move faster.
+A grey abanasinia donkey stands here, attached to a wooden merchant's cart.
+[0;37m[36mA traveling merchant tells you 'You there! Won't you help me?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m88V [0;37m9934574X 79.75% 791C [0;37mT:27 Exits:ES> 
+Sprink flies in from the north.
+[36mBeneath King's Road[0;37m
+    King's Road was once a grand elevated highway which was supported
+by large pillars thirty feet in the air running on pillars for 600 miles
+from Thon-Thalas in the east to Purstal in the west. Originally molded from
+stone by House Mason of the Silvanesti Elves as a means to travel from
+Silvanesti, through the Plains of Dust and into Qualinesti, it was widely
+used by merchants and travelers, however during the Cataclysm the highway
+collapsed near Purstal and lies in ruins further west of that point.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A traveling mercenary is here, seeking employment.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m86V [0;37m9934574X 79.75% 791C [0;37mT:27 Exits:NS> 
+[36mAlongside King's Road[0;37m
+    The elevated highway that is King's road rises thirty feet beyond the
+ground. Having been broken during the Cataclysm, the road is now a shell of
+its former self. Aside from the road's state of disrepair, it sits too high
+from the ground to be travelled on. Still, the ancient road serves as a
+worthy guide through the harsh plains and towards the kingdom of
+Silvanesti. To the west, the road has collapsed, leaving behind tall
+pillars of stone that stretch out towards the sky and supporting nothing.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+The black-backed jackal buzzard soars in long exaggerated circles in the sky.
+A mercenary travels along the road, seeking employment.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m84V [0;37m9934574X 79.75% 791C [0;37mT:27 Exits:NW> 
+[36mAlongside King's Road[0;37m
+    King's Road runs parallel to the Khaldat river, too high and too
+ruined to be used as a means of transport. Broken columns reach towards the
+sky, a reminder of what was and what will never be, while the saffron
+colored sands blow in invisible winds. The faint sound of scurrying can be
+detected if one ignores the bubbling burble of the broad river stretching
+east and south into the Plains of Dust. The sound is probably from the
+small animals that call the desolation their home.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A furry orange and tan fennec fox scours the plains for rodents.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m82V [0;37m9934574X 79.75% 791C [0;37mT:26 Exits:EW> 
+Sprink flies in from the east.
+[36mThe Edge of King's Road[0;37m
+    This once grand and beautifully crafted highway has been ravaged by the
+harsh surrounding sands. It is said that King's Road once cut entirely
+across what is now known as the Plains of Dust, leading all the way to
+Sancrist. There is, however, little proof of King's Road extending beyond
+this point, as anything that may lie further west is buried beneath the
+sands. The road has collapsed, leaving heaps of rubble and debris on the
+sands. King's road continues east, but is inaccessible from the ground.
+Instead a much simpler road has been formed and runs alongside it's base.
+[33m[1mA large shrub lies just off the main road.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m80V [0;37m9934574X 79.75% 791C [0;37mT:26 Exits:EW> 
+Sprink flies in from the east.
+[36mBefore the Ruins of Purstal[0;37m
+    The road to the east lies covered in huge chunks of broken grey stone
+that have been pushed to the edges to clear a path. The stones once belonged
+to King's road, which still runs hundreds of miles east towards the
+Thon-Thalas River, deep within the lands of Silvanesti. To the west is an
+arched stone bridge, spanning a fork in the Torath River. A series of
+peculiar lights flash briefly to the north, where the ruins of Purstal lay.
+Once a major trading city, and part of the Kharolis Empire, nothing of
+Purstal remains but broken gates and crumbled buildings.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m78V [0;37m9934574X 79.75% 791C [0;37mT:26 Exits:EW> 
+Sprink flies in from the east.
+[36mA Stone Bridge[0;37m
+     The sky is gloomy and an occassional snowflake falls from the sky. The
+bridge you stand on is made of solid spruce and loose dirt is packed in the
+cracks to ensure that the many horses and caravans can travel effortlessly.
+Below you, the River Torath gushes mightly with its blue colour reflecting
+the high silt content of this glacially fed river. You shudder to imagine
+trying to navigate this rapidly flowing stream and after seeing a large
+chunk of ice drift by, you realize that to try to navigate on this river
+would be impossible.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m76V [0;37m9934574X 79.75% 791C [0;37mT:26 Exits:EW> 
+Stinging sands pelt your exposed skin, finding their way into every crevice.
+[36mA Trail in the Plains of Dust[0;37m
+    Cool winds cut through your clothing, sending chills through your body
+and adding insult to injury as they carry with them stinging grains of
+reddish sand. This barren path cuts through the center of the Plains of
+Dust, conjoining East Road and King's Road. Though not a road, the
+semi-frozen ground and lack of vegetation makes for a more than adequate
+trail. Laid with trailmarkers, the path through the plains is clear, though
+merchants have been known to get disoriented and wander off during
+particularly bad dust storms.
+[33m[1mA wooden trailmarker points towards the west and east.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m74V [0;37m9934574X 79.75% 791C [0;37mT:25 Exits:EW> 
+You turn your head swiftly at a sharp sound, only to realize it was just the wind.
+Sprink flies in from the east.
+[36mA Trail in the Plains of Dust[0;37m
+    Cool winds cut through your clothing, sending chills through your body
+and adding insult to injury as they carry with them stinging grains of
+reddish sand. This barren path cuts through the center of the Plains of
+Dust, conjoining East Road and King's Road. Though not a road, the
+semi-frozen ground and lack of vegetation makes for a more than adequate
+trail. Laid with trailmarkers, the path through the plains is clear, though
+merchants have been known to get disoriented and wander off during
+particularly bad dust storms.
+[33m[1mA wooden trailmarker points towards the east and south.
+[0;37m[31m[1mYou sense that you are not alone.
+A brown rattlesnake shakes rapidly, warning you to stay back.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m72V [0;37m9934574X 79.75% 791C [0;37mT:25 Exits:ES> 
+Your teeth clatter rapidly as a bitter chill sets deep in your bones.
+Sprink flies in from the north.
+[36mA Trail in the Plains of Dust[0;37m
+    Cool winds cut through your clothing, sending chills through your body
+and adding insult to injury as they carry with them stinging grains of
+reddish sand. This barren path cuts through the center of the Plains of
+Dust, conjoining East Road and King's Road. Though not a road, the
+semi-frozen ground and lack of vegetation makes for a more than adequate
+trail. Laid with trailmarkers, the path through the plains is clear, though
+merchants have been known to get disoriented and wander off during
+particularly bad dust storms.
+[33m[1mA wooden trailmarker points towards the north and south.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m70V [0;37m9934574X 79.75% 791C [0;37mT:25 Exits:NSW> 
+You turn your head swiftly at a sharp sound, only to realize it was just the wind.
+[36mA Trail in the Plains of Dust[0;37m
+    Cool winds cut through your clothing, sending chills through your body
+and adding insult to injury as they carry with them stinging grains of
+reddish sand. This barren path cuts through the center of the Plains of
+Dust, conjoining East Road and King's Road. Though not a road, the
+semi-frozen ground and lack of vegetation makes for a more than adequate
+trail. Laid with trailmarkers, the path through the plains is clear, though
+merchants have been known to get disoriented and wander off during
+particularly bad dust storms.
+[33m[1mA wooden trailmarker points towards the north and south.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m68V [0;37m9934574X 79.75% 791C [0;37mT:25 Exits:NSW> 
+Your teeth clatter rapidly as a bitter chill sets deep in your bones.
+Sprink flies in from the north.
+[36mA Trail in the Plains of Dust[0;37m
+    Cool winds cut through your clothing, sending chills through your body
+and adding insult to injury as they carry with them stinging grains of
+reddish sand. This barren path cuts through the center of the Plains of
+Dust, conjoining East Road and King's Road. Though not a road, the
+semi-frozen ground and lack of vegetation makes for a more than adequate
+trail. Laid with trailmarkers, the path through the plains is clear, though
+merchants have been known to get disoriented and wandering off during
+particularly bad dust storms.
+[33m[1mA wooden trailmarker points towards the west and north.
+[0;37m[31m[1mYou sense that you are not alone.
+A small thorny lizard scampers across the hot sands.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m66V [0;37m9934574X 79.75% 791C [0;37mT:24 Exits:NW> 
+Stinging sands pelt your exposed skin, finding their way into every crevice.
+[36mA Trail in the Plains of Dust[0;37m
+    Cool winds cut through your clothing, sending chills through your body
+and adding insult to injury as they carry with them stinging grains of
+reddish sand. This barren path cuts through the center of the Plains of
+Dust, conjoining East Road and King's Road. Though not a road, the
+semi-frozen ground and lack of vegetation makes for a more than adequate
+trail. Laid with trailmarkers, the path through the plains is clear, though
+merchants have been known to get disoriented and wander off during
+particularly bad dust storms.
+[33m[1mA wooden trailmarker points towards the west and east.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m64V [0;37m9934574X 79.75% 791C [0;37mT:24 Exits:NESW> 
+[36mA Wooden Bridge[0;37m
+     The sky is gloomy and an occassional snowflake falls from the sky. The
+bridge you stand on is made of solid spruce and loose dirt is packed in the
+cracks to ensure that the many horses and caravans can travel effortlessly.
+Below you, the Twendle River gushes mightly with its blue colour reflecting
+the high silt content of this glacially fed river. You shudder to imagine
+trying to navigate this rapidly flowing stream and after seeing a large
+chunk of ice drift by, you realize that to try to navigate on this river
+would be difficult.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A quarter horse is standing here, carrying a weary traveler.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m62V [0;37m9934574X 79.75% 791C [0;37mT:24 Exits:EW> 
+Sprink flies in from the east.
+[36mThe Crumbling Remains of East Road[0;37m
+    The smoke from the fires of the ruins of Twendle to the west create
+rivulets of charcoal in the grey lifeless skies above the Plains of Dust.
+The town's namesake river has cut a huge ravine into the chiffon sands of
+the wastelands, dropping forty to fifty feet below the ground level as the
+arctic waters rush ever southwards in a futile charge towards the Icewall
+Glacier. Hills and burrows of ice and silica have begun to form in the
+plains, like undulating waves of desolation.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A barbarian hunter roams the hillsides here, in search of his kill.
+A brown rattlesnake shakes rapidly, warning you to stay back.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m60V [0;37m9934574X 79.75% 791C [0;37mT:24 Exits:ESW> 
+[36mA Hilly Road Outside Twendle[0;37m
+    Just south of the road lies a small village nestled deep within these
+hills. The village looks mostly abandoned, and some of the stone huts have
+become so badly damaged that they lie in ruins. Wisps of black smoke rise
+from the remaining structures, but the village is a shell of its former
+self. The inhabitants appear to be human, and although they are few they
+seem well versed in the harsh winters they receive here. East Road
+continues towards Tarsis to the west, but gives way to nothing but sand in
+the east.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m58V [0;37m9934574X 79.75% 791C [0;37mT:23 Exits:ESD> 
+Sprink flies in from above.
+[36mA Cool Dry Road[0;37m
+    Wind and blasts of sand dominate the openness of the gorge here. The
+path is well beaten and stretches up the slope of the valley basin, giving
+passage to a settlement in the distance. Smoke trails emanating from the
+sparse grouping of huts hint at the possibility of a village to the
+southeast. Various rock formations sit at the side of the road, corralling
+travelers into a small trench leading up the valley.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A light warhorse is standing here, carrying a young squire (white aura). (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m56V [0;37m9934574X 79.75% 791C [0;37mT:23 Exits:WU> 
+A light warhorse leaves up, carrying a young squire.
+Sprink flies in from the east.
+[36mA Bend in the Road[0;37m
+    The tall rock formations jutting out from the earth have been worn
+smooth by the years of element exposure. Although well traveled, the rocky
+outcroppings that litter the road greatly slow your pace. A cursory glance
+at your surroundings denotes the harsh conditions of the valley. The
+winding path continues to the east and the south.
+[33m[1mAn iron cuirass is lying on the ground.
+An iron shield rests here.
+A long sword has been left here.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m54V [0;37m9934574X 79.75% 791C [0;37mT:23 Exits:ES> 
+Sprink flies in from the north.
+[36mA Cool Dry Road[0;37m
+    This rocky, barren road twists northward and upward here. Scaling the
+side of the valley, the twisty road gently leads out of the valley. Looking
+west you can see a small town nestled within the dusty floor of the valley.
+The air is dry and cold, the soil sandy and barren. Why anyone would build
+a town in such a valley is inconceivable, aside from the fact that this is
+a popular, well-traveled merchant route.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m52V [0;37m9934574X 79.75% 791C [0;37mT:23 Exits:NES> 
+[36mA Scenic Road[0;37m
+    Although the Plains of Dust are generally barren and frigid, this scenic
+road offers a pleasant view of the surrounding valley. The hard-packed road
+winds through the gradually sloping hills, which helps protect you from the
+sharp, crisp breeze flowing in from the south. Lone pine trees and shrubs
+dot the hillsides and struggle for survival in this barren wasteland. The
+trees remind you of the tenacity of the barbarians and nomads that inhabit
+much of the inhospitable region. The road continues through the valley to
+the west, and rises gently as it cuts through the hills to the north.
+[33m[1mA large shrub lies just off the main road.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m50V [0;37m9934574X 79.75% 791C [0;37mT:22 Exits:NW> 
+Sprink flies in from the east.
+[36mA Scenic Road[0;37m
+    Smoke lazily rises into the air, cast by the fires of the surrounding
+villages and blown about by the arctic winds. The gently rolling hills make
+for a pleasant journey, offering a new perspective on the landscape with
+each step taken. Larger hills loom to the northeast, just off of the main
+road. Several pine and deciduous trees sprout from the hillsides, though
+other than those and a few shrubs, the hills are mostly barren. The fenced
+road continues to the east and west, while north and south lead into the
+untamed Plains of Dust.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m48V [0;37m9934574X 79.75% 791C [0;37mT:22 Exits:(N)E(S)W> 
+Sprink flies in from the east.
+[36mA Wooden Bridge[0;37m
+     The sky is gloomy and an occassional snowflake falls from the sky. The
+bridge you stand on is made of solid spruce and loose dirt is packed in the
+cracks to ensure that the many horses and caravans can travel effortlessly.
+Below you, the River Torath gushes mightly with its blue colour reflecting
+the high silt content of this glacially fed river. You shudder to imagine
+trying to navigate this rapidly flowing stream and after seeing a large
+chunk of ice drift by, you realize that to try to navigate on this river
+would be impossible.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A barbarian hunter roams the hillsides here, in search of his kill.
+A poor fisherman casts his line into the river here. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m46V [0;37m9934574X 79.75% 791C [0;37mT:22 Exits:EW> 
+Sprink flies in from the east.
+[36mEast Road[0;37m
+    This is a dry, dusty riverbank on the Torath River. Small, dried up
+shrubs line the muddy banks of this small, rushing river, and the air here
+is slightly colder due to the mist from the river. Although you see no
+signs of life in the river from here, several poor looking fishermen walk
+along the banks with shoddy poles. The sound of rushing water hangs heavily
+in the cold air, and a large wooden bridge crosses the river to the east.
+[33m[1mA sand-blasted wooden signpost has been hammered into the ground here.
+[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m44V [0;37m9934574X 79.75% 791C [0;37mT:22 Exits:NESW> 
+Sprink flies in from the east.
+[36mAt the Edge of a Small Valley[0;37m
+    Skirting the edge of a dry, dusty valley, the road winds its way down
+and north here. The air looks much more tumultuous to the north, as great,
+howling gusts of wind offer a mere prelude to the dry Plains of Dust which
+expand to the northwest. As you gaze over the contents of the valley, you
+notice a small town nestled deep in the valley. Wisps of black smoke drift
+lazily into the air, and signs of life become more apparant as there are
+many visible footprints, not yet covered by dust.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m42V [0;37m9934574X 79.75% 791C [0;37mT:21 Exits:NE> 
+Sprink flies in from the south.
+[36mEast Road[0;37m
+    The Plains of Dust surround you. Barren, rocky soil offers little
+vegetation, only monotony. Icereach and the Icewall glacier cannot be seen
+from this distance, though you can feel their bitter winds. This road winds
+its way east to where the dust clouds that billow about the plains
+diminish, and west towards the city of Tarsis. Pale white clouds hang
+lazily in the air when you speak and breathe, until a strong gust of wind
+destroys them. The landscape is barren and rocky, and your feet are numb
+despite all efforts to protect them.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+The black-backed jackal buzzard soars in long exaggerated circles in the sky.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m40V [0;37m9934574X 79.75% 791C [0;37mT:21 Exits:SW> 
+Sprink flies in from the east.
+[36mEast Road[0;37m
+    The road continues east and west here, surrounded by the chilly
+monotony of the Plains of Dust. Icy gusts of wind tear relentlessly at you
+from the south as they drift violently in from the depths of the Icewall
+glaciers. Dry skies expand overhead, as rain is a commodity in these
+parts of Krynn. You can barely make out Tarsis, lying nestled in the heart
+of the plains west from here. More dust greets you to the east.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m38V [0;37m9934574X 79.75% 791C [0;37mT:21 Exits:EW> 
+[36mEast Road Junction[0;37m
+    A jaded, frigid, azure sky expands above you, a swirling sea of cloud
+and wind. Pummeling you from the south, glacial winds send clouds of dust
+billowing around you. The howling winds scream into your ears and tear at
+your clothes, as if rogue, elemental scavengers. Barren, rocky soil offers
+little comfort from the relentless winds, and the only sign of life you can
+see is deep wagon ruts on this well-travelled road, most of which seem to
+be headed east to west, towards the city of Tarsis.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m36V [0;37m9934574X 79.75% 791C [0;37mT:21 Exits:ESW> 
+[36mThe Road to Tarsis[0;37m
+    This, the road to Tarsis, strides boldly through the Plains of Dust,
+plunging eastward through the plains and west towards the exotic city of
+Tarsis. Glacial winds gust in from the south, hampering your journey. The
+plains respond to these forceful winds, born in the heart of Icewall, with
+incredible dust storms that constantly threaten to encroach upon Tarsis and
+the roads leading to her. Very few plants have the will or tenacity to try
+growing on these rocky soils, and the slightest green of a stubborn moss is
+a sight for sore eyes.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m34V [0;37m9934574X 79.75% 791C [0;37mT:20 Exits:NESW> 
+[36mOutside the East Gate of Tarsis[0;37m
+    The fortified walls of Tarsis rise up from the Plains of Dust like
+mighty cliffs, defiant against the cold, harsh winds, and dwarfed only by
+the fifty foot towers that nearly encircle the city. The ancient city walls
+have withstood the tests of time, including the Cataclysm in all of its
+fiery glory. Once called Tarsis the Beautiful, the Lordcity was a bustling
+sea port, whose rich commerce brought sustainability and prosperity to the
+land. The city now looks as desolate as the plains that surround it.
+Tempestuous winds assail the walls with endless specks of sand, causing
+minimal damage to the walls, but serving as a constant reminder that
+nothing can survive forever in these wastelands.
+[33m[1m[0;37m[31m[1mA human traveler walks along the road with a hickory walking stick in hand.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m32V [0;37m9934574X 79.75% 791C [0;37mT:20 Exits:NESW> 
+[36mEast Gate of New Tarsis[0;37m
+    Here at the east end of New Tarsis, a sturdy gate stands ready to seal
+the city from any threat. The finest oak, imported from the northern
+forests, swings on stout iron hinges. A heavy iron bar can be slotted into
+notches in the walls themselves to prevent the gate's being opened. Stone
+walls stretch to the north and south.
+[33m[1m[0;37m[31m[1mA Tarsian guard stands here, turning away undesirables from the city.
+A Tarsian guard stands here, turning away undesirables from the city.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m30V [0;37m9934574X 79.75% 791C [0;37mT:20 Exits:NESW> [0;37mrecover[0m
+They don't seem to be here.
+
+[32m[0;37m[32m438H [0;37m[33m[1m30V [0;37m9934574X 79.75% 791C [0;37mT:9 Exits:NESW> 
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m438H [0;37m[33m[1m30V [0;37m9934574X 79.75% 791C [0;37mT:9 Exits:NESW> 
+They are not in need of your help.
+
+[32m[0;37m[32m438H [0;37m[33m[1m30V [0;37m9934574X 79.75% 791C [0;37mT:9 Exits:NESW> 
+Huh?!
+
+[32m[0;37m[32m438H [0;37m[33m[1m30V [0;37m9934574X 79.75% 791C [0;37mT:9 Exits:NESW> [0;37mb[0m
+
+The lightning has stopped.
+
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [0;37mT:60 Exits:NESW> 
+Sprink flies in from the east.
+
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [0;37mT:54 Exits:NESW> 
+Sprink begins resting but stays aloft.
+
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [0;37mT:53 Exits:NESW> [0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [0;37mT:52 Exits:NESW> [0;37mrecover[0m
+You now watch Sprink.
+
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:51 Exits:NESW> 
+Sprink applies bandages to her wounds.
+You are already resting.
+
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:51 Exits:NESW> 
+They are not in need of your help.
+
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:50 Exits:NESW> 
+Huh?!
+
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:50 Exits:NESW> 
+[36mAdda tells your clan 'got dark soul'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:38 Exits:NESW> 
+[36mGrambo tells your clan 'wicked'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:36 Exits:NESW> 
+[36mPryor tells your clan 'were u moc blocked on last chance or something?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:26 Exits:NESW> 
+[36mJuni tells your clan 'from Dagg'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:24 Exits:NESW> 
+[36mMokey tells your clan 'so legend?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:23 Exits:NESW> 
+[36mAdda tells your clan 'yea'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:23 Exits:NESW> 
+[36mAdda tells your clan 'legend'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:20 Exits:NESW> 
+[36mMokey tells your clan 'yay!'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:14 Exits:NESW> 
+The cloud-veiled sky becomes even darker as the sun sets.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESW> 
+[36mJuni tells your clan 'just have to go after mobs rich says dont load anything'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESW> 
+[36mJuni tells your clan 'now we have to get grambo'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:40 Exits:NESW> 
+[36mJuni tells your clan 'enlarge'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:35 Exits:NESW> 
+The darkness marks the end of another day.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESW> 
+[36mEir tells your clan 'mavlad'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:NESW> 
+[36mEir tells your clan 'poof'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:39 Exits:NESW> 
+[37mYour clanmate Sniferblin has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:NESW> 
+[36mShmyaka tells your clan 'cant'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:33 Exits:NESW> 
+[36mShmyaka tells your clan 'in zone'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:28 Exits:NESW> 
+[36mEir tells your clan 'can i?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:24 Exits:NESW> 
+[37mYour clanmate Sniferblin has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:16 Exits:NESW> 
+[36mShmyaka tells your clan 'ya can '
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:13 Exits:NESW> 
+[37mYour clanmate Sniferblin has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:13 Exits:NESW> 
+[37mYour clanmate Fizl has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:7 Exits:NESW> 
+[37mThe clouds block your view of Solinari.
+[31m[1mLunitari is full tonight. Its red light gives the clouds an odd purple glow.
+[0;37m[34mThe clouds block your view of Nuitari.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESW> 
+[36mPryor tells your clan 'gramm u gonna do nytes?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:27 Exits:NESW> 
+[36mGrambo tells your clan 'id like to give it a whirl even though i sincerely have my doubts about that zone now lol'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:12 Exits:NESW> 
+[36mIshbahar tells your clan 'ty'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:7 Exits:NESW> 
+[36mEir tells your clan 'taking a break'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:5 Exits:NESW> 
+[36mGrambo tells your clan 'like 2 swarms in a month and otherwise fwoop'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:3 Exits:NESW> 
+[36mGromski tells your clan 'nod'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:59 Exits:NESW> 
+[36mGrambo tells your clan 'but yea'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:49 Exits:NESW> 
+[36mEir tells your clan 'nice ring'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:42 Exits:NESW> 
+[36mEir tells your clan 'thx'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:42 Exits:NESW> 
+[36mGrambo tells your clan 'nytes bmobs and raynes in a circuit is likely whats gonna legend trinity unfortunately.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:40 Exits:NESW> 
+[36mShmyaka tells your clan '15 hp ring?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:33 Exits:NESW> 
+[36mGrambo tells your clan 'otherwise argentine or skylord'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:31 Exits:NESW> 
+[36mEir tells your clan 'int/8hp/2cl'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:27 Exits:NESW> 
+[36mPryor tells your clan 'i used to locate enlarge in nytes all the time'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:8 Exits:NESW> 
+[37mYour clanmate Sniferblin has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:2 Exits:NESW> 
+[36mGrambo tells your clan 'i know i saw it load once'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:57 Exits:NESW> 
+[37mYour clanmate Hel has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:52 Exits:NESW> 
+[36mGrambo tells your clan 'but igave to brad from luni i think it was'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:51 Exits:NESW> 
+The kitten arrives from the east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:5 Exits:NESW> 
+[36mGrambo tells your clan 'you wanna come for a bmobbin rich?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:5 Exits:NESW> 
+A flash of lightning announces the storm's arrival.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESW> 
+[36mGrambo tells your clan 'think we are 6.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:59 Exits:NESW> 
+The kitten leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:59 Exits:NESW> 
+[37mYour clanmate Eir has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:36 Exits:NESW> 
+[36mPryor tells your clan 'form'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:18 Exits:NESW> [0;37ml[0m
+[36mEast Gate of New Tarsis[0;37m
+    Here at the east end of New Tarsis, a sturdy gate stands ready to seal
+the city from any threat. The finest oak, imported from the northern
+forests, swings on stout iron hinges. A heavy iron bar can be slotted into
+notches in the walls themselves to prevent the gate's being opened. Stone
+walls stretch to the north and south.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A Tarsian guard stands here, turning away undesirables from the city.
+A Tarsian guard stands here, turning away undesirables from the city.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:16 Exits:NESW> [0;37mboth sta[0m
+You stand up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:13 Exits:NESW> 
+-#-#-#-#-#-#-#-> Sprink <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:13 Exits:NESW> [0;37mw[0m
+[36mEastern Avenue[0;37m
+    This broad paved street runs east to west, toward the center of the
+city. A formidable wooden building lies to the south. A street lamp, with a
+road sign hanging from it, illuminates the intersection.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A carrion crow scavenges in the rubble, looking for food.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:13 Exits:NESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mEastern Avenue[0;37m
+    The wide road ends in a small intersection to the east and leads toward
+the center of New Tarsis to the west. The smooth, wide road is alive with
+people hurrying here and there, each one going about his business.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Albert, Master-at-Arms, inspects the status of the city's defenses.
+A mercenary stands here, protecting New Tarsis under orders from the Thane.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:13 Exits:ESW> [0;37mw[0m
+[36mEastern Avenue[0;37m
+    Dwarven craftsmen took pride in the work it took to lay these paving
+stones. The road is wide and smooth with barely a joint or a seam to be
+seen. The street is wide enough for two wagons to pass side by side. A
+friendly tavern lies to the south, and the road runs east and west.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+Borll Fenstaff, Captain of the Tarsian Guard stands here.
+A stray pet dog pauses to sniff something on the ground.
+A cute little kitten plays clumsily here.
+A Tarsian guard stands here, dutifully obeying commands from his superior.
+A Tarsian guard stands here, dutifully obeying commands from his superior.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:13 Exits:ESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mEastern Avenue[0;37m
+    Eastern Avenue is newly finished, with fresh stone pavers lining the
+wide, straight way. From the west come the unmistakable sounds of water
+burbling and splashing, and the shouts of commerce.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:12 Exits:EW> [0;37mw[0m
+Sprink flies in from the east.
+[36mNew Tarsis Square[0;37m
+    Here stands the great Fountain of Tarsis, sole remaining artifact of
+the original city. The new pavement has been carefully matched to the few
+pieces of old that surround the fountain. The sounds and smells of city
+life waft in from all directions.
+[33m[1mA gleaming marble statue of Stella stands here for all to see.
+The great fountain of old Tarsis stands here.
+[0;37m[31m[1mYou sense that you are not alone.
+A mercenary stands here, protecting New Tarsis under orders from the Thane.
+A tattooed plainsman rests near his wagon, selling special keepsakes.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:11 Exits:NESW> 
+Sprink fills a waterskin from a fountain.
+Sprink fills a waterskin from a fountain.
+Sprink fills a waterskin from a fountain.
+
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:11 Exits:NESW> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in some sparkling slippers of atonement!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in a luxurious silvery drape of sanctity!
+You can't put liquids in a village elder's belt of faith!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+A bright ball of light can't be refilled.
+You can't put liquids in a loop of jailer's keys!
+You can't put liquids in an elemental ring!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+You can't put liquids in a piece of sweet bread!
+There is no room for more.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a smear of green mud!
+You can't put liquids in a wand of invisibility!
+You can't put liquids in a wooden splint!
+A fountain doesn't have oil.
+A fountain doesn't have oil.
+A fountain doesn't have oil.
+A fountain doesn't have oil.
+A fountain doesn't have oil.
+
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:11 Exits:NESW> [0;37mw[0m
+[36mWestern Way[0;37m
+    The bustle of horsecarts, merchants and townspeople moving along this
+wide street marks it as a main arterial to the business areas of Tarsis.
+The great fountain in the central square splashes noisly to the east, while
+from the north come the sounds of tradesmen hawking their wares.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A Tarsian noblewoman pretends you're not here.
+A Tarsian peasant cleans up the streets. (white aura)
+A small grey rat scurries for cover as you approach.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:10 Exits:NEW> [0;37mn[0m
+[36mMarket Square[0;37m
+    A central paved area is surrounded by grass and trees. There are some
+park benches here and there under the trees, giving an almost picnic-area
+feel to the place. Travelling salesmen sometimes set up their wagons here,
+to take advantage of traffic coming and going from the two major stores off
+the square, one to the north and one to the west.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A Tarsian peasant whistles happily on his way to work. (white aura)
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:10 Exits:NESW> [0;37mb[0m
+
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:7 Exits:NESW> [0;37mb[0m
+[0;37mb[0m
+
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:3 Exits:NESW> 
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:58 Exits:NESW> 
+A small grey rat arrives from the west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:52 Exits:NESW> 
+A wandering merchant notices Sprink eyeing his possessions.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:49 Exits:NESW> 
+A Tarsian peasant arrives from the east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:NESW> 
+[37mYour clanmate Boone has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:34 Exits:NESW> 
+[36mBoone tells your clan 'rit'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:26 Exits:NESW> 
+A Tarsian peasant leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:19 Exits:NESW> 
+[37mYour clanmate Fizl has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:6 Exits:NESW> 
+[36mBoone tells your clan 'sleeping...'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:4 Exits:NESW> [0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:59 Exits:NESW> [0;37me[0m
+Sprink flies in from the west.
+[36mNorth Main Street[0;37m
+    North Main Street, once a muddy path, is now a brightly lighted, busy
+thoroughfare. New Tarsis Square lies to the south, while markets and other
+new buildings cluster to the east and west.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:58 Exits:NESW> [0;37mn[0m
+[36mNorth Main Street[0;37m
+    Main Street bustles with activity as the citizens of New Tarsis get on
+with their lives. Here and there a peddler offers his wares. Occasionally,
+one might catch a glimpse of a mage's robes as he passes unhindered through
+the crowds. The traffic seems heavier to the south.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A mercenary stands here, protecting New Tarsis under orders from the Thane.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:58 Exits:NSW> [0;37mn[0m
+[36mNorth Main Street[0;37m
+    Main Street is a busy place. The new pavement means heavy traffic,
+often moving a bit too fast for pedestrians. The street continues to the
+north and south.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1mYou sense that you are not alone.
+A Tarsian peasant whistles happily on his way to work. (white aura)
+A Tarsian peasant whistles happily on his way to work. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:57 Exits:NESW> [0;37mn[0m
+Sprink flies in from the south.
+[36mNorth Main Street[0;37m
+    Main Street roils with the hurly-burly of a new born city. The new
+pavement lets heavy traffic move too fast for real safety. The street
+continues northward to the gate and south into the city proper.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:57 Exits:NSW> [0;37mn[0m
+Sprink flies in from the south.
+[36mThe Northern Gate Of Tarsis[0;37m
+    An impressive wall of freshly chiselled stone stretches to the east and
+west, guarding the city of Tarsis. In its center is a large oaken gate
+topped by a small rampart and flanked on either side by wall-mounted
+torches. There is a small plaque, crafted in steel, set into the wall.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A Tarsian guard stands here, turning away undesirables from the city.
+A Tarsian guard stands here, turning away undesirables from the city.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:56 Exits:NESW> [0;37mtar2thorb[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m9934574X 79.75% 791C [0;37mT:50 Exits:NESW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m9934574X 79.75% 791C [0;37mT:50 Exits:NEW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m9934574X 79.75% 791C [0;37mT:49 Exits:NESW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m9934574X 79.75% 791C [0;37mT:49 Exits:SW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m117V [0;37m9934574X 79.75% 791C [0;37mT:49 Exits:NE> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m115V [0;37m9934574X 79.75% 791C [0;37mT:49 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m113V [0;37m9934574X 79.75% 791C [0;37mT:48 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m111V [0;37m9934574X 79.75% 791C [0;37mT:48 Exits:SW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m109V [0;37m9934574X 79.75% 791C [0;37mT:48 Exits:EW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m107V [0;37m9934574X 79.75% 791C [0;37mT:48 Exits:NE> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m105V [0;37m9934574X 79.75% 791C [0;37mT:47 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m103V [0;37m9934574X 79.75% 791C [0;37mT:47 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m101V [0;37m9934574X 79.75% 791C [0;37mT:47 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m99V [0;37m9934574X 79.75% 791C [0;37mT:47 Exits:NSW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m97V [0;37m9934574X 79.75% 791C [0;37mT:46 Exits:NES> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m95V [0;37m9934574X 79.75% 791C [0;37mT:46 Exits:NESW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m93V [0;37m9934574X 79.75% 791C [0;37mT:46 Exits:NES> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m91V [0;37m9934574X 79.75% 791C [0;37mT:46 Exits:NSW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m89V [0;37m9934574X 79.75% 791C [0;37mT:45 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m9934574X 79.75% 791C [0;37mT:45 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m85V [0;37m9934574X 79.75% 791C [0;37mT:45 Exits:SU> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m83V [0;37m9934574X 79.75% 791C [0;37mT:45 Exits:ND> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m81V [0;37m9934574X 79.75% 791C [0;37mT:44 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m79V [0;37m9934574X 79.75% 791C [0;37mT:44 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m77V [0;37m9934574X 79.75% 791C [0;37mT:44 Exits:SU> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m75V [0;37m9934574X 79.75% 791C [0;37mT:44 Exits:ND> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m73V [0;37m9934574X 79.75% 791C [0;37mT:43 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m71V [0;37m9934574X 79.75% 791C [0;37mT:43 Exits:NS> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m69V [0;37m9934574X 79.75% 791C [0;37mT:43 Exits:SW> 
+A cheerful kender arrives from the west.
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m67V [0;37m9934574X 79.75% 791C [0;37mT:43 Exits:NEW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m65V [0;37m9934574X 79.75% 791C [0;37mT:42 Exits:NE> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m63V [0;37m9934574X 79.75% 791C [0;37mT:42 Exits:SW> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m61V [0;37m9934574X 79.75% 791C [0;37mT:42 Exits:EU> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m59V [0;37m9934574X 79.75% 791C [0;37mT:42 Exits:ND> 
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m57V [0;37m9934574X 79.75% 791C [0;37mT:41 Exits:NSW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m55V [0;37m9934574X 79.75% 791C [0;37mT:32 Exits:EW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m53V [0;37m9934574X 79.75% 791C [0;37mT:31 Exits:EW> [0;37mopen shrubs[0m
+Ok.
+
+[32m[0;37m[32m438H [0;37m[33m[1m53V [0;37m9934574X 79.75% 791C [0;37mT:28 Exits:NEW> [0;37mn[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m51V [0;37m9934574X 79.75% 791C [0;37mT:27 Exits:SW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m49V [0;37m9934574X 79.75% 791C [0;37mT:26 Exits:NE> [0;37mn[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m47V [0;37m9934574X 79.75% 791C [0;37mT:26 Exits:SW> [0;37mw[0m
+It is pitch black.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m45V [0;37m9934574X 79.75% 791C [0;37mT:26 Exits:EW> 
+[36mGromski tells your clan 'who said slam does more damage than strike?'
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m45V [0;37m9934574X 79.75% 791C [0;37mT:25 Exits:EW> [0;37mpull lever[0m
+You pull on the hidden lever.
+The whole mountain shakes as a hidden mechanism roars to life. Suddenly,
+the cliff starts to move, slowly swinging open to reveal an enormous hole
+in the side of the mountain. After a few minutes, the moving section of
+cliff laboriously grinds to a halt.
+
+[32m[0;37m[32m438H [0;37m[33m[1m45V [0;37m9934574X 79.75% 791C [0;37mT:22 Exits:NEW> 
+[36mShmyaka tells your clan 'isnt slam mt.scout skill'
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m45V [0;37m9934574X 79.75% 791C [0;37mT:7 Exits:NEW> 
+[36mGromski tells your clan 'nope its legend paladin skill'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m9934574X 79.75% 791C [0;37mT:60 Exits:NEW> 
+[36mShmyaka tells your clan 'ram slam'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m9934574X 79.75% 791C [0;37mT:47 Exits:NEW> 
+The rising sun barely lights the dark and cloudy sky.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NEW> 
+There is lightning in the sky.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:22 Exits:NEW> 
+The rising sun proclaims a new day.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NEW> 
+[37mYour clanmate Gromski has gained a level.
+[0;37mThe lightning has stopped.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NEW> [0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mV.Good[0;37m**] [0;37mT:60 Exits:NEW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NEW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NEW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NEW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NEW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m9934574X 79.75% 791C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NEW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER THIRSTY<--[0m
+[0m#SESSION 'b' DIED.[0m
+[0m#SESSION 'a' DIED.[0m

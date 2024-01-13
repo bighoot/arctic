@@ -1,0 +1,1195 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Fri Jan 13 16:06:44 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 57 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA ring of keys has been tossed on the ground.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m127V [0;37m1X 14.93% 2018C [0;37mT:59 Exits:D> clan who
+[0;37m[36mClan Members
+------------
+[36m[1m Clara            [ Chieftain ] (Fri Jan 13) Level 29R4 G Rank 41 Paladin (L)
+[36m[1m Knaak            [     Elder ] (Fri Jan 13) Level 30R1 G Rank 30 Cleric (L)
+[36m[1m Maui             [  Clansman ] (Fri Jan 13) Level 30   E Rank 13 Cleric
+[1m[32m
+Total clan members online: 3    Total clan members: 98
+
+[32m[0;37m[32m432H [0;37m[32m127V [0;37m1X 14.93% 2018C [0;37mT:57 Exits:D> d
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m126V [0;37m1X 14.93% 2018C [0;37mT:52 Exits:SWUD> d
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+A medium sized horse is here, awaiting a rider.
+A medium sized horse is here, awaiting a rider.
+[0;37mA small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m432H [0;37m[32m125V [0;37m1X 14.93% 2018C [0;37mT:50 Exits:NEU> e
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m432H [0;37m[32m124V [0;37m1X 14.93% 2018C [0;37mT:50 Exits:NSWU> n
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA long-tailed ground dove sits here on a low branch.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m123V [0;37m1X 14.93% 2018C [0;37mT:49 Exits:NSW> n
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mAidan walks around here looking amazed with his surroundings.
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything. (white aura)
+. . . is outlined by a dim aura.
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m122V [0;37m1X 14.93% 2018C [0;37mT:49 Exits:NES> e
+[36mA Small Clearing[0;37m
+    This clearing is set off from the main road. The lush undergrowth of
+the forest forms a living boundary around its edges. In the center of the
+clearing is a huge vallenwood. Looking up into the vallenwood, you spy what
+looks like a small shop. A stairway spirals down around the trunk, reaching
+the ground right before you. Northern Avenue is visible to your west. A
+small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mThe regal Solace constable is here, protecting the innocent from harm.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m121V [0;37m1X 14.93% 2018C [0;37mT:49 Exits:WU> u
+Baluston wrinkles his nose and sneers as you enter his shop.
+[36mThe Solace Magic Shop[0;37m
+    This magic shop is an old and dusty place. Shelves and cases line the
+walls and fill the room. Scrolls, books, wands, staves, and all sorts of
+magical paraphernalia is on display. The shades on the windows let in stray
+rays of light which streak through the dust filled air, making slashes
+across the dim room. A faint smell of incense fills the air and you hear
+chimes tinkling in the distance. A set of spiral staircase carved into the
+tree leads down. The center of the tree can be accessed through a door to
+the west.
+[33m[1m[0;37m[31m[1mA fidgeting wiry young boy stands here looking suspicious.
+A citizen of Solace moves quickly about.
+Baluston, the wizard, is sitting on a stool, watching an animated broom clean. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m120V [0;37m1X 14.93% 2018C [0;37mT:48 Exits:WD> buy milky
+[36mBaluston the wizard tells you 'That'll cost you 45 coins.'
+[0;37mYou now have a milky potion of see invisible.
+
+[32m[0;37m[32m432H [0;37m[32m120V [0;37m1X 14.93% 1973C [0;37mT:47 Exits:WD> quaff milky
+You quaff a milky potion of see invisible.
+Your mind races and after rubbing your eyes a bit, things look sharper.
+Your eyes tingle.
+
+[32m[0;37m[32m432H [0;37m[32m120V [0;37m1X 14.93% 1973C [0;37mT:44 Exits:WD> clan who
+[0;37m[36mClan Members
+------------
+[36m[1m Clara            [ Chieftain ] (Fri Jan 13) Level 29R4 G Rank 41 Paladin (L)
+[36m[1m Knaak            [     Elder ] (Fri Jan 13) Level 30R1 G Rank 30 Cleric (L)
+[36m[1m Juni             [     Elder ] (Fri Jan 13) Level 30R4 E Rank 36 Druid (L)
+[36m[1m Caine            [     Elder ] (Fri Jan 13) Level 29R4 G Rank 41 Druid (L)
+[36m[1m Araya            [  Clansman ] (Fri Jan 13) Level 28R2 N Rank 29 Barbarian (L)
+[36m[1m Bostaph          [  Clansman ] (Fri Jan 13) Level 27R2 N Rank 28 Cleric (L)
+[36m[1m Shmyaka          [  Clansman ] (Fri Jan 13) Level 30R3 G Rank 32 Barbarian (L)
+[36m[1m Ishvadsu         [  Clansman ] (Fri Jan 13) Level 30R1 G Rank 22 White Robe
+[36m[1m Maui             [  Clansman ] (Fri Jan 13) Level 30   E Rank 13 Cleric
+[36m[1m Cabela           [  Neophyte ] (Fri Jan 13) Level 29   E Rank 9  Mnt Scout
+[1m[32m
+Total clan members online: 10   Total clan members: 98
+
+[32m[0;37m[32m432H [0;37m[32m120V [0;37m1X 14.93% 1973C [0;37mT:43 Exits:WD> ct anyone ranking? even little ones?
+You tell your clan 'anyone ranking? even little ones?'
+
+[32m[0;37m[32m432H [0;37m[32m120V [0;37m1X 14.93% 1973C [0;37mT:32 Exits:WD> 
+Aidan arrives from below.
+
+[32m[0;37m[32m432H [0;37m[32m120V [0;37m1X 14.93% 1973C [0;37mT:30 Exits:WD> fly
+You lift your arms skyward and begin to float.
+
+[32m[0;37m[32m432H [0;37m[32m120V [0;37m1X 14.93% 1973C [0;37mT:25 Exits:WD> w
+[36mAbove a Vallenwood Tree[0;37m
+    This vallenwood tree rises above the surrounding trees. Thick strong
+branches extend both east and west of the tree, supporting structures on
+both flanks. Occasionally a Solace citizen walks in from the west,
+clutching a bag close to their chest while looking around suspiciously.
+From the east the infrequent explosion can be heard.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m432H [0;37m[32m119V [0;37m1X 14.93% 1973C [0;37mT:25 Exits:ESW> e
+Baluston wrinkles his nose and sneers as you enter his shop.
+[36mThe Solace Magic Shop[0;37m
+    This magic shop is an old and dusty place. Shelves and cases line the
+walls and fill the room. Scrolls, books, wands, staves, and all sorts of
+magical paraphernalia is on display. The shades on the windows let in stray
+rays of light which streak through the dust filled air, making slashes
+across the dim room. A faint smell of incense fills the air and you hear
+chimes tinkling in the distance. A set of spiral staircase carved into the
+tree leads down. The center of the tree can be accessed through a door to
+the west.
+[33m[1m[0;37m[31m[1mAidan walks around here looking amazed with his surroundings.
+A fidgeting wiry young boy stands here looking suspicious.
+A citizen of Solace moves quickly about.
+Baluston, the wizard, is sitting on a stool, watching an animated broom clean. (white aura)
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m118V [0;37m1X 14.93% 1973C [0;37mT:23 Exits:WD> 
+[36mIshvadsu tells your clan 'ya but full for now'
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m118V [0;37m1X 14.93% 1973C [0;37mT:23 Exits:WD> d
+[36mA Small Clearing[0;37m
+    This clearing is set off from the main road. The lush undergrowth of
+the forest forms a living boundary around its edges. In the center of the
+clearing is a huge vallenwood. Looking up into the vallenwood, you spy what
+looks like a small shop. A stairway spirals down around the trunk, reaching
+the ground right before you. Northern Avenue is visible to your west. A
+small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mThe regal Solace constable is here, protecting the innocent from harm.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m117V [0;37m1X 14.93% 1973C [0;37mT:23 Exits:WU> w
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA janitor is walking around, cleaning up. (white aura)
+A Solace peacekeeper is here making his rounds.
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m116V [0;37m1X 14.93% 1973C [0;37mT:23 Exits:NES> s
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSir Kantar uth MacKan walks slowly by, apparently noticing everything. (white aura)
+. . . is outlined by a dim aura.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m115V [0;37m1X 14.93% 1973C [0;37mT:21 Exits:NSW> s
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA long-tailed ground dove sits here on a low branch.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m114V [0;37m1X 14.93% 1973C [0;37mT:20 Exits:NSWU> s
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Aleks stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m432H [0;37m[32m113V [0;37m1X 14.93% 1973C [0;37mT:19 Exits:NESWU> 
+Burlok flies in from the south.
+Arkanis flies in from the south.
+
+[32m[0;37m[32m432H [0;37m[32m113V [0;37m1X 14.93% 1973C [0;37mT:19 Exits:NESWU> s
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m432H [0;37m[32m112V [0;37m1X 14.93% 1973C [0;37mT:19 Exits:NS> s
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m1X 14.93% 1973C [0;37mT:18 Exits:NES> list ring
+  2. Seal                550 a black seal of the Skull
+ 19. Ring                275 a green nephaline ring
+ 51. Ring                275 a ring adorned with a green stone
+ 57. Warbow              660 [38;5;214ma shimmering copper Set'ahki warbow[0;37m
+ 73. Ring                550 an ancient solamnic ring
+ 75. Ring               1100 an elemental ring
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m1X 14.93% 1973C [0;37mT:17 Exits:NES> 
+Burlok flies in from the north.
+Arkanis flies in from the north.
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m1X 14.93% 1973C [0;37mT:9 Exits:NES> 
+Burlok flies south.
+Arkanis flies south.
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m1X 14.93% 1973C [0;37mT:8 Exits:NES> sc
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 13. You have completed 14.93% of your next rank.
+You are 19 years old.
+You have 432(441) hit and 111(132) movement points.
+Your behaviour has been Evil.
+The warmth of good envelops your soul.
+You have scored 179,999,999 exp, and have 1973(9472) steel coins.
+You have 2 rank points to spend.
+You have died 1 horrible death.
+You have been connected for 0 minute(s).
+You have been playing for 4 day(s), 9 hour(s) and 57 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are flying.
+You are affected by the following:
+    detect invisibility
+    bless
+
+[32m[0;37m[32m432H [0;37m[32m111V [0;37m1X 14.93% 1973C [0;37mT:5 Exits:NES> 
+The lightning has stopped.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 14.93% 1973C [0;37mT:60 Exits:NES> brew recipes
+You know the recipes to brew the following spells:
+
+ aid
+   0/1 Low Protection
+
+ bless
+   0/1 Low Combat
+
+ blindness
+   0/2 Low Enchantment
+
+ create food
+   0/1 Low Summoning
+
+*cure serious
+   2/1 Mid Healing
+   2/1 Low Healing
+
+ prayer
+   2/1 Mid Combat
+   0/1 Low Combat
+
+ protection from evil
+   0/2 Low Protection
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 14.93% 1973C [0;37mT:55 Exits:NES> n
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 14.93% 1973C [0;37mT:49 Exits:NS> n
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Aleks stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 14.93% 1973C [0;37mT:49 Exits:NESWU> n
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSahib, captain of the Solace peacekeepers patrols the area.
+A long-tailed ground dove sits here on a low branch.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 14.93% 1973C [0;37mT:49 Exits:NSWU> n
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA janitor is walking around, cleaning up. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 14.93% 1973C [0;37mT:48 Exits:NSW> n
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m127V [0;37m1X 14.93% 1973C [0;37mT:48 Exits:NES> n
+[36mIntersection of Northern Avenue and Perimeter Street[0;37m
+    Northern Avenue intersects Perimeter Street here. The avenue leads
+north and south, while Perimeter Street appears to loop to the east,
+circling above the region Solace is built in. What appears to be a gate is
+to the north, while you see signs of Solace to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m126V [0;37m1X 14.93% 1973C [0;37mT:48 Exits:NES> n
+[36mThe Northern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the north. Two huge
+vallenwoods stand on either side of the road and it is between these, that
+the gate is built. The forest north of the gate looks much like the forest
+that Solace is a part of. You know, however, that it is much wilder and
+dangerous. Northern Avenue leads south into the heart of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A menacing rottweiler circles here barking at some shadows.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m125V [0;37m1X 14.93% 1973C [0;37mT:47 Exits:NS> n
+[36mA Narrow Road[0;37m
+    This narrow, dirt road winds its way through the great forest, curving
+around large trees and rocks. You can hear the chattering of hundreds of
+animals all around you, and a few of the trees seem to have large claw
+marks. To the south, lies the northern gate of Solace, and to the north,
+the road continues. Large bushes block your view to the east and west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m124V [0;37m1X 14.93% 1973C [0;37mT:47 Exits:NS> n
+[36mA Narrow Road[0;37m
+    A narrow road leads deep into a thick forest of very tall trees and
+north it leads through the plains of Abanasinia. Around you are many trees
+but not as many as to the south. The road runs in the near shadows of the
+Kharolis mountains which can be seen off to the west, beyond a great lake.
+The mountains appear to run north for some distance before ending. The
+plains spread out to the north from here for many leagues.
+[33m[1m[0;37m[31m[1mA young minotaur strolls by, seeking adventure.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m122V [0;37m1X 14.93% 1973C [0;37mT:46 Exits:NSW> w
+[36mAt the Edge of Nearfields[0;37m
+    You are on a narrow trail that cuts between large fields of grain and
+the huge vallenwood trees that cover the Solace Vale. Stretching out to the
+north, these fields are known as Nearfields to the citizens of Solace
+because of their proximity to the small town. A thick forest of pine trees
+lies to the west, beyond which the Crystalmir Lake can be seen. To the east
+this dirt trail merges with a wide road.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m120V [0;37m1X 14.93% 1973C [0;37mT:46 Exits:EW> w
+[36mAlong the Shore of Crystalmir[0;37m
+    You are at the corner of a large lake, which fills your vision far to
+the west before ending at high, jagged cliffs. The forest of pine that this
+trail winds through thins out to the north and east, where large fields of
+grain can be seen. The pine-covered trail follows the shoreline to the
+south into thicker woods and north.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m118V [0;37m1X 14.93% 1973C [0;37mT:46 Exits:NES> n
+[36mThe Thinning Forest[0;37m
+    The pine forest around you thins out to nothing to the north and you
+can see large fields of grain. The forest grows thicker to the south and
+the path leads into it. You can see a large lake off in the south and high
+jagged cliffs off to the west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m116V [0;37m1X 14.93% 1973C [0;37mT:45 Exits:NS> n
+[36mAmongst Some Grain Fields[0;37m
+    The path leads through some grain fields to the north and south heads
+into a pine forest. Far off to the west you see some high, jagged cliffs.
+The breeze from the north brings the smell of salt and is damp. The grain
+fields spread out to the east as far as you can see.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m114V [0;37m1X 14.93% 1973C [0;37mT:45 Exits:NSW> w
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m113V [0;37m1X 14.93% 1973C [0;37mT:45 Exits:NESW> s
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1mA potion is lying here. [3]
+A black adamantite spider on a gold chain rests here...it emits a sinister, arcane glow..it hums softly
+[0;37m[31m[1mThe clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m112V [0;37m1X 14.93% 1973C [0;37mT:44 Exits:N> rest
+You rest your tired bones but stay aloft.
+
+[32m[0;37m[32m441H [0;37m[32m112V [0;37m1X 14.93% 1973C [0;37mT:43 Exits:N>  brew 'cure ser'
+An ice cold bone shard is quickly consumed in your work.
+You uncork a vial of spinal fluid and dump out the contents.
+You get an empty potion bottle from a cabinet.
+You lose concentration while brewing to an empty potion bottle.
+You feel enlightened.
+
+[32m[0;37m[32m441H [0;37m[32m112V [0;37m1X 14.93% 1973C [0;37mMem:1 T:38 Exits:N> scribe 'ca li'
+You've never heard of such a spell.
+
+[32m[0;37m[32m441H [0;37m[32m112V [0;37m1X 14.93% 1973C [0;37mMem:1 T:33 Exits:N> scribe 'cau li'
+You can't remember how to cast that spell!
+
+[32m[0;37m[32m441H [0;37m[32m112V [0;37m1X 14.93% 1973C [0;37mMem:1 T:30 Exits:N> mem
+Spells currently memorized:
+1: [ 2]aid                  [ 1]bless                [ 1]create food         
+   [ 1]create water         [ 1]cure light           [ 1]know alignment      
+   [ 2]restore strength    
+2: [ 5]blindness            [ 2]cure blindness       [ 1]light               
+   [ 1]silence             
+3: [ 1]holy armor           [ 2]poison               [ 1]protection from evil
+   [ 3]remove poison       
+4: [ 1]cloak of bravery     [ 4]flamestrike          [ 2]heroism             
+   [ 1]prayer              
+5: [ 3]cure critical        [ 2]dispel good          [ 1]holy aura           
+6: [ 2]animate dead         [ 2]darkness             [ 2]summon              
+7: [ 4]soul leech          
+8: [ 1]steelskin            [ 2]sunray              
+
+Spells being memorized:
+3: [ 1]cure serious        
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0
+
+[32m[0;37m[32m441H [0;37m[32m112V [0;37m1X 14.93% 1973C [0;37mMem:1 T:26 Exits:N> scribe 'aid'
+You are missing components required for this spell.
+
+[32m[0;37m[32m441H [0;37m[32m112V [0;37m1X 14.93% 1973C [0;37mMem:1 T:14 Exits:N> scribe 'light'
+The glass lens shatters as your magic strikes it.
+You get a blank scroll from a shelf.
+You exhaust yourself while scribing the spell to a blank scroll.
+You have now mastered the recipe for light!
+
+[32m[0;37m[32m441H [0;37m[32m112V [0;37m1X 14.93% 1973C [0;37mMem:1 T:8 Exits:N> recipes
+
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 14.93% 1973C [0;37mT:60 Exits:N> 
+Huh?!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 14.93% 1973C [0;37mT:56 Exits:N> brew recipes
+You know the recipes to brew the following spells:
+
+ aid
+   0/1 Low Protection
+
+ bless
+   0/1 Low Combat
+
+ blindness
+   0/2 Low Enchantment
+
+ create food
+   0/1 Low Summoning
+
+*cure serious
+   2/1 Mid Healing
+   1/1 Low Healing
+
+*light
+   2/1 Low Illusion
+
+ prayer
+   2/1 Mid Combat
+   0/1 Low Combat
+
+ protection from evil
+   0/2 Low Protection
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 14.93% 1973C [0;37mT:53 Exits:N> ski
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (superb)            miscellaneous (bad)             
+
+     turn          (very poor)       
+     bandage       (excellent)       
+     divinity      (very good)         meditate      (superb)          
+     brew          (very poor)     **  scribe        (poor)            
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 14.93% 1973C [0;37mT:41 Exits:N> sta
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 14.93% 1973C [0;37mT:40 Exits:N> n
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 14.93% 1973C [0;37mT:39 Exits:NESW> e
+[36mAmongst Some Grain Fields[0;37m
+    The path leads through some grain fields to the north and south heads
+into a pine forest. Far off to the west you see some high, jagged cliffs.
+The breeze from the north brings the smell of salt and is damp. The grain
+fields spread out to the east as far as you can see.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 14.93% 1973C [0;37mT:39 Exits:NSW> s
+[36mThe Thinning Forest[0;37m
+    The pine forest around you thins out to nothing to the north and you
+can see large fields of grain. The forest grows thicker to the south and
+the path leads into it. You can see a large lake off in the south and high
+jagged cliffs off to the west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m1X 14.93% 1973C [0;37mT:38 Exits:NS> s
+[36mAlong the Shore of Crystalmir[0;37m
+    You are at the corner of a large lake, which fills your vision far to
+the west before ending at high, jagged cliffs. The forest of pine that this
+trail winds through thins out to the north and east, where large fields of
+grain can be seen. The pine-covered trail follows the shoreline to the
+south into thicker woods and north.
+[33m[1m[0;37m[31m[1mA cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m126V [0;37m1X 14.93% 1973C [0;37mT:38 Exits:NES> e
+[36mAt the Edge of Nearfields[0;37m
+    You are on a narrow trail that cuts between large fields of grain and
+the huge vallenwood trees that cover the Solace Vale. Stretching out to the
+north, these fields are known as Nearfields to the citizens of Solace
+because of their proximity to the small town. A thick forest of pine trees
+lies to the west, beyond which the Crystalmir Lake can be seen. To the east
+this dirt trail merges with a wide road.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m124V [0;37m1X 14.93% 1973C [0;37mT:37 Exits:EW> e
+[36mA Narrow Road[0;37m
+    A narrow road leads deep into a thick forest of very tall trees and
+north it leads through the plains of Abanasinia. Around you are many trees
+but not as many as to the south. The road runs in the near shadows of the
+Kharolis mountains which can be seen off to the west, beyond a great lake.
+The mountains appear to run north for some distance before ending. The
+plains spread out to the north from here for many leagues.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m122V [0;37m1X 14.93% 1973C [0;37mT:37 Exits:NSW> s
+[36mA Narrow Road[0;37m
+    This narrow, dirt road winds its way through the great forest, curving
+around large trees and rocks. You can hear the chattering of hundreds of
+animals all around you, and a few of the trees seem to have large claw
+marks. To the south, lies the northern gate of Solace, and to the north,
+the road continues. Large bushes block your view to the east and west.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m120V [0;37m1X 14.93% 1973C [0;37mT:37 Exits:NS> s
+[36mThe Northern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the north. Two huge
+vallenwoods stand on either side of the road and it is between these, that
+the gate is built. The forest north of the gate looks much like the forest
+that Solace is a part of. You know, however, that it is much wilder and
+dangerous. Northern Avenue leads south into the heart of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A menacing rottweiler circles here barking at some shadows.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m119V [0;37m1X 14.93% 1973C [0;37mT:37 Exits:NS> s
+s
+[36mIntersection of Northern Avenue and Perimeter Street[0;37m
+    Northern Avenue intersects Perimeter Street here. The avenue leads
+north and south, while Perimeter Street appears to loop to the east,
+circling above the region Solace is built in. What appears to be a gate is
+to the north, while you see signs of Solace to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m118V [0;37m1X 14.93% 1973C [0;37mT:36 Exits:NES> 
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSahib, captain of the Solace peacekeepers patrols the area.
+The regal Solace constable is here, protecting the innocent from harm.
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m117V [0;37m1X 14.93% 1973C [0;37mT:36 Exits:NES> s
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m116V [0;37m1X 14.93% 1973C [0;37mT:36 Exits:NSW> s
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m115V [0;37m1X 14.93% 1973C [0;37mT:36 Exits:NSWU> s
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Aleks stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1m<DAWN> Azura the Male Hill Dwarf is standing here. (flying) (invisible) (white aura)
+. . . has a tough exterior.
+A lively young child freely romps around the area. (white aura)
+A long-tailed ground dove sits here on a low branch.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m114V [0;37m1X 14.93% 1973C [0;37mT:35 Exits:NESWU> 
+Azura flies east.
+
+[32m[0;37m[32m441H [0;37m[32m114V [0;37m1X 14.93% 1973C [0;37mT:35 Exits:NESWU> u
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m113V [0;37m1X 14.93% 1973C [0;37mT:35 Exits:NESWUD> 
+Azura flies in from below.
+
+[32m[0;37m[32m441H [0;37m[32m113V [0;37m1X 14.93% 1973C [0;37mT:34 Exits:NESWUD> s
+e
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m111V [0;37m1X 14.93% 1973C [0;37mT:34 Exits:NEWU> 
+[36mThe Temple of Healing Arts[0;37m
+    You are stunned by the beauty and majesty of this temple. How it was
+built, in such a small room, is beyond your comprehension. High vaulted
+ceilings rise where you would expect to see the thick branches of the
+vallenwood. You see a large ivory altar and fall in line with the many
+adventurers awaiting their turn to worship. A small door leads west.
+[33m[1m[0;37m[31m[1mDandrea, Noble Lady of Palanthas is standing here. (white aura)
+Lady Camilla walks around gracefully as she blesses the congregation.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m110V [0;37m1X 14.93% 1973C [0;37mT:33 Exits:W> learn all
+Lady Camilla instructs you in the skill 'brew'.
+
+[32m[0;37m[32m441H [0;37m[32m110V [0;37m1X 14.93% 1973C [0;37mT:32 Exits:W> ski
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (superb)            miscellaneous (bad)             
+
+     turn          (very poor)       
+     bandage       (excellent)       
+     divinity      (very good)         meditate      (superb)          
+     brew          (poor)              scribe        (poor)            
+
+[32m[0;37m[32m441H [0;37m[32m110V [0;37m1X 14.93% 1973C [0;37mT:31 Exits:W> w
+[36mOn a Vallenwood Bough[0;37m
+    The bough of this vallenwood tree is wide enough to allow ten people to
+walk across side by side. You notice a small temple to the east with scores
+of people moving in and out, heads bowed. to the west, devout knights seek
+solace and divine intervention in a shrine built into a branch. To the
+south the bough climbs upward at forty-five degrees, but footholds and
+handholds allow for easy progress upwards.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m109V [0;37m1X 14.93% 1973C [0;37mT:30 Exits:NEWU> d
+Alas, you cannot go that way...
+
+[32m[0;37m[32m441H [0;37m[32m109V [0;37m1X 14.93% 1973C [0;37mT:30 Exits:NEWU> n
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA lively young child freely romps around the area. (white aura)
+A Solace peacekeeper stands here, holding the peace. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m1X 14.93% 1973C [0;37mT:29 Exits:NESWUD> d
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Aleks stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA long-tailed ground dove sits here on a low branch.
+[0;37m
+[32m[0;37m[32m441H [0;37m[33m[1m106V [0;37m1X 14.93% 1973C [0;37mT:28 Exits:NESWU> n
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[33m[1m105V [0;37m1X 14.93% 1973C [0;37mT:28 Exits:NSWU> w
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+A medium sized horse is here, awaiting a rider.
+A medium sized horse is here, awaiting a rider.
+[0;37mA small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m441H [0;37m[33m[1m104V [0;37m1X 14.93% 1973C [0;37mT:27 Exits:NEU> u
+The wonderful smell of spiced potatoes makes your stomach rumble.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mA small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[33m[1m103V [0;37m1X 14.93% 1973C [0;37mT:27 Exits:SWUD> u
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA ring of keys has been tossed on the ground.
+[0;37m[31m[1mA red-haired young lady is wiping down a table here.
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[33m[1m102V [0;37m1X 14.93% 1973C [0;37mT:27 Exits:D> offer
+[33m[1m   a bishop's moonstone engraved seal : 170 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring : 150 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar : 170 coins/day
+[0;37m[33m[1m                a black and gold cape : 280 coins/day
+[0;37m[33m[1m      a devotee's chasuble of worship : 360 coins/day
+[0;37m[33m[1m a flawless onyx diadem of fanaticism : 420 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship : 330 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 120 coins/day
+[0;37m[33m[1m    some sacred armwraps of sacrifice : 210 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 50 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 10 coins/day
+[0;37m[33m[1m            a deformed crow's leg [5] : 10 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 4 coins/day
+[0;37m[33m[1m   a small silver sea serpent's scale : 2 coins/day
+[0;37m[33m[1m        a deep violet dragon tear [2] : 4 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 2 coins/day
+[0;37m[33m[1m                    a dead gypsy moth : 2 coins/day
+[0;37m[33m[1m     a lock of a siren's emerald hair : 3 coins/day
+[0;37m[33m[1m                        a myconid cap : 1 coin/day
+[0;37m[33m[1m            a gleaming silver die [2] : 4 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 6 coins/day
+[0;37m[33m[1m              a miniature golden lyre : 2 coins/day
+[0;37m[33m[1m                  a tuft of skunk fur : 3 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 4 coins/day
+[0;37m[33m[1m                a sprinkle of saffron : 1 coin/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 4 coins/day
+[0;37m[33m[1m              shimmering faerie wings : 5 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 5 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 3 coins/day
+[0;37m[33m[1m              a magnetized needle [4] : 8 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 12 coins/day
+[0;37m[33m[1m              some bitten fingernails : 2 coins/day
+[0;37m[33m[1m                      a bit of fleece : 3 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 3 coins/day
+[0;37m[33m[1m                        a forked twig : 1 coin/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 19 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 140 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 1 coin/day
+[0;37m[33m[1m            a tiny bronze weathervane : 3 coins/day
+[0;37m[33m[1m                    some spruce seeds : 1 coin/day
+
+ [return for more, q to stop]
+[0;37m[33m[1m       a pinch of powdered silver [2] : 4 coins/day
+[0;37m[33m[1m                       a pineal gland : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 4 coins/day
+[0;37m[33m[1m             a small block of granite : 2 coins/day
+[0;37m[33m[1m             a small flask of bitumen : 3 coins/day
+[0;37m[33m[1m               a small flask of smoke : 3 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 3 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 1 coin/day
+[0;37m[33m[1m                a flattened lead disc : 3 coins/day
+[0;37m[33m[1m                a glass lightning jar : 1 coin/day
+[0;37m[33m[1m                  a hand-held sundial : 2 coins/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[33m[1m              a jar of dark red blood : 5 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 1 coin/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 4 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 1 coin/day
+[0;37m[33m[1m                   a bag of fluff [2] : 6 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 2 coins/day
+[0;37m[33m[1m                    a bottled firefly : 1 coin/day
+[0;37m[33m[1m                 a chipped stone dart : 1 coin/day
+[0;37m[33m[1m              a chiseled granite fist : 3 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[33m[1m           a fiery red austere bracer : 120 coins/day
+[0;37m[33m[1ma heavily charred blacksmith's hammer : 350 coins/day
+[0;37m[33m            a scribed scroll of light : 9 coins/day
+[0;37m[33m                      a wooden splint : 1 coin/day
+[0;37m[33m          a piece of sweet bread [10] : 0 coins/day
+[0;37m[33m         a magnificent slender rapier : 300 coins/day
+[0;37m[33m               a bright ball of light : 0 coins/day
+[0;37m[33m               a brewed potion of aid : 8 coins/day
+[0;37m[33m            an enormous scorched maul : 250 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 75 coins/day
+[0;37m[33m           a glowing scroll of recall : 5 coins/day
+[0;37m[33m        a pinch of powdered malachite : 80 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m                   a basilisk eyelash : 3 coins/day
+[0;37m[32m                 a bit of blue litmus : 2 coins/day
+[0;37m[32m                a bit of brain tissue : 2 coins/day
+[0;37m[32m                 a bleached bone disc : 3 coins/day
+[0;37m[32m                    a bottled firefly : 1 coin/day
+
+ [return for more, q to stop]
+[0;37m[32m             a broken gnomish compass : 5 coins/day
+[0;37m[32m           a broken piece of a mirror : 1 coin/day
+[0;37m[32m         a chromatic crystalline bead : 5 coins/day
+[0;37m[32ma dram of giant slug digestive acid [2] : 4 coins/day
+[0;37m[32m            a featureless pewter doll : 1 coin/day
+[0;37m[32m                        a forked twig : 1 coin/day
+[0;37m[32m                       a garlic clove : 1 coin/day
+[0;37m[32m                  a golden nugget [2] : 4 coins/day
+[0;37m[32m              a hand-held sundial [2] : 4 coins/day
+[0;37m[32m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[32m  a leather pouch of vampire dust [3] : 6 coins/day
+[0;37m[32m                a meteor fragment [2] : 6 coins/day
+[0;37m[32m  a miniscule cedar picture frame [2] : 6 coins/day
+[0;37m[32m             a mummified bullfrog leg : 3 coins/day
+[0;37m[32m        a murky vial of squid ink [2] : 6 coins/day
+[0;37m[32m   a patch of phosphorescent moss [2] : 4 coins/day
+[0;37m[32m    a patch of poisonous crimson moss : 2 coins/day
+[0;37m[32m             a pearly white moonstone : 2 coins/day
+[0;37m[32m       a piece of broken pond ice [2] : 6 coins/day
+[0;37m[32m                       a pineal gland : 2 coins/day
+[0;37m[32m         a powerfully blessed bandage : 1 coin/day
+[0;37m[32m                           a rose bud : 1 coin/day
+[0;37m[32m       a small chunk of licorice root : 1 coin/day
+[0;37m[32m           a small flask of smoke [2] : 6 coins/day
+[0;37m[32m         a small spherical lode stone : 3 coins/day
+[0;37m[32m          a small vial of quicksilver : 5 coins/day
+[0;37m[32m                 a smear of green mud : 2 coins/day
+[0;37m[32m             a smooth blank runestone : 1 coin/day
+[0;37m[32m        a sparkling green emerald [2] : 6 coins/day
+[0;37m[32m           a sphagnum peat moss patch : 3 coins/day
+[0;37m[32m                 a sprig of spearmint : 3 coins/day
+[0;37m[32ma thin slate of polished obsidian [2] : 4 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 6 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 4 coins/day
+[0;37m[32m           a vial of spinal fluid [3] : 9 coins/day
+[0;37m[32m                    a vial of vinegar : 2 coins/day
+[0;37m[32m               a wand of invisibility : 200 coins/day
+[0;37m[32m                         an aeolipile : 2 coins/day
+[0;37m[32mdirt from a long forgotten grave [20] : 20 coins/day
+[0;37m[32m             powdered bull's horn [2] : 4 coins/day
+[0;37m[32m       some coarsely ground fire ants : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[32m               some leaves of hemlock : 2 coins/day
+[0;37m[32m                      some poison ivy : 2 coins/day
+[0;37m[32m                 some rose petals [3] : 6 coins/day
+[0;37m[33m                      a sprig of pine : 2 coins/day
+[0;37m[33m                      a waterskin [4] : 4 coins/day
+[0;37mThe receptionist tells you 'You need at least 4168 coins to rent.'
+The receptionist tells you 'You will be able to rent for 8 days.'
+
+[32m[0;37m[32m441H [0;37m[33m[1m102V [0;37m1X 14.93% 1973C [0;37mT:23 Exits:D> rent
+[33m[1m   a bishop's moonstone engraved seal : 170 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring : 150 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar : 170 coins/day
+[0;37m[33m[1m                a black and gold cape : 280 coins/day
+[0;37m[33m[1m      a devotee's chasuble of worship : 360 coins/day
+[0;37m[33m[1m a flawless onyx diadem of fanaticism : 420 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship : 330 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 120 coins/day
+[0;37m[33m[1m    some sacred armwraps of sacrifice : 210 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 50 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 10 coins/day
+[0;37m[33m[1m            a deformed crow's leg [5] : 10 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 4 coins/day
+[0;37m[33m[1m   a small silver sea serpent's scale : 2 coins/day
+[0;37m[33m[1m        a deep violet dragon tear [2] : 4 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 2 coins/day
+[0;37m[33m[1m                    a dead gypsy moth : 2 coins/day
+[0;37m[33m[1m     a lock of a siren's emerald hair : 3 coins/day
+[0;37m[33m[1m                        a myconid cap : 1 coin/day
+[0;37m[33m[1m            a gleaming silver die [2] : 4 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 6 coins/day
+[0;37m[33m[1m              a miniature golden lyre : 2 coins/day
+[0;37m[33m[1m                  a tuft of skunk fur : 3 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 4 coins/day
+[0;37m[33m[1m                a sprinkle of saffron : 1 coin/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 4 coins/day
+[0;37m[33m[1m              shimmering faerie wings : 5 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 5 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 3 coins/day
+[0;37m[33m[1m              a magnetized needle [4] : 8 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 12 coins/day
+[0;37m[33m[1m              some bitten fingernails : 2 coins/day
+[0;37m[33m[1m                      a bit of fleece : 3 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 3 coins/day
+[0;37m[33m[1m                        a forked twig : 1 coin/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 19 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 140 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 1 coin/day
+[0;37m[33m[1m            a tiny bronze weathervane : 3 coins/day
+[0;37m[33m[1m                    some spruce seeds : 1 coin/day
+
+ [return for more, q to stop]
+[0;37m[33m[1m       a pinch of powdered silver [2] : 4 coins/day
+[0;37m[33m[1m                       a pineal gland : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 4 coins/day
+[0;37m[33m[1m             a small block of granite : 2 coins/day
+[0;37m[33m[1m             a small flask of bitumen : 3 coins/day
+[0;37m[33m[1m               a small flask of smoke : 3 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 3 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 1 coin/day
+[0;37m[33m[1m                a flattened lead disc : 3 coins/day
+[0;37m[33m[1m                a glass lightning jar : 1 coin/day
+[0;37m[33m[1m                  a hand-held sundial : 2 coins/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[33m[1m              a jar of dark red blood : 5 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 1 coin/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 4 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 1 coin/day
+[0;37m[33m[1m                   a bag of fluff [2] : 6 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 2 coins/day
+[0;37m[33m[1m                    a bottled firefly : 1 coin/day
+[0;37m[33m[1m                 a chipped stone dart : 1 coin/day
+[0;37m[33m[1m              a chiseled granite fist : 3 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[33m[1m           a fiery red austere bracer : 120 coins/day
+[0;37m[33m[1ma heavily charred blacksmith's hammer : 350 coins/day
+[0;37m[33m            a scribed scroll of light : 9 coins/day
+[0;37m[33m                      a wooden splint : 1 coin/day
+[0;37m[33m          a piece of sweet bread [10] : 0 coins/day
+[0;37m[33m         a magnificent slender rapier : 300 coins/day
+[0;37m[33m               a bright ball of light : 0 coins/day
+[0;37m[33m               a brewed potion of aid : 8 coins/day
+[0;37m[33m            an enormous scorched maul : 250 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 75 coins/day
+[0;37m[33m           a glowing scroll of recall : 5 coins/day
+[0;37m[33m        a pinch of powdered malachite : 80 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m                   a basilisk eyelash : 3 coins/day
+[0;37m[32m                 a bit of blue litmus : 2 coins/day
+[0;37m[32m                a bit of brain tissue : 2 coins/day
+[0;37m[32m                 a bleached bone disc : 3 coins/day
+[0;37m[32m                    a bottled firefly : 1 coin/day
+
+ [return for more, q to stop]
+[0;37m[32m             a broken gnomish compass : 5 coins/day
+[0;37m[32m           a broken piece of a mirror : 1 coin/day
+[0;37m[32m         a chromatic crystalline bead : 5 coins/day
+[0;37m[32ma dram of giant slug digestive acid [2] : 4 coins/day
+[0;37m[32m            a featureless pewter doll : 1 coin/day
+[0;37m[32m                        a forked twig : 1 coin/day
+[0;37m[32m                       a garlic clove : 1 coin/day
+[0;37m[32m                  a golden nugget [2] : 4 coins/day
+[0;37m[32m              a hand-held sundial [2] : 4 coins/day
+[0;37m[32m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[32m  a leather pouch of vampire dust [3] : 6 coins/day
+[0;37m[32m                a meteor fragment [2] : 6 coins/day
+[0;37m[32m  a miniscule cedar picture frame [2] : 6 coins/day
+[0;37m[32m             a mummified bullfrog leg : 3 coins/day
+[0;37m[32m        a murky vial of squid ink [2] : 6 coins/day
+[0;37m[32m   a patch of phosphorescent moss [2] : 4 coins/day
+[0;37m[32m    a patch of poisonous crimson moss : 2 coins/day
+[0;37m[32m             a pearly white moonstone : 2 coins/day
+[0;37m[32m       a piece of broken pond ice [2] : 6 coins/day
+[0;37m[32m                       a pineal gland : 2 coins/day
+[0;37m[32m         a powerfully blessed bandage : 1 coin/day
+[0;37m[32m                           a rose bud : 1 coin/day
+[0;37m[32m       a small chunk of licorice root : 1 coin/day
+[0;37m[32m           a small flask of smoke [2] : 6 coins/day
+[0;37m[32m         a small spherical lode stone : 3 coins/day
+[0;37m[32m          a small vial of quicksilver : 5 coins/day
+[0;37m[32m                 a smear of green mud : 2 coins/day
+[0;37m[32m             a smooth blank runestone : 1 coin/day
+[0;37m[32m        a sparkling green emerald [2] : 6 coins/day
+[0;37m[32m           a sphagnum peat moss patch : 3 coins/day
+[0;37m[32m                 a sprig of spearmint : 3 coins/day
+[0;37m[32ma thin slate of polished obsidian [2] : 4 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 6 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 4 coins/day
+[0;37m[32m           a vial of spinal fluid [3] : 9 coins/day
+[0;37m[32m                    a vial of vinegar : 2 coins/day
+[0;37m[32m               a wand of invisibility : 200 coins/day
+[0;37m[32m                         an aeolipile : 2 coins/day
+[0;37m[32mdirt from a long forgotten grave [20] : 20 coins/day
+[0;37m[32m             powdered bull's horn [2] : 4 coins/day
+[0;37m[32m       some coarsely ground fire ants : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[32m               some leaves of hemlock : 2 coins/day
+[0;37m[32m                      some poison ivy : 2 coins/day
+[0;37m[32m                 some rose petals [3] : 6 coins/day
+[0;37m[33m                      a sprig of pine : 2 coins/day
+[0;37m[33m                      a waterskin [4] : 4 coins/day
+[0;37mThe receptionist tells you 'You need at least 4168 coins to rent.'
+The receptionist tells you 'You will be able to rent for 8 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+¬’ö(ò
+0
+
+
+Thank you for playing.
+
+
+[0m#SESSION 'a' DIED.[0m

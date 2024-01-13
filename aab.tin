@@ -1,4 +1,4 @@
-#read ./arctic/basics.tin
+#read c:/chrisdev/repo/arctic/basics.tin
 
 #alias a #a %0
 #alias b #b %0
@@ -29,7 +29,7 @@ b #action {^* leans through your blow and knocks you to the ground.$} {cancel;st
 #action {You are hungry} {#b #showme <119>-->FOLLOWER HUNGRY<--}
 #action {You are thirsty} {#b #showme <119>-->FOLLOWER THIRSTY<--}
 #action {Your victim's tracks lead %0.} {#b #showme <119>-->TRACKS LEAD %0<--}
-#action {Your wounds stop healing.} {#a #showme <159> *******>>> REGENERATION GONE <<<*******}
+b #action {Your wounds stop healing.} {#a #showme <159> *******>>> REGENERATION GONE <<<*******}
 #action {Your wounds stop healing.} {#b #showme <159> *******>>> REGENERATION GONE <<<*******}
 b #action {You sense another fortress in your future.} {#a #showme <159> *******>>> FORTRESS READY <<<*******}
 b #action {You feel the need, the need to assault someone.} {#a #showme <159> *******>>> ASSAULT READY <<<*******}
@@ -97,6 +97,8 @@ b #action {You calm down.} {a #showme <159> *******>>> BARBARIAN DANCE ENDED <<<
 
 #nop SCOUT COMBAT MESSAGING
 #substitute {With a yawp from the gut, Aether unleashes a flurry of attacks.} {<159> *******>>> FUGGIN' SCOUT NUKES <<<*******}
+b #action {You will attempt to} {a #showme <159> *******>>> RIPOSTE PREPPED <<<*******}
+b #action {You find no openings to drive a counterattack through.} {a #showme <159> *******>>> RIPOSTE FAILED <<<*******}
 
 #nop DEBUFF MESSAGES
 #action {Your deep calm fades.} {a #showme <159> *******>>> YOUR REPOSE IS GONE <<<*******}
@@ -190,13 +192,13 @@ b #action {You can focus again on your prayers.} {a #showme <149>FOLLOWER IS REA
 
 #NOP ---------------- Warrior/Cleric [Lanai/Qade]
 #alias set24 {
-	#alias fight {b kill %%0; b assist; b warcry; #delay 1 {a order all.elemental assist lanai; a order all.corpse assist lanai; a order demon assist lanai; a assist lanai;}};
-	#alias jack {b bash %%0; b disarm; #delay 1 {a order all.corpse assist lanai; a order all.elemental assist lanai; a assist lanai;}};
+	#alias fight {b kill %%0; b assist; b disarm; #delay 1 {a order all.elemental assist lanai; a order all.corpse assist lanai; a order demon assist lanai; a assist lanai;}};
+	#alias jack {b bash %%0; b disarm; #delay 1 {a order all.corpse assist lanai; a order all.elemental assist lanai; a order all.demon assist lanai; a assist lanai;}};
 	#alias recover {a watch lanai; b rest; b bandage me; a rest; a bandage me; a meditate;};
 	#alias food {a cast 'cr fo'; a eat bread; a give bread lanai; both drink all.water;};
 	#alias buffs {a cast 'ghostskin' lanai; a cast 'ten heart'; a cast 'heal boost' lanai; a cast 'ghostskin' me; a cast 'an sh' lanai;};
 	#alias combat {#3 b sunder};
-	#alias docommand {b %%0; a order all.corpse %%0; a order all.golem %%0; a %%0;};
+	#alias docommand {b %%0; a order all.corpse %%0; a order all.golem %%0; a order all.demon %%0; a %%0;};
 	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; a order chic sta; look in corpse;};
 	b #action {Maui gives you a piece of sweet bread.} {eat bread};
 	#alias rm {b cancel; b resc maui;};
@@ -205,11 +207,14 @@ b #action {You can focus again on your prayers.} {a #showme <149>FOLLOWER IS REA
 	#alias kpk {b kick low; b punch; b kick low;};
 	#alias -- {b quaff critical;};
 	#alias bb {b bash %%0;};
+	#alias p1 {b #5 disarm;};
+	#alias p2 {b #5 sunder;};
+	#alias p3 {b #5 parry;};
 	};
 	
 #NOP ---------------- Scout/Scout [Pancho/Lefty]
 #alias setss {
-	#alias fight {b kill %%0; b assist; b wildfire; b swarm; b zap; #delay 1 {a order all.elemental assist lefty; a order all.corpse assist lefty; assist lefty;}};
+	#alias fight {b kill %%0; b assist; b wildfire; b swarm; b zap; #delay 1 {a order all.elemental assist lefty; a order all.corpse assist lefty; watch lefty;}};
 	#alias jack {b bash %%0; b disarm; #delay 1 {a order all.corpse assist lanai; a order all.elemental assist lanai; a assist lanai;}};
 	#alias recover {a watch lefty; b camp; both rest; both bandage me; b hide; a meditate;};
 	#alias food {a cast 'cr fo'; a eat bread; a give bread lanai; both drink all.water;};
@@ -265,6 +270,447 @@ b #action {You can focus again on your prayers.} {a #showme <149>FOLLOWER IS REA
 	#alias heald {drinky; b healdance;};
 	#alias wildd {drinky; b wilddance;};
 	#alias ward {drinky; b wardance;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+		
+	}
+	
+#alias setcombo {
+	#alias fight {b kill %%0; b assist; #delay 1 {a oad assist sundance; a oac assist sundance; oag assist sundance; a assist sundance;}};
+	#alias recover {a watch sundance; b rest; b bandage me; a rest; a bandage me;};
+	b #action {Maui gives you a piece of sweet bread.} {eat bread};
+	#alias food {a cast 'cr wa'; a cast 'cr fo'; a give bread troy; b drink all.water; eat bread;};
+	#alias combat {b disarm; b impair; b thrust; b drain;};
+	#alias docommand {b %%0; a oas %%0; a oag %%0; a %%0;};
+	
+	#alias rm {b cancel; b resc maui;};
+	#alias practice {b sharpen spear; b mend spear; b lore spear;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' maui; a cast 'hero' Sundance; a cast 'hero' me; b pfg me; b pfg maui;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+	
+	#alias sprac {b #5 {stance off; stance bal;stance def; learn all;}};
+
+	}
+	
+#alias setrog {
+
+	#read c:\chrisdev\repo\arctic\spellwatch.tin;
+	#b #read c:\chrisdev\repo\arctic\spellwatch_tank.tin;
+	#alias bsc b score;
+	#alias bbuf b tank_rebuf;
+	#alias abuf a rebuf;
+	
+	#alias fight {b bladecurse feeble; b kill %%0; b assist; b order elzy assist; #delay 1 {a oas assist sundance; oag assist sundance; a assist sundance; b disarm; b inspire cassidy;}};
+	#alias recover {a watch sundance; b rest; b bandage me; a rest; a bandage me; a seance;};
+	#alias berry {a cast 'ghost ber'; a eat berry; a give berry sundance};
+	b #action {Someone gives you an ethereal} {eat berry};
+	b #action {Cassidy gives you an ethereal} {eat berry};
+	#alias food {a cast 'cr wa'; a cast 'cr fo'; a give bread troy; b drink all.water; eat bread;};
+	#alias combat {b disarm; b impair; b gaze; b impair; b thrust; b drain; b disarm;};
+	#alias prac {b disarm; b disarm; b impair;};
+	#alias docommand {b order elzy %%0; b %%0; a oas %%0; a oag %%0; a %%0;};
+	
+	#alias rc {b cancel; b resc cassidy;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' Cassidy; a cast 'an sh' Sundance; a boost sundance; a bb; a mm; a 10h; b cast 'unh au'; a cast 'ghostskin' sundance;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+	
+	#alias sprac {b #5 {stance off; stance bal;stance def; learn all;}};
+	#alias ph {#5 hex;};
+	#alias ps {#5 spook;};
+	#alias pf {#5 frenz;};
+	#alias sss {stupe;spook;spook;spook;spook;};
+		
+	b #alias pfg {cast 'prot from good' %%0;};
+	b #alias dg {cast 'det go' %%0;};
+	
+	#alias rsun {a cast 'regen' sundance;};
+	#alias rme {a cast 'regen' me;};
+	
+	#alias bcb {b bladecurse blindness};
+	#alias bcf {b bladecurse feeblemind};
+	#alias bcr {b bladecurse ray};
+	
+	#alias sellcomp {get 10*%%0 pouch; #10 sell %%0; get 10*%%0 chest; #10 sell %%0;};
+	}
+	
+#alias setrog2 {
+	#alias fight {b bladecurse feeble; b kill %%0; b assist; b order elzy assist; #delay 1 {a oac assist sundance; oag assist sundance; a order demon assist sundance; a assist sundance; b inspire maui;}};
+	#alias recover {a watch sundance; b rest; b bandage me; a rest; a bandage me; a meditate;};
+	b #action {Someone gives you a piece of sweet bread.} {eat bread};
+	b #action {Cassidy gives you a piece of sweet bread.} {eat bread};
+	#alias food {a cast 'cr wa'; a cast 'cr fo'; a give bread sundance; b drink all.water; eat bread;};
+	#alias combat {b disarm; b impair; b gaze; b impair; b thrust; b drain; b disarm;};
+	#alias docommand {b order elzy %%0; b %%0; a oac %%0; a oag %%0; a %%0;};
+	
+	#alias rm {b cancel; b resc maui;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' Cassidy; a cast 'an sh' Sundance; a boost sundance; a bb; a mm; a 10h; b cast 'unh au'; a cast 'ghostskin' sundance;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+	
+	#alias sprac {b #5 {stance off; stance bal;stance def; learn all;}};
+	#alias ph {#5 hex;};
+	#alias ps {#5 spook;};
+	#alias pf {#5 frenz;};
+	#alias sss {stupe;spook;spook;spook;spook;};
+		
+	b #alias pfg {cast 'prot from good' %%0;};
+	b #alias dg {cast 'det go' %%0;};
+	
+	#alias rsun {a cast 'regen' sundance;};
+	#alias rme {a cast 'regen' me;};
+	
+	#alias bcb {b bladecurse blindness};
+	#alias bcf {b bladecurse feeblemind};
+	#alias bcr {b bladecurse ray};
+	
+	#alias sellcomp {get 10*%%0 pouch; #10 sell %%0; get 10*%%0 chest; #10 sell %%0;};
+	}
+	
+#alias setbs {
+
+	#read c:\chrisdev\repo\arctic\spellwatch.tin;
+	#b #read c:\chrisdev\repo\arctic\spellwatch_tank.tin;
+	#alias bsc b score;
+	#alias bbuf b tank_rebuf;
+	#alias abuf a rebuf;
+	
+	#alias fight {b sip all.firebreather; b kill %%0; b assist; #delay 1 {a oas assist troy; oag assist troy; a assist troy; b wildd; b breach;}};
+	#alias recover {a watch troy; b rest; b bandage me; b recuperate; a rest; a bandage me;};
+	#alias berry {a cast 'ghost ber'; a eat berry; a give berry troy};
+	b #action {Cassidy gives you an ethereal} {eat berry};
+	#alias combat {b disarm; b impair; b gaze; b impair; b thrust; b drain; b disarm;};
+	#alias prac {b disarm; b disarm; b impair;};
+	#alias docommand {b %%0; a oas %%0; a oag %%0; a %%0;};
+	
+	#alias rc {b cancel; b resc cassidy;};
+	#alias practice {b sharpen spear; b mend spear; b lore spear;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' Cassidy; a cast 'an sh' Sundance; a boost sundance; a bb; a mm; a 10h; b cast 'unh au'; a cast 'ghostskin' sundance;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+	
+	#alias sprac {b #5 {stance off; stance bal;stance def; learn all;}};
+	#alias ph {#5 hex;};
+	#alias ps {#5 spook;};
+	#alias pf {#5 frenz;};
+		
+	b #alias pfg {cast 'prot from good' %%0;};
+	b #alias dg {cast 'det go' %%0;};
+	
+	#alias rsun {a cast 'regen' sundance;};
+	#alias rme {a cast 'regen' me;};
+	}
+	
+#alias setss {
+
+	#read c:\chrisdev\repo\arctic\spellwatch.tin;
+	#b #read c:\chrisdev\repo\arctic\spellwatch_tank.tin;
+	#alias bsc b score;
+	#alias bbuf b tank_rebuf;
+	#alias abuf a rebuf;
+	
+	#alias fight {b kill %%0; b assist; b wildfire; b zap; b sting; #delay 1 {a oas assist ygrid; oag assist ygrid; a assist ygrid; b heald; b breach;}};
+	#alias recover {a watch ygrid; b camp; b rest; b bandage me; a rest; a bandage me;};
+	#alias berry {a cast 'ghost ber'; a eat berry; a give berry ygrid};
+	b #action {Cassidy gives you an ethereal} {eat berry};
+	#alias docommand {b %%0; a oas %%0; a oag %%0; a %%0;};
+	
+	#alias rc {b cancel; b resc cassidy;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' Cassidy; a cast 'an sh' ygrid; a boost ygrid; a bb; a mm; a 10h; b cast 'unh au'; a cast 'ghostskin' ygrid;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+	
+	#alias ph {#5 hex;};
+	#alias ps {#5 spook;};
+	#alias pf {#5 frenz;};
+		
+	b #alias pfg {cast 'prot from good' %%0;};
+	b #alias dg {cast 'det go' %%0;};
+	
+	#alias ry {a cast 'regen' ygrid;};
+	#alias rme {a cast 'regen' me;};
+	}
+	
+#alias levelit {
+	#alias fight {b kill %%0; b assist; #delay 1 {a oas assist wui; oag assist wui; a watch wui;}};
+	#alias rwu {cast 'regen' wui;};
+	#alias recover {a watch sundance; b rest; b bandage me; a rest; a bandage me;};
+	#alias berry {a cast 'ghost ber'; a eat berry; a give berry wui};
+	b #action {Cassidy gives you an ethereal} {eat berry};
+	#alias food {a cast 'cr wa'; a cast 'cr fo'; a give bread troy; b drink all.water; eat bread;};
+	#alias combat {b disarm; b gaze; b impair; b thrust; b drain;};
+	#alias docommand {b order elzy %%0; b %%0; a oas %%0; a oag %%0; a %%0;};
+	
+	#alias rc {b cancel; b resc cassidy;};
+	#alias practice {b sharpen spear; b mend spear; b lore spear;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' Cassidy; a cast 'an sh' Sundance; a boost sundance; a bb; a mm; a 10h; b cast 'unh au'; a cast 'ghostskin' sundance;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+	
+	#alias sprac {b #5 {stance off; stance bal;stance def; learn all;}};
+	#alias ph {#5 hex;};
+	#alias ps {#5 spook;};
+	#alias pf {#5 frenz;};
+		
+	b #alias pfg {cast 'prot from good' %%0;};
+	b #alias dg {cast 'det go' %%0;};
+	
+	#alias rsun {a cast 'regen' sundance;};
+	#alias rme {a cast 'regen' me;};
+	}
+	
+#alias dopewpew {
+	#alias fight {a order all.spirit kill %%0; a kill %%0; #delay 2 {b aim %%0; b shoot auto;}};
+	#alias pfight {a kill %%0; b aim %%0; b shoot auto;};
+	#alias berry {a cast 'ghost ber'; a eat berry; a give berry curry};
+	b #action {Cassidy gives you an ethereal} {eat berry};
+	#alias rca {b cancel; b resc cassidy;};
+	#alias rcu {b cancel; b resc cassidy;};
+	}
+	
+#alias setrank {
+	#alias fight {a env spear; a back %%0; #delay 2 {b order elzy assist sprink; b assist sprink;}};
+	#alias recover {a watch sundance; a rest; a bandage me; b rest; b bandage me;};
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' sprink`; b cast 'unh au';};
+	
+	#alias rs {b cancel; b resc sprink;};
+	#alias food {b order elzy scavenge;};
+	
+	#action {The death cry of } {get all.coins corpse; look in corpse;};
+
+	#alias combat {a throat; a unb; a unb; a coup; a back; b disarm; b gaze; b impair; b thrust; b drain;}
+	}
+	
+#NOP ---------------- Warrior/Shaman [Lanai/Cassidy]
+#alias setws {
+	#alias fight {b punch %%0; b kill %%0; b assist; b warc; #delay 1 {a order all.elemental assist lanai; a order all.spirit assist lanai; a assist lanai;}};
+	#alias jack {b punch %%0; b bash %%0; b warc; #delay 1 {a order all.spirit assist lanai; a order all.elemental assist lanai; a assist lanai;}};
+	#alias recover {a watch lanai; b rest; b bandage me; a rest; a bandage me; a seance;};
+	#alias berry {a cast 'ghost ber'; a eat berry; a give berry lanai};
+	#alias buffs {a cast 'ghostskin' lanai; a cast 'ten heart'; a cast 'heal boost' lanai; a cast 'ghostskin' me; a cast 'an sh' lanai;};
+	#alias combat {#3 b sunder};
+	#alias docommand {b %%0; a order all.corpse %%0; a order all.golem %%0; a order all.demon %%0; a %%0;};
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; a order chic sta; look in corpse;};
+	b #action {Cassidy gives you an ethereal} {eat berry};
+	#alias rc {b cancel; b resc cassidy;};
+	#alias sellcomp {get 10*%%0 pouch; #10 sell %%0; get 10*%%0 chest; #10 sell %%0;};
+	#alias oag {order all.golem %%0;};
+	#alias kpk {b punch; b kick low; b punch; b kick low;};
+	#alias -- {b quaff critical;};
+	#alias bb {b bash %%0;};
+	#alias p1 {b #5 disarm;};
+	#alias p2 {b #5 sunder;};
+	#alias p3 {b #5 parry;};
+	};
+	
+	
+#NOP ---------------- DK/Cleric [Sundance/Maui]
+#alias setdc {
+	#alias fight {b kill %%0; b assist; b order elzy assist; #delay 1 {a oac assist sundance; oag assist sundance; a order demon assist sundance; a assist sundance; b disarm; b inspire maui;}};
+	#alias recover {a watch sundance; b rest; b bandage me; a rest; a bandage me; a medi;};
+
+	#alias food {a cast 'cr wa'; a cast 'cr fo'; a give bread sundance; b drink all.water; eat bread;};
+	#alias combat {b disarm; b impair; b gaze; b impair; b thrust; b drain; b disarm;};
+	#alias prac {b disarm; b disarm; b impair;};
+	#alias docommand {b order elzy %%0; b %%0; a oas %%0; a oag %%0; a %%0;};
+	
+	#alias rm {b cancel; b resc maui;};
+	#alias practice {b sharpen spear; b mend spear; b lore spear;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' Cassidy; a cast 'hero'; b cast 'unh au';};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+	
+	#alias sprac {b #5 {stance off; stance bal;stance def; learn all;}};
+		
+	b #alias pfg {cast 'prot from good' %%0;};
+	b #alias dg {cast 'det go' %%0;};
+	
+	}
+	
+#NOP ---------------- DK/Druid [Sundance/Robb]
+#alias setdd {
+	
+	#alias fight {b bladecurse ray; b kill %%0; b assist; b order elzy assist; #delay 1 {a order all.elemental assist sundance; oag assist sundance; a assist sundance; b disarm; b inspire robb;}};
+	#alias recover {a watch sundance; b rest; b bandage me; a rest; a bandage me; a commune;};
+
+	#alias food {sus me; sus sundance;};
+	#alias combat {b disarm; b impair; b gaze; b impair; b thrust; b drain; b disarm;};
+	#alias prac {b disarm; b disarm; b impair;};
+	#alias docommand {b order elzy %%0; b %%0; a order all.elemental %%0; a oag %%0; a %%0;};
+	
+	#alias rr {b cancel; b resc robb;};
+	#alias practice {b sharpen spear; b mend spear; b lore spear;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' Cassidy; a cast 'bark' sundance; a cast 'blur' sundance;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+	
+	#alias sprac {b #5 {stance off; stance bal;stance def; learn all;}};
+		
+	b #alias pfg {cast 'prot from good' %%0;};
+	b #alias dg {cast 'det go' %%0;};
+	
+	}
+	
+#alias set25 {
+	#alias fight {b kill %%0; b assist; #delay 1 {a oag assist laha; a oac assist laha; a assist laha; b wildfire; b zap; b swarm;}};
+	#alias recover {a watch laha; b camp; b rest; b bandage me; a rest; a bandage me; a meditate;};
+	b #action {Someone gives you a piece of sweet bread.} {eat bread};
+	b #action {Cassidy gives you a piece of sweet bread.} {eat bread};
+	#alias food {a cast 'cr wa'; a cast 'cr fo'; a give bread laha; b drink all.water; eat bread;};
+	#alias combat {b zap; b sting;};
+	#alias docommand {b %%0; a oac %%0; a oag %%0; a order all.demon %%0; a %%0;};
+	
+	#alias rm {b cancel; b resc maui;};
+	
+	#macro ` {b surge me; b surge maui};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {b cast 'cloak'; b cast 'un mi'; b cast 'det go' Cassidy; a cast 'an sh' Sundance; a boost sundance; a bb; a mm; a 10h; b cast 'unh au'; a cast 'ghostskin' sundance;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+	
+	#alias sprac {b #5 {stance off; stance bal;stance def; learn all;}};
+	#alias ph {#5 hex;};
+	#alias ps {#5 spook;};
+	#alias pf {#5 frenz;};
+	#alias sss {stupe;spook;spook;spook;spook;};
+		
+	b #alias pfg {cast 'prot from good' %%0;};
+	b #alias dg {cast 'det go' %%0;};
+	
+	#alias rsun {a cast 'regen' sundance;};
+	#alias rme {a cast 'regen' me;};
+	
+	#alias bcb {b bladecurse blindness};
+	#alias bcf {b bladecurse feeblemind};
+	#alias bcr {b bladecurse ray};
+	
+	#alias sellcomp {get 10*%%0 pouch; #10 sell %%0; get 10*%%0 chest; #10 sell %%0;};
+	}
+	
+#alias set26 {
+	#alias fight {b kill %%0; b assist; #delay 1 {a oag assist laha; a oas assist laha; a assist laha; b wildfire; b zap; b swarm;}};
+	#alias recover {a watch laha; b camp; b rest; b bandage me; a rest; a bandage me; a seance;};
+	b #action {Someone gives you a piece of sweet bread.} {eat bread};
+	b #action {Cassidy gives you a piece of sweet bread.} {eat bread};
+	#alias food {a cast 'cr wa'; a cast 'cr fo'; a give bread laha; b drink all.water; eat bread;};
+	#alias combat {b zap; b sting;};
+	#alias docommand {b %%0; a oas %%0; a oag %%0; a %%0;};
+	
+	#alias rc {b cancel; b resc cassidy;};
+	
+	#macro ` {b surge me; b surge cassidy};
+	#macro - {b riposte bludgeon;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias buffs {a cast 'an sh' laha; a boost laha; a bb; a mm; a 10h; a cast 'ghostskin' laha; a cast 'an bl';};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+
+	#alias rme {a cast 'regen' me;};
+	
+	
+	#alias sellcomp {get 10*%%0 pouch; #10 sell %%0; get 10*%%0 chest; #10 sell %%0;};
+	}
+	
+#NOP ---------------- Barbarian/White Robe [Kaye/Jaye]
+#alias setbw {
+	#alias fight {b kill %%0; b assist; b sip all.bottle; b heald; #delay 1 {a order cat assist kaye; a watch kaye;}};
+	#alias recover {a watch kaye; b rest; b bandage me; b recuperate; a rest; a bandage me; a deep;};
+	#alias food {a cast 'cr wa'; a cast 'cr fo'; a give bread kaye; b drink all.water; eat bread;};
+	#alias combat {b battle; b charge; b gore; b assail;};
+	#alias docommand {b %%0; a oad %%0; a oac %%0; a oag %%0; a %%0;};
+	
+	#alias rj {b cancel; b resc jaye;};
+	#alias practice {b sharpen spear; b mend spear; b lore spear;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	#alias drinky {b sip all.firebreather;};
+	#alias heald {drinky; b healdance;};
+	#alias wildd {drinky; b wilddance;};
+	#alias ward {drinky; b wardance;};
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+		
+	}
+	
+#NOP ---------------- Warrior/White Robe [Lanai/Jaye]
+#alias setww {
+	#alias fight {b kill %%0; b assist; b warcry; #delay 1 {a order cat assist lanai; a watch lanai;}};
+	#alias jack {b bash %%0; b assist; b warcry; #delay 1 {a order cat assist lanai; a watch lanai;}};
+	#alias recover {a watch lanai; b rest; b bandage me; a rest; a bandage me; a deep;};
+	#alias docommand {b %%0; a oad %%0; a oac %%0; a oag %%0; a %%0;};
+	
+	#alias rj {b cancel; b resc jaye;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+		
+	#alias kpk {b kick low; b punch; b kick low;};
+	}
+	
+#NOP ---------------- Warrior/Red Robe [Lanai/Ronas]
+#alias setwr {
+	#alias fight {b kill %%0; b assist; b warcry; #delay 1 {a order golem assist lanai; a watch lanai;}};
+	#alias jack {b bash %%0; b assist; b warcry; #delay 1 {a order golem assist lanai; a watch lanai;}};
+	#alias recover {a watch lanai; b rest; b bandage me; a rest; a bandage me; a deep;};
+	#alias docommand {b %%0; a oad %%0; a oac %%0; a oag %%0; a %%0;};
+	
+	#alias rr {b cancel; b resc ronas;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+		
+	#alias kpk {b kick low; b punch; b kick low;};
+	}
+	
+#NOP ---------------- Warrior/Black Robe [Lanai/Emm]
+#alias setwb {
+	#alias fight {b kill %%0; b assist; b parry; #delay 1 {a order wight assist lanai; a watch lanai;}};
+	#alias jack {b bash %%0; b assist; b parry; #delay 1 {a order wight assist lanai; a watch lanai;}};
+	#alias recover {a watch lanai; b rest; b bandage me; a rest; a bandage me; a deep;};
+	#alias docommand {b %%0; a oad %%0; a oac %%0; a oag %%0; a %%0;};
+	
+	#alias re {b cancel; b resc emm;};
+	
+	#alias loot {b get all %%0.corpse; b carve %%0.corpse;};
+	
+	
+	#action {The death cry of } {get all.coins corpse; get all.component corpse; put all.component pouch; look in corpse;};
+		
+	#alias kpk {b kick low; b punch; b kick low;};
 	}
 	
 #alias dobox {a get key man.corpse;dust ash;unlock box;open box;get all box;};

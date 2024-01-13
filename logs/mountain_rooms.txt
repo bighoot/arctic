@@ -1,0 +1,410 @@
+[0m#LOG: LOGGING OUTPUT TO 'mountain_rooms.txt' FILESIZE: 0[0m
+l
+Along the Sentinel Mountains [54245] <Inside> 
+    Bleak and insurmountable, the rocky face of the Sentinel Mountains
+creates an impassable barrier to the east. The caps of the mountains
+glisten with white, and a cold wind can be felt when it rushes down the
+slopes into the westwards grassy plains which stretch out as far as the eye
+can see. A faint trail, barely visible between the wayward rocks and
+stunted trees, runs alongside the mountains. Some distance to the north the
+wooded hills of the Ker-Li peek out from the mountainside.
+
+544H 132V 100000000X 0.00% 0C Exits:NS> exits
+Obvious exits:
+North - Along the Sentinel Mountains [54246]
+South - Along the Sentinel Mountains [54244]
+
+544H 132V 100000000X 0.00% 0C Exits:NS> n
+Along the Sentinel Mountains [54246] <Inside> 
+    Stunted trees make their bleak subsistance to the south, running along
+the narrow transition of the westward grassy savannahs of the Empire of
+Ergoth and the eastward Sentinel Mountains. These trees struggle to find
+purchase in the narrow, stony soil of the piedmont, but grow taller to the
+north, as the slopes begin to soften, affording pines and even a few
+shorter hardwoords. Among the slender pines to the north the wooden homes
+of the Ker-Li can be seen. The faint path stretches southwards along the
+foot of the mountains towards a single wooden tower, barely visible in the
+distance.
+
+544H 132V 100000000X 0.00% 0C Exits:NS> scan
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+544H 132V 100000000X 0.00% 0C Exits:NS> s
+Along the Sentinel Mountains [54245] <Inside> 
+    Bleak and insurmountable, the rocky face of the Sentinel Mountains
+creates an impassable barrier to the east. The caps of the mountains
+glisten with white, and a cold wind can be felt when it rushes down the
+slopes into the westwards grassy plains which stretch out as far as the eye
+can see. A faint trail, barely visible between the wayward rocks and
+stunted trees, runs alongside the mountains. Some distance to the north the
+wooded hills of the Ker-Li peek out from the mountainside.
+
+544H 132V 100000000X 0.00% 0C Exits:NS> s
+Along the Sentinel Mountains [54244] <Inside> 
+    Bare shade is afforded by the small copse of sourwood trees which have
+somehow managed a bleak subsistance along the rocky foot of the Sentinel
+Mountains. To the west a vast sea of grass, taller than a gnome, moves
+gently in the faint breeze, waving ever onwards to the Emperor's Bay almost
+one hundred miles beyond the verdant vertiginousness. A thin trail meanders
+between the grass and the stony wall of the mountains. A single, tall,
+wooden tower can be seen some distance to the south.
+
+544H 132V 100000000X 0.00% 0C Exits:NS> scan
+Looking north:
+The thin path runs along the base of the mountains.
+Looking east:
+The Sentinel Mountains menace the small path.
+Looking south:
+A tall wooden tower can be seen in the distance.
+Looking west:
+The fabled Citadel of Magius can be seen in the distance.
+Looking up:
+A small copse of sourwood trees provides faint shade.
+Looking down:
+Tufts of grass shoot out from between the cast off mountain stones.
+
+544H 132V 100000000X 0.00% 0C Exits:NS> n
+Along the Sentinel Mountains [54245] <Inside> 
+    Bleak and insurmountable, the rocky face of the Sentinel Mountains
+creates an impassable barrier to the east. The caps of the mountains
+glisten with white, and a cold wind can be felt when it rushes down the
+slopes into the westwards grassy plains which stretch out as far as the eye
+can see. A faint trail, barely visible between the wayward rocks and
+stunted trees, runs alongside the mountains. Some distance to the north the
+wooded hills of the Ker-Li peek out from the mountainside.
+
+544H 132V 100000000X 0.00% 0C Exits:NS> n
+Along the Sentinel Mountains [54246] <Inside> 
+    Stunted trees make their bleak subsistance to the south, running along
+the narrow transition of the westward grassy savannahs of the Empire of
+Ergoth and the eastward Sentinel Mountains. These trees struggle to find
+purchase in the narrow, stony soil of the piedmont, but grow taller to the
+north, as the slopes begin to soften, affording pines and even a few
+shorter hardwoords. Among the slender pines to the north the wooden homes
+of the Ker-Li can be seen. The faint path stretches southwards along the
+foot of the mountains towards a single wooden tower, barely visible in the
+distance.
+
+544H 132V 100000000X 0.00% 0C Exits:NS> n
+Ker-Li [54282] <Hills> 
+    The remote village of the Ker-Li has its outskirts here, in the place
+where the rolling hills of Ergoth transition into the Sentinel Mountains. A
+few scattered wooden homes of the poorer Ackalite barbarians are visible
+here, built from the evergreen pines which dot the hills and lower
+mountains. The homes themselves are small and poorly made, suggesting that
+life in these hilly barrens is difficult.
+
+544H 132V 100000000X 0.00% 0C Exits:SWU> scan
+Looking north:
+The Ker-Li village winds between the trees.
+Looking east:
+A few one-room homes have been built beside the path.
+Looking south:
+A road curves through the evergreen pines dotting the hillside.
+Looking west:
+The hills becomes smaller as they approach the plains.
+Looking up:
+The peaks of the Sentinel Mountains peek between the trees.
+Looking down:
+The hilly barrens make like difficult.
+
+544H 132V 100000000X 0.00% 0C Exits:SWU> exits
+Obvious exits:
+South - Along the Sentinel Mountains [54246]
+West  - Skirting the Sentinel Mountains [54281]
+Up    - Ker-Li [54283]
+
+544H 132V 100000000X 0.00% 0C Exits:SWU> goto 54331
+The Woods of the Ker-Li [54331] <Inside> 
+    Deep in the forest, some distance west of the Ker-Li village and the
+Sentinel Mountains, the Ergothian wilds run strong and unchecked. Tall
+pines sway back and forth in the winds, scattering their needles along the
+forest floor, creating a thick carpet which swallows any sound. The animals
+in the part of the forest seem more demure, almost as if some larger
+predator were always afoot, endangering the squirrels and thrushes which
+would otherwise fill the copses with their chatter. A faint, almost
+indetectable, odor of rotting flesh wafts between the juniper-scented
+breezes.
+
+544H 132V 100000000X 0.00% 0C Exits:ES> scan
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+544H 132V 100000000X 0.00% 0C Exits:ES> exits
+Obvious exits:
+East  - Skirting the Ker-Li Village [54332]
+South - The Ker-Li Wilds [54333]
+
+544H 132V 100000000X 0.00% 0C Exits:ES> e
+Skirting the Ker-Li Village [54332] <Inside> 
+    Beyond the tall partitions of the Ker-Li village lie the glades and
+copses of the Sentinel Mountain piedmont. Birdsong echoes along the distant
+granite face, and the trees seem to creak and groan in their own language
+as they sway in the strong breezes coming off the Ergothian Plains. The
+woods themselves are a wonder of unbroken savagery, teeming with wildlife
+and dangerous creatures which have never learned to fear man.
+
+544H 132V 100000000X 0.00% 0C Exits:W> scan
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+544H 132V 100000000X 0.00% 0C Exits:W> exits
+Obvious exits:
+West  - The Woods of the Ker-Li [54331]
+
+544H 132V 100000000X 0.00% 0C Exits:W> w
+The Woods of the Ker-Li [54331] <Inside> 
+    Deep in the forest, some distance west of the Ker-Li village and the
+Sentinel Mountains, the Ergothian wilds run strong and unchecked. Tall
+pines sway back and forth in the winds, scattering their needles along the
+forest floor, creating a thick carpet which swallows any sound. The animals
+in the part of the forest seem more demure, almost as if some larger
+predator were always afoot, endangering the squirrels and thrushes which
+would otherwise fill the copses with their chatter. A faint, almost
+indetectable, odor of rotting flesh wafts between the juniper-scented
+breezes.
+
+544H 132V 100000000X 0.00% 0C Exits:ES> s
+The Ker-Li Wilds [54333] <Inside> 
+    The slender pines in this part of the forest are almost identical,
+making it difficult to determine which way is which. Only the occasional
+glimpse of the granite peaks of the Sentinel Mountains to the north, and
+the tiny wooden homes of the Ker-Li nestled along the stony base give
+points of reference. The wind in this part of the woods is surprisingly
+gentle, whispering like a mother, comforting her child. The smell of pines,
+like fresh squeezed juniper, is overwhelming, yet below the woodland
+perfume the smell of decay can be detected, faint - yet there nonetheless.
+
+544H 132V 100000000X 0.00% 0C Exits:NES> scan
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+544H 132V 100000000X 0.00% 0C Exits:NES> exits
+Obvious exits:
+North - The Woods of the Ker-Li [54331]
+East  - Beyond the Ker-Li Walls [54334]
+South - Lost in the Ker-Li Forest [54335]
+
+544H 132V 100000000X 0.00% 0C Exits:NES> s
+Lost in the Ker-Li Forest [54335] <Inside> SPIN
+    A strange and unnatural silence has falled onto the pines in this part
+of the Ker-Li forest. The skinny evergreens move slowly in a wind that
+makes no sound, weaving amongst themselves to create a tapestry af greens
+and browns. The needles along the ground are so thick that they absorb the
+footsteps of even the most cumbesome traveller, while the uncanny semblance
+of the trees in this glade make it impossible to determine which way is
+which.
+
+544H 132V 100000000X 0.00% 0C Exits:NE> scan
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+The trees wave silently above.
+Looking down:
+The pine needles are so thick that they absorb all sound.
+
+544H 132V 100000000X 0.00% 0C Exits:NE> n
+The Ker-Li Wilds [54333] <Inside> 
+    The slender pines in this part of the forest are almost identical,
+making it difficult to determine which way is which. Only the occasional
+glimpse of the granite peaks of the Sentinel Mountains to the north, and
+the tiny wooden homes of the Ker-Li nestled along the stony base give
+points of reference. The wind in this part of the woods is surprisingly
+gentle, whispering like a mother, comforting her child. The smell of pines,
+like fresh squeezed juniper, is overwhelming, yet below the woodland
+perfume the smell of decay can be detected, faint - yet there nonetheless.
+
+544H 132V 100000000X 0.00% 0C Exits:NES> scan
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+544H 132V 100000000X 0.00% 0C Exits:NES> exits
+Obvious exits:
+North - The Woods of the Ker-Li [54331]
+East  - Beyond the Ker-Li Walls [54334]
+South - Lost in the Ker-Li Forest [54335]
+
+544H 132V 100000000X 0.00% 0C Exits:NES> s
+Lost in the Ker-Li Forest [54335] <Inside> SPIN
+    A strange and unnatural silence has falled onto the pines in this part
+of the Ker-Li forest. The skinny evergreens move slowly in a wind that
+makes no sound, weaving amongst themselves to create a tapestry af greens
+and browns. The needles along the ground are so thick that they absorb the
+footsteps of even the most cumbesome traveller, while the uncanny semblance
+of the trees in this glade make it impossible to determine which way is
+which.
+
+544H 132V 100000000X 0.00% 0C Exits:NE> exits
+Obvious exits:
+North - The Ker-Li Wilds [54333]
+East  - The Forest Shrine of the Ker-Li [54336]
+
+544H 132V 100000000X 0.00% 0C Exits:NE> e
+The Forest Shrine of the Ker-Li [54336] <Inside> 
+    An ancient altar, decorated with some of the most prized possessions of
+the Ker-Li lies hidden in this ancient and foreboding grove. The hides of
+black bears hang over the pointed antlers of ancient stags, bleached almost
+white by exposure to the elements over unknown eons. There is an ungodly
+hush in this part of the forest, almost as if the animals which inhabit the
+woods along the Sentinel Mountains know that this is a holy place, and one
+that should not be disturbed. Even the faint whisper of the wind between
+the pines has been hushed into the sound of silence.
+
+544H 132V 100000000X 0.00% 0C Exits:W> scan
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+544H 132V 100000000X 0.00% 0C Exits:W> exits
+Obvious exits:
+West  - Lost in the Ker-Li Forest [54335]
+
+544H 132V 100000000X 0.00% 0C Exits:W> w
+Lost in the Ker-Li Forest [54335] <Inside> SPIN
+    A strange and unnatural silence has falled onto the pines in this part
+of the Ker-Li forest. The skinny evergreens move slowly in a wind that
+makes no sound, weaving amongst themselves to create a tapestry af greens
+and browns. The needles along the ground are so thick that they absorb the
+footsteps of even the most cumbesome traveller, while the uncanny semblance
+of the trees in this glade make it impossible to determine which way is
+which.
+
+544H 132V 100000000X 0.00% 0C Exits:NE> n
+The Ker-Li Wilds [54333] <Inside> 
+    The slender pines in this part of the forest are almost identical,
+making it difficult to determine which way is which. Only the occasional
+glimpse of the granite peaks of the Sentinel Mountains to the north, and
+the tiny wooden homes of the Ker-Li nestled along the stony base give
+points of reference. The wind in this part of the woods is surprisingly
+gentle, whispering like a mother, comforting her child. The smell of pines,
+like fresh squeezed juniper, is overwhelming, yet below the woodland
+perfume the smell of decay can be detected, faint - yet there nonetheless.
+
+544H 132V 100000000X 0.00% 0C Exits:NES> e
+Beyond the Ker-Li Walls [54334] <Inside> 
+    A tall, if somewhat flimsy, wooden rampart separates the village of the
+Ker-Li from the wild woods which stretched along the base of the Sentinel
+Mountains. The rocky soil is too shallow for hardwoods, so the forest
+thrives with countless evergreens, reaching their tall, thin trunks into
+the vast sky above. The chatter of woodland animals and the thrush of the
+birds creates a gentle music which suddenly disappears when larger
+predators lurk among the glades. A thick carpet on pine needles, the
+detritus of uncounted years, piles up so deep that it seems to swallow the
+footsteps.
+
+544H 132V 100000000X 0.00% 0C Exits:EW> scan
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+544H 132V 100000000X 0.00% 0C Exits:EW> exits
+Obvious exits:
+East  - Ker-Li [54285]
+West  - The Ker-Li Wilds [54333]
+
+544H 132V 100000000X 0.00% 0C Exits:EW> e
+Ker-Li [54285] <Trail> 
+    This part of the Ker-Li tribal home is within a narrow partition of
+pine trunks, operating as a sort of rudimentary defensive position in the
+unlikely event of an Ergothian attack. Generations ago the Ker-Li made a
+series of failed raids on Gulfport, and the ensuing action by the Empire
+drove them from their homeland into the lowest mountains of the Sentinel
+Peaks. Small single-room wooden houses and cottages with stone floors lie
+scattered among the tall pines, bending in the wind.
+
+544H 132V 100000000X 0.00% 0C Exits:NEW> scan
+Looking north:
+A wall of pine trees protects the tribe.
+Looking east:
+Meager wooden homes lie among the trees.
+Looking south:
+The tribe is protected by a wall of wood.
+Looking west:
+You see nothing special.
+Looking up:
+The waving evergreens dance in the wind.
+Looking down:
+The earthen floor is covered in pine straw.
+
+544H 132V 100000000X 0.00% 0C Exits:NEW> exits
+Obvious exits:
+North - Ker-Li [54286]
+East  - The Ker-Li Longhouse [54284]
+West  - Beyond the Ker-Li Walls [54334]
+
+544H 132V 100000000X 0.00% 0C Exits:NEW> #log off

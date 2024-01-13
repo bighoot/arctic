@@ -1,0 +1,35 @@
+
+Anista says 'hedit spells'
+Anista says 'once you make a change, you will save it just like you would anything in editor'
+
+
+You say 'thats a big file'
+
+
+Anista says 'but you also need to do a 'hedit reload''
+
+
+Anista says 'and a 'reread help' afterward'
+
+
+Anista says 'to recompile the file on server'
+
+
+Anista says 'pay special note here'
+
+Anista says '# is the delimeter between spells'
+
+Anista says 'if it's by itself, that is what separates the files'
+
+Anista says 'the helpfile name is in the quotes'
+
+Anista says '"SPELL CREATE WATER"'
+
+Anista says 'all the stuff down to ## level > 34 is what players see'
+
+Anista says 'anything beyond the ## level > 34 is what 35+ sees'
+
+Anista says 'until the next '#''
+
+Anista says '...which begins the next spell helpfile'
+

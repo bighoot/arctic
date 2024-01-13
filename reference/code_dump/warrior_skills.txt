@@ -1,0 +1,38 @@
+Warrior Skills
+
+Weapons - s.blades(95), l.blades(95), axes(90), polearms(90), two-handed(90), blud(95), misc(90), piercers(90)
+
+Kick(90) - No stat modifiers, higher AC makes the target easier to kick, being blind halves your skill
+  Kick Low - If the target is on the ground applies limit_dam +10 for 2 rounds and does about 8-60 damage, legendary adds 2 to the duration and +5 to the limit_dam, if the target is standing then it applies bash_mod of 1 for 1 round and does about 8-30 damage, legendary adds 2 to the duration and 2 to the bash_mod, legendary also adds 10% damage either way
+  Kick High - If the target is on the ground and you don't have legendary you will fall and take 8-30 damage, if the target is standing then it applies -1 hitroll for 1 round and has an 8% chance to apply Disorient, damage is about 15-45, legendary adds 3 to the duration, -2 to the hitroll, +10% to the Disorient chance, and 10% damage
+  Kick Normal - Does about 10-30 damage, legendary adds 10% damage
+
+Bash(90) - Affected by Dex and Str, basher and target make Dex checks, if one person passes and one person fails the success chance goes up or down 25 in that direction, bashing without a shield divides your chance by 5, bashing while blind divides your chance by 10, if the target is sitting your chance is divided by 2, if the target has Juke divide the success chance by 2, if the target is held the success chance is multiplied by 4, damage = ((shield_wt / 4) + Str + 10d2 + quality), bash damage when using no shield is 2
+  Shield Quality - Poor(-5), Avg(0), Fair(+5), Good(+10), V.Good(+15), Excel(+20), Superb(+25), Superior(+30)
+-
+Rescue(90) - No stat modifiers
+
+Vigor(60) - No stat modifiers, the normal check is a d100 roll but for this skill it is only a d70 roll, heals (1.5 * skill) + 10 hps
+
+Parry(90) - No stat modifiers to initiate, legendary adds 25% to the chance to initiate, thaco is calculated for you and the enemy and dex bonuses are added, then a 1d20 is rolled and the thacos are subtracted from the roll, +5 is added to the attacker's roll if he has a sharpened weapon (skill >= 75), +7 is added to the defender's roll if he has Fortress up, defender has to beat the attacker to parry
+
+Target(90) - Half of your Dex is added to the calculation, modified skill = ((skill + dex) / 2) + (45 - enemy dex or level whichever is greater), failure_mod = skill + 1d100, failure mod is checked to see if you fall or switch to the wrong target, failure < 41 attacks the wrong target, 41-70 falls out of combat
+
+Punch(90) - No stat modifiers, blindness divides your skill by 5, damage = 15-30, damage is then modified by the material of your hands armor - metal(x1.6), scale/crystal(x1.4), x1.2 otherwise, legendary also adds 10% damage, if the target is unbalanced the punch may knock them down, randomly applies one penalty to the target: concentration, stumble, fumble, skill, extra attacks, or apply_damage, critical hits also applies disorient
+
+Track(65) - No stat modifiers, tracking while blind/dark is nearly impossible
+
+Disarm(90) - Affected by Dex and Str, have to beat a regular skill check and a thaco check, thaco check = (thaco + 4 - dex_mod) compared against a d20 roll, target then gets a para_save to avoid the disarm
+-
+Bandage(50) - No stat modifiers
+
+Danger Sense(80) - Affected by Wis and Dex, when successful you wake/stand up from sleep and stand up from sitting/resting, the following events will trigger the check: people entering the room, attacks, mean spells, and backstab (if shield equipped), 10% of your skill level is also added to your chance to avoid traps
+
+Shield Block(90) - Higher Dex and Str reduce more damage, shields take 1 damage for every block
+  Chance to block is affected by: big hits (dam > 50) lower your skill by 10, sitting halves your skill, light shields (<20) increase your skill while heavy shields (>30) decrease your skill
+  Damage reduction is a percentage and is affected by: your skill (base reduction = 5 + (skill / 10)), your faith (adds 1-20), a successful contested Dex check adds 1/3 of your Dex, a successful contested Str check adds 1/3 of your Str, shield quality (from -5 for Poor to +10 for Superior), there is a small chance to block 100% of an attack if you win 2 contested stat checks
+  Retaliation damage = (faith / 100) + (level / 5) + (weight / 5), 25% of retaliations are headshots that interrupt spells, attacks, parry, and dodge while another 25% of retaliations bash, retaliation damage can be absorbed by enemy armor
+
+*Assault(90) - Cooldown affected by Cha, cooldown = 17 - (Cha / 5), duration = 1 + (skill / 16)
+
+*Fortress(90) - Cooldown affected by Cha, cooldown = 15 - (Cha / 12), duration = 5, applies dodge chance of: skill / 3, applies the parry affect, increases your shield block by: skill / 3, lowers your armor by: (skill / 2) + 10, applies limit_damage by: -(skill / 3), and increases Con by: 1 + (skill / 30)

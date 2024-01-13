@@ -1,0 +1,35 @@
+Ocean Scout Instincts
+
+1.1: *starfish  +1/+2 Wis       1.2: *jellyfish  +1/+2 Dex
+2.1: shrimp  +1 Int                  2.2: *eel  +1/+2 Str
+3.1: herring  +1 Con               3.2: piranha  +1 RHR
+4.1: frog  +1/+2 HR               4.2: *shark  +2/+3 Con
+5.1: *crab  +2/+3 RDR          5.2: *whale  +14/28 HPS
+6.1: siren  +5 dam_factor     6.2: hydra  -5 lim_dam_factor
+
+
+1.1: *starfish(surge) - No stat modifiers, refreshes mvs (3 * level), legendary adds 20 mvs per tic for 4 tics
+
+1.2: *jellyfish(sting) - No stat modifiers, cooldown = 2 (4 if legendary), dam = 3d25 / 3 (legendary adds 10%), applies the same damage one more round (3 rounds if legendary)
+
+2.1: shrimp(plenty) - No stat modifiers, cooldown = 10, if level > 14 then feeds the group, feeds the whole room at level 30, always skips barbarians
+
+2.2: *eel(zap) - No stat modifiers, cooldown = 3 (2 if legendary), target makes a petri_save with a -3 penalty (-6 penalty if legendary), 35% chance to silence, 31% chance to blind, 32% chance to hold, 3% chance to do all three (8% if legendary) 
+
+3.1: herring(school) - No stat modifiers,cooldown = 3, applies waterbreath to your group for 30 tics
+
+3.2: piranha(swarm) - No stat modifiers, cooldown = 2, num of fish = (level + 5) / 6, dam = 2-4 + (2-4 * n) + (2-4) * (n + 2) where n is the number of that fish so the 5th fish does a lot more damage than the first fish
+-
+4.1: frog(leap) - No stat modifiers, cooldown = 6, duration = 3, applies stumble_chance of (level - 5) to the target
+
+4.2: *shark(bite) - No stat modifiers, cooldown = 2, dam = 3d(level - 5), legendary adds 10% damage, applies bleed dam of 1-18 for 4 rounds (6 rounds if legendary)
+
+5.1: *crab(shell) - No stat modifiers, cooldown = 5 (3 if legendary), applies minor_limit_damage for 1 tic (3 if legendary), also if legendary you have a 40% chance to get limit_damage instead of minor_limit_damage
+
+5.2: *whale(eagre) - No stat modifiers, cooldown = 2 (1 if legendary), sits all enemies in the room, if legendary it will lag them 67% of the time and do damage, dam = 4d15
+
+6.1: siren(hypnotize) - No stat modifiers, cooldown = 10, target makes a petri_save with a -2 penalty, duration = 4, applies lim_dam_factor of 10 and disorientation and paralysis
+
+6.2: hydra(regrow) - No stat modifiers, cooldown = 14, heals the target for about as much as 2 cure crits and slightly less than a cure massive
+
+*denotes legendary rank available

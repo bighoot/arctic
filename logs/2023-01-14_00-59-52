@@ -1,0 +1,2015 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Sat Jan 14 07:00:21 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 81 steel in rent.
+
+Welcome to the land of Krynn.
+
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA crumbling piece of coal is slowly turning to dust...it emits an arcane glow
+A scroll has been left here...it emits an arcane glow
+A very valuable key has been left here.
+A black adamantite spider on a gold chain rests here...it emits a sinister, arcane glow..it hums softly
+A potion is lying here.
+A scroll as white as snow with a red ribbon lies here.
+[0;37m[31m[1mThe stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m129V [0;37m200001X 92.96% 16609C [0;37mT:15 Exits:D> help spell gate
+Spell    : Gate
+Sphere   : Summoning
+Usage    : cast 'gate' [name of demon]
+Duration : Variable
+Effects  : Summon a extra-planar creature or demon
+
+The gate spell will summon a demon from another plane of existence, and
+attempt to charm the foul creature into doing your willing.
+Many varieties of creatures and demons exist, each alignment has their own
+demons to enthrall.  Below are the lists of names per alignment:
+
+Good:     Xia, Acadia, Shiroc, Aspasia, Antioch
+Neutral:  Chanticlir, Chaldrun, Chi, Chaun, Chakan
+Evil:     Vrock, Hezrou, Glabrezu, Nalfeshnee, Marilith
+
+Providing the demon name (or partial name) as part of the spell will bring
+forth that demon. The only exception to this rule is for un-aligned clerics
+(neutral chaotic), they will randomly get a demon of any alignment, but have
+no control over which they get. Not providing a name will give you a random
+demon to which you have access.
+
+The demon may be ordered just as one would order a charmed person/creature.
+The length of duration of charm is dependent on intelligence of demon summoned
+and the number of demons already following the caster.
+
+Details:
+- Utility spell which summons a follower to assist the caster.
+- Good followers grant aura of +1 5th or 7th slot and PROTECT_EVIL.
+- Neutral followers grant aura of RESIST_MAGIC and IMMUNE_NEGATIVE_ENERGY.
+- Evil followers grant aura of CHA bonus and PROTECT_GOOD.
+
+See also: "CHARM" "RELEASE"
+
+[32m[0;37m[32m432H [0;37m[32m129V [0;37m200001X 92.96% 16609C [0;37mT:10 Exits:D> d
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m200001X 92.96% 16609C [0;37mT:5 Exits:EWU> mem
+Spells currently memorized:
+1: [ 2]aid                  [ 2]bless                [ 1]create food         
+   [ 1]create water         [ 1]cure light           [ 1]know alignment      
+   [ 2]restore strength    
+2: [ 5]blindness            [ 2]cure blindness       [ 1]light               
+   [ 1]silence             
+3: [ 2]gust of wind         [ 1]holy armor           [ 2]poison              
+   [ 1]protection from evil [ 3]remove poison       
+4: [ 1]cloak of bravery     [ 4]flamestrike          [ 2]heroism             
+   [ 1]prayer              
+5: [ 3]cure critical        [ 2]dispel good          [ 1]holy aura           
+6: [ 2]animate dead         [ 2]darkness             [ 2]summon              
+7: [ 4]soul leech          
+8: [ 1]gate                 [ 2]sunray              
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0
+
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m200001X 92.96% 16609C [0;37mT:2 Exits:EWU> 
+You feel ready to brew again.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:60 Exits:EWU> cast 'gate' vrock
+You utter the words, 'gate'
+You wave your hand, and the demon Vrock appears!
+The demon Vrock starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:40 Exits:EWU> order vrock mem
+Spells currently memorized:
+1: [ 1]blur                 [ 2]magic missile        [ 1]shield              
+   [ 1]weaken              
+2: [ 1]detect invisibility  [ 1]ray of enfeeblement  [ 2]shocking grasp      
+   [ 1]silence             
+3: [ 1]dispel magic         [ 2]magic bolt           [ 1]web                 
+4: [ 1]acid blast           [ 1]haste                [ 1]hold monster        
+   [ 1]magic blast         
+5: [ 1]dark accord          [ 1]pain                 [ 1]tenebrous orb       
+
+
+Spells left (level-number): 1-2 2-1 3-2 4-0 5-0
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:36 Exits:EWU> order vrock spells
+1:  blur                   magic missile          shield               
+    weaken               
+2:  detect invisibility    ray of enfeeblement    shocking grasp       
+    silence                sleep                
+3:  dispel magic           fireball               lightning bolt       
+    magic bolt             web                  
+4:  acid blast             cold snap              haste                
+    hold monster           magic blast          
+5:  dark accord            mind mangle            pain                 
+    tenebrous orb        
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:13 Exits:EWU> 
+[37mYour clanmate Grishnak has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:1 Exits:EWU> 
+[37mYour clanmate Haplo has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:60 Exits:EWU> 
+[36mHaplo tells your clan 'hello mythlings'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:45 Exits:EWU> 
+[36mPriya tells your clan 'hi'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:42 Exits:EWU> 
+[36mSniferblin tells your clan 'hi'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:41 Exits:EWU> 
+[36mLena tells your clan 'hi'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:19 Exits:EWU> 
+[37mYour clanmate Ishvadsu has gained a rank.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:2 Exits:EWU> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:60 Exits:EWU> order vrock ski
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (below average) **  short blades  (poor)          **
+
+     arcana        (below average) **  concentration (poor)            
+     brew          (very poor)     **  deep focus    (poor)            
+     scribe        (very poor)     **
+     spellcraft    (bad)             
+     bandage       (awful)         **  gift          (not learned)   **
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:54 Exits:EWU> 
+Lena flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:53 Exits:EWU> 
+Lena flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:52 Exits:EWU> 
+[36mPriya tells your clan 'ahmed want to xp?'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:50 Exits:EWU> 
+[36mGrishnak tells your clan 'sure'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:37 Exits:EWU> 
+[36mLena tells your clan 'scribe        (superb)'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:26 Exits:EWU> release demon
+You release the demon Vrock from your service.
+The demon Vrock transcends this world and enters another plane.
+The demon Vrock stops following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:19 Exits:EWU> cast 'gate' hezrou
+You utter the words, 'gate'
+You wave your hand, and the demon Hezrou appears!
+The demon Hezrou starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:11 Exits:EWU> 
+[36mLena tells your clan 'just missing enlarge and granite hands now and 5 ranks'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:11 Exits:EWU> 
+[36mGrishnak tells your clan 'cool'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:5 Exits:EWU> order hezrou ski
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (below average)     bludgeons     (below average)   
+     miscellaneous (poor)              piercers      (poor)          **
+     short blades  (below average)   
+
+     bandage       (average)           hex           (below average)   
+     banish        (below average)     brew          (very poor)     **
+     control       (not learned)   **
+     bind          (not learned)   **  frenzy        (very poor)     **
+     spook         (very poor)       
+     call spirits  (not learned)   **  stupefy       (bad)             
+     taunt         (not learned)   **
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:3 Exits:EWU> 
+Siya flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:49 Exits:EWU> 
+Siya flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:49 Exits:EWU> order hezrou spells
+1:  ancestral shroud       clot                   cure light           
+2:  blindness              cure blindness         curse                
+    endurance              remove curse         
+3:  cure serious           delay death            protection from undead
+    remove poison          sap strength           vile spirits         
+4:  devouring spirits      evil eye               monstrous mantle     
+    soul leech             sublime resistance   
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:36 Exits:EWU> order hezrou mem
+Spells currently memorized:
+1: [ 3]ancestral shroud     [ 3]clot                 [ 1]cure light          
+2: [ 2]cure blindness       [ 3]endurance            [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 1]remove poison       
+4: [ 1]monstrous mantle     [ 3]sublime resistance  
+
+
+Spells left (level-number): 1-1 2-1 3-1 4-1
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:17 Exits:EWU> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:60 Exits:EWU> 
+Lena flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:36 Exits:EWU> 
+Lena flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:35 Exits:EWU> 
+Skully flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:15 Exits:EWU> 
+Skully begins sleeping remaining aloft.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:13 Exits:EWU> 
+Skully disappears suddenly.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:8 Exits:EWU> release hezrou
+You release the demon Hezrou from your service.
+The demon Hezrou transcends this world and enters another plane.
+The demon Hezrou stops following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:41 Exits:EWU> cast 'gate' glabrezu
+You utter the words, 'gate'
+You wave your hand, and the demon Glabrezu appears!
+The demon Glabrezu starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:30 Exits:EWU> order demon mem
+No spells currently memorized.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:26 Exits:EWU> order demon spells
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:20 Exits:EWU> order demon ski
+Note: ** means the skill is ready for training with a guildmaster.
+
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:17 Exits:EWU> look demon
+This thing looks like an eight foot tall man with the head of a dog. Its arms
+end in large pincers, and, coming out of its chest, it has a second set of
+smaller arms which end in normal human hands. Its lower legs and feet,
+however, are those of a dog. With a snarl, it glares all around. It looks
+nasty.
+The demon Glabrezu is in an excellent condition.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:2 T:13 Exits:EWU> 
+Priya flies in from above.
+Siya flies in from above.
+Grishnak flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:51 Exits:EWU> 
+Siya flies west.
+Grishnak flies west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:51 Exits:EWU> 
+Siya flies in from the west.
+Grishnak flies in from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:43 Exits:EWU> 
+Siya flies east.
+Grishnak flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:42 Exits:EWU> 
+Priya flies in from the east.
+Siya flies in from the east.
+Grishnak flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:33 Exits:EWU> 
+Siya flies west.
+Grishnak flies west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:32 Exits:EWU> release demon
+You release the demon Glabrezu from your service.
+The demon Glabrezu transcends this world and enters another plane.
+The demon Glabrezu stops following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:23 Exits:EWU> l
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:22 Exits:EWU> ret
+Huh?!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:21 Exits:EWU> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:20 Exits:EWU> 
+Siya flies in from the west.
+Grishnak flies in from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:18 Exits:EWU> 
+Siya flies east.
+Grishnak flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:18 Exits:EWU> sta
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:15 Exits:EWU> 
+Priya flies in from the east.
+Siya flies in from the east.
+Grishnak flies in from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:15 Exits:EWU> 
+Siya flies west.
+Grishnak flies west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:15 Exits:EWU> e
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:14 Exits:NESW> n
+[35mThe Forge of Myth[0;37m
+    Incessant hammering of iron on anvil brings a sharp ringing to this
+furnace of a smithy. While most of the work done here seems to be toward the
+making of horseshoes and repairing minor dents in weapons and armor, the
+master smith has been known to craft some new items from time to time.
+Cooling buckets surround the anvil and the occasional hiss released from
+the cooling process indicates that they are often put to good use.
+[33m[1mA small roll of bread lies here...it emits an arcane glow [8]
+[0;37m[31m[1mThe clan blacksmith is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:13 Exits:S> list ring
+ 18. Ring                360 [38;5;177ma cryptic spellbinder's ring[0;37m
+ 31. Ring                133 a glowing ring-sized orb
+ 55. Ring                200 a nobleman's signet ring
+ 85. Ring                120 a ring of the avian coven
+111. Beads                75 a string of illusionist's beads
+121. Ring                150 a tiny bone ring
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:8 Exits:S> browse ring
+You browse through the merchandise and notice:
+The surface of the ring is shiny and glitters golden. (100%)
+A cryptic spellbinder's ring is wearable: finger.
+
+The ring is made up of gaseous vapor. You cannot discern its condition. (100%)
+ring (here) : 
+
+The surface of the ring gleams brightly. (100%)
+A nobleman's signet ring is wearable: finger.
+
+The surface of the ring gleams brightly. (99%)
+A ring of the avian coven is wearable: finger.
+
+The ring appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'ring bone tiny'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 1            Value   : 150
+
+ Affects  : HEALTH        by -5
+ Affects  : RESIST_NEGATI by 15
+A tiny bone ring is wearable: finger.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16609C [0;37mMem:1 T:5 Exits:S> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:60 Exits:S> items
+tiers
+list ring
+ 18. Ring                360 [38;5;177ma cryptic spellbinder's ring (C3+ SHAMAN FINGER)[0;37m
+ 31. Ring                133 a glowing ring-sized orb
+ 55. Ring                200 a nobleman's signet ring (nolore)
+ 85. Ring                120 a ring of the avian coven
+111. Beads                75 a string of illusionist's beads
+121. Ring                150 a tiny bone ring (health-5 res_neg15)
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16609C [0;37mT:56 Exits:S> buy cryptic.ring
+[36mThe clan blacksmith tells you 'That'll be 360 coins. You got yourself a deal!'
+[0;37mYou now have a cryptic spellbinder's ring (C3+ SHAMAN FINGER).
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16249C [0;37mT:51 Exits:S> s
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m<Myth> Grishnak the Male Half Ogre is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m200001X 92.96% 16249C [0;37mT:50 Exits:NESW> 
+Grishnak flies south.
+
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m200001X 92.96% 16249C [0;37mT:50 Exits:NESW> s
+[35mThe Alchemy Lab of Myth[0;37m
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+[33m[1mA scribed scroll lies here discarded...it emits an arcane glow
+A key of black granite rests on the ground.
+A thick iron key on a thick chain lies here.
+A thin black key lies here.
+[0;37m[31m[1m<Myth> Grishnak the Male Half Ogre is standing here. (flying)
+The clan alchemist is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16249C [0;37mT:50 Exits:N> 
+Grishnak flies north.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16249C [0;37mT:49 Exits:N> buy lore
+[36mThe clan alchemist tells you 'That'll cost you 195 coins.'
+[0;37mYou now have a scroll of legend lore.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16054C [0;37mT:48 Exits:N> recite lore cryptic
+You stop using an enormous scorched maul.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'ring cryptic spellbinder's'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 3            Value   : 360
+
+ Affects  : resist criticals by 1%
+ Affects  : HEALTH        by 6
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16054C [0;37mT:44 Exits:N> n
+n
+
+Haplo flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16054C [0;37mT:39 Exits:N> sell cryptic
+
+Haplo flies north.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16054C [0;37mT:37 Exits:N> 
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m200001X 92.96% 16054C [0;37mT:36 Exits:NESW> 
+[35mThe Forge of Myth[0;37m
+    Incessant hammering of iron on anvil brings a sharp ringing to this
+furnace of a smithy. While most of the work done here seems to be toward the
+making of horseshoes and repairing minor dents in weapons and armor, the
+master smith has been known to craft some new items from time to time.
+Cooling buckets surround the anvil and the occasional hiss released from
+the cooling process indicates that they are often put to good use.
+[33m[1mA small roll of bread lies here...it emits an arcane glow [8]
+[0;37m[31m[1m<Myth> Haplo the Male Half Ogre is standing here. (flying)
+The clan blacksmith is standing here.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16054C [0;37mT:36 Exits:S> 
+Haplo flies south.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16054C [0;37mT:36 Exits:S> 
+[36mThe clan blacksmith tells you '360 coins for that! Nice doing business with you.'
+[0;37mThe clan blacksmith now has a cryptic spellbinder's ring (C3+ SHAMAN FINGER).
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mT:35 Exits:S> 
+[36mMena tells your clan 'ok night time for me'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mT:32 Exits:S> 
+[36mMena tells your clan 'much love!'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mT:29 Exits:S> 
+[36mPitli tells your clan 'gnith'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mT:29 Exits:S> 
+[37mYour clanmate Mena has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mT:26 Exits:S> 
+[36mPriya tells your clan 'night greg'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mT:26 Exits:S> 
+[37mYour clanmate Lena has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mT:16 Exits:S> cast 'gate' Spells left (level-number): 1-1 2-1 3-1 4-1
+You utter the words, 'gate'
+You wave your hand, and the demon Hezrou appears!
+The demon Hezrou starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:13 Exits:S> release demon
+You release the demon Hezrou from your service.
+The demon Hezrou transcends this world and enters another plane.
+The demon Hezrou stops following you.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:6 Exits:S> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:6 Exits:S> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:60 Exits:S> sta
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:57 Exits:S> cast 'gate' nal
+You utter the words, 'gate'
+You wave your hand, and the demon Nalfeshnee appears!
+The demon Nalfeshnee starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:51 Exits:S> order demon ski
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (average)           long blades   (average)         
+     miscellaneous (fair)          **  piercers      (fair)            
+     short blades  (fair)            
+
+     backstab      (fair)          **  hide          (good)            
+     sneak         (good)          **
+     pick          (good)          **
+     steal         (fair)            
+     case          (fair)              dodge         (average)       **
+     plant         (average)           throat punch  (fair)            
+     bandage       (fair)          **  detect        (fair)            
+     disable       (below average)     envenom       (average)         
+     unbalance     (average)         
+     fade          (poor)          **
+     coup          (awful)             evade         (awful)           
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:47 Exits:S> look nalfeshnee
+This is a huge, hideous creature indeed. It stands twelve feet tall at the
+shoulder. It has the massive torso of a man, and stunted, puny legs ending
+in cloven hooves. Its arms are muscular, reaching to the ground, and ending
+in powerful and extremely large fists. Its head is that of a warthog, with
+glowing red eyes which show a glint of intelligence. It looks nasty.
+The demon Nalfeshnee is in an excellent condition.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:19 Exits:S> release nalfeshnee
+You release the demon Nalfeshnee from your service.
+The demon Nalfeshnee transcends this world and enters another plane.
+The demon Nalfeshnee stops following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:60 Exits:S> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:57 Exits:S> 
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:13 Exits:S> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:60 Exits:S> cast 'gate' mar
+Come on! I'm relaxing!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:49 Exits:S> sta
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:48 Exits:S> cast 'gate' mar
+You utter the words, 'gate'
+You wave your hand, and the demon Marilith appears!
+The demon Marilith starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:47 Exits:S> order demon mem
+The demon Marilith is busy doing something, try again in a moment.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:43 Exits:S> order demon mem
+The demon Marilith is busy doing something, try again in a moment.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:40 Exits:S> order demon mem
+Spells currently memorized:
+1: [ 6]unholy might        
+2: [ 3]cloak of shadows     [ 2]protection from good
+3: [ 3]nightvision         
+
+
+Spells left (level-number): 1-0 2-0 3-0
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:39 Exits:S> order demon spells
+1:  curse                  unholy might         
+2:  blindness              cloak of shadows       protection from good 
+    ray of enfeeblement  
+3:  dispel magic           nightvision            poison               
+    soul leech           
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:31 Exits:S> 
+[37mYour clanmate Skar has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:60 Exits:S> look demon
+This is a foul creature indeed. It has the torso and head of a beautiful
+woman, only with 3 sets of arms. Where most people have legs, this thing
+has a twenty foot long, snake-like tail, ending in a large rattle. It
+hisses evily as it looks around. It looks nasty.
+The demon Marilith is in an excellent condition.
+
+the demon Marilith is using:
+<used in primary hand>     a demonic long sword
+<used in secondary hand>   a demonic short sword
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:37 Exits:S> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:60 Exits:S> 
+[36mSniferblin tells your clan 'does anyone need malevolent tentacles/chain lightning/color spray'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:57 Exits:S> 
+[36mPitli tells your clan 'I can use'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:34 Exits:S> 
+[37mYour clanmate Pitli has gained a level.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:23 Exits:S> order demon ski
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (good)              bludgeons     (good)          **
+     long blades   (fair)          **  miscellaneous (fair)          **
+     piercers      (fair)              pole arms     (good)            
+     short blades  (good)          **  two-handed    (good)            
+
+     drain         (good)          **  stance        (very good)       
+     disarm        (good)              march         (excellent)     **
+     thrust        (good)            
+     bandage       (not learned)   **  gaze          (fair)            
+     rescue        (fair)            
+     impair        (fair)            
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:59 Exits:S> release demon
+You release the demon Marilith from your service.
+The demon Marilith transcends this world and enters another plane.
+The demon Marilith stops following you.
+A demonic long sword disintegrates.
+A demonic short sword disintegrates.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:22 Exits:S> cast 'gate' hez
+You utter the words, 'gate'
+You wave your hand, and the demon Hezrou appears!
+The demon Hezrou starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:13 Exits:S> look demon
+This foul creature most resembles a seven foot tall bipedal frog. Its putrid
+skin is a mottled green, and gives off an awful stench. Flicking its tongue
+in and out, it scrutinizes you through lidless eyes. It looks nasty.
+The demon Hezrou is in an excellent condition.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:6 Exits:S> 
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:3 T:60 Exits:S> 
+Sniferblin flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:3 T:52 Exits:S> 
+Sniferblin sells a carved ivory ring <int1>.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:3 T:51 Exits:S> 
+Sniferblin flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:3 T:50 Exits:S> 
+[37mYour clanmate Sniferblin has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:3 T:26 Exits:S> drink all.water
+You drink the water.
+You are hungry.
+You do not feel thirsty.
+You drink the water.
+You are hungry.
+You do not feel thirsty.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:3 T:26 Exits:S> eat bread
+You can't seem to find it!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:3 T:23 Exits:S> cast 'cr fo'
+You utter the words, 'create food'
+You create some food.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:4 T:19 Exits:S> eat bread
+You nibble on the sweet magical bread.
+You are full.
+There is nothing left now.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:15 Exits:S> 
+[37mYour clanmate Ugrid has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:13 Exits:S> order demon mem
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 4]clot                 [ 1]cure light          
+2: [ 3]cure blindness       [ 1]endurance            [ 3]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 1]remove poison       
+4: [ 1]monstrous mantle     [ 3]sublime resistance  
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:55 Exits:S> order demon spells
+1:  ancestral shroud       clot                   cure light           
+2:  blindness              cure blindness         curse                
+    endurance              remove curse         
+3:  cure serious           delay death            protection from undead
+    remove poison          sap strength           vile spirits         
+4:  devouring spirits      evil eye               monstrous mantle     
+    soul leech             sublime resistance   
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:50 Exits:S> order demon forget 'mon man'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:10 Exits:S> order demon forget 'sublime res'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:5 Exits:S> order demon forget 'sublime res'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:4 Exits:S> order demon forget 'sublime res'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:4 Exits:S> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:60 Exits:S> order demon mem
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 4]clot                 [ 1]cure light          
+2: [ 3]cure blindness       [ 1]endurance            [ 3]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 1]remove poison       
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-4
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:60 Exits:S> 
+Pitli flies in from the south.
+Skully flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:57 Exits:S> order demon mem 'so le'
+The demon Hezrou focuses its thoughts and begins to meditate.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:54 Exits:S> order demon mem 'so le'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:53 Exits:S> order demon mem 'so le'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:52 Exits:S> order demon mem 'so le'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:52 Exits:S> 
+Pitli flies south.
+Skully flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:47 Exits:S> order demon rest
+The demon Hezrou sits down and rests.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:45 Exits:S> order demon mem
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 4]clot                 [ 1]cure light          
+2: [ 3]cure blindness       [ 1]endurance            [ 3]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 1]remove poison       
+
+Spells on memorization list:
+4: [ 4]soul leech          
+
+Memorization will complete in 1 tick.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:42 Exits:S> help spell protection
+Spell    : Protection
+Sphere   : Protection
+Usage    : cast 'protection' [char in room]
+Duration : 5 + (level/3) hours
+Effects  : Your deity gives you minor protection in battle
+
+This spell will invoke your deity to take minor notice of you and give some
+slight protection to the target of this spell.  The target must not conflict
+with the alignment of your deity.  Any creature of the opposite alignment
+damaging the target may be drained of health temporarily.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:21 Exits:S> help spell protection from evil
+Spell    : Protection From Evil
+Sphere   : Protection
+Usage    : cast 'protection from evil' [char in room]
+Duration : (level/2) hours
+Effects  : Strikes from evil creatures are reduced
+
+The person affected by protection from evil will find that creatures of an
+evil alignment will find it harder to strike them. Obviously, this spell will
+offer no benefits while fighting creatures of neutral or good alignment.
+
+Details:
+- Defensive spell which grants PROTECT_EVIL to the target.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:12 Exits:S> 
+The demon Hezrou smiles as it finishes its meditation.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:60 Exits:S> order demon mem
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 4]clot                 [ 1]cure light          
+2: [ 3]cure blindness       [ 1]endurance            [ 3]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 1]remove poison       
+4: [ 4]soul leech          
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:48 Exits:S> 
+Skully arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:42 Exits:S> release demon
+You release the demon Hezrou from your service.
+The demon Hezrou transcends this world and enters another plane.
+The demon Hezrou stops following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:42 Exits:S> cast 'gate' hezrou
+You utter the words, 'gate'
+You wave your hand, and the demon Hezrou appears!
+The demon Hezrou starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:33 Exits:S> 
+Skully sells a demon skin cloak (save_para-1 *19).
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:32 Exits:S> 
+Skully leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:31 Exits:S> order demon mem
+Spells currently memorized:
+1: [ 1]ancestral shroud     [ 2]clot                 [ 4]cure light          
+2: [ 2]cure blindness       [ 2]endurance            [ 3]remove curse        
+3: [ 2]cure serious         [ 1]delay death          [ 1]protection from unde
+   [ 1]remove poison       
+4: [ 2]monstrous mantle     [ 2]sublime resistance  
+
+
+Spells left (level-number): 1-1 2-1 3-1 4-1
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:29 Exits:S> 
+[36mEir tells your clan 'i can check'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:28 Exits:S> 
+[37mYour clanmate Skully has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:14 Exits:S> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:11 Exits:S> release demon
+You release the demon Hezrou from your service.
+The demon Hezrou transcends this world and enters another plane.
+The demon Hezrou stops following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:8 Exits:S> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:60 Exits:S> sta
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mT:59 Exits:S> cast 'gate' glab
+You utter the words, 'gate'
+You wave your hand, and the demon Glabrezu appears!
+The demon Glabrezu starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:55 Exits:S> 
+[36mPitli tells your clan 'coolu'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:54 Exits:S> s
+The demon Glabrezu arrives from the north.
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:51 Exits:NESW> e
+The demon Glabrezu arrives from the west.
+[36mAmongst Some Grain Fields[0;37m
+    The path leads through some grain fields to the north and south heads
+into a pine forest. Far off to the west you see some high, jagged cliffs.
+The breeze from the north brings the smell of salt and is damp. The grain
+fields spread out to the east as far as you can see.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:50 Exits:NSW> s
+The demon Glabrezu arrives from the north.
+[36mThe Thinning Forest[0;37m
+    The pine forest around you thins out to nothing to the north and you
+can see large fields of grain. The forest grows thicker to the south and
+the path leads into it. You can see a large lake off in the south and high
+jagged cliffs off to the west.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:49 Exits:NS> s
+The demon Glabrezu arrives from the north.
+[36mAlong the Shore of Crystalmir[0;37m
+    You are at the corner of a large lake, which fills your vision far to
+the west before ending at high, jagged cliffs. The forest of pine that this
+trail winds through thins out to the north and east, where large fields of
+grain can be seen. The pine-covered trail follows the shoreline to the
+south into thicker woods and north.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m126V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:49 Exits:NES> s
+The demon Glabrezu arrives from the north.
+[36mAlong the Shore of Crystalmir[0;37m
+    Weaving its way around a corner of the lake, this small trail runs
+between Crystalmir and a dense forest of pine. Lights filter through the
+thick pines to your southeast from the village of Solace, flickering from
+the many torches that light the roads there. The thick pines block any
+exits to the south or east, while to the north and west this trail
+continues along the lakeshore.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m124V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:48 Exits:NW> w
+The demon Glabrezu arrives from the east.
+[36mAlong the Shore of Crystalmir[0;37m
+    The narrow trail rounds a corner here to avoid running into Crystalmir
+Lake, which juts into the land at the north and stretches out far to the
+west. The sounds of night fill the air: the gentle hoot of an owl from the
+forest, the soft lap of the water against the lakeshore, and the rustle of
+small animals across the forest floor. You see this trail leads south
+along the shoreline into the darkness, and to the east where it rounds
+another bend of the lake.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m121V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:47 Exits:EW> w
+The demon Glabrezu arrives from the east.
+[36mAt the Edge of Crystalmir[0;37m
+    You find yourself along the shores of Crystalmir Lake, with the water
+stretching out to the north and west. You hear squirrels chattering to each
+other as they dart about through the thick forest of pine trees to the
+east. A small trail leads off to the south. To the north over a bridge
+across the lake is a small island with a pleasant mansion clearly visible.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m119V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:47 Exits:NES> n
+The demon Glabrezu arrives from the south.
+[36mOn a Bridge Crossing Lake Crystalmir[0;37m
+    With boughs harvested from the neighboring pine forests rather than the
+larger vallenwoods seen throughout Solace, this bridge is well constructed
+and sturdy. Large enough for passage of two wagons side by side, the bridge
+barely feels the affects of the wind and water. A dwelling can be seen off
+to north on a small island, nestled into a massive vallenwood tree. South
+of here lies the shores of lake Crystalmir.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m117V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:46 Exits:NS> n
+The demon Glabrezu arrives from the south.
+[36mBelow an Island Mansion[0;37m
+    Rising out of the shallows of the placid lake Crystalmir, this small
+island is barely separated from the main shore by a wide bridge to the
+south made of large pine boughs. Just above a large mansion is well
+positioned on the island. Built in the boughs of a vallenwood with siding
+of dark stained vallenwood planks this mansion has been built to mimic the
+architecture of nearby Solace.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m115V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:46 Exits:SU> u
+The demon Glabrezu arrives from below.
+[36mUnder a Large Rotunda[0;37m
+    An ornate wooden stairway has been erected under a large rotunda,
+climbing to the first level of the structure. A set of ornately flourished
+doors provide entry to the mansion. A carved ceiling in the shape
+of a dome is supported by large vallenwood beams and provides ample
+coverage to shield the stairway from the elements. Off to the south a
+bridge extends to the south shore of lake Crystalmir. A small pavilion has
+been erected to the west.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+<WILD> Namaka the Female Daergar Dwarf is standing here, fighting a mansion guard. (flying)
+A mercury golem, Pau, stands here, its body incessantly flowing.
+A mansion guard is standing here, fighting Namaka. (white aura)
+A mansion guard is standing here, fighting Namaka. (white aura)
+[0;37mA mansion guard stumbles and falls while trying to bash Namaka.
+A mansion guard spins and tries to kick Namaka, but Namaka dodges out of the way.
+
+[32m[0;37m[32m441H [0;37m[32m113V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:45 Exits:NEWD> e
+Namaka blocks a mansion guard's blow with an impressive parry.
+Namaka blocks a mansion guard's blow with an impressive parry.
+The demon Glabrezu arrives from the west.
+[36mThe Grand Foyer[0;37m
+    An architectural masterpiece, the grand foyer exudes opulence in every
+detail. Matthias spared no expense importing marble floors from the region
+around his native Palanthas. Lovely tapestries adorn the walls emblazoned
+with crests of Palanthinian nobility. A beautiful fresco plasters the
+ceiling depicting Huma's sacrifice in the third dragon war. Large stained
+glass windows checker the western wall casting colored shadows on the
+marble. Servants scurry to the north while the changing of the guard can be
+seen to the south. A large arch to the east leads further into the mansion.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+A mansion guard stands at attention. (white aura)
+A mansion guard stands at attention. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m112V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:44 Exits:NESW> n
+The demon Glabrezu arrives from the south.
+[36mA Hallway Leading to the Servant's Quarters[0;37m
+    The hallway leads north to the servant's quarters and south back into
+the foyer. Servants head in both directions performing the duties of the
+day and night. Although more austere than the remainder of the mansion the
+hallway still retains a sense of opulence with polished wood floors and
+crown mouldings.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m111V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:43 Exits:NS> n
+The demon Glabrezu arrives from the south.
+[36mServant's Quarters[0;37m
+    Matthias treats his servants as well as he treats his guests. A large
+room, amply apportioned with comfortable beds, reading chairs and tables,
+the servants quarters provide a great place to rest and relax. A large
+window on the western wall provides a partial view of the gardens. An
+additional large round window allows a view to the north including the lake
+as well as the surrounding forests and mountains.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m110V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:42 Exits:S> s
+The demon Glabrezu arrives from the north.
+[36mA Hallway Leading to the Servant's Quarters[0;37m
+    The hallway leads north to the servant's quarters and south back into
+the foyer. Servants head in both directions performing the duties of the
+day and night. Although more austere than the remainder of the mansion the
+hallway still retains a sense of opulence with polished wood floors and
+crown mouldings.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m109V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:41 Exits:NS> s
+The demon Glabrezu arrives from the north.
+[36mThe Grand Foyer[0;37m
+    An architectural masterpiece, the grand foyer exudes opulence in every
+detail. Matthias spared no expense importing marble floors from the region
+around his native Palanthas. Lovely tapestries adorn the walls emblazoned
+with crests of Palanthinian nobility. A beautiful fresco plasters the
+ceiling depicting Huma's sacrifice in the third dragon war. Large stained
+glass windows checker the western wall casting colored shadows on the
+marble. Servants scurry to the north while the changing of the guard can be
+seen to the south. A large arch to the east leads further into the mansion.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+A mansion guard stands at attention. (white aura)
+A mansion guard stands at attention. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m108V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:41 Exits:NESW> e
+The demon Glabrezu arrives from the west.
+[36mThe Main Hallway[0;37m
+    Connecting the foyer to the main living areas of the house, the hallway
+is wide with a high ceiling. This also serves as the hall of ancestry with
+both busts of Matthias' predecessors as well as many family portraits along
+the walls. The flooring retains the thick marble of the foyer, however, a
+velvet red carpet runs down the center of the hallway.
+[33m[1m[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+A dwarven mother stands here in a grumpy mood. (white aura)
+A young serving girl carries a tray to some part of the mansion. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:40 Exits:EW> 
+A young serving girl leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:37 Exits:EW> order demon kill mother
+The demon Glabrezu claws a dwarven mother hard.
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:35 Exits:EW> 
+The demon Glabrezu misses a dwarven mother with its claw.
+A dwarven mother misses the demon Glabrezu with her hit.
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:32 Exits:EW> 
+The demon Glabrezu claws a dwarven mother very hard.
+A dwarven mother misses the demon Glabrezu with her hit.
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:28 Exits:EW> 
+The demon Glabrezu claws a dwarven mother very hard.
+A dwarven mother misses the demon Glabrezu with her hit.
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:24 Exits:EW> 
+The demon Glabrezu claws a dwarven mother hard.
+A dwarven mother barely hits the demon Glabrezu.
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:20 Exits:EW> 
+The demon Glabrezu claws a dwarven mother hard.
+The demon Glabrezu gracefully steps aside as a dwarven mother attacks!
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:16 Exits:EW> 
+The demon Glabrezu claws a dwarven mother hard.
+A dwarven mother misses the demon Glabrezu with her hit.
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:2 T:12 Exits:EW> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m200001X 92.96% 16414C [0;37mMem:1 T:10 Exits:EW> 
+The demon Glabrezu claws a dwarven mother very hard.
+A dwarven mother is mortally wounded, and will die soon, if not aided.
+The demon Glabrezu obliterates a dwarven mother with its claw.
+You receive 19431 experience.
+A dwarven mother is dead! R.I.P.
+The death cry of a dwarven mother echoes from somewhere nearby...
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m180570X 92.96% 16414C [0;37mMem:1 T:8 Exits:EW> 
+
+[32m[0;37m[32m441H [0;37m[32m107V [0;37m180570X 92.96% 16414C [0;37mMem:1 T:2 Exits:EW> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mT:60 Exits:EW> 
+[36mPitli tells your clan 'be back in a few'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mT:57 Exits:EW> 
+[37mYour clanmate Pitli has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mT:56 Exits:EW> sta
+You stand up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mT:54 Exits:EW> l
+[36mThe Main Hallway[0;37m
+    Connecting the foyer to the main living areas of the house, the hallway
+is wide with a high ceiling. This also serves as the hall of ancestry with
+both busts of Matthias' predecessors as well as many family portraits along
+the walls. The flooring retains the thick marble of the foyer, however, a
+velvet red carpet runs down the center of the hallway.
+[33m[1mThe corpse of a dwarven mother is lying here.
+[0;37m[31m[1mThe dog-headed, four armed Demon Glabrezu is here, glaring around. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mT:53 Exits:EW> 
+[36mHaplo tells your clan 'c u'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mT:51 Exits:EW> release demon
+You release the demon Glabrezu from your service.
+The demon Glabrezu transcends this world and enters another plane.
+The demon Glabrezu stops following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mT:46 Exits:EW> 
+A young serving girl arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mT:43 Exits:EW> cast 'gate' hez
+You utter the words, 'gate'
+You wave your hand, and the demon Hezrou appears!
+The demon Hezrou starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mMem:2 T:36 Exits:EW> l
+[36mThe Main Hallway[0;37m
+    Connecting the foyer to the main living areas of the house, the hallway
+is wide with a high ceiling. This also serves as the hall of ancestry with
+both busts of Matthias' predecessors as well as many family portraits along
+the walls. The flooring retains the thick marble of the foyer, however, a
+velvet red carpet runs down the center of the hallway.
+[33m[1mThe corpse of a dwarven mother is lying here.
+[0;37m[31m[1mThe froglike Demon Hezrou is here, smelling very bad. (black aura)
+A young serving girl carries a tray to some part of the mansion. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mMem:2 T:32 Exits:EW> order demon kill girl
+The demon Hezrou bites a young serving girl hard.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mMem:2 T:29 Exits:EW> 
+The demon Hezrou bites a young serving girl hard.
+A young serving girl misses the demon Hezrou with her hit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m180570X 92.96% 16414C [0;37mMem:2 T:28 Exits:EW> 
+The demon Hezrou bites a young serving girl.
+A young serving girl barely hits YOU.
+
+[32m[0;37m[32m437H [0;37m[32m132V [0;37m180570X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:24 Exits:EW> 
+The demon Hezrou utters the words, 'cure serious'.
+
+[32m[0;37m[32m437H [0;37m[32m132V [0;37m180570X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:21 Exits:EW> 
+A young serving girl misses you with her hit.
+You miss a young serving girl with your hit.
+The demon Hezrou bites a young serving girl.
+
+[32m[0;37m[32m437H [0;37m[32m132V [0;37m180570X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:20 Exits:EW> order demon frenz
+
+[32m[0;37m[32m437H [0;37m[32m132V [0;37m180570X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:17 Exits:EW> 
+A young serving girl hits YOU.
+You bruise a young serving girl with your hit.
+The demon Hezrou bites a young serving girl hard.
+
+[32m[0;37m[32m429H [0;37m[32m132V [0;37m180537X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:16 Exits:EW> 
+A young serving girl misses you with her hit.
+You barely hit a young serving girl.
+The demon Hezrou bites a young serving girl.
+
+[32m[0;37m[32m429H [0;37m[32m132V [0;37m180493X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:12 Exits:EW> order demon frenz
+
+[32m[0;37m[32m429H [0;37m[32m132V [0;37m180493X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:12 Exits:EW> 
+A young serving girl hits YOU.
+You barely hit a young serving girl.
+The demon Hezrou bites a young serving girl hard.
+
+[32m[0;37m[32m421H [0;37m[32m132V [0;37m180449X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:8 Exits:EW> 
+[37mYour clanmate Hel has left the game.
+[0;37m
+[32m[0;37m[32m421H [0;37m[32m132V [0;37m180449X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:2 T:6 Exits:EW> 
+A young serving girl bruises YOU with her hit.
+You miss a young serving girl with your hit.
+The demon Hezrou bites a young serving girl hard.
+
+[32m[0;37m[32m419H [0;37m[32m132V [0;37m180449X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:4 Exits:EW> 
+The demon Hezrou utters some strange words.
+
+[32m[0;37m[32m419H [0;37m[32m132V [0;37m180449X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:3 Exits:EW> 
+[37mYour clanmate Eir has left the game.
+[0;37m
+[32m[0;37m[32m419H [0;37m[32m132V [0;37m180449X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:2 Exits:EW> wield maul
+You grab the maul with both hands.
+
+[32m[0;37m[32m419H [0;37m[32m132V [0;37m180449X 92.96% 16414C [Maui:[0;37m[32mV.Good[0;37m] [a young serving girl:[0;37m[31mAwful[0;37m] [0;37mMem:2 T:1 Exits:EW> 
+A young serving girl misses you with her hit.
+You crush a young serving girl very hard.
+The demon Hezrou bites a young serving girl very hard.
+You receive 9932 experience.
+A young serving girl is dead! R.I.P.
+The death cry of a young serving girl echoes from somewhere nearby...
+The demon Hezrou smiles as it finishes its meditation.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mMem:1 T:60 Exits:EW> k
+You have to type at least 'ki' to kill.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mMem:1 T:53 Exits:EW> 
+[36mHexen shouts 'anyoe need amplify spirits'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mMem:1 T:49 Exits:EW> release demon
+You release the demon Hezrou from your service.
+The demon Hezrou transcends this world and enters another plane.
+The demon Hezrou stops following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mMem:1 T:49 Exits:EW> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mT:60 Exits:EW> 
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mT:4 Exits:EW> 
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mT:3 Exits:EW> 
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mT:3 Exits:EW> 
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mT:2 Exits:EW> 
+The corpse of a dwarven mother decays into dust and blows away.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mT:60 Exits:EW> cast 'gate' mar
+You utter the words, 'gate'
+You wave your hand, and the demon Marilith appears!
+The demon Marilith starts following you.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mMem:2 T:55 Exits:EW> l
+[36mThe Main Hallway[0;37m
+    Connecting the foyer to the main living areas of the house, the hallway
+is wide with a high ceiling. This also serves as the hall of ancestry with
+both busts of Matthias' predecessors as well as many family portraits along
+the walls. The flooring retains the thick marble of the foyer, however, a
+velvet red carpet runs down the center of the hallway.
+[33m[1mA pile of steel coins.
+The corpse of a young serving girl is lying here.
+[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16414C [0;37mMem:2 T:51 Exits:EW> get coins
+You get a small pile of coins.
+There were 9 coins.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m170338X 92.96% 16423C [0;37mMem:2 T:48 Exits:EW> e
+The demon Marilith arrives from the west.
+[36mThe Main Hallway[0;37m
+    People dressed in festive clothing walk throughout the mansion.
+Children playing tag run past at extreme velocities. Servants scuttle to
+and from the south carrying serving platters. A large glass door to the
+north leads to a large splendid greenhouse and private garden. The hallway
+continues east and west.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+A young serving girl carries a tray to some part of the mansion. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m170338X 92.96% 16423C [0;37mMem:2 T:47 Exits:(N)ESW> 
+A young serving girl leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m170338X 92.96% 16423C [0;37mMem:2 T:43 Exits:(N)ESW> order demon kill girl
+
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m170338X 92.96% 16423C [0;37mMem:2 T:37 Exits:(N)ESW> e
+The demon Marilith arrives from the west.
+[36mThe End of the Hallway[0;37m
+    The large grandiose hallway turns to the south and leads to the upper
+floor. The hallway also continues to the west and the front of the mansion.
+The floor is an exquisite marble with a red velvet carpet running along the
+center. A large painting hangs on the eastern wall.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+A young serving girl carries a tray to some part of the mansion. (white aura)
+A young servant is standing here dusting. (white aura)
+A dwarven father keeps an eye on his family while touring the mansion. (white aura)
+[0;37mA dwarven father tries to punch you, but you deftly avoid his blow.
+
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m170338X 92.96% 16423C [Maui:[0;37m[32mPerfect[0;37m] [a dwarven father:[0;37m[32mPerfect[0;37m] [0;37mMem:2 T:32 Exits:SW> 
+A dwarven father hits YOU.
+You massacre a dwarven father with your crush.
+
+[32m[0;37m[32m432H [0;37m[32m130V [0;37m170030X 92.96% 16423C [Maui:[0;37m[32mV.Good[0;37m] [a dwarven father:[0;37m[33m[1mFair[0;37m] [0;37mMem:2 T:28 Exits:SW> order demon kill father
+The demon Marilith massacres a dwarven father with its slash.
+
+[32m[0;37m[32m432H [0;37m[32m130V [0;37m170030X 92.96% 16423C [Maui:[0;37m[32mV.Good[0;37m] [a dwarven father:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:28 Exits:SW> 
+You feel ribs crack as you are kicked in the chest by a dwarven father.
+
+[32m[0;37m[32m429H [0;37m[32m130V [0;37m170030X 92.96% 16423C [Maui:[0;37m[32mV.Good[0;37m] [a dwarven father:[0;37m[33m[1mBad[0;37m] [0;37mMem:2 T:27 Exits:SW> 
+The demon Marilith massacres a dwarven father with its slash.
+The demon Marilith pierces a dwarven father extremely hard.
+A dwarven father is incapacitated and will slowly die, if not aided.
+You obliterate a dwarven father with your crush.
+You receive 15241 experience.
+A dwarven father is dead! R.I.P.
+The death cry of a dwarven father echoes from somewhere nearby...
+
+[32m[0;37m[32m429H [0;37m[32m130V [0;37m154789X 92.96% 16423C [0;37mMem:2 T:24 Exits:SW> l
+[36mThe End of the Hallway[0;37m
+    The large grandiose hallway turns to the south and leads to the upper
+floor. The hallway also continues to the west and the front of the mansion.
+The floor is an exquisite marble with a red velvet carpet running along the
+center. A large painting hangs on the eastern wall.
+[33m[1mThe corpse of a dwarven father is lying here.
+[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+A young serving girl carries a tray to some part of the mansion. (white aura)
+A young servant is standing here dusting. (white aura)
+[0;37m
+[32m[0;37m[32m429H [0;37m[32m130V [0;37m154789X 92.96% 16423C [0;37mMem:2 T:22 Exits:SW> order demon kill girl
+The demon Marilith slashes a young serving girl extremely hard.
+
+[32m[0;37m[32m429H [0;37m[32m130V [0;37m154789X 92.96% 16423C [0;37mMem:2 T:18 Exits:SW> 
+The demon Marilith massacres a young serving girl with its slash.
+The demon Marilith pierces a young serving girl very hard.
+A young serving girl misses the demon Marilith with her hit.
+
+[32m[0;37m[32m429H [0;37m[32m130V [0;37m154789X 92.96% 16423C [0;37mMem:2 T:16 Exits:SW> 
+The demon Marilith slashes a young serving girl extremely hard.
+The demon Marilith pierces a young serving girl very hard.
+A young serving girl hits the demon Marilith.
+
+[32m[0;37m[32m429H [0;37m[32m130V [0;37m154789X 92.96% 16423C [0;37mMem:2 T:12 Exits:SW> 
+The demon Marilith utters some strange words.
+Shadows rise up to enshroud the demon Marilith in their billowing darkness.
+
+[32m[0;37m[32m429H [0;37m[32m130V [0;37m154789X 92.96% 16423C [0;37mMem:2 T:9 Exits:SW> 
+The demon Marilith massacres a young serving girl with its slash.
+A young serving girl is mortally wounded, and will die soon, if not aided.
+The demon Marilith annihilates a young serving girl with its pierce.
+You receive 9863 experience.
+A young serving girl is dead! R.I.P.
+The death cry of a young serving girl echoes from somewhere nearby...
+
+[32m[0;37m[32m429H [0;37m[32m130V [0;37m144926X 92.96% 16423C [0;37mMem:2 T:8 Exits:SW> l
+[36mThe End of the Hallway[0;37m
+    The large grandiose hallway turns to the south and leads to the upper
+floor. The hallway also continues to the west and the front of the mansion.
+The floor is an exquisite marble with a red velvet carpet running along the
+center. A large painting hangs on the eastern wall.
+[33m[1mThe corpse of a young serving girl is lying here.
+The corpse of a dwarven father is lying here.
+[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+A young servant is standing here dusting. (white aura)
+[0;37m
+[32m[0;37m[32m429H [0;37m[32m130V [0;37m144926X 92.96% 16423C [0;37mMem:2 T:4 Exits:SW> 
+The demon Marilith closes its prayerbook with a content look on its face.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m144926X 92.96% 16423C [0;37mMem:1 T:60 Exits:SW> order demon kill servant
+The demon Marilith connects with a precision thrust, wounding a young servant severely.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m144926X 92.96% 16423C [0;37mMem:1 T:60 Exits:SW> 
+The demon Marilith massacres a young servant with its slash.
+The demon Marilith pierces a young servant very hard.
+A young servant misses the demon Marilith with her hit.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m144926X 92.96% 16423C [0;37mMem:1 T:56 Exits:SW> 
+The demon Marilith massacres a young servant with its slash.
+The demon Marilith pierces a young servant very hard.
+A young servant is incapacitated and will slowly die, if not aided.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m144926X 92.96% 16423C [0;37mMem:1 T:52 Exits:SW> 
+The demon Marilith looks distracted and fails to concentrate through a spell cast.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m144926X 92.96% 16423C [0;37mMem:1 T:51 Exits:SW> 
+The demon Marilith obliterates a young servant with its slash.
+You receive 15406 experience.
+A young servant is dead! R.I.P.
+The death cry of a young servant echoes from somewhere nearby...
+A spirit rises from the body of a young servant.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:48 Exits:SW> l
+[36mThe End of the Hallway[0;37m
+    The large grandiose hallway turns to the south and leads to the upper
+floor. The hallway also continues to the west and the front of the mansion.
+The floor is an exquisite marble with a red velvet carpet running along the
+center. A large painting hangs on the eastern wall.
+[33m[1mThe corpse of a young servant is lying here.
+The corpse of a young serving girl is lying here.
+The corpse of a dwarven father is lying here.
+[0;37m[31m[1m[37m[1mThe spirit of a young servant is hovering here.
+[31mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:45 Exits:SW> w
+The demon Marilith arrives from the east.
+[36mThe Main Hallway[0;37m
+    People dressed in festive clothing walk throughout the mansion.
+Children playing tag run past at extreme velocities. Servants scuttle to
+and from the south carrying serving platters. A large glass door to the
+north leads to a large splendid greenhouse and private garden. The hallway
+continues east and west.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:43 Exits:(N)ESW> w
+The demon Marilith arrives from the east.
+[36mThe Main Hallway[0;37m
+    Connecting the foyer to the main living areas of the house, the hallway
+is wide with a high ceiling. This also serves as the hall of ancestry with
+both busts of Matthias' predecessors as well as many family portraits along
+the walls. The flooring retains the thick marble of the foyer, however, a
+velvet red carpet runs down the center of the hallway.
+[33m[1mA pile of steel coins.
+[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:37 Exits:EW> w
+The demon Marilith arrives from the east.
+[36mThe Grand Foyer[0;37m
+    An architectural masterpiece, the grand foyer exudes opulence in every
+detail. Matthias spared no expense importing marble floors from the region
+around his native Palanthas. Lovely tapestries adorn the walls emblazoned
+with crests of Palanthinian nobility. A beautiful fresco plasters the
+ceiling depicting Huma's sacrifice in the third dragon war. Large stained
+glass windows checker the western wall casting colored shadows on the
+marble. Servants scurry to the north while the changing of the guard can be
+seen to the south. A large arch to the east leads further into the mansion.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+A mansion guard stands at attention. (white aura)
+A mansion guard stands at attention. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:36 Exits:NESW> w
+The demon Marilith arrives from the east.
+[36mUnder a Large Rotunda[0;37m
+    An ornate wooden stairway has been erected under a large rotunda,
+climbing to the first level of the structure. A set of ornately flourished
+doors provide entry to the mansion. A carved ceiling in the shape
+of a dome is supported by large vallenwood beams and provides ample
+coverage to shield the stairway from the elements. Off to the south a
+bridge extends to the south shore of lake Crystalmir. A small pavilion has
+been erected to the west.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+<WILD> Namaka the Female Daergar Dwarf is standing here, fighting a mansion guard. (flying)
+A mercury golem, Pau, stands here, its body incessantly flowing.
+A mansion guard is standing here, fighting Namaka. (white aura)
+A mansion guard is standing here, fighting Namaka. (white aura)
+[0;37mA mansion guard gives Namaka a solid punch in the face.
+
+[32m[0;37m[32m441H [0;37m[32m128V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:35 Exits:NEWD> d
+The demon Marilith arrives from above.
+[36mBelow an Island Mansion[0;37m
+    Rising out of the shallows of the placid lake Crystalmir, this small
+island is barely separated from the main shore by a wide bridge to the
+south made of large pine boughs. Just above a large mansion is well
+positioned on the island. Built in the boughs of a vallenwood with siding
+of dark stained vallenwood planks this mansion has been built to mimic the
+architecture of nearby Solace.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m126V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:35 Exits:SU> s
+The demon Marilith arrives from the north.
+[36mOn a Bridge Crossing Lake Crystalmir[0;37m
+    With boughs harvested from the neighboring pine forests rather than the
+larger vallenwoods seen throughout Solace, this bridge is well constructed
+and sturdy. Large enough for passage of two wagons side by side, the bridge
+barely feels the affects of the wind and water. A dwelling can be seen off
+to north on a small island, nestled into a massive vallenwood tree. South
+of here lies the shores of lake Crystalmir.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m124V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:33 Exits:NS> s
+The demon Marilith arrives from the north.
+[36mAt the Edge of Crystalmir[0;37m
+    You find yourself along the shores of Crystalmir Lake, with the water
+stretching out to the north and west. You hear squirrels chattering to each
+other as they dart about through the thick forest of pine trees to the
+east. A small trail leads off to the south. To the north over a bridge
+across the lake is a small island with a pleasant mansion clearly visible.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m122V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:32 Exits:NES> e
+The demon Marilith arrives from the west.
+[36mAlong the Shore of Crystalmir Lake[0;37m
+    The narrow trail rounds a corner here to avoid running into Crystalmir
+Lake, which juts into the land at the north and stretches out far to the
+west. The sun glints off the water, which ripples slightly as a pleasant
+wind blows across it. Nattering squirrels can be heard in the forest of
+pine stretching out to the southeast, beyond which the sounds of
+civilization rise from the village of Solace. As the trail follows the
+curve of the lake it heads south along the shoreline, and to the east where
+it rounds another bend.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m120V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:30 Exits:EW> e
+The demon Marilith arrives from the west.
+[36mAlong the Shore of Crystalmir[0;37m
+    Weaving its way around a corner of the lake, this small trail runs
+between Crystalmir and a dense forest of pine. Squirrels chatter as they
+dart from tree to tree in a frenetic chase, startling a red-headed
+woodpecker into flight. The sunlight trickles through the forest of dense
+evergreens, which cover the ground to the south and east. To the north and
+west the sandy trail continues along the shoreline.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+A cuddly bunny hops around here looking for something.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m117V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:30 Exits:NW> n
+The demon Marilith arrives from the south.
+[36mAlong the Shore of Crystalmir[0;37m
+    You are at the corner of a large lake, which fills your vision far to
+the west before ending at high, jagged cliffs. The forest of pine that this
+trail winds through thins out to the north and east, where large fields of
+grain can be seen. The pine-covered trail follows the shoreline to the
+south into thicker woods and north.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m115V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:30 Exits:NES> n
+The demon Marilith arrives from the south.
+[36mThe Thinning Forest[0;37m
+    The pine forest around you thins out to nothing to the north and you
+can see large fields of grain. The forest grows thicker to the south and
+the path leads into it. You can see a large lake off in the south and high
+jagged cliffs off to the west.
+[33m[1m[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m113V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:29 Exits:NS> n
+The demon Marilith arrives from the south.
+[36mAmongst Some Grain Fields[0;37m
+    The path leads through some grain fields to the north and south heads
+into a pine forest. Far off to the west you see some high, jagged cliffs.
+The breeze from the north brings the smell of salt and is damp. The grain
+fields spread out to the east as far as you can see.
+[33m[1mA wooden sign has been nailed to a tree here.
+[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m111V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:29 Exits:NSW> w
+The demon Marilith arrives from the east.
+[35mThe City Portal of Myth[0;37m
+    You stand in a high-domed room with a black marble floor. At its center,
+stairs lead up to a circular pedestal with a massive portal framed by shiny
+bronze beams. The surface of the portal swirls slowly in a hypnotic pattern,
+inviting you to touch it.
+[33m[1mA large multicolored portal hovers near one wall of the room...it glows dimly
+[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m110V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:28 Exits:NESW> w
+The demon Marilith arrives from the east.
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m109V [0;37m129520X 92.96% 16423C [0;37mMem:1 T:25 Exits:EWU> 
+The demon Marilith closes its prayerbook with a content look on its face.
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:60 Exits:EWU> help spell nightvision
+Spell    : Nightvision
+Sphere   : Alteration
+Usage    : cast 'nightvision'
+Duration : 1 day
+Effects  : Caster can see in the dark
+
+Nightvision is a more improved infravision except that everything in the
+room can be seen.  However, magical darkness hampers this ability.
+
+Details:
+- Utility spell which grants NIGHTVISION.
+- May be recast to extend duration.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:37 Exits:EWU> 
+[37mYour clanmate Pitli has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:14 Exits:EWU> 
+[36mPitli tells your clan 'hail'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:11 Exits:EWU> 
+[36mHaplo tells your clan 'hail'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:4 Exits:EWU> 
+Pitli flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:2 Exits:EWU> 
+Pitli flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:1 Exits:EWU> 
+[37mYour clanmate Ugrid has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:60 Exits:EWU> 
+[36mPriya tells your clan 'hi'
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:57 Exits:EWU> l
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1mThe Demon Marilith is here, writhing its snake-like tail. (black aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:45 Exits:EWU> 
+Rasenth flies in from above.
+Gromski flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:44 Exits:EWU> 
+Rasenth quaffs a clear potion of invisibility.
+The liquid is barely down his throat and he starts to fade.
+Rasenth slowly fades out of sight.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:43 Exits:EWU> 
+Gromski flies east.
+Rasenth flies east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:42 Exits:EWU> release demon
+You release the demon Marilith from your service.
+The demon Marilith transcends this world and enters another plane.
+The demon Marilith stops following you.
+A demonic long sword disintegrates.
+A demonic short sword disintegrates.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:21 Exits:EWU> l
+[35mThe Halls of Myth[0;37m
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+[33m[1mA clan fountain is here.
+[0;37m[31m[1m[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m129520X 92.96% 16423C [0;37mT:20 Exits:EWU> u
+[35mThe Inn of Myth[0;37m
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+[33m[1mA mithril hammer is lying on the ground...it emits an arcane glow..it hums softly
+A silver key lies here. [2]
+A scribed scroll lies here discarded...it emits an arcane glow
+[0;37m[31m[1m<Myth> Ishbahar the Male Irda is standing here. (flying) (white aura)
+The stronghold receptionist is here, showing clan members to their rooms.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m129520X 92.96% 16423C [0;37mT:19 Exits:D> offer
+[33m[1m   a bishop's moonstone engraved seal (C2+ CLERIC FINGER) : 153 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring (B4+ CLERIC FINGER) : 135 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar (C2+ CASTER NECK) : 153 coins/day
+[0;37m[33m[1m                a black and gold cape : 252 coins/day
+[0;37m[33m[1m      a devotee's chasuble (D2 CLERIC BODY) of worship : 324 coins/day
+[0;37m[33m[1m a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism : 378 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship (D3+ CLERIC LEGS) : 297 coins/day
+[0;37m[33m[1m  some dignified hand wraps of fervor (C3+ CLERIC HANDS) : 171 coins/day
+[0;37m[33m[1m    some sacred armwraps of sacrifice (C3+ CLERIC ARMS) : 189 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 45 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 9 coins/day
+[0;37m[33m[1m                   a pineal gland [2] : 2 coins/day
+[0;37m[33m[1ma few strands of finely woven hemp [2] : 2 coins/day
+[0;37m[33m[1m              a magnetized needle [5] : 5 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [5] : 10 coins/day
+[0;37m[33m[1m            some rotten skunk cabbage : 0 coins/day
+[0;37m[33m[1m                      a sprig of pine : 1 coin/day
+[0;37m[33m[1m            a deformed crow's leg [5] : 5 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 2 coins/day
+[0;37m[33m[1m        a deep violet dragon tear [2] : 2 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 1 coin/day
+[0;37m[33m[1m                    a dead gypsy moth : 1 coin/day
+[0;37m[33m[1m     a lock of a siren's emerald hair : 2 coins/day
+[0;37m[33m[1m                        a myconid cap : 0 coins/day
+[0;37m[33m[1m            a gleaming silver die [2] : 2 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 4 coins/day
+[0;37m[33m[1m              a miniature golden lyre : 1 coin/day
+[0;37m[33m[1m                  a tuft of skunk fur : 2 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 2 coins/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 2 coins/day
+[0;37m[33m[1m              shimmering faerie wings : 4 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 4 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 2 coins/day
+[0;37m[33m[1m              some bitten fingernails : 1 coin/day
+[0;37m[33m[1m                      a bit of fleece : 2 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 2 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 0 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 0 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 1 coin/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 0 coins/day
+[0;37m[33m[1m            a tiny bronze weathervane : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m[1m                    some spruce seeds : 0 coins/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 2 coins/day
+[0;37m[33m[1m             a small block of granite : 1 coin/day
+[0;37m[33m[1m             a small flask of bitumen : 2 coins/day
+[0;37m[33m[1m               a small flask of smoke : 2 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 2 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 0 coins/day
+[0;37m[33m[1m                a flattened lead disc : 2 coins/day
+[0;37m[33m[1m                a glass lightning jar : 0 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 1 coin/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[33m[1m              a jar of dark red blood : 4 coins/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 2 coins/day
+[0;37m[33m[1m                   a bag of fluff [2] : 4 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 1 coin/day
+[0;37m[33m[1m                    a bottled firefly : 0 coins/day
+[0;37m[33m[1m                 a chipped stone dart : 0 coins/day
+[0;37m[33m[1m              a chiseled granite fist : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 1 coin/day
+[0;37m[33m[1m           a fiery red austere bracer (B1+ CASTER WRIST) : 108 coins/day
+[0;37m[33m[1m            an enormous scorched maul : 225 coins/day
+[0;37m[33m          a piece of sweet bread [18] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 65 coins/day
+[0;37m[33m           a glowing scroll of recall : 4 coins/day
+[0;37m[33m                  a hand-held sundial : 1 coin/day
+[0;37m[33m         a magnificent slender rapier : 270 coins/day
+[0;37m[33m  a milky potion of see invisible [3] : 39 coins/day
+[0;37m[33m     a pair of dwarven mason's gloves : 1728 coins/day
+[0;37m[33m        a pinch of powdered malachite : 72 coins/day
+[0;37m[33m               a small flask of smoke : 2 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m              a hand-held sundial [3] : 3 coins/day
+[0;37m[32m                   a basilisk eyelash : 2 coins/day
+[0;37m[32m                 a bit of blue litmus : 1 coin/day
+[0;37m[32m                a bit of brain tissue : 1 coin/day
+[0;37m[32m                    a bottled firefly : 0 coins/day
+[0;37m[32m             a broken gnomish compass : 4 coins/day
+[0;37m[32m           a broken piece of a mirror : 0 coins/day
+[0;37m[32m         a chromatic crystalline bead : 4 coins/day
+[0;37m[32ma dram of giant slug digestive acid [2] : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[32m            a featureless pewter doll : 0 coins/day
+[0;37m[32m                        a forked twig : 0 coins/day
+[0;37m[32m                       a garlic clove : 0 coins/day
+[0;37m[32m                  a golden nugget [2] : 2 coins/day
+[0;37m[32m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[32m  a leather pouch of vampire dust [3] : 3 coins/day
+[0;37m[32m                a meteor fragment [2] : 4 coins/day
+[0;37m[32m  a miniscule cedar picture frame [2] : 4 coins/day
+[0;37m[32m             a mummified bullfrog leg : 2 coins/day
+[0;37m[32m        a murky vial of squid ink [2] : 4 coins/day
+[0;37m[32m   a patch of phosphorescent moss [2] : 2 coins/day
+[0;37m[32m    a patch of poisonous crimson moss : 1 coin/day
+[0;37m[32m             a pearly white moonstone : 1 coin/day
+[0;37m[32m       a piece of broken pond ice [2] : 4 coins/day
+[0;37m[32m                       a pineal gland : 1 coin/day
+[0;37m[32m         a powerfully blessed bandage : 0 coins/day
+[0;37m[32m                           a rose bud : 0 coins/day
+[0;37m[32m       a small chunk of licorice root : 0 coins/day
+[0;37m[32m           a small flask of smoke [2] : 4 coins/day
+[0;37m[32m         a small spherical lode stone : 2 coins/day
+[0;37m[32m          a small vial of quicksilver : 4 coins/day
+[0;37m[32m                 a smear of green mud : 1 coin/day
+[0;37m[32m             a smooth blank runestone : 0 coins/day
+[0;37m[32m        a sparkling green emerald [2] : 4 coins/day
+[0;37m[32m           a sphagnum peat moss patch : 2 coins/day
+[0;37m[32m                 a sprig of spearmint : 2 coins/day
+[0;37m[32ma thin slate of polished obsidian [2] : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 4 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 2 coins/day
+[0;37m[32m           a vial of spinal fluid [3] : 6 coins/day
+[0;37m[32m                    a vial of vinegar : 1 coin/day
+[0;37m[32m               a wand of invisibility : 180 coins/day
+[0;37m[32m                         an aeolipile : 1 coin/day
+[0;37m[32mdirt from a long forgotten grave [20] : 0 coins/day
+[0;37m[32m             powdered bull's horn [2] : 2 coins/day
+[0;37m[32m       some coarsely ground fire ants (COMP ABJ *19) : 1 coin/day
+[0;37m[32m               some leaves of hemlock : 1 coin/day
+[0;37m[32m                      some poison ivy : 1 coin/day
+[0;37m[32m                 some rose petals [3] : 3 coins/day
+[0;37m[33m                 a sprig of spearmint : 2 coins/day
+[0;37m[33m                      a waterskin [4] : 0 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m                         an ice spear : 900 coins/day
+[0;37m[33m          filaments of volcanic glass : 2 coins/day
+[0;37m[33m                the tail of a phoenix : 4 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 5888 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 13 days.'
+
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m129520X 92.96% 16423C [0;37mT:6 Exits:D> rent
+[33m[1m   a bishop's moonstone engraved seal (C2+ CLERIC FINGER) : 153 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring (B4+ CLERIC FINGER) : 135 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar (C2+ CASTER NECK) : 153 coins/day
+[0;37m[33m[1m                a black and gold cape : 252 coins/day
+[0;37m[33m[1m      a devotee's chasuble (D2 CLERIC BODY) of worship : 324 coins/day
+[0;37m[33m[1m a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism : 378 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship (D3+ CLERIC LEGS) : 297 coins/day
+[0;37m[33m[1m  some dignified hand wraps of fervor (C3+ CLERIC HANDS) : 171 coins/day
+[0;37m[33m[1m    some sacred armwraps of sacrifice (C3+ CLERIC ARMS) : 189 coins/day
+[0;37m[33m[1m               an iron dwarven girdle : 45 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 9 coins/day
+[0;37m[33m[1m                   a pineal gland [2] : 2 coins/day
+[0;37m[33m[1ma few strands of finely woven hemp [2] : 2 coins/day
+[0;37m[33m[1m              a magnetized needle [5] : 5 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [5] : 10 coins/day
+[0;37m[33m[1m            some rotten skunk cabbage : 0 coins/day
+[0;37m[33m[1m                      a sprig of pine : 1 coin/day
+[0;37m[33m[1m            a deformed crow's leg [5] : 5 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 2 coins/day
+[0;37m[33m[1m        a deep violet dragon tear [2] : 2 coins/day
+[0;37m[33m[1ma small pink and red swirled conch shell : 1 coin/day
+[0;37m[33m[1m                    a dead gypsy moth : 1 coin/day
+[0;37m[33m[1m     a lock of a siren's emerald hair : 2 coins/day
+[0;37m[33m[1m                        a myconid cap : 0 coins/day
+[0;37m[33m[1m            a gleaming silver die [2] : 2 coins/day
+[0;37m[33m[1m       an intricately carved horn [2] : 4 coins/day
+[0;37m[33m[1m              a miniature golden lyre : 1 coin/day
+[0;37m[33m[1m                  a tuft of skunk fur : 2 coins/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 2 coins/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 2 coins/day
+[0;37m[33m[1m              shimmering faerie wings : 4 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 4 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 2 coins/day
+[0;37m[33m[1m              some bitten fingernails : 1 coin/day
+[0;37m[33m[1m                      a bit of fleece : 2 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 2 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [19] : 0 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 0 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 1 coin/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 0 coins/day
+[0;37m[33m[1m            a tiny bronze weathervane : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m[1m                    some spruce seeds : 0 coins/day
+[0;37m[33m[1m       a pinch of powdered silver [2] : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 2 coins/day
+[0;37m[33m[1m             a small block of granite : 1 coin/day
+[0;37m[33m[1m             a small flask of bitumen : 2 coins/day
+[0;37m[33m[1m               a small flask of smoke : 2 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 2 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 0 coins/day
+[0;37m[33m[1m                a flattened lead disc : 2 coins/day
+[0;37m[33m[1m                a glass lightning jar : 0 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 1 coin/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[33m[1m              a jar of dark red blood : 4 coins/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 2 coins/day
+[0;37m[33m[1m                   a bag of fluff [2] : 4 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 1 coin/day
+[0;37m[33m[1m                    a bottled firefly : 0 coins/day
+[0;37m[33m[1m                 a chipped stone dart : 0 coins/day
+[0;37m[33m[1m              a chiseled granite fist : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 1 coin/day
+[0;37m[33m[1m           a fiery red austere bracer (B1+ CASTER WRIST) : 108 coins/day
+[0;37m[33m[1m            an enormous scorched maul : 225 coins/day
+[0;37m[33m          a piece of sweet bread [18] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [5] : 65 coins/day
+[0;37m[33m           a glowing scroll of recall : 4 coins/day
+[0;37m[33m                  a hand-held sundial : 1 coin/day
+[0;37m[33m         a magnificent slender rapier : 270 coins/day
+[0;37m[33m  a milky potion of see invisible [3] : 39 coins/day
+[0;37m[33m     a pair of dwarven mason's gloves : 1728 coins/day
+[0;37m[33m        a pinch of powdered malachite : 72 coins/day
+[0;37m[33m               a small flask of smoke : 2 coins/day
+[0;37m[33m                 a small wooden chest : 0 coins/day
+[0;37m[32m              a hand-held sundial [3] : 3 coins/day
+[0;37m[32m                   a basilisk eyelash : 2 coins/day
+[0;37m[32m                 a bit of blue litmus : 1 coin/day
+[0;37m[32m                a bit of brain tissue : 1 coin/day
+[0;37m[32m                    a bottled firefly : 0 coins/day
+[0;37m[32m             a broken gnomish compass : 4 coins/day
+[0;37m[32m           a broken piece of a mirror : 0 coins/day
+[0;37m[32m         a chromatic crystalline bead : 4 coins/day
+[0;37m[32ma dram of giant slug digestive acid [2] : 2 coins/day
+
+ [return for more, q to stop]
+[0;37m[32m            a featureless pewter doll : 0 coins/day
+[0;37m[32m                        a forked twig : 0 coins/day
+[0;37m[32m                       a garlic clove : 0 coins/day
+[0;37m[32m                  a golden nugget [2] : 2 coins/day
+[0;37m[32m       a handful of roasted chestnuts : 0 coins/day
+[0;37m[32m  a leather pouch of vampire dust [3] : 3 coins/day
+[0;37m[32m                a meteor fragment [2] : 4 coins/day
+[0;37m[32m  a miniscule cedar picture frame [2] : 4 coins/day
+[0;37m[32m             a mummified bullfrog leg : 2 coins/day
+[0;37m[32m        a murky vial of squid ink [2] : 4 coins/day
+[0;37m[32m   a patch of phosphorescent moss [2] : 2 coins/day
+[0;37m[32m    a patch of poisonous crimson moss : 1 coin/day
+[0;37m[32m             a pearly white moonstone : 1 coin/day
+[0;37m[32m       a piece of broken pond ice [2] : 4 coins/day
+[0;37m[32m                       a pineal gland : 1 coin/day
+[0;37m[32m         a powerfully blessed bandage : 0 coins/day
+[0;37m[32m                           a rose bud : 0 coins/day
+[0;37m[32m       a small chunk of licorice root : 0 coins/day
+[0;37m[32m           a small flask of smoke [2] : 4 coins/day
+[0;37m[32m         a small spherical lode stone : 2 coins/day
+[0;37m[32m          a small vial of quicksilver : 4 coins/day
+[0;37m[32m                 a smear of green mud : 1 coin/day
+[0;37m[32m             a smooth blank runestone : 0 coins/day
+[0;37m[32m        a sparkling green emerald [2] : 4 coins/day
+[0;37m[32m           a sphagnum peat moss patch : 2 coins/day
+[0;37m[32m                 a sprig of spearmint : 2 coins/day
+[0;37m[32ma thin slate of polished obsidian [2] : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 4 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 2 coins/day
+[0;37m[32m           a vial of spinal fluid [3] : 6 coins/day
+[0;37m[32m                    a vial of vinegar : 1 coin/day
+[0;37m[32m               a wand of invisibility : 180 coins/day
+[0;37m[32m                         an aeolipile : 1 coin/day
+[0;37m[32mdirt from a long forgotten grave [20] : 0 coins/day
+[0;37m[32m             powdered bull's horn [2] : 2 coins/day
+[0;37m[32m       some coarsely ground fire ants (COMP ABJ *19) : 1 coin/day
+[0;37m[32m               some leaves of hemlock : 1 coin/day
+[0;37m[32m                      some poison ivy : 1 coin/day
+[0;37m[32m                 some rose petals [3] : 3 coins/day
+[0;37m[33m                 a sprig of spearmint : 2 coins/day
+[0;37m[33m                      a waterskin [4] : 0 coins/day
+
+ [return for more, q to stop]
+[0;37m[33m                         an ice spear : 900 coins/day
+[0;37m[33m          filaments of volcanic glass : 2 coins/day
+[0;37m[33m                the tail of a phoenix : 4 coins/day
+[0;37mThe stronghold receptionist tells you 'You need at least 5888 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 13 days.'
+The stronghold receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 0
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

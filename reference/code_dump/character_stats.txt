@@ -1,0 +1,29 @@
+Races    Str  Dex  Int  Wis  Con  Cha  Specials
+Human    1    1    1    1    1    1           regen_factor 50
+HalfE    1    3    1    1    1    1    infra, regen_factor 25
+Silv    -1    3    5    1    0    0    infra, imm_sleep, learn 15
+Qual    -1    3    1    5    0    0    infra, healing_factor 5
+Kago     3    4   -1    0    1    1    infra, move_regen 15
+Dargo    4    5    3   -1    1    0    infra, wb, water_fa, dodge 2, saves -1
+Hylar    3   -2   -1    1    5    0    infra, spell_save -1
+Hill     0   -1    1    5    3    0    infra, conc_factor 10
+Thie     0    5    5    2   -1    0    infra, crit_score 200, spell_crit 1
+Gully    2    2   -2    2    5    3    infra, imm_disease, res_breath 15, saves -1
+Kender   1    7    0    2    1   -1    infra, imm_fear, dodge 4
+Gnome   -3    2    7    1   -3    0    infra, det_magic, spell_dam_factor 3
+Gob      1    4   -1   -1    3    3    infra, det_poison, regen_factor 17
+Mino     8   -3   -1    0    2    0           spell_save -1
+Irda     1    3    1    4    2    2    infra, nocharm, saves -1
+HalfO    6    0    1    1    4    2    damage_factor 3
+-
+Class   Str   Dex   Int    Wis    Con    Cha
+Cleric  12    13    15     16     14     14
+Druid   12    13    15     16     13     14
+Warr    16    14    13     13     15     15
+Pala    15    12    12     15     16     15
+Thief   14    16    13     14     14     15
+DK      16    12    12     15     15     15
+Barb    15    14    12     13     17     14
+Mage    12    14    16     15     12     15
+Scout   15    16    14     13     14     13
+Sha     14    12    15     14     14     16

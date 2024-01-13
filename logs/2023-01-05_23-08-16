@@ -1,0 +1,3466 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+You were last connected Fri Jan 06 05:58:17 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 51 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA pile of worn maps sits in the corner, free to adventurers.
+A grotesque rat tail of unusual size lays here.
+A bright dragonscale-adorned shield rests here...it emits an arcane glow..it glows dimly
+[0;37m[31m[1mA beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m432H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:4 Exits:D> 
+An unusually large rat tail decays into dust and blows away.
+[36mYimbo tells your clan 'oh right on thanks'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:D> in
+You are carrying:
+a wrist lantern [2]
+a bright ball of light..it glows dimly [3]
+a glowing scroll of recall..it emits an arcane glow..it glows dimly [4]
+a small wooden chest
+a wand of invisibility..it emits an arcane glow
+a wrist lantern [3]
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:D> d
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m10441288X 74.83% 4918C [0;37mT:55 Exits:NWU> n
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mAssorted keys dangle from an iron loop here. [2]
+The jailer's keys have been left here.
+A small functional hammer sits here, waiting to be used.
+[0;37m[31m[1mA merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NESW> list
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Hatchet             352 [38;5;177ma balanced spiked hatchet[0;37m
+  3. Jerkin              121 [38;5;225ma bandit's leather jerkin of trickery[0;37m
+  4. Bardiche            132 a bardiche with a silver half moon blade
+  5. Shield              440 a black granite shield
+  6. Raith               166 a black ice raith
+  7. Ring                275 a black ice ring
+  8. Shield              220 a black ice shield
+  9. Pearl               110 a black pearl
+ 10. Robe                 88 a black priest's robe
+ 11. Staff               551 a black wood staff
+ 12. Shield              275 a blood red adamantite shield
+ 13. Sceptre             330 a blue and green nephaline sceptre
+ 14. Ring                275 a blue nephaline ring
+ 15. Bullwhip            363 a bone spiked bullwhip
+ 16. Leaves               88 a bundle of colourful leaves
+ 17. Cloak               220 a burned black cloak
+ 18. Charm               286 [38;5;225ma burnished nephrite charm[0;37m
+ 19. Staff               121 [38;5;225ma carved battle staff[0;37m
+ 20. Plate               110 a ceremonial breast plate
+ 21. Shirt               110 a chain shirt of darkness
+ 22. Knife               269 [38;5;183ma charred jagged green knife[0;37m
+ 23. Ring                330 [38;5;153ma clear crystal ring[0;37m
+ 24. Sphere               55 a clear sphere
+ 25. Lance               275 a crimson steel lance
+ 26. Helmet              330 [38;5;153ma crystal clear helmet[0;37m
+ 27. Rod                 302 [38;5;225ma crystal opal inlaid rod[0;37m
+ 28. Tunic                88 a dark blue tunic
+ 29. Medallion           110 a dark electrum medallion
+ 30. Robe                 97 a dark interrogator's robe
+ 31. Shroud               82 a dark purple burial shroud
+ 32. Shield              110 a dark shield
+ 33. Sword               550 a dark short sword
+ 34. Dagger              154 a dark silver dagger
+ 35. Shortsword          236 [38;5;183ma decorative hooked shortsword[0;37m
+ 36. Staff               770 [38;5;214ma demonic bone staff[0;37m
+ 37. Necklace            165 a dinosaur tooth necklace
+ 38. Ring                220 a dolphin bone ring
+ 39. Sword               165 a dwarven long sword
+ 40. Spear               220 a fishing spear
+ 41. Necklace            165 a gold and ruby necklace
+
+ [return for more, q to stop]
+ 42. Sash                 44 a gold sash
+ 43. Shield              440 a grandiose shield of black steel
+ 44. Sword               385 a granite sword
+ 45. Jerkin               27 [38;5;153ma green leather jerkin[0;37m
+ 46. Mask                 66 a grey leather mask
+ 47. Morion              236 [38;5;183ma griffon-feathered morion of rage[0;37m
+ 48. Hammer              231 a heavily charred blacksmith's hammer
+ 49. Hammer               55 a heavy smithing hammer
+ 50. Mace                236 [38;5;183ma heavy spiked mace[0;37m
+ 51. Sword               302 a heavy steel broadsword
+ 52. Ring                154 a hermit's ring
+ 53. Broadaxe            253 [38;5;225ma jagged sharpened broadaxe[0;37m
+ 54. Necklace            110 a large bead necklace
+ 55. Hammer              220 a large golden hammer
+ 56. Foil                198 a leather handled foil
+ 57. Flail                85 a long brass chain flail
+ 58. Pike                275 a long steel elven pike
+ 59. Sword              1100 a massive black rune-covered sword
+ 60. Sword               330 a massive glowing broadsword
+ 61. Medallion            55 a medallion of the moon
+ 62. Sleeves             165 a pair of black leather sleeves
+ 63. Pants               165 a pair of black satin pants
+ 64. Boots               110 a pair of black steel plated boots
+ 65. Gloves              110 a pair of blue gloves
+ 66. Boots                71 a pair of dark black boots
+ 67. Earrings            330 a pair of delicate apatite earrings
+ 68. Greaves             220 a pair of ebony greaves
+ 69. Boots               275 a pair of fine metal boots
+ 70. Armbands            275 a pair of thick green leather armbands
+ 71. Armbands            154 a pair of white feathered armbands
+ 72. Shirt               132 [38;5;225ma pilgrim's shirt of praise[0;37m
+ 73. Ring                 38 a plain gold ring
+ 74. Glasses              66 a plain pair of reading glasses
+ 75. Spear                66 a polished bamboo spear
+ 76. Necklace            302 [38;5;225ma polished malachite necklace[0;37m
+ 77. Sash                143 [38;5;183ma polished red bone sash of thievery[0;37m
+ 78. Plate               220 a polished steel plate
+ 79. Gown                330 a pretty pink satin gown
+ 80. Diadem               77 a priestly diadem
+ 81. Belt                 88 a ragged leather belt
+ 82. Caul                 88 a ragged leather caul
+
+ [return for more, q to stop]
+ 83. Boots                88 a ragged pair of leather boots
+ 84. Braies               88 a ragged pair of leather braies
+ 85. Armor                88 a ragged suit of leather armor
+ 86. Staff               880 [38;5;208ma red tinged staff wrapped in leather[0;37m
+ 87. Staff               165 [38;5;214ma rotting wooden staff[0;37m
+ 88. Dagger              220 a ruby studded dagger
+ 89. Hammer             1100 a runed-etched mithril hammer
+ 90. Sword                16 a sahuagin short sword
+ 91. Robe                220 a seeker's robe
+ 92. Armour               99 a set of hard black leather armour
+ 93. Boots               110 a set of thick green leather boots
+ 94. Knife                66 a sharp steel kitchen knife
+ 95. Shirt                60 a shirt of black scalemail
+ 96. Shirt                60 a shirt of blue splint mail
+ 97. Shirt                60 a shirt of green chainmail
+ 98. Shirt                60 a shirt of red banded mail
+ 99. Shirt                60 a shirt of white ringmail
+100. Helm                275 a silver inlaid helm
+101. Mantle              550 [38;5;177ma sinister mantle of darkness[0;37m
+102. Spear               330 a slender silver spear
+103. Amulet               82 a small fishbone amulet
+104. Axe                  11 a small iron axe
+105. Staff                55 a staff of champions
+106. Sword               330 a steel finger ring sword
+107. Neckchain            82 a steel neckchain
+108. Armor               220 a suit of gold runed armor
+109. Armor               110 a suit of padded red leather armor
+110. Ring                110 a thin blue ring
+111. Eyepatch             88 a transparent eyepatch
+112. Skirt               352 [38;5;183ma wanderer's leather skirt of Que-Kiri[0;37m
+113. Breastplate         196 a white dragonarmy breastplate
+114. Banner              275 a white dragonarmy war banner
+115. Robe                 93 a white satin robe
+116. Horn                111 a woolly rhinoceros horn
+117. Cloak               352 an alchemist's cloak
+118. Shield              302 [38;5;183man elaborate silver dragon heater[0;37m
+119. Ring               1100 an elemental ring
+120. Sash                154 [38;5;183man engraved onyx sash of thievery[0;37m
+121. Staff               154 [38;5;225man etched battle staff[0;37m
+122. Greatsword          220 [38;5;183man etched shining greatsword[0;37m
+123. Spear               550 an ice spear
+
+ [return for more, q to stop]
+124. Helmet              236 [38;5;183man intricate helmet of warding[0;37m
+125. Chip                  5 an intricately carved bone chip
+126. Sword               198 an ivory sword
+127. Sword               330 [38;5;214man ivory-hilted bastard sword[0;37m
+128. Amulet              275 an obsidian amulet
+129. Headdress           220 an ornate headdress
+130. Sleeves             330 dark leather sleeves
+131. Gauntlets           132 dual crimson gauntlets of might
+132. Armwraps            165 [38;5;225msome acrobat's armwraps of thievery[0;37m
+133. Armplates           330 some black armplates of the Skull
+134. Greaves             110 some blue steel solamnic greaves
+135. Pants               330 some brown denim pants
+136. Straps              110 some crossed leather straps, adorned with spikes
+137. Greaves             374 [38;5;183msome decorated greaves of the Sword[0;37m
+138. Armwraps            286 [38;5;225msome deer skin armwraps of stalking[0;37m
+139. Pants               154 [38;5;225msome delicate pants of praise[0;37m
+140. Breeches            154 [38;5;225msome dimensional breeches of stars[0;37m
+141. Pants               121 [38;5;183msome dragonhide pants of tracking[0;37m
+142. Chainmail           165 some dwarven chainmail
+143. Pants               275 some heavy sand colored pants
+144. Stompers            236 [38;5;225msome padded stompers of brutality[0;37m
+145. Warboots            418 [38;5;183msome padded warboots of incursion[0;37m
+146. Brassards           440 [38;5;177msome solid brassards of battle[0;37m
+147. Armor               220 some spiked leather body armor
+148. Gauntlets           374 [38;5;177msome studded gauntlets of gloom[0;37m
+149. Stockings           269 [38;5;183msome timeworn stockings of necromancy[0;37m
+150. Bracer             1650 the Aurinite king's bracer
+151. Hammer              154 the Hammer of Kzzaz
+152. Mask               1100 the bronze mask of a sahuagin prince
+153. Staff               132 the staff of a sahuagin high priestess
+154. Staff                33 the twisted merchant's staff
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:38 Exits:NESW> 
+[36mJuni tells your clan 'chris need darkness'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:36 Exits:NESW> items
+tiers
+ct yeah!
+You tell your clan 'yeah!'
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:29 Exits:NESW> l
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mAssorted keys dangle from an iron loop here. [2]
+The jailer's keys have been left here.
+A small functional hammer sits here, waiting to be used.
+[0;37m[31m[1mA merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:28 Exits:NESW> sc
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 11. You have completed 74.83% of your next rank.
+You are 18 years old.
+You have 438(438) hit and 130(132) movement points.
+Your behaviour has been Evil.
+The warmth of good envelops your soul.
+You have scored 169,558,712 exp, and have 4918(49460) steel coins.
+You need 10,441,288 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 0 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 14 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:26 Exits:NESW> l
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mAssorted keys dangle from an iron loop here. [2]
+The jailer's keys have been left here.
+A small functional hammer sits here, waiting to be used.
+[0;37m[31m[1mA merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:21 Exits:NESW> list
+[37mYour clanmate Fir has left the game.
+[0;37m  1. Helmet              132 a Gargoyle helmet and visor
+  2. Hatchet             352 [38;5;177ma balanced spiked hatchet[0;37m
+  3. Jerkin              121 [38;5;225ma bandit's leather jerkin (A2 THIEF BODY) of trickery[0;37m
+  4. Bardiche            132 a bardiche with a silver half moon blade
+  5. Shield              440 a black granite shield (w25 save_para-2 hr2)
+  6. Raith               166 a black ice raith
+  7. Ring                275 a black ice ring (cl2)
+  8. Shield              220 a black ice shield (rescold16 glow immcold)
+  9. Pearl               110 a black pearl
+ 10. Robe                 88 a black priest's robe (ac-3 Evil)
+ 11. Staff               551 a black wood staff (2d6 int-1 wis2 w6)
+ 12. Shield              275 a a blood red adamantite shield (w25 age4 hr1 magic nomag/dru/sham apply 10)
+ 13. Sceptre             330 a blue and green nephaline sceptre
+ 14. Ring                275 a blue nephaline ring (age-3 para-1)
+ 15. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 16. Leaves               88 a bundle of colourful leaves
+ 17. Cloak               220 a burned black cloak
+ 18. Charm               286 [38;5;225ma burnished nephrite charm (B2+ MELEE NECK)[0;37m
+ 19. Staff               121 [38;5;225ma carved battle staff[0;37m
+ 20. Plate               110 a ceremonial breast plate (apply6)
+ 21. Shirt               110 a chain shirt of darkness (str hide antiG nomag/th/pa/dr/sh)
+ 22. Knife               269 [38;5;183ma charred jagged green knife[0;37m
+ 23. Ring                330 [38;5;153ma clear crystal ring (wis1 *set*)[0;37m
+ 24. Sphere               55 a clear sphere
+ 25. Lance               275 a a crimson steel lance (3d5 w22)
+ 26. Helmet              330 [38;5;153ma crystal clear helmet[0;37m
+ 27. Rod                 302 [38;5;225ma crystal opal inlaid rod (B2+ MELEE HELD)[0;37m
+ 28. Tunic                88 a dark blue tunic
+ 29. Medallion           110 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 30. Robe                 97 a dark interrogator's robe
+ 31. Shroud               82 a dark purple burial shroud (hide cleric only)
+ 32. Shield              110 a dark shield (ac-7 w22)
+ 33. Sword               550 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 34. Dagger              154 a dark silver dagger (2d4 nomag/dru/cle)
+ 35. Shortsword          236 [38;5;183ma decorative hooked shortsword[0;37m
+ 36. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 37. Necklace            165 a dinosaur tooth necklace (ac-4 ss-1)
+ 38. Ring                220 a dolphin bone ring (ac-4 *19)
+ 39. Sword               165 a dwarven long sword
+ 40. Spear               220 a fishing spear
+ 41. Necklace            165 a gold and ruby necklace
+
+ [return for more, q to stop]
+ 42. Sash                 44 a gold sash
+ 43. Shield              440 a grandiose shield of black steel (ss-2 para-1 war/dk*19)
+ 44. Sword               385 a granite sword (3d6 dr1 w10 mag/bless/anti_good imm_heat)
+ 45. Jerkin               27 [38;5;153ma green leather jerkin (apply5 *set*)[0;37m
+ 46. Mask                 66 a grey leather mask (ac-3 SL mag *19)
+ 47. Morion              236 [38;5;183ma griffon-feathered morion (B3 BARBARIAN HEAD) of rage[0;37m
+ 48. Hammer              231 a heavily charred blacksmith's hammer
+ 49. Hammer               55 a heavy smithing hammer
+ 50. Mace                236 [38;5;183ma heavy spiked mace[0;37m
+ 51. Sword               302 a heavy steel broadsword (4d4 1/1 w22 nothi/dru/sham)
+ 52. Ring                154 a hermit's ring (con CONFUSION)
+ 53. Broadaxe            253 [38;5;225ma jagged sharpened broadaxe[0;37m
+ 54. Necklace            110 a large bead necklace (cha1)
+ 55. Hammer              220 a a large golden hammer (3d3 w12 glow)
+ 56. Foil                198 a leather handled foil
+ 57. Flail                85 a long brass chain flail
+ 58. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 59. Sword              1100 a massive black rune-covered sword
+ 60. Sword               330 a massive glowing broadsword
+ 61. Medallion            55 a medallion of the moon
+ 62. Sleeves             165 a pair of black leather sleeves (dex1)
+ 63. Pants               165 a pair of black satin pants
+ 64. Boots               110 a pair of black steel plated boots
+ 65. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 66. Boots                71 a pair of dark black boots
+ 67. Earrings            330 a pair of delicate apatite earrings (4th+1 det_inv/infra imm_acid)
+ 68. Greaves             220 a pair of ebony greaves (apply7)
+ 69. Boots               275 a pair of fine metal boots
+ 70. Armbands            275 a pair of thick green leather armbands (parry5)
+ 71. Armbands            154 a pair of white feathered armbands (wis1 notank)
+ 72. Shirt               132 [38;5;225ma pilgrim's shirt (A1 CLERIC BODY) of praise[0;37m
+ 73. Ring                 38 a plain gold ring
+ 74. Glasses              66 a plain pair of reading glasses
+ 75. Spear                66 a polished bamboo spear
+ 76. Necklace            302 [38;5;225ma polished malachite necklace (B1+ CASTER NECK)[0;37m
+ 77. Sash                143 [38;5;183ma polished red bone sash (A5 THIEF WAIST) of thievery[0;37m
+ 78. Plate               220 a polished steel plate
+ 79. Gown                330 a pretty pink satin gown (nocharm)
+ 80. Diadem               77 a priestly diadem (wis1)
+ 81. Belt                 88 a ragged leather belt (int-1)
+ 82. Caul                 88 a ragged leather caul (hr1 ac-2 sense_life/infra)
+
+ [return for more, q to stop]q
+Your clanmate Anaya has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:13 Exits:NESW> browse shirt
+You browse through the merchandise and notice:
+The shirt is made up of gaseous vapor. You cannot discern its condition. (99%)
+A chain shirt of darkness (str hide antiG nomag/th/pa/dr/sh) is wearable: body.
+
+The shirt looks healthy. (100%)
+You feel informed:
+ Object 'shirt pilgrim's praise'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: organic
+ Weight   : 9            Value   : 120
+
+ Affects  : HP_REGEN      by 1
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 2
+A pilgrim's shirt of praise is wearable: body.
+
+The shirt's metallic surface is shiny and new. (100%)
+A shirt of black scalemail (res_ac5 bls nobarb/sham *19) is wearable: body.
+
+The shirt's metallic surface is shiny and new. (99%)
+A shirt of blue splint mail (reselec5) is wearable: body.
+
+The shirt's metallic surface is shiny and new. (100%)
+A shirt of green chainmail (res_gas5 *18) is wearable: body.
+
+The shirt's metallic surface is shiny and new. (99%)
+A shirt of red banded mail is wearable: body.
+
+The shirt's metallic surface is shiny and new. (99%)
+A shirt of white ringmail (rescold5) is wearable: body.
+
+The chainmail's metallic surface is shiny and new. (100%)
+Some dwarven chainmail is wearable: body.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:10 Exits:NESW> list
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Hatchet             352 [38;5;177ma balanced spiked hatchet[0;37m
+  3. Jerkin              121 [38;5;225ma bandit's leather jerkin (A2 THIEF BODY) of trickery[0;37m
+  4. Bardiche            132 a bardiche with a silver half moon blade
+  5. Shield              440 a black granite shield (w25 save_para-2 hr2)
+  6. Raith               166 a black ice raith
+  7. Ring                275 a black ice ring (cl2)
+  8. Shield              220 a black ice shield (rescold16 glow immcold)
+  9. Pearl               110 a black pearl
+ 10. Robe                 88 a black priest's robe (ac-3 Evil)
+ 11. Staff               551 a black wood staff (2d6 int-1 wis2 w6)
+ 12. Shield              275 a a blood red adamantite shield (w25 age4 hr1 magic nomag/dru/sham apply 10)
+ 13. Sceptre             330 a blue and green nephaline sceptre
+ 14. Ring                275 a blue nephaline ring (age-3 para-1)
+ 15. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 16. Leaves               88 a bundle of colourful leaves
+ 17. Cloak               220 a burned black cloak
+ 18. Charm               286 [38;5;225ma burnished nephrite charm (B2+ MELEE NECK)[0;37m
+ 19. Staff               121 [38;5;225ma carved battle staff[0;37m
+ 20. Plate               110 a ceremonial breast plate (apply6)
+ 21. Shirt               110 a chain shirt of darkness (str hide antiG nomag/th/pa/dr/sh)
+ 22. Knife               269 [38;5;183ma charred jagged green knife[0;37m
+ 23. Ring                330 [38;5;153ma clear crystal ring (wis1 *set*)[0;37m
+ 24. Sphere               55 a clear sphere
+ 25. Lance               275 a a crimson steel lance (3d5 w22)
+ 26. Helmet              330 [38;5;153ma crystal clear helmet[0;37m
+ 27. Rod                 302 [38;5;225ma crystal opal inlaid rod (B2+ MELEE HELD)[0;37m
+ 28. Tunic                88 a dark blue tunic
+ 29. Medallion           110 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 30. Robe                 97 a dark interrogator's robe
+ 31. Shroud               82 a dark purple burial shroud (hide cleric only)
+ 32. Shield              110 a dark shield (ac-7 w22)
+ 33. Sword               550 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 34. Dagger              154 a dark silver dagger (2d4 nomag/dru/cle)
+ 35. Shortsword          236 [38;5;183ma decorative hooked shortsword[0;37m
+ 36. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 37. Necklace            165 a dinosaur tooth necklace (ac-4 ss-1)
+ 38. Ring                220 a dolphin bone ring (ac-4 *19)
+ 39. Sword               165 a dwarven long sword
+ 40. Spear               220 a fishing spear
+ 41. Necklace            165 a gold and ruby necklace
+
+ [return for more, q to stop]
+ 42. Sash                 44 a gold sash
+ 43. Shield              440 a grandiose shield of black steel (ss-2 para-1 war/dk*19)
+ 44. Sword               385 a granite sword (3d6 dr1 w10 mag/bless/anti_good imm_heat)
+ 45. Jerkin               27 [38;5;153ma green leather jerkin (apply5 *set*)[0;37m
+ 46. Mask                 66 a grey leather mask (ac-3 SL mag *19)
+ 47. Morion              236 [38;5;183ma griffon-feathered morion (B3 BARBARIAN HEAD) of rage[0;37m
+ 48. Hammer              231 a heavily charred blacksmith's hammer
+ 49. Hammer               55 a heavy smithing hammer
+ 50. Mace                236 [38;5;183ma heavy spiked mace[0;37m
+ 51. Sword               302 a heavy steel broadsword (4d4 1/1 w22 nothi/dru/sham)
+ 52. Ring                154 a hermit's ring (con CONFUSION)
+ 53. Broadaxe            253 [38;5;225ma jagged sharpened broadaxe[0;37m
+ 54. Necklace            110 a large bead necklace (cha1)
+ 55. Hammer              220 a a large golden hammer (3d3 w12 glow)
+ 56. Foil                198 a leather handled foil
+ 57. Flail                85 a long brass chain flail
+ 58. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 59. Sword              1100 a massive black rune-covered sword
+ 60. Sword               330 a massive glowing broadsword
+ 61. Medallion            55 a medallion of the moon
+ 62. Sleeves             165 a pair of black leather sleeves (dex1)
+ 63. Pants               165 a pair of black satin pants
+ 64. Boots               110 a pair of black steel plated boots
+ 65. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 66. Boots                71 a pair of dark black boots
+ 67. Earrings            330 a pair of delicate apatite earrings (4th+1 det_inv/infra imm_acid)
+ 68. Greaves             220 a pair of ebony greaves (apply7)
+ 69. Boots               275 a pair of fine metal boots
+ 70. Armbands            275 a pair of thick green leather armbands (parry5)
+ 71. Armbands            154 a pair of white feathered armbands (wis1 notank)
+ 72. Shirt               132 [38;5;225ma pilgrim's shirt (A1 CLERIC BODY) of praise[0;37m
+ 73. Ring                 38 a plain gold ring
+ 74. Glasses              66 a plain pair of reading glasses
+ 75. Spear                66 a polished bamboo spear
+ 76. Necklace            302 [38;5;225ma polished malachite necklace (B1+ CASTER NECK)[0;37m
+ 77. Sash                143 [38;5;183ma polished red bone sash (A5 THIEF WAIST) of thievery[0;37m
+ 78. Plate               220 a polished steel plate
+ 79. Gown                330 a pretty pink satin gown (nocharm)
+ 80. Diadem               77 a priestly diadem (wis1)
+ 81. Belt                 88 a ragged leather belt (int-1)
+ 82. Caul                 88 a ragged leather caul (hr1 ac-2 sense_life/infra)
+
+ [return for more, q to stop]
+ 83. Boots                88 a ragged pair of leather boots (move5 ac-2)
+ 84. Braies               88 a ragged pair of leather braies (move7 ac-2)
+ 85. Armor                88 a ragged suit of leather armor (hit3 ac-4 cl2)
+ 86. Staff               880 [38;5;208ma a red tinged staff wrapped in leather (3d6 w21 magic/bless nomag/thi/pal/dru/scout/dk/sham)[0;37m
+ 87. Staff               165 [38;5;214ma a rotting wooden staff (4d4 2/2 cl1 glow/mag/bless/anti_evil nothi/pal/cle/war/dk w5)[0;37m
+ 88. Dagger              220 a ruby studded dagger (3d5 2/2 w5 senseL thiefOnly Norent)
+ 89. Hammer             1100 a runed-etched mithril hammer (2d8 norent w5)
+ 90. Sword                16 a sahuagin short sword (1d6 w5)
+ 91. Robe                220 a seeker's robe (ac-5 det_mag)
+ 92. Armour               99 a set of hard black leather armour
+ 93. Boots               110 a set of thick green leather boots (sneak5 ac-5)
+ 94. Knife                66 a a sharp steel kitchen knife (3d3 2/2 w4)
+ 95. Shirt                60 a shirt of black scalemail (res_ac5 bls nobarb/sham *19)
+ 96. Shirt                60 a shirt of blue splint mail (reselec5)
+ 97. Shirt                60 a shirt of green chainmail (res_gas5 *18)
+ 98. Shirt                60 a shirt of red banded mail
+ 99. Shirt                60 a shirt of white ringmail (rescold5)
+100. Helm                275 a a silver inlaid helm (det_mag/infra magic)
+101. Mantle              550 [38;5;177ma sinister mantle (D1 DARKKNIGHT ABOUT) of darkness[0;37m
+102. Spear               330 a slender silver spear
+103. Amulet               82 a small fishbone amulet (hr1 det_G Evil)
+104. Axe                  11 a small iron axe
+105. Staff                55 a staff of champions (glow/mag/norent)
+106. Sword               330 a steel finger ring sword
+107. Neckchain            82 a steel neckchain
+108. Armor               220 a suit of gold runed armor (invis mag *19)
+109. Armor               110 a suit of padded red leather armor (hr1)
+110. Ring                110 a thin blue ring
+111. Eyepatch             88 a transparent eyepatch (hr-1 det_mag)
+112. Skirt               352 [38;5;183ma wanderer's leather skirt (C1 BARBARIAN LEGS) of Que-Kiri[0;37m
+113. Breastplate         196 a white dragonarmy breastplate (move3)
+114. Banner              275 a white dragonarmy war banner
+115. Robe                 93 a white satin robe
+116. Horn                111 a woolly rhinoceros horn (2d7 w12 magic *19)
+117. Cloak               352 an alchemist's cloak (ac-3 res_ac12 antiE *19)
+118. Shield              302 [38;5;183man elaborate silver dragon heater (B3+ LIGHT SHIELD)[0;37m
+119. Ring               1100 an elemental ring (shatter ring for charmie)
+120. Sash                154 [38;5;183man engraved onyx sash of thievery (A4+ THIEF WAIST)[0;37m
+121. Staff               154 [38;5;225man etched battle staff[0;37m
+122. Greatsword          220 [38;5;183man etched shining greatsword[0;37m
+123. Spear               550 an ice spear
+
+ [return for more, q to stop]
+124. Helmet              236 [38;5;183man intricate helmet (B3 PALADIN HEAD) of warding[0;37m
+125. Chip                  5 an intricately carved bone chip
+126. Sword               198 an ivory sword
+127. Sword               330 [38;5;214man an ivory-hilted bastard sword (3d6 hr1 w20 Bless)[0;37m
+128. Amulet              275 an an obsidian amulet (magic 250c)
+129. Headdress           220 an ornate headdress (int1 cl2 det_inv)
+130. Sleeves             330 dark leather sleeves (save_petri-1)
+131. Gauntlets           132 dual crimson gauntlets of might
+132. Armwraps            165 [38;5;225msome acrobat's armwraps of thievery (A1+ THIEF ARMS)[0;37m
+133. Armplates           330 some black armplates of the Skull
+134. Greaves             110 some blue steel solamnic greaves
+135. Pants               330 some brown denim pants
+136. Straps              110 some crossed leather straps, adorned with spikes (rescold10)
+137. Greaves             374 [38;5;183msome decorated greaves of the Sword (C1+ PALADIN LEGS)[0;37m
+138. Armwraps            286 [38;5;225msome deer skin armwraps of stalking (B1+ SCOUT ARMS)[0;37m
+139. Pants               154 [38;5;225msome delicate pants of praise (A1+ CLERIC LEGS)[0;37m
+140. Breeches            154 [38;5;225msome dimensional breeches of stars (A2+ MAGE LEGS)[0;37m
+141. Pants               121 [38;5;183msome dragonhide pants of tracking (A4+ SCOUT LEGS)[0;37m
+142. Chainmail           165 some dwarven chainmail
+143. Pants               275 some heavy sand colored pants
+144. Stompers            236 [38;5;225msome padded stompers of brutality (B1+ WARRIOR FEET)[0;37m
+145. Warboots            418 [38;5;183msome padded warboots of incursion (C1+ WARRIOR FEET)[0;37m
+146. Brassards           440 [38;5;177msome solid brassards of battle (C2+ WARRIOR ARMS)[0;37m
+147. Armor               220 some spiked leather body armor (rangeDR1)
+148. Gauntlets           374 [38;5;177msome studded gauntlets of gloom (C2+ DARKKNIGHT HANDS)[0;37m
+149. Stockings           269 [38;5;183msome timeworn stockings of necromancy (B4+ SHAMAN LEGS)[0;37m
+150. Bracer             1650 the Aurinite king's bracer
+151. Hammer              154 the Hammer of Kzzaz (2d7 1/1 w9 no_offy *19)
+152. Mask               1100 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+153. Staff               132 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+154. Staff                33 the twisted merchant's staff (2d5 1/1 cl2 EVIL mag w11 *19)
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NESW> 
+[36mMao tells your clan 'Getting some sleep. See you guys tomorrow.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NESW> 
+[36mYim tells your clan 'later'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:NESW> 
+[36mJuni tells your clan 'later'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:NESW> 
+[37mYour clanmate Mao has left the game.
+[0;37m[36mJuni tells your clan 'chris where at'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:47 Exits:NESW> 
+A feral cat arrives from the east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:42 Exits:NESW> 
+A feral cat chases a piece of dust around the room.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:36 Exits:NESW> ct uh, balifor
+You tell your clan 'uh, balifor'
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:35 Exits:NESW> l
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mAssorted keys dangle from an iron loop here. [2]
+The jailer's keys have been left here.
+A small functional hammer sits here, waiting to be used.
+[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:34 Exits:NESW> 
+A feral cat purrs contentedly.
+A feral cat leaves west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:30 Exits:NESW> 
+A feral cat arrives from the west.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:24 Exits:NESW> 
+A feral cat purrs contentedly.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:18 Exits:NESW> ct i can come to sh if you need
+You tell your clan 'i can come to sh if you need'
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:16 Exits:NESW> l
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mAssorted keys dangle from an iron loop here. [2]
+The jailer's keys have been left here.
+A small functional hammer sits here, waiting to be used.
+[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:16 Exits:NESW> 
+A feral cat leaves east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:6 Exits:NESW> in
+You are carrying:
+a wrist lantern [2]
+a bright ball of light..it glows dimly [3]
+a glowing scroll of recall..it emits an arcane glow..it glows dimly [4]
+a small wooden chest
+a wand of invisibility..it emits an arcane glow
+a wrist lantern [3]
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:NESW> 
+[36mJuni tells your clan 'i can come bali'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:NESW> 
+A wandering preacher arrives from the east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:NESW> w
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mA black-robed priest of Hiddukel is here, trying to find his temple. (black aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m10441288X 74.83% 4918C [0;37mT:56 Exits:NEW> w
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:56 Exits:EW> w
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m10441288X 74.83% 4918C [0;37mT:56 Exits:NESW> n
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:55 Exits:NESW> n
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+[33m[1m[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m10441288X 74.83% 4918C [0;37mT:55 Exits:NSW> w
+[36mGuild Road[0;37m
+    The road leads both east and west, reaching the famed guild halls and
+also Traders Street. Many young guild members trudge miserably back to
+town, most of them ignoring the strange hut to the north.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NEW> w
+[36mGuild Road[0;37m
+    The roads leads east and west between the buildings and halls. To the
+north is the warriors' arena, where sounds of clashing weapons can be
+heard. South of you, followers of Takhisis dressed in dark metal armor and
+wielding dangerous long swords train against one another. Sparks fly from
+bare metal in both directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NESW> 
+[** SYSTEM: Arctic will reboot in 360 minutes **]
+
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NESW> w
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NESW> s
+[36mThe Druid's Hall[0;37m
+    This hall is full of life. Vegetation has been allowed to grow in the
+corners and on the far walls. The area is teeming with life: some plant
+some animal. No attempt has been made to evict any of the hall's
+inhabitants, and several smug-looking rats casually play on the floor.
+[33m[1m[0;37m[31m[1mA massive black panther is here, tail swishing from side to side.
+The master druid stands here, looking very somber.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:N> n
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+[33m[1m[0;37m[31m[1mA mouse scampers about, scavenging for food and avoiding feral cats.
+A muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:NESW> w
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the mages' laboratory, while to the south is the clerics' sanctum.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:NESW> s
+[36mThe Head Cleric's Sanctum[0;37m
+    The sanctum is very spacious, and almost devoid of any furniture. A
+large altar and kneeling mat dominate the far wall. Along one wall a
+firefighter's jacket hangs from a lone peg below a large bronze plaque. A
+feeling of hushed reverence and loss washes over you.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+A guild guard watches vigilantly for trouble. (white aura)
+Sir Rorc Riggsby, Battle Cleric, stands here serving Balifor's faithful.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:50 Exits:N> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:N> ct k, im in cleric guild
+You tell your clan 'k, im in cleric guild'
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:43 Exits:N> l
+[36mThe Head Cleric's Sanctum[0;37m
+    The sanctum is very spacious, and almost devoid of any furniture. A
+large altar and kneeling mat dominate the far wall. Along one wall a
+firefighter's jacket hangs from a lone peg below a large bronze plaque. A
+feeling of hushed reverence and loss washes over you.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+A guild guard watches vigilantly for trouble. (white aura)
+Sir Rorc Riggsby, Battle Cleric, stands here serving Balifor's faithful.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:42 Exits:N> 
+A watchman of Port Balifor arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:41 Exits:N> 
+Juni flies in from the north.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:36 Exits:N> 
+A watchman of Port Balifor leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:35 Exits:N> bow
+You bow deeply.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:N> 
+Juni gives you a book bound in snakeskin.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:N> 
+Juni says 'it is old'
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:31 Exits:N> thank juni
+You thank Juni heartily.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:29 Exits:N> nod
+You nod solemnly.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:28 Exits:N> 
+Juni utters the words, 'word of recall'.
+Juni disappears.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:23 Exits:N> 
+A watchman of Port Balifor arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:17 Exits:N> clan who
+[0;37m[36mClan Members
+------------
+[36m[1m Yim              [     Elder ] (Fri Jan 06) Level 30R3 G Rank 33 Shaman (L)
+[36m[1m Juni             [     Elder ] (Fri Jan 06) Level 28R4 E Rank 34 Druid (L)
+[36m[1m Yimbo            [     Elder ] (Fri Jan 06) Level 30R3 G Rank 33 Warrior (L)
+[36m[1m Skully           [  Clansman ] (Fri Jan 06) Level 28   N Rank 8  Warrior
+[36m[1m Pitli            [  Clansman ] (Fri Jan 06) Level 29   G Rank 7  Cleric
+[36m[1m Araya            [  Clansman ] (Fri Jan 06) Level 30R1 N Rank 24 Barbarian
+[36m[1m Bostaph          [  Clansman ] (Fri Jan 06) Level 30R1 N Rank 23 Cleric
+[36m[1m Maui             [  Clansman ] (Fri Jan 06) Level 30   E Rank 11 Cleric
+[36m[1m Anaya            [  Neophyte ] (Fri Jan 06) Level 27   E Rank 6  Thief
+[1m[32m
+Total clan members online: 9    Total clan members: 93
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:N> sta
+You stand up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:N> study book
+The first thing you see when you open the book is a name in the upper
+right hand corner of the inside cover:  Viper, Soul Demon
+
+Your heart pounding from your excitement, you begin to read what he
+has written.
+Your mind flows along with the arcane chants Viper has written in the
+book.  You are at harmony with the magic within, and add to your
+prayerbook the spell 'darkness'.
+The scales on the cover of the book suddenly begin to move, and the
+book is magically transformed into a viper!  The snake quickly slithers
+away.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:N> mem
+Spells currently memorized:
+1: [ 1]bless                [ 1]create food          [ 2]create water        
+   [ 1]cure light           [ 2]know alignment       [ 2]restore strength    
+2: [ 3]blindness            [ 3]cure blindness       [ 2]light               
+   [ 1]remove curse        
+3: [ 1]cure serious         [ 1]holy armor           [ 2]poison              
+   [ 1]protection from evil [ 3]remove poison       
+4: [ 7]flamestrike          [ 2]hold person         
+5: [ 3]cure critical        [ 2]dispel good          [ 1]holy aura           
+6: [ 6]animate dead        
+8: [ 3]sunray              
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-4 8-0
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:45 Exits:N> 
+[37mYour clanmate Anaya has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:39 Exits:N> ct thanks!
+You tell your clan 'thanks!'
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:N> l
+[36mThe Head Cleric's Sanctum[0;37m
+    The sanctum is very spacious, and almost devoid of any furniture. A
+large altar and kneeling mat dominate the far wall. Along one wall a
+firefighter's jacket hangs from a lone peg below a large bronze plaque. A
+feeling of hushed reverence and loss washes over you.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A guild guard watches vigilantly for trouble. (white aura)
+Sir Rorc Riggsby, Battle Cleric, stands here serving Balifor's faithful.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:32 Exits:N> spells
+Your spells
+-----------
+1:  aid                    bless                  cause light          
+    create food            create water           cure light           
+    know alignment         restore strength       spiritual hammer     
+2:  blindness              cure blindness         curse                
+    detect evil            detect good            detect magic         
+    light                  remove curse           silence              
+3:  cause serious          cure serious           fear                 
+    gust of wind           holy armor             poison               
+    protection from evil   remove fear            remove poison        
+4:  cloak of bravery       dispel magic           flamestrike          
+    free action            hold person            prayer               
+    sanctuary            
+5:  atonement              cause critical         cure critical        
+    dispel evil            dispel good            holy aura            
+    word of recall       
+6:  animate dead           darkness               harm                 
+    heal                 
+7:  ancient curse        
+8:  steelskin              sunray               
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:29 Exits:N> 
+A watchman of Port Balifor leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:23 Exits:N> 
+A watchman of Port Balifor leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:23 Exits:N> help spell darkness
+Spell    : Darkness
+Sphere   : Illusion
+Usage    : cast 'darkness'
+Duration : 2*level/3 combat rounds
+Effects  : Creates a cloud of darkness
+
+A veil of darkness falls over the room when this spell is cast.
+Often, many invocations of the spell are required to overcome existing
+sources of light in a room.  This darkness is magical and defeats any
+other magical form used for penetrating darkness.  Due to its nature, the
+darkness will flow out of the room and into other rooms.
+
+Details:
+- See above.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:22 Exits:N> 
+A watchman of Port Balifor arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:17 Exits:N> 
+[36mJuni tells your clan 'blah reclaim maxxed'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:14 Exits:N> mem
+Spells currently memorized:
+1: [ 1]bless                [ 1]create food          [ 2]create water        
+   [ 1]cure light           [ 2]know alignment       [ 2]restore strength    
+2: [ 3]blindness            [ 3]cure blindness       [ 2]light               
+   [ 1]remove curse        
+3: [ 1]cure serious         [ 1]holy armor           [ 2]poison              
+   [ 1]protection from evil [ 3]remove poison       
+4: [ 7]flamestrike          [ 2]hold person         
+5: [ 3]cure critical        [ 2]dispel good          [ 1]holy aura           
+6: [ 6]animate dead        
+8: [ 3]sunray              
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-4 8-0
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:10 Exits:N> 
+A mouse arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:N> 
+[36mJuni tells your clan 'tim need coins or anything'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:N> forget 'an de'
+animate dead: You forget this spell.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:1 Exits:N> forget 'an de'
+You feel ready to call upon the strength of the Gods.
+animate dead: You forget this spell.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:N> forget 'an de'
+animate dead: You forget this spell.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:N> forget 'an de'
+animate dead: You forget this spell.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:59 Exits:N> 
+[37mYour clanmate Fir has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:58 Exits:N> mem 'dark'
+You open up your prayerbook and begin studying it.
+darkness: added to your list
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:56 Exits:N> 
+[36mYim tells your clan 'nah i'mok'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:56 Exits:N> mem 'dark'
+darkness: added to your list
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:2 T:55 Exits:N> mem 'dark'
+darkness: added to your list
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:2 T:55 Exits:N> mem 'dark'
+darkness: added to your list
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:2 T:54 Exits:N> mem
+Spells currently memorized:
+1: [ 1]bless                [ 1]create food          [ 2]create water        
+   [ 1]cure light           [ 2]know alignment       [ 2]restore strength    
+2: [ 3]blindness            [ 3]cure blindness       [ 2]light               
+   [ 1]remove curse        
+3: [ 1]cure serious         [ 1]holy armor           [ 2]poison              
+   [ 1]protection from evil [ 3]remove poison       
+4: [ 7]flamestrike          [ 2]hold person         
+5: [ 3]cure critical        [ 2]dispel good          [ 1]holy aura           
+6: [ 2]animate dead        
+8: [ 3]sunray              
+
+Spells being memorized:
+6: [ 4]darkness            
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-4 8-0
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:2 T:54 Exits:N> rest
+You sit down and rest your tired bones.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:51 Exits:N> 
+[36mFir tells your clan 'ok'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:46 Exits:N> 
+[37mYour clanmate Fir has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:44 Exits:N> 
+A mouse leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:39 Exits:N> 
+[36mJuni tells your clan 'glad to see you back'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:37 Exits:N> 
+[36mYim tells your clan 'thanks'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:32 Exits:N> 
+[36mJuni tells your clan 'time for bed have to go into office again in the morning'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:20 Exits:N> 
+[36mYim tells your clan 'later'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:15 Exits:N> 
+[36mSabrina shouts 'Does anyone need a spellbook faded with neglect?   It will be in Solace Mages.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:11 Exits:N> 
+[37mYour clanmate Juni has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:11 Exits:N> 
+A watchman of Port Balifor leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mMem:1 T:5 Exits:N> 
+Your studies complete, you close your prayerbook with a smile.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:N> 
+[37mYour clanmate Clara has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:43 Exits:N> 
+[37mYour clanmate Clara has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:35 Exits:N> 
+[37mYour clanmate Caine has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:32 Exits:N> l
+[36mThe Head Cleric's Sanctum[0;37m
+    The sanctum is very spacious, and almost devoid of any furniture. A
+large altar and kneeling mat dominate the far wall. Along one wall a
+firefighter's jacket hangs from a lone peg below a large bronze plaque. A
+feeling of hushed reverence and loss washes over you.
+[33m[1m[0;37m[31m[1mA guild guard watches vigilantly for trouble. (white aura)
+Sir Rorc Riggsby, Battle Cleric, stands here serving Balifor's faithful.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:31 Exits:N> 
+[36mCaine tells your clan 'no decays... YET!'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:28 Exits:N> 
+[37mYour clanmate Caine has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:25 Exits:N> 
+A mouse arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:21 Exits:N> 
+[37mYour clanmate Clara has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:21 Exits:N> l
+[36mThe Head Cleric's Sanctum[0;37m
+    The sanctum is very spacious, and almost devoid of any furniture. A
+large altar and kneeling mat dominate the far wall. Along one wall a
+firefighter's jacket hangs from a lone peg below a large bronze plaque. A
+feeling of hushed reverence and loss washes over you.
+[33m[1m[0;37m[31m[1mA mouse scampers about, scavenging for food and avoiding feral cats.
+A guild guard watches vigilantly for trouble. (white aura)
+Sir Rorc Riggsby, Battle Cleric, stands here serving Balifor's faithful.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:17 Exits:N> in
+You are carrying:
+a wrist lantern [2]
+a bright ball of light..it glows dimly [3]
+a glowing scroll of recall..it emits an arcane glow..it glows dimly [4]
+a small wooden chest
+a wand of invisibility..it emits an arcane glow
+a wrist lantern [3]
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:16 Exits:N> clan who
+[0;37m[36mClan Members
+------------
+[36m[1m Clara            [ Chieftain ] (Fri Jan 06) Level 24R4 G Rank 40 Paladin (L)
+[36m[1m Yim              [     Elder ] (Fri Jan 06) Level 30R3 G Rank 33 Shaman (L)
+[36m[1m Yimbo            [     Elder ] (Fri Jan 06) Level 30R3 G Rank 33 Warrior (L)
+[36m[1m Skully           [  Clansman ] (Fri Jan 06) Level 28   N Rank 8  Warrior
+[36m[1m Pitli            [  Clansman ] (Fri Jan 06) Level 29   G Rank 7  Cleric
+[36m[1m Araya            [  Clansman ] (Fri Jan 06) Level 30R1 N Rank 24 Barbarian
+[36m[1m Bostaph          [  Clansman ] (Fri Jan 06) Level 30R1 N Rank 23 Cleric
+[36m[1m Maui             [  Clansman ] (Fri Jan 06) Level 30   E Rank 11 Cleric
+[1m[32m
+Total clan members online: 8    Total clan members: 93
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:10 Exits:N> 
+[36mClara tells your clan 'oh, Yim'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:N> 
+[36mClara tells your clan 'whats up '
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:1 Exits:N> 
+[36mYim tells your clan 'what up'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:58 Exits:N> 
+[36mIcey shouts 'any title setter around? :)'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:56 Exits:N> 
+A watchman of Port Balifor arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:47 Exits:N> 
+[36mClara tells your clan 'took a day off today from mud'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:37 Exits:N> 
+A mouse leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:27 Exits:N> n
+Come on! I'm relaxing!
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:21 Exits:N> sta
+You stand up.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:19 Exits:N> n
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the mages' laboratory, while to the south is the clerics' sanctum.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m10441288X 74.83% 4918C [0;37mT:19 Exits:NESW> e
+[36mGuild Road[0;37m
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+[33m[1m[0;37m[31m[1mA drunken sailor steadies himself as he tries to stagger back to his boat.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:19 Exits:NESW> e
+[36mGuild Road[0;37m
+    The roads leads east and west between the buildings and halls. To the
+north is the warriors' arena, where sounds of clashing weapons can be
+heard. South of you, followers of Takhisis dressed in dark metal armor and
+wielding dangerous long swords train against one another. Sparks fly from
+bare metal in both directions.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m10441288X 74.83% 4918C [0;37mT:18 Exits:NESW> e
+[36mGuild Road[0;37m
+    The road leads both east and west, reaching the famed guild halls and
+also Traders Street. Many young guild members trudge miserably back to
+town, most of them ignoring the strange hut to the north.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:18 Exits:NEW> e
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m10441288X 74.83% 4918C [0;37mT:16 Exits:NSW> e
+Alas, you cannot go that way...
+
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m10441288X 74.83% 4918C [0;37mT:13 Exits:NSW> w
+[36mGuild Road[0;37m
+    The road leads both east and west, reaching the famed guild halls and
+also Traders Street. Many young guild members trudge miserably back to
+town, most of them ignoring the strange hut to the north.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:12 Exits:NEW> e
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m10441288X 74.83% 4918C [0;37mT:6 Exits:NSW> e
+Alas, you cannot go that way...
+
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m10441288X 74.83% 4918C [0;37mT:6 Exits:NSW> s
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+[33m[1m[0;37m[31m[1mA muscular watchman quietly patrols the streets of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:5 Exits:NESW> s
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1mA feral cat parades her territory and sniffs your leg.
+[0;37mA feral cat chases a piece of dust around the room.
+
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m10441288X 74.83% 4918C [0;37mT:5 Exits:NESW> e
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1mA wandering preacher stands here, trying to convert the people to his faith.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:5 Exits:EW> e
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1m[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m10441288X 74.83% 4918C [0;37mT:5 Exits:NEW> e
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mAssorted keys dangle from an iron loop here. [2]
+The jailer's keys have been left here.
+[0;37m[31m[1mA drunken sailor steadies himself as he tries to stagger back to his boat.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:4 Exits:NESW> s
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mThe Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m10441288X 74.83% 4918C [0;37mT:4 Exits:NWU> u
+[36mThe Pig and Whistle[0;37m
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+[33m[1mA small wooden key lies here.
+A pile of worn maps sits in the corner, free to adventurers.
+A bright dragonscale-adorned shield rests here...it emits an arcane glow..it glows dimly
+[0;37m[31m[1mYou sense that you are not alone.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:D> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Lefty has entered the game.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:D> 
+Lefty starts following you.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:55 Exits:D> [0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:D> [0;37mgroup form[0m
+Lefty is now a member of your group.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:52 Exits:D> [0;37md[0m
+Lefty arrives from above.
+[36mThe Pig and Whistle[0;37m
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here.
+The Tavern owner, William Sweetwater, offers you a drink and a pie.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m10441288X 74.83% 4918C [0;37mT:52 Exits:NWU> [0;37mn[0m
+Lefty arrives from the south.
+[36mThe Tavern Square[0;37m
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+[33m[1mAssorted keys dangle from an iron loop here. [2]
+The jailer's keys have been left here.
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:NESW> [0;37mboth fly[0m
+
+Lefty lifts his arms towards the sky and gracefully floats upward.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:NESW> 
+You lift your arms skyward and begin to float.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:NESW> [0;37mw[0m
+Lefty flies in from the east.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:NEW> [0;37mw[0m
+Lefty flies in from the east.
+[36mA Cobbled Lane[0;37m
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A feral cat parades her territory and sniffs your leg.
+A wandering preacher stands here, trying to convert the people to his faith.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:EW> [0;37mw[0m
+Lefty flies in from the east.
+[36mTraders Square[0;37m
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m10441288X 74.83% 4918C [0;37mT:48 Exits:NESW> [0;37mn[0m
+Lefty flies in from the south.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:48 Exits:NESW> [0;37mn[0m
+Lefty flies in from the south.
+[36mTraders Street[0;37m
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m10441288X 74.83% 4918C [0;37mT:47 Exits:NSW> [0;37mn[0m
+Lefty flies in from the south.
+[36mAn Intersection[0;37m
+    Heavy traffic flows in all directions through this intersection. Early
+in the morning, fishermen are heading out to pursue the day's catch in the
+Balifor Sea. The fortunate return in the afternoon and head east to the
+cannery offices. The unfortunate wearily trudge south in search of a warm
+fire and a pint. Travellers heading to and from the north think of long
+treks.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+A feral cat parades her territory and sniffs your leg.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:47 Exits:NESW> [0;37mn[0m
+Lefty flies in from the south.
+[36mThe North Gate of Port Balifor[0;37m
+    Tired and weary, you drag your aching feet along the narrow road that
+passes through the north gate of Balifor. A tall city wall surrounds the
+port on its three open sides, an indication of its trading wealth and
+prosperous people. The sea off Balifor is reputedly vicious for the
+inexperienced, defending the town well.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A feral cat parades her territory and sniffs your leg.
+A watchman stands here, guarding the gates of Port Balifor.
+A watchman stands here, guarding the gates of Port Balifor.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m10441288X 74.83% 4918C [0;37mT:46 Exits:NS> 
+A feral cat chases a piece of dust around the room.
+
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m10441288X 74.83% 4918C [0;37mT:41 Exits:NS> 
+A drunken sailor arrives from the south.
+A feral cat chases a piece of dust around the room.
+
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m10441288X 74.83% 4918C [0;37mT:39 Exits:NS> [0;37mbali2bard[0m
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m10441288X 74.83% 4918C [0;37mT:36 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m10441288X 74.83% 4918C [0;37mT:35 Exits:NSW> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m117V [0;37m10441288X 74.83% 4918C [0;37mT:35 Exits:NES> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m115V [0;37m10441288X 74.83% 4918C [0;37mT:35 Exits:NS> [0;37mref[0m
+
+Lefty sends a rejuvenating surge Lefty's way, Lefty appears rested.
+
+[32m[0;37m[32m438H [0;37m[32m115V [0;37m10441288X 74.83% 4918C [0;37mT:35 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m113V [0;37m10441288X 74.83% 4918C [0;37mT:35 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m111V [0;37m10441288X 74.83% 4918C [0;37mT:34 Exits:ESW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m109V [0;37m10441288X 74.83% 4918C [0;37mT:34 Exits:NEW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m107V [0;37m10441288X 74.83% 4918C [0;37mT:34 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m105V [0;37m10441288X 74.83% 4918C [0;37mT:34 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m103V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:NEW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m101V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m99V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:NES> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m97V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m95V [0;37m10441288X 74.83% 4918C [0;37mT:32 Exits:NW> 
+Lefty flies in from the east.
+[36mApproaching the Hills of Khuri-Khan[0;37m
+    Amidst the cool breezes and verdant expanse of grasses is this cool
+road. Composed of mulch and dark black soil, the road curves east towards
+the Khurman Sea and west towards the Khalkist mountains. This seems to be a
+favored resting place of travelers, as there are several charred circles
+near the path where the grass grows shorter. A large apple tree provides
+shade over these campsites, as well as food and protection from the
+elements. The cool breeze continues, undaunted, rolling in off of the waves
+of the Khurman Sea, making you feel relaxed if but for a moment.
+[33m[1mA wooden sign nailed to a large tree of ripe apples is here.
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m93V [0;37m10441288X 74.83% 4918C [0;37mT:32 Exits:ESW> 
+You feel less tired.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:31 Exits:ESW> [0;37mbard2ner[0m
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:29 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:29 Exits:NE> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:29 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:29 Exits:SU> [0;37mref[0m
+Lefty flies in from below.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:28 Exits:NWD> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:28 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:28 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m10441288X 74.83% 4918C [0;37mT:28 Exits:NSW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m10441288X 74.83% 4918C [0;37mT:27 Exits:NE> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m10441288X 74.83% 4918C [0;37mT:27 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m10441288X 74.83% 4918C [0;37mT:27 Exits:SW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m10441288X 74.83% 4918C [0;37mT:27 Exits:EW> 
+Lefty sends a rejuvenating surge Lefty's way, Lefty appears rested.
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m106V [0;37m10441288X 74.83% 4918C [0;37mT:26 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m104V [0;37m10441288X 74.83% 4918C [0;37mT:26 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m102V [0;37m10441288X 74.83% 4918C [0;37mT:26 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m100V [0;37m10441288X 74.83% 4918C [0;37mT:26 Exits:NES> [0;37mn[0m
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m98V [0;37m10441288X 74.83% 4918C [0;37mT:24 Exits:SW> [0;37mw[0m
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m96V [0;37m10441288X 74.83% 4918C [0;37mT:24 Exits:NEW> [0;37mn[0m
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m94V [0;37m10441288X 74.83% 4918C [0;37mT:24 Exits:ESW> [0;37mw[0m
+Someone rubs up against your leg.
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m92V [0;37m10441288X 74.83% 4918C [0;37mT:23 Exits:NEW> [0;37mw[0m
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m90V [0;37m10441288X 74.83% 4918C [0;37mT:23 Exits:NESW> 
+You feel less tired.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:22 Exits:NESW> [0;37mref[0m
+[0;37mner2kal[0m
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:19 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:19 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:19 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:18 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:18 Exits:SU> 
+Lefty sends a rejuvenating surge Lefty's way, Lefty appears rested.
+Lefty flies in from below.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:18 Exits:WD> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:18 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m10441288X 74.83% 4918C [0;37mT:17 Exits:NEW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m10441288X 74.83% 4918C [0;37mT:17 Exits:NEW> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m10441288X 74.83% 4918C [0;37mT:17 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m10441288X 74.83% 4918C [0;37mT:17 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m10441288X 74.83% 4918C [0;37mT:16 Exits:NES> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m106V [0;37m10441288X 74.83% 4918C [0;37mT:16 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m104V [0;37m10441288X 74.83% 4918C [0;37mT:16 Exits:SU> 
+Lefty flies in from below.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m102V [0;37m10441288X 74.83% 4918C [0;37mT:16 Exits:ND> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m100V [0;37m10441288X 74.83% 4918C [0;37mT:15 Exits:NES> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m98V [0;37m10441288X 74.83% 4918C [0;37mT:15 Exits:SW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m96V [0;37m10441288X 74.83% 4918C [0;37mT:15 Exits:NE> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m94V [0;37m10441288X 74.83% 4918C [0;37mT:15 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m92V [0;37m10441288X 74.83% 4918C [0;37mT:14 Exits:ESW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m90V [0;37m10441288X 74.83% 4918C [0;37mT:14 Exits:NE> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m88V [0;37m10441288X 74.83% 4918C [0;37mT:14 Exits:SU> 
+You feel less tired.
+Lefty flies in from below.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:14 Exits:ND> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:13 Exits:NSW> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:13 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:13 Exits:SD> 
+Lefty flies in from above.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:13 Exits:NU> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:12 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:12 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m10441288X 74.83% 4918C [0;37mT:12 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m10441288X 74.83% 4918C [0;37mT:12 Exits:NES> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m10441288X 74.83% 4918C [0;37mT:11 Exits:NES> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m10441288X 74.83% 4918C [0;37mT:11 Exits:NESW> 
+Lefty flies in from the south.
+[36mSouthern City Gates[0;37m
+    You are inside the southern city gates. The gates are made of thick
+wood, reinforced with iron bars, and are very tough to break. The gateway
+is arched, and above you you can see steel bars that can slide down in case
+of siege or attack.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A cityguard of Kalaman stands here, guarding the southern gates. (white aura)
+A cityguard of Kalaman stands here, guarding the southern gates. (white aura)
+A cityguard of Kalaman stands here, guarding the southern gates. (white aura)
+A cityguard of Kalaman stands here, guarding the southern gates. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m109V [0;37m10441288X 74.83% 4918C [0;37mT:11 Exits:NS> [0;37mn[0m
+Lefty flies in from the south.
+[36mIntersection of Vingaard Avenue and Wall Road[0;37m
+    You are at the intersection of Vingaard Avenue and Wall Road. Vingaard
+Avenue runs north-south through Kalaman, while Wall Road runs along the
+inside of the city wall. To the north, you see the busy market square of
+Kalaman, while the city gates to the south will lead you out of the city
+and onto the open plains.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m10441288X 74.83% 4918C [0;37mT:10 Exits:NESW> [0;37mw[0m
+Lefty flies in from the east.
+[36mWall Road[0;37m
+    This road runs east-west along side of the city walls. The walls are
+quite sturdy, made of huge flagstones to protect the city from foreign
+foreign assaults. Most of the homes are also located along the wall road,
+but most of the doors are locked and you aren't interested in them anyway.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A solamnic knight is patrolling this area. (white aura)
+A little girl is playing around in the street.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m107V [0;37m10441288X 74.83% 4918C [0;37mT:9 Exits:EW> [0;37mw[0m
+Lefty flies in from the east.
+[36mWall Road[0;37m
+    This road runs east-west along side of the city walls. The walls are
+quite sturdy, made of huge flagstones to protect the city from foreign
+assaults. Most of the homes are also located along the wall road, but most
+of the doors are locked and you aren't interested in them anyway. There is
+a large abandoned warehouse just north of here.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A cityguard of Kalaman looks about for signs of trouble. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m106V [0;37m10441288X 74.83% 4918C [0;37mT:9 Exits:NEW> [0;37mw[0m
+Lefty flies in from the east.
+[36mSouthwest Tower[0;37m
+    The wall road bends here at the southwest corner of the city wall. The
+southwest tower is here, and there is a ladder leading up to the parapet.
+You look up and see a few knights walking about, keeping an eye on the
+surrounding areas of the city. Wall Road continues to the east and north.
+The sewer drains down along the side of the road disappearing into an
+almost invisible grate.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m105V [0;37m10441288X 74.83% 4918C [0;37mT:9 Exits:NEU> [0;37mn[0m
+Lefty flies in from the south.
+[36mWall Road[0;37m
+    This road runs north-south along side of the city walls. The walls are
+quite sturdy, made of huge flagstones to protect the city from foreign
+assaults. Most of the homes are also located along the wall road, but most
+of the doors are locked and you aren't interested in them anyway. You see
+the stables and the stalls to the east, not that you can't smell them
+already.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A little girl is playing around in the street.
+A tired traveller is looking around for the town's inn.
+A street cleaner is walking about, cleaning up the trash.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m104V [0;37m10441288X 74.83% 4918C [0;37mT:9 Exits:NES> [0;37mn[0m
+Lefty flies in from the south.
+[36mWall Road[0;37m
+    This road runs north-south along side of the city walls. The walls are
+quite sturdy, made of huge flagstones to protect the city from foreign
+assaults. Most of the homes are also located along the wall road, but most
+of the doors are locked and you aren't interested in them anyway.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m103V [0;37m10441288X 74.83% 4918C [0;37mT:8 Exits:NS> [0;37mn[0m
+Lefty flies in from the south.
+[36mIntersection of Market Street and Wall Road[0;37m
+    You are at the intersection of Market Street and Wall Road. Market
+Street runs east-west through Kalaman, while Wall Road runs along the
+inside of the city wall. Market Street is the busiest street in Kalaman;
+many of the shops and stands are located here.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A large pigeon is here pecking at some bread crumbs.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m102V [0;37m10441288X 74.83% 4918C [0;37mT:8 Exits:NESW> [0;37mw[0m
+Lefty flies in from the east.
+[36mWestern City Gates[0;37m
+    You are inside the western city gates. The gates are made of thick
+wood, reinforced with iron bars, and are very tough to break. The gateway
+is arched, and above you you can see steel bars that can slide down in case
+of siege or attack.
+[33m[1mA long sword has been left here. [4]
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A cityguard of Kalaman stands here, guarding the western gates. (white aura)
+A cityguard of Kalaman stands here, guarding the western gates. (white aura)
+A cityguard of Kalaman stands here, guarding the western gates. (white aura)
+A cityguard of Kalaman stands here, guarding the western gates. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m101V [0;37m10441288X 74.83% 4918C [0;37mT:8 Exits:EW> [0;37mref[0m
+
+Lefty sends a rejuvenating surge Lefty's way, Lefty appears rested.
+
+[32m[0;37m[32m438H [0;37m[33m[1m101V [0;37m10441288X 74.83% 4918C [0;37mT:7 Exits:EW> [0;37mkal2toll[0m
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m100V [0;37m10441288X 74.83% 4918C [0;37mT:4 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m98V [0;37m10441288X 74.83% 4918C [0;37mT:4 Exits:ESW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m96V [0;37m10441288X 74.83% 4918C [0;37mT:4 Exits:NEW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m94V [0;37m10441288X 74.83% 4918C [0;37mT:4 Exits:NEW> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m92V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m90V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:NS> 
+You feel less tired.
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:2 Exits:SW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:2 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:2 Exits:NES> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:2 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:1 Exits:NS> 
+Lefty flies in from the south.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m10441288X 74.83% 4918C [0;37mT:1 Exits:NS> 
+Lefty flies in from the south.
+[36mA Junction of Paths[0;37m
+    The road reaches a large fork, branching off in three directions. The
+grasses that grow along the Vingaard Estuary blow gently in the seaside
+winds. The smell of salt is strong coming from the east, giving the
+impression that the Northern Courrain is not far to the east. The northern
+trek leads towards a small village on the north shore of the Vingaard
+River. Towards the south, the Vingaard River breaks the road, leaving only
+a ferry to carry passengers towards the city of Kalaman and the lands
+beyond. Looking west, the road winds its course through the plains towards
+the distant city of Palanthas.
+[33m[1mA wooden signpost has been hammered into the ground here.
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A jolly, old bard travels along the road, strumming a mandolin.
+A large guard stands here, keeping a constant eye out for trouble.
+A large guard stands here, keeping a constant eye out for trouble.
+An old man stands here, offering you a look at his wares.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m10441288X 74.83% 4918C [0;37mT:1 Exits:NSW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m10441288X 74.83% 4918C [0;37mT:1 Exits:EW> 
+A flash of lightning announces the storm's arrival.
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:ES> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:NW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:NEW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:59 Exits:ES> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:59 Exits:NW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:59 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m10441288X 74.83% 4918C [0;37mT:59 Exits:ESW> [0;37mref[0m
+
+Lefty sends a rejuvenating surge Lefty's way, Lefty appears rested.
+
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m10441288X 74.83% 4918C [0;37mT:59 Exits:ESW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m10441288X 74.83% 4918C [0;37mT:58 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m10441288X 74.83% 4918C [0;37mT:58 Exits:EW> 
+Lefty flies in from the east.
+[36mThe Ferry Landing[0;37m
+    A small building has been built here, just north of the road. The
+building is apparently there as a living area for the ferry's operators. A
+small section of the building's roof extends out over the road to serve as
+a place of waiting for the ferry. A small dock juts out into the flowing
+waters of the Vingaard, a series of cleats along its edges to tie up the
+ferry.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+One of the ferry owners stands here, ready to take you across the river. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m10441288X 74.83% 4918C [0;37mT:58 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m108V [0;37m10441288X 74.83% 4918C [0;37mT:58 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m106V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:NEW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m104V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:ESW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m103V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m102V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:NW> 
+Lefty flies in from the east.
+[36mThe Tollhouse[0;37m
+    This small stone building stands at the junction of the roads from
+Palanthas to the west, Kalaman to the east, and Solanthus to the south. A
+road leads north to the gates of the City of Vingaard, and east to the main
+keep atop the hill. Inside the tollhouse there are some long benches for
+those waiting to meet with the tax collector, who sits behind the large
+table toward the back. Behind this table is a large safe mounted in the
+wall, storing the collected taxes waiting to be added to the city's
+coffers. A small staircase leads up to a small hatch in the ceiling.
+Travelers wishing to pass must pay the toll, then head west to Palanthas,
+north through the city and east to Kalaman, or south toward the Newsea.
+[33m[1mA small key of brass rests here.
+A wooden sign on a pole directs travellers to their destinations.
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m101V [0;37m10441288X 74.83% 4918C [0;37mT:56 Exits:NESW(U)> [0;37mtoll2sol[0m
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m99V [0;37m10441288X 74.83% 4918C [0;37mT:55 Exits:NESW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m97V [0;37m10441288X 74.83% 4918C [0;37mT:55 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m95V [0;37m10441288X 74.83% 4918C [0;37mT:55 Exits:NEW> 
+Lefty flies in from the west.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m93V [0;37m10441288X 74.83% 4918C [0;37mT:55 Exits:SW> 
+You feel less tired.
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NW> [0;37mref[0m
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:ES> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:53 Exits:NES> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:53 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:53 Exits:NW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m116V [0;37m10441288X 74.83% 4918C [0;37mT:53 Exits:ES> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m114V [0;37m10441288X 74.83% 4918C [0;37mT:52 Exits:NSW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m112V [0;37m10441288X 74.83% 4918C [0;37mT:52 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m110V [0;37m10441288X 74.83% 4918C [0;37mT:52 Exits:NES> 
+Lefty flies in from the west.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m109V [0;37m10441288X 74.83% 4918C [0;37mT:52 Exits:NESW> 
+Lefty flies in from the west.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m107V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:EW> 
+Lefty flies in from the west.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m105V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:SW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m103V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:NES> 
+Lefty flies in from the north.
+[36mA Road Through Port o'Call[0;37m
+    The bustling seaport community of Port o'Call is awash with the sights
+and sounds of a vibrant seafaring community. Travelers from Solamnia on the
+way to Solace mingle with people from Solace, Tarsis and the Abanisinia
+plains sharing travelers tales and jokes. The fresh salt air and the cool
+breeze from the sea make the town all the more pleasant to journey through.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+Eiknom the Male Silvanesti is standing here. (flying) (white aura)
+. . . is followed by a hovering ball of light.
+Repus the Male Hylar Dwarf is standing here. (flying) (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m102V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:NEW> 
+Lefty flies in from the west.
+[36mA Road Through Port o'Call[0;37m
+    The bustling seaport community of Port o'Call is awash with the sights
+and sounds of a vibrant seafaring community. Travelers from Solamnia on the
+way to Solace mingle with people from Solace, Tarsis and the Abanisinia
+plains sharing travelers tales and jokes. The fresh salt air and the cool
+breeze from the sea make the town all the more pleasant to journey through.
+[33m[1mA wooden signpost has been hammered into the ground here.
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m101V [0;37m10441288X 74.83% 4918C [0;37mT:50 Exits:SW> 
+Lefty sends a rejuvenating surge Lefty's way, Lefty appears rested.
+Lefty flies in from the north.
+[36mA Road through Port o'Call[0;37m
+    You smell the wonderful odor of fish cooking to the east, and you can
+hear loud fits of laughter coming from that direction. Looking at the sign
+above the door, it reads 'The Last Call'. You smile quietly to yourself as
+you hear more laughter come from within. Perhaps this might be a nice place
+to spend the evening.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A dapple-gray war-horse is standing here, carrying a Silver Circle Guardsman (white aura).
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m100V [0;37m10441288X 74.83% 4918C [0;37mT:50 Exits:NES> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m99V [0;37m10441288X 74.83% 4918C [0;37mT:50 Exits:NS> 
+Lefty flies in from the north.
+[36mA Road Through Port o'Call[0;37m
+    The square of Port o'Call is a bustling hive of activity, filled with
+the shouts of fishmongers vying for customers. All around the square,
+stands offering the fresh local catch and kiosks with dried fish conduct a
+bustling business with travelers headed to Caergoth. Here and there, you
+notice a stray cat, licking its paws.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A traveler from the far south is looking for the inn. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m98V [0;37m10441288X 74.83% 4918C [0;37mT:50 Exits:NES> 
+Lefty flies in from the north.
+[36mA Road Through Port o'Call[0;37m
+    Continuing on your way through the small, portside city of Port o'Call,
+you can see what looks like the center of the town to the north. You can
+hear the loud shouts of vendors selling their wares to all the passersby. A
+nice breeze blows in from the sea to the south and cools you a bit. The
+strong smell of fish and the sea can be smelled on the air as it floats
+past you on its way inland.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A robed figure stops you and asks for directions to the marketplace.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m97V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:NSW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+You sense that you are not alone.
+You sense that you are not alone.
+The Silver Circle Guard captain walks the streets looking for trouble makers. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m96V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:NS> 
+Lefty flies in from the north.
+[36mA Road Through Port o'Call[0;37m
+    Large ox-drawn wagons rush past you up the street as you leave the
+warehouses behind and approach the docking area. You notice that deep ruts
+have been carved into the cobblestones by the many trips of laden wagons up
+and down the street.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+Sweating profusely, a dock worker is moving a crate to the docks.
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m95V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:NESW> 
+Lefty flies in from the north.
+[36mNearing the Waters Edge[0;37m
+    The pier is a bit rickety, but it seems stable enough to walk on. Some
+of the sailors from the nearby, docked ships walk down the pier and look
+out over the Straits of Schallsea. You stop for a moment yourself and look
+out over the clear waters of the straits. You know that far to the south
+lies Solace and the lands of the elves. You strain to see that far, knowing
+in your heart that it's impossible.
+[33m[1mA large wooden sign has been hammered into the ground here.
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m93V [0;37m10441288X 74.83% 4918C [0;37mT:49 Exits:NES> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m91V [0;37m10441288X 74.83% 4918C [0;37mT:48 Exits:NESW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m89V [0;37m10441288X 74.83% 4918C [0;37mT:48 Exits:NESW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m87V [0;37m10441288X 74.83% 4918C [0;37mT:48 Exits:NESW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m85V [0;37m10441288X 74.83% 4918C [0;37mT:48 Exits:NESW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m83V [0;37m10441288X 74.83% 4918C [0;37mT:47 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m81V [0;37m10441288X 74.83% 4918C [0;37mT:47 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m79V [0;37m10441288X 74.83% 4918C [0;37mT:47 Exits:NS> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m77V [0;37m10441288X 74.83% 4918C [0;37mT:47 Exits:NEW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m75V [0;37m10441288X 74.83% 4918C [0;37mT:46 Exits:EW> 
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[33m[1m73V [0;37m10441288X 74.83% 4918C [0;37mT:46 Exits:EW> 
+You feel less tired.
+Lefty flies in from the east.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4918C [0;37mT:46 Exits:ES> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4918C [0;37mT:46 Exits:NSW> 
+Lefty flies in from the north.
+It is pitch black.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4918C [0;37mT:45 Exits:NS> 
+Lefty flies in from the north.
+[36mThe Northern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the north. Two huge
+vallenwoods stand on either side of the road and it is between these, that
+the gate is built. The forest north of the gate looks much like the forest
+that Solace is a part of. You know, however, that it is much wilder and
+dangerous. Northern Avenue leads south into the heart of Solace.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A menacing rottweiler circles here barking at some shadows.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m125V [0;37m10441288X 74.83% 4918C [0;37mT:45 Exits:NS> [0;37ms[0m
+Lefty flies in from the north.
+[36mIntersection of Northern Avenue and Perimeter Street[0;37m
+    Northern Avenue intersects Perimeter Street here. The avenue leads
+north and south, while Perimeter Street appears to loop to the east,
+circling above the region Solace is built in. What appears to be a gate is
+to the north, while you see signs of Solace to the south.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A lively young child freely romps around the area. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m124V [0;37m10441288X 74.83% 4918C [0;37mT:42 Exits:NES> [0;37ms[0m
+Lefty flies in from the north.
+[36mNorthern Avenue[0;37m
+    The avenue stretches north and south among the huge vallenwoods. The
+limbs of the trees intertwine above you, providing a protective canopy from
+the harsh outside world. A very large vallenwood stands at the edge of the
+road here. To the east a large clearing with a tremendous vallenwood is
+accessible.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A lively young child freely romps around the area. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m123V [0;37m10441288X 74.83% 4918C [0;37mT:42 Exits:NES> [0;37ms[0m
+Lefty flies in from the north.
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:41 Exits:NSW> [0;37mski[0m
+
+You step aside just in time to avoid a young child running from the north.
+
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:39 Exits:NSW> 
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (superb)            miscellaneous (bad)             
+
+     turn          (very poor)       
+     bandage       (very good)       
+     divinity      (very good)         meditate      (superb)          
+     brew          (bad)               scribe        (bad)             
+
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:39 Exits:NSW> [0;37mb[0m
+
+Sebas arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:34 Exits:NSW> 
+Bored with this area, a young child runs north.
+
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:NSW> 
+Sebas leaves west.
+
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:NSW> [0;37m[0m
+
+[32m[0;37m[32m438H [0;37m[32m122V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:NSW> [0;37ms[0m
+Lefty flies in from the north.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A street illusionist drawing quite a crowd with his performance.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m121V [0;37m10441288X 74.83% 4918C [0;37mT:33 Exits:NSWU> [0;37ms[0m
+Lefty flies in from the north.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+A large fountain sits in the middle of the road, taking up space.
+A glorious statue of Sabrina stands here in a victory pose.
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:32 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal (C2+ CLERIC FINGER)!
+You can't put liquids in a priestly amethyst encrusted ring (B4+ CLERIC FINGER)!
+You can't put liquids in a celestial spiderweb collar (C2+ CASTER NECK)!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble (D2 CLERIC BODY) of worship!
+You can't put liquids in a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism!
+You can't put liquids in some inscribed leggings of worship (D3+ CLERIC LEGS)!
+You can't put liquids in some sparkling slippers of atonement (A2+ CLERIC FEET)!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in a luxurious silvery drape (C4 CLERIC ABOUT) of sanctity!
+You can't put liquids in a village elder's belt (A3 CLERIC WAIST) of faith!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a crystal ruby studded bracer (C3+ CASTER WRIST)!
+You can't put liquids in a fiery red austere bracer (B1+ CASTER WRIST)!
+You can't put liquids in an enormous scorched maul!
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a wand of invisibility!
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+
+[32m[0;37m[32m438H [0;37m[32m120V [0;37m10441288X 74.83% 4918C [0;37mT:32 Exits:NESWU> [0;37ms[0m
+Lefty flies in from the north.
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m119V [0;37m10441288X 74.83% 4918C [0;37mT:31 Exits:NS> [0;37ms[0m
+Lefty flies in from the north.
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A lively young child freely romps around the area. (white aura)
+A long-tailed ground dove sits here on a low branch.
+Kensai the Male Minotaur is standing here.
+Krunk the Male Minotaur is standing here.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:30 Exits:NES> [0;37mlist[0m
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Hatchet             352 [38;5;177ma balanced spiked hatchet[0;37m
+  3. Jerkin              121 [38;5;225ma bandit's leather jerkin (A2 THIEF BODY) of trickery[0;37m
+  4. Bardiche            132 a bardiche with a silver half moon blade
+  5. Shield              440 a black granite shield (w25 save_para-2 hr2)
+  6. Raith               166 a black ice raith
+  7. Ring                275 a black ice ring (cl2)
+  8. Shield              220 a black ice shield (rescold16 glow immcold)
+  9. Mask                 38 a black mask (sense_life)
+ 10. Pearl               110 a black pearl
+ 11. Robe                 88 a black priest's robe (ac-3 Evil)
+ 12. Staff               551 a black wood staff (2d6 int-1 wis2 w6)
+ 13. Shield              275 a a blood red adamantite shield (w25 age4 hr1 magic nomag/dru/sham apply 10)
+ 14. Sceptre             330 a blue and green nephaline sceptre
+ 15. Ring                275 a blue nephaline ring (age-3 para-1)
+ 16. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 17. Leaves               88 a bundle of colourful leaves
+ 18. Cloak               220 a burned black cloak
+ 19. Charm               286 [38;5;225ma burnished nephrite charm (B2+ MELEE NECK)[0;37m
+ 20. Rapier              732 a carnelian rapier
+ 21. Staff               121 [38;5;225ma carved battle staff[0;37m
+ 22. Plate               110 a ceremonial breast plate (apply6)
+ 23. Shirt               110 a chain shirt of darkness (str hide antiG nomag/th/pa/dr/sh)
+ 24. Knife               269 [38;5;183ma charred jagged green knife[0;37m
+ 25. Ring                330 [38;5;153ma clear crystal ring (wis1 *set*)[0;37m
+ 26. Lance               275 a a crimson steel lance (3d5 w22)
+ 27. Helmet              330 [38;5;153ma crystal clear helmet[0;37m
+ 28. Rod                 302 [38;5;225ma crystal opal inlaid rod (B2+ MELEE HELD)[0;37m
+ 29. Tunic                88 a dark blue tunic
+ 30. Medallion           110 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 31. Robe                 97 a dark interrogator's robe
+ 32. Shroud               82 a dark purple burial shroud (hide cleric only)
+ 33. Shield              110 a dark shield (ac-7 w22)
+ 34. Sword               550 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 35. Dagger              154 a dark silver dagger (2d4 nomag/dru/cle)
+ 36. Shortsword          236 [38;5;183ma decorative hooked shortsword[0;37m
+ 37. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 38. Necklace            165 a dinosaur tooth necklace (ac-4 ss-1)
+ 39. Ring                220 a dolphin bone ring (ac-4 *19)
+ 40. Sword               165 a dwarven long sword
+
+ [return for more, q to stop][0;37mq[0m
+Bored with this area, a young child runs north.
+
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:26 Exits:NES> [0;37mbrowse knife[0m
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (100%)
+A charred jagged green knife is of fair quality.
+You feel informed:
+ Object 'knife charred jagged green'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 11           Value   : 245
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 2
+ Affects  : INT           by 1
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : knife
+ Damage   : 3D4
+A charred jagged green knife requires knowledge of the skill 'short blades'.
+
+The knife's metallic surface is shiny and new. (100%)
+A a sharp steel kitchen knife (3d3 2/2 w4) is of average quality.
+A a sharp steel kitchen knife (3d3 2/2 w4) requires knowledge of the skill 'short blades'.
+
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:23 Exits:NES> 
+Krunk stops using a training axe.
+
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:18 Exits:NES> 
+Krunk starts holding a sahuagin short sword (1d6 w5).
+
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:17 Exits:NES> [0;37mbrowse short[0m
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+A dark short sword is of poor quality.
+A dark short sword requires knowledge of the skill 'short blades'.
+
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:4 Exits:NES> 
+A Solace peacekeeper arrives from the east.
+
+[32m[0;37m[32m438H [0;37m[32m118V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:NES> 
+The janitor arrives from the south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:NES> [0;37mbrowse spear[0m
+You browse through the merchandise and notice:
+The spear appears to be in perfect condition. (100%)
+A fishing spear is of average quality.
+A fishing spear requires knowledge of the skill 'piercers'.
+
+The wooden surface of the spear is in excellent shape. (100%)
+A polished bamboo spear requires knowledge of the skill 'piercers'.
+
+The surface of the spear gleams brightly. (100%)
+A slender silver spear is of good quality.
+A slender silver spear requires knowledge of the skill 'piercers'.
+
+The spear appears to be in perfect condition. (100%)
+An ice spear is of good quality.
+You feel informed:
+ Object 'spear ice'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: ice
+ Weight   : 14           Value   : 500
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : spear
+ Damage   : 3D5
+An ice spear requires knowledge of the skill 'piercers'.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:NES> 
+[37mYour clanmate Clara has left the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:NES> 
+A long-tailed ground dove stretches its wings and flies east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:54 Exits:NES> [0;37mlist[0m
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Hatchet             352 [38;5;177ma balanced spiked hatchet[0;37m
+  3. Jerkin              121 [38;5;225ma bandit's leather jerkin (A2 THIEF BODY) of trickery[0;37m
+  4. Bardiche            132 a bardiche with a silver half moon blade
+  5. Shield              440 a black granite shield (w25 save_para-2 hr2)
+  6. Raith               166 a black ice raith
+  7. Ring                275 a black ice ring (cl2)
+  8. Shield              220 a black ice shield (rescold16 glow immcold)
+  9. Mask                 38 a black mask (sense_life)
+ 10. Pearl               110 a black pearl
+ 11. Robe                 88 a black priest's robe (ac-3 Evil)
+ 12. Staff               551 a black wood staff (2d6 int-1 wis2 w6)
+ 13. Shield              275 a a blood red adamantite shield (w25 age4 hr1 magic nomag/dru/sham apply 10)
+ 14. Sceptre             330 a blue and green nephaline sceptre
+ 15. Ring                275 a blue nephaline ring (age-3 para-1)
+ 16. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 17. Leaves               88 a bundle of colourful leaves
+ 18. Cloak               220 a burned black cloak
+ 19. Charm               286 [38;5;225ma burnished nephrite charm (B2+ MELEE NECK)[0;37m
+ 20. Rapier              732 a carnelian rapier
+ 21. Staff               121 [38;5;225ma carved battle staff[0;37m
+ 22. Plate               110 a ceremonial breast plate (apply6)
+ 23. Shirt               110 a chain shirt of darkness (str hide antiG nomag/th/pa/dr/sh)
+ 24. Knife               269 [38;5;183ma charred jagged green knife[0;37m
+ 25. Ring                330 [38;5;153ma clear crystal ring (wis1 *set*)[0;37m
+ 26. Lance               275 a a crimson steel lance (3d5 w22)
+ 27. Helmet              330 [38;5;153ma crystal clear helmet[0;37m
+ 28. Rod                 302 [38;5;225ma crystal opal inlaid rod (B2+ MELEE HELD)[0;37m
+ 29. Tunic                88 a dark blue tunic
+ 30. Medallion           110 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 31. Robe                 97 a dark interrogator's robe
+ 32. Shroud               82 a dark purple burial shroud (hide cleric only)
+ 33. Shield              110 a dark shield (ac-7 w22)
+ 34. Sword               550 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 35. Dagger              154 a dark silver dagger (2d4 nomag/dru/cle)
+ 36. Shortsword          236 [38;5;183ma decorative hooked shortsword[0;37m
+ 37. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 38. Necklace            165 a dinosaur tooth necklace (ac-4 ss-1)
+ 39. Ring                220 a dolphin bone ring (ac-4 *19)
+ 40. Sword               165 a dwarven long sword
+
+ [return for more, q to stop][0;37m[0m
+ 41. Spear               220 a fishing spear
+ 42. Helm                550 a forest green helm and visor (sense_life/infra apply7)
+ 43. Necklace            165 a gold and ruby necklace
+ 44. Sash                 44 a gold sash
+ 45. Shield              440 a grandiose shield of black steel (ss-2 para-1 war/dk*19)
+ 46. Sword               385 a granite sword (3d6 dr1 w10 mag/bless/anti_good imm_heat)
+ 47. Jerkin               27 [38;5;153ma green leather jerkin (apply5 *set*)[0;37m
+ 48. Mask                 66 a grey leather mask (ac-3 SL mag *19)
+ 49. Morion              236 [38;5;183ma griffon-feathered morion (B3 BARBARIAN HEAD) of rage[0;37m
+ 50. Hammer              231 a heavily charred blacksmith's hammer
+ 51. Hammer               55 a heavy smithing hammer
+ 52. Mace                236 [38;5;183ma heavy spiked mace[0;37m
+ 53. Sword               302 a heavy steel broadsword (4d4 1/1 w22 nothi/dru/sham)
+ 54. Ring                154 a hermit's ring (con CONFUSION)
+ 55. Bracelet            110 a jade bracelet (resacid6 savepoi-2)
+ 56. Broadaxe            269 [38;5;225ma jagged sharpened broadaxe[0;37m
+ 57. Necklace            110 a large bead necklace (cha1)
+ 58. Pickaxe              88 a large copper pickaxe (2d10 w16 *19)
+ 59. Hammer              220 a a large golden hammer (3d3 w12 glow)
+ 60. Foil                198 a leather handled foil
+ 61. Flail                85 a long brass chain flail
+ 62. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 63. Sword              1100 a massive black rune-covered sword
+ 64. Sword               330 a massive glowing broadsword
+ 65. Sleeves             165 a pair of black leather sleeves (dex1)
+ 66. Pants               165 a pair of black satin pants
+ 67. Boots               110 a pair of black steel plated boots
+ 68. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 69. Boots                71 a pair of dark black boots
+ 70. Earrings            330 a pair of delicate apatite earrings (4th+1 det_inv/infra imm_acid)
+ 71. Greaves             220 a pair of ebony greaves (apply7)
+ 72. Boots               275 a pair of fine metal boots
+ 73. Gloves              880 [38;5;117ma pair of flexible red dragon scale gloves (dex ac-6 res_heat8 *set* *19)[0;37m
+ 74. Greaves             165 a pair of forest green greaves (Bless nobarb/sham Apply8)
+ 75. Vambraces           165 a pair of forest green vambraces (hr1 mag/bless nobarb/sham)
+ 76. Armbands            275 a pair of thick green leather armbands (parry5)
+ 77. Armbands            154 a pair of white feathered armbands (wis1 notank)
+ 78. Shirt               132 [38;5;225ma pilgrim's shirt (A1 CLERIC BODY) of praise[0;37m
+ 79. Ring                 38 a plain gold ring
+ 80. Glasses              66 a plain pair of reading glasses
+
+ [return for more, q to stop][0;37mq[0m
+A Solace peacekeeper leaves east.
+You step aside just in time to avoid a young child running from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:46 Exits:NES> 
+Bored with this area, a young child runs north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:44 Exits:NES> [0;37mbrowse shortsword[0m
+You browse through the merchandise and notice:
+The shortsword's metallic surface is shiny and new. (100%)
+A decorative hooked shortsword is of fair quality.
+You feel informed:
+ Object 'shortsword decorative hooked'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 17           Value   : 215
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : short_sword
+ Damage   : 3D4
+A decorative hooked shortsword requires knowledge of the skill 'short blades'.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:43 Exits:NES> 
+The janitor leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:42 Exits:NES> [0;37mlist[0m
+  1. Helmet              132 a Gargoyle helmet and visor
+  2. Hatchet             352 [38;5;177ma balanced spiked hatchet[0;37m
+  3. Jerkin              121 [38;5;225ma bandit's leather jerkin (A2 THIEF BODY) of trickery[0;37m
+  4. Bardiche            132 a bardiche with a silver half moon blade
+  5. Shield              440 a black granite shield (w25 save_para-2 hr2)
+  6. Raith               166 a black ice raith
+  7. Ring                275 a black ice ring (cl2)
+  8. Shield              220 a black ice shield (rescold16 glow immcold)
+  9. Mask                 38 a black mask (sense_life)
+ 10. Pearl               110 a black pearl
+ 11. Robe                 88 a black priest's robe (ac-3 Evil)
+ 12. Staff               551 a black wood staff (2d6 int-1 wis2 w6)
+ 13. Shield              275 a a blood red adamantite shield (w25 age4 hr1 magic nomag/dru/sham apply 10)
+ 14. Sceptre             330 a blue and green nephaline sceptre
+ 15. Ring                275 a blue nephaline ring (age-3 para-1)
+ 16. Bullwhip            363 a a bone spiked bullwhip (3d5 nomag/dru/cle/mage/sham w18)
+ 17. Leaves               88 a bundle of colourful leaves
+ 18. Cloak               220 a burned black cloak
+ 19. Charm               286 [38;5;225ma burnished nephrite charm (B2+ MELEE NECK)[0;37m
+ 20. Rapier              732 a carnelian rapier
+ 21. Staff               121 [38;5;225ma carved battle staff[0;37m
+ 22. Plate               110 a ceremonial breast plate (apply6)
+ 23. Shirt               110 a chain shirt of darkness (str hide antiG nomag/th/pa/dr/sh)
+ 24. Knife               269 [38;5;183ma charred jagged green knife[0;37m
+ 25. Ring                330 [38;5;153ma clear crystal ring (wis1 *set*)[0;37m
+ 26. Lance               275 a a crimson steel lance (3d5 w22)
+ 27. Helmet              330 [38;5;153ma crystal clear helmet[0;37m
+ 28. Rod                 302 [38;5;225ma crystal opal inlaid rod (B2+ MELEE HELD)[0;37m
+ 29. Tunic                88 a dark blue tunic
+ 30. Medallion           110 a dark electrum medallion (cha1 save_breath1 anti_good)
+ 31. Robe                 97 a dark interrogator's robe
+ 32. Shroud               82 a dark purple burial shroud (hide cleric only)
+ 33. Shield              110 a dark shield (ac-7 w22)
+ 34. Sword               550 a dark short sword (2d6 hr1 w10 antiE/magic)
+ 35. Dagger              154 a dark silver dagger (2d4 nomag/dru/cle)
+ 36. Shortsword          236 [38;5;183ma decorative hooked shortsword[0;37m
+ 37. Staff               770 [38;5;214ma demonic bone staff (3d5 hr2 w16 clan_fly glow/hum/evil/invis/anti_good)[0;37m
+ 38. Necklace            165 a dinosaur tooth necklace (ac-4 ss-1)
+ 39. Ring                220 a dolphin bone ring (ac-4 *19)
+ 40. Sword               165 a dwarven long sword
+
+ [return for more, q to stop][0;37m[0m
+ 41. Spear               220 a fishing spear
+ 42. Helm                550 a forest green helm and visor (sense_life/infra apply7)
+ 43. Necklace            165 a gold and ruby necklace
+ 44. Sash                 44 a gold sash
+ 45. Shield              440 a grandiose shield of black steel (ss-2 para-1 war/dk*19)
+ 46. Sword               385 a granite sword (3d6 dr1 w10 mag/bless/anti_good imm_heat)
+ 47. Jerkin               27 [38;5;153ma green leather jerkin (apply5 *set*)[0;37m
+ 48. Mask                 66 a grey leather mask (ac-3 SL mag *19)
+ 49. Morion              236 [38;5;183ma griffon-feathered morion (B3 BARBARIAN HEAD) of rage[0;37m
+ 50. Hammer              231 a heavily charred blacksmith's hammer
+ 51. Hammer               55 a heavy smithing hammer
+ 52. Mace                236 [38;5;183ma heavy spiked mace[0;37m
+ 53. Sword               302 a heavy steel broadsword (4d4 1/1 w22 nothi/dru/sham)
+ 54. Ring                154 a hermit's ring (con CONFUSION)
+ 55. Bracelet            110 a jade bracelet (resacid6 savepoi-2)
+ 56. Broadaxe            269 [38;5;225ma jagged sharpened broadaxe[0;37m
+ 57. Necklace            110 a large bead necklace (cha1)
+ 58. Pickaxe              88 a large copper pickaxe (2d10 w16 *19)
+ 59. Hammer              220 a a large golden hammer (3d3 w12 glow)
+ 60. Foil                198 a leather handled foil
+ 61. Flail                85 a long brass chain flail
+ 62. Pike                275 a long steel elven pike (2d9 1/1 w22)
+ 63. Sword              1100 a massive black rune-covered sword
+ 64. Sword               330 a massive glowing broadsword
+ 65. Sleeves             165 a pair of black leather sleeves (dex1)
+ 66. Pants               165 a pair of black satin pants
+ 67. Boots               110 a pair of black steel plated boots
+ 68. Gloves              110 a pair of blue gloves (int1 str-2 cl2 mag *19)
+ 69. Boots                71 a pair of dark black boots
+ 70. Earrings            330 a pair of delicate apatite earrings (4th+1 det_inv/infra imm_acid)
+ 71. Greaves             220 a pair of ebony greaves (apply7)
+ 72. Boots               275 a pair of fine metal boots
+ 73. Gloves              880 [38;5;117ma pair of flexible red dragon scale gloves (dex ac-6 res_heat8 *set* *19)[0;37m
+ 74. Greaves             165 a pair of forest green greaves (Bless nobarb/sham Apply8)
+ 75. Vambraces           165 a pair of forest green vambraces (hr1 mag/bless nobarb/sham)
+ 76. Armbands            275 a pair of thick green leather armbands (parry5)
+ 77. Armbands            154 a pair of white feathered armbands (wis1 notank)
+ 78. Shirt               132 [38;5;225ma pilgrim's shirt (A1 CLERIC BODY) of praise[0;37m
+ 79. Ring                 38 a plain gold ring
+ 80. Glasses              66 a plain pair of reading glasses
+
+ [return for more, q to stop][0;37m[0m
+ 81. Spear                66 a polished bamboo spear
+ 82. Necklace            302 [38;5;225ma polished malachite necklace (B1+ CASTER NECK)[0;37m
+ 83. Sash                143 [38;5;183ma polished red bone sash (A5 THIEF WAIST) of thievery[0;37m
+ 84. Plate               220 a polished steel plate
+ 85. Gown                330 a pretty pink satin gown (nocharm)
+ 86. Diadem               77 a priestly diadem (wis1)
+ 87. Apron                60 a protective leather apron (res_heat8 immheat)
+ 88. Belt                 88 a ragged leather belt (int-1)
+ 89. Caul                 88 a ragged leather caul (hr1 ac-2 sense_life/infra)
+ 90. Boots                88 a ragged pair of leather boots (move5 ac-2)
+ 91. Braies               88 a ragged pair of leather braies (move7 ac-2)
+ 92. Armor                88 a ragged suit of leather armor (hit3 ac-4 cl2)
+ 93. Staff               880 [38;5;208ma a red tinged staff wrapped in leather (3d6 w21 magic/bless nomag/thi/pal/dru/scout/dk/sham)[0;37m
+ 94. Ring                132 a rodent skull ring (regen2% mag *19)
+ 95. Staff               165 [38;5;214ma a rotting wooden staff (4d4 2/2 cl1 glow/mag/bless/anti_evil nothi/pal/cle/war/dk w5)[0;37m
+ 96. Dagger              220 a ruby studded dagger (3d5 2/2 w5 senseL thiefOnly Norent)
+ 97. Hammer             1100 a runed-etched mithril hammer (2d8 norent w5)
+ 98. Amulet              330 a sapphire inset amulet
+ 99. Robe                220 a seeker's robe (ac-5 det_mag)
+100. Armour               99 a set of hard black leather armour
+101. Boots               110 a set of thick green leather boots (sneak5 ac-5)
+102. Knife                66 a a sharp steel kitchen knife (3d3 2/2 w4)
+103. Shirt                60 a shirt of black scalemail (res_ac5 bls nobarb/sham *19)
+104. Shirt                60 a shirt of blue splint mail (reselec5)
+105. Shirt                60 a shirt of green chainmail (res_gas5 *18)
+106. Shirt                60 a shirt of red banded mail
+107. Shirt                60 a shirt of white ringmail (rescold5)
+108. Helm                275 a a silver inlaid helm (det_mag/infra magic)
+109. Mantle              550 [38;5;177ma sinister mantle (D1 DARKKNIGHT ABOUT) of darkness[0;37m
+110. Spear               330 a slender silver spear
+111. Amulet               82 a small fishbone amulet (hr1 det_G Evil)
+112. Staff                55 a staff of champions (glow/mag/norent)
+113. Sword               330 a steel finger ring sword
+114. Neckchain            82 a steel neckchain
+115. Armor               220 a suit of gold runed armor (invis mag *19)
+116. Armor               110 a suit of padded red leather armor (hr1)
+117. Ring                110 a thin blue ring
+118. Eyepatch             88 a transparent eyepatch (hr-1 det_mag)
+119. Skirt               352 [38;5;183ma wanderer's leather skirt (C1 BARBARIAN LEGS) of Que-Kiri[0;37m
+120. Breastplate         196 a white dragonarmy breastplate (move3)
+
+ [return for more, q to stop][0;37m[0m
+121. Banner              275 a white dragonarmy war banner
+122. Robe                 93 a white satin robe
+123. Horn                111 a woolly rhinoceros horn (2d7 w12 magic *19)
+124. Cloak               352 an alchemist's cloak (ac-3 res_ac12 antiE *19)
+125. Shield              302 [38;5;183man elaborate silver dragon heater (B3+ LIGHT SHIELD)[0;37m
+126. Ring               1100 an elemental ring (shatter ring for charmie)
+127. Sash                154 [38;5;183man engraved onyx sash of thievery (A4+ THIEF WAIST)[0;37m
+128. Staff               154 [38;5;225man etched battle staff[0;37m
+129. Greatsword          220 [38;5;183man etched shining greatsword[0;37m
+130. Spear               550 an ice spear
+131. Helmet              236 [38;5;183man intricate helmet (B3 PALADIN HEAD) of warding[0;37m
+132. Sword               198 an ivory sword
+133. Sword               330 [38;5;214man an ivory-hilted bastard sword (3d6 hr1 w20 Bless)[0;37m
+134. Amulet              275 an an obsidian amulet (magic 250c)
+135. Headdress           220 an ornate headdress (int1 cl2 det_inv)
+136. Sleeves             330 dark leather sleeves (save_petri-1)
+137. Gauntlets           132 dual crimson gauntlets of might
+138. Armwraps            165 [38;5;225msome acrobat's armwraps of thievery (A1+ THIEF ARMS)[0;37m
+139. Armplates           330 some black armplates of the Skull
+140. Greaves             110 some blue steel solamnic greaves
+141. Pants               330 some brown denim pants
+142. Straps              110 some crossed leather straps, adorned with spikes (rescold10)
+143. Greaves             374 [38;5;183msome decorated greaves of the Sword (C1+ PALADIN LEGS)[0;37m
+144. Armwraps            286 [38;5;225msome deer skin armwraps of stalking (B1+ SCOUT ARMS)[0;37m
+145. Pants               154 [38;5;225msome delicate pants of praise (A1+ CLERIC LEGS)[0;37m
+146. Breeches            154 [38;5;225msome dimensional breeches of stars (A2+ MAGE LEGS)[0;37m
+147. Pants               121 [38;5;183msome dragonhide pants of tracking (A4+ SCOUT LEGS)[0;37m
+148. Chainmail           165 some dwarven chainmail
+149. Pants               275 some heavy sand colored pants
+150. Stompers            236 [38;5;225msome padded stompers of brutality (B1+ WARRIOR FEET)[0;37m
+151. Warboots            418 [38;5;183msome padded warboots of incursion (C1+ WARRIOR FEET)[0;37m
+152. Brassards           440 [38;5;177msome solid brassards of battle (C2+ WARRIOR ARMS)[0;37m
+153. Armor               220 some spiked leather body armor (rangeDR1)
+154. Gauntlets           374 [38;5;177msome studded gauntlets of gloom (C2+ DARKKNIGHT HANDS)[0;37m
+155. Stockings           269 [38;5;183msome timeworn stockings of necromancy (B4+ SHAMAN LEGS)[0;37m
+156. Bracer             1650 the Aurinite king's bracer
+157. Hammer              154 the Hammer of Kzzaz (2d7 1/1 w9 no_offy *19)
+158. Mask               1100 the bronze mask of a sahuagin prince (hr2 cha2 det_inv/magic/good norent)
+159. Staff               132 the the staff of a sahuagin high priestess (3d3 hr2 control5 shamonly w12)
+160. Staff                33 the twisted merchant's staff (2d5 1/1 cl2 EVIL mag w11 *19)
+
+ [return for more, q to stop][0;37m[0m
+A Solace citizen arrives from the north.
+You step aside just in time to avoid a young child running from the east.
+A Solace peacekeeper arrives from the east.
+A Solace citizen leaves east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:21 Exits:NES> 
+Krunk leaves south.
+Kensai leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:21 Exits:NES> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:15 Exits:NES> 
+A long-tailed ground dove lands quietly on a branch nearby.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:12 Exits:NES> [0;37mlist dagger[0m
+ 35. Dagger              154 a dark silver dagger (2d4 nomag/dru/cle)
+ 96. Dagger              220 a ruby studded dagger (3d5 2/2 w5 senseL thiefOnly Norent)
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:9 Exits:NES> 
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:9 Exits:NES> 
+Bored with this area, a young child runs south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:6 Exits:NES> 
+Sir Kantar uth MacKan marches in from the east and looks you over.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:5 Exits:NES> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:3 Exits:NES> [0;37mlist shortsword[0m
+ 36. Shortsword          236 [38;5;183ma decorative hooked shortsword[0;37m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:2 Exits:NES> [0;37mbrowse shortsowrd[0m
+[36mA wandering merchant tells you 'Sorry, I don't have that in stock.'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:60 Exits:NES> 
+Sebas arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:NES> [0;37mbrowse shortsword[0m
+You browse through the merchandise and notice:
+The shortsword's metallic surface is shiny and new. (100%)
+A decorative hooked shortsword is of fair quality.
+You feel informed:
+ Object 'shortsword decorative hooked'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 17           Value   : 215
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : short_sword
+ Damage   : 3D4
+A decorative hooked shortsword requires knowledge of the skill 'short blades'.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:NES> 
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:57 Exits:NES> 
+Sebas leaves south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:56 Exits:NES> [0;37mbrowse spear[0m
+You browse through the merchandise and notice:
+The spear appears to be in perfect condition. (100%)
+A fishing spear is of average quality.
+A fishing spear requires knowledge of the skill 'piercers'.
+
+The wooden surface of the spear is in excellent shape. (100%)
+A polished bamboo spear requires knowledge of the skill 'piercers'.
+
+The surface of the spear gleams brightly. (100%)
+A slender silver spear is of good quality.
+A slender silver spear requires knowledge of the skill 'piercers'.
+
+The spear appears to be in perfect condition. (100%)
+An ice spear is of good quality.
+You feel informed:
+ Object 'spear ice'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: ice
+ Weight   : 14           Value   : 500
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : spear
+ Damage   : 3D5
+An ice spear requires knowledge of the skill 'piercers'.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:52 Exits:NES> 
+Eiknom flies in from the north.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:NES> 
+Eiknom flies south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4918C [0;37mT:51 Exits:NES> [0;37mbuy ice.spear[0m
+[36mA wandering merchant tells you 'That'll cost you 550 coins.  Thank you.'
+[0;37mYou now have an ice spear.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4368C [0;37mT:48 Exits:NES> [0;37mlist mace[0m
+ 53. Mace                236 [38;5;183ma heavy spiked mace[0;37m
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4368C [0;37mT:43 Exits:NES> [0;37mbrowse mace[0m
+You browse through the merchandise and notice:
+The hard wooden surface of the mace is in perfect condition. (100%)
+A heavy spiked mace is of fair quality.
+You feel informed:
+ Object 'mace heavy spiked'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: blackenwood
+ Weight   : 7            Value   : 215
+
+ Affects  : DAMROLL       by 1
+ Class    : mace
+ Damage   : 2D5
+A heavy spiked mace requires knowledge of the skill 'bludgeons'.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4368C [0;37mT:40 Exits:NES> 
+A Solace peacekeeper leaves east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4368C [0;37mT:39 Exits:NES> 
+Sir Kantar uth MacKan marches off south.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4368C [0;37mT:35 Exits:NES> [0;37mbuy heavy.mace[0m
+[36mA wandering merchant tells you 'That'll cost you 236 coins.  Thank you.'
+[0;37mYou now have a heavy spiked mace.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4132C [0;37mT:30 Exits:NES> [0;37ml[0m
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mA long-tailed ground dove sits here on a low branch.
+Lefty Van Zandt, the Traveller is standing here. (flying)
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4132C [0;37mT:29 Exits:NES> 
+[37mYour clanmate Mokey has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4132C [0;37mT:28 Exits:NES> 
+A Solace peacekeeper arrives from the east.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4132C [0;37mT:27 Exits:NES> [0;37mn[0m
+Lefty flies in from the south.
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m131V [0;37m10441288X 74.83% 4132C [0;37mT:25 Exits:NS> [0;37mn[0m
+Lefty flies in from the south.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+A large fountain sits in the middle of the road, taking up space.
+A glorious statue of Sabrina stands here in a victory pose.
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+Derekai the Male Qualinesti is standing here. (white aura)
+Padishar the Male Human is standing here. (white aura)
+A cagey elf is standing here, keeping to himself.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4132C [0;37mT:24 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal (C2+ CLERIC FINGER)!
+You can't put liquids in a priestly amethyst encrusted ring (B4+ CLERIC FINGER)!
+You can't put liquids in a celestial spiderweb collar (C2+ CASTER NECK)!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble (D2 CLERIC BODY) of worship!
+You can't put liquids in a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism!
+You can't put liquids in some inscribed leggings of worship (D3+ CLERIC LEGS)!
+You can't put liquids in some sparkling slippers of atonement (A2+ CLERIC FEET)!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in a luxurious silvery drape (C4 CLERIC ABOUT) of sanctity!
+You can't put liquids in a village elder's belt (A3 CLERIC WAIST) of faith!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a crystal ruby studded bracer (C3+ CASTER WRIST)!
+You can't put liquids in a fiery red austere bracer (B1+ CASTER WRIST)!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in a heavy spiked mace!
+You can't put liquids in an ice spear!
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+A bright ball of light can't be refilled.
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a wand of invisibility!
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+The stone fountain doesn't have oil.
+
+[32m[0;37m[32m438H [0;37m[32m130V [0;37m10441288X 74.83% 4132C [0;37mT:24 Exits:NESWU> [0;37mn[0m
+Lefty flies in from the south.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m129V [0;37m10441288X 74.83% 4132C [0;37mT:23 Exits:NSWU> [0;37mw[0m
+Lefty flies in from the east.
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m128V [0;37m10441288X 74.83% 4132C [0;37mT:23 Exits:NEU> [0;37mu[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+Lefty flies in from below.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A red-haired young lady is wiping down a table here.
+A small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m127V [0;37m10441288X 74.83% 4132C [0;37mT:23 Exits:SWUD> [0;37mu[0m
+Lefty flies in from below.
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1m[0;37m[31m[1mLefty Van Zandt, the Traveller is standing here. (flying)
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails. (white aura)
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4132C [0;37mT:22 Exits:D> [0;37mb[0m
+
+The receptionist gives Lefty an offer.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4132C [0;37mT:20 Exits:D> [0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You need at least 2531 coins to rent.'[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You will be able to rent for 39 days.'[0m
+
+[36mMokey tells your clan 'morning'
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4132C [0;37mT:15 Exits:D> 
+The receptionist shows Lefty to his room.
+Lefty stops following you.
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4132C [0;37mT:8 Exits:D> [0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You need at least 2531 coins to rent.'[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You will be able to rent for 39 days.'[0m
+
+Hederick, the High Theocrat shouts "Help! Help! I can't defend myself!"
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4132C [0;37mT:8 Exits:D> [0m#SESSION 'a' ACTIVATED.[0m
+
+Hederick, the High Theocrat shouts "Help! Help! I can't defend myself!"
+
+[32m[0;37m[32m438H [0;37m[32m126V [0;37m10441288X 74.83% 4132C [0;37mT:2 Exits:D> 
+[37mYour clanmate Wembley has entered the game.
+[0;37m
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4132C [0;37mT:60 Exits:D> [0;37moffer[0m
+[33m[1m   a bishop's moonstone engraved seal (C2+ CLERIC FINGER) : 170 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring (B4+ CLERIC FINGER) : 150 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar (C2+ CASTER NECK) : 170 coins/day
+[0;37m[33m[1m                a black and gold cape : 280 coins/day
+[0;37m[33m[1m      a devotee's chasuble (D2 CLERIC BODY) of worship : 360 coins/day
+[0;37m[33m[1m a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism : 420 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship (D3+ CLERIC LEGS) : 330 coins/day
+[0;37m[33m[1m some sparkling slippers of atonement (A2+ CLERIC FEET) : 60 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 120 coins/day
+[0;37m[33m[1ma luxurious silvery drape (C4 CLERIC ABOUT) of sanctity : 210 coins/day
+[0;37m[33m[1m      a village elder's belt (A3 CLERIC WAIST) of faith : 90 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 10 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [20] : 20 coins/day
+[0;37m[33m[1m             a short stick of incense : 1 coin/day
+[0;37m[33m[1m                   an aboleth's scale : 1 coin/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 4 coins/day
+[0;37m[33m[1m                a sprinkle of saffron : 1 coin/day
+[0;37m[33m[1m            a deformed crow's leg [3] : 6 coins/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 4 coins/day
+[0;37m[33m[1m                  a stick of cinnamon : 1 coin/day
+[0;37m[33m[1m              shimmering faerie wings : 5 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 5 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 3 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 4 coins/day
+[0;37m[33m[1m              a magnetized needle [4] : 8 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 12 coins/day
+[0;37m[33m[1m              some bitten fingernails : 2 coins/day
+[0;37m[33m[1m                      a bit of fleece : 3 coins/day
+[0;37m[33m[1m    a few glittering snake scales [2] : 4 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 3 coins/day
+[0;37m[33m[1m                        a forked twig : 1 coin/day
+[0;37m[33m[1m       a piece of royal honeycomb [2] : 2 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 140 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 1 coin/day
+[0;37m[33m[1m                       a glass sliver : 1 coin/day
+[0;37m[33m[1m            a tiny bronze weathervane : 3 coins/day
+[0;37m[33m[1m           an intricately carved horn : 3 coins/day
+[0;37m[33m[1m                    some cat whiskers : 3 coins/day
+[0;37m[33m[1m                    some spruce seeds : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m[1m       a pinch of powdered silver [2] : 4 coins/day
+[0;37m[33m[1m                       a pineal gland : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 4 coins/day
+[0;37m[33m[1m                     a scabbed potato : 1 coin/day
+[0;37m[33m[1m               a scratched glass lens : 1 coin/day
+[0;37m[33m[1m                     a short iron bar : 2 coins/day
+[0;37m[33m[1m             a small block of granite : 2 coins/day
+[0;37m[33m[1m             a small flask of bitumen : 3 coins/day
+[0;37m[33m[1m               a small flask of smoke : 3 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 3 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 1 coin/day
+[0;37m[33m[1m                a flattened lead disc : 3 coins/day
+[0;37m[33m[1m                a glass lightning jar : 1 coin/day
+[0;37m[33m[1m                a gleaming silver die : 2 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 2 coins/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[33m[1m              a jar of dark red blood : 5 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 1 coin/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 4 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 1 coin/day
+[0;37m[33m[1m                   a bag of fluff [2] : 6 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 2 coins/day
+[0;37m[33m[1m                    a bottled firefly : 1 coin/day
+[0;37m[33m[1m                 a chipped stone dart : 1 coin/day
+[0;37m[33m[1m              a chiseled granite fist : 3 coins/day
+[0;37m[33m[1m            a deep violet dragon tear : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[33m[1m   a few strands of sticky spider web : 1 coin/day
+[0;37m[33m[1m        a crystal ruby studded bracer (C3+ CASTER WRIST) : 270 coins/day
+[0;37m[33m[1m           a fiery red austere bracer (B1+ CASTER WRIST) : 120 coins/day
+[0;37m[33m[1m            an enormous scorched maul : 250 coins/day
+[0;37m[33m                  a heavy spiked mace : 120 coins/day
+[0;37m[33m                         an ice spear : 1000 coins/day
+[0;37m[33m                  a wrist lantern [5] : 25 coins/day
+[0;37m[33m           a bright ball of light [3] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [4] : 60 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m                   a ridged pine cone : 1 coin/day
+[0;37m[32m                      a wooden splint : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m                a bit of brain tissue : 2 coins/day
+[0;37m[32mdirt from a long forgotten grave [20] : 20 coins/day
+[0;37m[32m           a vial of spinal fluid [2] : 6 coins/day
+[0;37m[32m                 a bit of blue litmus : 2 coins/day
+[0;37m[32m  a leather pouch of vampire dust [2] : 4 coins/day
+[0;37m[32m                           a rose bud : 1 coin/day
+[0;37m[32m                a meteor fragment [2] : 6 coins/day
+[0;37m[32m            a murky vial of squid ink : 3 coins/day
+[0;37m[32m                    a bottled firefly : 1 coin/day
+[0;37m[32m      a broken piece of stained glass : 1 coin/day
+[0;37m[32m                 some rose petals [2] : 4 coins/day
+[0;37m[32m         a chromatic crystalline bead : 5 coins/day
+[0;37m[32m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[32m                       a garlic clove : 1 coin/day
+[0;37m[32m                      a golden nugget : 2 coins/day
+[0;37m[32m             a pearly white moonstone : 2 coins/day
+[0;37m[32m           a piece of broken pond ice : 3 coins/day
+[0;37m[32m               a small flask of smoke : 3 coins/day
+[0;37m[32m         a small spherical lode stone : 3 coins/day
+[0;37m[32m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 6 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 4 coins/day
+[0;37m[32m                    a vial of vinegar : 2 coins/day
+[0;37m[32m             powdered bull's horn [2] : 4 coins/day
+[0;37m[32m               some leaves of hemlock : 2 coins/day
+[0;37m[32m                      some poison ivy : 2 coins/day
+[0;37m[33m               a wand of invisibility : 200 coins/day
+[0;37mThe receptionist tells you 'You need at least 4821 coins to rent.'
+The receptionist tells you 'You will be able to rent for 33 days.'
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4132C [0;37mT:42 Exits:D> 
+Dolan cracks his knuckles and stretches.
+
+[32m[0;37m[32m438H [0;37m[32m132V [0;37m10441288X 74.83% 4132C [0;37mT:40 Exits:D> [0;37mrent[0m
+[33m[1m   a bishop's moonstone engraved seal (C2+ CLERIC FINGER) : 170 coins/day
+[0;37m[33m[1m   a priestly amethyst encrusted ring (B4+ CLERIC FINGER) : 150 coins/day
+[0;37m[33m[1m         a celestial spiderweb collar (C2+ CASTER NECK) : 170 coins/day
+[0;37m[33m[1m                a black and gold cape : 280 coins/day
+[0;37m[33m[1m      a devotee's chasuble (D2 CLERIC BODY) of worship : 360 coins/day
+[0;37m[33m[1m a flawless onyx diadem (D5 CLERIC HEAD) of fanaticism : 420 coins/day
+[0;37m[33m[1m   some inscribed leggings of worship (D3+ CLERIC LEGS) : 330 coins/day
+[0;37m[33m[1m some sparkling slippers of atonement (A2+ CLERIC FEET) : 60 coins/day
+[0;37m[33m[1m     a pair of dwarven mason's gloves : 120 coins/day
+[0;37m[33m[1ma luxurious silvery drape (C4 CLERIC ABOUT) of sanctity : 210 coins/day
+[0;37m[33m[1m      a village elder's belt (A3 CLERIC WAIST) of faith : 90 coins/day
+[0;37m[33m[1m            a pouch of goose feathers : 10 coins/day
+[0;37m[33m[1m       a deadly scorpion stinger [20] : 20 coins/day
+[0;37m[33m[1m             a short stick of incense : 1 coin/day
+[0;37m[33m[1m                   an aboleth's scale : 1 coin/day
+[0;37m[33m[1m            a clump of damp mulch [2] : 4 coins/day
+[0;37m[33m[1m                a sprinkle of saffron : 1 coin/day
+[0;37m[33m[1m            a deformed crow's leg [3] : 6 coins/day
+[0;37m[33m[1m    a neatly folded parchment fan [2] : 4 coins/day
+[0;37m[33m[1m                  a stick of cinnamon : 1 coin/day
+[0;37m[33m[1m              shimmering faerie wings : 5 coins/day
+[0;37m[33m[1m        an absolutely perfect diamond : 5 coins/day
+[0;37m[33m[1m              a bottled thunder storm : 3 coins/day
+[0;37m[33m[1m            a brilliant blue bead [2] : 4 coins/day
+[0;37m[33m[1m              a magnetized needle [4] : 8 coins/day
+[0;37m[33m[1ma torn page from an ancient calendar [4] : 12 coins/day
+[0;37m[33m[1m              some bitten fingernails : 2 coins/day
+[0;37m[33m[1m                      a bit of fleece : 3 coins/day
+[0;37m[33m[1m    a few glittering snake scales [2] : 4 coins/day
+[0;37m[33m[1m                a smear of acacia gum : 3 coins/day
+[0;37m[33m[1m                        a forked twig : 1 coin/day
+[0;37m[33m[1m       a piece of royal honeycomb [2] : 2 coins/day
+[0;37m[33m[1m                   a tiny acorn [140] : 140 coins/day
+[0;37m[33m[1m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[33m[1m     a handful of toasted beetle legs : 1 coin/day
+[0;37m[33m[1m                       a glass sliver : 1 coin/day
+[0;37m[33m[1m            a tiny bronze weathervane : 3 coins/day
+[0;37m[33m[1m           an intricately carved horn : 3 coins/day
+[0;37m[33m[1m                    some cat whiskers : 3 coins/day
+[0;37m[33m[1m                    some spruce seeds : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[33m[1m       a pinch of powdered silver [2] : 4 coins/day
+[0;37m[33m[1m                       a pineal gland : 2 coins/day
+[0;37m[33m[1ma pink and black mottled snake tongue [2] : 4 coins/day
+[0;37m[33m[1m                     a scabbed potato : 1 coin/day
+[0;37m[33m[1m               a scratched glass lens : 1 coin/day
+[0;37m[33m[1m                     a short iron bar : 2 coins/day
+[0;37m[33m[1m             a small block of granite : 2 coins/day
+[0;37m[33m[1m             a small flask of bitumen : 3 coins/day
+[0;37m[33m[1m               a small flask of smoke : 3 coins/day
+[0;37m[33m[1m         a small spherical lode stone : 3 coins/day
+[0;37m[33m[1m                 a snapdragon blossom : 1 coin/day
+[0;37m[33m[1m                a flattened lead disc : 3 coins/day
+[0;37m[33m[1m                a glass lightning jar : 1 coin/day
+[0;37m[33m[1m                a gleaming silver die : 2 coins/day
+[0;37m[33m[1m                  a hand-held sundial : 2 coins/day
+[0;37m[33m[1m       a handful of roasted chestnuts : 1 coin/day
+[0;37m[33m[1m              a jar of dark red blood : 5 coins/day
+[0;37m[33m[1m                    a lump of beeswax : 1 coin/day
+[0;37m[33m[1m       a pair of albino bat wings [2] : 4 coins/day
+[0;37m[33m[1m            a pinch of chameleon dust : 1 coin/day
+[0;37m[33m[1m                   a bag of fluff [2] : 6 coins/day
+[0;37m[33m[1m                 a bit of blue litmus : 2 coins/day
+[0;37m[33m[1m                    a bottled firefly : 1 coin/day
+[0;37m[33m[1m                 a chipped stone dart : 1 coin/day
+[0;37m[33m[1m              a chiseled granite fist : 3 coins/day
+[0;37m[33m[1m            a deep violet dragon tear : 2 coins/day
+[0;37m[33m[1m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[33m[1m   a few strands of finely woven hemp : 2 coins/day
+[0;37m[33m[1m   a few strands of sticky spider web : 1 coin/day
+[0;37m[33m[1m        a crystal ruby studded bracer (C3+ CASTER WRIST) : 270 coins/day
+[0;37m[33m[1m           a fiery red austere bracer (B1+ CASTER WRIST) : 120 coins/day
+[0;37m[33m[1m            an enormous scorched maul : 250 coins/day
+[0;37m[33m                  a heavy spiked mace : 120 coins/day
+[0;37m[33m                         an ice spear : 1000 coins/day
+[0;37m[33m                  a wrist lantern [5] : 25 coins/day
+[0;37m[33m           a bright ball of light [3] : 0 coins/day
+[0;37m[33m       a glowing scroll of recall [4] : 60 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m                   a ridged pine cone : 1 coin/day
+[0;37m[32m                      a wooden splint : 1 coin/day
+
+ [return for more, q to stop][0;37m[0m
+[0;37m[32m                a bit of brain tissue : 2 coins/day
+[0;37m[32mdirt from a long forgotten grave [20] : 20 coins/day
+[0;37m[32m           a vial of spinal fluid [2] : 6 coins/day
+[0;37m[32m                 a bit of blue litmus : 2 coins/day
+[0;37m[32m  a leather pouch of vampire dust [2] : 4 coins/day
+[0;37m[32m                           a rose bud : 1 coin/day
+[0;37m[32m                a meteor fragment [2] : 6 coins/day
+[0;37m[32m            a murky vial of squid ink : 3 coins/day
+[0;37m[32m                    a bottled firefly : 1 coin/day
+[0;37m[32m      a broken piece of stained glass : 1 coin/day
+[0;37m[32m                 some rose petals [2] : 4 coins/day
+[0;37m[32m         a chromatic crystalline bead : 5 coins/day
+[0;37m[32m  a dram of giant slug digestive acid : 2 coins/day
+[0;37m[32m                       a garlic clove : 1 coin/day
+[0;37m[32m                      a golden nugget : 2 coins/day
+[0;37m[32m             a pearly white moonstone : 2 coins/day
+[0;37m[32m           a piece of broken pond ice : 3 coins/day
+[0;37m[32m               a small flask of smoke : 3 coins/day
+[0;37m[32m         a small spherical lode stone : 3 coins/day
+[0;37m[32m    a thin slate of polished obsidian : 2 coins/day
+[0;37m[32ma torn page from an ancient calendar [2] : 6 coins/day
+[0;37m[32m      a vial of seductive perfume [2] : 4 coins/day
+[0;37m[32m                    a vial of vinegar : 2 coins/day
+[0;37m[32m             powdered bull's horn [2] : 4 coins/day
+[0;37m[32m               some leaves of hemlock : 2 coins/day
+[0;37m[32m                      some poison ivy : 2 coins/day
+[0;37m[33m               a wand of invisibility : 200 coins/day
+[0;37mThe receptionist tells you 'You need at least 4821 coins to rent.'
+The receptionist tells you 'You will be able to rent for 33 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

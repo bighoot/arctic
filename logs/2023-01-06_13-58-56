@@ -1,0 +1,1813 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? ronas
+Password: 
+
+
+You were last connected Fri Jan 06 16:56:42 2023 UTC from 0.0.0.0.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 16 steel in rent.
+
+Welcome to the land of Krynn.
+
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mThe meat of a diabolic cavern mutant lies here.
+Assorted keys dangle from an iron loop here.
+A few keys with a thin metal chain looped through are lying here.
+[0;37m[31m[1mA red-haired young lady is wiping down a table here.
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:59 Exits:D> 
+Tika Waylan leaves down.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:58 Exits:D> 
+Dolan rests his hand on the hilt of his sword and looks around the inn.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:20 Exits:D> 
+The receptionist sighs and starts flipping through a leather bound book.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:30 Exits:D> 
+Dolan watches the receptionist out of the corner of his eye, trying not to
+get caught looking.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:40 Exits:D> 
+The receptionist pulls out a broom and sweeps the floor of the inn.
+Dolan, the guard, looks you over trying to determine if you will be
+trouble.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:60 Exits:D> 
+Telaran flies in from below.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:44 Exits:D> 
+The receptionist shows Telaran to her room.
+Telaran sinks gently to the ground.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:44 Exits:D> 
+Tika Waylan arrives from below.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:52 Exits:D> 
+Dolan stares at the receptionist but quickly looks away when she looks up.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:20 Exits:D> l
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mThe meat of a diabolic cavern mutant lies here.
+Assorted keys dangle from an iron loop here.
+A few keys with a thin metal chain looped through are lying here.
+[0;37m[31m[1mA red-haired young lady is wiping down a table here.
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:2 Exits:D> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Sprink has entered the game.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:55 Exits:D> 
+Sprink starts following you.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:51 Exits:D> [0;37mgroup form[0m
+Sprink is now a member of your group.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1240C [0;37mT:46 Exits:D> [0;37msettm[0m
+[0;37md[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+Sprink flies in from above.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A small child plays with some colorful objects.
+Otik watches you calmly, while he skillfully mixes a drink.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m148787X 80.00% 1240C [0;37mT:41 Exits:SWUD> [0;37md[0m
+Sprink flies in from above.
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A small child plays with some colorful objects.
+[0;37mA small child points a thin wooden stick at Sprink.
+Sprink shines with a holy light.
+
+[32m[0;37m[32m133H [0;37m[32m129V [0;37m148787X 80.00% 1240C [0;37mT:40 Exits:NEU> [0;37me[0m
+Sprink flies in from the west.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m128V [0;37m148787X 80.00% 1240C [0;37mT:40 Exits:NSWU> [0;37ms[0m
+Sprink flies in from the north.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Seeker priest stands here trying to convert unbelievers.
+A cheerful gnome whistles an out of tune melody as he walks past.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m148787X 80.00% 1240C [0;37mT:40 Exits:NESWU> 
+Sprink fills a waterskin from the stone fountain.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m148787X 80.00% 1240C [0;37mT:40 Exits:NESWU> 
+You can't put liquids in some heavy red robes of the Conclave!
+You can't put liquids in a staff of carved wood!
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m148787X 80.00% 1240C [0;37mT:39 Exits:NESWU> [0;37mn[0m
+Sprink flies in from the south.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m126V [0;37m148787X 80.00% 1240C [0;37mT:32 Exits:NSWU> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A small child plays with some colorful objects.
+[0;37mA small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m148787X 80.00% 1240C [0;37mT:32 Exits:NEU> [0;37mu[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+Sprink flies in from below.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A small child plays with some colorful objects.
+Otik watches you calmly, while he skillfully mixes a drink.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1240C [0;37mT:31 Exits:SWUD> [0;37mbuy bowl[0m
+[36mOtik tells you 'That'll cost you 2 coins, pleasure doing business.'
+[0;37mYou now have a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1238C [0;37mT:29 Exits:SWUD> [0;37mbuy bowl[0m
+[36mOtik tells you 'That'll cost you 2 coins, pleasure doing business.'
+[0;37mYou now have a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1236C [0;37mT:28 Exits:SWUD> [0;37mbuy bowl[0m
+[36mOtik tells you 'That'll cost you 2 coins, pleasure doing business.'
+[0;37mYou now have a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1234C [0;37mT:28 Exits:SWUD> [0;37mbuy bowl[0m
+[36mOtik tells you 'That'll cost you 2 coins, pleasure doing business.'
+[0;37mYou now have a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1232C [0;37mT:28 Exits:SWUD> [0;37mb buy bowl[0m
+
+Sprink buys a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1232C [0;37mT:26 Exits:SWUD> [0m[1;34;49mPRIVATE MESSAGE FROM Otik: 'That'll cost you 2 coins, pleasure doing business.'[0m
+[0;37mb buy bowl[0m
+
+Sprink buys a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1232C [0;37mT:25 Exits:SWUD> [0m[1;34;49mPRIVATE MESSAGE FROM Otik: 'That'll cost you 2 coins, pleasure doing business.'[0m
+[0;37mb buy bowl[0m
+
+Sprink buys a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1232C [0;37mT:25 Exits:SWUD> [0m[1;34;49mPRIVATE MESSAGE FROM Otik: 'That'll cost you 2 coins, pleasure doing business.'[0m
+[0;37mb buy bowl[0m
+
+Sprink buys a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1232C [0;37mT:25 Exits:SWUD> [0m[1;34;49mPRIVATE MESSAGE FROM Otik: 'That'll cost you 2 coins, pleasure doing business.'[0m
+[0;37mbuy bowl[0m
+[36mOtik tells you 'That'll cost you 2 coins, pleasure doing business.'
+[0;37mYou now have a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1230C [0;37mT:24 Exits:SWUD> [0;37mbuy bowl[0m
+[36mOtik tells you 'That'll cost you 2 coins, pleasure doing business.'
+[0;37mYou now have a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1228C [0;37mT:23 Exits:SWUD> [0;37mbuy bowl[0m
+[36mOtik tells you 'That'll cost you 2 coins, pleasure doing business.'
+[0;37mYou now have a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1226C [0;37mT:23 Exits:SWUD> [0;37mbuy bowl[0m
+[36mOtik tells you 'That'll cost you 2 coins, pleasure doing business.'
+[0;37mYou now have a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1224C [0;37mT:23 Exits:SWUD> [0;37mb buy bowl[0m
+
+Sprink buys a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1224C [0;37mT:22 Exits:SWUD> [0m[1;34;49mPRIVATE MESSAGE FROM Otik: 'That'll cost you 2 coins, pleasure doing business.'[0m
+[0;37mb buy bowl[0m
+
+Sprink buys a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1224C [0;37mT:22 Exits:SWUD> [0m[1;34;49mPRIVATE MESSAGE FROM Otik: 'That'll cost you 2 coins, pleasure doing business.'[0m
+[0;37mb buy bowl[0m
+
+Sprink buys a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1224C [0;37mT:21 Exits:SWUD> [0m[1;34;49mPRIVATE MESSAGE FROM Otik: 'That'll cost you 2 coins, pleasure doing business.'[0m
+[0;37mb buy bowl[0m
+
+Sprink buys a bowl of Otik's spiced potatoes.
+
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1224C [0;37mT:21 Exits:SWUD> [0m[1;34;49mPRIVATE MESSAGE FROM Otik: 'That'll cost you 2 coins, pleasure doing business.'[0m
+[0;37md[0m
+Sprink flies in from above.
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A small child plays with some colorful objects.
+[0;37mA small child points a thin wooden stick at Sprink.
+Sprink shines with a holy light.
+
+[32m[0;37m[32m133H [0;37m[32m123V [0;37m148787X 80.00% 1224C [0;37mT:21 Exits:NEU> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Small Side Street[0;37m
+    You are on a smaller path in the forest here. The path itself rises up
+the side of a small embankment. Once you top this hill, you spy a large
+vallenwood that is set off at the edge of the road. Up in the vallenwood,
+you spy a small store that has been built into the tree above you. Northern
+Avenue is to the east. The small path you are on now leads south towards
+the largest vallenwood you have ever laid eyes on. A small stairway spirals
+down around the trunk of the vallenwood here. A small sign is posted next
+to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A lively young child freely romps around the area.
+A fidgeting wiry young boy stands here looking suspicious.
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m122V [0;37m148787X 80.00% 1224C [0;37mT:20 Exits:ESU> [0;37mu[0m
+Sprink flies in from below.
+[36mStephen's General Supplies[0;37m
+    This shop appears to have anything an up and coming adventurer could
+desire. All around you, stacks and piles of supplies fill the room. Huge
+barrels and bags of food line the far wall, waiting to be purchased. A
+small desk sits in the back corner of the room. A small stairway leads down
+to the forest below. A doorway to the east leads out onto a vallenwood
+bough.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+Stephen whistles merrily as he takes inventory.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1224C [0;37mT:19 Exits:ED> [0;37mboth buy 4*waterskin[0m
+Sprink buys 4 waterskins.
+[36mStephen tells you 'That'll be worth 4 coins....'
+[0;37mYou now have 4 waterskins.
+
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1220C [0;37mT:14 Exits:ED> [0m[1;34;49mPRIVATE MESSAGE FROM Stephen: 'That'll be worth 4 coins....'[0m
+
+A Solace citizen arrives from below.
+
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1220C [0;37mT:14 Exits:ED> 
+A wiry young boy arrives from below.
+
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1220C [0;37mT:8 Exits:ED> 
+You step aside just in time to avoid a young child running from below.
+
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1220C [0;37mT:6 Exits:ED> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+Sighing heavily, Stephen takes a seat to rest from his chores.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:40 Exits:ED> 
+A Solace citizen leaves down.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:32 Exits:ED> 
+You are hungry.
+You are thirsty.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:60 Exits:ED> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+
+A wiry young boy leaves down.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:50 Exits:ED> [0;37mboth eat bowl[0m
+Sprink winces as the spicy hot potatoes burn her tongue.
+Your eyes begin to water as the spicy hot potatoes hit your taste buds.
+There is nothing left now.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:41 Exits:ED> [0;37mboth drink all.water[0m
+You drink the water.
+You drink the water.
+You do not feel thirsty.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:38 Exits:ED> [0;37mfly me[0m
+Warning: your input 'me' ignored.
+You lift your arms skyward and begin to float.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:32 Exits:ED> [0;37mfly sprink[0m
+Warning: your input 'sprink' ignored.
+You're already flying!
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:30 Exits:ED> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:29 Exits:ED> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:29 Exits:ED> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mT:28 Exits:ED> [0;37mmage[0m
+[0;37mfly sprink[0m
+[38;5;127mYou feel enlightened.[0m
+You utter the words, 'fly'
+Sprink rises up off the ground.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:24 Exits:ED> [0;37mfly me[0m
+[38;5;127mYou feel enlightened.[0m
+You utter the words, 'fly'
+You rise up off the ground.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:20 Exits:ED> [0;37ms[0m
+[0;37ms[0m
+[0;37msd[0m
+[0;37me[0m
+[0;37ms[0m
+[0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:16 Exits:ED> 
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:16 Exits:ED> 
+Huh?!
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:15 Exits:ED> 
+Sprink flies in from the west.
+[36mA Solace Canopy Walk[0;37m
+    The canopy walk connects with an intersection to the east, while
+Stephen's General Supplies lies to the west. A few housewives shove their
+way across the path, their hands tightly clutching their purchases for the
+week. A few charlatans and illusionists mill around the area looking for
+anyone gullible and with a pouch full of coins.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m129V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:15 Exits:EW> 
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m129V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:15 Exits:EW> 
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m129V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:15 Exits:EW> [0;37mw[0m
+Sprink flies in from the east.
+[36mStephen's General Supplies[0;37m
+    This shop appears to have anything an up and coming adventurer could
+desire. All around you, stacks and piles of supplies fill the room. Huge
+barrels and bags of food line the far wall, waiting to be purchased. A
+small desk sits in the back corner of the room. A small stairway leads down
+to the forest below. A doorway to the east leads out onto a vallenwood
+bough.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A fidgeting wiry young boy stands here looking suspicious.
+A lively young child freely romps around the area.
+Stephen whistles merrily as he takes inventory.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:13 Exits:ED> [0;37md[0m
+Sprink flies in from above.
+[36mA Small Side Street[0;37m
+    You are on a smaller path in the forest here. The path itself rises up
+the side of a small embankment. Once you top this hill, you spy a large
+vallenwood that is set off at the edge of the road. Up in the vallenwood,
+you spy a small store that has been built into the tree above you. Northern
+Avenue is to the east. The small path you are on now leads south towards
+the largest vallenwood you have ever laid eyes on. A small stairway spirals
+down around the trunk of the vallenwood here. A small sign is posted next
+to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A small child plays with some colorful objects.
+[0;37mA small child points a thin wooden stick at you.
+You feel righteous.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:13 Exits:ESU> [0;37me[0m
+Sprink flies in from the west.
+[36mNorthern Avenue[0;37m
+    The avenue continues to wind north and south through the dense forest
+town. The sounds of wildlife abound here, making you feel safe and at
+ease. It is almost as if this town has been built in a special place. It
+is possible to leave the avenue and venture west here.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:12 Exits:NSW> [0;37ms[0m
+Sprink flies in from the north.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+You see the outline of a life form here, carrying: a midnight blue velvet robe.
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m123V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:11 Exits:NSWU> [0;37ms[0m
+Sprink flies in from the north.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Sabrina stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+You see the outline of a life form here, carrying: a midnight blue velvet robe.
+You sense that you are not alone.
+Ana the Female Goblin is standing here. (flying)
+Wil the Male Goblin is standing here. (flying)
+A janitor is walking around, cleaning up.
+A Solace peacekeeper is here making his rounds.
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m122V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:11 Exits:NESWU> 
+Sprink fills a waterskin from the stone fountain.
+
+[32m[0;37m[32m133H [0;37m[32m122V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:11 Exits:NESWU> 
+You can't put liquids in some heavy red robes of the Conclave!
+You can't put liquids in a staff of carved wood!
+You fill a waterskin from the stone fountain.
+You fill a waterskin from the stone fountain.
+There is no room for more.
+There is no room for more.
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+
+[32m[0;37m[32m133H [0;37m[32m122V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:11 Exits:NESWU> [0;37ms[0m
+Sprink flies in from the north.
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A lively young child freely romps around the area.
+A Solace peacekeeper is here making his rounds.
+A Seeker priest stands here trying to convert unbelievers.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m121V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:10 Exits:NS> [0;37ms[0m
+Sprink flies in from the north.
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A beautiful elven woman dressed in white robes stands here.
+A long-tailed ground dove sits here on a low branch.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:10 Exits:NES> 
+Wil flies in from the north.
+Ana flies in from the north.
+
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:9 Exits:NES> [0;37mlist ring[0m
+ 87. Wings               165 a pair of shimmering wings
+ 97. Ring                132 a rodent skull ring
+100. Ringlet             269 [38;5;225ma rough acid etched black jade ringlet[0;37m
+116. Shirt                60 a shirt of white ringmail
+118. Ring                990 a silver ring of lore
+123. Ring                 82 a small white ring
+152. Ring                550 an ancient solamnic ring
+165. Ring                 88 an olivine ring
+176. Ring                220 the ring of cruelty
+
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:8 Exits:NES> [0;37mlist lobster[0m
+
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:4 Exits:NES> [0;37ms[0m
+Sprink flies in from the north.
+[36mThe Intersection[0;37m
+    You are at a huge intersection in the forest. Southern Avenue meets
+with Park Road and Forest Lane here. There is a small opening in the trees
+above that allows a view of the sky above. A small breeze blows through
+here and you inhale deeply. Southern Avenue leads north and south from the
+intersection, while Forest Lane leads off west and Park Road exits to the
+east.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A small kitten rummages through a pile of vallenwood leaves.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m119V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:4 Exits:NESW> [0;37ms[0m
+Sprink flies in from the north.
+[36mSouthern Avenue[0;37m
+    You are on a rather wide road. This avenue leads south and north
+through the town. To the north, you see buildings built up in the limbs of
+the huge vallenwoods. This view of Solace shows you how much the village
+depends on the ancient trees for life and sustenance. The avenue leads
+north and south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A janitor is walking around, cleaning up.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m118V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:4 Exits:NS> [0;37ms[0m
+Sprink flies in from the north.
+[36mSouthern Avenue[0;37m
+    The avenue leads north and south through the huge vallenwoods. The
+trees loom high above you. Their limbs form a canopy that protects you from
+the harsh outside world. The forest here teems with life. You notice a
+smaller road leading east into what appears to be a park.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+An orange-breasted falcon is perched here while feasting on a prey.
+A citizen of Solace moves quickly about.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:3 Exits:NES> 
+The janitor arrives from the north.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:3 Exits:NES> [0;37ms[0m
+Sprink flies in from the north.
+[36mThe Southern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the south. Two huge
+vallenwoods stand on either side of the road and the gate is placed
+between them. The forest to the south looks much wilder and more dangerous
+than the forest that houses Solace. Southern Avenue leads north into
+Solace itself.
+[33m[1mA long torch functions as a street lamp here.
+A large notice demanding your attention is posted on the city gates.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m116V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:3 Exits:NS> [0;37ms[0m
+Sprink flies in from the north.
+[36mThe Road to Solace[0;37m
+    The trees that line the route give a good indication of the ways to
+travel. To the north the huge vallenwood trees of Solace are visible,
+clearly marking the southern entrance to the town. The road to the south
+becomes wild and rocky as it leads through a wilder section of forest.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m115V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:3 Exits:NES> [0;37ms[0m
+Sprink flies in from the north.
+[36mOn a Long Road[0;37m
+    The dense forest around you occasionally places obstacles in your path,
+you cannot help but trip and fall. Fortunately the soft cushion of dead
+leaves offers much help. Weak sounds of the hustle and bustle of town life
+can be heard from the north. The road continues to the south, it seems as
+if it could go on forever.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m113V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:3 Exits:NS> [0;37ms[0m
+Sprink flies in from the north.
+[36mOn a Road[0;37m
+    The road continues, snaking through the rocky wilderness. It makes a
+large curve to avoid a big boulder, jutting out from the surrounding hills.
+You have heard tales of bandits surviving off of travellers on the roadways
+of Krynn, and it occurs to you that this would be an excellent spot for an
+ambush. The road continues to the north and south.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m111V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:2 Exits:NS> [0;37ms[0m
+Sprink flies in from the north.
+[36mBy a Small Hovel[0;37m
+    Wearily, you come to stop outside a small hovel. It looks like it has
+been built as a rest stop to provide a safe haven for travellers. The hovel
+sits off to the west of the main road here. The road itself stretches out
+to the north and east. The terrain to the east becomes dry and dusty,
+while you can see what appears to be a forest on the edge of the plains to
+the north.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m109V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:2 Exits:NEW> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m109V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:2 Exits:NEW> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m109V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:2 Exits:NEW> [0;37me[0m
+Sprink flies in from the west.
+[36mOn a Road[0;37m
+    The road continues, now heading to the south. The general terrain seems
+to be getting drier and dustier, and there are fewer trees. In addition,
+the air seems to be getting somewhat colder. From a nearby hill, a deer
+notices you, and bolts into the woods. From here, the road continues to the
+south and west.
+[33m[1mA bright pile of cloth lies on the ground. [2]
+A large torch lies here.
+A bright pile of cloth lies on the ground.
+A hoopak has been dropped here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m107V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:1 Exits:ESW> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Bend in the Road[0;37m
+    To the north the plains turn into forested lands. Northwest of here is
+the Darkenwood forest and the village of Gateway. Travelling south will take
+you through the plains of Abanasinia and further on to the port town of
+Newport. The plains continue onward south from this point.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[33m[1m105V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:1 Exits:NS> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of Abanasinia. The land is very flat and you
+can see for miles and miles around. A few trees are growing here and there,
+along with other kinds of short vegetation bushes, brush and other assorted
+plants. In the distant west you can see a mountain range and a cool breeze
+is blowing in from the east. Looking to the east you can see the lands of
+the Que-teh tribe, their cooking fires trailing smoke up into the sky.
+[33m[1mA small sign has been hammered into the ground here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[33m[1m103V [0;37m148787X 80.00% 1220C [0;37mMem:1 T:1 Exits:NES> [0;37me[0m
+[0;37me[0m
+Your studies complete, you close your spellbook with a smile.
+Sprink flies in from the west.
+[36mA Path in the Plains of Abanasinia[0;37m
+    This slight path cuts into the dry plains of Abanasinia like a knife.
+Although there are a few fresh tracks, the arid landscape keeps this trail
+from becoming overgrown with vegetation. Upon a glance, you determine that
+most of the tracks were made by unshod horses. From this distance you can
+barely discern the outlines of the tents of Que-teh tribe to the northeast.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m126V [0;37m148787X 80.00% 1220C [0;37mT:60 Exits:EW> 
+Sprink flies in from the west.
+[36mA Path in the Plains of Abanasinia[0;37m
+    This slight path cuts into the dry plains of Abanasinia like a knife.
+Although there are few fresh tracks, the arid landscape keeps this trail
+from becoming overgrown with vegetation. Upon a glance, you determine that
+most of the tracks were made by unshod horses. A large road can be seen to
+the southwest, and the Que-teh village is some distance northeast.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m148787X 80.00% 1220C [0;37mT:60 Exits:NW> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. The Que-teh village is still quite a distance to
+the north, while to the south you can still barely make out the road
+through the Plains of Abanasinia.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m122V [0;37m148787X 80.00% 1220C [0;37mT:60 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. The Que-teh village is still quite a distance to
+the north, while to the south you can still barely make out the road
+through the Plains of Abanasinia.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m148787X 80.00% 1220C [0;37mT:60 Exits:ES> [0;37me[0m
+Sprink flies in from the west.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. Instead of entering the village, the path appears
+to skirt around it.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m118V [0;37m148787X 80.00% 1220C [0;37mT:59 Exits:NW> [0;37mn[0m
+Sprink flies in from the south.
+[36mSkirting the Que-teh Village[0;37m
+    From this vantage point, you can peer into the Que-teh village and see
+a few villagers going about their daily tasks. The path continues north and
+south.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m116V [0;37m148787X 80.00% 1220C [0;37mT:59 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mSkirting the Que-teh Village[0;37m
+    This section of the path runs between the village and a large garden.
+The Que-teh have planted various vegetables to supplement their food needs
+during the harsh winters of the plains. As you travel down the path you
+notice a few plainsmen traveling between the garden and the village. The
+path continues to the north past more planted land and south back towards
+the open plains.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A young Que-teh woman is returning home after working the fields.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m114V [0;37m148787X 80.00% 1220C [0;37mT:59 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mSkirting the Que-teh Village[0;37m
+    This section of the path runs between the village and a large garden.
+The Que-teh have planted various vegetables to supplement their food needs
+during the harsh winters of the plains. As you travel down the path you
+notice a few plainsmen traveling between the garden and the village. The
+path bends to the east here and continues to the entrace of the village.
+[33m[1mA prayerbook bound in gossamer lies here, looking rather fragile.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m112V [0;37m148787X 80.00% 1220C [0;37mT:58 Exits:ES> [0;37me[0m
+Sprink flies in from the west.
+[36mEntrance to Que-teh Village[0;37m
+    Shortly after leaving the Que-teh's planted fields, you find yourself
+at the entrance of the Que-teh village, if a single entrance truly does
+exist. The main path continues east into the horizon while to the south you
+can enter the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh guard stands here, scanning the plains for threats.
+A Que-teh guard stands here, scanning the plains for threats.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m110V [0;37m148787X 80.00% 1220C [0;37mT:58 Exits:SW> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Path Around Que-teh Village[0;37m
+    As you step past the first few tents, Que-teh village takes form.
+Numerous tents of varying sizes can be seen in all directions. While on the
+surface this village appears to be somewhat permanent, closer inspection
+reveals that if desired the Que-teh could easily break camp and move to a
+more fertile landscape. To the north lies the exit to Que-teh village,
+while to the east and west a circular path winds through the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m109V [0;37m148787X 80.00% 1220C [0;37mT:58 Exits:NEW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues east
+and west, while to the south you see a large firepit with plainsmen all
+around it. Activity is fierce in this part of the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m108V [0;37m148787X 80.00% 1220C [0;37mT:58 Exits:ESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m107V [0;37m148787X 80.00% 1220C [0;37mT:57 Exits:ESW> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1mA well maintained longbow has been left here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh hunter sits here, eating the fruits of his day's work.
+A Que-teh plainswoman sits here, eating a meal with her husband.
+[0;37m
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m148787X 80.00% 1220C [0;37mT:56 Exits:N> [0;37mjack hunter[0m
+
+Sprink places an ice spear in a Que-teh hunter's back, resulting in some strange noises and some blood.
+A Que-teh hunter is stunned, but will likely regain consciousness again.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m148787X 80.00% 1220C [0;37mT:52 Exits:N> 
+You **ANNIHILATE** a Que-teh hunter with your bludgeon.
+You receive 7977 experience.
+A Que-teh hunter is dead! R.I.P.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140810X 80.00% 1220C [a Que-teh hunter:[0;37m[31mDying[0;37m] [0;37mT:51 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 8703[0m
+
+The death cry of a Que-teh hunter echoes from somewhere nearby...
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140810X 80.00% 1220C [0;37mT:51 Exits:N> [0;37mjack woman[0m
+
+Sprink tried to backstab a Que-teh plainswoman, but nearly cut her own finger.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140810X 80.00% 1220C [0;37mT:48 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140810X 80.00% 1220C [0;37mT:46 Exits:N> 
+-#-#-#-#-#-#-#-> A Que-teh plainswoman <-#-#-#-#-#-#-#-  stands up.
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140810X 80.00% 1220C [0;37mT:46 Exits:N> 
+You can't find that container.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140810X 80.00% 1220C [0;37mT:46 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140810X 80.00% 1220C [0;37mT:45 Exits:N> 
+corpse (here) : 
+a Que-teh longbow
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140810X 80.00% 1220C [0;37mT:45 Exits:N> 
+You miss a Que-teh plainswoman with your bludgeon.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140810X 80.00% 1220C [Sprink:[0;37m[32mPerfect[0;37m] [a Que-teh plainswoman:[0;37m[32mPerfect[0;37m] [0;37mT:45 Exits:N> 
+You bludgeon a Que-teh plainswoman extremely hard.
+Sprink pierces a Que-teh plainswoman very hard.
+Sprink misses a Que-teh plainswoman with her crush.
+A Que-teh plainswoman barely hits Sprink.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140546X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[33m[1mFair[0;37m] [0;37mT:44 Exits:N> 
+You bludgeon a Que-teh plainswoman extremely hard.
+Sprink pierces a Que-teh plainswoman very hard.
+Sprink misses a Que-teh plainswoman with her crush.
+A Que-teh plainswoman misses Sprink with her hit.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140309X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[33m[1mV.Bad[0;37m] [0;37mT:40 Exits:N> 
+You bludgeon a Que-teh plainswoman extremely hard.
+Sprink barely pierces a Que-teh plainswoman.
+Sprink misses a Que-teh plainswoman with her crush.
+A Que-teh plainswoman misses Sprink with her hit.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m140072X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[31mAwful[0;37m] [0;37mT:36 Exits:N> 
+You miss a Que-teh plainswoman with your bludgeon.
+Sprink pierces a Que-teh plainswoman hard.
+A Que-teh plainswoman is mortally wounded, and will die soon, if not aided.
+Sprink MASSACREs a Que-teh plainswoman with her crush.
+You receive 10437 experience.
+A Que-teh plainswoman is dead! R.I.P.
+The death cry of a Que-teh plainswoman echoes from somewhere nearby...
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m129635X 80.00% 1220C [0;37mT:32 Exits:N> [0m[1;34;49mFOLLOWER GAINED XP: 11387[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m129635X 80.00% 1220C [0;37mT:32 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m129635X 80.00% 1220C [0;37mT:32 Exits:N> 
+You can't find that container.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m129635X 80.00% 1220C [0;37mT:32 Exits:N> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m129635X 80.00% 1220C [0;37mT:32 Exits:N> 
+corpse (here) : 
+
+[32m[0;37m[32m133H [0;37m[33m[1m106V [0;37m129635X 80.00% 1220C [0;37mT:31 Exits:N> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[33m[1m105V [0;37m129635X 80.00% 1220C [0;37mT:30 Exits:ESW> [0;37me[0m
+Sprink flies in from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues east
+and west, while to the south you see a large firepit with plainsmen all
+around it. Activity is fierce in this part of the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[33m[1m104V [0;37m129635X 80.00% 1220C [0;37mT:28 Exits:ESW> [0;37me[0m
+Sprink flies in from the west.
+[36mA Path Around Que-teh Village[0;37m
+    As you step past the first few tents, Que-teh village takes form.
+Numerous tents of varying sizes can be seen in all directions. While on the
+surface this village appears to be somewhat permanent, closer inspection
+reveals that if desired the Que-teh could easily break camp and move to a
+more fertile landscape. To the north lies the exit to Que-teh village,
+while to the east and west a circular path winds through the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh child plays here cheerfully, squirming with energy.
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m133H [0;37m[33m[1m103V [0;37m129635X 80.00% 1220C [0;37mT:28 Exits:NEW> [0;37me[0m
+Sprink flies in from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    The path winds through a few smaller tents here, most of which have
+small cooking fires near their entrance. All around you see plainsmen going
+about their daily lives, grinding corn, sharpening arrowheads, or cooking
+the family meal are just a few of the chores being performed. The path
+continues east and west here.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[33m[1m102V [0;37m129635X 80.00% 1220C [0;37mT:27 Exits:EW> [0;37me[0m
+Sprink flies in from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[33m[1m101V [0;37m129635X 80.00% 1220C [0;37mT:27 Exits:NEW> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1mA well maintained longbow has been left here. [2]
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh hunter sits here, eating the fruits of his day's work.
+A Que-teh plainswoman sits here, eating a meal with her husband.
+[0;37m
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m129635X 80.00% 1220C [0;37mT:27 Exits:S> [0;37mjack hunter[0m
+
+Sprink quickly thrusts an ice spear at a Que-teh hunter from behind, but somehow falls short of her target.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m129635X 80.00% 1220C [0;37mT:24 Exits:S> 
+You miss a Que-teh hunter with your bludgeon.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m129635X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh hunter:[0;37m[32mPerfect[0;37m] [0;37mT:23 Exits:S> 
+-#-#-#-#-#-#-#-> A Que-teh hunter <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m129635X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh hunter:[0;37m[32mPerfect[0;37m] [0;37mT:21 Exits:S> 
+You miss a Que-teh hunter with your bludgeon.
+Sprink pierces a Que-teh hunter hard.
+Sprink misses a Que-teh hunter with her crush.
+A Que-teh hunter misses Sprink with his hit.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m129635X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh hunter:[0;37m[32mGood[0;37m] [0;37mT:20 Exits:S> 
+You bludgeon a Que-teh hunter hard.
+Sprink pierces a Que-teh hunter very hard.
+Sprink misses a Que-teh hunter with her crush.
+Sprink gracefully steps aside as a Que-teh hunter attacks!
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m129490X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh hunter:[0;37m[33m[1mBad[0;37m] [0;37mT:16 Exits:S> [0;37mlb[0m
+[38;5;127mYou feel especially skillful today.[0m
+You utter the words, 'lightning bolt'
+The lightning bolt hits a Que-teh hunter with full impact.
+A Que-teh hunter is mortally wounded, and will die soon, if not aided.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m129043X 80.00% 1220C [a Que-teh hunter:[0;37m[31mDying[0;37m] [0;37mMem:1 T:13 Exits:S> 
+Sprink MASSACREs a Que-teh hunter with her pierce.
+You receive 7927 experience.
+A Que-teh hunter is dead! R.I.P.
+The death cry of a Que-teh hunter echoes from somewhere nearby...
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:12 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 8649[0m
+[0;37minv sprink[0m
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:8 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:8 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:8 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:8 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:7 Exits:S> 
+[38;5;127mYou feel especially skillful today.[0m
+You utter the words, 'invisibility'
+Sprink slowly fades out of sight.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:7 Exits:S> [0;37mjack woman[0m
+
+Sprink slowly fades into existence.
+Sprink places an ice spear in a Que-teh plainswoman's back, resulting in some strange noises and some blood.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:5 Exits:S> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+Sprink pierces a Que-teh plainswoman very hard.
+Sprink crushes a Que-teh plainswoman hard.
+A Que-teh plainswoman misses Sprink with her hit.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:4 Exits:S> 
+-#-#-#-#-#-#-#-> A Que-teh plainswoman <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m121116X 80.00% 1220C [0;37mMem:1 T:3 Exits:S> 
+You bludgeon a Que-teh plainswoman hard.
+A Que-teh plainswoman is mortally wounded, and will die soon, if not aided.
+
+[32m[0;37m[32m133H [0;37m[33m[1m100V [0;37m120958X 80.00% 1220C [a Que-teh plainswoman:[0;37m[31mDying[0;37m] [0;37mMem:1 T:3 Exits:S> 
+You **OBLITERATE** a Que-teh plainswoman with your bludgeon.
+You receive 10338 experience.
+A Que-teh plainswoman is dead! R.I.P.
+The death cry of a Que-teh plainswoman echoes from somewhere nearby...
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m110620X 80.00% 1220C [0;37mT:60 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 11280[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m110620X 80.00% 1220C [0;37mT:58 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m110620X 80.00% 1220C [0;37mT:58 Exits:S> [0;37mblur sprink[0m
+You can't find that container.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m110620X 80.00% 1220C [0;37mT:58 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m110620X 80.00% 1220C [0;37mT:57 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m110620X 80.00% 1220C [0;37mT:57 Exits:S> 
+[38;5;127mYou feel especially skillful today.[0m
+You utter the words, 'blur'
+A brief moment of solidity is followed by further blurriness.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:57 Exits:S> [0;37mstr sprink[0m
+[0;37ms[0m
+[0;37me[0m
+You utter the words, 'strength'
+Sprink appears to grow stronger.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:53 Exits:S> 
+Sprink flies in from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m124V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:48 Exits:NEW> 
+Sprink flies in from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m123V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:48 Exits:SW> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    As you reach this section of the path, you notice the scent of curing
+meat in the air. After further inspection you see that the source of the
+smell is a tent to the west. The path continues through the village to the
+north and south.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m122V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:47 Exits:NSW> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m121V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:47 Exits:NES> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. To the west lies some
+sort of makeshift cooking and dining pavilion. The path continues north and
+south.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m120V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:47 Exits:NSW> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. A small tent has been
+constructed close to the edge of the path, and can be entered to the east.
+The path bends gently here, and its course can be followed to the north and
+west.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m119V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:47 Exits:NEW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh warrior watches over the village cautiously.
+A Que-teh villager is here, performing his daily tasks.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m118V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:46 Exits:NEW> [0;37ms[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m118V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:46 Exits:NEW> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh hunter sits here, eating the fruits of his day's work.
+A Que-teh plainswoman sits here, eating a meal with her husband.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:43 Exits:S> [0;37minv sprink[0m
+You utter the words, 'invisibility'
+Sprink slowly fades out of sight.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:40 Exits:S> [0;37mjack hunter[0m
+
+Sprink slowly fades into existence.
+Sprink places an ice spear in a Que-teh hunter's back, resulting in some strange noises and some blood.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m110620X 80.00% 1220C [0;37mMem:1 T:39 Exits:S> 
+Sprink pierces a Que-teh hunter extremely hard.
+You receive 7957 experience.
+A Que-teh hunter is dead! R.I.P.
+The death cry of a Que-teh hunter echoes from somewhere nearby...
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:36 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 8681[0m
+
+But they're not fighting anyone!
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:36 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:36 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:36 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:35 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:35 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:35 Exits:S> [0;37mjack woman[0m
+
+Sprink tried to backstab a Que-teh plainswoman, but nearly cut her own finger.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:33 Exits:S> 
+-#-#-#-#-#-#-#-> A Que-teh plainswoman <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:33 Exits:S> 
+Sprink pierces a Que-teh plainswoman very hard.
+Sprink misses a Que-teh plainswoman with her crush.
+A Que-teh plainswoman bruises Sprink with her hit.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102663X 80.00% 1220C [0;37mMem:1 T:32 Exits:S> 
+You bludgeon a Que-teh plainswoman very hard.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102465X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:32 Exits:S> 
+You bludgeon a Que-teh plainswoman very hard.
+[38;5;127mYou feel enlightened.[0m
+Sprink pierces a Que-teh plainswoman very hard.
+Sprink barely crushes a Que-teh plainswoman.
+A Que-teh plainswoman misses Sprink with her hit.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m102241X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh plainswoman:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:28 Exits:S> 
+You bludgeon a Que-teh plainswoman extremely hard.
+Sprink pierces a Que-teh plainswoman hard.
+You receive 10437 experience.
+A Que-teh plainswoman is dead! R.I.P.
+The death cry of a Que-teh plainswoman echoes from somewhere nearby...
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m91540X 80.00% 1220C [0;37mMem:1 T:24 Exits:S> [0m[1;34;49mFOLLOWER GAINED XP: 11387[0m
+
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m91540X 80.00% 1220C [0;37mMem:1 T:24 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m91540X 80.00% 1220C [0;37mMem:1 T:24 Exits:S> 
+You can't find that container.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m91540X 80.00% 1220C [0;37mMem:1 T:24 Exits:S> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m91540X 80.00% 1220C [0;37mMem:1 T:24 Exits:S> 
+corpse (here) : 
+
+[32m[0;37m[32m133H [0;37m[32m117V [0;37m91540X 80.00% 1220C [0;37mMem:1 T:23 Exits:S> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m91540X 80.00% 1220C [0;37mT:60 Exits:S> [0;37ml[0m
+[36mA Que-teh Plainsman's Tent[0;37m
+    This tent is somewhat indicative of the average plainsman's lifestyle.
+There are furs lining part of the floor, and a finely maintained longbow
+has been unstrung and placed in a corner of the tent. You also notice some
+small wooden eating utensils and a few bowls used to prepare the daily
+meals.
+[33m[1mThe corpse of a Que-teh plainswoman is lying here.
+The corpse of a Que-teh hunter is lying here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m91540X 80.00% 1220C [0;37mT:20 Exits:S> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m91540X 80.00% 1220C [0;37mT:19 Exits:NEW> [0;37minv sprink[0m
+You utter the words, 'invisibility'
+Sprink slowly fades out of sight.
+
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m91540X 80.00% 1220C [0;37mMem:1 T:16 Exits:NEW> [0;37mjack warrior[0m
+
+Sprink slowly fades into existence.
+Sprink gives her spear a quick thrust and twist, as she strikes a Que-teh warrior in the back with it.
+
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m91540X 80.00% 1220C [0;37mMem:1 T:14 Exits:NEW> 
+Sprink misses a Que-teh warrior with her pierce.
+Sprink misses a Que-teh warrior with her crush.
+Sprink gracefully steps aside as a Que-teh warrior attacks!
+
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m91540X 80.00% 1220C [0;37mMem:1 T:12 Exits:NEW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+
+You bludgeon a Que-teh warrior very hard.
+
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m91279X 80.00% 1220C [Sprink:[0;37m[32mPerfect[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:12 Exits:NEW> 
+A Que-teh warrior tries in vain to disarm Sprink's weapon.
+
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m91279X 80.00% 1220C [Sprink:[0;37m[32mPerfect[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:11 Exits:NEW> [0;37mab[0m
+
+You miss a Que-teh warrior with your bludgeon.
+Sprink pierces a Que-teh warrior hard.
+Sprink misses a Que-teh warrior with her crush.
+A Que-teh warrior misses Sprink with his pierce.
+
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m91279X 80.00% 1220C [Sprink:[0;37m[32mPerfect[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:8 Exits:NEW> 
+You utter the words, 'acid blast'
+Some of your acid hits a Que-teh warrior!
+
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m90956X 80.00% 1220C [Sprink:[0;37m[32mPerfect[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:7 Exits:NEW> 
+A Que-teh warrior delivers a vicious kick to Sprink's face. Blood flies as her head snaps back.
+
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m90956X 80.00% 1220C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:5 Exits:NEW> 
+Sprink pierces a Que-teh warrior hard.
+Sprink crushes a Que-teh warrior hard.
+A Que-teh warrior is mortally wounded, and will die soon, if not aided.
+
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m90956X 80.00% 1220C [a Que-teh warrior:[0;37m[31mDying[0;37m] [0;37mMem:1 T:4 Exits:NEW> 
+You **ANNIHILATE** a Que-teh warrior with your bludgeon.
+You receive 11045 experience.
+A Que-teh warrior is dead! R.I.P.
+The death cry of a Que-teh warrior echoes from somewhere nearby...
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79911X 80.00% 1220C [0;37mT:60 Exits:NEW> [0m[1;34;49mFOLLOWER GAINED XP: 12050[0m
+
+You get a small pile of coins from the corpse of a Que-teh warrior.
+There were 9 coins.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79911X 80.00% 1229C [0;37mT:60 Exits:NEW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79911X 80.00% 1229C [0;37mT:60 Exits:NEW> 
+You can't find that container.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79911X 80.00% 1229C [0;37mT:60 Exits:NEW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79911X 80.00% 1229C [0;37mT:59 Exits:NEW> 
+corpse (here) : 
+a wooden spear with a stone tip
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79911X 80.00% 1229C [0;37mT:59 Exits:NEW> 
+You can't split 9 evenly among the people in the room; splitting 8 instead.
+You divide 8 coins equally among the group members present.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79911X 80.00% 1225C [0;37mT:59 Exits:NEW> [0;37ml[0m
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mThe corpse of a Que-teh warrior is lying here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79911X 80.00% 1225C [0;37mT:25 Exits:NEW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. To the north you see the entrance to a very
+large tent, possibly the home of the Que-teh tribal leader.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m79911X 80.00% 1225C [0;37mT:24 Exits:NEW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mA pile of steel coins.
+A crudely carved oaken staff topped with a stone point lies here.
+A pile of steel coins.
+A crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh villager is here, performing his daily tasks.
+A Que-teh villager is here, performing his daily tasks.
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m129V [0;37m79911X 80.00% 1225C [0;37mT:23 Exits:EW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. To the north and south
+are large tents of better construction than others you have seen in the
+village thus far.
+[33m[1mA pile of steel coins.
+A crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m128V [0;37m79911X 80.00% 1225C [0;37mT:21 Exits:NESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m79911X 80.00% 1225C [0;37mT:20 Exits:ESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mAn iron knife with a wooden handle lies here.
+A pile of steel coins.
+A crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m126V [0;37m79911X 80.00% 1225C [0;37mT:19 Exits:NE> [0;37mw[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m133H [0;37m[32m126V [0;37m79911X 80.00% 1225C [0;37mT:18 Exits:NE> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues to
+the north and south here. To the west you both see and smell the Que-teh
+stables, and to the east lies a small, shoddy tent.
+[33m[1mA pile of steel coins.
+A crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh child plays here cheerfully, squirming with energy.
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m79911X 80.00% 1225C [0;37mT:17 Exits:NESW> [0;37minv sprink[0m
+You utter the words, 'invisibility'
+Sprink slowly fades out of sight.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m79911X 80.00% 1225C [0;37mMem:1 T:14 Exits:NESW> [0;37mjack warrior[0m
+
+Sprink slowly fades into existence.
+Sprink places an ice spear in a Que-teh warrior's back, resulting in some strange noises and some blood.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m79911X 80.00% 1225C [0;37mMem:1 T:12 Exits:NESW> 
+You miss a Que-teh warrior with your bludgeon.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m79911X 80.00% 1225C [Sprink:[0;37m[32mPerfect[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:10 Exits:NESW> 
+You miss a Que-teh warrior with your bludgeon.
+Sprink pierces a Que-teh warrior hard.
+Sprink misses a Que-teh warrior with her crush.
+A Que-teh warrior pierces Sprink.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m79911X 80.00% 1225C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:8 Exits:NESW> 
+A Que-teh warrior spins and tries to kick Sprink, but Sprink dodges out of the way.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m79911X 80.00% 1225C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[33m[1mFair[0;37m] [0;37mMem:1 T:6 Exits:NESW> 
+You miss a Que-teh warrior with your bludgeon.
+Sprink pierces a Que-teh warrior hard.
+Sprink misses a Que-teh warrior with her crush.
+A Que-teh warrior misses Sprink with his pierce.
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m79911X 80.00% 1225C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[33m[1mBad[0;37m] [0;37mMem:1 T:4 Exits:NESW> [0;37mab[0m
+You utter the words, 'acid blast'
+Some of your acid hits a Que-teh warrior!
+
+[32m[0;37m[32m133H [0;37m[32m125V [0;37m79573X 80.00% 1225C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:1 Exits:NESW> 
+Sprink pierces a Que-teh warrior hard.
+Sprink misses a Que-teh warrior with her crush.
+A Que-teh warrior pierces Sprink hard.
+You feel less righteous.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79573X 80.00% 1225C [Sprink:[0;37m[32mPerfect[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:60 Exits:NESW> [0m[1;31;49m-->BLUR GONE<--[0m
+
+A Que-teh warrior delivers a quick snap kick to Sprink. Sprink staggers and tries to recover.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79573X 80.00% 1225C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:60 Exits:NESW> 
+There is lightning in the sky.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79573X 80.00% 1225C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:60 Exits:NESW> [0;37mlb[0m
+
+There is lightning in the sky.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79573X 80.00% 1225C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:57 Exits:NESW> 
+[38;5;127mYou feel especially skillful today.[0m
+You utter the words, 'lightning bolt'
+The lightning bolt hits a Que-teh warrior with full impact.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79327X 80.00% 1225C [Sprink:[0;37m[32mV.Good[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:57 Exits:NESW> 
+Sprink pierces a Que-teh warrior.
+Sprink misses a Que-teh warrior with her crush.
+A Que-teh warrior pierces Sprink.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79327X 80.00% 1225C [Sprink:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:56 Exits:NESW> 
+A Que-teh warrior tries to sweep Sprink's legs, but misses badly.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m79327X 80.00% 1225C [Sprink:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:54 Exits:NESW> 
+You miss a Que-teh warrior with your bludgeon.
+Sprink pierces a Que-teh warrior very hard.
+A Que-teh warrior is mortally wounded, and will die soon, if not aided.
+Sprink crushes a Que-teh warrior extremely hard.
+You receive 11029 experience.
+A Que-teh warrior is dead! R.I.P.
+The death cry of a Que-teh warrior echoes from somewhere nearby...
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m68298X 80.00% 1225C [0;37mMem:1 T:52 Exits:NESW> [0m[1;34;49mFOLLOWER GAINED XP: 12031[0m
+
+You get a small pile of coins from the corpse of a Que-teh warrior.
+There were 9 coins.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m68298X 80.00% 1234C [0;37mMem:1 T:52 Exits:NESW> 
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m68298X 80.00% 1234C [0;37mMem:1 T:52 Exits:NESW> 
+You can't find that container.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m68298X 80.00% 1234C [0;37mMem:1 T:52 Exits:NESW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m68298X 80.00% 1234C [0;37mMem:1 T:52 Exits:NESW> 
+corpse (here) : 
+a wooden spear with a stone tip
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m68298X 80.00% 1234C [0;37mMem:1 T:51 Exits:NESW> 
+You can't split 9 evenly among the people in the room; splitting 8 instead.
+You divide 8 coins equally among the group members present.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m68298X 80.00% 1230C [0;37mMem:1 T:51 Exits:NESW> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    The path winds through a few smaller tents here, most of which have
+small cooking fires near their entrance. All around you see plainsmen going
+about their daily lives, grinding corn, sharpening arrowheads, or cooking
+the family meal are just a few of the chores being performed. The path
+continues north and south here.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m130V [0;37m68298X 80.00% 1230C [0;37mMem:1 T:44 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues
+north and south, while to the west you can hear the clanging of a hammer on
+the village forge.
+[33m[1mAn iron knife with a wooden handle lies here. [2]
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m129V [0;37m68298X 80.00% 1230C [0;37mMem:1 T:43 Exits:NSW> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    The path winds through a few smaller tents here, most of which have
+small cooking fires near their entrance. All around you see plainsmen going
+about their daily lives, grinding corn, sharpening arrowheads, or cooking
+the family meal are just a few of the chores being performed. The path
+bends to the south here as it winds through the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh villager is here, performing his daily tasks.
+A Que-teh warrior watches over the village cautiously.
+A Que-teh woman examines you warily as you travel down the path.
+A Que-teh villager is here, performing his daily tasks.
+A Que-teh warrior watches over the village cautiously.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m128V [0;37m68298X 80.00% 1230C [0;37mMem:1 T:42 Exits:ES> 
+A Que-teh warrior leaves east.
+
+[32m[0;37m[32m133H [0;37m[32m128V [0;37m68298X 80.00% 1230C [0;37mMem:1 T:42 Exits:ES> [0;37me[0m
+Sprink flies in from the west.
+[36mA Path Through Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh warrior watches over the village cautiously.
+A Que-teh woman examines you warily as you travel down the path.
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m68298X 80.00% 1230C [0;37mMem:1 T:39 Exits:ESW> [0;37minv sprink[0m
+You utter the words, 'invisibility'
+Sprink slowly fades out of sight.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m68298X 80.00% 1230C [0;37mMem:1 T:37 Exits:ESW> [0;37mjack warrior[0m
+
+Sprink slowly fades into existence.
+Sprink gives her spear a quick thrust and twist, as she strikes a Que-teh warrior in the back with it.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m68298X 80.00% 1230C [0;37mMem:1 T:35 Exits:ESW> 
+You bludgeon a Que-teh warrior very hard.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m68083X 80.00% 1230C [Sprink:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[33m[1mBad[0;37m] [0;37mMem:1 T:33 Exits:ESW> 
+You bludgeon a Que-teh warrior very hard.
+Sprink misses a Que-teh warrior with her pierce.
+Sprink misses a Que-teh warrior with her crush.
+Sprink gracefully steps aside as a Que-teh warrior attacks!
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m67868X 80.00% 1230C [Sprink:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:32 Exits:ESW> [0m[1;31;49m-->FOLLOWER ENLIGHTENED<--[0m
+[0;37mmm[0m
+
+A Que-teh warrior tries to sunder Sprink's armour but fails miserably.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m67868X 80.00% 1230C [Sprink:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[33m[1mV.Bad[0;37m] [0;37mMem:1 T:30 Exits:ESW> 
+You bludgeon a Que-teh warrior very hard.
+Sprink pierces a Que-teh warrior hard.
+Sprink misses a Que-teh warrior with her crush.
+A Que-teh warrior misses Sprink with his pierce.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m67653X 80.00% 1230C [Sprink:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:28 Exits:ESW> 
+You utter the words, 'magic missile'
+You watch with selfpride as the magic missile hits a Que-teh warrior.
+You watch with selfpride as the magic missile hits a Que-teh warrior.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m67438X 80.00% 1230C [Sprink:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:28 Exits:ESW> 
+A Que-teh woman leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m67438X 80.00% 1230C [Sprink:[0;37m[32mGood[0;37m] [a Que-teh warrior:[0;37m[31mAwful[0;37m] [0;37mMem:1 T:25 Exits:ESW> 
+Sprink pierces a Que-teh warrior hard.
+A Que-teh warrior is mortally wounded, and will die soon, if not aided.
+Sprink **ANNIHILATE**s a Que-teh warrior with her crush.
+You receive 11079 experience.
+A Que-teh warrior is dead! R.I.P.
+The death cry of a Que-teh warrior echoes from somewhere nearby...
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m56359X 80.00% 1230C [0;37mMem:1 T:24 Exits:ESW> [0m[1;34;49mFOLLOWER GAINED XP: 12086[0m
+
+You get a small pile of coins from the corpse of a Que-teh warrior.
+There were 8 coins.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m56359X 80.00% 1238C [0;37mMem:1 T:24 Exits:ESW> 
+A Que-teh warrior arrives from the west.
+The corpse doesn't seem to have what you are looking for.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m56359X 80.00% 1238C [0;37mMem:1 T:24 Exits:ESW> 
+You can't find that container.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m56359X 80.00% 1238C [0;37mMem:1 T:23 Exits:ESW> 
+You couldn't find anyone to order around.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m56359X 80.00% 1238C [0;37mMem:1 T:23 Exits:ESW> 
+corpse (here) : 
+a wooden spear with a stone tip
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m56359X 80.00% 1238C [0;37mMem:1 T:23 Exits:ESW> 
+You divide 8 coins equally among the group members present.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m56359X 80.00% 1234C [0;37mMem:1 T:23 Exits:ESW> 
+A Que-teh child arrives from the west.
+
+[32m[0;37m[32m133H [0;37m[32m127V [0;37m56359X 80.00% 1234C [0;37mMem:1 T:14 Exits:ESW> 
+A Que-teh villager arrives from the west.
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:60 Exits:ESW> 
+A Que-teh warrior leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:54 Exits:ESW> 
+A Que-teh villager leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:60 Exits:ESW> [0m[1;31;49m-->STRENGTH GONE<--[0m
+
+A Que-teh child leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:56 Exits:ESW> 
+A Que-teh child arrives from the west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:14 Exits:ESW> 
+A Que-teh villager arrives from the west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:50 Exits:ESW> 
+A Que-teh warrior arrives from the west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:48 Exits:ESW> 
+A Que-teh warrior leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:24 Exits:ESW> 
+A Que-teh child leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:14 Exits:ESW> 
+The corpse of a Que-teh warrior decays into dust and blows away.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:60 Exits:ESW> 
+A Que-teh villager leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:32 Exits:ESW> 
+A Que-teh warrior arrives from the west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:12 Exits:ESW> 
+There is lightning in the sky.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:7 Exits:ESW> 
+A Que-teh child arrives from the west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:8 Exits:ESW> 
+A Que-teh child leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:2 Exits:ESW> 
+A Que-teh woman arrives from the west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:12 Exits:ESW> 
+The cloud-veiled sky becomes even darker as the sun sets.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:60 Exits:ESW> 
+There is lightning in the sky.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:41 Exits:ESW> 
+The darkness marks the end of another day.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:60 Exits:ESW> 
+A Que-teh villager arrives from the west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:44 Exits:ESW> 
+A Que-teh woman leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:42 Exits:ESW> 
+[36mCeaser shouts 'could someone escort me into Xak for heal quest?'
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:37 Exits:ESW> 
+A Que-teh child arrives from the west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:2 Exits:ESW> 
+[37mThe clouds block your view of Solinari.
+[31mThe clouds block your view of Lunitari.
+[34m[0;37m
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:60 Exits:ESW> 
+A Que-teh villager leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:50 Exits:ESW> 
+A Que-teh child leaves west.
+
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:38 Exits:ESW> 
+[36mCicero shouts 'looking to buy thief gear - can pay paypal/zelle/etc'
+[0;37m
+[32m[0;37m[32m133H [0;37m[32m131V [0;37m56359X 80.00% 1234C [0;37mT:6 Exits:ESW> [0m#SESSION 'a' DIED.[0m

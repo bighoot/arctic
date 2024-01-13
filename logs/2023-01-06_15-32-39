@@ -1,0 +1,820 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? ronas
+Password: 
+
+
+
+You were last connected Fri Jan 06 22:20:28 2023 UTC from 73.181.104.224.
+Reconnecting.
+
+[32m[0;37m[32m143H [0;37m[32m120V [0;37m281253X 29.60% 1429C [0;37mT:48 Exits:N> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Sprink has reconnected.
+
+[32m[0;37m[32m143H [0;37m[32m120V [0;37m281253X 29.60% 1429C [0;37mT:42 Exits:N> [0;37msettm[0m
+[0;37mfly me[0m
+Warning: your input 'me' ignored.
+You're already flying!
+
+[32m[0;37m[32m143H [0;37m[32m120V [0;37m281253X 29.60% 1429C [0;37mT:37 Exits:N> [0;37mmage[0m
+[0;37ml[0m
+[36mThe Tent of Oakheart, Que-teh Historian[0;37m
+    This tent is kept brightly lit by crude lanterns hung from its support
+poles. Lying about the room are the writings of various Que-teh
+historians, dating back to the Great Cataclysm. The markings on this tent
+denote it as the dwelling place of a man of great power in the Que-teh
+village. Nestled at the foot of Oakheart's bedroll, you see a small steel
+strongbox.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is resting here.
+Oakheart, Historian of the Que-teh village, stands before you.
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m120V [0;37m281253X 29.60% 1429C [0;37mT:34 Exits:N> [0;37mfly sprink[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m143H [0;37m[32m120V [0;37m281253X 29.60% 1429C [0;37mT:32 Exits:N> [0;37mn[0m
+Come on! I'm relaxing!
+
+[32m[0;37m[32m143H [0;37m[32m120V [0;37m281253X 29.60% 1429C [0;37mT:30 Exits:N> [0;37mboth sta[0m
+You stand up.
+
+[32m[0;37m[32m143H [0;37m[32m120V [0;37m281253X 29.60% 1429C [0;37mT:29 Exits:N> 
+-#-#-#-#-#-#-#-> Sprink <-#-#-#-#-#-#-#-  stands up.
+
+[32m[0;37m[32m143H [0;37m[32m120V [0;37m281253X 29.60% 1429C [0;37mT:29 Exits:N> [0;37mfly sprink[0m
+[38;5;127mYou feel especially skillful today.[0m
+You utter the words, 'fly'
+Sprink rises up off the ground.
+
+[32m[0;37m[32m143H [0;37m[32m120V [0;37m281253X 29.60% 1429C [0;37mMem:3 T:27 Exits:N> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. To the north and south
+are large tents of better construction than others you have seen in the
+village thus far.
+[33m[1mAn iron knife with a wooden handle lies here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m119V [0;37m281253X 29.60% 1429C [0;37mMem:3 T:23 Exits:NESW> [0;37mboth drink all.water[0m
+You drink the water.
+[38;5;37mYou are hungry.[0m
+You drink the water.
+[38;5;37mYou are hungry.[0m
+You drink the water.
+[38;5;37mYou are hungry.[0m
+You do not feel thirsty.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m143H [0;37m[32m119V [0;37m281253X 29.60% 1429C [0;37mMem:3 T:20 Exits:NESW> [0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0m[1;31;49m-->FOLLOWER HUNGRY<--[0m
+[0;37mboth eat bowl[0m
+Your eyes begin to water as the spicy hot potatoes hit your taste buds.
+There is nothing left now.
+
+[32m[0;37m[32m143H [0;37m[32m119V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:18 Exits:NESW> 
+Sprink winces as the spicy hot potatoes burn her tongue.
+
+[32m[0;37m[32m143H [0;37m[32m119V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:18 Exits:NESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m118V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:18 Exits:ESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m117V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:18 Exits:NE> [0;37mw[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m143H [0;37m[32m117V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:17 Exits:NE> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues to
+the north and south here. To the west you both see and smell the Que-teh
+stables, and to the east lies a small, shoddy tent.
+[33m[1mA crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m116V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:17 Exits:NESW> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    The path winds through a few smaller tents here, most of which have
+small cooking fires near their entrance. All around you see plainsmen going
+about their daily lives, grinding corn, sharpening arrowheads, or cooking
+the family meal are just a few of the chores being performed. The path
+continues north and south here.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m115V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:17 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues
+north and south, while to the west you can hear the clanging of a hammer on
+the village forge.
+[33m[1mA crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m114V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:16 Exits:NSW> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Path Through the Que-teh Village[0;37m
+    The path winds through a few smaller tents here, most of which have
+small cooking fires near their entrance. All around you see plainsmen going
+about their daily lives, grinding corn, sharpening arrowheads, or cooking
+the family meal are just a few of the chores being performed. The path
+bends to the south here as it winds through the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m113V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:16 Exits:ES> [0;37mn[0m
+Alas, you cannot go that way...
+
+[32m[0;37m[32m143H [0;37m[32m113V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:16 Exits:ES> [0;37me[0m
+Sprink flies in from the west.
+[36mA Path Through Que-teh Village[0;37m
+    This well-trod path through Que-teh Village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. There is always someone
+wandering around this path, be it the occasional farmer or group of
+children playing contentedly. However, the threat of the dragonarmy looms
+over the village at all times, and there is an underlying air of constant
+alert.
+[33m[1mA crudely carved oaken staff topped with a stone point lies here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m112V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:16 Exits:ESW> [0;37me[0m
+Sprink flies in from the west.
+[36mA Path Through the Que-teh Village[0;37m
+    This well-trod path through Que-teh village allows easy access to the
+few larger and more populated tents of the encampment. It also provides the
+major route of transport for the Que-teh tribesmen. The path continues east
+and west, while to the south you see a large firepit with plainsmen all
+around it. Activity is fierce in this part of the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m111V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:15 Exits:ESW> [0;37me[0m
+Sprink flies in from the west.
+[36mA Path Around Que-teh Village[0;37m
+    As you step past the first few tents, Que-teh village takes form.
+Numerous tents of varying sizes can be seen in all directions. While on the
+surface this village appears to be somewhat permanent, closer inspection
+reveals that if desired the Que-teh could easily break camp and move to a
+more fertile landscape. To the north lies the exit to Que-teh village,
+while to the east and west a circular path winds through the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh child plays here cheerfully, squirming with energy.
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m110V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:15 Exits:NEW> [0;37mn[0m
+Sprink flies in from the south.
+[36mEntrance to Que-teh Village[0;37m
+    Shortly after leaving the Que-teh's planted fields, you find yourself
+at the entrance of the Que-teh village, if a single entrance truly does
+exist. The main path continues east into the horizon while to the south you
+can enter the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Que-teh guard stands here, scanning the plains for threats.
+A Que-teh guard stands here, scanning the plains for threats.
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m109V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:14 Exits:SW> [0;37mw[0m
+Sprink flies in from the east.
+[36mSkirting the Que-teh Village[0;37m
+    This section of the path runs between the village and a large garden.
+The Que-teh have planted various vegetables to supplement their food needs
+during the harsh winters of the plains. As you travel down the path you
+notice a few plainsmen traveling between the garden and the village. The
+path bends to the east here and continues to the entrace of the village.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m107V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:14 Exits:ES> [0;37ms[0m
+Sprink flies in from the north.
+[36mSkirting the Que-teh Village[0;37m
+    This section of the path runs between the village and a large garden.
+The Que-teh have planted various vegetables to supplement their food needs
+during the harsh winters of the plains. As you travel down the path you
+notice a few plainsmen traveling between the garden and the village. The
+path continues to the north past more planted land and south back towards
+the open plains.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A young Que-teh woman is returning home after working the fields.
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m105V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:14 Exits:NS> [0;37ms[0m
+Sprink flies in from the north.
+[36mSkirting the Que-teh Village[0;37m
+    From this vantage point, you can peer into the Que-teh village and see
+a few villagers going about their daily tasks. The path continues north and
+south.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m103V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:14 Exits:NS> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. Instead of entering the village, the path appears
+to skirt around it.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m101V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:13 Exits:NW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. The Que-teh village is still quite a distance to
+the north, while to the south you can still barely make out the road
+through the Plains of Abanasinia.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[32m99V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:13 Exits:ES> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Path in the Plains of Abanasinia[0;37m
+    As you approach the Que-teh village, you notice the fresh tracks on
+this path increase noticeably. Wildlife here is abundant for the plains,
+perhaps the reason for choosing this location as the most recent campground
+of the Que-teh plainsmen. The Que-teh village is still quite a distance to
+the north, while to the south you can still barely make out the road
+through the Plains of Abanasinia.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m97V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:13 Exits:NS> [0;37ms[0m
+Sprink flies in from the north.
+[36mA Path in the Plains of Abanasinia[0;37m
+    This slight path cuts into the dry plains of Abanasinia like a knife.
+Although there are few fresh tracks, the arid landscape keeps this trail
+from becoming overgrown with vegetation. Upon a glance, you determine that
+most of the tracks were made by unshod horses. A large road can be seen to
+the southwest, and the Que-teh village is some distance northeast.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m95V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:13 Exits:NW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Path in the Plains of Abanasinia[0;37m
+    This slight path cuts into the dry plains of Abanasinia like a knife.
+Although there are a few fresh tracks, the arid landscape keeps this trail
+from becoming overgrown with vegetation. Upon a glance, you determine that
+most of the tracks were made by unshod horses. From this distance you can
+barely discern the outlines of the tents of Que-teh tribe to the northeast.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A cheerful kender wanders about, enjoying the sights.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m93V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:12 Exits:EW> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Road on the Plains of Abanasinia[0;37m
+    Around you are the plains of Abanasinia. The land is very flat and you
+can see for miles and miles around. A few trees are growing here and there,
+along with other kinds of short vegetation bushes, brush and other assorted
+plants. In the distant west you can see a mountain range and a cool breeze
+is blowing in from the east. Looking to the east you can see the lands of
+the Que-teh tribe, their cooking fires trailing smoke up into the sky.
+[33m[1mA small sign has been hammered into the ground here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m91V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:12 Exits:NES> [0;37mn[0m
+Sprink flies in from the south.
+[36mA Bend in the Road[0;37m
+    To the north the plains turn into forested lands. Northwest of here is
+the Darkenwood forest and the village of Gateway. Travelling south will take
+you through the plains of Abanasinia and further on to the port town of
+Newport. The plains continue onward south from this point.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m89V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:12 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mOn a Road[0;37m
+    The road continues, now heading to the south. The general terrain seems
+to be getting drier and dustier, and there are fewer trees. In addition,
+the air seems to be getting somewhat colder. From a nearby hill, a deer
+notices you, and bolts into the woods. From here, the road continues to the
+south and west.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m87V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:12 Exits:ESW> [0;37mw[0m
+Sprink flies in from the east.
+[36mBy a Small Hovel[0;37m
+    Wearily, you come to stop outside a small hovel. It looks like it has
+been built as a rest stop to provide a safe haven for travellers. The hovel
+sits off to the west of the main road here. The road itself stretches out
+to the north and east. The terrain to the east becomes dry and dusty,
+while you can see what appears to be a forest on the edge of the plains to
+the north.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m85V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:11 Exits:NE(W)> [0;37mn[0m
+Sprink flies in from the south.
+[36mOn a Road[0;37m
+    The road continues, snaking through the rocky wilderness. It makes a
+large curve to avoid a big boulder, jutting out from the surrounding hills.
+You have heard tales of bandits surviving off of travellers on the roadways
+of Krynn, and it occurs to you that this would be an excellent spot for an
+ambush. The road continues to the north and south.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m83V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:11 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mOn a Long Road[0;37m
+    The dense forest around you occasionally places obstacles in your path,
+you cannot help but trip and fall. Fortunately the soft cushion of dead
+leaves offers much help. Weak sounds of the hustle and bustle of town life
+can be heard from the north. The road continues to the south, it seems as
+if it could go on forever.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m81V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:11 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mThe Road to Solace[0;37m
+    The trees that line the route give a good indication of the ways to
+travel. To the north the huge vallenwood trees of Solace are visible,
+clearly marking the southern entrance to the town. The road to the south
+becomes wild and rocky as it leads through a wilder section of forest.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m79V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:10 Exits:NES> [0;37mn[0m
+Sprink flies in from the south.
+[36mThe Southern Gate of Solace[0;37m
+    This gate protects Solace from invaders from the south. Two huge
+vallenwoods stand on either side of the road and the gate is placed
+between them. The forest to the south looks much wilder and more dangerous
+than the forest that houses Solace. Southern Avenue leads north into
+Solace itself.
+[33m[1mA long torch functions as a street lamp here.
+A large notice demanding your attention is posted on the city gates.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+A Solace peacekeeper stands here, vigilantly guarding the town gates.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m78V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:10 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mSouthern Avenue[0;37m
+    The avenue leads north and south through the huge vallenwoods. The
+trees loom high above you. Their limbs form a canopy that protects you from
+the harsh outside world. The forest here teems with life. You notice a
+smaller road leading east into what appears to be a park.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m77V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:10 Exits:NES> [0;37mn[0m
+Sprink flies in from the south.
+[36mSouthern Avenue[0;37m
+    You are on a rather wide road. This avenue leads south and north
+through the town. To the north, you see buildings built up in the limbs of
+the huge vallenwoods. This view of Solace shows you how much the village
+depends on the ancient trees for life and sustenance. The avenue leads
+north and south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A long-tailed ground dove sits here on a low branch.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m76V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:10 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mThe Intersection[0;37m
+    You are at a huge intersection in the forest. Southern Avenue meets
+with Park Road and Forest Lane here. There is a small opening in the trees
+above that allows a view of the sky above. A small breeze blows through
+here and you inhale deeply. Southern Avenue leads north and south from the
+intersection, while Forest Lane leads off west and Park Road exits to the
+east.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+Sir Kantar uth MacKan walks slowly by, apparently noticing everything.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m75V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:9 Exits:NESW> [0;37mn[0m
+Sprink flies in from the south.
+[36mSouthern Avenue[0;37m
+    The avenue twists and turns among the huge vallenwoods. Sounds of life
+are all around you. Looking up, you see the sun peeking through the dense
+canopy of the forest. As you walk among the forest life, you feel safe and
+at ease. You see a large stone building to the east. The avenue continues
+to the north and south. A small sign is posted on the stone building.
+[33m[1mA few rose petals lie scattered around the area.
+A long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A lively young child freely romps around the area.
+An orange-breasted falcon is perched here while feasting on a prey.
+You sense that you are not alone.
+You sense that you are not alone.
+A merchant has erected a portable counter in the middle of the street here.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m74V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:9 Exits:NES> [0;37min[0m
+You are carrying:
+a scabbed potato
+a maiden's eyelash
+a corked flask of swamp gas
+chips of sun baked clay
+an iron skinning knife [4]
+a heavy iron flagon [2]
+a waterskin [4]
+a bowl of Otik's spiced potatoes [4]
+
+[32m[0;37m[32m143H [0;37m[33m[1m74V [0;37m281253X 29.60% 1429C [0;37mMem:1 T:8 Exits:NES> [0;37msell knife[0m
+[36mA wandering merchant tells you 'Here's 45 coins for that.'
+[0;37mA wandering merchant now has an iron skinning knife.
+
+[32m[0;37m[32m143H [0;37m[33m[1m74V [0;37m281253X 29.60% 1474C [0;37mMem:1 T:5 Exits:NES> [0;37msell knife[0m
+[36mA wandering merchant tells you 'Here's 45 coins for that.'
+[0;37mA wandering merchant now has an iron skinning knife.
+
+[32m[0;37m[32m143H [0;37m[33m[1m74V [0;37m281253X 29.60% 1519C [0;37mMem:1 T:4 Exits:NES> [0;37msell knife[0m
+[36mA wandering merchant tells you 'Here's 45 coins for that.'
+[0;37mA wandering merchant now has an iron skinning knife.
+
+[32m[0;37m[32m143H [0;37m[33m[1m74V [0;37m281253X 29.60% 1564C [0;37mMem:1 T:4 Exits:NES> [0;37msell knife[0m
+[36mA wandering merchant tells you 'Here's 45 coins for that.'
+[0;37mA wandering merchant now has an iron skinning knife.
+
+[32m[0;37m[32m143H [0;37m[33m[1m74V [0;37m281253X 29.60% 1609C [0;37mMem:1 T:4 Exits:NES> [0;37msell flagon[0m
+[36mA wandering merchant tells you 'Here's 90 coins for that.'
+[0;37mA wandering merchant now has a heavy iron flagon.
+
+[32m[0;37m[32m143H [0;37m[33m[1m74V [0;37m281253X 29.60% 1699C [0;37mMem:1 T:2 Exits:NES> [0;37msell flagon[0m
+[36mA wandering merchant tells you 'Here's 90 coins for that.'
+[0;37mA wandering merchant now has a heavy iron flagon.
+
+[32m[0;37m[32m143H [0;37m[33m[1m74V [0;37m281253X 29.60% 1789C [0;37mMem:1 T:1 Exits:NES> 
+Your studies complete, you close your spellbook with a smile.
+
+[32m[0;37m[32m143H [0;37m[33m[1m96V [0;37m281253X 29.60% 1789C [0;37mT:60 Exits:NES> [0;37mn[0m
+Sprink flies in from the south.
+[36mSouthern Avenue[0;37m
+    Southern Avenue is a road cut among the huge vallenwoods. It twists and
+turns between the giant trunks and beneath the thick green canopy of
+foliage above. From high in a vallenwood above you, you hear sounds of
+partying and singing. Looking up to investigate, you notice a tavern has
+been built into the huge limbs of the vallenwood. Unfortunately, there is
+no way up to the bar from here. The avenue also leads north and south into
+other parts of Solace.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+An old beggar hobbles along here looking for handouts.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m95V [0;37m281253X 29.60% 1789C [0;37mT:60 Exits:NS> [0;37mn[0m
+Sprink flies in from the south.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A janitor is walking around, cleaning up.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m94V [0;37m281253X 29.60% 1789C [0;37mT:59 Exits:NESWU> 
+Sprink fills a waterskin from the stone fountain.
+Sprink fills a waterskin from the stone fountain.
+Sprink fills a waterskin from the stone fountain.
+
+[32m[0;37m[32m143H [0;37m[33m[1m94V [0;37m281253X 29.60% 1789C [0;37mT:59 Exits:NESWU> 
+You can't put liquids in a headband adorned with eagle's feathers!
+You can't put liquids in some heavy red robes of the Conclave!
+You can't put liquids in a staff of carved wood!
+You can't put liquids in a scabbed potato!
+You can't put liquids in a maiden's eyelash!
+You can't put liquids in a corked flask of swamp gas!
+You can't put liquids in chips of sun baked clay!
+You fill a waterskin from the stone fountain.
+You fill a waterskin from the stone fountain.
+You fill a waterskin from the stone fountain.
+There is no room for more.
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+
+[32m[0;37m[32m143H [0;37m[33m[1m94V [0;37m281253X 29.60% 1789C [0;37mT:59 Exits:NESWU> [0;37mu[0m
+Sprink flies in from below.
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+A lovely young lady is excited by the array of activities around her.
+Aidan walks around here looking amazed with his surroundings.
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m93V [0;37m281253X 29.60% 1789C [0;37mT:59 Exits:NESWUD> [0;37mn[0m
+Sprink flies in from the south.
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m91V [0;37m281253X 29.60% 1789C [0;37mT:58 Exits:NES> [0;37me[0m
+The patrons pay you no heed and continue with their banter.
+Sprink flies in from the west.
+[36mThe Muddy Waters[0;37m
+    This is a small tavern but filled to the brim with rowdy customers that
+are both loud and drunk. Stale ale and bowls of musty broth are served by a
+couple of wenches, occasionally having to fend off a few wandering hands. A
+small fireplace lies in the north wall providing little light as most of
+the corners of the tavern are shrouded in darkness.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+Aldur A'Kul the master thief sits in a corner watching every movement.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m90V [0;37m281253X 29.60% 1789C [0;37mT:58 Exits:W> [0;37mw[0m
+Sprink flies in from the east.
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m89V [0;37m281253X 29.60% 1789C [0;37mT:56 Exits:NES> [0;37mn[0m
+A beautiful vallenwood leaf falls to the ground.
+Sprink flies in from the south.
+[36mOn a Vallenwood Bough[0;37m
+    The narrow bough comes to an end here. The new school of magic lies to
+the west, while strange chanting can be heard from the north. A hut built
+from sewn patches of animal skins stretched across the vallenwood branches
+lie to the east. A small grove can be seen at the base of the tree, as a
+small branch slopes gently down from here providing passage. Finally, the
+bough moves back toward the trunk to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m87V [0;37m281253X 29.60% 1789C [0;37mT:56 Exits:NESWD> [0;37mw[0m
+Sprink flies in from the east.
+[36mSolace School of Magic[0;37m
+    You are surrounded by what appears to be a combination of a library and
+classroom. The eastern wall contains a small wooden door, but the remainder
+of the wall is covered with shelves of books. All the books appear to be
+well maintained, despite some appearing to be quite old. Students of magic
+in robes of red, white and black sit in rows practicing their art. Small
+bolts of lightning dance around the tables, obviously part of the lessons
+for today.
+[33m[1mA magical sign floats in the air here...it glows dimly
+A chart of the moons is posted on the wall over in the far corner.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+Master Theobald wanders his school looking for troublemakers.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m86V [0;37m281253X 29.60% 1789C [0;37mT:56 Exits:E> 
+Theobald instructs you in the skill 'bludgeons'.
+Theobald instructs you in the skill 'concentration'.
+
+[32m[0;37m[32m143H [0;37m[33m[1m86V [0;37m281253X 29.60% 1789C [0;37mT:56 Exits:E> 
+[36mNimou shouts 'a polished red oak book for sale highest initial bid'
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m86V [0;37m281253X 29.60% 1789C [0;37mT:55 Exits:E> [0;37msc[0m
+You are Ronas the Male Silvanesti, a level 13 Red Robe.
+You are casting at level 13.
+You are rank 1. You have completed 29.60% of your next rank.
+You are 17 years old.
+You have 143(143) hit and 86(120) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 918,747 exp, and have 1789(0) steel coins.
+You need 281,253 more experience to advance.
+You have never died.
+You have been connected for 1 hour(s) and 34 minute(s).
+You have been playing for 0 day(s), 3 hour(s) and 31 minute(s).
+Your natural ability scores are:
+        Str: 11 Int: 22 Wis: 16 Dex: 18 Con: 13 Cha: 15
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    malnutrition
+
+[32m[0;37m[32m143H [0;37m[33m[1m86V [0;37m281253X 29.60% 1789C [0;37mT:54 Exits:E> [0;37mmem[0m
+Spells currently memorized:
+1: [ 1]blur                 [ 6]magic missile        [ 1]repose              
+2: [ 1]continual light      [ 5]invisibility         [ 1]strength            
+3: [ 2]fly                  [ 5]lightning bolt      
+4: [ 5]acid blast          
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-2
+
+[32m[0;37m[32m143H [0;37m[33m[1m86V [0;37m281253X 29.60% 1789C [0;37mT:52 Exits:E> [0;37mb[0m
+[0;37m[0m
+
+[32m[0;37m[32m143H [0;37m[33m[1m86V [0;37m281253X 29.60% 1789C [0;37mT:47 Exits:E> [0;37me[0m
+A beautiful vallenwood leaf falls to the ground.
+Sprink flies in from the west.
+[36mOn a Vallenwood Bough[0;37m
+    The narrow bough comes to an end here. The new school of magic lies to
+the west, while strange chanting can be heard from the north. A hut built
+from sewn patches of animal skins stretched across the vallenwood branches
+lie to the east. A small grove can be seen at the base of the tree, as a
+small branch slopes gently down from here providing passage. Finally, the
+bough moves back toward the trunk to the south.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m85V [0;37m281253X 29.60% 1789C [0;37mT:47 Exits:NESWD> [0;37ms[0m
+Sprink flies in from the north.
+[36mOn a Vallenwood Bough[0;37m
+    The sturdy bough leads north and south. To the west, thick foliage from
+the vallenwood tree hides whatever lies there giving you a sense of dark
+foreboding. To the east, a small rickety hut is built on the branch of the
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Solace peacekeeper is here making his rounds.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m83V [0;37m281253X 29.60% 1789C [0;37mT:47 Exits:NES> [0;37ms[0m
+Sprink flies in from the north.
+[36mOn a Vallenwood Tree Above Solace Square[0;37m
+    The sturdy boughs of this particularly huge vallenwood tree extend to
+both the north and south. Various structures have been built on the boughs,
+some rather haphazardly. It is a wonder that some of these structures have
+not fallen on someone's head below but this is what gives Solace its charm.
+A thick branch leads to the west, linking a canopy walk to a neighboring
+vallenwood tree.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A Solace peacekeeper stands here, holding the peace.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m81V [0;37m281253X 29.60% 1789C [0;37mT:47 Exits:NESWUD> [0;37md[0m
+Sprink flies in from above.
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+<WILD> Arkanis the Male Human is standing here. (flying)
+<WILD> Burlok the Male Hylar Dwarf is standing here. (flying) (invisible)
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m80V [0;37m281253X 29.60% 1789C [0;37mT:46 Exits:NESWU> 
+You can't put liquids in a headband adorned with eagle's feathers!
+You can't put liquids in some heavy red robes of the Conclave!
+You can't put liquids in a staff of carved wood!
+You can't put liquids in a scabbed potato!
+You can't put liquids in a maiden's eyelash!
+You can't put liquids in a corked flask of swamp gas!
+You can't put liquids in chips of sun baked clay!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+You can't put liquids in a bowl of Otik's spiced potatoes!
+
+[32m[0;37m[32m143H [0;37m[33m[1m80V [0;37m281253X 29.60% 1789C [0;37mT:46 Exits:NESWU> [0;37mn[0m
+Sprink flies in from the south.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A janitor is walking around, cleaning up.
+A man wrapped in a brown cloak wanders around the city of Solace.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m79V [0;37m281253X 29.60% 1789C [0;37mT:46 Exits:NSWU> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here.
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+An old beggar hobbles along here looking for handouts.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m78V [0;37m281253X 29.60% 1789C [0;37mT:46 Exits:NEU> [0;37mu[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+Sprink flies in from below.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A red-haired young lady is wiping down a table here.
+A small child plays with some colorful objects.
+Otik watches you calmly, while he skillfully mixes a drink.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m77V [0;37m281253X 29.60% 1789C [0;37mT:45 Exits:SWUD> [0;37mu[0m
+Sprink flies in from below.
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA small roll of bread lies here. [16]
+A mystic key lies here. [3]
+[0;37m[31m[1mSprink the Female Kender is standing here. (flying)
+A girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m143H [0;37m[33m[1m76V [0;37m281253X 29.60% 1789C [0;37mT:45 Exits:D> [0;37moffer[0m
+[33m[1ma headband adorned with eagle's feathers : 30 coins/day
+[0;37m[33m[1m some heavy red robes of the Conclave : 100 coins/day
+[0;37m[33m[1m               a staff of carved wood : 200 coins/day
+[0;37m[33m                     a scabbed potato : 1 coin/day
+[0;37m[33m                   a maiden's eyelash : 1 coin/day
+[0;37m[33m          a corked flask of swamp gas : 1 coin/day
+[0;37m[33m              chips of sun baked clay : 1 coin/day
+[0;37m[33m                      a waterskin [4] : 4 coins/day
+[0;37m[33m a bowl of Otik's spiced potatoes [4] : 4 coins/day
+[0;37mThe receptionist tells you 'You need at least 342 coins to rent.'
+The receptionist tells you 'You will be able to rent for 15 days.'
+
+[32m[0;37m[32m143H [0;37m[33m[1m76V [0;37m281253X 29.60% 1789C [0;37mT:44 Exits:D> [0;37mrent[0m
+[33m[1ma headband adorned with eagle's feathers : 30 coins/day
+[0;37m[33m[1m some heavy red robes of the Conclave : 100 coins/day
+[0;37m[33m[1m               a staff of carved wood : 200 coins/day
+[0;37m[33m                     a scabbed potato : 1 coin/day
+[0;37m[33m                   a maiden's eyelash : 1 coin/day
+[0;37m[33m          a corked flask of swamp gas : 1 coin/day
+[0;37m[33m              chips of sun baked clay : 1 coin/day
+[0;37m[33m                      a waterskin [4] : 4 coins/day
+[0;37m[33m a bowl of Otik's spiced potatoes [4] : 4 coins/day
+[0;37mThe receptionist tells you 'You need at least 342 coins to rent.'
+The receptionist tells you 'You will be able to rent for 15 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+You sink gently to the ground.
+Sprink stops following you.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: [0;37m0[0m
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

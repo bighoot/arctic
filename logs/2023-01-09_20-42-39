@@ -1,0 +1,130 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? lefty
+Password: 
+
+
+You were last connected Tue Jan 10 03:36:00 2023 UTC from 73.181.104.224.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 1
+You ran up charges of 35 steel in rent.
+The power of the armaboro spirit flows through you.
+
+Welcome to the land of Krynn.
+
+[36mThe Reception[0;37m
+    The reception contains a small desk. A long hall leads behind the desk
+here and you can tell this is where adventurers rest and take time off from
+their journeys. A small stairway goes down towards what appears to be a
+lively tavern.
+[33m[1mA small key made of steel and threaded with a leather thong lies here.
+[0;37m[31m[1mA girl twirls her hair in the Solace Tourist Information booth.
+A man wearing heavy armor is standing here.
+A receptionist sits here doing her nails.
+[0;37m
+[32m[0;37m[32m456H [0;37m[32m125V [0;37m3864533X 45.71% 1987C [0;37mT:5 Exits:D> sc
+You are Lefty Van Zandt, the Traveller, a level 27 Scout.
+You are rank 6. You have completed 45.71% of your next rank.
+You are 17 years old.
+You have 456(476) hit and 125(131) movement points.
+Your behaviour has been Neutral.
+You are traversing the path of the Ocean.
+You have scored 54,135,467 exp, and have 1987(27720) steel coins.
+You need 3,864,533 more experience to advance.
+You have died 6 horrible deaths.
+You have been connected for 0 minute(s).
+You have been playing for 1 day(s), 4 hour(s) and 57 minute(s).
+Your natural ability scores are:
+        Str: 25 Int: 14 Wis: 14 Dex: 14 Con: 17 Cha: 14
+You are currently not hunting.
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are standing.
+You are affected by the following:
+    Armaboro Spirit
+
+[32m[0;37m[32m456H [0;37m[32m125V [0;37m3864533X 45.71% 1987C [0;37mT:3 Exits:D> rent
+[33m[1m                  a carved stone seal : 50 coins/day
+[0;37m[33m[1m          an armaboro hide gorget [2] : 120 coins/day
+[0;37m[33m[1m             an armaboro hide cuirass : 60 coins/day
+[0;37m[33m[1m             a brass dragonscale helm : 300 coins/day
+[0;37m[33m[1m           some armaboro hide greaves : 60 coins/day
+[0;37m[33m[1m             some armaboro hide boots : 60 coins/day
+[0;37m[33m[1m         some armaboro hide gauntlets : 60 coins/day
+[0;37m[33m[1m         some armaboro hide vambraces : 60 coins/day
+[0;37m[33m[1m         a yeti skin sash of accuracy : 140 coins/day
+[0;37m[33m[1m      an armaboro hide wristguard [2] : 120 coins/day
+[0;37m[33m[1m                     a giant's hammer : 165 coins/day
+[0;37m[33m[1m          a sharpened elven longsword : 350 coins/day
+[0;37m[33m                  a wrist lantern [3] : 15 coins/day
+[0;37m[33m                 a small wooden chest : 1 coin/day
+[0;37m[32m            a magnificent thin rapier : 420 coins/day
+[0;37m[32m            a sticky spider silk whip : 480 coins/day
+[0;37m[33m       a glowing scroll of recall [3] : 45 coins/day
+[0;37m[33m           a glowing scroll of recall : 5 coins/day
+[0;37m[33m                         a camel pack : 20 coins/day
+[0;37mThe receptionist tells you 'You need at least 2531 coins to rent.'
+The receptionist tells you 'You will be able to rent for 35 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 0
+
+
+Thank you for playing.
+
+[0m#SESSION 'a' DIED.[0m

@@ -1,0 +1,19 @@
+Cleric Skills
+
+Weapons - blud(80), misc(70)
+
+Turn(90) - Affected by Cha, winning a contested Cha ability check helps your turn result, the formula is complicated but if you try to turn an enemy your level and you are a lawful cleric who wins the contested Cha check you still only succeed about 50% of them time, paladins only about 25% of the time, much easier to turn enemies lower level than you
+
+Divinity(90) - No stat modifiers, duration = skill / 18, applies (skill / 4) to concentration, applies (skill / 5) to mem_factor, applies (skill / 9) to mental_acuity, applies (skill / 50) to spell_saves, adds detect good/evil/undead
+
+Meditate(80) - No stat modifiers, duration = 1d4 + (level / 10), applies mem_factor of (skill / 5)
+
+Bandage(90) - No stat modifiers
+
+Brew(90) - No stat modifiers
+
+Scribe(80) - No stat modifiers
+
+*Amelioration(90) - Cooldown affected by Cha, need a 24 Cha to lower the cooldown from 6 ticks to 5 ticks, duration = 4, modifier = (skill / 5), casting a cure spell lowers the modifier by a certain amount and when the modifier reaches zero you lose the amelioration affect, cure critical lowers modifier by 7, cure serious lowers modifier by 3, cure light lowers modifier by 1
+
+*Rapture(90) - Cooldown affected by Cha, need a 24 Cha to lower the cooldown from 9 ticks to 8 ticks, duration = (skill / 20), modifier = (2 * skill), modifier is applied to damage_factor and spell_damage_factor, you can also mem in combat with the rest bonus

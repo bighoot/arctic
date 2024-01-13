@@ -1,0 +1,43 @@
+Thief Skills
+
+Weapons - l.blades(85), s.blades(95), piercers(95), blud(85), misc(90)
+
+Backstab(90) - No stat modifiers, 25% of successful backstabs (legendary removes this) apply awareness to the target which increases the difficulty of additional backstabs for 1-4 ticks, awareness adds 16% or 33% more difficulty to a backstab depending on the targets (dex + int), Watchful Eye lowers your skill by 25, Danger Sense + Shield Block can negate backstab altogether, backstab adds 15 * skill to your critical_score (legendary adds 30 * skill), backstab target does not get a Dex bonus to AC, legendary adds 10% damage
+
+Sneak(90) - No stat modifiers, the farther you travel the higher your learn chance becomes, backtracking does not help, it takes 25 rooms to hit 50% learn chance
+
+Hide(90) - No stat modifiers, the more people who pass through the room the higher your learn chance becomes, it takes 14 people to hit 50% learn chance
+
+Pick(90) - No stat modifiers, hard_pick divides your skill by 3, legendary pick can occur during combat and adds +3dam for 3 rounds
+
+Steal(90) - No stat modifiers, if target is affected by Case your steal coins success chance gets easier by (case_skill / 5), the amount of gold stolen is randomly 1-10%
+
+Dodge(90) - Affected by Dex, dodge chance = ((skill * 20) + (dex * 20)) / 100, legendary adds 20%, legendary can also dodge targetted skills or spells (22% success chance)
+
+Case(80) - No stat modifiers, when you fail on an NPC you have to make a WIS check or be marked aggressive, greatly increases your crit chance against that target for a duration of 4, casing a victim also helps against their Danger Sense
+-
+Plant(90) - No stat modifiers
+
+Throat Punch(90) - No stat modifiers, max damage = (5d9) + 3, duration = 2, applies extra_attack_chance of (skill / 3) + 10 to the thief, approx 33% chance to apply silence to the victim, if unbalanced the silence chance is closer to 50%
+
+Envenom(70) - No stat modifiers, success chance = (skill + level), damage is random between your max_skill and skill / 2, legend adds 25 more damage
+
+Detect(90) - No stat modifiers
+
+Disable(90) - No stat modifiers
+
+Bandage(50) - No stat modifiers
+
+Unbalance(90) - No stat modifiers, target gets a petri_save to avoid being stumbled, adds stumble_chance, bash_mod, and dodge chance penalties to the target
+
+Fade(90) - No stat modifiers, makes sneak and hide checks, legendary automatically succeeds the sneak and hide
+
+Coup(80) - No stat modifiers, chance = skill but capped at 20 so only 20% chance max, cooldown = 10 (8 if legendary), damage = 2d7 (2d(skill / 5) if legendary), duration = skill / 20, applies the susceptible affect, legendary also applies -3 physical_damage_reduction
+
+Evade(80) - No stat modifiers, unbalance cuts your skill in half, fighting also lowers your chance quite a bit, evade is triggered by: Freeze, Nightmare, Malevolent Tentacles, Sunray, Holy Word, Wave of Terror, Lightning Storm, Ice Storm, Entangle, Cloud spells, Fireball, Prismatic Spray, Color Spray, Power Word Stun, Glitterdust, Cold Snap, Blastwave, Breath Weapons, Traps, and Auraks exploding
+
+*Retaliate(90) - No stat modifiers, cooldown = 16, duration = 1 + (skill / 16)
+
+*Adrenaline Rush(90) - No stat modifiers, using this while hasted causes instant death, need at least 25 mvs left to initiate, cooldown = 14, duration = skill / 16, bash_mod = -(skill / 45), grants the Haste affect
+-
+There is also special code in the thief skills to deny skill increases if you are colluding with another character. It compares the email addresses, domains, and login times of the other characters and you get no skill increases if it is determined the characters may be working together.

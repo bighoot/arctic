@@ -1,0 +1,554 @@
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE DECEMBER 2, 2022 ***        |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? maui
+Password: 
+
+
+
+You were last connected Thu Jan 12 20:01:26 2023 UTC from 73.181.104.224.
+Reconnecting.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:3 Exits:NESWU> startb
+[0m#TRYING TO CONNECT 'b' TO 'mud.arctic.org' PORT '2700'.[0m
+
+Psof closes his prayerbook with a content look on his face.
+The cloud-veiled sky becomes even darker as the sun sets.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Someone utters the words, 'bless'.
+Someone shines with a holy light.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+Oukos now follows Giourgia.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:59 Exits:NESWU> 
+[37mYour clanmate Sprink has entered the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:51 Exits:NESWU> 
+Tyrion flies north.
+Arkaine flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:49 Exits:NESWU> [0;37mboth sta[0m
+You are already standing.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:48 Exits:NESWU> 
+Tyrion flies in from the north.
+Arkaine flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:48 Exits:NESWU> 
+Tyrion flies south.
+Arkaine flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:NESWU> [0;37mboth drink all.water[0m
+You drink the water.
+You do not feel thirsty.
+Your stomach can't contain anymore!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:46 Exits:NESWU> [0;37mboth eat bread[0m
+You can't seem to find it!
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:43 Exits:NESWU> [0;37mb sc[0m
+[0;37msc[0m
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 12. You have completed 95.85% of your next rank.
+You are 19 years old.
+You have 441(441) hit and 132(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 1520(11472) steel coins.
+You have 1 rank point to spend.
+You have died 1 horrible death.
+You have been connected for 4 hour(s) and 53 minute(s).
+You have been playing for 4 day(s), 4 hour(s) and 20 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are watching Sprink.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:39 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Zam stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1m<BST> Giourgia, Stapa Liourgia is standing here. (flying)
+<BST> Psof the Unpsof, Black Maza Spirit is standing here. (flying) (black aura)
+You see the outline of a life form here, carrying: a glowing scroll of recall; a glowing scroll of recall; a glowing scroll of
+recall.
+<BST> Onasou Gamiso, Maza Screaming Instinct is standing here. (flying)
+. . . emits an eerie glow.
+You see the outline of a life form here, carrying: the sceptre of Sirrion; a bright ball of light; a glowing scroll of recall; a
+glowing scroll of recall; a glowing scroll of recall; a glowing scroll of recall; a glowing scroll of recall.
+You sense that you are not alone.
+<Myth> Sprink Uls is standing here. (flying)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+You fill a waterskin from the stone fountain.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:37 Exits:NESWU> [0;37mb[0m
+
+Sprink flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:36 Exits:NESWU> 
+Sprink flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:34 Exits:NESWU> 
+Sprink fills a waterskin from the stone fountain.
+Sprink fills a waterskin from the stone fountain.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:34 Exits:NESWU> 
+A long-tailed ground dove lands quietly on a branch nearby.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:32 Exits:NESWU> 
+Oukos flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:31 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:28 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Zam stands here in a victory pose.
+A long torch functions as a street lamp here.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mYou sense that you are not alone.
+A long-tailed ground dove sits here on a low branch.
+You sense that you are not alone.
+<Myth> Sprink Uls is standing here. (flying)
+<BST> Giourgia, Stapa Liourgia is standing here. (flying)
+<BST> Psof the Unpsof, Black Maza Spirit is standing here. (flying) (black aura)
+You see the outline of a life form here, carrying: a glowing scroll of recall; a glowing scroll of recall; a glowing scroll of
+recall.
+<BST> Onasou Gamiso, Maza Screaming Instinct is standing here. (flying)
+. . . emits an eerie glow.
+You see the outline of a life form here, carrying: the sceptre of Sirrion; a bright ball of light; a glowing scroll of recall; a
+glowing scroll of recall; a glowing scroll of recall; a glowing scroll of recall; a glowing scroll of recall.
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:28 Exits:NESWU> 
+Pousoidis flies in from above.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:28 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:28 Exits:NESWU> 
+Pousoidis flies up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:25 Exits:NESWU> 
+Nimou stops using a translucent feathered headband.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:9 Exits:NESWU> 
+Oukos drops a smooth river pebble.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:9 Exits:NESWU> 
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:6 Exits:NESWU> 
+Nimou beckons secretively to Oukos.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:2 Exits:NESWU> 
+Oukos flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:2 Exits:NESWU> 
+Nimou closes her prayerbook with a content look on her face.
+The darkness marks the end of another day.
+With the setting of the sun, the torch starts to glow lighting the
+surrounding area.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESWU> 
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:60 Exits:NESWU> 
+A long-tailed ground dove stretches its wings and flies south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:56 Exits:NESWU> [0;37mb[0m
+
+[37mYour clanmate Viq has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [**Sprink:[0;37m[32mPerfect[0;37m**] [0;37mT:44 Exits:NESWU> 
+The janitor arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:43 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Zam stands here in a victory pose.
+A long torch functions as a street lamp here...it glows dimly
+A small stone with swirls of browns and blacks glistens in the light.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA janitor is walking around, cleaning up. (white aura)
+You sense that you are not alone.
+You sense that you are not alone.
+<BST> Giourgia, Stapa Liourgia is standing here. (flying)
+<BST> Psof the Unpsof, Black Maza Spirit is standing here. (flying) (black aura)
+You see the outline of a life form here, carrying: a glowing scroll of recall; a glowing scroll of recall; a glowing scroll of
+recall.
+<BST> Onasou Gamiso, Maza Screaming Instinct is standing here. (flying)
+. . . emits an eerie glow.
+<BST> Nimou Naki, Flaming Maza Spirit is standing here. (flying)
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> 
+The janitor leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+Giourgia flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:26 Exits:NESWU> 
+[37mYour clanmate Pliq has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:16 Exits:NESWU> 
+Sir Kantar uth MacKan marches in from the north and looks you over.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:12 Exits:NESWU> 
+The beggar arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:10 Exits:NESWU> 
+Giourgia flies in from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:6 Exits:NESWU> 
+The beggar leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:4 Exits:NESWU> 
+Oukos quaffs a milky potion of see invisible.
+Oukos rubs his eyes and looks about himself with clarity.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:2 Exits:NESWU> 
+[37mThe clouds block your view of Solinari.
+[31mThe clouds block your view of Lunitari.
+[34mThe clouds block your view of Nuitari.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Solace peacekeeper leaves west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Onasou falls into a trance and begins moaning.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Nimou whispers words toward the heavens.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+Oukos stops following Giourgia.
+Oukos now follows Nimou.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:57 Exits:NESWU> 
+Nimou wears a translucent feathered headband on her head.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:56 Exits:NESWU> 
+Giourgia flies north.
+Onasou flies north.
+Meraklis flies north.
+Psof flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:50 Exits:NESWU> 
+A Solace peacekeeper arrives from the west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> 
+Sir Kantar uth MacKan dips some water out of the fountain with his hands.
+A Solace peacekeeper leaves south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:42 Exits:NESWU> 
+The beggar arrives from the east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> 
+Sir Kantar uth MacKan says 'I don't see how people can drink from fountains, you never know what someone might have poured into it.'
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:35 Exits:NESWU> 
+Sir Kantar uth MacKan utters some strange words.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:NESWU> 
+Sir Kantar uth MacKan marches off west.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:5 Exits:NESWU> 
+A Solace peacekeeper arrives from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:60 Exits:NESWU> 
+A Solace peacekeeper leaves north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:54 Exits:NESWU> 
+A Solace peacekeeper arrives from the north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:48 Exits:NESWU> [0;37mb[0m
+
+The beggar leaves east.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:40 Exits:NESWU> [0;37m[0m
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> [0;37ml[0m
+[36mSolace Square[0;37m
+    Solace Square is a large clearing that is surrounded on all sides by
+huge vallenwood trees. These trees stretch far above the ground and their
+limbs provide cover and shelter to the inhabitants of Solace. The clearing
+here rises slightly towards the center of the square, providing a high spot
+in the center. Small roads have been cut into the dense forest to the
+north, south, east, and west. On one edge of the square, there is a huge
+vallenwood which bough supports a collection of huts and buildings. A
+small spiral staircase leads up around the trunk of the tree and into the
+thick limbs which house the buildings.
+[33m[1mA glorious statue of Zam stands here in a victory pose.
+A long torch functions as a street lamp here...it glows dimly
+A small stone with swirls of browns and blacks glistens in the light.
+A large fountain sits in the middle of the road, taking up space.
+[0;37m[31m[1mA Solace peacekeeper is here making his rounds.
+You sense that you are not alone.
+You sense that you are not alone.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:38 Exits:NESWU> 
+You can't put liquids in a bishop's moonstone engraved seal!
+You can't put liquids in a priestly amethyst encrusted ring!
+You can't put liquids in a celestial spiderweb collar!
+You can't put liquids in a black and gold cape!
+You can't put liquids in a devotee's chasuble of worship!
+You can't put liquids in a flawless onyx diadem of fanaticism!
+You can't put liquids in some inscribed leggings of worship!
+You can't put liquids in a pair of dwarven mason's gloves!
+You can't put liquids in some sacred armwraps of sacrifice!
+You can't put liquids in an iron dwarven girdle!
+You can't put liquids in a pouch of goose feathers!
+You can't put liquids in a fiery red austere bracer!
+You can't put liquids in an enormous scorched maul!
+You can't put liquids in the scroll of ancient power!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a glowing scroll of recall!
+You can't put liquids in a pinch of powdered malachite!
+You can't put liquids in a small diamond dagger!
+You can't put liquids in a small wooden chest!
+You can't put liquids in a sprig of pine!
+There is no room for more.
+There is no room for more.
+There is no room for more.
+There is no room for more.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:37 Exits:NESWU> 
+A Solace peacekeeper leaves up.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> [0;37msc[0m
+You are Maui, Master of the Wind and the Sea, a level 30 Cleric.
+You are a Clansman in Myth.
+You are rank 12. You have completed 95.85% of your next rank.
+You are 19 years old.
+You have 441(441) hit and 132(132) movement points.
+Your behaviour has been Evil.
+You have scored 179,999,999 exp, and have 1520(11472) steel coins.
+You have 1 rank point to spend.
+You have died 1 horrible death.
+You have been connected for 4 hour(s) and 56 minute(s).
+You have been playing for 4 day(s), 4 hour(s) and 23 minute(s).
+Your natural ability scores are:
+        Str: 21 Int: 15 Wis: 17 Dex: 11 Con: 17 Cha: 14
+Your equipment is currently not being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are watching someone.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:30 Exits:NESWU> 
+Joker flies in from the south.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> 
+Joker flies north.
+
+[32m[0;37m[32m441H [0;37m[32m132V [0;37m1X 95.85% 1520C [0;37mT:29 Exits:NESWU> [0;37mn[0m
+Sprink flies in from the south.
+[36mNorthern Avenue[0;37m
+    You are on Northern Avenue. The road twists and turns here, cutting
+through the dense vallenwood forest. High overhead, the limbs mesh to form
+a thick green canopy. The avenue continues north, while you see and hear
+Solace Square to the south. A small clearing opens to the west. Looking
+east, you see a large vallenwood that has a building nestled among its
+strong limbs. A small stairway spirals down around the trunk, ending at the
+edge of the road. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mYou sense that you are not alone.
+Joker the Gangster of Love is standing here. (flying)
+An old beggar hobbles along here looking for handouts.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m131V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NSWU> [0;37mw[0m
+Sprink flies in from the east.
+[36mA Small Side Street[0;37m
+    You stand before the largest vallenwood you have ever seen. It towers
+up above the rest of the huge vallenwoods and appears to touch the clouds
+above. When you look up into the vallenwood, you see an extravagantly
+decorated tavern that has been built in and among the limbs of the tree.
+The clearing stretches on towards the north and you see Northern Avenue to
+the east. A spiral stairway winds down from the tavern above, reaching the
+ground a short distance away. A small sign is posted next to the stairway.
+[33m[1mA long torch functions as a street lamp here...it glows dimly
+[0;37m[31m[1mYou sense that you are not alone.
+A medium sized horse is here, awaiting a rider.
+A medium sized horse is here, awaiting a rider.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m130V [0;37m1X 95.85% 1520C [0;37mT:25 Exits:NEU> [0;37mu[0m
+The wonderful smell of spiced potatoes makes your stomach rumble.
+Sprink flies in from below.
+[36mThe Inn of the Last Home[0;37m
+    The Inn of the Last Home is a cozy tavern. The smells of rich food and
+the sounds of merry music overflow your senses. A huge fireplace dominates
+one wall and a warm glow emanates from its flames. Small tables fill the
+room. A stairway leads up, further into the tree, while another stairway
+leads down to the forest below.
+[33m[1m[0;37m[31m[1mYou sense that you are not alone.
+A small child plays with some colorful objects. (white aura)
+Otik watches you calmly, while he skillfully mixes a drink. (white aura)
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 95.85% 1520C [0;37mT:24 Exits:SWUD> [0;37mb[0m
+
+Otik says 'Try the spiced potatoes, you will love them!'
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 95.85% 1520C [0;37mT:20 Exits:SWUD> 
+Sprink flies up.
+
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 95.85% 1520C [0;37mT:18 Exits:SWUD> 
+Sprink stops following you.
+You stop watching Sprink.
+[37mYour clanmate Sprink has left the game.
+[0;37m
+[32m[0;37m[32m441H [0;37m[32m129V [0;37m1X 95.85% 1520C [0;37mT:11 Exits:SWUD> [0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You need at least 2037 coins to rent.'[0m
+[0m[1;34;49mPRIVATE MESSAGE FROM The receptionist: 'You will be able to rent for 24 days.'[0m
+[0m#SESSION 'a' ACTIVATED.[0m
+[0;37mstarta[0m
+[0m#THERE'S A SESSION WITH THAT NAME ALREADY.[0m

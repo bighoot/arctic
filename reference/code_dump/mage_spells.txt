@@ -1,0 +1,336 @@
+!!!SPOILERS AHEAD!!! If you don't want to see any game info, do not read past this point. Below is information from the game files. Please do not copy and paste this info into another public forum. It would be obvious where the info comes from if you passed it on in this format. Feel free to give your other friends hints though.
+
+I might make this read_only in the future but I suspect there will be comments and questions so I'll leave it open for now.
+
+The numbers under each mob are: vnum - identifies the mob, spell table - which I conveniently pasted at the top of each tier, load chance - this is out of 10000 so 2200 = 22%, and load_type - EQ means its held, INV in inventory, etc.
+#
+#########################################
+#---------- MAGE SPELL LOADS ------------
+#########################################
+# Table 800
+12000 18 Chaos/Confus/Glit - copper charms
+12001 16 Pain/FB/A-Spear - tightly bound
+12002 18 Loc/Loc/Loc - leather tome pitted 
+12003 18 CM/CM/Knock - old water-stained
+12004 18 ZD/Feeb/Epiphany - crimson red
+12005 12 Wreck/MI/Flare - polished red oak
+#########################################
+# Black Robed Mage - Pal Library
+22425 800 1500 EQ
+# Matthias - Thane's Mansion
+31850 800 1500 EQ
+# Black Robed Man Zeeriak - Icewall II
+32211 800 1500 EQ
+# Theissa - Hjors
+23908 800 1500 INV
+# Tultuk - The Lost Mine
+21530 800 1500 EQ
+# Corak - Crytic
+22308 800 1500 EQ
+# Pedestal - Aghar
+9994 800 1700 IN
+# Zrael's Desk - Zrael's Farm
+20918 800 1700 IN
+# Sheana - Nevermind
+8900 800 1700 EQ
+# Caristnah - Zonelets
+44718 800 1700 EQ
+# Asha - Kalaman Training Ground
+22129 800 1700 EQ
+# Jendikor - Solamnic Outpost
+22714 800 1700 EQ
+# Kitsch - The Bog
+707 800 1700 DEATH
+# Tatiana - Illyoc
+32102 800 1700 DEATH
+#
+#########################################
+# Table 801
+12006 23 Pain/FB/A-Spear - tightly bound
+12007 22 Loc/Loc/Loc - leather tome pitted
+12008 7 T Orb/Spheres/W Eye - frosted glass
+12009 24 M Mangle/ID/Epiph - green dragonhide
+12010 24 Wreck/MI/Flare - polished red oak
+#########################################
+# Drunken Mage - Balifor Docks
+3110 801 1300 DEATH
+# Surlon - Thieves Way
+25733 801 1500 EQ
+# Gal'Vari - Gal'Vari's Isle
+33599 801 2000 EQ
+# black roged mage - Sinia
+40720 801 2000 EQ
+# Lizza - Garret
+46513 801 2100 DEATH
+# Darvar - Ruined City
+31701 801 1900 DEATH
+# Archmage - Theiwar
+1770 801 1300 DEATH
+# Ansabar - Slaith Swamp
+5822 801 1400 DEATH
+# imp Baytor - Araton
+45629 801 2100 EQ
+# Moultar - Gargeth Keep
+1905 801 1465 INV
+# Tarothin - Tirabot
+20430 801 1935 INV
+# Sh'iar - Bay of Balifor
+32710 801 2132 EQ
+# Ancient White Dragon - Largus 2
+7815 801 2000 EQ
+#
+#########################################
+# Table 802 - a book with frosted glass covers
+12011 24 Tene Orb/Spheres/Watch Eye
+12012 23 Acid Burn/Relo/Fold Space
+12013 23 S Field/Displace/Scorch
+12014 23 Black Rune/AMS/White Rune
+12015 7 Devastation/L Shield/C Spray
+#########################################
+# Jehnzan Cahprei - Kharolis
+30993 802 2015 DEATH
+# Nightlord - DK
+32902 802 1976 DEATH
+# Surrey3 - Falstaff Manor
+61135 802 2000 EQ
+# Mordred - Draconian Tower
+20814 802 2166 EQ
+# Korquet - The Lost Village z324
+32412 802 1701 DEATH
+# Mindflayer - Theiwar
+1766 802 1759 DEATH
+# Astinus - Pal Library
+22412 802 1072 DEATH
+# Cabre Tohz - z2
+202 802 900 EQ
+#
+#########################################
+# Table 803 - a timeworn book bound with chains
+12016 24 Vit Shield/L Shield/F Shield
+12017 24 Flesh Shield/Sho Blast/A Lash
+12018 24 A Tunnel/A Beacon/Jinx
+12019 6 E Drain/Read Magic/Cleanse
+12020 22 Mind Control/Clair/Moment
+#########################################
+# Elder Mystic - Forest Shrine
+32816 803 1879 EQ
+# Extraplanar Demon - Ancient Labyrinth
+51514 803 1800 DEATH
+# Caldean - Shadow
+35526 803 1950 INV
+35537 803 1950 INV
+# Quock - Mystic
+20096 803 1250 EQ
+# Htoll - Dragonarmy Isles
+27703 803 1850 DEATH
+# Tesiak - Forgotten Temple
+37228 803 1800 DEATH
+# black metal chest - Dragonarmy Training z249
+24915 803 2500 IN
+# Balcombe - Balcombes Lair
+36621 803 1974 INV
+#
+##########################################
+# Table 804 - a tightly bound tome of magic
+12021 28 Mal Tent/Chain L/Sublimation
+12022 8 Youth/Minor Globe/Relo
+12023 28 E Drain/Wiz Eye/Arcane Lash
+12024 18 Devastation/F Miss/Preservation
+12025 18 Corrode/Scry/Ignite
+#########################################
+# Tenlo - Flying Citadel
+2760 804 2100 DEATH
+# Spirit of the master - Ancient Labyrinth
+51582 804 1800 DEATH
+# bolted chest - Great Western Ocean
+6130 804 1519 IN
+# Morathian - Deep Mine z320
+32088 804 2100 DEATH
+# Lord Noom - Storms z225
+22567 804 2100 INV
+# Stack of Books - Lunitari II
+28681 804 1700 IN
+# red crate - Sanction
+29184 804 2327 IN
+# Terzak - Terzak's Tower
+36900 804 2400 EQ
+# Sarson - Balifor Seas
+32720 804 1800 DEATH
+# Aquironian - Dargonesti
+21816 804 1750 EQ
+#
+#########################################
+# Table 805 - ivory spine spellbook
+12026 25 Mass Hysteria/Read Magic/Castigate
+12027 13 Rend/Peek/Preservation
+12028 25 Youth/Blink/Ignite
+12029 25 Corrode/F Miss/Relo
+12030 12 Stasis/Mass Tele/Juke
+#########################################
+# Shalzan - Celestial Valley
+41523 805 2150 DEATH
+# Feisal - Pax z266
+26707 805 1400 INV
+# Physix m42940 - Caergoth Bay
+42940 805 2200 DEATH
+# Galan Dracos - Citadel of Dracos
+40130 805 2200 DEATH
+# Xanitha - Castle Uth Wistan
+21052 805 2370 INV
+# Xeg-yi chest - Red Dragonarmy Refuge
+26513 805 2100 IN
+#
+#########################################
+# Table 806 - a book with frosted glass covers
+12031 7 C Heart/Mirror/Slumber
+12032 25 Rend/Sho Blast/Juke
+12033 18 Relo/Peek/Cleanse
+12034 25 Stasis/M Tele/E Dome
+12035 25 C Graft/M Globe/A Shell
+#########################################
+# Fiddleplantangent's Bookshelf - Land of Umber Hulks
+33652 806 2300 IN
+# Ieronimos' Chest - z317 - Ieronimos Quest
+# Requires alchemy mastery
+15122 806 2000 IN
+# Anatlab - Silvanesti
+37432 806 1200 INV
+# Ochre - Mound
+31590 806 2405 EQ
+# Finale the Ancient - Ravenshadow Keep z363
+36300 806 3500 DEATH
+#
+#########################################
+# Table 807 - a green dragohide spellbook
+12036 20 Relo/Mirror/Sphere of I
+12037 20 C Heart/T Bolt/Shards of A
+12038 20 A Mist/S Trap/Slumber
+12593 20 S Wrap/Wall of F/Del Bla Fire
+12592 20 Sinister/Ast Port/Mind Afire
+#########################################
+# Dalgrin - z423
+42418 807 1950 EQ
+# Chartreuse - z45
+4505 807 2800 DEATH
+# Latanth - z210 Uth Wistan II
+21000 807 1200 DEATH
+# Mystic Vault Coffin -z200 Mystic Isles
+20038 807 1500 IN
+#
+#########################################
+# Table 808 - ???
+12036 20 Relo/Mirror/Sphere of I
+12037 20 C Heart/T Bolt/Shards of A
+12038 20 A Mist/S Trap/Slumber
+12120 20 Shadow W/Astral Portal/M Afire
+12041 20 Siphon/W o F/Globe
+#########################################
+# Void Beast - Lunitari II
+# This is a spec load in the death spec on mob 28679.
+#
+# Feal-thas - z73
+7397 808 2400 IN
+#
+# Aegis - z354 Isle of Shadows
+35515 808 1600 DEATH
+#
+########################################
+# Cyan Blazewight and Mage Quest
+########################################
+# Blazewight - z470
+# Loaded on Blazewight m47394 via death spec table 816
+12573 16 Prism
+12574 16 Blast
+12575 16 Nightmare
+12570 9 PWS
+12571 9 PWS
+12572 9 PWS
+13016 8 Omen
+12980 8 Sunray
+13280 9 Lightning Storm
+#
+# Gorbezu Malacoda - z170 mage quest
+# Loaded on Gorbezu m17013 via loadeq spec
+#
+########################################
+# Cyan Bloodbane - Silvanesti
+########################################
+# This is a spec load on obj 37451 for table 830
+12573 13 Prism
+12574 13 Blast
+12575 13 Nightmare
+12570 13 PWS
+12571 13 PWS
+12572 13 PWS
+18125 7 Omen
+12980 8 Sunray
+12656 4 Healing Cloud
+12652 3 Lightning Storm
+#
+########################################
+# TABLE 813 - Chaos Table
+12561 33 Nightm/BlastW/Prism
+12560 33 Siphon/WoF/Globe
+12559 33 Sinis/Aportal/MindAfire
+12558 33 Pws/Pws/Pws
+12557 33 AMist/SpTrap/Slumb
+12556 33 CHeart/ThundB/Shards
+12555 33 Relo/Mirr/SphereoI
+12554 33 CGraft/MinGlo/ArcShell
+12553 33 Stasis/MassTele/EnigDo
+12552 33 Relo/Peek/Cleanse
+12551 33 Rend/ShocBlast/Juke
+12550 33 CHeart/Mirror/Slumber
+12549 33 Stasis/MasTel/Juke
+12548 33 Corrode/FMissile/Relo
+12547 33 Youth/Blink/Ignite
+12546 33 MHysteria/Read/Castig
+12545 33 Rend/Peek/Cspray
+12544 33 Corrode/DetScry/Ignte
+12543 33 Devast/Fmissile/Preser
+12542 33 Edrain/WizEye/Arclash
+12541 33 Youth/MinGlobe/Relo
+########################################
+# Avatar of Lunitari - Lunitari
+28677 813 200 DEATH
+# Glitarald - Castle uth Wistan
+20306 813 200 DEATH
+# Ynedd - Ravenshadow Expansion
+36457 813 200 DEATH
+# Lady Rayne - Rayne's Mansion
+37001 813 200 DEATH
+# Koracla - HCT
+33863 813 200 DEATH
+33860 813 200 DEATH
+# Fidlas - Dargaard Keep
+#3461 813 200 DEATH - 2020-05-16 chosen chaos load
+3461 813 3500 DEATH
+# King Lorac - Silvanesti
+3743 813 200 DEATH
+# Sagarassi - Blood Shoal
+47319 813 200 DEATH
+#Kinin - Celestial Valley
+41421 813 200 DEATH
+# Argentine - Vingaard Keep
+42731 813 200 DEATH
+# Caldean - Isle of Shadows
+35526 813 200 DEATH
+35537 813 200 DEATH
+# Emperor Nephatek - Deserts of Khur
+26175 813 200 DEATH
+# Egreckl - River Zone West
+24850 813 200 DEATH
+# Frayal Gumbelportin - Hylo
+42295 813 200 DEATH
+# Galazor - His zone
+1622 813 100 DEATH
+# Cabre Tohz - World
+202 813 200 DEATH
+# Illusionist - Mushroom Forest
+38799 813 200 DEATH
+# Terzak - Terzak's Tower
+36900 813 200 DEATH
+# Lord Kaligath - Ancient Keep
+3727 813 200 DEATH
+# Risol - Nytes
+26545 813 200 DEATH
