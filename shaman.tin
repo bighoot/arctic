@@ -23,3 +23,5 @@
 #alias ab {cast 'an bl';}
 #alias sl {cast 'so le' %0;}
 #alias oas {order all.spirit %0;}
+
+#alias spi {cast 'spi gui'}
